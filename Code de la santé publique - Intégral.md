@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1967-01-04
+Version Consolidée au 1967-06-06
 
 # Partie législative ancienne
 
@@ -21950,42 +21950,6 @@ d'exploitation de ces établissements.
 	**Cite**:
 
 	  - Code des pensions militaires d'invalidité et des victimes de la guerre 115
-
-
-##### Section 2 : Agrément pour les institutions de la sécurité sociale.
-
-###### Article L623
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°45-0179 du 29 décembre 1945 - art. 13 bis (Ab)
-	  - Décret n°45-0179 du 29 décembre 1945 - art. 13 ter (V)
-	  - Code de la santé publique - art. L662-1 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L624
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L662-1 (Ab)
 
 
 ##### Section 3 : Dispositions communes.
