@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-03-18
+Version Consolidée au 1992-03-27
 
 # Partie législative ancienne
 
@@ -64712,6 +64712,92 @@ l'article L. 601.
 
 ### Titre 1 : Etablissements de santé
 
+#### Chapitre 1 : Missions et obligations des établissements de santé
+
+##### Section 2 : Dispositions propres au service public hospitalier
+
+###### Article R711-6-1
+
+Toute modification de la liste des centres hospitaliers régionaux fixée par le décret mentionné au deuxième alinéa de
+l'article L. 711-6 intervient après avis du conseil d'administration, de la commission médicale d'établissement et du comité
+technique d'établissement de l'établissement concerné, du comité régional d'organisation sanitaire et sociale de la région où
+est situé le siège de cet établissement et du Comité national d'organisation sanitaire et sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 1 () JORF 27 mars 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L711-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-14 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R712-13 (Ab)
+
+
+###### Article R711-6-2
+
+Dans chaque région sanitaire, le préfet de région fixe, après avis du comité régional de l'organisation sanitaire et sociale,
+la liste des établissements publics de santé qui relèvent de la catégorie des hôpitaux locaux mentionnés au quatrième alinéa
+de l'article L. 711-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 1 () JORF 27 mars 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L711-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-17 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R712-13 (Ab)
+
+
+###### Article R711-6-3
+
+Les établissements publics de santé qui ne figurent ni sur la liste des centres hospitaliers régionaux ni sur les listes
+d'hôpitaux locaux sont des centres hospitaliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 1 () JORF 27 mars 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-16 (V)
+
+
 #### Chapitre 2 : L'organisation et l'équipement sanitaires
 
 ##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire
@@ -67098,6 +67184,907 @@ l'établissement qu'ils représentent.
 	**Anciens textes**:
 
 	  - Code de la santé publique - art. R713-14 (T)
+
+
+#### Chapitre 4 : Les établissements publics de santé
+
+##### Section 1 : Organisation administrative et financière
+
+###### Article R714-1-1
+
+Sans préjudice de l'application des dispositions de l'article L. 712-8 :
+
+a) Les établissements publics de santé nationaux sont créés par décret après avis du Comité national de l'organisation
+sanitaire et sociale ;
+
+b) Les établissements publics de santé communaux, intercommunaux, départementaux et interdépartementaux sont créés par arrêté
+du préfet de la région où est situé la siège de l'établissement, sur la demande ou après avis de la ou des collectivités
+territoriales de rattachement et après avis du comité régional de l'organisation sanitaire et sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cité par**:
+
+	  - Décret n°95-235 du 2 mars 1995 - art. 3 (Ab)
+	  - Code de la santé publique - art. R714-1-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-10 (V)
+
+
+###### Article R714-1-2
+
+La transformation d'un ou plusieurs établissements publics de santé s'entend soit de son ou de leur rattachement à une ou
+plusieurs collectivités territoriales différentes de la ou des collectivités territoriales d'origine, soit de leur fusion.
+
+Elle est décidée par arrêté du préfet de la région où est situé le siège de l'établissement qui en est issu, après avis du
+conseil d'administration du ou des établissements concernés et de la ou des collectivités intéressées. Toutefois, elle est
+décidée par décret lorsqu'elle concerne un établissement public de santé national.
+
+La décision définit les modalités de dévolution des éléments de l'actif et du passif. Il désigne la collectivité territoriale
+ou l'établissement public destinataire des legs et donations. Sous réserve des dispositions de l'article L. 714-37, les legs
+et donations sont reportés sur cette collectivité ou cet établissement avec la même affectation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cité par**:
+
+	  - Décret n°2000-232 du 13 mars 2000 - art. 26 (Ab)
+	  - Décret n°2001-1343 du 28 décembre 2001 - art. 30 (V)
+	  - Code de la santé publique - art. R714-1-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-37 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-11 (V)
+
+
+##### Sous-section 1 : Création, transformation et suppression des établissements publics de sante
+
+###### Article R714-1-3
+
+Les établissements publics de santé peuvent être supprimés soit à la demande ou avec l'accord de la ou des collectivités
+territoriales de rattachement, soit, même en l'absence d'une telle demande ou d'un tel accord, lorsque l'autorisation prévue
+à l'article L. 712-8 est retirée ou n'est pas renouvelée.
+
+La suppression est prononcée par arrêté du préfet de la région où est situé le siège de l'établissement, après avis du
+conseil d'administration de l'établissement, de la ou des collectivités territoriales de rattachement lorsqu'elles n'ont pas
+demandé la suppression, et du comité régional de l'organisation sanitaire et sociale. Toutefois, la suppression d'un
+établissement public de santé national est prononcée par décret, après avis du conseil d'administration et du Comité national
+de l'organisation sanitaire et sociale.
+
+L'acte de suppression définit les modalités de liquidation de l'établissement. Il fixe en particulier les conditions de
+dévolution ou de réalisation des éléments de l'actif et du passif et prévoit, le cas échéant, la destination du surplus de
+l'actif. Il désigne la collectivité territoriale ou l'établissement public destinataire des legs et donations. Sous réserve
+des dispositions de l'article L. 714-37, les legs et donations sont reportés sur cette collectivité ou cet établissement avec
+la même affectation.
+
+Le préfet de région prend sa décision sur la base d'un dossier comportant, outre les délibérations et avis prévus aux premier
+et deuxième alinéas, les pièces permettant d'apprécier les justifications de la suppression et ses conséquences, notamment
+financières et patrimoniales. Un arrêté des ministres chargés de la santé et de la sécurité sociale fixe la composition de ce
+dossier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-8 (M)
+	  - Code de la santé publique - art. L714-37 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-12 (V)
+
+
+##### Section 3 : Organisation des soins et fonctionnement médical
+
+##### Sous-section 1 : Conseil de service ou de département
+
+###### Article R714-22-1
+
+Les membres du conseil de service ou de département prévu à l'article L. 714-22 doivent être des personnels médicaux ou non
+médicaux en fonctions dans le service ou le département. Ils doivent être en position d'activité.
+
+Le conseil est présidé par le chef de service ou de département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-22 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-22-2 (Ab)
+	  - Code de la santé publique - art. R714-22-3 (Ab)
+	  - Code de la santé publique - art. R714-22-5 (Ab)
+
+
+###### Article R714-22-2
+
+Lorsque, dans un service ou un département, l'effectif des personnels médicaux et non médicaux remplissant les conditions
+prévues à l'article R. 714-22-1 est au plus égal à trente, chef de service ou de département compris, tous ces personnels
+sont membres du conseil de service ou de département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-22-1 (M)
+
+
+###### Article R714-22-3
+
+Lorsque, dans un service ou un département, le nombre des personnels médicaux et non médicaux remplissant les conditions
+prévues à l'article R. 714-22-1 est supérieur à trente, le conseil de service ou de département est composé :
+
+1° De membres de droit ;
+
+2° De membres titulaires et suppléants représentant les personnels médicaux et les personnels non médicaux de chacune des
+unités fonctionnelles ; ces membres sont désignés par voie de tirage au sort parmi des volontaires, sous réserve des
+dispositions du deuxième alinéa de l'article R. 714-22-8, au sein de collèges constitués dans les conditions prévues à
+l'article R. 714-22-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-22-1 (M)
+	  - Code de la santé publique - art. R714-22-8 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-22-4 (Ab)
+	  - Code de la santé publique - art. R714-22-5 (Ab)
+	  - Code de la santé publique - art. R714-22-7 (Ab)
+
+
+###### Article R714-22-4
+
+Dans le cas prévu à l'article R. 714-22-3, sont membres de droit du conseil de service ou de département :
+
+1° Le chef de service ou de département, président du conseil de service ou de département ;
+
+2° La sage-femme ou le cadre paramédical ou médico-technique qui assiste le chef de service ou de département en application
+du premier alinéa de l'artice L. 714-23 ;
+
+3° Le surveillant-chef ou le surveillant du service ou du département ;
+
+4° Le praticien responsable de chaque unité fonctionnelle ;
+
+5° Les surveillants-chefs ou les surveillants des unités fonctionnelles ;
+
+6° Le cas échéant, les personnels d'encadrement sociaux et éducatifs autres que ceux mentionnés au 2° ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-23 (M)
+	  - Code de la santé publique - art. R714-22-3 (M)
+
+
+###### Article R714-22-5
+
+Pour l'application du 2° de l'article R. 714-22-3, les personnels médicaux et non médicaux remplissant les conditions prévues
+à l'article R. 714-22-1 sont répartis, au sein de chaque unité fonctionnelle, en différents collèges :
+
+1° Les personnels médicaux sont répartis au sein des collèges suivants :
+
+a) Le collège des professeurs des universités - praticiens hospitaliers, des maîtres de conférences des universités -
+praticiens hospitaliers, des praticiens hospitaliers universitaires et des praticiens hospitaliers à temps plein et à temps
+partiel ;
+
+b) Le collège des chefs de clinique des universités - assistants des hôpitaux, des assistants hospitaliers universitaires et
+des assistants ;
+
+c) Le collège des attachés des hôpitaux ;
+
+d) Le cas échéant, le collège des sages-femmes.
+
+2° Les personnels non médicaux sont répartis au sein des collèges suivants :
+
+a) Le collège des personnels infirmiers, des personnels de rééducation et des personnels médico-techniques ;
+
+b) Le collège des secrétaires médicaux ;
+
+c) Le collège des aides-soignants, des aides de laboratoire, des aides de pharmacie, des aides d'électroradiologie et des
+aides techniques d'électroradiologie ;
+
+d) Le collège des agents des services hospitaliers ;
+
+e) Le cas échéant, le collège des psychologues ;
+
+f) Le cas échéant, le collège des personnels sociaux et éducatifs ;
+
+g) Le cas échéant, le collège des personnels administratifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cité par**:
+
+	  - Décret n°2003-769 du 1 août 2003 - art. 35 (V)
+	  - Code de la santé publique - art. R714-22-3 (Ab)
+	  - Code de la santé publique - art. R714-22-6 (Ab)
+	  - Code de la santé publique - art. R714-22-7 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-22-1 (M)
+
+
+###### Article R714-22-6
+
+Pour chaque unité fonctionnelle d'un service ou d'un département, le nombre de représentants au conseil de chacun des
+collèges énumérés à l'article R. 714-22-5 est fixé pour une durée de trois ans par le directeur de l'établissement sur
+proposition du chef de service ou de département et après avis du praticien responsable de l'unité fonctionnelle et du
+surveillant-chef.
+
+Le nombre total de ces représentants ne peut être supérieur, pour chaque unité fonctionnelle, au triple de celui des membres
+de droit. Lorsqu'un collège comporte au moins trois membres, le nombre de représentants de ce collège ne peut être inférieur
+à un.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-22-5 (M)
+
+
+###### Article R714-22-7
+
+La date du tirage au sort prévu au 2° de l'article R. 714-22-3 est fixée par le directeur de l'établissement. Un mois au
+moins avant cette date, le directeur rend publics par voie d'affichage ladite date ainsi que la composition et le nombre de
+représentants de chacun des collèges énumérés à l'article R. 714-22-5.
+
+Les personnels médicaux et non médicaux volontaires pour être membres titulaires ou suppléants du conseil de service ou de
+département au titre du collège auxquels ils appartiennent doivent faire connaître leur candidature par lettre adressée au
+directeur de l'établissement huit jours au moins avant la date prévue pour le tirage au sort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-22-10 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-22-3 (M)
+	  - Code de la santé publique - art. R714-22-5 (M)
+
+
+###### Article R714-22-8
+
+Le tirage au sort des représentants titulaires et suppléants de chacun des collèges s'effectue en présence du directeur de
+l'établissement ou de son représentant, du chef de service ou de département ou de son représentant et de deux membres du
+personnel du service ou du département désignés par le directeur.
+
+Il est procédé successivement au tirage au sort des représentants titulaires puis des représentants suppléants de chaque
+collège. Lorsque, pour l'une ou l'autre de ces deux catégories, le nombre de volontaires est égal ou inférieur au nombre de
+représentants à désigner, ceux-ci sont tirés au sort parmi l'ensemble des personnels appartenant au collège concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-22-10 (Ab)
+	  - Code de la santé publique - art. R714-22-3 (Ab)
+
+
+###### Article R714-22-9
+
+Nul ne peut être tiré au sort à plusieurs titres, ni membre de plusieurs conseils de service ou de département, sauf
+exception motivée décidée par le conseil d'administration de l'établissement.
+
+En cas d'exercice dans plusieurs services ou départements, l'exercice principal détermine l'appartenance à un collège.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+
+###### Article R714-22-10
+
+Les fonctions de membre du conseil de service ou de département sont de trois ans, renouvelables. Il est pourvu une fois par
+an au moins, dans les conditions fixées aux articles R. 714-22-7 et R. 714-22-8, au remplacement des membres qui cessent
+leurs fonctions avant l'expiration de celles-ci en raison de leur démission, de leur départ du service ou du département, ou
+du fait qu'ils quittent la position d'activité.
+
+Il en va de même lorsqu'un membre cesse d'appartenir à la catégorie qu'il représente.
+
+Dans tous les cas, les fonctions du nouveau membre prennent fin au jour où auraient cessé celles du membre qu'il a remplacé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-22-7 (M)
+	  - Code de la santé publique - art. R714-22-8 (M)
+
+
+###### Article R714-22-11
+
+Des internes ou résidents en fonctions dans le service ou le département, dans la limite de deux, sont désignés par tirage au
+sort pour assister aux séances du conseil de service ou de département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+
+##### Sous-section 2 : Service de soins infirmiers
+
+###### Article R714-26-1
+
+Dans chaque établissement public de santé, le service de soins infirmiers regroupe l'ensemble des personnels qui participent
+à la mise en oeuvre des soins infirmiers.
+
+L'infirmier général de 1re classe, membre de l'équipe de direction de l'établissement, assure les fonctions de directeur du
+service de soins infirmiers. Il est assisté par le ou les infirmiers généraux de 2e classe.
+
+Lorsque l'établissement ne dispose pas d'un poste d'infirmier général ou lorsque le poste est provisoirement vacant, le
+directeur de l'établissement désigne un infirmier surveillant-chef des services médicaux pour coordonner temporairement les
+soins infirmiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+
+###### Article R714-26-2
+
+Les membres de la commission du service de soins infirmiers prévue à l'article L. 714-26 doivent être des fonctionnaires
+titulaires ou stagiaires ou des agents contractuels en fontion dans l'établissement et en position d'activité.
+
+Cette commission comprend :
+
+a) Le directeur du service de soins infirmiers ou le coordinateur temporaire, membre de droit, président de la commission ;
+
+b) Des membres désignés représentant respectivement, dans les propositions de trois huitièmes, quatre huitièmes et un
+huitième du total de ces membres : les infirmiers surveillants-chefs et les infirmiers surveillants des services médicaux,
+les infirmiers, les aides-soignants.
+
+Le directeur de l'établissement fixe le nombre des membres désignés de la commission, qui ne peut être supérieur à trente-
+deux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-26 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R1112-81 (V)
+	  - Code de la santé publique - art. R710-1-1 (Ab)
+	  - Code de la santé publique - art. R714-26-3 (Ab)
+	  - Code de la santé publique - art. R716-3-56 (Ab)
+
+
+###### Article R714-26-3
+
+Les nombres de la commission mentionnés au b, 2e alinéa, de l'article R. 714-26-2 sont désignés par voie de tirage au sort
+parmi les volontaires, sous réserve des dispositions du 2e alinéa de l'article R. 714-26-4, au sein des trois collèges
+suivants :
+
+a) Collège des infirmiers surveillants-chef et surveillants des services médicaux ;
+
+b) Collège des infirmiers, infirmiers de bloc opératoire, infirmiers spécialistes en anesthésie réanimation, puéricultrice ;
+
+c) Collège des aides-soignants.
+
+La date du tirage au sort est fixée par le directeur de l'établissement. Un mois au moins avant cette date, le directeur rend
+publics par voie d'affichage ladite date ainsi que la composition et le nombre de représentants à la commission de chacun des
+trois collèges.
+
+Les personnels volontaires pour être membres de la commission au titre du collège auquel ils appartiennent doivent faire
+connaître leur candidature par lettre adressée au directeur de l'établissement huit jours au moins avant la date prévue pour
+le tirage au sort.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-26-2 (M)
+	  - Code de la santé publique - art. R714-26-4 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-26-5 (Ab)
+	  - Code de la santé publique - art. R716-3-18 (Ab)
+	  - Code de la santé publique - art. R716-3-49 (Ab)
+
+
+###### Article R714-26-4
+
+Le tirage au sort des représentants de chacun des collèges a lieu en présence du directeur de l'établissement, du directeur
+du service de soins infirmiers et de deux membres du personnel de ce service désignés par le directeur de l'établissement.
+
+Lorsque le nombre de volontaires est égal ou inférieur à celui des représentants à désigner, ceux-ci sont tirés au sort parmi
+l'ensemble des personnels appartenant au collège concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-26-3 (Ab)
+	  - Code de la santé publique - art. R714-26-5 (Ab)
+
+
+###### Article R714-26-5
+
+Les fonctions des membres désignés de la commission sont de trois ans, renouvelables.
+
+Il est pourvu une fois par an au moins, dans les conditions fixées aux articles R. 714-26-3 et R. 714-26-4, au remplacement
+des membres qui cessent leurs fonctions avant l'expiration de celles-ci en raison de leur démission, de leur départ de
+l'établissement ou du fait qu'ils quittent la position d'activité.
+
+Ils en va de même lorsqu'un membre cesse d'appartenir à la catégorie qu'il représente.
+
+Dans tous les cas, les fonctions du nouveau membre prennent fin au jour où auraient cessé celles du membre qu'il a remplacé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-26-3 (M)
+	  - Code de la santé publique - art. R714-26-4 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-49 (Ab)
+
+
+###### Article R714-26-6
+
+Participent avec voix consultative aux séances de la commission du service de soins infirmiers :
+
+a) Le ou les infirmiers généraux qui assistent le directeur du service de soins infirmiers ;
+
+b) Les directeurs des écoles paramédicales rattachées à l'établissement ;
+
+c) Un représentant des élèves infirmiers de troisième année désigné par le directeur de l'école après tirage au sort parmi
+les deux élus au conseil technique de l'école rattachée à l'établissement ;
+
+d) Un élève aide-soignant désigné par le directeur après tirage au sort parmi des volontaires ;
+
+e) Un représentant de la commission médicale d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-18 (Ab)
+	  - Code de la santé publique - art. R716-3-49 (Ab)
+
+
+###### Article R714-26-7
+
+La commission du service de soins infirmiers se réunit au moins trois fois par an sur convocation de son président. Celui-ci
+est également tenu de la convoquer chaque fois que le directeur de l'établissement lui en fait la demande.
+
+L'ordre du jour est fixé par le président.
+
+La commission est obligatoirement consultée sur les questions énumérées au deuxième alinéa de l'article L. 714-26.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-26 (M)
+
+
+###### Article R714-26-8
+
+A l'initiative du président, des personnes qualifiées peuvent être associées temporairement aux travaux de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+
+###### Article R714-26-9
+
+L'avis de la commission est valablement émis lorsque la moitié au moins des membres désignés sont présents.
+
+Lorsque ce quorum n'est pas atteint après une convocation régulière, une deuxième convocation est faite à huit jours
+d'intervalle. L'avis est alors émis valablement, quel que soit le nombre de membres présents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+
+###### Article R714-26-10
+
+Chaque séance de la commission fait l'objet d'un procès-verbal, adressé au directeur de l'établissement et aux membres de la
+commission dans un délai de quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+
+###### Article R714-26-11
+
+Le directeur du service de soins infirmiers prépare un compte rendu annuel de l'activité de la commission et l'insère dans le
+rapport qu'il doit établir en application de l'article 2 du décret n° 89-758 du 18 octobre 1989 portant statut particulier
+des infirmiers généraux de la fonction publique hospitalière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°89-758 du 18 octobre 1989 - art. 2 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+
+##### Section 4 : Les personnels des établissements publics de santé
+
+###### Article R714-28-1
+
+Les personnels titulaires, stagiaires et contractuels des établissements publics de santé qui ne relèvent ni d'un conseil de
+service ou de département institué en application de l'article L. 714-22, ni d'une structure médicale ou médico-technique
+créée par le conseil d'administration de l'établissement en application de l'article R. 714-25-2 (1) bénéficient, selon les
+modalités définies aux articles R. 714-28-2 à R. 714-28-4, d'un droit à l'expression directe et collective sur le contenu,
+les conditions d'exercice et l'organisation de leur travail.
+
+**Nota:**
+
+Nota : (1) inexistence de l'article R. 714-25-2, par conséquent référence à l'article L. 714-25-2 ancien (L. 6146-8 du
+nouveau code de la santé publique).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-22 (M)
+	  - Code de la santé publique - art. R714-28-2 (Ab)
+	  - Code de la santé publique - art. R714-28-3 (Ab)
+	  - Code de la santé publique - art. R714-28-4 (Ab)
+	  - Code de la santé publique L714-22, R714-25-2, R714-28-2, R714-28-3, R714-28-4
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6144-86 (M)
+	  - Code de la santé publique - art. R6144-86 (V)
+
+
+###### Article R714-28-2
+
+Le droit à l'expression directe et collective des personnels s'exerce dans le cadre de réunions organisées au moins deux fois
+par an dans l'enceinte de l'établissement, en dehors des lieux ouverts au public, pendant le temps de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6144-87 (M)
+	  - Code de la santé publique - art. R6144-87 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-28-1 (Ab)
+
+
+###### Article R714-28-3
+
+Le directeur de l'établissement arrête, après avis du comité technique d'établissement, les modalités d'exercice du droit à
+l'expression directe et collective des personnels.
+
+Ces modalités doivent notamment définir :
+
+a) Les unités de travail au sein desquelles sont organisées les réunions permettant l'expression des personnels, ainsi que la
+fréquence, la durée et les lieux desdites réunions ;
+
+b) Les mesures destinées à assurer la liberté d'expression de chacun ;
+
+c) Les mesures destinées à assurer la transmission des demandes, avis et propositions des personnels au directeur de
+l'établissement, au comité technique d'établissement, à la commission médicale d'établissement, au comité d'hygiène, de
+sécurité et des conditions de travail et au comité de lutte contre les infections nosocomiales ;
+
+d) Les conditions dans lesquelles le directeur de l'établissement fait connaître aux agents concernés et aux instances
+consultatives susmentionnées la suite réservée à ces demandes, avis et propositions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6144-88 (M)
+	  - Code de la santé publique - art. R6144-88 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-28-1 (Ab)
+
+
+###### Article R714-28-4
+
+La mise en oeuvre du droit à l'expression directe et collective des personnels fait l'objet d'un rapport annuel établi par le
+directeur de l'établissement. Ce rapport est intégré au bilan social de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6144-89 (M)
+	  - Code de la santé publique - art. R6144-89 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-28-1 (Ab)
 
 
 # Partie réglementaire ancienne - Décrets simples
