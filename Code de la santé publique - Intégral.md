@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1958-12-24
+Version Consolidée au 1958-12-31
 
 # Partie législative ancienne
 
@@ -24814,28 +24814,6 @@ Article abrogé
 	**Cité par**:
 
 	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
-
-
-##### Section 4 : Hospices civils de Strasbourg.
-
-###### Article L734-1
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Ordonnance n°58-1373 du 30 décembre 1958 - art. 9 (Ab) JORF 31 décembre 1958
-
-	**Cité par**:
-
-	  - Ordonnance n°58-1373 du 30 décembre 1958 - art. 9 (Ab)
 
 
 ### Titre 1er bis : Mesures générales relatives à l'équipement sanitaire.
