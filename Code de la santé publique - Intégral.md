@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1970-07-02
+Version Consolidée au 1970-07-12
 
 # Partie législative ancienne
 
@@ -1901,6 +1901,98 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
 
 
+###### Article L30
+
+Si, à l'expiration du délai imparti par le préfet pour le départ des occupants, les locaux ne sont pas libérés et à défaut
+pour le propriétaire ou l'usufruitier d'avoir, en exécution de l'arrêté préfectoral, engagé une action aux fins d'expulsion
+des occupants de l'immeuble, le préfet est recevable à exercer cette action aux frais du propriétaire ou de l'usufruitier
+[*requérant*].
+
+Celui qui, de mauvaise foi, n'aura pas fait droit, dans le délai de un mois, à l'interdiction d'habiter est passible des
+peines prévues au dernier alinéa de l'article L. 45.
+
+Si les mesures prescrites à l'article L. 28 n'ont pas été exécutées dans le délai imparti, le maire ou, à défaut, le préfet
+saisit le juge des référés qui autorise l'exécution d'office des travaux aux frais du propriétaire [*recours*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°70-612 du 10 juillet 1970 - art. 2 () JORF 12 juillet 1970
+
+	**Cité par**:
+
+	  - Loi n°70-612 du 10 juillet 1970 - art. 14 (M)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 16 (Ab)
+	  - Code de la santé publique - art. L31 (Ab)
+	  - Code de la santé publique - art. L42 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L28 (M)
+	  - Code de la santé publique - art. L45 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L31 : MODE DE RECOUVREMENT
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Anciens textes**:
+
+	  - Décret n°1938-05-24 art. 1
+	  - Décret n°55-512 1955-05-11 art. 1
+	  - Loi n°1902-02-15 art. 14
+
+
+###### Article L31
+
+La créance de la collectivité publique résultant, en application de l'article L. 30, des frais d'expulsion ou de l'exécution
+des travaux est recouvrée [*mode*] comme en matière de contributions directes. Les réclamations seront présentées et jugées
+comme en matière de contributions directes.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°70-612 du 10 juillet 1970 - art. 3 () JORF 12 juillet 1970
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-30 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L30 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 art. 15
+
+
 ###### Article L32
 
 Lorsque, par suite de l'application des articles du présent chapitre, il y aura lieu à résiliation des baux, cette
@@ -2724,6 +2816,222 @@ s'applique à la collectivité territoriale de Mayotte.*]
 	  - Loi n°1902-02-15 art. 18
 
 
+###### Article L41
+
+La créance de la collectivité publique résultant de l'exécution des travaux prévus au dernier alinéa de l'article L. 40 est
+recouvrée [*mode*] comme en matière de contributions directes.
+
+Les réclamations seront présentées et jugées comme en matière de contributions directes.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 51 : dispositions applicables aux ateliers et manufactures.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: ARTICLE ABROGE PAR LE Décret DU 20 MAI 1955 ET RETABLI PAR LA Loi DU 10 JUILLET 1970
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°55-560 1955-05-20 art. 28
+	  - Décret n°56-907 1956-09-10
+
+	**Créé par**:
+
+	  - Loi n°70-612 du 10 juillet 1970 - art. 7 () JORF 12 juillet 1970
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-22 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L40 (Ab)
+
+
+###### Article L42
+
+Le préfet [*autorité compétente*] peut déclarer l'insalubrité des locaux et installations utilisés aux fins d'habitation,
+mais impropres à cet objet pour des raisons d'hygiène, de salubrité ou de sécurité et situés à l'intérieur d'un périmètre
+qu'il définit.
+
+L'arrêté du préfet est pris après avis du conseil départemental d'hygiène auquel le maire ou, le cas échéant, le président du
+groupement de communes ayant compétence en matière de logement est invité à présenter ses observations, et après délibération
+du conseil municipal ou, le cas échéant, de l'organe délibérant du groupement de communes ayant compétence en matière de
+logement. Cet arrêté vaut interdiction d'habiter au sens des articles L. 28 et L. 30 pour les immeubles qu'il désigne.
+
+Cet arrêté est publié au recueil des actes administratifs du département et affiché à la mairie du lieu de situation des
+biens.
+
+Il est notifié aux propriétaires et usufruitiers intéressés.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 51 : dispositions applicables aux ateliers et manufactures.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: ARTICLE ABROGE PAR L'Ordonnance DU 23 OCTOBRE 1958 ET RETABLI PAR LA Loi DU 10 JUILLET 1970
+
+	**Anciens textes**:
+
+	  - Décret n°53-915 1953-09-26
+	  - Décret n°55-512 1955-05-11
+	  - Ordonnance 58-997 1958-10-23
+	  - Décret n°70-415 du 8 mai 1970 - art. 9 ()
+	  - Loi n°42-342 1942-03-01 art. 1, 5 ET 22
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 10 (V)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 20 (VT)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 13 (M)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 14 (M)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 18 (M)
+	  - Code de l'urbanisme - art. R*123-19 (M)
+	  - Code de la construction et de l'habitation. - art. L522-2 (V)
+
+	**Créé par**:
+
+	  - Loi n°70-612 du 10 juillet 1970 - art. 8 () JORF 12 juillet 1970
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-23 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L28 (M)
+	  - Code de la santé publique - art. L30 (M)
+
+
+###### Article L43
+
+Toute personne qui aura mis à disposition, à titre gratuit ou onéreux, aux fins d'habitation, des caves, sous-sols, combles
+et pièces dépourvues d'ouverture sur l'extérieur et qui n'aura pas déféré dans le délai d'un mois à la mise en demeure du
+préfet de mettre fin à cette situation sera passible des peines édictées au dernier alinéa de l'article L. 45 [*interdiction
+de louer ou prêter*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 51 : dispositions applicables aux ateliers et manufactures.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: ARTICLE ABROGE PAR L'ORDONNANCE DU 23 OCTOBRE 1958 ET RETABLI PAR LA Loi DU 10 JUILLET 1970
+	  - TXT_ASSOCIE: Code de la santé publique - art. L43-1 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L45 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 10 (V)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 18 (M)
+	  - Décret n°77-868 du 27 juillet 1977 - art. 3 (V)
+	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 27 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°53-915 1953-09-26
+	  - Ordonnance n°58-997 du 23 octobre 1958 - art. 56, v. init.
+	  - Loi n°42-342 1942-03-01 art. 1, 5 ET 22
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°70-612 du 10 juillet 1970 - art. 9 () JORF 12 juillet 1970
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1336-3 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L45 (Ab)
+
+
+###### Article L43-1
+
+Le préfet [*autorité compétente*] peut, après avis du conseil départemental d'hygiène et du maire, faire injonction à toute
+personne mettant à disposition des locaux ou installations qui, même en l'absence de déclaration d'insalubrité, présente un
+danger pour la santé ou la sécurité de leurs occupants en raison de leur densité d'occupation ou de l'utilisation qui en est
+faite, d'avoir à rendre l'utilisation de ces locaux ou installations conformes aux prescriptions de son arrêté.
+
+S'il n'est pas satisfait à cette injonction dans le délai fixé, le préfet pourra prendre, aux frais de l'intéressé
+[*charge*], toutes mesures destinées à satisfaire aux prescriptions dudit arrêté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°70-612 du 10 juillet 1970 - art. 10 () JORF 12 juillet 1970
+
+	**Cité par**:
+
+	  - Loi n°70-612 du 10 juillet 1970 - art. 18 (M)
+	  - Code de la santé publique - art. L45 (Ab)
+	  - Code de la santé publique - art. L48-3 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-24 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L43 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L45 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L43, L48-3 : DISPOSITIONS PENALES
+
+
 ##### Section 3 : Mortalité excessive dans une commune.
 
 ###### Article L44
@@ -3103,6 +3411,242 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Anciens textes**:
 
 	  - Loi n°1902-02-15 art. 32
+
+
+### TITRE 1 BIS : TRANSPORTS SANITAIRES.
+
+###### Article L51-1
+
+Un agrément [*autorisation administrative obligatoire*] est délivré par le préfet [*autorité compétente*], après avis de la
+commission départementale d'équipement, section sanitaire et sociale, aux personnes physiques ou morales qui exploitent une
+entreprise privée de transports sanitaires, que le transport soit terrestre, aérien ou maritime, dès lors qu'elles se
+conforment aux conditions d'exploitation déterminées par un règlement d'administration publique, qui précise les droits qu'il
+leur confère et les obligations qui en découlent.
+
+[*LOI 514 1980-07-07 : dans les lois en vigueur à la date de publication de la présente loi, tout renvoi à un règlement
+d'administration publique ou à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un
+décret en Conseil d'Etat*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 51-3 : dispositions applicables aux services publics.*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°45-0179 du 29 décembre 1945 - art. 10-1 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 67 (M)
+	  - Décret n°73-384 du 27 mars 1973 - art. 1 (Ab)
+	  - Décret n°73-384 du 27 mars 1973 - art. 5 (Ab)
+	  - Décret n°73-384 du 27 mars 1973 - art. 6 (Ab)
+	  - Arrêté du 26 avril 1973 - art. 1 (V)
+	  - Arrêté du 4 août 1987 - art. 1 (V)
+	  - Décret n°2005-840 du 20 juillet 2005 - art. 5 (V)
+	  - Arrêté du 16 janvier 1985 - art. 1 (V)
+	  - Arrêté du 7 mars 1986 - art. 1 (Ab)
+	  - Code de l'aviation civile - art. L351-1 (VT)
+	  - Code de l'aviation civile - art. L351-2 (VT)
+	  - Code de l'aviation civile - art. L351-3 (VT)
+	  - Code de l'aviation civile - art. R351-1 (V)
+	  - Code de la santé publique - art. L51-2 (M)
+	  - Code de la santé publique - art. L51-3 (M)
+	  - Code de la sécurité sociale. - art. R322-10 (V)
+	  - Code de la sécurité sociale. - art. R322-10-1 (V)
+	  - Code de la sécurité sociale. - art. R322-10-2 (V)
+	  - Code de la sécurité sociale. - art. R322-10-3 (V)
+	  - Code de la sécurité sociale. - art. R322-10-4 (V)
+	  - Code de la sécurité sociale. - art. R322-10-5 (M)
+	  - Code de la sécurité sociale. - art. R322-10-6 (V)
+	  - Code de la sécurité sociale. - art. R322-10-7 (V)
+	  - Code de la sécurité sociale. - art. R322-11 (M)
+	  - Code de la sécurité sociale. - art. R615-50 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°70-615 1970-07-10 art. 1 JORF 12 juillet 1970
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. ANNEXE 1 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. ANNEXE 2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L51-3 (M)
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R322-10 (M)
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R322-10-1 (M)
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R322-10-2 (M)
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R322-10-3 (M)
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R322-10-4 (M)
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R322-10-5 (M)
+	  - TXT_SOURCE: Code de la sécurité sociale. - art. R322-10-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6312-1 (M)
+
+
+###### Article L51-2
+
+L'agrément prévu à l'article précédent est retiré [*sanction*] par le préfet, après avis de la commission départementale
+d'équipement, section sanitaire et sociale, dès lors que les conditions prévues au règlement d'administration publique ne
+sont plus remplies.
+
+En cas d'urgence, le préfet [*autorité compétente*] peut prononcer une mesure de retrait provisoire d'agrément, à charge pour
+lui d'en saisir, pour avis, la commission visée au premier alinéa de cet article, dans le délai d'un mois.
+
+[*LOI 514 1980-07-07 : dans les lois en vigueur à la date de publication de la présente loi, tout renvoi à un règlement
+d'administration publique ou à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un
+décret en Conseil d'Etat*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°45-0179 du 29 décembre 1945 - art. 10-1 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 67 (M)
+	  - Décret n°87-964 du 30 novembre 1987 - art. 6 (Ab)
+	  - Décret n°95-648 du 9 mai 1995 - art. 3 (Ab)
+	  - Décret n°95-1093 du 5 octobre 1995 - art. 6 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 261 (M)
+	  - Code de l'aviation civile - art. L351-2 (VT)
+	  - Code de l'aviation civile - art. R351-1 (V)
+	  - Code de la santé publique - art. L51-3 (Ab)
+	  - Code de la santé publique - art. L51-6 (Ab)
+	  - Code de la sécurité sociale. - art. R322-11 (M)
+	  - Code de la sécurité sociale. - art. R615-50 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°70-615 1970-07-10 art. 1 JORF 12 juillet 1970
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. ANNEXE 1 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. ANNEXE 2 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L51-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6312-2 (M)
+
+
+###### Article L51-3
+
+Les droits et obligations définis par le règlement d'administration publique prévu à l'article L. 51-1 ci-dessus sont
+applicables aux services publics assurant des transports sanitaires.
+
+[*Loi 514 1980-07-07 : dans les lois en vigueur à la date de publication de la présente loi, tout renvoi à un règlement
+d'administration publique ou à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un
+décret en Conseil d'Etat*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°45-0179 du 29 décembre 1945 - art. 10-1 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 67 (M)
+	  - Loi n°86-11 du 6 janvier 1986 - art. 7 (V)
+	  - Décret n°95-648 du 9 mai 1995 - art. 3 (Ab)
+	  - Décret n°2005-840 du 20 juillet 2005 - art. 5 (V)
+	  - Code de l'aviation civile - art. L351-3 (VT)
+	  - Code de l'aviation civile - art. R351-1 (V)
+	  - Code de la sécurité sociale. - art. R322-11 (M)
+	  - Code de la sécurité sociale. - art. R615-50 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°70-615 1970-07-10 art. 1 JORF 12 juillet 1970
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. ANNEXE 1 (Ab)
+	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. ANNEXE 2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L51-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L51-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6312-5 (M)
 
 
 ### Titre 2 : Contrôle sanitaire aux frontières.
