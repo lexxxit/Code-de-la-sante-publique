@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-01-01
+Version Consolidée au 1994-01-09
 
 # Partie législative ancienne
 
@@ -51335,6 +51335,81 @@ c) Quiconque n'aura pas mis en place la signalisation prévue à l'article R. 35
 
 ### Titre 1 : Dispositions générales
 
+###### Article R5000
+
+I. - La dénomination d'un médicament peut être soit un nom de fantaisie, soit une dénomination commune ou scientifique
+assortie d'une marque ou du nom du fabricant. Le nom de fantaisie ne peut se confondre avec la dénomination commune.
+
+Lorsqu'un médicament est présenté sous plusieurs formes pharmaceutiques ou plusieurs dosages, ceux-ci et le cas échéant les
+mentions "nourrissons", "enfants" ou "adultes" doivent figurer dans la dénomination.
+
+II. - Pour l'application du présent livre, on entend par :
+
+- dénomination commune : la dénomination commune internationale recommandée par l'Organisation mondiale de la santé, à défaut
+la dénomination de la pharmacopée européenne ou française ou, à défaut, la dénomination commune usuelle ;
+
+- dosage du médicament : la teneur en principe actif, exprimée en quantité par unité de prise ou par unité de volume ou de
+poids en fonction de la présentation ;
+
+- conditionnement primaire : le récipient ou toute autre forme de conditionnement avec lequel le médicament se trouve en
+contact direct ;
+
+- conditionnement extérieur : l'emballage dans lequel est placé le conditionnement primaire ;
+
+- étiquetage : les mentions portées sur le conditionnement extérieur ou le conditionnement primaire ;
+
+- notice : le document d'information accompagnant le médicament et destiné à l'utilisateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 1 () JORF 9 janvier 1994
+
+	**Cité par**:
+
+	  - Arrêté du 9 octobre 1995 - art. 2 (Ab)
+	  - Décret n°96-351 du 19 avril 1996 - art. 5 (Ab)
+	  - Arrêté du 13 mars 1997 - art. 2 (V)
+	  - Code de la santé publique - art. R5000-1 (Ab)
+	  - Code de la santé publique - art. R5104-109 (Ab)
+	  - Code de la santé publique - art. R5128 (Ab)
+	  - Code de la santé publique - art. R5142-15-12 (Ab)
+	  - Code de la santé publique - art. R5142-15-5 (Ab)
+	  - Code de la santé publique - art. R5143-10 (Ab)
+	  - Code de la santé publique - art. R5143-8 (M)
+	  - Code de la santé publique - art. R5143-8-3 (Ab)
+	  - Code de la santé publique - art. R5145 (Ab)
+	  - Code de la santé publique - art. R5145-1 (T)
+	  - Code de la santé publique - art. R5148 bis (Ab)
+	  - Code de la santé publique - art. R5194 (Ab)
+	  - Code de la santé publique - art. R665-80-7 (Ab)
+	  - Code de la sécurité sociale. - art. R163-2 (V)
+	  - Code de la sécurité sociale. - art. R163-4 (M)
+	  - Code de la sécurité sociale. - art. R163-5 (V)
+	  - Code de la sécurité sociale. - art. R163-7 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-1 (V)
+	  - Code de la santé publique - art. R5121-2 (V)
+	  - Code de la santé publique - art. R5121-4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5145 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5145-1 (T)
+
+
 #### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien
 
 ##### Section 1 : Pharmacopée et formulaire
@@ -54539,10 +54614,6 @@ b) L'indication de la situation de la spécialité au regard des législations s
 c) L'indication du prix limite de vente au public lorsqu'un tel prix est fixé en application des lois et règlements en
 vigueur.
 
-Les mentions qui figurent sur les conditionnements, récipients, prospectus et notices et qui sont dispensées de visa de
-publicité doivent faire l'objet d'un dépôt auprès de l'Agence du médicament. Toute modification apportée à ces mentions doit
-suivre la même procédure.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -54552,7 +54623,7 @@ suivre la même procédure.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 3 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 2 () JORF 9 janvier 1994
 
 	**Cité par**:
 
@@ -55520,6 +55591,11 @@ b) Des établissements pharmaceutiques autres que ceux qui sont mentionnés au 1
 c) Des dépôts de médicaments détenus par les médecins mentionnés à l'article L. 594 et des herboristeries mentionnées à
 l'article L. 659.
 
+Lorsque l'inspection concerne un établissement pharmaceutique mentionné à l'article L. 596, les inspecteurs de la pharmacie
+ou, selon le cas, les inspecteurs de l'Agence du médicament s'assurent notamment que cet établissement respecte les bonnes
+pratiques prévues à l'article L. 600 qui le concernent. Chaque inspection donne lieu à un rapport qui doit être communiqué au
+pharmacien responsable de l'entreprise.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -55529,8 +55605,7 @@ l'article L. 659.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 1993-08-05 art. 4 I, II, III JORF 7 août 1993
-	  - Décret n°93-982 du 5 août 1993 - art. 4 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 3 () JORF 9 janvier 1994
 
 	**Cite**:
 
@@ -55542,6 +55617,7 @@ l'article L. 659.
 	  - Code de la santé publique - art. L595-8 (Ab)
 	  - Code de la santé publique - art. L595-9 (M)
 	  - Code de la santé publique - art. L596 (M)
+	  - Code de la santé publique - art. L600 (M)
 	  - Code de la santé publique - art. L658-11 (M)
 	  - Code de la santé publique - art. L659 (Ab)
 
@@ -58909,9 +58985,24 @@ population, du ministre de l'industrie et du ministre des finances et des affair
 
 ###### Article R5115-7
 
-Les pharmaciens fabricants doivent pouvoir justifier, à tout moment, que tous les produits qu'ils utilisent, préparent et
-délivrent sont conformes aux caractéristiques auxquelles ils doivent répondre et qu'il a été procédé aux contrôles
-nécessaires.
+Les établissements pharmaceutiques qui fabriquent des médicaments doivent pouvoir justifier, à tout moment, que tous les
+produits qu'ils utilisent, préparent et délivrent sont conformes aux caractéristiques auxquelles ils doivent répondre et
+qu'il a été procédé aux contrôles nécessaires.
+
+Ces établissements veillent à ce que toutes les opérations de fabrication des médicaments faisant l'objet de l'autorisation
+de mise sur le marché mentionnée à l'article L. 601 ou de l'autorisation prévue à l'article L. 601-2 soient conduites dans le
+respect des données du dossier de cette autorisation acceptées par l'Agence du médicament.
+
+Ils sont tenus de réévaluer et, si nécessaire, de modifier leurs méthodes de fabrication et de contrôle en fonction des
+progrès scientifiques et techniques. Lorsque le fabricant n'est pas le titulaire de l'autorisation de mise sur le marché du
+médicament concerné par ces modifications, il doit en aviser ce titulaire. S'il n'exploite pas lui-même le médicament, il
+doit également en informer l'entreprise qui l'exploite.
+
+Lorsque des lots de médicaments bénéficiant d'une autorisation de mise sur le marché mentionnée à l'article L. 601 sont
+importés d'un Etat membre de la Communauté économique européenne, les comptes rendus du contrôle correspondant à ces lots
+sont détenus par l'établissement situé dans la Communauté économique européenne, titulaire d'une autorisation de fabrication
+ou d'importation de médicaments, qui assure le suivi de ces lots pour la France. Le titulaire de l'autorisation de mise sur
+le marché tient les autorités françaises informées de l'identité du détenteur de ces comptes rendus de contrôle.
 
 **Liens relatifs à cet article**
 
@@ -58919,6 +59010,15 @@ nécessaires.
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 4 () JORF 9 janvier 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. L601-2 (M)
 
 	**Cité par**:
 
@@ -58928,10 +59028,6 @@ nécessaires.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5124-52 (V)
-
-	**Créé par**:
-
-	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
 ###### Article R5115-8
@@ -58962,14 +59058,12 @@ Les établissements pharmaceutiques préparant, important ou distribuant des sp�
 
 ###### Article R5115-9
 
-Les établissements visés à l'article L. 596 doivent se doter de bonnes pratiques de fabrication. A cette fin, des
-recommandations sont énoncées par arrêté du ministre chargé de la santé.
+Les médicaments importés de pays non membres de la Communauté économique européenne doivent faire l'objet en France du
+contrôle du produit fini prévu au dossier d'autorisation de mise sur le marché. Ce contrôle est effectué par l'importateur.
+Celui-ci s'assure que les médicaments ont été fabriqués par des fabricants dûment autorisés et soumis à des normes de bonnes
+pratiques de fabrication au moins équivalentes à celles que prévoit l'article L. 600.
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°88-661 1988-05-06 art. 1 JORF 8 mai 1988
 
 	**Cité par**:
 
@@ -58978,18 +59072,69 @@ recommandations sont énoncées par arrêté du ministre chargé de la santé.
 	  - Arrêté du 7 décembre 1992 - art. 1 (Ab)
 	  - Code de la santé publique - art. R5125 (M)
 
+	**Modifié par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 5 () JORF 9 janvier 1994
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L596 (M)
+	  - Code de la santé publique - art. L600 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5124-54 (V)
 
 
-##### Section 2 : Spécialités pharmaceutiques
+###### Article R5115-10
 
-##### Paragraphe 1 : Expérimentation des médicaments.
+Toute entreprise comportant un ou plusieurs établissements de fabrication ou d'importation de médicaments doit avoir un ou
+plusieurs départements de contrôle de la qualité. Ces départements doivent être placés sous l'autorité d'une personne
+possédant les qualifications requises et hiérarchiquement indépendante des autres responsables de départements.
+
+Le département de contrôle de la qualité doit disposer d'un ou plusieurs laboratoires de contrôle possédant des moyens
+suffisants en personnel et en matériel pour effectuer les contrôles et essais nécessaires sur les matières premières et
+articles de conditionnement ainsi que les contrôles des produits intermédiaires et finis.
+
+Toutefois, l'entreprise dont dépend l'établissement pharmaceutique peut, dans des cas exceptionnels et à condition de
+justifier de ce recours auprès de l'Agence du médicament, confier les opérations de contrôle à un laboratoire sous-traitant
+par un contrat écrit précisant les responsabilités respectives des parties. Dans ces cas, l'entreprise doit en informer
+l'Agence du médicament afin que celle-ci soit mise en mesure de vérifier que le laboratoire sous-traitant possède la
+compétence et les moyens suffisants.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 6 () JORF 9 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-55 (V)
+
+
+###### Article R5115-11
+
+Tout établissement pharmaceutique fabriquant des médicaments doit disposer d'un système de documentation comportant les
+spécifications, les formules de fabrication, les procédures et les relevés, comptes rendus et enregistrements couvrant les
+différentes opérations qu'il effectue.
+
+Les documents relatifs à chaque lot doivent être conservés au moins un an après la date de péremption du lot concerné et au
+moins cinq ans après sa libération.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 6 () JORF 9 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-56 (V)
+
+
+##### Section 2 : Médicaments et produits soumis à autorisation
+
+##### Paragraphe 1 : Expérimentation des médicaments
 
 ###### Article R5117
 
@@ -59012,7 +59157,7 @@ les conditions fixées au présent paragraphe.
 
 	**Modifié par**:
 
-	  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cite**:
 
@@ -59057,7 +59202,7 @@ médicament.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Nouveaux textes**:
 
@@ -59096,7 +59241,7 @@ des médicaments faisant l'objet de leurs expertises.
 
 	**Modifié par**:
 
-	  - Décret n°88-492 1988-05-02 art. 1 JORF 4 mai 1988
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cité par**:
 
@@ -59129,9 +59274,9 @@ mentionnées à l'article R. 5119.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cité par**:
 
@@ -59176,7 +59321,7 @@ l'investigateur et du promoteur.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cite**:
 
@@ -59222,7 +59367,7 @@ travaux exploités pour cette synthèse.
 
 	**Modifié par**:
 
-	  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Nouveaux textes**:
 
@@ -59302,7 +59447,7 @@ Les investigateurs peuvent demander au promoteur tout document ou essai complém
 
 	**Modifié par**:
 
-	  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cité par**:
 
@@ -59350,7 +59495,7 @@ L'étiquetage de ces médicaments ou produits comporte [*mentions obligatoires*]
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cité par**:
 
@@ -59386,7 +59531,7 @@ directeur de l'établissement, pour information :
 
 	**Modifié par**:
 
-	  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cite**:
 
@@ -59433,9 +59578,9 @@ employés ;
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cite**:
 
@@ -59457,7 +59602,7 @@ R. 5120.
 
 	**Modifié par**:
 
-	  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cité par**:
 
@@ -59514,7 +59659,7 @@ L'autorisation mentionnée au deuxième alinéa du présent article est accordé
 
 	**Modifié par**:
 
-	  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 
 ###### Article R5127
@@ -59541,7 +59686,7 @@ Tout essai donne lieu à un rapport établi par l'expérimentateur ou l'investig
 
 	**Modifié par**:
 
-	  - Décret n°90-872 du 27 septembre 1990 - art. 3 () JORF 29 septembre 1990
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cité par**:
 
@@ -59556,7 +59701,7 @@ Tout essai donne lieu à un rapport établi par l'expérimentateur ou l'investig
 	  - Code de la santé publique - art. R5122 (M)
 
 
-##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.
+##### Paragraphe 2 : Autorisation de mise sur le marché
 
 ###### Article R5128
 
@@ -59566,14 +59711,13 @@ mentionne [*contenu*] :
 a) Le nom et l'adresse du responsable de la mise sur le marché et, lorsque celui-ci ne fabrique pas la spécialité
 pharmaceutique, le nom et l'adresse du fabricant ;
 
-b) La dénomination spéciale du médicament, qui doit être un nom de fantaisie ou une dénomination commune assortie d'une
-marque ou du nom du fabricant, ou encore la dénomination scientifique usuelle assortie d'une marque ou du nom du fabricant ;
+b) La dénomination spéciale du médicament, qui doit être conforme aux dispositions du I de l'article R. 5000 ; ;
 
 c) La composition intégrale du médicament soit par unité de prise, soit par unité de poids ou de volume, énoncée en termes
-usuels à l'exclusion des formules chimiques brutes, avec recours à la dénomination commune internationale des composants,
-chaque fois que celle-ci a été recommandée par l'Organisation mondiale de la santé ;
+usuels pour le produit concerné à l'exclusion des formules chimiques brutes, avec recours à la dénomination commune
+internationale des composants, chaque fois que celle-ci a été recommandée par l'Organisation mondiale de la santé ;
 
-La demande est accompagnée d'un résumé des caractéristiques du produit défini à l'article R. 5128-1.
+La demande est accompagnée d'un résumé des caractéristiques du produit défini aux articles R. 5128-2 et R. 5128-3.
 
 Sans préjudice de l'application de la législation relative aux marques de fabrique, de commerce et de service, le nom de
 fantaisie mentionné en b ci-dessus doit être choisi de façon à éviter toute confusion avec d'autres médicaments et ne pas
@@ -59583,7 +59727,8 @@ induire en erreur sur la qualité ou les propriétés de la spécialité.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 8 () JORF 9 janvier 1994
 
 	**Cité par**:
 
@@ -59605,10 +59750,41 @@ induire en erreur sur la qualité ou les propriétés de la spécialité.
 
 	**Cite**:
 
-	  - Code de la santé publique - art. R5128-1 (T)
+	  - Code de la santé publique - art. R5000 (Ab)
+	  - Code de la santé publique - art. R5128-2 (M)
+	  - Code de la santé publique - art. R5128-3 (M)
 
 
 ###### Article R5128-1
+
+Lorsque la demande d'autorisation de mise sur le marché concerne un générateur, elle doit en outre comporter :
+
+a) Une description générale du système ainsi qu'une description détaillée des composantes du système susceptibles d'affecter
+la composition ou la qualité de la préparation du nucléide de filiation ;
+
+b) Les caractéristiques qualitatives et quantitatives de l'éluat ou du sublimé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 10 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
+	**Cité par**:
+
+	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
+	  - Code de la santé publique - art. R5049 (M)
+	  - Code de la santé publique - art. R5052-1 (M)
+	  - Code de la santé publique - art. R5128 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-22 (V)
+	  - Code de la santé publique - art. R5128-2 (M)
+
+
+###### Article R5128-2
 
 Le résumé des caractéristiques du produit comporte les renseignements suivants :
 
@@ -59645,7 +59821,9 @@ m) Mises en garde spéciales ;
 n) Contre-indications ;
 
 o) Précautions particulières d'emploi, notamment en cas de grossesse et d'allaitement, d'utilisation par des enfants ou des
-personnes âgées et dans des circonstances pathologiques particulières ;
+personnes âgées et dans des circonstances pathologiques particulières. S'il y a lieu, les précautions particulières qui
+doivent être prises par les personnes qui manipulent le médicament et qui l'administrent aux patients ainsi que les
+précautions qui doivent éventuellement être prises par le patient ;
 
 p) Effets sur la capacité de conduire des véhicules ou d'utiliser des machines ;
 
@@ -59655,29 +59833,75 @@ r) Posologie et mode d'administration ;
 
 s) Surdosage : symptômes, conduite d'urgence, antidotes ;
 
-t) Date d'établissement du résumé des caractéristiques du produit.
+t) Précautions particulières d'élimination des produits non utilisés ou des déchets dérivés de ces produits, s'il y a lieu.
+
+u) Date d'établissement du résumé des caractéristiques du produit.
 
 **Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°85-1216 1985-10-30 art. 2 JORF 21 novembre 1985
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 9 () JORF 9 janvier 1994
 
 	**Cité par**:
 
 	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
-	  - Code de la santé publique - art. R5049 (M)
-	  - Code de la santé publique - art. R5052-1 (M)
-	  - Code de la santé publique - art. R5128 (M)
+	  - Arrêté du 5 septembre 2001 - art. 12 (Ab)
+	  - Arrêté du 5 septembre 2001 - art. 13 (V)
+	  - Arrêté du 23 février 2004 - art. 1 (Ab)
+	  - Décret n°2016-1152 du 24 août 2016 - art. 1
+	  - Code de la route. - art. R235-11 (V)
+	  - Code de la route. - art. R235-5 (M)
+	  - Code de la santé publique - art. R5128 (Ab)
+	  - Code de la santé publique - art. R5128-3 (Ab)
+	  - Code de la santé publique - art. R5135-4 (Ab)
+	  - Code de la santé publique - art. R5142-15-13 (Ab)
+	  - Code de la santé publique - art. R5143 (Ab)
+	  - Code de la sécurité sociale. - art. R163-2 (V)
+	  - Code de la sécurité sociale. - art. R163-4 (M)
+	  - Code de la sécurité sociale. - art. R163-7 (V)
 
 	**Nouveaux textes**:
 
-	  - Code de la santé publique - art. R5121-22 (V)
+	  - Code de la santé publique - art. R5121-23 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R5128-1 (T)
+
+
+###### Article R5128-3
+
+Pour les médicaments radiopharmaceutiques, outre les renseignements mentionnés à l'article R. 5128-2, le résumé des
+caractéristiques doit comporter :
+
+a) Une information complète sur la dosimétrie interne de rayonnements ;
+
+b) Des instructions détaillées pour la préparation extemporanée et le contrôle de sa qualité et, le cas échéant, la période
+maximale de stockage durant laquelle toute préparation intermédiaire, telle que l'éluat ou le produit radiopharmaceutique
+prêt à l'emploi répond aux spécifications prévues.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 11 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
+	**Cité par**:
+
+	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
+	  - Code de la santé publique - art. R5128 (Ab)
+	  - Code de la santé publique - art. R5135-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-24 (V)
+
+	**Cite**:
+
 	  - Code de la santé publique - art. R5128-2 (M)
-
-	**Transféré par**:
-
-	  - Décret n°94-19 1993-12-31 art. 9 JORF 9 janvier 1994
 
 
 ###### Article R5129
@@ -59694,9 +59918,7 @@ ces techniques ;
 
 c) Les comptes rendus des expertises analytiques, pharmacologiques, toxicologiques et cliniques ;
 
-d) Un échantillon du modèle-vente de la spécialité pharmaceutique ou une maquette du conditionnement, celle-ci pouvant être
-réduite au projet d'étiquetage et au projet de notice si celle-ci est prévue, avec indication, pour chaque présentation, de
-la forme pharmaceutique et du contenu en poids, en volume ou en unités de prise ;
+d) Le projet de conditionnement extérieur et de conditionnement primaire et, s'il y a lieu, le projet de notice ;
 
 e) Copie des décisions autorisant la fabrication de la spécialité concernée et délivrées, selon le cas, soit en vertu de la
 législation nationale du fabricant, soit en application des articles R. 5108 et R. 5110 ou, le cas échéant, copie des
@@ -59714,7 +59936,8 @@ des communautés européennes, soit dans un pays tiers, pour autant que cette au
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 12 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cité par**:
 
@@ -59759,9 +59982,7 @@ d) La description des essais de stabilité ayant permis de déterminer la durée
 
 	**Modifié par**:
 
-	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
-	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-	  - Décret n°78-988 1978-09-20 ART. 8 JORF 6 octobre 1978
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Nouveaux textes**:
 
@@ -59787,8 +60008,7 @@ d'entreprendre des expertises sur l'homme avec toutes les garanties nécessaires
 
 	**Modifié par**:
 
-	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Nouveaux textes**:
 
@@ -59821,6 +60041,10 @@ e) Aux conditions normales et particulières de prescription, de délivrance et 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
+	**Modifié par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
 	**Cité par**:
 
 	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
@@ -59829,11 +60053,6 @@ e) Aux conditions normales et particulières de prescription, de délivrance et 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5121-28 (V)
-
-	**Modifié par**:
-
-	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
-	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
 
 
 ###### Article R5133
@@ -59895,7 +60114,7 @@ R. 5118, compte tenu notamment de la forme pharmaceutique et des constituants de
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cite**:
 
@@ -59923,9 +60142,9 @@ bioéquivalence entre les deux spécialités a été démontrée par des études
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-661 1988-05-06 art. 4 JORF 8 mai 1988
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 
 ###### Article R5134
@@ -59943,7 +60162,10 @@ c) Recueillir l'avis d'experts désignés par lui ;
 d) Désigner des rapporteurs qui s'assurent de la régularité des demandes par rapport aux dispositions du présent code.
 
 e) Exiger du demandeur qu'il complète son dossier, notamment en ce qui concerne les comptes rendus des essais analytiques,
-toxicologiques, pharmacologiques et cliniques.
+toxicologiques, pharmacologiques et cliniques.    f) Soumettre le médicament, ses matières premières et, si nécessaire, ses
+produits intermédiaires ou autres composants au contrôle de l'Agence du médicament pour s'assurer que les méthodes de
+contrôle utilisées par le fabricant et décrites dans le dossier de demande d'autorisation de mise sur le marché sont
+satisfaisantes.
 
 **Liens relatifs à cet article**
 
@@ -59954,7 +60176,8 @@ toxicologiques, pharmacologiques et cliniques.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 13 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Nouveaux textes**:
 
@@ -59986,7 +60209,7 @@ fournies.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cité par**:
 
@@ -60006,18 +60229,18 @@ fournies.
 
 ###### Article R5135-1
 
-Le titulaire de l'autorisation de mise sur le marché doit [*obligations*], après la délivrance de l'autorisation, modifier
-les méthodes de contrôle prévus au b) de l'article R. 5129 en fonction des progrès de la science et de l'évolution des
-techniques, de façon que la spécialité pharmaceutique soit contrôlée suivant les méthodes scientifiques généralement
-acceptées.
+Après délivrance de l'autorisation de mise sur le marché, les méthodes de fabrication et les techniques de contrôle
+mentionnées aux a et b de l'article R. 5129 doivent être modifiées en fonction des progrès scientifiques et techniques.
 
-Il soumet ces modifications des méthodes de contrôle à l'approbation du directeur général de l'Agence du médicament.
+Le titulaire de l'autorisation soumet pour approbation à l'Agence du médicament les projets de ces modifications. A défaut de
+décision dans un délai de deux mois, ces modifications sont réputées approuvées [*accord tacite*].
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 14 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cité par**:
 
@@ -60032,6 +60255,103 @@ Il soumet ces modifications des méthodes de contrôle à l'approbation du direc
 	**Cite**:
 
 	  - Code de la santé publique - art. R5129 (M)
+
+
+###### Article R5135-2
+
+Le ministre chargé de la santé peut, sur proposition du directeur général de l'Agence du médicament, exiger par arrêté que
+les entreprises exploitant certains médicaments immunologiques mentionnés à l'article L. 511-1 soumettent à l'Agence du
+médicament une copie de tous les comptes rendus de contrôle signés par le pharmacien responsable.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 15 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L511-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R5121-38 (V)
+
+
+###### Article R5135-3
+
+Pour des raisons de santé publique, l'Agence du médicament peut exiger qu'une entreprise exploitant :
+
+a) Un vaccin vivant ;
+
+b) Un médicament immunologique utilisé pour l'immunisation primaire de jeunes enfants ou des personnes appartenant à des
+groupes à risque ;
+
+c) Ou un médicament immunologique utilisé dans des programmes publics de vaccination,
+
+soumette à son contrôle des échantillons de chaque lot du produit en vrac et du produit fini avant la mise en circulation de
+ce lot.
+
+Lorsqu'il s'agit d'un médicament immunologique nouveau ou fabriqué à l'aide de techniques nouvelles ou modifiées ou
+présentant un caractère de nouveauté pour un fabricant déterminé, le directeur général de l'Agence du médicament peut
+préciser dans l'autorisation de mise sur le marché que des échantillons de chaque lot du produit en vrac et du produit fini
+devront être soumis avant sa mise en circulation à son contrôle pendant une période déterminée.
+
+L'Agence du médicament doit effectuer les contrôles mentionnés aux alinéas précédents dans un délai de soixante jours à
+compter de la réception des échantillons.
+
+Ces contrôles ne peuvent être exigés dans le cas d'un lot provenant d'un autre Etat membre de la Communauté économique
+européenne lorsque l'autorité compétente de cet Etat membre a déjà contrôlé ce lot et l'a déclaré conforme aux spécifications
+approuvées.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 15 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R5121-39 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R793-24 (Ab)
+
+
+###### Article R5135-4
+
+Le titulaire de l'autorisation de mise sur le marché soumet au directeur général de l'Agence du médicament tout projet de
+modification d'un élément relatif à l'étiquetage ou à la notice, autre que les modifications du résumé des caractéristiques
+du produit, prévu aux articles R. 5128-2 et R. 5128-3.
+
+Si le directeur général de l'Agence du médicament ne s'est pas prononcé dans un délai de quatre-vingt-dix jours à compter de
+la date de présentation de la demande, le demandeur peut procéder à la mise en oeuvre des modifications.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 15 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
+	**Cité par**:
+
+	  - Décret n°96-653 du 16 juillet 1996 - art. 1 (Ab)
+	  - Décret n°99-338 du 3 mai 1999 - art. 2 (Ab)
+	  - Décret n°2000-1194 du 5 décembre 2000 - art. 1 (Ab)
+	  - Décret n°2004-651 du 2 juillet 2004 - art. 1 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R5121-41 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5128-2 (M)
+	  - Code de la santé publique - art. R5128-3 (M)
 
 
 ###### Article R5136
@@ -60064,7 +60384,7 @@ La décision de rejet doit être motivée et elle doit mentionner les voies et d
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Anciens textes**:
 
@@ -60110,7 +60430,7 @@ articles R. 5140-1 et R. 5140-2. Le comité est informé de cette décision.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 
 ###### Article R5136-2
@@ -60130,7 +60450,7 @@ copie de sa demande au comité mentionné à l'article R. 5136-1.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cite**:
 
@@ -60164,7 +60484,7 @@ tacite*].
 
 	**Modifié par**:
 
-	  - Décret n°85-1216 1985-10-30 art. 7 JORF 21 novembre 1985
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Anciens textes**:
 
@@ -60217,7 +60537,7 @@ mois.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cite**:
 
@@ -60245,9 +60565,19 @@ Ces décisions interviennent lorsqu'il apparaît que la spécialité pharmaceuti
 d'emploi ou que l'effet thérapeutique fait défaut ou que la spécialité n'a pas la composition qualitative et quantitative
 déclarée.
 
-L'autorisation de mise sur le marché est également suspendue ou retirée lorsqu'il apparaît que les renseignements fournis à
-l'occasion de la demande d'autorisation de mise sur le marché sont erronés, que les conditions prévues à la présente section
-ne sont pas ou ne sont plus remplies ou que les contrôles n'ont pas été effectués.
+L'autorisation de mise sur le marché est également suspendue ou retirée par le directeur général de l'agence :
+
+a) Lorsqu'il apparaît que les renseignements fournis à l'occasion de la demande d'autorisation de mise sur le marché sont
+erronés, que les conditions prévues à la présente section ne sont pas ou ne sont plus remplies ou que les contrôles n'ont pas
+été effectués ;
+
+b) Lorsque l'étiquetage ou la notice du médicament ou du produit ne sont pas conformes aux prescriptions de la présente
+section.
+
+Sauf en cas d'urgence, la suspension ou le retrait mentionnés à l'alinéa précédent ne peuvent intervenir qu'après
+communication des griefs au titulaire de l'autorisation de mise sur le marché et, dans le cas prévu au b, que si celui-ci,
+mis en demeure de régulariser la situation du médicament ou du produit, n'a pas donné suite à cette mise en demeure dans le
+délai fixé par le directeur général de l'agence.
 
 Sans préjudice de l'application des dispositions du troisième alinéa de l'article R. 5140, la décision de suspension ou de
 retrait fait l'objet des autres mesures de publicité que le directeur général de l'Agence du médicament juge nécessaire
@@ -60272,7 +60602,8 @@ contestation.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 16 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cité par**:
 
@@ -60299,9 +60630,9 @@ transmise au comité, ainsi que la justification de l'urgence et la motivation d
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-661 1988-05-06 art. 6 JORF 8 mai 1988
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cité par**:
 
@@ -60372,7 +60703,7 @@ Ces décisions sont immédiatement communiquées au comité des spécialités ph
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Nouveaux textes**:
 
@@ -60416,7 +60747,7 @@ avis le comité des spécialités pharmaceutiques.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Nouveaux textes**:
 
@@ -60448,7 +60779,7 @@ comité des spécialités pharmaceutiques [*autorité compétente*].
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Nouveaux textes**:
 
@@ -60520,7 +60851,7 @@ pharmaceutiques, des organisations de consommateurs et de la mutualité françai
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cite**:
 
@@ -60541,7 +60872,7 @@ membre nouveau appelé à remplacer un suppléant prennent fin à la même date 
 
 	**Modifié par**:
 
-	  - Décret n°90-773 du 31 août 1990 - art. 2 () JORF 2 septembre 1990
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 
 ###### Article R5141-2
@@ -60558,7 +60889,7 @@ produits pharmaceutiques, ni avoir un intérêt financier direct ou indirect dan
 
 	**Modifié par**:
 
-	  - Décret n°84-309 1984-04-26 ART. 4 JORF 28 AVRIL 1984
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cite**:
 
@@ -60579,7 +60910,7 @@ La commission [*mentionnée à l'article R. 5140*] peut faire appel à des rappo
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cite**:
 
@@ -60599,15 +60930,15 @@ celle-ci sont secrètes.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
+	**Modifié par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
 	**Cite**:
 
 	  - Code pénal - art. 226-13 (M)
 	  - Code pénal - art. 226-14 (M)
 	  - Code de la santé publique - art. R5140 (M)
-
-	**Modifié par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 
 ###### Article R5141-5
@@ -60622,9 +60953,9 @@ mentionnée à l'article R5140.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-181 1978-02-09 ART. 2 JORF 22 FEVRIER 1978
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Cite**:
 
@@ -60652,7 +60983,7 @@ Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat ou d
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Nouveaux textes**:
 
@@ -60663,80 +60994,71 @@ Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat ou d
 	  - Code de la santé publique R5060 à R5089
 
 
-##### PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES.
+##### Paragraphe 3 : Etiquetage des médicaments ou produits soumis à autorisation
 
 ###### Article R5143
 
-1°) Sans préjudice des mentions exigées par d'autres dispositions législatives et réglementaires, l'étiquetage du récipient
-et du conditionnement d'une spécialité doivent porter les indications suivantes en caractères suffisamment lisibles
-[*mentions obligatoires*] :
+Sans préjudice des mentions exigées par d'autres dispositions législatives et réglementaires, l'étiquetage du conditionnement
+extérieur ou à défaut de conditionnement extérieur l'étiquetage du conditionnement primaire d'un médicament ou d'un produit
+mentionné à l'article L. 601 doit porter les mentions suivantes, inscrites de manière à être facilement lisibles, clairement
+compréhensibles et indélébiles :
 
-a) La dénomination spéciale prévue à l'article L. 601 et à l'article R. 5128 du présent code ; lorsque la dénomination
-spéciale est un nom de fantaisie et que la spécialité ne comporte qu'un principe actif, la dénomination commune
-internationale quand elle existe, ou dans le cas contraire, celle de la pharmacopée européenne ou française, ou à défaut, et
-dans le cas où elle serait utile à la connaissance du produit, la dénomination scientifique du principe actif doivent figurer
-en caractères très apparents immédiatement au-dessous du nom de fantaisie ;
+a) La dénomination du médicament ou du produit suivie de la dénomination commune lorsque le médicament ou le produit ne
+contient qu'un seul principe actif et que sa dénomination est un nom fantaisie ;
 
-b) La forme pharmaceutique, indication qui peut ne figurer que sur l'emballage extérieur ;
+b) La composition qualitative et quantitative en principes actifs par unités de prise ou, selon la forme d'administration,
+pour un volume ou un poids déterminé, en utilisant les dénominations communes ;
 
-c) La composition qualitative et quantitative en principes actifs par unité de prise ou, selon la forme d'administration,
-pour un volume ou un poids déterminés en utilisant les dénominations communes internationales lorsqu'elles existent ou, à
-défaut, celles de la pharmacopée européenne ou française ;
+c) La forme pharmaceutique et le contenu en poids, en volume ou en unités de prise ;
 
-d) Le mode d'administration ;
+d) La liste des excipients qui ont une action ou un effet notoire et qui sont mentionnés dans les bonnes pratiques
+d'étiquetage prévues à l'article R. 5143-7. Toutefois, s'il s'agit d'un produit injectable, d'une préparation topique ou d'un
+collyre, tous les excipients doivent être mentionnés ;
 
-e) La date limite d'utilisation en clair accompagnée, chaque fois que nécessaire, d'une mention précisant que cette date
-n'est valable que pour les médicaments dont le conditionnement n'a pas été ouvert et qui sont conservés dans des conditions
-convenables ;
+e) Le mode d'administration et, si nécessaire, la voie d'administration ;
 
-f) Le nom et l'adresse du responsable de la mise sur le marché et, lorsque celui-ci ne fabrique pas la spécialité
-pharmaceutique, le nom et l'adresse du fabricant ;
+f) La mention : "Ne pas laisser à la portée des enfants" ;
 
-g) Le numéro d'identification administrative de la spécialité ;
+g) Une mise en garde spéciale, si elle s'impose pour ce médicament ;
 
 h) Le numéro du lot de fabrication ;
 
-i) Le nombre d'unités de prise ou, à défaut, la contenance du récipient, cette mention pouvant ne figurer que sur l'emballage
-extérieur ;
+i) La date de péremption en clair ;
 
-j) Les précautions particulières de conservation.
+j) Les précautions particulières de conservation, s'il y a lieu ;
 
-k) Le prix limite de vente au public lorsqu'un tel prix est fixé en application des lois et réglements en vigueur.
+k) Les précautions particulières d'élimination des produits non utilisés ou des déchets dérivés de ces produits s'il y a
+lieu ;
 
-2° Lorsqu'une notice est jointe au conditionnement, elle doit comporter au moins les indications suivantes :
+l) Le nom et l'adresse de l'entreprise exploitant le médicament ou le produit et, lorsque celle-ci ne fabrique pas le
+médicament ou le produit, le nom et l'adresse du fabricant ;
 
-a) Nom ou raison sociale et domicile ou siège social du responsable de la mise sur le marché et, le cas échéant, du
-fabricant ;
+m) La mention : "Médicament autorisé n°" suivie du numéro de l'autorisation de mise sur le marché ;
 
-b) Dénomination et composition qualitative et quantitative de la spécialité pharmaceutique en principes actifs, en utilisant
-les dénominations communes internationales lorsqu'elles existent ou à défaut celles de la pharmacopée européenne ou
-française ;
+n) Pour les médicaments non soumis à prescription, l'indication thérapeutique ;
 
-c) Toute indication relatives à l'utilisation de la spécialité pharmaceutique, telle que voie d'administration, durée du
-traitement lorsqu'elle doit être limitée, posologie usuelle ;
+o) Le prix limite de vente au public lorsqu'un tel prix est fixé en application des lois et règlements en vigueur ;
 
-d) Sauf décision contraire des autorités compétentes, les indications thérapeutiques, contre-indications, effets secondaires
-et précautions particulières d'emploi déterminées lors de l'autorisation de mise sur le marché ou à la suite de l'expérience
-acquise.
+p) Les conditions de remboursement par les organismes d'assurance maladie ;
 
-3° La notice est obligatoire si les précisions mentionnées au c et d du 2° ci-dessus ne sont pas portées sur l'étiquetage du
-récipient et du conditionnement.
+q) La classification en matière de délivrance du médicament, mentionnée dans l'autorisation de mise sur le marché.
 
-4° Lorsqu'une spécialité est présentée en ampoules, les indications répondant aux dispositions précédentes doivent être
-mentionnées sur les emballages extérieurs.
+Le conditionnement extérieur peut comporter, outre le signe distinctif de l'entreprise, des signes ou des pictogrammes
+explicitant certaines des informations ci-dessus ainsi que d'autres informations compatibles avec le résumé des
+caractéristiques du produit. Ces éléments doivent être utiles pour l'éducation sanitaire et ne présenter aucun caractère
+promotionnel.
 
-Les ampoules peuvent ne porter que les indications suivantes :
+Les mentions prévues ci-dessus doivent être rédigées en français. Elles peuvent en outre être rédigées dans d'autres langues,
+à condition que les mêmes mentions figurent dans toutes les langues utilisées.
 
-a) La dénomination spéciale ;
+**Nota:**
 
-b) Le numéro du lot de fabrication et la date de péremption et, sauf dérogations accordées par le ministre chargé de la
-santé, la composition quantitative en principes actifs et la voie d'administration.
+[*Nota : Décret 93-14 du 31 décembre 1993 art. 23 : ces dispositions ne sont applicables aux médicaments ou produits
+mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 janvier 1994, qu'à compter du premier
+renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]    [*Nota : Code
+de la santé publique R. 5143-1 :
 
-5° Des arrêtés du ministre chargé de la santé détermineront, s'il y a lieu, sur proposition du directeur général de l'Agence
-du médicament, les conditions particulières d'application du présent article en ce qui concerne notamment les mentions à
-porter sur le conditionnement des spécialités pharmaceutiques destinées aux établissements hospitaliers et les signes
-distinctifs à faire figurer sur le conditionnement ou l'étiquette des médicaments lorsqu'il est nécessaire de signaler à
-l'attention des utilisateurs des précautions d'emploi à respecter.
+dérogation.*]
 
 **Liens relatifs à cet article**
 
@@ -60756,24 +61078,35 @@ l'attention des utilisateurs des précautions d'emploi à respecter.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 17 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 18 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 3 mai 1999
 	  - TXT_SOURCE: Arrêté du 3 mai 1999 - art. 1 (V)
 
-	**Cite**:
-
-	  - Code de la santé publique - art. L601 (M)
-	  - Code de la santé publique - art. R5128 (M)
-
 
 ###### Article R5143-1
 
-A titre exceptionnel, le directeur général de l'Agence du médicament peut, sur demande motivée du titulaire de l'autorisation
-de mise sur le marché, l'autoriser à présenter sous un seul [*nombre*] conditionnement plusieurs spécialités ayant obtenu
-chacune une autorisation de mise sur le marché.
+Par dérogation aux dispositions de l'article R. 5143, lorsque les médicaments ou les produits sont contenus dans un
+conditionnement extérieur conforme aux prescriptions dudit article, les conditionnements primaires sous forme de blister
+doivent porter au moins les indications suivantes :
+
+a) La dénomination du médicament ou du produit ;
+
+b) Le nom de l'entreprise exploitant le médicament ou le produit ;
+
+c) Le numéro du lot de fabrication ;
+
+d) La date de péremption.
+
+**Nota:**
+
+[*Nota : Décret 93-14 du 31 décembre 1993 art. 23 : ces dispositions ne sont applicables aux médicaments ou produits
+mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 janvier 1994, qu'à compter du premier
+renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]
 
 **Liens relatifs à cet article**
 
@@ -60784,15 +61117,161 @@ chacune une autorisation de mise sur le marché.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 17 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 20 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
-	**Transféré par**:
+	**Cite**:
+
+	  - Code de la santé publique - art. R5143 (M)
+
+
+###### Article R5143-2
+
+Les ampoules ou autres petits conditionnements primaires sur lesquels il est impossible de mentionner l'ensemble des
+indications prévues à l'article R. 5143 peuvent ne porter que les indications suivantes :
+
+a) La dénomination du médicament ou du produit ;
+
+b) Le mode d'administration et, si nécessaire, la voie d'administration ;
+
+c) La date de péremption ;
+
+d) Le numéro du lot de fabrication ;
+
+e) Le contenu en poids, en volume ou en unités.
+
+**Nota:**
+
+[*Nota : Décret 93-14 du 31 décembre 1993 art. 23 : ces dispositions ne sont applicables aux médicaments ou produits
+mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 janvier 1994, qu'à compter du premier
+renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 17 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 20 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5143 (M)
+
+
+###### Article R5143-3
+
+Pour les médicaments contenant des radionucléides, outre les mentions prévues à l'article R. 5143, l'étiquetage du blindage
+de protection doit fournir toutes les explications relatives aux codes utilisés sur le flacon et indiquer, s'il y a lieu, la
+quantité totale ou unitaire de radioactivité pour une heure et date données ainsi que le nombre de capsules ou, pour les
+liquides, le nombre de millilitres contenus dans le récipient.
+
+L'étiquetage du conditionnement primaire doit comporter les renseignements suivants :
+
+a) Le nom ou le code du médicament, y compris le nom ou le symbole chimique du radionucléide ;
+
+b) L'identification du lot et la date de péremption ;
+
+c) Le nom et l'adresse de l'entreprise exploitant le médicament ou le produit et, lorsque celle-ci ne fabrique pas le
+médicament ou le produit, le nom et l'adresse du fabricant ;
+
+d) Le symbole international de la radioactivité ;
+
+e) La quantité totale ou unitaire de la radioactivité.
+
+**Nota:**
+
+[*Nota : Décret 93-14 du 31 décembre 1993 art. 23 : ces dispositions ne sont applicables aux médicaments ou produits
+mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 janvier 1994, qu'à compter du premier
+renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 17 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 20 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5143 (M)
+
+
+##### Paragraphe 5 : Dispositions diverses
+
+###### Article R5143-6
+
+A titre exceptionnel, le directeur général de l'Agence du médicament peut, sur demande motivée du titulaire de l'autorisation
+de mise sur le marché, l'autoriser à présenter sous un seul [*nombre*] conditionnement plusieurs spécialités ayant obtenu
+chacune une autorisation de mise sur le marché.
+
+**Nota:**
+
+[*Nota : Décret 93-14 du 31 décembre 1993 art. 23 : ces dispositions ne sont applicables aux médicaments ou produits
+mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 janvier 1994, qu'à compter du premier
+renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
 
 	  - Décret n°94-19 du 5 janvier 1994 - art. 19 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 22 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
+	**Anciens textes**:
+
+	  - Code de la santé publique R5143-1
+
+
+###### Article R5143-7
+
+Le titulaire de l'autorisation de mise sur le marché doit se conformer à de bonnes pratiques d'étiquetage et de notice
+établies par le ministre chargé de la santé sur proposition de l'Agence du médicament.
+
+**Nota:**
+
+[*Nota : Décret 93-14 du 31 décembre 1993 art. 23 : ces dispositions ne sont applicables aux médicaments ou produits
+mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 janvier 1994, qu'à compter du premier
+renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 22 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5142-27 (M)
+	  - Code de la santé publique - art. R5143 (Ab)
 
 	**Nouveaux textes**:
 
-	  - Code de la santé publique R5143-6
+	  - Code de la santé publique - art. R5143-27 (M)
 
 
 ###### Article R5144
@@ -60803,6 +61282,12 @@ le conditionnement des spécialités pharmaceutiques destinées aux établisseme
 faire figurer sur le conditionnement et l'étiquette des médicaments lorsqu'il est nécessaire de signaler à l'attention de
 l'utilisateur des précautions d'emploi à respecter.
 
+**Nota:**
+
+[*Nota : Décret 93-14 du 31 décembre 1993 art. 23 : ces dispositions ne sont applicables aux médicaments ou produits
+mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 janvier 1994, qu'à compter du premier
+renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -60812,11 +61297,152 @@ l'utilisateur des précautions d'emploi à respecter.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 7 () JORF 7 août 1993
+	  - Décret n°94-19 du 5 janvier 1994 - art. 17 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 22 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5121-202 (V)
+
+
+##### Paragraphe 4 : Notice des médicaments ou produits soumis à autorisation
+
+###### Article R5143-4
+
+La présence d'une notice d'information pour l'utilisateur dans le conditionnement de tout médicament ou produit est
+obligatoire, sauf si les mentions citées à l'article R. 5143-5 figurent directement sur le conditionnement extérieur ou le
+conditionnement primaire.
+
+Elle doit être rédigée en français, en termes aisément compréhensibles pour l'utilisateur et suffisamment lisibles.
+
+Elle peut en outre être rédigée en plusieurs langues, à condition que les mêmes informations figurent dans toutes les langues
+utilisées.
+
+**Nota:**
+
+[*Nota : Décret 93-14 du 31 décembre 1993 art. 23 : ces dispositions ne sont applicables aux médicaments ou produits
+mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 janvier 1994, qu'à compter du premier
+renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 17 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 21 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
+	**Cite**:
+
+	  - Code de la santé publique R5143-5
+
+
+###### Article R5143-5
+
+La notice doit être établie en conformité avec le résumé des caractéristiques du produit. Elle doit comporter, dans l'ordre,
+les indications suivantes :
+
+1. Pour l'identification du médicament ou du produit :
+
+a) La dénomination du médicament ou du produit suivie de la dénomination commune lorsqu'il ne contient qu'un seul principe
+actif et que sa dénomination est un nom de fantaisie ;
+
+b) La composition qualitative complète en principes actifs et excipients ainsi que la composition quantitative en principes
+acifs, en utilisant les dénominations communes pour chaque présentation du médicament ou du produit ;
+
+c) La forme pharmaceutique et le contenu en poids, en volume ou en unité de prises, pour chaque présentation du médicament ou
+du produit ;
+
+d) La classe pharmaco-thérapeutique ou le type d'activité ;
+
+e) Le nom et l'adresse de l'entreprise exploitant le médicament ou le produit et, lorsque celle-ci ne fabrique pas le
+médicament ou le produit, le nom et l'adresse du fabricant.
+
+2. Les indications thérapeutiques.
+
+3. L'énumération des informations nécessaires avant la prise du médicament relatives aux contre-indications, aux précautions
+d'emploi, aux interactions médicamenteuses et autres interactions susceptibles d'affecter l'action du médicament et aux mises
+en garde spéciales.
+
+Cette énumération doit :
+
+a) Tenir compte de la situation particulière des catégories suivantes d'utilisateurs : enfants, femmes enceintes ou
+allaitant, personnes âgées, personnes présentant certaines pathologies spécifiques ;
+
+b) Mentionner, s'il y a lieu, les effets possibles du traitement sur la capacité à conduire un véhicule ou à utiliser
+certaines machines ;
+
+c) Comporter une liste des excipients dont la connaissance est nécessaire pour une utilisation efficace et sans risque du
+médicament ou du produit et qui sont définis par les bonnes pratiques d'étiquetage prévues à l'article R. 5143-7.
+
+4. Les instructions nécessaires pour un bon usage, en particulier :
+
+a) La posologie ;
+
+b) Le mode et, si nécessaire, la voie d'administration ;
+
+c) La fréquence de l'administration, en précisant, si nécessaire, le moment auquel le médicament ou produit peut ou doit être
+administré,
+
+et, le cas échéant, selon la nature du produit :
+
+d) La durée du traitement ;
+
+e) La conduite à tenir en cas de surdosage ;
+
+f) La conduite à tenir au cas où l'administration d'une ou plusieurs doses a été omise ;
+
+g) La mention, si nécessaire, d'un risque de syndrome de sevrage.
+
+5. Une description des effets indésirables pouvant être observés lors de l'usage normal du médicament ou du produit et, le
+cas échéant, la conduite à tenir, ainsi qu'une invitation expresse pour le patient à communiquer à son médecin ou à son
+pharmacien tout effet indésirable qui ne serait pas mentionné dans la notice.
+
+6. Un renvoi à la date de péremption figurant sur le conditionnement extérieur, avec :
+
+a) Une mise en garde contre tout dépassement de cette date ;
+
+b) S'il y a lieu, les précautions particulières de conservation ;
+
+c) S'il y a lieu, une mise en garde en cas de signes visibles de détérioration.
+
+7. La date à laquelle la notice a été révisée pour la dernière fois.
+
+Pour les préparations radiopharmaceutiques, la notice doit, en outre, mentionner les précautions à prendre par l'utilisateur
+et le patient durant la préparation et l'administration du produit et les précautions spéciales pour l'élimination du
+conditionnement et de ses contenus non utilisés.
+
+La notice peut comporter, outre le signe distinctif de l'entreprise, des signes ou des pictogrammes explicitant certaines des
+informations ci-dessus ainsi que d'autres informations compatibles avec le résumé des caractéristiques du produit. Ces
+éléments doivent être utiles pour l'éducation sanitaire et ne présenter aucun caractère promotionnel.
+
+Le directeur général de l'Agence du médicament peut autoriser que ne figurent pas sur la notice les indications
+thérapeutiques dont la mention est susceptible d'entraîner des inconvénients graves pour certains patients.
+
+**Nota:**
+
+[*Nota : Décret 93-14 du 31 décembre 1993 art. 23 : ces dispositions ne sont applicables aux médicaments ou produits
+mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 janvier 1994, qu'à compter du premier
+renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-19 du 5 janvier 1994 - art. 17 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 21 () JORF 9 janvier 1994
+	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
 
 
 #### CHAPITRE 3 : PHARMACIE VETERINAIRE
