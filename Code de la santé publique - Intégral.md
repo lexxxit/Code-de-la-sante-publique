@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1978-03-01
+Version Consolidée au 1978-07-07
 
 # Partie législative ancienne
 
@@ -20303,6 +20303,49 @@ réserve des règlements particuliers concernant certains d'entre eux.
 	  - Code de la santé publique - art. L662 (Ab)
 
 
+###### Article L512-1
+
+Par dérogation aux dispositions de l'article L. 512 (3°), les produits destinés à l'entretien des lentilles oculaires de
+contact peuvent être également vendus au public par les opticiens lunetiers [*compétence*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte sous réserve des dispositions de l'article 43.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°78-699 1978-07-06 art. 2 JORF 7 juillet 1978
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 43 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4211-4 (Ab)
+	  - Code de la santé publique - art. L4211-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L512 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
 ###### Article L513
 
 La préparation et la délivrance des vaccins, sérums et allergènes, lorsqu'ils sont préparés spécialement pour un seul
@@ -29139,6 +29182,118 @@ au code de la consommation correspondantes.*]
 	**Créé par**:
 
 	  - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
+
+
+#### Chapitre 9 : Autres substances et objets
+
+###### Article L658-11
+
+Les insecticides et les acaricides destinés à être appliqués sur l'homme et les produits destinés à l'entretien ou
+l'application des lentilles de contact doivent, avant leur mise sur le marché à titre onéreux ou à titre gratuit, faire
+l'objet d'une autorisation [*obligatoire*] par le ministre chargé de la santé [*autorité compétente*].
+
+Cette autorisation peut être assortie de conditions adéquates ;
+
+elle n'est accordée que lorsque le fabricant justifie :
+
+1° Qu'il a fait procéder à la vérification de l'innocuité du produit dans des conditions normales d'emploi ainsi qu'à son
+analyse qualitative et quantitative ;
+
+2° Qu'il dispose effectivement d'une méthode de fabrication et de procédés de contrôle de nature à garantir la qualité du
+produit au stade de la fabrication en série.
+
+Cette autorisation est délivrée pour une durée de cinq ans ;
+
+elle est ensuite renouvelable par période quinquennale.
+
+Elle peut être suspendue ou supprimée par le ministre chargé de la santé.
+
+L'accomplissement des formalités prévues au présent article n'a pas pour effet d'exonérer le fabricant de la responsabilité
+qu'il peut encourir dans les conditions du droit commun en raison de la fabrication ou de la mise sur le marché du produit.
+
+Toute demande d'autorisation doit être accompagnée du versement du droit fixe prévu à l'article L. 602.
+
+Un décret en Conseil d'Etat précisera les conditions d'application du présent article.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°78-699 1978-07-06 art. 4 JORF 7 juillet 1978
+
+	**Cité par**:
+
+	  - Décret n°81-278 du 25 mars 1981 - art. 1 (M)
+	  - Décret n°81-278 du 25 mars 1981 - art. Annexe (M)
+	  - Arrêté du 22 février 1990 - art. 1 (V)
+	  - Arrêté du 14 février 1991 - art. 1 (V)
+	  - Décret n°93-1322 du 20 décembre 1993 - art. 1 (Ab)
+	  - Décret n°96-653 du 16 juillet 1996 - art. 1 (Ab)
+	  - Arrêté du 12 avril 1999 - art. 1 (Ab)
+	  - Code de la santé publique - art. D711-9-1 (Ab)
+	  - Code de la santé publique - art. L511-2 (Ab)
+	  - Code de la santé publique - art. L513-1 (Ab)
+	  - Code de la santé publique - art. L518 (Ab)
+	  - Code de la santé publique - art. L551-9 (Ab)
+	  - Code de la santé publique - art. L562-1 (M)
+	  - Code de la santé publique - art. L567-2 (Ab)
+	  - Code de la santé publique - art. L567-4 (M)
+	  - Code de la santé publique - art. L567-9 (Ab)
+	  - Code de la santé publique - art. L596 (Ab)
+	  - Code de la santé publique - art. L598 (M)
+	  - Code de la santé publique - art. L600 (Ab)
+	  - Code de la santé publique - art. R145-5-2 (Ab)
+	  - Code de la santé publique - art. R145-7 (T)
+	  - Code de la santé publique - art. R2018-1 (M)
+	  - Code de la santé publique - art. R2032 (M)
+	  - Code de la santé publique - art. R2033 (Ab)
+	  - Code de la santé publique - art. R5050 (Ab)
+	  - Code de la santé publique - art. R5050-1 (Ab)
+	  - Code de la santé publique - art. R5050-2 (Ab)
+	  - Code de la santé publique - art. R5050-3 (Ab)
+	  - Code de la santé publique - art. R5056 (M)
+	  - Code de la santé publique - art. R5106 (Ab)
+	  - Code de la santé publique - art. R5106-1 (Ab)
+	  - Code de la santé publique - art. R5108 (M)
+	  - Code de la santé publique - art. R5115-10 (Ab)
+	  - Code de la santé publique - art. R5115-14 (Ab)
+	  - Code de la santé publique - art. R5115-4 (Ab)
+	  - Code de la santé publique - art. R5115-6 (Ab)
+	  - Code de la santé publique - art. R5115-8 (Ab)
+	  - Code de la santé publique - art. R5115-9 (Ab)
+	  - Code de la santé publique - art. R5144-1 (Ab)
+	  - Code de la santé publique - art. R5144-3 (Ab)
+	  - Code de la santé publique - art. R5153-10 (Ab)
+	  - Code de la santé publique - art. R5190 (Ab)
+	  - Code de la santé publique - art. R5201 (Ab)
+	  - Code de la santé publique - art. R5266-13 (Ab)
+	  - Code de la santé publique - art. R5266-14 (Ab)
+	  - Code de la santé publique - art. R5266-15 (Ab)
+	  - Code de la santé publique - art. R5266-16 (Ab)
+	  - Code de la santé publique - art. R5266-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5136-1 (Ab)
+	  - Code de la santé publique - art. L5136-3 (Ab)
+	  - Code de la santé publique - art. L5136-4 (Ab)
+	  - Code de la santé publique - art. L5136-5 (Ab)
+	  - Code de la santé publique - art. L5136-6 (Ab)
+	  - Code de la santé publique - art. L5436-3 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L602 (M)
 
 
 ### Titre 4 : Dispositions diverses et dispositions transitoires
