@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1986-01-11
+Version Consolidée au 1986-01-18
 
 # Partie législative ancienne
 
@@ -21897,6 +21897,47 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L4363-4 (V)
 
 
+###### Article L510
+
+Par dérogation aux dispositions de l'article L. 505, peuvent également exercer la profession d'opticien-lunetier détaillant
+les personnes non munies de diplômes qui justifient avoir exercé pendant cinq au moins [*durée*], avant le 1er janvier 1955
+[*date limite*], une activité professionnelle d'opticien-lunetier détaillant.
+
+Les modalités d'application du présent article sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°86-76 du 17 janvier 1986 - art. 13 () JORF 18 janvier 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°87-853 du 15 octobre 1987
+	  - TXT_SOURCE: Décret n°87-853 du 15 octobre 1987 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°87-853 du 15 octobre 1987 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°87-853 du 15 octobre 1987 - art. 3 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°87-853 du 15 octobre 1987 - art. 1 (Ab)
+	  - Décret n°87-853 du 15 octobre 1987 - art. 2 (Ab)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4362-6 (M)
+	  - Code de la santé publique - art. L4362-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L505 (M)
+
+
 ### Titre 5 : Profession d'audioprothésiste
 
 ###### Article L510-1
@@ -22173,6 +22214,127 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	  - Code de la santé publique - art. L4363-6 (Ab)
 	  - Code de la santé publique - art. L4363-6 (M)
+
+
+### Titre 5 bis : Profession de diététicien
+
+###### Article L510-8-1
+
+L'usage professionnel du titre de diététicien, accompagné ou non d'un qualificatif, est réservé aux titulaires d'un diplôme,
+certificat ou titre sanctionnant une formation technique de diététique et figurant sur une liste établie par décret ou aux
+titulaires d'un diplôme étranger conférant une qualification reconnue analogue selon des modalités fixées par décret
+[*bénéficiaires*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°86-76 du 17 janvier 1986 - art. 14 () JORF 18 janvier 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°88-403 du 20 avril 1988
+	  - TXT_SOURCE: Décret n°88-403 du 20 avril 1988 - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°92-785 du 6 août 1992 - art. 12 (Ab)
+	  - Code de la santé publique - art. L510-8-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4371-1 (M)
+	  - Code de la santé publique - art. L4371-1 (V)
+	  - Code de la santé publique - art. L4371-2 (M)
+	  - Code de la santé publique - art. L4371-2 (V)
+
+
+###### Article L510-8-2
+
+Peuvent être également autorisées à faire usage du titre de diététicien les personnes qui satisfont à l'une des deux
+conditions ci-après [*bénéficiaires*] :
+
+- occuper un emploi permanent de diététicien en qualité de fonctionnaire ou d'agent public à la date d'entrée en vigueur de
+la loi n° 86-76 du 17 janvier 1986 portant diverses dispositions d'ordre social ;
+
+- faire l'objet, sur leur demande, d'une décision administrative reconnaissant qu'elles remplissaient, à la date d'entrée en
+vigueur de la loi n° 86-76 du 17 janvier 1986 précitée, les conditions de formation ou d'expérience professionnelle leur
+conférant une qualification analogue à celle des titulaires des documents mentionnés à l'article L. 510-8-1.
+
+Les conditions de formation ou d'expérience professionnelle à remplir et les modalités de la décision administrative sont
+déterminées par décret.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°86-76 1986-01-17
+	  - Code de la santé publique - art. L510-8-1 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°86-76 du 17 janvier 1986 - art. 14 () JORF 18 janvier 1986
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°88-404 du 20 avril 1988
+	  - TXT_SOURCE: Décret n°88-404 du 20 avril 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°88-404 du 20 avril 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°88-404 du 20 avril 1988 - art. 3 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°88-404 du 20 avril 1988 - art. 1 (Ab)
+	  - Décret n°88-404 du 20 avril 1988 - art. 2 (Ab)
+	  - Décret n°92-785 du 6 août 1992 - art. 12 (Ab)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4371-3 (M)
+	  - Code de la santé publique - art. L4371-3 (V)
+
+
+###### Article L510-8-3
+
+L'usurpation du titre de diététicien est punie des peines prévues à l'article 259 du code pénal.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°86-76 du 17 janvier 1986 - art. 14 () JORF 18 janvier 1986
+
+	**Cite**:
+
+	  - Code pénal 259
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4372-1 (V)
 
 
 ### Titre 6 : Dispositions diverses
@@ -29775,6 +29937,51 @@ D'autres examens médicaux pourront être demandés par la personne retenue. Ces
 	  - CODE DE PROCEDURE PENALE - art. R117 (M)
 
 
+###### Article L627-2
+
+Seront punis d'un emprisonnement d'un an à cinq ans et d'une amende de 5.000 F à 500.000 F, ou de l'une de ces deux peines
+seulement, ceux qui auront cédé ou offert des stupéfiants à une personne en vue de sa consommation personnelle.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°84-610 du 16 juillet 1984 - art. 43 (Ab)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 29 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+	  - Décret n°2004-470 du 25 mai 2004 - art. 13 (V)
+	  - Code de la santé publique - art. L627-3 (Ab)
+	  - Code de la santé publique - art. L629 (M)
+	  - Code de la santé publique - art. L629-1 (M)
+	  - Code de la santé publique - art. L629-2 (M)
+	  - Code de la santé publique - art. L630-1 (Ab)
+	  - Code de la santé publique - art. L630-3 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°86-76 du 17 janvier 1986 - art. 2 () JORF 18 janvier 1986
+
+
+###### Article L627-3
+
+Lorsqu'une personne poursuivie pour une infraction visée à l'article L. 627-2 est traduite devant le tribunal selon la
+procédure de la comparution immédiate, le tribunal peut ordonner une enquête de personnalité.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°86-76 du 17 janvier 1986 - art. 3 () JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 223 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L627-2 (M)
+
+
 ###### Article L628-1
 
 Le procureur de la République pourra enjoindre aux personnes ayant fait un usage illicite de stupéfiants [*toxicomanes*] de
@@ -30040,8 +30247,11 @@ Dans les cas prévus au premier alinéa et au 3° du quatrième alinéa de l'art
 condamné l'exercice de la profession à l'occasion de laquelle le délit aura été commis pendant un délai qui ne pourra excéder
 cinq ans [*délai de prescription*].
 
-Dans les cas prévus au premier alinéa de l'article L. 627, la confiscation des matériels et installations ayant servi à la
-fabrication et au transport des substances ou plantes devra être ordonnée.
+Dans les cas prévus par les alinéas premier et deuxième de l'article L. 627, seront saisis et confisqués les installations,
+matériels et tous biens mobiliers ayant servi, directement ou indirectement, à la commission de l'infraction ainsi que tout
+produit provenant de celle-ci, à quelque personne qu'ils appartiennent à moins que les propriétaires n'établissent leur bonne
+foi. Les frais d'enlèvement et de transport de ces installations, matériels et biens seront à la charge du condamné ; s'ils
+ont été avancés pas l'administration, ils seront recouvrés comme frais de justice criminelle.
 
 Dans les cas prévus au 1° du quatrième alinéa de l'article L. 627, les tribunaux pourront ordonner la confiscation des
 ustensiles, matériels et meubles dont les lieux seront garnis et décorés, ainsi que l'interdiction pour le délinquant,
@@ -30054,14 +30264,9 @@ article sera puni d'un emprisonnement de six mois au moins et de deux ans au plu
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
 	**Modifié par**:
 
-	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+	  - Loi n°86-76 du 17 janvier 1986 - art. 4 () JORF 18 janvier 1986
 
 	**Cité par**:
 
@@ -30196,8 +30401,8 @@ tiré profit, si le délit a été commis par toute autre voie.
 
 Sans préjudice de l'application des articles 23 et suivants de l'ordonnance n° 45-2658 du 2 novembre 1945, les tribunaux
 pourront prononcer l'interdiction du territoire français, pour une durée de deux à cinq ans, contre tout étranger condamné
-pour les délits prévus par les articles L. 626, L. 628, L. 628-4 et L. 630. Ils pourront prononcer l'interdiction définitive
-du territoire français contre tout étranger condamné pour les délits prévus à l'article L. 627.
+pour les délits prévus par les articles L. 626, L. 627-2, L. 628, L. 628-4 et L. 630. Ils pourront prononcer l'interdiction
+définitive du territoire français contre tout étranger condamné pour les délits prévus à l'article L. 627.
 
 L'interdiction du territoire français entraîne de plein droit la reconduite du condamné à la frontière à l'expiration de sa
 peine.
@@ -30213,14 +30418,14 @@ Le condamné sera dans tous les cas soumis aux dispositions des articles 27, 28 
 	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 28 (M)
 	  - Code de la santé publique - art. L626 (M)
 	  - Code de la santé publique - art. L627 (M)
+	  - Code de la santé publique - art. L627-2 (M)
 	  - Code de la santé publique - art. L628 (Ab)
 	  - Code de la santé publique - art. L628-4 (Ab)
 	  - Code de la santé publique - art. L630 (M)
 
 	**Modifié par**:
 
-	  - Loi n°83-466 du 10 juin 1983 - art. 39 () JORF 11 juin 1983 en vigueur le 1er janvier 1984
-	  - Loi n°85-10 du 3 janvier 1985 - art. 101 () JORF 4 janvier 1985
+	  - Loi n°86-76 du 17 janvier 1986 - art. 5 () JORF 18 janvier 1986
 
 	**Cité par**:
 
@@ -42241,6 +42446,36 @@ liste établie par arrêté conjoint du ministre chargé de la santé et du mini
 	  - Code de la santé publique - art. L596 (M)
 
 
+###### Article R5107-2
+
+Le pharmacien responsable d'un établissement de préparation, d'importation, de vente en gros ou de distribution en gros de
+spécialités pharmaceutiques contenant des radio-éléments artificiels doit posséder la qualification prévue à l'article R.
+5234-1 du présent code ou être assisté d'une personne compétente ayant cette qualification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 8 JORF 18 janvier 1986
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-79 du 11 février 1998 - art. 7 () JORF 13 février 1998
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5234 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5234-1 (Ab)
+
+
 ###### Article R5108
 
 Un arrêté du ministre de la santé publique et de la population fixe les formes et conditions dans lesquelles sont présentées
@@ -43141,6 +43376,32 @@ nécessaires.
 	**Créé par**:
 
 	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+###### Article R5115-8
+
+Les établissements pharmaceutiques préparant, important ou distribuant des spécialités pharmaceutiques contenant des radio-
+éléments artificiels doivent disposer de locaux répondant aux conditions minimales fixées par l'arrêté prévu à l'article R.
+5234-1, troisième alinéa, du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 8 JORF 18 janvier 1986
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5115-4 (Ab)
+	  - Code de la santé publique - art. R5234 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-53 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5234-1 (Ab)
 
 
 ##### Section 2 : Spécialités pharmaceutiques
@@ -51630,28 +51891,36 @@ Les règles générales selon lesquelles la publicité prévue à l'article L. 6
 
 ###### Article R5234
 
-La préparation, l'importation et l'exportation par toute personne physique ou morale autre que le commissariat à l'énergie
-atomique et la cession par quiconque de radio-éléments artificiels ou de produits en contenant destinés à la biologie humaine
-ou aux applications thérapeutiques, sont soumises à l'autorisation du ministre de la santé publique et de la population
-[*autorité compétente*], après avis de la première section instituée par l'article R. 5232 [*formalité obligatoire*].
+Les dispositions du présent article et celles des articles R. 5234-1 à R. 5234-6 sont applicables dans les cas où les radio-
+éléments artificiels sont destinés à la médecine ou à la biologie humaine.
 
-Les conditions particulières dans lesquelles les radio-éléments artificiels ou les produits en contenant destinés à la
-biologie humaine ou aux applications thérapeutiques doivent être utilisés, seront conformes à la réglementation générale sur
-les radio-éléments artificiels résultant notamment d'arrêtés des ministres intéressés pris sur avis de la commission
-plénière. En cas de lacune ou d'insuffisance de cette réglementation, ces conditions d'utilisation sont fixées au moment de
-chaque autorisation individuelle par le ministre de la santé publique et de la population, après avis de la première section
-instituée par l'article R. 5232.
+L'autorisation [*de détention*] sans laquelle, en vertu de l'article L. 632 du présent code, aucune personne physique ou
+morale autre que le Commissariat à l'énergie atomique ne peut préparer, importer ou exporter, sous quelque forme que ce soit,
+des radio-éléments artificiels est accordée par le ministre chargé de la santé, après avis de la première section de la
+commission interministérielle des radio-éléments artificiels prévue à l'article L. 633 [*autorité compétente*].
+
+Sont soumises à autorisation, laquelle est accordée ainsi qu'il est dit ci-dessus :
+
+1° La détention en vue de la distribution et la cession de radio-éléments artificiels, notamment de sources radioactives et
+de produits ou appareils en contenant ;
+
+2° La mise sur le marché de chaque type de source radioactive et de chaque type de produit ou appareil en contenant ;
+
+3° La détention en vue de l'utilisation ainsi que l'utilisation de radio-éléments artificiels.
+
+Les autorisations données en application du présent article précisent la personne qui en est titulaire ainsi que
+l'établissement où les opérations peuvent être effectuées et, à l'intérieur de celui-ci, les locaux susceptibles de recevoir
+des radio-éléments artificiels [*mentions obligatoires*].
+
+Sous réserve des dispositions des articles R. 5107-2 et R. 5115-8, les autorisations accordées conformément à l'article L.
+598 tiennent lieu de celles prévues au deuxième alinéa et au 1° du troisième alinéa du présent article pour les
+établissements pharmaceutiques se livrant à la fabrication, à l'importation ou à la vente en gros de médicaments contenant
+des radio-éléments artificiels.
+
+Les autorisations accordées conformément aux articles L. 601 et L. 603 tiennent lieu de celles prévues au 2° du troisième
+alinéa du présent article pour les radio-éléments artificiels contenus dans des spécialités pharmaceutiques autorisées.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1974-02-08 JORF 26 février
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 	**Cité par**:
 
@@ -51661,7 +51930,6 @@ instituée par l'article R. 5232.
 	  - Décret n°86-1103 du 2 octobre 1986 - art. 15 (Ab)
 	  - Arrêté du 29 juillet 1988 - art. 2 (V)
 	  - Code de la santé publique - art. R5232 (Ab)
-	  - Code de la santé publique - art. R5234-1 (Ab)
 	  - Code de la santé publique - art. R5234-4 (Ab)
 	  - Code de la santé publique - art. R5234-5 (Ab)
 	  - Code de la santé publique - art. R5235 (M)
@@ -51670,38 +51938,261 @@ instituée par l'article R. 5232.
 	  - Code de la santé publique - art. R5237-4 (Ab)
 	  - Code de la santé publique - art. R5238 (Ab)
 
+	**Modifié par**:
 
-###### Article R5235
+	  - Décret n°86-80 1986-01-13 art. 1 JORF 18 janvier 1986
 
-Pour toutes les applications autres que celles prévues à l'article précédent, la préparation, l'importation, l'exportation
-des radio-éléments artificiels ou de produits en contenant par toute personne physique ou morale autre que le commissariat à
-l'énergie atomique sont soumises à l'autorisation du président de la commission [*autorité compétente*]. Les décisions
-d'autorisation sont prises après avis de la deuxième section de la commission.
+	**Cite**:
 
-Le commissariat à l'énergie atomique peut, sur avis conforme de la deuxième section de la commission, céder, pour des besoins
-autres que ceux prévus à l'article 5234, les radio-éléments artificiels qu'il détient. En cas de désaccord entre le
-commissariat à l'énergie atomique et la deuxième section de la commission, la décision est prise par le Premier ministre.
-Cette cession vaut, pour le cessionnaire, autorisation de détenir et d'utiliser les radio-éléments cédés. Les cessions faites
-par les autres détenteurs pour les besoins prévus au premier alinéa du présent article doivent être autorisées par le
-président de la commission, après avis de la deuxième section de la commission.
+	  - Code de la santé publique - art. L598 (M)
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. L603 (M)
+	  - Code de la santé publique - art. L632 (Ab)
+	  - Code de la santé publique - art. L633 (Ab)
+	  - Code de la santé publique - art. R5107-2 (P)
+	  - Code de la santé publique - art. R5115-8 (M)
+	  - Code de la santé publique - art. R5234-1 (Ab)
+	  - Code de la santé publique - art. R5234-2 (M)
+	  - Code de la santé publique - art. R5234-3 (Ab)
+	  - Code de la santé publique - art. R5234-6 (Ab)
 
-Les conditions particulières dans lesquelles les radio-éléments artificiels ou les produits en contenant destinés à des
-applications autres que celles prévues à l'article R. 5234 doivent être utilisés, seront conformes à la réglementation
-générale sur les radio-éléments artificiels résultant notamment d'arrêtés des ministres intéressés pris sur avis de la
-commission plénière. En cas de lacune ou d'insuffisance de cette réglementation, ces conditions d'utilisation sont fixées, au
-moment de chaque autorisation individuelle, par l'autorité compétente pour autoriser les cessions, après avis de la deuxième
-section de la commission.
+
+###### Article R5234-1
+
+Toute demande d'autorisation pour l'ouverture d'un établissement où doivent s'exercer les activités mentionnées au deuxième
+alinéa et au 1° du troisième alinéa de l'article R. 5234, quand elle ne relève pas de la procédure fixée à l'article L. 598,
+doit être contresignée par une personne compétente dont le niveau minimum de qualification est défini par arrêté du ministre
+chargé de la santé et du ministre chargé de l'éducation nationale.
+
+La personne compétente organise et surveille, selon des modalités fixées par arrêté, le contrôle des produits fabriqués,
+importés, distribués ou vendus.
+
+Les ministres chargés de la santé et de l'industrie fixent par arrêté les formes et conditions dans lesquelles sont
+présentées et instruites les demandes, et les conditions minimales auxquelles doivent satisfaire les établissements.
+
+La création d'une succursale est assimilée à l'ouverture d'un établissement.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
+	  - Décret n°86-80 1986-01-13 art. 2 JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L598 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5107-2 (P)
+	  - Code de la santé publique - art. R5112-2 (Ab)
+	  - Code de la santé publique - art. R5115-3 (Ab)
+	  - Code de la santé publique - art. R5115-8 (M)
+	  - Code de la santé publique - art. R5234 (M)
+	  - Code de la santé publique - art. R5234-2 (Ab)
+
+
+###### Article R5234-2
+
+Tout changement de personne compétente doit être notifié au ministre chargé de la santé et au secrétaire permanent de la
+commission interministérielle des radio-éléments artificiels au moins deux mois avant la prise de fonctions [*délai, point de
+départ*].    Toute modification concernant l'établissement, son équipement technique ou la nature des opérations qui y sont
+effectuées doit faire l'objet, au moins deux mois à l'avance, d'une déclaration auprès du ministre chargé de la santé. Le cas
+échéant, le ministre fait connaître dans ce délai s'il exige que le projet soit soumis à son autorisation.
+
+L'arrêté prévu au troisième alinéa de l'article R. 5234-1 précise les conditions de présentation et d'instruction des
+demandes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 2 JORF 18 janvier 1986
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5234 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5234-1 (Ab)
+
+
+###### Article R5234-3
+
+Quand elle ne relève pas de la procédure prévue aux articles L. 601 et L. 603, toute demande d'autorisation pour chaque type
+de source radioactive ou de produit ou appareil en contenant doit être contresignée par la personne compétente. Cette demande
+mentionne, selon la nature de la source, du produit ou de l'appareil :
+
+- la désignation du type de source ainsi que ses caractéristiques ou la désignation du produit ou appareil et celle du ou des
+radio-nucléides mis en oeuvre ;
+
+- l'indication de l'activité ou des limites d'activité du ou des radio-nucléides contenus dans chaque type de source, de
+produit ou d'appareil ;
+
+- le domaine d'application et la justification de l'intérêt analytique ou médical du produit ;
+
+- le certificat de conformité aux normes de construction ou les résultats des expertises de la fiabilité analytique et
+clinique auxquelles il a été procédé ;
+
+- les lieux de fabrication et de contrôle ;
+
+- la composition qualitative et quantitative de tous les constituants du produit ; le procédé de contrôle de qualité ; la
+durée de stabilité ;
+
+- l'identification de l'appareil, du produit ou du type de source ou la description du conditionnement et de l'étiquetage.
+
+Un arrêté du ministre chargé de la santé précise les modalités de présentation et d'instruction de la demande d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 2 JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. L603 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5234 (M)
+	  - Code de la santé publique - art. R5234-5 (Ab)
+
+
+###### Article R5234-4
+
+Chaque autorisation prévue à l'article R. 5234 est délivrée pour une durée de cinq ans ; elle est ensuite renouvelable par
+période quinquennale sur demande du titulaire de l'autorisation présentée au plus tard trois mois avant la date d'expiration
+[*délai, point de départ*].
+
+A l'appui de sa demande, le titulaire de l'autorisation doit attester qu'aucune modification n'est intervenue dans les
+renseignements produits à l'appui de la demande d'autorisation.
+
+Si aucune décision n'est notifiée ou si aucune demande de justification complémentaire n'est adressée au demandeur à la date
+d'expiration de l'autorisation, celle-ci est considérée comme renouvelée à cette date [*accord tacite*].
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 2 JORF 18 janvier 1986
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5234 (M)
+
+
+###### Article R5234-5
+
+Toute modification des caractéristiques d'un type de source radioactive, de produit ou d'appareil en contenant qui a fait
+l'objet d'une autorisation en application du 2° du troisième alinéa de l'article R. 5234 doit faire l'objet, au moins deux
+mois à l'avance, d'une déclaration auprès du ministre chargé de la santé. Le cas échéant le ministre fait connaître dans ce
+délai s'il exige que le projet soit soumis à son autorisation.
+
+L'arrêté prévu à l'article R. 5234-3 précise les modalités de présentation et d'instruction de la demande d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 2 JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5234 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5234-3 (Ab)
+
+
+###### Article R5234-6
+
+Toute demande d'autorisation de détenir ou d'utiliser des radio-éléments artificiels ou des produits ou appareils en
+contenant doit être souscrite par une personne compétente dont le niveau minimum de qualification est fixé par arrêté du
+ministre chargé de la santé et du ministre chargé de l'éducation.
+
+Un arrêté du ministre chargé de la santé détermine les modalités de présentation et d'instruction des demandes, ainsi que les
+conditions minimales auxquelles doivent satisfaire les équipements. Des activités maximales, instantanées et cumulées sur
+l'année, peuvent être fixées dans les autorisations en fonction des équipements.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 2 JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5234 (M)
+
+
+###### Article R5235
+
+Les dispositions du présent article et celles des articles R. 5235-1 à R. 5235-3 sont applicables dans les cas où les radio-
+éléments ne sont pas destinés à la médecine ou à la biologie humaine. 
+
+L'autorisation sans laquelle, en vertu de l'article L. 632, aucune personne physique ou morale autre que le Commissariat à
+l'énergie atomique ne peut préparer, importer ou exporter des radio-éléments artificiels est accordée par le président de la
+commission interministérielle prévue à l'article L. 633. 
+
+Sont soumises à autorisation, quand ces opérations sont effectuées par une personne physique ou morale autre que le
+Commissariat à l'énergie atomique, la détention en vue de la distribution ou de l'utilisation, toute opération comportant la
+manipulation, ainsi que l'utilisation de radio-éléments artificiels, notamment de sources radioactives et de produits ou
+appareils en contenant. 
+
+Est également soumise à autorisation la cession, à quelque titre que ce soit et par quiconque, de radio-éléments et de
+produits ou appareils en contenant. 
+
+Les autorisations précisent l'identité du titulaire ; elles indiquent l'établissement où les opérations peuvent être
+effectuées et, à l'intérieur de celui-ci, les locaux susceptibles de recevoir les radio-éléments artificiels. 
+
+Les autorisations sont accordées, pour une durée maximale de cinq ans renouvelable, après avis de la deuxième section de la
+commission prévue à l'article L. 633, par le président de cette commission ou par son secrétaire permanent agissant par
+délégation du président. Pour l'instruction des demandes d'autorisation, le président, le secrétaire permanent et les membres
+du secrétariat de la commission désignés par le président peuvent se rendre dans les établissements et locaux destinés à
+recevoir des radio-éléments artificiels      . 
+
+Des arrêtés des ministres intéressés pris sur avis de la commission peuvent préciser les modalités d'application des règles
+relatives aux conditions de détention et d'utilisation des radio-éléments artificiels. Des conditions particulières peuvent,
+en tant que de besoin, être fixées au moment de chaque autorisation individuelle par le président de la commission
+interministérielle après avis de la deuxième section. 
+
+Les dispositions du présent article autres que celles relatives à la préparation, l'importation et l'exportation de radio-
+éléments artificiels ne sont pas applicables : 
+
+a) Aux radio-éléments artificiels fusibles, fissiles ou fertiles mis en oeuvre dans les installations nucléaires de base, ni
+aux radio-éléments artificiels provenant du fonctionnement de ces installations et ne donnant pas lieu à distribution ; 
+
+b) Aux radionucléides de faible activité spécifique dont la liste est arrêtée par le ministre chargé de la santé et le
+ministre chargé de l'industrie ; 
+
+c) Aux substances contenant des radio-éléments artificiels, lorsque leur activité totale ou leur activité spécifique est
+inférieure à des limites fixées par arrêtés du ministre chargé de la santé et du ministre chargé de l'industrie.
+
+**Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°60-78 1960-01-14 art. 1 JORF 23 janvier 1960
+	  - Décret n°86-80 1986-01-13 art. 3 JORF 18 janvier 1986
 
 	**Cité par**:
 
@@ -51710,8 +52201,6 @@ section de la commission.
 	  - Arrêté du 28 avril 1989 - art. 2 (V)
 	  - Arrêté du 28 avril 1989 - art. 3 (V)
 	  - Code de la santé publique - art. R5232 (Ab)
-	  - Code de la santé publique - art. R5235-1 (Ab)
-	  - Code de la santé publique - art. R5235-2 (Ab)
 	  - Code de la santé publique - art. R5235-3 (Ab)
 	  - Code de la santé publique - art. R5237 (Ab)
 	  - Code de la santé publique - art. R5237-1 (Ab)
@@ -51725,9 +52214,148 @@ section de la commission.
 	  - TXT_SOURCE: Arrêté du 28 avril 1989 - art. 2 (V)
 	  - TXT_SOURCE: Arrêté du 28 avril 1989 - art. 3 (V)
 
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
 	**Cite**:
 
-	  - Code de la santé publique - art. R5234 (M)
+	  - Code de la santé publique - art. L632 (Ab)
+	  - Code de la santé publique - art. L633 (Ab)
+	  - Code de la santé publique - art. R5235-1 (Ab)
+	  - Code de la santé publique - art. R5235-2 (Ab)
+
+
+###### Article R5235-1
+
+Toute demande d'autorisation présentée en application du deuxième alinéa de l'article R. 5235 doit être signée par le chef
+d'établissement et contresignée par le responsable direct des opérations envisagées [*condition de forme*]. Les signataires
+doivent veiller conjointement au respect des obligations que comporte l'autorisation.
+
+Le responsable direct organise et surveille les opérations effectuées. Il assure le respect des règles de sécurité, en
+particulier des règles de radioprotection. Il est habilité à cet effet, ou peut se faire assister d'une personne habilitée.
+Les conditions de cette habilitation sont fixées par arrêté conjoint des ministres chargés de la santé et du travail.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 4 JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5235 (Ab)
+
+
+###### Article R5235-2
+
+Toute demande d'autorisation présentée en application du deuxième et du troisième alinéa de l'article R. 5235 doit être
+accompagnée d'un dossier contenant des informations précises et complètes sur les points suivants :
+
+- statut juridique de l'établissement ;
+
+- qualité du demandeur ;
+
+- expérience et compétence du demandeur et de la personne désignée pour l'assister ;
+
+- opérations envisagées ;
+
+- locaux dans lesquels ces opérations seront effectuées et leur environnement à l'intérieur et, si nécessaire, à l'extérieur
+de l'établissement ;
+
+- équipements à l'aide desquels ces opérations seront effectuées ;
+
+- dispositions assurant, au cours de ces opérations, le respect des règles de sécurité et, en particulier, celui des règles
+de radioprotection ;
+
+- le cas échéant, dispositions prises pour assurer le respect de la réglementation relative à l'élimination des déchets
+radioactifs. 
+
+En outre, pour les établissements destinés à la préparation, l'importation, l'exportation ou la détention en vue de la
+distribution, le dossier de demande doit fournir des informations sur les points suivants    :
+
+- nature, le cas échéant, des liens entre l'établissement demandeur et les fabricants des sources radioactives et des
+produits ou appareils les contenant ;
+
+- nature et étendue des contrôles de qualité visant la sécurité, effectués respectivement, le cas échéant, par
+l'établissement demandeur et par le fabricant ;
+
+- nature et étendue de la garantie offerte par l'établissement demandeur susceptible d'effectuer des cessions ou des
+prestations de service et, en particulier, nature et étendue de l'assistance après cession, tant dans les conditions normales
+d'utilisation des sources radioactives qu'en ce qui concerne les sources hors d'usage ou ayant décru.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 4 JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5235 (Ab)
+
+
+###### Article R5235-3
+
+Toute demande d'autorisation présentée en application du quatrième alinéa de l'article R. 5235 doit être signée du titulaire
+d'une autorisation délivrée au titre du deuxième ou du troisième alinéa dudit article     . 
+
+Si cette dernière autorisation permet la préparation, l'importation, l'exportation ou la détention en vue de la distribution
+soit de radio-éléments artificiels ou de sources radioactives, soit de produits ou appareils en contenant, la demande doit
+être accompagnée d'un dossier contenant des informations précises et complètes sur les points suivants :
+
+- désignation du ou des radio-éléments, du produit ou de l'appareil les contenant ;
+
+- indication de l'activité et des limites d'activité du ou des radionucléides contenus dans chaque type de source, de produit
+ou d'appareil ;
+
+- domaine d'application des sources radioactives ou des produits ou appareils auxquels elles sont incorporées ;
+
+- contrôles de qualité auxquels les sources radioactives, produits ou appareils sont soumis ;
+
+- lieux de fabrication et de contrôle ;
+
+- description des appareils mettant en oeuvre des sources radioactives et de leur mode de fonctionnement ; en particulier,
+mode de chargement et de déchargement de ces sources, description des dispositifs qui les supportent, description des
+dispositifs et des mesures de protection mis en oeuvre pour le respect des règles de sécurité en général et des règles de
+radioprotection en particulier ;
+
+- identification du produit, de l'appareil ou de la source ; description du conditionnement et de l'étiquetage ;
+
+- texte de l'avertissement, à remettre à l'utilisateur, faisant connaître à celui-ci ses obligations vis-à-vis de la
+réglementation ;
+
+- texte de la notice d'utilisation faisant apparaître les consignes de sécurité en conditions normales d'utilisation et dans
+les situations d'incidents ou d'accidents ;
+
+- le cas échéant, autorisations obtenues dans le pays d'origine des sources radioactives et des produits ou appareils. 
+
+Si l'autorisation dont le demandeur est déjà titulaire permet la détention en vue de l'utilisation ou l'utilisation de radio-
+éléments artificiels, notamment de sources radioactives ou de produits ou appareils en contenant, la demande tendant à ce que
+leur cession soit autorisée est présentée sur un formulaire d'un modèle arrêté par le président de la commission
+interministérielle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 4 JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5235 (Ab)
 
 
 ###### Article R5236
@@ -51753,52 +52381,192 @@ conjointement pour examiner les demandes courantes et ne présentant pas de diff
 
 ###### Article R5237
 
-Les autorisations sont personnelles, les détenteurs de ces autorisations ne peuvent céder ou mettre à la disposition d'autres
-personnes les radio-éléments artificiels qui leur ont été délivrés, qu'en suivant la procédure prévue aux articles R. 5234 et
-R. 5235.
+Les autorisations prévues aux articles R. 5234 et R. 5235 du présent code sont personnelles et ne sont pas transférables.
+Leurs titulaires ne peuvent effectuer que les opérations expressément mentionnées dans ces autorisations. Ils ne peuvent
+céder ou mettre à la disposition d'autres personnes les radio-éléments artificiels qui leur ont été délivrés qu'en suivant la
+procédure prévue à l'article R. 5237-1.
 
-Les bénéficiaires d'une autorisation individuelle devront se soumettre tant aux conditions générales qu'aux conditions
-particulières éventuellement fixées par la décision d'autorisation lors de la délivrance des radio-éléments artificiels. Dans
-le cas où ils feraient un usage interdit ou abusif des radio-éléments artificiels qu'ils détiennent, le retrait de cette
-autorisation pourra être prononcé par l'autorité qui l'a accordée sur avis conforme de la section compétente, pris dans les
-conditions qui seront déterminées par arrêté après consultation de la commission interministérielle [*sanctions*]. Cet arrêté
-déterminera la procédure à suivre et les conséquences du retrait, notamment en ce qui concerne la dévolution des produits
-irradiés.
+Si un établissement ayant fait l'objet d'une autorisation n'a pas commencé à fonctionner dans un délai d'un an,
+l'autorisation devient caduque.
 
-Ces dispositions ne font pas obstacle à l'application des peines prévues à l'article L. 639.
+Les autorisations sont délivrées sans préjudice des obligations créées par d'autres lois ou règlements.
+
+Le titulaire d'une autorisation doit se soumettre tant aux prescriptions résultant de la réglementation applicable qu'aux
+conditions particulières éventuellement fixées par la décision d'autorisation.
+
+L'autorisation peut être suspendue ou retirée [*retrait*] lorsque cette autorisation elle-même ou l'usage qui en est fait par
+son titulaire ne répondent plus aux obligations découlant de la réglementation en vigueur, et notamment si le titulaire fait
+un usage interdit ou abusif des radio-éléments artificiels détenus par lui.
+
+La suspension ne peut excéder quatre-vingt-dix jours [*durée*]. Le retrait ne peut intervenir qu'après avis de la section
+compétente de la commission interministérielle des radio-éléments artificiels et après que l'intéressé ait été invité à
+fournir ses explications.
+
+En cas de retrait, le détenteur des radio-éléments artificiels doit s'en dessaisir dans les conditions déterminées aux
+articles R.  5237-1 et R. 5237-4.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
+	  - Décret n°86-80 1986-01-13 art. 5 JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L639 (Ab)
 	  - Code de la santé publique - art. R5234 (M)
 	  - Code de la santé publique - art. R5235 (M)
+	  - Code de la santé publique - art. R5237-1 (Ab)
+	  - Code de la santé publique - art. R5237-2 (Ab)
+	  - Code de la santé publique - art. R5237-3 (M)
+	  - Code de la santé publique - art. R5237-4 (Ab)
+
+
+###### Article R5237-1
+
+Toute importation de radio-éléments artificiels ou de produits ou appareils en contenant doit être préalablement déclarée par
+le titulaire d'une des autorisations appropriées prévues aux articles R. 5234 et R. 5235, selon un formulaire d'un modèle
+arrêté par le président de la commission.
+
+Le formulaire est présenté au contrôle du secrétariat permanent de la commission, lequel appose un visa qui justifie de
+l'existence desdites autorisations. Ce formulaire, muni du visa, est présenté à l'appui de la déclaration en douane.
+
+L'exportation de radio-éléments artificiels ou de produits ou appareils en contenant fait l'objet de la procédure décrite à
+l'alinéa précédent ; le formulaire est toutefois présenté par l'exportateur et non par le destinataire.
+
+Toute acquisition de radio-éléments artificiels ou de produits ou appareils en contenant donne lieu à l'établissement d'un
+formulaire, dans les conditions définies au premier alinéa ci-dessus, par le bénéficiaire de cette cession, titulaire d'une
+autorisation de détention prévue aux articles R. 5234 et R. 5235. Ce formulaire est soumis au contrôle du secrétariat
+permanent de la commission.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 6 JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5234 (M)
+	  - Code de la santé publique - art. R5235 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5237 (Ab)
+
+
+###### Article R5237-2
+
+Toute acquisition ou cession de radio-éléments, notamment de sources radioactives, doit faire l'objet dans l'établissement
+d'un enregistrement permettant de rapprocher les entrées et les sorties et de connaître, à tout moment, l'inventaire des
+produits détenus.
+
+Pour les établissements destinés à la préparation, l'importation, l'exportation ou la détention en vue de la distribution,
+cet enregistrement doit respecter la présentation qui leur est notifiée par l'autorité compétente lors de la délivrance de
+l'autorisation dont ils bénéficient. Le document qui retrace ces opérations doit être présenté, à jour des dernières
+opérations effectuées, sur demande des membres des corps de contrôle ou des membres du secrétariat permanent de la
+commission.
+
+En outre, ces établissements doivent adresser au secrétariat permanent de la commission un relevé périodique des livraisons
+et autres opérations effectuées présentées dans la forme qui leur est notifiée lors de la délivrance de l'autorisation dont
+ils bénéficient.
+
+Tout détenteur doit être en mesure de justifier en permanence de l'origine des radio-éléments présents dans son établissement
+à quelque titre que ce soit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 6 JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5237 (Ab)
+
+
+###### Article R5237-3
+
+La perte ou le vol de radio-éléments artificiels, notamment de sources radioactives, ainsi que les faits susceptibles
+d'engendrer une dissémination radioactive doivent être immédiatement déclarés au commissaire de la République du département.
+Ils doivent être signalés au service central de protection contre les rayonnements ionisants.
+
+Le commissaire de la République tient informé le secrétaire permanent de la commission interministérielle.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 6 JORF 18 janvier 1986
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5237 (Ab)
+
+
+###### Article R5237-4
+
+La cessation d'activité d'un établissement bénéficiant de l'une des autorisations prévues aux articles R. 5234 et R. 5235
+ainsi que toute cessation de l'utilisation de radio-éléments artificiels doivent être signalées au secrétariat permanent de
+la commission, qui notifie au détenteur les mesures à mettre en oeuvre relativement à la reprise des éventuels déchets et des
+sources radioactives par un organisme habilité à les recevoir et dans les conditions prévues par les lois et règlements
+relatifs à la protection de la santé publique, à la protection de l'environnement et à la sécurité nucléaire.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°86-80 1986-01-13 art. 6 JORF 18 janvier 1986
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5234 (M)
+	  - Code de la santé publique - art. R5235 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5237 (Ab)
 
 
 ###### Article R5238
 
-Les bénéficiaires d'une autorisation individuelle devront se soumettre, à tout moment, au contrôle de l'observation des
-conditions qui leur ont été imposées. Ce contrôle, qui portera notamment sur les conditions de fabrication, de détention et
-de transport des radio-éléments artificiels, sur la surveillance de leur utilisation et sur la vérification des stocks
-existants, sera exercé sur les instructions des ministres intéressés, soit par des membres des corps de contrôle existants,
-soit par des membres de la commission désignés par son président sur demande de ces ministres.
+Les titulaires d'autorisations accordées en application des articles R. 5234 et R. 5235 du présent code doivent se soumettre
+au contrôle du respect des obligations qui leur sont imposées.
+
+Le président de la commission peut demander à un ministre ou au commissaire de la République concerné de faire effectuer
+certains contrôles par des agents habilités relevant de leur autorité. Il reçoit copie des procès-verbaux. Dans les
+établissements relevant du ministre chargé de la défense, les contrôles prévus au présent article sont effectués par les
+autorités désignées par ce ministre.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
+	  - Décret n°86-80 1986-01-13 art. 7 JORF 18 janvier 1986
 
 	**Cité par**:
 
 	  - Décret n°86-1103 du 2 octobre 1986 - art. 15 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5234 (M)
+	  - Code de la santé publique - art. R5235 (M)
 
 
 #### Chapitre 4 : Médicaments antivénériens.
