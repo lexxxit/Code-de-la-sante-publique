@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1966-10-28
+Version Consolidée au 1967-01-04
 
 # Partie législative ancienne
 
@@ -16966,6 +16966,284 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L4362-9 (M)
 	  - Code de la santé publique - art. L4362-9 (V)
 	  - Code de la santé publique - art. L4363-4 (V)
+
+
+### Titre 5 : Profession d'audioprothésiste
+
+###### Article L510-1
+
+Est considérée comme exerçant la profession d'audioprothésiste toute personne qui procède à l'appareillage des déficients de
+l'ouïe. 
+
+Cet appareillage comprend le choix, l'adaptation, la délivrance, le contrôle d'efficacité immédiate et permanente de la
+prothèse auditive et l'éducation prothétique du déficient de l'ouïe appareillé. 
+
+La délivrance de chaque appareil de prothèse auditive est soumise à la prescription médicale préalable et obligatoire du port
+d'un appareil, après examen otologique et audiométrique tonal et vocal   .
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 6 janvier 1962 - art. 2 (V)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 41 (Ab)
+	  - Code de la santé publique - art. L510-4 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4361-1 (M)
+	  - Code de la santé publique - art. L4361-1 (V)
+
+
+###### Article L510-2
+
+Il est créé un diplôme d'Etat d'audioprothésiste délivré après des études préparatoires et des épreuves dont le programme est
+fixé par décret pris sur le rapport conjoint du ministre des Affaires sociales, du ministre de l'Education nationale et du
+ministre des Anciens combattants et victimes de guerre.
+
+Nul ne peut exercer la profession d'audioprothésiste [*interdiction*] s'il n'est titulaire de ce diplôme ou du diplôme d'Etat
+de docteur en médecine [*condition*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°91-1012 du 2 octobre 1991 - art. 1 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 41 (Ab)
+	  - Arrêté du 17 septembre 1997 - art. 1 (V)
+	  - Code de la santé publique - art. L510-3 (Ab)
+	  - Code de la santé publique - art. L510-6 (Ab)
+	  - Code de la santé publique - art. L510-8 bis (Ab)
+
+
+###### Article L510-3
+
+I. - A titre transitoire et par dérogation aux dispositions de l'article L. 510-2 ci-dessus, sont habilitées à poursuivre
+l'exercice de la profession d'audioprothésiste :
+
+1° Les personnes pourvues d'un certificat d'études techniques d'acoustique appliquée à l'appareillage de prothèse auditive
+délivré par les facultés de médecine, les facultés de pharmacie ou les facultés mixtes de médecine et de pharmacie ;
+
+2° Sous réserve d'y être autorisées par une commission nationale de qualification qui sera instituée par arrêté du ministre
+des Affaires sociales, pris conjointement avec le ministre de l'Education nationale et le ministre des Anciens combattants et
+victimes de guerre les personnes justifiant avoir procédé régulièrement à l'appareillage des déficients de l'ouïe pendant au
+moins cinq années [*durée*] avant la promulgation de la loi n° 67-4 du 3 janvier 1967 ;
+
+3° Sous réserve de satisfaire aux épreuves d'un examen professionnel probatoire dont les conditions seront fixées par un
+arrêté conjoint des ministres des Affaires sociales, de l'Education nationale et des Anciens combattants et victimes de
+guerre :
+
+a) Les personnes visées au 2° ci-dessus qui n'auront pas reçu l'autorisation de la commission nationale de qualification ;
+
+b) Les personnes ayant procédé régulièrement à l'appareillage des déficients de l'ouïe pendant une période inférieure à cinq
+années, antérieurement à la promulgation de la loi n° 67-4 du 3 janvier 1967.
+
+II. - Entre la date de promulgation de la loi n° 67-4 du 3 janvier 1967 et celle de la décision de la commission nationale de
+qualification ou du résultat de l'examen professionnel probatoire, les personnes visées au paragraphe I, 2° et 3°, ci-dessus
+sont temporairement habilitées à poursuivre l'exercice de la profession d'audioprothésiste. Toutefois, elles devront avoir
+déposé leur dossier de candidature avant une date qui sera fixée par décret.
+
+**Nota:**
+
+[*Nota : Arrêté du 6 novembre 1967 JORF 21 novembre : COMMISSION NATIONALE DE QUALIFICATION. Décret 67-489 du 21 juin 1967
+JORF 25 JUIN : DATE DE DEPOT DU DOSSIER DE CANDIDATURE.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1967-11-06
+	  - TXT_ASSOCIE: Décret n°67-489 1967-06-21
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Loi n°67-4 1967-01-03
+	  - Code de la santé publique - art. L510-2 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4361-5 (M)
+	  - Code de la santé publique - art. L4361-5 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L510-6 (Ab)
+
+
+###### Article L510-4
+
+L'activité professionnelle d'audioprothésiste ne peut être exercée que dans un local réservé à cet effet [*lieu*] et aménagé,
+selon des conditions fixées par décret, afin de permettre la pratique de l'audioprothèse définie au deuxième alinéa de
+l'article L.  510-1.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4361-6 (M)
+	  - Code de la santé publique - art. L4361-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L510-1 (Ab)
+
+
+###### Article L510-5
+
+La location, le colportage, les ventes itinérantes, les ventes dites de démonstration, les ventes par démarchage et par
+correspondance des appareils de prothèse auditive sont interdits.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4361-7 (M)
+	  - Code de la santé publique - art. L4361-7 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L510-6
+
+Les audioprothésistes, les élèves poursuivant les études préparatoires à l'obtention du diplôme prévu à l'article L. 510-2 et
+les personnes visées à l'article L. 510-3 ci-dessus sont tenus au secret professionnel dans les conditions et sous les peines
+énoncées à l'article 378 du Code pénal.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code pénal 378
+	  - Code de la santé publique - art. L510-2 (M)
+	  - Code de la santé publique - art. L510-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4363-1 (V)
+
+
+###### Article L510-7
+
+En cas de condamnation à une peine conventionnelle pour infraction aux dispositions du présent titre, le tribunal peut
+ordonner la fermeture du local où l'infraction a été commise [*sanction*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4363-5 (Ab)
+	  - Code de la santé publique - art. L4363-5 (M)
+
+
+###### Article L510-8
+
+La suspension temporaire ou l'incapacité absolue de l'exercice de la profession d'audioprothésiste peuvent être prononcées
+par les cours et tribunaux accessoirement à toute peine, soit criminelle, soit correctionnelle, à l'exception toutefois, dans
+ce dernier cas, des peines ne comportant qu'une amende.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4363-6 (Ab)
+	  - Code de la santé publique - art. L4363-6 (M)
 
 
 ## Livre 5 : Pharmacie
