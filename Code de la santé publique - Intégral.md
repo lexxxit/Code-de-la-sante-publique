@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1967-08-22
+Version Consolidée au 1967-10-13
 
 # Partie législative ancienne
 
@@ -11301,23 +11301,6 @@ et suivants.
 	**Cite**:
 
 	  - Code de la santé publique - art. L423 (M)
-
-
-###### Article L388
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
-	  - Code de la santé publique - art. L433 (Ab)
 
 
 ###### Article L389
