@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1988-01-05
+Version Consolidée au 1988-01-06
 
 # Partie législative ancienne
 
@@ -22662,20 +22662,36 @@ celui de la grossesse ;
 leurs dilutions et préparations ne constituant ni des produits cosmétiques ou d'hygiène corporelle, ni des produits à usage
 ménager, ni des denrées ou boissons alimentaires .
 
-La fabrication ety la vente en gros des drogues simples et des substances chimiques destinées à la pharmacie sont libres à
+6° La vente au détail et toute délivrance au public des aliments lactés diététiques pour nourrissons et des aliments de
+régime destinés aux enfants du premier âge (moins de quatre mois), dont les caractéristiques sont fixées par arrêté conjoint
+du ministre chargé de la santé et du ministre chargé de la consommation.
+
+La fabrication et la vente en gros des drogues simples et des substances chimiques destinées à la pharmacie sont libres à
 condition que ces produits ne soient jamais délivrés directement aux consommateurs pour l'usage pharmaceutique et sous
 réserve des règlements particuliers concernant certains d'entre eux .
 
 **Nota:**
 
-[*Nota : Décret 60-679 du 4 juillet 1960 : DEROGATIONS RELATIVES  AUX PLANTES MEDICINALES.*]
+[*Nota : Décret 60-679 du 4 juillet 1960 : Dérogations relatives aux plantes médicinales.
+
+Arrêté du 9 juin 1988 art. 2 et arrêté du 9 mars 1992 art. 2 :
+
+les dispositions de l'article L512 6° s'appliquent :
+
+- aux aliments lactés pour nourrissons et enfants du premier âge (moins de quatre mois) dont les protéines sont hydrolysées ;
+
+- aux aliments de régime destinés aux nourrissons et enfants du premier âge (moins de quatre mois) atteints de troubles
+métaboliques ou nutritionnels, en vue de répondre à leurs besoins spécifiques.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la collectivité
+territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Liens**:
 
@@ -22749,7 +22765,7 @@ réserve des règlements particuliers concernant certains d'entre eux .
 
 	**Modifié par**:
 
-	  - Loi n°84-534 1984-06-30 ART. 1 JORF 2 JUILLET 1984
+	  - Loi n°88-16 du 5 janvier 1988 - art. 11 () JORF 6 janvier 1988
 
 	**Nouveaux textes**:
 
