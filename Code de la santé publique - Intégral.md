@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1984-07-02
+Version Consolidée au 1984-10-01
 
 # Partie législative ancienne
 
@@ -32149,6 +32149,42 @@ Marseille et les hospices civils de Lyon sont assujettis aux dispositions des ar
 	  - Code de la santé publique - art. L851 (Ab)
 
 
+#### Chapitre 4 : Dons et legs.
+
+###### Article L696
+
+Lorsque, par suite d'un changement de circonstances, l'exécution des conditions et charges grevant une donation ou un legs
+fait à un établissement hospitalier devient soit extrêmement difficile, soit sérieusement dommageable, la révision de ces
+conditions et charges peut être autorisée par arrêté du commissaire de la République si l'auteur de la libéralité ou ses
+ayants droit acceptent les mesures envisagées ; dans les autres cas, la révision est autorisée dans les conditions prévues
+aux articles 900-2 à 900-8 du code civil.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°58-1202 du 11 décembre 1958 - art. 43 (Ab)
+	  - Code de la santé publique - art. L686 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°84-562 1984-07-04 ART. 5 JORF 6 juillet en vigueur le 1er octobre 1984
+
+	**Cite**:
+
+	  - Code civil - art. 900-2 (M)
+	  - Code civil - art. 900-3 (M)
+	  - Code civil - art. 900-4 (M)
+	  - Code civil - art. 900-5 (M)
+	  - Code civil - art. 900-6 (M)
+	  - Code civil - art. 900-7 (M)
+	  - Code civil - art. 900-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L714-37 (M)
+
+
 #### Chapitre 6 : Autres dispositions financières.
 
 ##### Section 1 : Marchés.
@@ -34487,41 +34523,6 @@ ce personnel est déterminé par décret en Conseil d'Etat.
 	**Cite**:
 
 	  - Code de la santé publique L792 à L896
-
-
-#### CHAPITRE 4 : DONS ET LEGS.
-
-###### Article L696
-
-La réduction des charges résultant d'une libéralité faite au profit d'un établissement hospitalier peut être prononcée par
-mesure administrative lorsqu'il est établi que les revenus provenant de cette libéralité sont insuffisants pour assurer
-l'exécution intégrale des charges imposées.
-
-S'il y a accord entre l'établissement gratifié et les auteurs de la libéralité ou leurs ayants-droit, la réduction peut être
-autorisée par un arrêté préfectoral, après avis du directeur départemental de la population et de l'entraide sociale.
-
-Dans tous les autres cas, la réduction ne peut être prononcée que par décret contresigné par le ministre de la santé publique
-et de la population, après avis conforme du conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Décret n°58-1202 du 11 décembre 1958 - art. 43 (Ab)
-	  - Code de la santé publique - art. L686 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L714-37 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°41-5060 1941-12-21 ART. 19
 
 
 #### CHAPITRE 5 : AUTRES DISPOSITIONS FINANCIERES
