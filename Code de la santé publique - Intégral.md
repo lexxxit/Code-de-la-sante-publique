@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-01-26
+Version Consolidée au 1994-02-01
 
 # Partie législative ancienne
 
@@ -11709,13 +11709,26 @@ Hormis le conjoint, ce curateur ne peut pas être choisi parmi les héritiers pr
 Hormis les cas prévus à la section II du chapitre III du présent titre, l'hospitalisation ou la sortie d'un mineur sont
 demandées, selon les situations, par les personnes titulaires de l'exercice de l'autorité parentale, par le conseil de
 famille ou, en l'absence du conseil de famille, par le tuteur avec l'autorisation du juge des tutelles qui se prononce sans
-délai. En cas de désaccord entre les titulaires de l'exercice de l'autorité parentale, le juge des tutelles statue.
+délai. En cas de désaccord entre les titulaires de l'exercice de l'autorité parentale, le juge aux affaires familiales
+statue.
+
+**Nota:**
+
+[*Nota : Loi 93-22 du 8 janvier 1993 art. 62 : les juges saisis au 9 janvier 1993 d'actions relevant des dispositions de la
+présente loi demeurent compétents pour en connaître.
+
+Loi 93-22 du 8 janvier 1993 art. 63 : les présentes dispositions relatives au juge aux affaires familiales sont applicables
+dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°90-527 du 27 juin 1990 - art. 2 () JORF 30 juin 1990
+	  - Loi n°93-22 du 8 janvier 1993 - art. 48 () JORF 9 janvier 1993 en vigueur le 1er février 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
