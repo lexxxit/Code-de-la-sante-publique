@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1986-01-04
+Version Consolidée au 1986-01-07
 
 # Partie législative ancienne
 
@@ -3633,19 +3633,17 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L51-1
 
-Un agrément [*autorisation administrative obligatoire*] est délivré par le préfet [*autorité compétente*], après avis de la
-commission départementale d'équipement, section sanitaire et sociale, aux personnes physiques ou morales qui exploitent une
-entreprise privée de transports sanitaires, que le transport soit terrestre, aérien ou maritime, dès lors qu'elles se
-conforment aux conditions d'exploitation déterminées par un règlement d'administration publique, qui précise les droits qu'il
-leur confère et les obligations qui en découlent.
+Constitue un transport sanitaire   , au sens du présent code, tout transport d'une personne malade, blessée ou parturiente,
+pour des raisons de soins ou de diagnostic, sur prescription médicale ou en cas d'urgence médicale, effectué à l'aide de
+moyens de transports terrestres, aériens ou maritimes, spécialement adaptés à cet effet. 
 
-[*LOI 514 1980-07-07 : dans les lois en vigueur à la date de publication de la présente loi, tout renvoi à un règlement
-d'administration publique ou à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un
-décret en Conseil d'Etat*].
+Les transports des personnels de défense effectués à l'aide des moyens propres aux armées ne constituent pas des transports
+sanitaires au sens du présent code.
 
 **Nota:**
 
-[*Nota : Code de la santé publique L. 51-3 : dispositions applicables aux services publics.*]
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 4 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -3677,15 +3675,6 @@ décret en Conseil d'Etat*].
 	  - Code de la sécurité sociale. - art. R322-10-7 (V)
 	  - Code de la sécurité sociale. - art. R322-11 (M)
 	  - Code de la sécurité sociale. - art. R615-50 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Loi n°70-615 1970-07-10 art. 1 JORF 12 juillet 1970
 
 	**Liens**:
 
@@ -3720,6 +3709,14 @@ décret en Conseil d'Etat*].
 	  - TXT_SOURCE: Code de la sécurité sociale. - art. R322-10-5 (M)
 	  - TXT_SOURCE: Code de la sécurité sociale. - art. R322-10-6 (M)
 
+	**Modifié par**:
+
+	  - Loi n°86-11 du 6 janvier 1986 - art. 6 () JORF 7 janvier 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L6312-1 (M)
@@ -3727,16 +3724,13 @@ décret en Conseil d'Etat*].
 
 ###### Article L51-2
 
-L'agrément prévu à l'article précédent est retiré [*sanction*] par le préfet, après avis de la commission départementale
-d'équipement, section sanitaire et sociale, dès lors que les conditions prévues au règlement d'administration publique ne
-sont plus remplies.
+Toute personne effectuant un transport sanitaire doit avoir été préalablement agréée par l'autorité administrative dans des
+conditions définies par décret en Conseil d'Etat. Le refus d'agrément doit être motivé.
 
-En cas d'urgence, le préfet [*autorité compétente*] peut prononcer une mesure de retrait provisoire d'agrément, à charge pour
-lui d'en saisir, pour avis, la commission visée au premier alinéa de cet article, dans le délai d'un mois.
+**Nota:**
 
-[*LOI 514 1980-07-07 : dans les lois en vigueur à la date de publication de la présente loi, tout renvoi à un règlement
-d'administration publique ou à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un
-décret en Conseil d'Etat*].
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 4 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -3754,15 +3748,6 @@ décret en Conseil d'Etat*].
 	  - Code de la santé publique - art. L51-6 (Ab)
 	  - Code de la sécurité sociale. - art. R322-11 (M)
 	  - Code de la sécurité sociale. - art. R615-50 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Loi n°70-615 1970-07-10 art. 1 JORF 12 juillet 1970
 
 	**Liens**:
 
@@ -3789,9 +3774,13 @@ décret en Conseil d'Etat*].
 	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. ANNEXE 1 (Ab)
 	  - TXT_SOURCE: Décret n°73-384 du 27 mars 1973 - art. ANNEXE 2 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la santé publique - art. L51-1 (M)
+	  - Loi n°86-11 du 6 janvier 1986 - art. 6 () JORF 7 janvier 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -3800,12 +3789,24 @@ décret en Conseil d'Etat*].
 
 ###### Article L51-3
 
-Les droits et obligations définis par le règlement d'administration publique prévu à l'article L. 51-1 ci-dessus sont
-applicables aux services publics assurant des transports sanitaires.
+Un décret en Conseil d'Etat détermine :
 
-[*Loi 514 1980-07-07 : dans les lois en vigueur à la date de publication de la présente loi, tout renvoi à un règlement
-d'administration publique ou à un décret en forme de règlement d'administration publique est remplacé par un renvoi à un
-décret en Conseil d'Etat*].
+- les catégories de moyens de transport affectés aux transports sanitaires ;
+
+- les catégories de personnes habilitées à effectuer des transports sanitaires, leurs missions respectives ainsi que la
+qualification et la composition des équipages ;
+
+- les modalités de délivrance par le représentant de l'Etat dans le département aux personnes visées à l'article précédent de
+l'agrément pour effectuer des transports sanitaires ainsi que les modalités de son retrait ;
+
+- les obligations de ces personnes à l'égard du service de garde organisé par le représentant de l'Etat dans le département
+et à l'égard des centres de réception et de régulation des appels visés à l'article 4 de la loi n° 86-11 du 6 janvier 1986
+relative à l'aide médicale urgente et aux transports sanitaires.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 4 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -3820,15 +3821,6 @@ décret en Conseil d'Etat*].
 	  - Code de l'aviation civile - art. R351-1 (V)
 	  - Code de la sécurité sociale. - art. R322-11 (M)
 	  - Code de la sécurité sociale. - art. R615-50 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Loi n°70-615 1970-07-10 art. 1 JORF 12 juillet 1970
 
 	**Liens**:
 
@@ -3858,11 +3850,53 @@ décret en Conseil d'Etat*].
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L51-1 (M)
+	  - Loi n°86-11 du 6 janvier 1986 - art. 4 ()
+	  - Code de la santé publique - art. L51-2 (M)
+
+	**Modifié par**:
+
+	  - Loi n°86-11 du 6 janvier 1986 - art. 6 () JORF 7 janvier 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L6312-5 (M)
+
+
+###### Article L51-4
+
+La législation en vigueur sur les prix s'applique aux tarifs de transports sanitaires. Ceux-ci sont établis par arrêté du
+ministre chargé de la sécurité sociale et du ministre chargé du budget, de la concurrence et de la consommation.
+
+L'inobservation de ces tarifs peut entraîner le retrait de l'agrément.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 4 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 4.*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°86-11 du 6 janvier 1986 - art. 6 () JORF 7 janvier 1986
+
+	**Cité par**:
+
+	  - Décret n°95-1093 du 5 octobre 1995 - art. 12 (Ab)
+	  - Décret n°95-1093 du 5 octobre 1995 - art. 15 (Ab)
+	  - Code de la santé publique - art. L51-6 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6312-3 (M)
 
 
 ### Titre 2 : Contrôle sanitaire aux frontières.
