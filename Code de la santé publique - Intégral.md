@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1970-02-14
+Version Consolidée au 1970-05-17
 
 # Partie législative ancienne
 
@@ -2722,6 +2722,73 @@ s'applique à la collectivité territoriale de Mayotte.*]
 	**Anciens textes**:
 
 	  - Loi n°1902-02-15 art. 18
+
+
+##### Section 3 : Mortalité excessive dans une commune.
+
+###### Article L44
+
+Lorsque pendant trois années consécutives [*période*] le nombre des décès dans une commune a dépassé le chiffre de la
+mortalité moyenne de la France, le préfet est tenu de charger le conseil départemental d'hygiène de procéder à une enquête
+[*obligatoire*] sur les conditions sanitaires de la commune.
+
+Si cette enquête établit que l'état sanitaire de la commune nécessite des travaux d'assainissement, notamment qu'elle n'est
+pas pourvue d'eau potable de bonne qualité ou en quantité suffisante, ou bien que les eaux usées y restent stagnantes, le
+préfet, après une mise en demeure à la commune, non suivie d'effet, invite le conseil départemental d'hygiène à délibérer sur
+l'utilité et la nature des travaux jugés nécessaires. Le maire est mis en demeure de présenter ses observations devant le
+conseil départemental d'hygiène.
+
+En cas d'avis du conseil départemental d'hygiène contraire à l'exécution des travaux ou de réclamation de la part de la
+commune, le préfet transmet la délibération du conseil au ministre chargé de la Santé publique qui, s'il le juge à propos,
+soumet la question au Conseil supérieur d'hygiène publique de France. Celui-çi procède à une enquête dont les résultats sont
+affichés dans la commune. Sur les avis du conseil départemental d'hygiène et du Conseil supérieur d'hygiène publique le
+préfet met la commune en demeure de dresser le projet et de procéder aux travaux. Si dans le mois qui suit cette mise en
+demeure [*délai*], le conseil municipal ne s'est pas engagé à y déférer, ou si, dans les trois mois, il n'a pris aucune
+mesure en vue de l'exécution des travaux, un décret rendu en Conseil d'Etat ordonne ces travaux, dont il détermine les
+conditions d'exécution [*procédure, recours*].
+
+La dépense ne pourra être mise à la charge de la commune que par une loi.
+
+Le conseil général statue, dans les conditions prévues par l'article 46 de la loi du 10 août 1871, sur la participation du
+département aux dépenses des travaux ci-dessus spécifiés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 10 () JORF 17 MAI 1970
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R143-8 (Ab)
+	  - CODE DES COMMUNES. - art. R143-9 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
+	  - Code général des collectivités territoriales - art. R2231-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-25 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Cite**:
+
+	  - Loi n°1871-08-10 ART. 46
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 9
 
 
 #### Chapitre 5-1 : Des radiations ionisantes.
@@ -25530,39 +25597,6 @@ remplacé par un renvoi à un décret en Conseil d'Etat.
 
 ##### Paragraphe 2 : Dispositions spéciales au département de la Seine.
 
-###### Article L769
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°70-415 du 8 mai 1970 - art. 1 (V)
-	  - Code de la santé publique - art. L771 (Ab)
-
-
-###### Article L770
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°70-415 du 8 mai 1970 - art. 1 (V)
-
-
 ###### Article L771
 
 Les maires des communes autres que Paris exercent les attributions sanitaires sous l'autorité soit du préfet de Paris soit du
@@ -25755,22 +25789,6 @@ d'instruction qu'ils jugent convenables.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1416-1 (V)
-
-
-###### Article L777
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°70-415 du 8 mai 1970 - art. 1 (V)
 
 
 ###### Article L778
