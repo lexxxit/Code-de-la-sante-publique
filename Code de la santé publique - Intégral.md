@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1989-12-19
+Version Consolidée au 1989-12-31
 
 # Partie législative ancienne
 
@@ -4256,117 +4256,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L5462-2 (T)
-
-
-## Livre 2 : Protection sanitaire de la famille et de l'enfance
-
-### Titre 1 : Protection maternelle et infantile.
-
-#### Chapitre 5 : Du contrôle de certains établissements
-
-##### Section 1 : Etablissements d'hospitalisation recevant des femmes enceintes.
-
-###### Article L177
-
-Les établissements visés à l'article L. 176, autorisés ou non, sont soumis à la surveillance préfectorale exercée par le
-directeur départemental de la Santé ou par son adjoint et les commissaires de police [*autorités compétentes*]. Ces
-fonctionnaires peuvent pénétrer à toute heure, de jour et de nuit, dans les établissements susvisés et procéder à toutes
-investigations, constatations et enquêtes par eux jugées utiles [*droit de circulation*].
-
-Quiconque fait obstacle aux inspections prévues à l'alinéa précédent sera puni de six jours à six mois d'emprisonnement
-[*durée*] et d'une amende de 1.800 F à 20.000 F [*montant*]. La fermeture de l'établissement peut, en outre, être prononcée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Décret n°72-162 du 21 février 1972 - art. 1 (Ab)
-	  - Loi n°79-1140 du 29 décembre 1979 - art. 10 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 44 (M)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L176 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1939-07-29 ART. 94
-
-
-### Titre 2 : Santé scolaire et universitaire.
-
-###### Article L197
-
-Indépendamment des sanctions disciplinaires qui sont fixées par décret, quiconque refusera de se soumettre aux prescriptions
-de l'article L. 192 du présent titre, ou quiconque en entravera l'exécution, sera passible d'une amende de 1.300 F à 2.500 F
-[*montant*] et, en cas de récidive dans le délai d'un an, d'une amende de 2.500 F à 5.000 F et d'un emprisonnement de dix
-jours à un mois [*durée*] ou de l'une de ces deux peines seulement. 
-
-Les mêmes pénalités sont encourues par les personnes ayant la garde des enfants qui mettraient obstacle à l'exécution des
-prescriptions prévues à l'article 191 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2407 1945-10-18 ART. 7
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L191 (M)
-	  - Code de la santé publique - art. L192 (M)
-
-
-### Titre 3 : Maisons d'enfants à caractère sanitaire.
-
-###### Article L208
-
-Sera puni d'une amende de 400 F à 15.000 F [*montant*] et d'un emprisonnement de un à trois mois [*durée*] ou de l'une de ces
-deux peines seulement : 
-
-1° Quiconque aura ouvert ou dirigé sans autorisation l'un des établissements visés au présent titre, ou aura sciemment fait
-une déclaration inexacte ou incomplète ; 
-
-2° Quiconque aura continué l'exploitation d'un tel établissement malgré une décision de fermeture ;
-
-3° Quiconque, assumant la direction d'un des établissements visés, aura mis ou tenté de mettre obstacle au contrôle prévu à
-l'article 204.
-
-En cas de récidive, le délinquant sera condamné à une amende de 2.000 F à 30.000 F et à un emprisonnement de deux mois à un
-an ou à l'une de ces deux peines seulement.
-
-En ce cas, le tribunal pourra ordonner la fermeture temporaire ou définitive de l'établissement et prononcer en outre
-l'interdiction, à temps ou définitive, d'exercer les fonctions de directeur d'un établissement visé au présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L204 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2326-1 (V)
-
-	**Modifié par**:
-
-	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
-	  - Ordonnance 59-34 1959-01-05 ART. 2 JORF 6 janvier 1959
 
 
 ## Livre 2 : Action sanitaire et médico-sociale en faveur de la famille, de l'enfance et de la jeunesse
@@ -43929,14 +43818,38 @@ articles R. 5008 à R. 5011 inclusivement.
 	  - Code de la santé publique L579, R5008 à R5011
 
 
-##### Paragraphe 2 : Remplacement et gérance
+##### Paragraphe 2 : Remplacement en métropole des pharmaciens et gérance des officines autres que celles visées aux articles L. 577 et L. 577 bis
 
 ###### Article R5100
 
-Une officine ou établissement pharmaceutique ne peut rester ouvert en l'absence du pharmacien titulaire ou chargé de la
-surveillance technique de l'établissement que si ce dernier s'est fait régulièrement remplacer.
+En application de l'article L. 580 du code de la santé publique, le remplacement d'un pharmacien titulaire d'une officine
+autre que celles visées aux articles L. 577 et L. 577 bis est effectué dans les conditions suivantes :
 
-Tout pharmacien frappé d'interdiction d'exercer doit se faire remplacer dans les conditions prévues à l'article R. 5103.
+1° Pour une absence comprise entre quatre mois et un an, le remplacement peut être effectué :
+
+a) Par un pharmacien inscrit au tableau de la section D de l'ordre national des pharmaciens et n'ayant pas d'autre activité
+professionnelle pendant la durée du remplacement ;
+
+b) Par un pharmacien assistant de la même officine.
+
+2° Pour une absence comprise entre un et quatre mois, le remplacement peut, en outre, être effectué :
+
+a) Par un pharmacien, ayant sollicité son inscription au tableau de l'une des sections de l'ordre national des pharmaciens en
+attendant qu'il soit statué sur sa demande, et n'ayant pas d'autre activité professionnelle pendant la durée du
+remplacement ;
+
+b) Par un étudiant en pharmacie de l'une des nationalités prévues au 2° de l'article L. 514, ayant validé la cinquième année
+d'études en vue du diplôme d'Etat de docteur en pharmacie et un stage de six mois de pratique professionnelle dans le cadre
+du troisième cycle de ses études. Dans ce cas, le président du conseil régional de l'ordre des pharmaciens délivre à
+l'étudiant un certificat à remettre au pharmacien qu'il remplace, attestant qu'il remplit les conditions prévues pour ce
+remplacement : l'établissement de ce certificat est subordonné, pour ce qui concerne la constatation des études effectuées, à
+une attestation délivrée à l'étudiant par le directeur de l'unité de formation et de recherche auprès de laquelle il est
+inscrit en vue de l'obtention du diplôme d'Etat de docteur en pharmacie. Ce certificat est valable un an sur l'ensemble du
+territoire de la République française. Il peut être renouvelé dans les mêmes conditions, sur justification de la poursuite
+des mêmes études.
+
+3° Lorsque l'absence n'excède pas un mois, le remplacement peut être assuré par l'une des personnes mentionnées aux 1° et 2°
+ci-dessus ou par un pharmacien cotitulaire de la même officine.
 
 **Liens relatifs à cet article**
 
@@ -43952,9 +43865,21 @@ Tout pharmacien frappé d'interdiction d'exercer doit se faire remplacer dans le
 	  - Code de la santé publique - art. R5103 (Ab)
 	  - Code de la santé publique - art. R5104 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°89-996 du 22 décembre 1989 - art. 1 () JORF 31 décembre 1989
+	  - Décret n°89-996 du 22 décembre 1989 - art. 2 () JORF 31 décembre 1989
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°89-996 du 22 décembre 1989
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L514 (M)
+	  - Code de la santé publique - art. L577 (Ab)
+	  - Code de la santé publique - art. L580 (Ab)
+	  - Code de la santé publique L577, L577 bis, L580, L514
 
 	**Nouveaux textes**:
 
@@ -43963,19 +43888,9 @@ Tout pharmacien frappé d'interdiction d'exercer doit se faire remplacer dans le
 
 ###### Article R5101
 
-Le remplacement du titulaire d'une officine prévu à l'article L. 580 est assuré dans les conditions suivantes :
-
-Pour une absence supérieure à trois mois, le remplacement ne peut être effectué que par un pharmacien n'ayant pas d'autre
-activité professionnelle, inscrit au tableau de la section D de l'ordre des pharmaciens.
-
-Pour une absence inférieure à trois mois, le remplacement peut être effectué soit par un pharmacien n'ayant pas d'autre
-activité professionnelle, soit par un étudiant en pharmacie de nationalité française, citoyen andorran, ressortissant de l'un
-des Etats membres de la Communauté économique européenne, ayant validé sa cinquième année d'études en vue du diplôme d'Etat
-de docteur en pharmacie. Toutefois, dans les officines où travaillent plusieurs pharmaciens, le remplacement du pharmacien
-titulaire pourra être assuré par l'un de ses collaborateurs pharmaciens diplômés.
-
-Si l'absence n'excède pas trente jours, le remplacement pourra être confié à un pharmacien titulaire d'une officine à
-condition qu'il soit en état d'exercer effectivement le remplacement.
+En cas de condamnation à une interdiction d'exercer la pharmacie en application de l'article L. 527, le remplacement du
+pharmacien titulaire prévu à l'article L. 580 ne peut être assuré que dans les conditions prévues au 1° (a) de l'article R.
+5100.
 
 **Liens relatifs à cet article**
 
@@ -43984,13 +43899,24 @@ condition qu'il soit en état d'exercer effectivement le remplacement.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
+	**Modifié par**:
+
+	  - Décret n°89-996 du 22 décembre 1989 - art. 1 () JORF 31 décembre 1989
+	  - Décret n°89-996 du 22 décembre 1989 - art. 3 () JORF 31 décembre 1989
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°89-996 du 22 décembre 1989
 
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
 	**Cite**:
 
+	  - Code de la santé publique - art. L527 (M)
 	  - Code de la santé publique - art. L580 (Ab)
+	  - Code de la santé publique - art. R5100 (M)
 
 	**Nouveaux textes**:
 
@@ -44018,6 +43944,14 @@ qui se sera engagé par écrit à assurer le remplacement.
 
 	  - Arrêté du 6 mars 1989 - art. Annexe (V)
 
+	**Modifié par**:
+
+	  - Décret n°89-996 du 22 décembre 1989 - art. 1 () JORF 31 décembre 1989
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5125-41 (V)
@@ -44025,11 +43959,9 @@ qui se sera engagé par écrit à assurer le remplacement.
 
 ###### Article R5103
 
-Dans le cas de condamnation par une chambre de discipline professionnelle à une interdiction d'exercer la pharmacie, le
-remplacement peut être effectué par un pharmacien déjà titulaire d'une officine pour une interdiction inférieure à quinze
-jours. Pour une interdiction comprise entre quinze jours et un an, il sera assuré par un pharmacien n'ayant pas d'autre
-activité professionnelle, inscrit à l'Ordre des pharmaciens, section D, et dont le diplôme aura été enregistré à la
-préfecture.
+Lorsque, pendant une période supérieure à un mois, un pharmacien assistant recruté en application de l'article L. 579
+s'absente ou remplace le pharmacien titulaire, il doit être remplacé dans les conditions prévues aux 1° et 2° de l'article R.
+5100.
 
 **Liens relatifs à cet article**
 
@@ -44038,9 +43970,18 @@ préfecture.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
+	**Modifié par**:
+
+	  - Décret n°89-996 du 22 décembre 1989 - art. 1 () JORF 31 décembre 1989
+	  - Décret n°89-996 du 22 décembre 1989 - art. 4 () JORF 31 décembre 1989
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°89-996 du 22 décembre 1989
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L579 (Ab)
 
 	**Cité par**:
 
@@ -44053,11 +43994,10 @@ préfecture.
 
 ###### Article R5104
 
-On entend par gérant après décès, le pharmacien exploitant une officine ou un établissement pharmaceutique dont le titulaire
-est décédé. Le gérant après décès doit être inscrit à l'Ordre des pharmaciens.
-
-La gérance ne peut excéder un an après la date du décès du titulaire, sous réserve des prolongations prévues par l'article L.
-580.
+Le gérant après décès est le pharmacien qui maintient ouverte, dans les conditions prévues à l'article L. 580, l'officine
+d'un pharmacien titulaire décédé. Il est choisi parmi les catégories de pharmaciens prévues au 1°, au a du 2° et au 3° de
+l'article R. 5100 et doit, dès qu'il a accepté les fonctions qui lui sont confiées par les héritiers, solliciter
+l'autorisation du préfet.
 
 **Liens relatifs à cet article**
 
@@ -44068,15 +44008,21 @@ La gérance ne peut excéder un an après la date du décès du titulaire, sous 
 
 	**Modifié par**:
 
-	  - Décret n°64-968 1964-09-11 art. 2 JORF 17 septembre 1964
+	  - Décret n°89-996 du 22 décembre 1989 - art. 1 () JORF 31 décembre 1989
+	  - Décret n°89-996 du 22 décembre 1989 - art. 5 () JORF 31 décembre 1989
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°89-996 du 22 décembre 1989
 
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L580 (Ab)
+	  - Code de la santé publique - art. R5100 (M)
 
 	**Nouveaux textes**:
 
