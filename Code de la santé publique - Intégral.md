@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-10-08
+Version Consolidée au 1992-11-17
 
 # Partie législative ancienne
 
@@ -65888,6 +65888,8 @@ voie contractuelle entre le directeur de l'établissement et l'autorité adminis
 
 ##### Section 2 : Dispositions propres au service public hospitalier
 
+##### Sous-section 1 : Catégories d'établissements publics de santé
+
 ###### Article R711-6-1
 
 Toute modification de la liste des centres hospitaliers régionaux fixée par le décret mentionné au deuxième alinéa de
@@ -65902,9 +65904,13 @@ est situé le siège de cet établissement et du Comité national d'organisation
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 1 () JORF 27 mars 1992
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
 
 	**Cite**:
 
@@ -65932,9 +65938,9 @@ de l'article L. 711-6.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 1 () JORF 27 mars 1992
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 1 () JORF 17 novembre 1992
 
 	**Cite**:
 
@@ -65961,13 +65967,654 @@ d'hôpitaux locaux sont des centres hospitaliers.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 1 () JORF 27 mars 1992
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 1 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R6141-16 (V)
+
+
+##### Sous-section 2 : Fonctionnement médical des hôpitaux locaux
+
+###### Article R711-6-4
+
+I.-L'hôpital local   , établissement public de santé, a pour objet de dispenser : 
+
+1° Avec ou sans hébergement : 
+
+a) Des soins de courte durée en médecine ; 
+
+b) Des soins de suite ou de réadaptation tels qu'ils sont définis par l'article L. 711-2 (1°, b) ; 
+
+2° Des soins de longue durée, comportant un hébergement, tels qu'ils sont définis à l'article L. 711-2 (2°). 
+
+II.-Dans le cadre des missions prévues aux articles L. 711-1 et L. 711-3, il participe notamment : 
+
+a) Aux actions de santé publique et aux actions médico-sociales coordonnées ; 
+
+b) Aux actions de médecine préventive et d'éducation pour la santé ; 
+
+c) Aux actions de maintien à domicile, en liaison avec les professionnels de santé locaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L711-1 (M)
+	  - Code de la santé publique - art. L711-2 (M)
+	  - Code de la santé publique - art. L711-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-18 (V)
+	  - Code de la santé publique - art. R6141-19 (V)
+
+
+###### Article R711-6-5
+
+La convention permettant de dispenser des soins en médecine, prévue à l'article L. 711-6, est passée avec un ou plusieurs
+centres hospitaliers ou établissements de santé privés mentionnés à cet article, dont l'un au moins dispense des soins en
+médecine et chirurgie, et dispose d'un service ou d'une unité soit de réanimation, soit de soins intensifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L711-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-20 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R711-6-6 (Ab)
+	  - Code de la santé publique - art. R711-6-7 (Ab)
+	  - Code de la santé publique - art. R711-6-8 (Ab)
+
+
+###### Article R711-6-6
+
+La convention définie à l'article R. 711-6-5 prévoit au moins    : 
+
+1° Les conditions dans lesquelles les praticiens hospitaliers ou les médecins spécialistes du ou des établissements de santé
+ayant passé convention peuvent dispenser des soins spécialisés aux malades de l'hôpital local ; 
+
+2° Les conditions d'accès des malades de l'hôpital local au plateau technique de ces établissements ; 
+
+3° L'harmonisation de la gestion des dossiers des malades ; 
+
+4° La compatibilité du traitement des informations permettant l'analyse de l'activité prévue à l'article L. 710-5. 
+
+La convention prévoit en outre, le cas échéant, l'organisation de consultations externes spécialisées à l'hôpital local en
+liaison avec le ou les établissements de santé ayant passé convention et la mise en commun de programmes de formation
+continue pour les personnels médicaux et non médicaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L710-5 (M)
+	  - Code de la santé publique - art. R711-6-5 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5104-31 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-21 (V)
+
+
+###### Article R711-6-7
+
+La convention définie à l'article R. 711-6-5 peut également concerner les malades relevant de soins de suite ou de longue
+durée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-22 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R711-6-5 (Ab)
+
+
+###### Article R711-6-8
+
+La convention définie à l'article R. 711-6-5 s'inscrit dans le projet d'établissement de l'hôpital local.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-23 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R711-6-5 (Ab)
+
+
+###### Article R711-6-9
+
+Les médecins généralistes peuvent être autorisés, sur leur demande, à dispenser à l'hôpital local au titre de leur activité
+libérale des soins de courte durée en médecine et éventuellement des soins de suite ou de longue durée à condition qu'ils
+s'engagent à :
+
+1° Respecter le projet d'établissement et le règlement intérieur ;
+
+2° Exercer leur activité professionnelle dans une zone géographique, préalablement déterminée par le préfet après
+délibération du conseil d'administration et avis de la commission médicale d'établissement, leur permettant de participer à
+la permanence dudit établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Cité par**:
+
+	  - Arrêté du 30 avril 2003 - art. 22 (V)
+	  - Code de la santé publique - art. R711-6-10 (Ab)
+	  - Code de la santé publique - art. R711-6-11 (Ab)
+	  - Code de la santé publique - art. R714-16-11 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-24 (V)
+
+
+###### Article R711-6-10
+
+Le préfet délivre aux médecins généralistes l'autorisation de dispenser des soins au vu de l'engagement prévu à l'article R.
+711-6-9 et après avis de la commission médicale d'établissement et du conseil d'administration. Il établit la liste des
+médecins autorisés à dispenser des soins à l'hôpital local.
+
+L'autorisation est valable pour une période de cinq ans, renouvelable à la demande de l'intéressé, dans les conditions
+prévues à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-25 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R711-6-11 (Ab)
+	  - Code de la santé publique - art. R711-6-12 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R711-6-9 (M)
+
+
+###### Article R711-6-11
+
+Les remplaçants en clientèle privée des médecins figurant sur la liste mentionnée à l'article R. 711-6-10 peuvent, à
+condition que ce remplacement soit conforme aux articles 60 et 61 du décret n° 79-506 du 28 juin 1979 portant code de
+déontologie médicale, dispenser des soins à l'hôpital local, dans les conditions prévues à l'article R. 711-6-9, avec
+l'accord du directeur de cet hôpital.
+
+Le préfet est immédiatement informé de ce remplacement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°79-506 1979-06-28 art. 60, art. 61
+	  - Code de la santé publique - art. R711-6-10 (M)
+	  - Code de la santé publique - art. R711-6-9 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-26 (V)
+
+
+###### Article R711-6-12
+
+Avant l'expiration de la période de cinq ans mentionnée à l'article R. 711-6-10, le préfet peut, soit de sa propre
+initiative, soit à la demande du directeur de l'hôpital local et après avis de la commission médicale d'établissement et du
+conseil d'administration, rayer de la liste un médecin autorisé si celui-ci ne respecte pas ses engagements vis-à-vis de
+l'établissement, ou est l'objet d'une sanction pénale ou ordinale.
+
+Préalablement à la décision du préfet, le médecin doit avoir été mis en mesure de présenter ses observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-27 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R711-6-10 (M)
+
+
+###### Article R711-6-13
+
+Sous réserve des dispositions des articles R. 711-6-14, R. 711-6-15 et R. 711-6-16, lors de l'admission d'un malade, le
+directeur demande à celui-ci ou à sa famille ou à son représentant légal de choisir le médecin autorisé par lequel le malade
+désire être soigné. A défaut de choix, ce médecin est désigné par le médecin responsable mentionné à l'article R. 711-6-18.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-28 (Ab)
+	  - Code de la santé publique - art. R6141-28 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R711-6-14 (Ab)
+	  - Code de la santé publique - art. R711-6-15 (Ab)
+	  - Code de la santé publique - art. R711-6-16 (Ab)
+	  - Code de la santé publique - art. R711-6-18 (M)
+
+
+###### Article R711-6-14
+
+Lorsque l'hôpital local est autorisé à assurer une activité de réadaptation fonctionnelle mentionnée à l'article R. 712-2
+(III, 12°), il recrute les praticiens visés au 2°, au 3° et au deuxième alinéa de l'article L. 714-27.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°87-788 du 28 septembre 1987 - art. 1 (Ab)
+	  - Code de la santé publique - art. R711-6-13 (Ab)
+	  - Code de la santé publique - art. R711-6-15 (Ab)
+	  - Code de la santé publique - art. R711-6-16 (Ab)
+	  - Code de la santé publique - art. R714-16-11 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-27 (M)
+	  - Code de la santé publique - art. R712-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-29 (V)
+
+
+###### Article R711-6-15
+
+Par délibération du conseil d'administration et après avis de la commission médicale d'établissement, si l'activité le
+justifie, l'hôpital local peut recruter des praticiens, dans les mêmes conditions que celles qui sont prévues à l'article R.
+711-6-14, pour les soins de suite ou les soins de longue durée ou pour assurer le fonctionnement de la pharmacie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°87-788 du 28 septembre 1987 - art. 1 (Ab)
+	  - Code de la santé publique - art. R5104-31 (Ab)
+	  - Code de la santé publique - art. R5126-26 (M)
+	  - Code de la santé publique - art. R711-6-13 (Ab)
+	  - Code de la santé publique - art. R711-6-16 (Ab)
+	  - Code de la santé publique - art. R714-16-11 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-30 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R711-6-14 (Ab)
+
+
+###### Article R711-6-16
+
+L'application des articles R. 711-6-14 et R. 711-6-15 exclut l'activité libérale des médecins généralistes au titre des
+activités de soins concernées par ces articles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-31 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R711-6-13 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R711-6-14 (Ab)
+	  - Code de la santé publique - art. R711-6-15 (Ab)
+
+
+###### Article R711-6-17
+
+Les médecins généralistes autorisés et les praticiens exerçant à l'hôpital local peuvent, à titre exceptionnel, faire appel à
+des médecins spécialistes libéraux.
+
+Les honoraires qui sont versés à ces derniers sont à la charge du budget hospitalier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-32 (V)
+
+
+###### Article R711-6-18
+
+Le préfet désigne pour une durée de cinq ans, sur proposition du conseil d'administration et après avis de la commission
+médicale d'établissement, un médecin responsable de la coordination des activités médicales, de l'organisation de la
+permanence médicale, de jour comme de nuit, et de la mise en oeuvre de l'évaluation des soins. Le médecin responsable peut
+être le président de la commission médicale d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-33 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R711-6-13 (Ab)
+	  - Code de la santé publique - art. R711-6-21 (Ab)
+
+
+###### Article R711-6-19
+
+Les médecins généralistes autorisés perçoivent des honoraires, sur la base de la nomenclature générale des actes
+professionnels, aux tarifs en vigueur fixés par la convention prévue à l'article L. 162-5 du code de la sécurité sociale.
+
+Le paiement des actes en C ou en K ne pourra excéder en moyenne :
+
+a) En médecine :
+
+- un acte par jour, les deux premières semaines ;
+
+- quatre actes par semaine, au-delà de cette durée ;
+
+b) En soins de suite :
+
+- un acte et demi par semaine ;
+
+c) En soins de longue durée :
+
+- un demi-acte par semaine.
+
+La moyenne des actes est calculée dans tous les cas par rapport à la durée de chaque séjour. Toutefois, si les soins de
+longue durée sont dispensés pendant un séjour d'une durée supérieure à un an, la moyenne est calculée sur la période des
+douze mois précédents.
+
+Les honoraires sont fixés à 85 p. 100 de la valeur de l'acte. Sur ces honoraires est due à l'établissement une redevance de
+10 p. 100, 5 p. 100 étant affectés à l'amélioration de l'équipement et 5 p. 100 à l'amélioration des conditions de
+fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Cité par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 3 (V)
+	  - Code de la santé publique - art. R711-6-21 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-34 (V)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L162-5 (M)
+
+
+###### Article R711-6-20
+
+Chaque médecin généraliste autorisé établit un état mensuel indiquant les soins dispensés à chaque malade et le transmet,
+accompagné des feuilles de soins correspondantes, au directeur de l'établissement. Ce dernier adresse, pour chaque malade
+hospitalisé en médecine ou en soins de suite, ce relevé à l'organisme qui prend en charge ce malade.
+
+Le directeur adresse par ailleurs à chaque malade assujetti au ticket modérateur le relevé des sommes qu'il lui incombe
+d'acquitter.
+
+Il adresse également au malade qui ne bénéficie d'aucune prise en charge le relevé de l'intégralité des sommes dues.
+
+Au vu de ces relevés, les organismes de prise en charge et, le cas échéant, les malades eux-mêmes versent directement aux
+médecins les honoraires qui leur sont dus.
+
+Pour les actes effectués en soins de longue durée, les honoraires sont versés par l'établissement dans le cadre du budget
+approuvé.
+
+Le directeur établit un titre de recette correspondant au montant de la redevance due par chaque médecin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-35 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R711-6-21 (Ab)
+
+
+###### Article R711-6-21
+
+Lorsque le médecin responsable est un médecin généraliste, il bénéficie au titre des fonctions prévues à l'article R.
+711-6-18 d'une indemnité de responsabilité dont le montant mensuel est fixé par le préfet, sur proposition du conseil
+d'administration, par référence à la valeur de quatre à sept vacations, au taux de niveau 3 des vacations allouées aux
+attachés exerçant dans les centres hospitaliers autres que les centres hospitaliers universitaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 2 () JORF 17 novembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6141-36 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R711-6-18 (M)
 
 
 #### Chapitre 2 : L'organisation et l'équipement sanitaires
@@ -73020,15 +73667,22 @@ d'établissement.*]
 
 ###### Article R714-16-11
 
-Dans les hôpitaux locaux, la commission médicale d'établissement comprend  [*composition*] :
+I. - Dans les hôpitaux locaux, la commission médicale d'établissement comprend [*composition*] :
 
-1° Cinq membres élus par les docteurs en médecine autorisés à donner des soins dans les services de médecine de
-l'établissement ;
+1° Cinq membres élus par et parmi les médecins généralistes autorisés à donner des soins dans l'établissement, en application
+de l'article R. 711-6-9 ;
 
-2° Le cas échéant, trois médecins élus par et parmi les praticiens exerçant dans des services ou départements dispensant des
-soins de suite ou de réadaptation et des soins de longue durée ;
+2° S'il est fait application dans l'établissement des dispositions des articles R. 711-6-14 et R. 711-6-15 :
 
-3° Le pharmacien gérant.
+- trois praticiens au plus élus par et parmi les praticiens visés au 2° du premier alinéa de l'article L. 714-27 ;
+
+- le cas échéant, un praticien élu par et parmi les praticiens visés au 3° du premier alinéa de l'article L. 714-27 ;
+
+3° Le pharmacien de l'établissement.
+
+II. - Toutefois, par dérogation au I ci-dessus, sur décision du conseil d'administration prise à la majorité absolue de ses
+membres, la commission médicale d'établissement peut être composée de l'ensemble des personnels médicaux et pharmaceutiques
+exerçant dans l'établissement.
 
 **Nota:**
 
@@ -73047,15 +73701,22 @@ d'établissement.*]
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-443 du 15 mai 1992 - art. 1 () JORF 20 mai 1992
+	  - Décret n°92-1210 du 13 novembre 1992 - art. 4 () JORF 17 novembre 1992
 
 	**Cité par**:
 
 	  - Arrêté du 24 octobre 1994 - art. 8 (Ab)
 	  - Décret n°2003-769 du 1 août 2003 - art. 35 (V)
 	  - Code de la santé publique - art. R714-16-19 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-27 (M)
+	  - Code de la santé publique - art. R711-6-14 (Ab)
+	  - Code de la santé publique - art. R711-6-15 (Ab)
+	  - Code de la santé publique - art. R711-6-9 (M)
 
 	**Nouveaux textes**:
 
