@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-10-18
+Version Consolidée au 1994-10-28
 
 # Partie législative ancienne
 
@@ -87359,18 +87359,17 @@ attachés exerçant dans les centres hospitaliers autres que les centres hospita
 	  - Code de la santé publique - art. R711-6-18 (M)
 
 
-##### Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé
+##### Section 3 : Soins dispensés aux détenus par certains établissements de santé assurant le service public hospitalier et actions de prévention exercées par ces établissements
 
 ###### Article R711-7
 
-Les conditions dans lesquelles des établissements publics de santé dispensent en milieu pénitentiaire des soins aux détenus
-dont l'état ne requiert ni hospitalisation ni examens en milieu hospitalier sont fixées par une convention passée à cet effet
-entre l'établissement pénitentiaire concerné et un établissement public de santé situé à proximité et remplissant les
-conditions définies à l'article R. 711-8 ; lorsque cet établissement ne dispense pas de soins en psychiatrie, l'établissement
-pénitentiaire passe, en outre, une convention avec un établissement public de santé spécialisé, sans préjudice des
-dispositions de l'article L. 326 et des actions mises en oeuvre par les services médico-psychologiques régionaux dans le
-cadre des secteurs de psychiatrie en milieu pénitentiaire conformément aux articles 1er et 11 du décret n° 86-602 du 14 mars
-1986.
+Pour l'application des dispositions du dernier alinéa de l'article L. 711-3, le préfet de région désigne, pour chaque
+établissement pénitentiaire de la région, l'établissement public de santé, situé à proximité de l'établissement
+pénitentiaire, qui est chargé de dispenser les soins aux détenus et de concourir aux actions de prévention et d'éducation
+pour la santé organisées en milieu pénitentiaire.
+
+Cette désignation intervient après avis du préfet du département dans lequel se trouve l'établissement public de santé et du
+conseil d'administration de cet établissement.
 
 **Liens relatifs à cet article**
 
@@ -87378,16 +87377,6 @@ cadre des secteurs de psychiatrie en milieu pénitentiaire conformément aux art
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cite**:
-
-	  - Décret n°86-602 du 14 mars 1986 - art. 1 (Ab)
-	  - Décret n°86-602 du 14 mars 1986 - art. 11 (M)
-	  - Code de la santé publique - art. L326 (M)
-
-	**Créé par**:
-
-	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
 
 	**Cité par**:
 
@@ -87407,6 +87396,14 @@ cadre des secteurs de psychiatrie en milieu pénitentiaire conformément aux art
 	  - Code de la santé publique - art. R711-8 (M)
 	  - Code de la santé publique - art. R711-9 (M)
 
+	**Modifié par**:
+
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L711-3 (M)
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R6112-14 (V)
@@ -87414,12 +87411,8 @@ cadre des secteurs de psychiatrie en milieu pénitentiaire conformément aux art
 
 ###### Article R711-8
 
-Peuvent passer les conventions mentionnées à l'article R. 711-7 les établissements publics de santé :
-
-1° Dont la mission principale est de dispenser les soins définis au a du 1° de l'article L. 711-2 et qui comportent un
-service d'accueil et de traitement des urgences au sens du 5° du III de l'article R. 712-2 ;
-
-2° Ou dont la mission exclusive est de participer à la lutte contre les maladies mentales.
+L'établissement public de santé désigné par le préfet doit dispenser les soins définis au a du 1° de l'article L. 711-2 et
+participer à l'accueil et au traitement des urgences.
 
 **Liens relatifs à cet article**
 
@@ -87428,20 +87421,19 @@ service d'accueil et de traitement des urgences au sens du 5° du III de l'artic
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
-
-	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
-
 	**Cité par**:
 
 	  - Arrêté du 26 mars 1993 - art. Annexe, art. 2 (V)
 	  - Code de la santé publique - art. R711-7 (M)
 	  - Code de la santé publique - art. R711-9 (M)
 
+	**Modifié par**:
+
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L711-2 (M)
-	  - Code de la santé publique - art. R712-2 (M)
 
 	**Nouveaux textes**:
 
@@ -87450,10 +87442,11 @@ service d'accueil et de traitement des urgences au sens du 5° du III de l'artic
 
 ###### Article R711-9
 
-En l'absence, à proximité de l'établissement pénitentiaire, d'un établissement public de santé participant à la sectorisation
-psychiatrique, par dérogation aux articles R. 711-7 et R. 711-8, une convention peut être conclue au titre de la lutte contre
-les maladies mentales avec un établissement de santé privé participant au service public hospitalier relevant des
-dispositions de l'article L. 711-11.
+Lorsque l'établissement public de santé désigné par le préfet ne comporte pas de service de psychiatrie et que
+l'établissement pénitentiaire n'est pas desservi par un service médico-psychologique régional mentionné à l'article 11 du
+décret n° 86-602 du 14 mars 1986, le préfet de région désigne en outre, dans les mêmes conditions, l'établissement public de
+santé ou l'établissement de santé privé admis à participer à l'exécution du service public hospitalier, situé à proximité,
+qui est chargé de dispenser aux détenus les soins en psychiatrie.
 
 **Liens relatifs à cet article**
 
@@ -87462,9 +87455,9 @@ dispositions de l'article L. 711-11.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°86-602 du 14 mars 1986 - art. 11 (M)
 
 	**Cité par**:
 
@@ -87477,11 +87470,9 @@ dispositions de l'article L. 711-11.
 	  - Code de la santé publique - art. R711-12 (Ab)
 	  - Code de la santé publique - art. R711-17 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la santé publique - art. L711-11 (M)
-	  - Code de la santé publique - art. R711-7 (M)
-	  - Code de la santé publique - art. R711-8 (M)
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -87490,11 +87481,13 @@ dispositions de l'article L. 711-11.
 
 ###### Article R711-10
 
-L'organisation des soins et le fonctionnement médical de la structure de l'établissement public de la santé qui intervient en
-milieu pénitentiaire sont régis par les dispositions de la section III du chapitre IV du présent titre sans préjudice des
-dispositions de l'article L. 326 et du décret du 14 mars 1986 susmentionné.
+Les modalités d'intervention de l'établissement public de santé mentionné à l'article R. 711-7 sont fixées par un protocole
+signé par les préfets de la région et du département, le directeur régional des services pénitentiaires, le chef de
+l'établissement pénitentiaire et le directeur de l'établissement de santé concerné, après avis du conseil d'administration.
 
-Cette intervention s'inscrit dans le projet d'établissement défini à l'article L. 714-11.
+Il en est de même en ce qui concerne les modalités d'intervention de l'établissement de santé éventuellement désigné en
+application de l'article R. 711-9. Dans ce cas, le directeur de l'établissement public de santé mentionné à l'article R.
+711-7 est également signataire de ce protocole complémentaire.
 
 **Liens relatifs à cet article**
 
@@ -87503,15 +87496,9 @@ Cette intervention s'inscrit dans le projet d'établissement défini à l'articl
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Décret n°86-602 1986-03-14
-	  - Code de la santé publique - art. L326 (M)
-	  - Code de la santé publique - art. L714-11 (M)
-
-	**Créé par**:
-
-	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
 
 	**Cité par**:
 
@@ -87531,12 +87518,21 @@ Cette intervention s'inscrit dans le projet d'établissement défini à l'articl
 
 	  - Code de la santé publique - art. R6112-16 (V)
 
+	**Cite**:
+
+	  - Code de la santé publique - art. R711-7 (M)
+	  - Code de la santé publique - art. R711-9 (M)
+
 
 ###### Article R711-11
 
-L'établissement pénitentiaire assure la construction, l'aménagement, la sécurité et l'entretien des locaux spécialisés
-destinés aux consultations et aux examens ; il assure la sécurité des personnels de l'établissement de santé à l'intérieur de
-l'établissement pénitentiaire.
+Lorsque l'établissement désigné est un établissement public de santé, l'organisation des soins et le fonctionnement médical
+de la structure implantée dans l'établissement pénitentiaire sont régis par les dispositions des articles L. 714-20 à L.
+714-25 ou celles de l'article L. 714-25-2.
+
+Lorsque l'établissement de santé désigné en application des dispositions de l'article R. 711-9 est un établissement privé
+participant à l'exécution du service public hospitalier, celui-ci doit définir l'organisation des soins et le fonctionnement
+médical de la structure implantée dans l'établissement pénitentiaire.
 
 **Liens relatifs à cet article**
 
@@ -87552,9 +87548,19 @@ l'établissement pénitentiaire.
 	  - Code de la santé publique - art. R711-14 (M)
 	  - Code de la santé publique - art. R711-16 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-25-2 (M)
+	  - Code de la santé publique - art. R711-9 (M)
+	  - Code de la santé publique L714-20 à L714-25, L714-25-2, R711-9
 
 	**Nouveaux textes**:
 
@@ -87563,21 +87569,8 @@ l'établissement pénitentiaire.
 
 ###### Article R711-12
 
-L'établissement public de santé :
-
-1° Pourvoit à l'équipement médical et non médical des locaux mentionnés à l'article R. 711-11 ;
-
-2° Assure la fourniture et le transport des produits et petits matériels à usage médical ainsi que des produits
-pharmaceutiques qui sont placés sous la responsabilité d'un pharmacien de l'établissement dans les conditions fixées soit par
-les articles L. 595-1 à L. 595-5, soit par l'article L. 595-9 ;
-
-3° Effectue ou fait effectuer les examens nécessaires et notamment les examens de laboratoire ;
-
-4° Assure l'élimination des déchets ;
-
-5° Assure le transport du personnel hospitalier.
-
-Les frais de transport mentionnés aux 2° et 5° sont remboursés à l'établissement public de santé par l'établissement
+L'établissement de santé désigné en application de l'article R. 711-7 ou de l'article R. 711-9 est tenu d'intégrer dans son
+projet d'établissement, tel qu'il est défini à l'article L. 714-11, les modalités de ses interventions en milieu
 pénitentiaire.
 
 **Liens relatifs à cet article**
@@ -87587,15 +87580,19 @@ pénitentiaire.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L595-9 (M)
-	  - Code de la santé publique - art. R711-11 (M)
-	  - Code de la santé publique R711-11, L595-1 à L595-5, L595-9
+	  - Code de la santé publique - art. L714-11 (M)
+	  - Code de la santé publique - art. R711-7 (M)
+	  - Code de la santé publique - art. R711-9 (M)
 
 	**Nouveaux textes**:
 
@@ -87604,11 +87601,65 @@ pénitentiaire.
 
 ###### Article R711-13
 
-L'établissement public de santé élabore un programme de prévention et d'éducation pour la santé en accord avec
-l'établissement pénitentiaire ainsi qu'avec le préfet et le président du conseil général pour les actions et services dont
-sont respectivement responsables l'Etat et le département en application notamment de l'article 37 de la loi n° 83-663 du 22
-juillet 1983, les organismes d'assurance maladie ainsi que les autres collectivités et associations concernées sont associés
-à ce programme.
+L'établissement public de santé désigné en application de l'article R. 711-7 dispense en milieu pénitentiaire et, le cas
+échéant, hospitalier, des soins aux détenus dont l'état ne nécessite pas une hospitalisation ; dans les mêmes conditions, il
+effectue ou fait effectuer les examens, notamment radiologiques ou de laboratoires nécessaires au diagnostic.
+
+En outre :
+
+1° Il recueille les données épidémiologiques collectées lors de la visite médicale d'entrée, conformément à une fiche type
+dont le modèle est fixé par un arrêté conjoint du ministre de la justice et du ministre chargé de la santé ;
+
+2° Il pourvoit à l'équipement médical et non médical des locaux spécialisés de l'établissement pénitentiaire destinés aux
+consultations, aux soins et aux examens, et en assure l'entretien ;
+
+3° Il assure la fourniture et le transport des produits et petits matériels à usage médical ainsi que des médicaments et des
+produits pharmaceutiques qui sont placés sous la responsabilité du pharmacien gérant la pharmacie à usage intérieur de
+l'établissement de santé conformément au deuxième alinéa de l'article L. 595-9 ;
+
+4° Il assure l'élimination des déchets hospitaliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 1993 - art. Annexe, art. 3 (V)
+	  - CODE DE PROCEDURE PENALE - art. D379 (V)
+	  - Code de la santé publique - art. R711-14 (M)
+	  - Code de la santé publique - art. R711-15 (Ab)
+	  - Code de la santé publique - art. R711-16 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L595-9 (M)
+	  - Code de la santé publique - art. R711-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-19 (V)
+
+
+###### Article R711-14
+
+L'établissement public de santé mentionné à l'article R. 711-7 coordonne les actions de prévention et d'éducation pour la
+santé organisées dans l'établissement pénitentiaire. Il élabore à ce titre un programme en accord avec ledit établissement
+ainsi qu'avec les préfets de région et de département et le président du conseil général pour les actions et services, dont
+sont respectivement responsables l'Etat et le département en application, notamment, de l'article 37 de la loi n° 83-663 du
+22 juillet 1983. Les organismes d'assurance maladie ainsi que les autres collectivités et associations concernées sont
+associés à ce programme.
 
 **Liens relatifs à cet article**
 
@@ -87620,79 +87671,16 @@ juillet 1983, les organismes d'assurance maladie ainsi que les autres collectivi
 	**Cite**:
 
 	  - Loi n°83-663 1983-07-22 art. 37
-
-	**Créé par**:
-
-	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - Arrêté du 26 mars 1993 - art. Annexe, art. 3 (V)
-	  - CODE DE PROCEDURE PENALE - art. D379 (V)
-	  - Code de la santé publique - art. R711-14 (M)
-	  - Code de la santé publique - art. R711-15 (Ab)
-	  - Code de la santé publique - art. R711-16 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R6112-19 (V)
-
-
-###### Article R711-14
-
-Les conventions mentionnées à l'article R. 711-7 définissent, dans le respect des dispositions de la présente section,
-notamment :
-
-1° Les conditions dans lesquelles les personnels de l'établissement public de santé assurent l'examen systématique des
-détenus arrivant dans l'établissement pénitentiaire et dispensent à ceux-ci des soins courants et certains soins
-spécialisés ;
-
-2° Les modalités de participation de l'établissement public de santé au programme de prévention et d'éducation pour la santé
-mentionnées à l'article R. 711-13.
-
-Les conventions contiennent, en outre, des dispositions relatives :
-
-1° A l'aménagement et l'équipement des locaux mentionnés à l'article R. 711-11 ;
-
-2° Aux conditions dans lesquelles les détenus peuvent recourir aux équipements médicaux situés dans l'établissement public de
-santé ;
-
-3° Aux conditions dans lesquelles l'établissement public de santé établit et archive le dossier médical des patients dans le
-respect des dispositions des articles R. 710-2-1 à R. 710-2-8 ;
-
-4° A la définition du système d'information permettant l'analyse de l'activité, dans les conditions prévues à l'article L.
-710-5 ;
-
-5° Aux conditions dans lesquelles les dépenses et recettes afférentes aux activités définies par la convention sont prévues
-et inscrites au budget de l'établissement public de santé ainsi qu'aux modalités de règlement des dépenses qui donnent lieu à
-remboursement par l'établissement pénitentiaire.
-
-Les conventions peuvent également prévoir l'aménagement, à la charge de l'administration pénitentiaire, de locaux
-spécialement prévus pour assurer en toute sécurité l'hospitalisation des détenus dans l'établissement public de santé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. D379 (V)
-	  - Code de la santé publique - art. R711-16 (Ab)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L710-5 (M)
-	  - Code de la santé publique - art. R711-11 (M)
-	  - Code de la santé publique - art. R711-13 (M)
 	  - Code de la santé publique - art. R711-7 (M)
-	  - Code de la santé publique R711-7, R711-13, R711-11, R710-2-1 à R710-2-8, L710-5
+
+	**Modifié par**:
+
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D379 (V)
+	  - Code de la santé publique - art. R711-16 (Ab)
 
 	**Nouveaux textes**:
 
@@ -87701,14 +87689,99 @@ spécialement prévus pour assurer en toute sécurité l'hospitalisation des dé
 
 ###### Article R711-15
 
-Les conventions mentionnées à l'article R. 711-7 sont établies par référence à une convention type, dont le modèle est fixé
-par arrêté conjoint du ministre de la justice et des ministres chargés de la santé, de la sécurité sociale et du budget.
+I. - L'Etat assure la sécurité des personnels concourant aux missions définies au dernier alinéa de l'article L. 711-3.
 
-Elles prennent effet le premier jour d'un trimestre civil. Sauf si les cocontractants ont fixé une date postérieure, la date
-d'effet de la convention est fixée au premier jour du trimestre civil suivant sa signature.
+II. - Sont pris en charge par l'Etat, conformément à l'article L.  381-30-6 du code de la sécurité sociale :
 
-L'établissement public de santé transmet au préfet, pour information dès sa signature, la convention et ses annexes ainsi que
-ses avenants éventuels.
+1° Les dépenses afférentes aux actions de prévention et d'éducation pour la santé définies au 1° de cet article ;
+
+2° La construction, l'aménagement, la sécurité et l'entretien des locaux spécialisés de l'établissement pénitentiaire
+mentionné au 2° de l'article R. 711-13 ;
+
+3° Les frais de transport à l'établissement pénitentiaire des praticiens et agents hospitaliers qui ne sont pas affectés
+exclusivement dans cet établissement ; lorsque ces praticiens et agents perçoivent des indemnités de déplacement, celles-ci
+sont remboursées à l'établissement de santé sur les bases définies par le décret n° 90-437 du 28 mai 1990 fixant les
+conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire
+métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à
+caractère administratif et de certains organismes subventionnés ;
+
+4° Les frais de transport des produits et petits matériels à usage médical et des produits pharmaceutiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°90-437 1990-05-28
+	  - Code de la santé publique - art. L711-3 (M)
+	  - Code de la santé publique - art. R711-13 (M)
+	  - Code de la sécurité sociale. - art. L381-30-6 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 1993 - art. 1 (V)
+	  - CODE DE PROCEDURE PENALE - art. D370 (V)
+	  - Code de la santé publique - art. R711-16 (Ab)
+	  - Code de la santé publique - art. R723-4 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-21 (T)
+	  - Code de la santé publique - art. R6112-21 (V)
+	  - Code de la santé publique - art. R6112-22 (V)
+
+
+###### Article R711-16
+
+Le protocole mentionné au premier alinéa de l'article R. 711-10 définit notamment, dans le respect de la réglementation à
+laquelle est soumis l'établissement pénitentiaire :
+
+1° Les conditions dans lesquelles les personnels de l'établissement de santé assurent l'examen systématique des détenus
+arrivant dans l'établissement pénitentiaire et dispensent à ceux-ci des soins courants et, éventuellement, spécialisés,
+notamment sous forme de consultations ;
+
+2° L'organisation des soins et le fonctionnement médical de la structure de soins mentionnée à l'article R. 711-11 ;
+
+3° Les conditions dans lesquelles les détenus ont accès, pour des consultations ou des examens médico-techniques, aux
+équipements médicaux situés dans l'établissement de santé ;
+
+4° Les modalités de mise en oeuvre du programme de prévention et d'éducation pour la santé mentionné à l'article R. 711-14 ;
+
+5° La composition de l'équipe hospitalière exerçant dans la structure implantée dans l'établissement pénitentiaire ;
+
+6° L'aménagement et l'équipement des locaux mentionnés au 2° de l'article R. 711-13 ;
+
+7° Les conditions dans lesquelles l'établissement de santé établit et archive le dossier médical des patients dans le respect
+des dispositions des articles R. 710-2-1 à R. 710-2-8 ;
+
+8° Le système d'information permettant l'analyse de l'activité, dans les conditions prévues à l'article L. 710-5 ;
+
+9° Les modalités de remboursement par l'Etat des frais de transport des produits et matériels mentionnés au 4° de l'article
+R. 711-15 ;
+
+10° Les modalités de concertation périodique entre l'établissement pénitentiaire et l'établissement de santé sur les
+conditions d'application du protocole ;
+
+11° Les modalités de règlement des dépenses qui donnent lieu à remboursement à l'établissement de santé par l'établissement
+pénitentiaire ;
+
+12° Les conditions dans lesquelles l'administration pénitentiaire assure la sécurité des personnes et des biens dans les
+locaux de soins ;
+
+Un état prévisionnel des dépenses et des recettes de l'établissement de santé afférentes aux soins dispensés en milieu
+pénitentiaire est annexé au protocole.
 
 **Liens relatifs à cet article**
 
@@ -87719,23 +87792,197 @@ ses avenants éventuels.
 
 	**Créé par**:
 
-	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
 
 	**Cité par**:
 
-	  - Arrêté du 26 mars 1993 - art. 1 (V)
-	  - CODE DE PROCEDURE PENALE - art. D370 (V)
-	  - Code de la santé publique - art. R711-16 (Ab)
-	  - Code de la santé publique - art. R723-4 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R6112-21 (T)
-	  - Code de la santé publique - art. R6112-22 (V)
+	  - CODE DE PROCEDURE PENALE - art. D376 (V)
+	  - CODE DE PROCEDURE PENALE - art. D396 (V)
+	  - Code de la santé publique - art. R711-17 (Ab)
 
 	**Cite**:
 
+	  - Code de la santé publique - art. L710-5 (M)
+	  - Code de la santé publique - art. R711-10 (M)
+	  - Code de la santé publique - art. R711-11 (M)
+	  - Code de la santé publique - art. R711-13 (M)
+	  - Code de la santé publique - art. R711-14 (M)
+	  - Code de la santé publique - art. R711-15 (M)
+	  - Code de la santé publique R711-10, R711-11, R711-14, R711-13, R710-2-1 à R710-2-8, L710-5, R711-15
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-23 (V)
+
+
+###### Article R711-17
+
+Le protocole complémentaire mentionné au second alinéa de l'article R. 711-10 prévoit, outre les dispositions figurant à
+l'article R. 711-16 susceptibles de concerner l'établissement de santé mentionné à l'article R. 711-9 :
+
+1° Les conditions dans lesquelles les personnels de cet établissement dispensent les soins psychiatriques au sein de
+l'établissement pénitentiaire ;
+
+2° Les modalités de coordination avec l'établissement public de santé signataire du protocole mentionné au premier alinéa de
+l'article R. 711-10, notamment en ce qui concerne la délivrance des médicaments.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R50-33 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R57-5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-24 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R711-10 (M)
+	  - Code de la santé publique - art. R711-16 (Ab)
+	  - Code de la santé publique - art. R711-9 (M)
+
+
+###### Article R711-18
+
+Les protocoles mentionnés à l'article R. 711-10 sont établis par référence aux modèles de protocoles déterminés conjointement
+par le ministre de la justice et les ministres chargés de la santé, de la sécurité sociale et du budget.
+
+Ils prennent effet le premier jour d'un mois. Sauf si les co-contractants ont fixé une date postérieure, la date d'effet des
+protocoles est fixée au premier jour du mois suivant leur signature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-25 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R711-10 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R723-4 (Ab)
+
+
+###### Article R711-19
+
+L'hospitalisation des détenus est assurée :
+
+1° En cas de troubles mentaux, par un service médico-psychologique régional, conformément aux missions définies au dernier
+alinéa de l'article 11 du décret n° 86-602 du 14 mars 1986 relatif à la lutte contre les maladies mentales et à
+l'organisation de la sectorisation psychiatrique. Toutefois, les hospitalisations relevant de l'article D. 398 du code de
+procédure pénale sont effectuées dans les établissements habilités au titre de l'article L. 331 du présent code.
+
+2° Pour les autres pathologies, dans des locaux adaptés à l'admission des détenus :
+
+a) Par l'établissement de santé mentionné à l'article R. 711-7 lorsque cette hospitalisation présente un caractère d'urgence
+ou de très courte durée ;
+
+b) Par un établissement de santé figurant sur une liste fixée par arrêté conjoint des ministres de la justice, de
+l'intérieur, de la défense et des ministres chargés de la santé, de la sécurité sociale et du budget.
+
+Ce même arrêté fixe les conditions dans lesquelles l'Etat prend en charge, conformément au 3° de l'article L. 381-30-6 du
+code de la sécurité sociale, les frais d'aménagement des locaux spécialement prévus pour l'admission des détenus dans les
+établissements de santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°86-602 du 14 mars 1986 - art. 11 (M)
+	  - CODE DE PROCEDURE PENALE - art. D398 (M)
+	  - Code de la santé publique - art. L331 (M)
 	  - Code de la santé publique - art. R711-7 (M)
+	  - Code de la sécurité sociale. - art. L381-30-6 (V)
+
+	**Cité par**:
+
+	  - Décret n°92-6 du 2 janvier 1992 - art. 1 (V)
+	  - Décret n°94-929 du 27 octobre 1994 - art. 15 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D391 (V)
+	  - Code de la santé publique - art. R723-4 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-26 (V)
+
+
+###### Article R711-20
+
+Les dépenses et les recettes afférentes aux soins dispensés aux détenus en milieu pénitentiaire et en milieu hospitalier sont
+retracées dans chacun des groupes fonctionnels de dépenses et de recettes d'exploitation du budget général de l'établissement
+de santé mentionnés à l'article R. 714-3-12.
+
+A la clôture de l'exercice, un état retraçant ces dépenses et ces recettes est transmis par l'établissement de santé au
+représentant de l'Etat.
+
+Les dépenses afférentes aux soins dispensés en milieu pénitentiaire sont évaluées compte tenu des dépenses constatées du
+dernier exercice connu et de l'évolution prévisionnelle des activités de soins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-929 du 27 octobre 1994 - art. 1 () JORF 28 octobre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-27 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-3-12 (M)
 
 
 #### Chapitre 2 : L'organisation et l'équipement sanitaires
