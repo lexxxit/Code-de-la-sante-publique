@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1984-10-01
+Version Consolidée au 1984-10-10
 
 # Partie législative ancienne
 
@@ -32619,6 +32619,41 @@ périmètre n'a été assigné.
 	  - Loi n°1856-07-14 ART. 6
 
 
+###### Article L741
+
+Dans l'intérieur du périmètre de protection, le propriétaire d'une source déclarée d'intérêt public a le droit de faire dans
+dans le terrain d'autrui, à l'exception des maisons d'habitation et des cours attenantes, tous les travaux de captage et
+d'aménagement nécessaires pour la conservation, la conduite et la distribution de cette source, lorsque ces travaux ont été
+autorisés.
+
+Le propriétaire du terrain est entendu dans l'instruction.
+
+**Nota:**
+
+[*Nota : Décret 84-896 du 3 octobre 1984 art. 4 : L'autorisation mentionnée à l'article L. 741 fait l'objet d'une décision du
+commissaire de la République de département du lieu de travail.*]
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°84-896 1984-10-03 ART. 3 JORF 10 OCTOBRE 1984
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°84-896 1984-10-03 ART. 4
+	  - TXT_ASSOCIE: Code de la santé publique - art. L743 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1322-8 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L743 (Ab)
+	  - Code de la santé publique - art. L744 (M)
+
+
 ###### Article L742
 
 Le propriétaire d'une source d'eau minérale déclarée d'intérêt public peut exécuter, sur son terrain, tous les travaux de
@@ -34560,48 +34595,6 @@ règles de passation des marchés, telles qu'elles sont définies par le code de
 	**Cite**:
 
 	  - Loi n°1926-08-18
-
-
-## LIVRE 7 : THERMO-CLIMATISME
-
-### TITRE 2 : THERMO-CLIMATISME
-
-#### CHAPITRE 1 : SOURCES D'EAUX MINERALES
-
-##### SECTION 1 : DE LA DECLARATION D'INTERET PUBLIC DES SOURCES, DES SERVITUDES ET DES DROITS QUI EN RESULTENT.
-
-###### Article L741
-
-Dans l'intérieur du périmètre de protection, le propriétaire d'une source déclarée d'intérêt public a le droit de faire dans
-dans le terrain d'autrui, à l'exception des maisons d'habitation et des cours attenantes, tous les travaux de captage et
-d'aménagement nécessaires pour la conservation, la conduite et la distribution de cette source, lorsque ces travaux ont été
-autorisés par un arrêté du ministre de la Santé publique et de la Population.
-
-Le propriétaire du terrain est entendu dans l'instruction.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1322-8 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L743 (Ab)
-	  - Code de la santé publique - art. L744 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L743 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1856-07-14 ART. 7
 
 
 ## LIVRE 7 : LABORATOIRES
