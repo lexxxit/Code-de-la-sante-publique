@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1956-09-12
+Version Consolidée au 1956-11-28
 
 # Partie législative ancienne
 
@@ -30440,13 +30440,4253 @@ décembre 1974 : ratification ; Décret n° 77-41 du 11 janvier 1977, J.O. 19 ja
 
 ## Livre 5 : Pharmacie
 
+### Titre 1 : Dispositions générales
+
+#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien
+
+##### Section 1 : Pharmacopée
+
+##### Paragraphe 1 : Pharmacopée
+
+###### Article R5002
+
+La commission nationale de la Pharmacopée est chargée de préparer, sous l'autorité du ministre chargé de la santé publique,
+la rédaction de la Pharmacopée.
+
+Cette commission se compose de trente-sept membres :
+
+Un professeur en exercice d'une unité d'enseignement et de recherche de pharmacie désigné par le ministre chargé de la santé
+publique, président ;
+
+Deux professeurs en exercice appartenant l'un à une unité d'enseignement et de recherche de médecine, l'autre à une unité
+d'enseignement et de recherche de pharmacie, désignés par le ministre chargé de la santé publique, vice-présidents ;
+
+Le chef du service central de la pharmacie et des médicaments, secrétaire général ;
+
+Un professeur en exercice d'une unité d'enseignement et de recherche de pharmacie, désigné par le ministre chargé de la santé
+publique, secrétaire technique ;
+
+Le pharmacien inspecteur de la santé, chargé des questions de Pharmacopée, formulaire et recherche appliquée au service
+central de la pharmacie et des médicaments, secrétaire technique adjoint ;
+
+Le président du conseil national de l'Ordre des pharmaciens ;
+
+Trente membres nommés par le ministre chargé de la santé publique, dont quinze pharmaciens ou personnalités qualifiées, et,
+sur présentation du ministre de l'éducation nationale, quinze professeurs ou maîtres de conférences agrégés de l'enseignement
+supérieur en exercice lors de leur désignation.
+
+La commission ne peut valablement délibérer que si douze au moins de ses membres sont présents.
+
+La commission est renouvelable, tous les trois ans, et tous les mandats prennent fin à la date du renouvellement.
+
+Elle élabore un règlement intérieur prévoyant, notamment, la constitution de sous-commissions, de groupes de travail et d'un
+conseil restreint.
+
+Le ministre chargé de la santé publique peut nommer, pour une durée maximale de trois ans, des membres correspondants, qui
+peuvent être appelés à participer aux travaux et aux séances des sous-commissions et groupes de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°73-295 1973-03-09 art. 1 JORF 17 mars 1973
+	  - Décret n°63-844 1963-08-06 art. 1 JORF 17 août 1963
+
+	**Cité par**:
+
+	  - Arrêté du 7 août 1991 - art. 1 (V)
+	  - Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
+	  - Décret n°2003-633 du 2 juillet 2003 - art. 2 (Ab)
+	  - Code de la santé publique - art. R5002-1 (Ab)
+	  - Code de la santé publique - art. R5006 (M)
+	  - Code de la santé publique - art. R5089-15 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5112-6 (Ab)
+	  - Code de la santé publique - art. R5112-8 (V)
+	  - Code de la santé publique - art. R5112-9 (Ab)
+
+
+###### Article R5005
+
+Tout pharmacien propriétaire ou gérant d'une officine définie à l'article L. 568 ou d'une pharmacie mentionnée aux articles
+L. 577 et L. 577 bis du code de la santé publique, tout médecin bénéficiaire de l'autorisation prévue à l'article L. 594,
+tout établissement mentionné à l'article L. 596, ainsi que toute personne physique ou morale autorisée à préparer des
+produits mentionnés à l'article L. 513 du même code, est tenu de posséder au moins un exemplaire de la Pharmacopée et de ses
+suppléments dès la date fixée par l'arrêté ministériel prévu à l'article R. 5003.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°73-295 1973-03-09 art. 1 JORF 17 mars 1973
+	  - Décret n°63-844 1963-08-06 art. 1 JORF 17 août 1963
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L513 (M)
+	  - Code de la santé publique - art. L568 (M)
+	  - Code de la santé publique - art. L577 (Ab)
+	  - Code de la santé publique - art. L594 (Ab)
+	  - Code de la santé publique - art. L596 (M)
+	  - Code de la santé publique - art. R5003 (M)
+	  - Code de la santé publique L513, L568, L577, L577 bis, L594, L596, R5003
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5006-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5112-3 (Ab)
+
+
+##### Section 1 : Pharmacopée et formulaire
+
+##### Paragraphe 1 : Pharmacopée
+
+###### Article R5001
+
+La Pharmacopée, auparavant dénommée Codex, visée aux articles L. 512, L. 568 et L. 569 du code de la santé publique est un
+recueil contenant :
+
+La nomenclature des drogues, des médicaments simples et composés, des articles officinaux ;
+
+Une liste des dénominations communes de médicaments ;
+
+Les tableaux de posologie maximale et usuelle des médicaments pour l'adulte et pour l'enfant ;
+
+Des renseignements qui peuvent être utiles au pharmacien pour la pratique pharmaceutique.
+
+La Pharmacopée indique les caractères des médicaments, les moyens qui permettent de les identifier, les méthodes d'essai et
+d'analyse à utiliser pour assurer leur contrôle, les procédés de préparation, de stérilisation, de conservation desdits
+médicaments ainsi que les règles de leur conditionnement, leurs principales incompatibilités et un ensemble de données qui
+peuvent être utiles au pharmacien pour leur préparation et leur délivrance.
+
+La Pharmacopée visée par les dispositions législatives mentionnées ci-dessus est constituée par la dernière édition ayant
+fait l'objet de l'arrêté ministériel prévu à l'article R. 5003 et par les éditions précédentes maintenues en vigueur par
+ledit arrêté.
+
+Toute substance présentée sous une dénomination scientifique ou commune de la Pharmacopée en vigueur doit répondre aux
+spécifications de celle-ci.
+
+Les substances figurant sous une même appellation dans plusieurs éditions de la Pharmacopée doivent être conformes à la
+dernière d'entre elles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°73-295 1973-03-09 art. 1 JORF 17 mars 1973
+	  - Décret n°63-844 1963-08-06 art. 1 JORF 17 août 1963
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L512 (M)
+	  - Code de la santé publique - art. L568 (M)
+	  - Code de la santé publique - art. L569 (M)
+	  - Code de la santé publique - art. R5003 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5112-1 (M)
+
+
+###### Article R5003
+
+Une nouvelle édition de la Pharmacopée est publiée dès que l'évolution des sciences et des techniques la rend nécessaire. Un
+arrêté du ministre chargé de la santé publique rend ses dispositions obligatoires à partir d'une date qu'il détermine.
+
+Entre deux éditions successives, des additions, suppressions ou modifications à la Pharmacopée peuvent être prononcées, après
+avis de la commission nationale, par arrêtés du ministre chargé de la santé publique, publiés au Journal officiel. Des
+suppléments peuvent en outre être préparés, publiés et rendus obligatoires dans les mêmes conditions que les éditions qu'ils
+complètent.
+
+L'organisme ou le service chargé de l'édition est désigné par arrêté du ministre chargé de la santé publique ; les conditions
+d'édition et de cession sont soumises à l'agrément préalable du ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°73-295 1973-03-09 art. 1 JORF 17 mars 1973
+	  - Décret n°63-844 1963-08-06 art. 1 JORF 17 août 1963
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5001 (Ab)
+	  - Code de la santé publique - art. R5005 (Ab)
+	  - Code de la santé publique - art. R5006 (Ab)
+	  - Code de la santé publique - art. R5006-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5112-2 (V)
+
+
+###### Article R5004
+
+En cas de difficultés dans la fabrication ou l'importation de produits définis à la Pharmacopée, le ministre chargé de la
+santé publique peut, par arrêté pris après avis de la commission nationale, apporter à titre provisoire des dérogations aux
+formules et aux caractéristiques imposées par la Pharmacopée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°63-844 1963-08-06 art. 1 JORF 17 août 1963
+	  - Décret n°73-295 1973-03-09 art. 1 JORF 17 mars 1973
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5006-1 (M)
+
+
+##### Paragraphe 2 : Formulaire
+
+###### Article R5006
+
+La Pharmacopée est complétée par un formulaire national préparé, sous l'autorité du ministre chargé de la santé publique, par
+la commission nationale, dans les mêmes conditions que la Pharmacopée.
+
+L'une des sous-commissions prévues à l'article R. 5002 est plus spécialement chargée de l'élaboration du formulaire national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°73-295 1973-03-09 art. 1 JORF 17 mars 1973
+	  - Décret n°63-844 1963-08-06 art. 1 JORF 17 août 1963
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R1243-2 (M)
+	  - Code de la santé publique - art. R5003 (M)
+	  - Code de la santé publique - art. R5006-1 (Ab)
+	  - Code de la santé publique - art. R5094 (Ab)
+	  - Code de la sécurité sociale. - art. R163-1 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5002 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5112-4 (V)
+
+
+###### Article R5006-1
+
+Les dispositions des articles R. 5003 et R. 5005 sont applicables au formulaire national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°73-295 1973-03-09 art. 1 JORF 17 mars 1973
+	  - Décret n°63-844 1963-08-06 art. 1 JORF 17 août 1963
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5003 (M)
+	  - Code de la santé publique - art. R5004 (M)
+	  - Code de la santé publique - art. R5005 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5112-5 (V)
+
+
+##### Section 3 : Pharmaciens assistants
+
+###### Article R5008
+
+On entend par pharmaciens assistants les personnes qui, possédant le diplôme de pharmacien, exercent, simultanément avec le
+ou les pharmaciens dont les diplômes sont enregistrés à cet effet, une activité dans une officine ou un établissement
+pharmaceutique dont ils ne sont ni propriétaires ni titulaires.
+
+Les pharmaciens assistants exercent notamment leur activité dans les conditions prévues aux articles L. 579, L. 580 et L.
+600.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L579 (Ab)
+	  - Code de la santé publique - art. L580 (Ab)
+	  - Code de la santé publique - art. L600 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5104-20 (Ab)
+	  - Code de la santé publique - art. R5104-41 (Ab)
+	  - Code de la santé publique - art. R5104-49 (Ab)
+	  - Code de la santé publique - art. R5104-82 (Ab)
+	  - Code de la santé publique - art. R5104-94 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-34 (V)
+
+
+###### Article R5009
+
+Les activités pharmaceutiques des pharmaciens assistants comprennent notamment :
+
+a) La collaboration apportée à un pharmacien titulaire d'une des officines ou pharmacies définies aux articles L. 568 et L.
+577 ;
+
+b) La collaboration apportée au pharmacien responsable défini à l'article L. 596.
+
+La collaboration prévue en a et b ci-dessus peut en particulier consister dans la direction d'un des services suivants :
+
+Achat ou contrôle de matières premières ou de médicaments ;
+
+Fabrication ou conditionnement de médicaments ;
+
+Contrôle de la fabrication de médicaments ;
+
+Vente et magasinage de médicaments.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°69-13 1969-01-02 art. 1 JORF 8 janvier 1969
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L568 (M)
+	  - Code de la santé publique - art. L577 (Ab)
+	  - Code de la santé publique - art. L596 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-35 (V)
+
+
+###### Article R5010
+
+Aucun pharmacien assistant ne peut exercer cette fonction s'il n'est inscrit à l'Ordre des pharmaciens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-36 (V)
+
+
+###### Article R5011
+
+Les pharmaciens assistants peuvent participer à d'autres activités pharmaceutiques dans les mêmes conditions que les
+pharmaciens titulaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-37 (V)
+
+
+###### Article R5012
+
+Le pharmacien responsable défini à l'article L. 596 est tenu de déclarer, à la fin de chaque année, au pharmacien inspecteur
+régional de la santé et au conseil central de la section D de l'Ordre des pharmaciens :
+
+1° Le nombre d'employés ou d'ouvriers affectés dans leurs établissements à la fabrication ou au conditionnement ;
+
+2° Le nombre et le nom des pharmaciens assistants attachés auxdits établissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°69-13 1969-01-02 art. 2 JORF 8 janvier 1969
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L596 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-38 (V)
+
+
+##### Section 2 : Licences spéciales et brevets d'invention.
+
+###### Article R5007
+
+(texte abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°68-1 du 2 janvier 1968 - art. 72 (Ab) JORF 3 janvier 1968
+
+	**Cité par**:
+
+	  - Décret n°2004-188 du 23 février 2004 - art. 3 (V)
+	  - Code de la santé publique - art. R5007-3 (Ab)
+	  - Code de la santé publique - art. R5007-5 (Ab)
+	  - Code de la santé publique - art. R5007-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4211-1 (V)
+
+
+##### Section 4 : Dispositions spéciales en cas de fermeture d'officine.
+
+###### Article R*5013
+
+En cas de fermeture temporaire ou définitive d'une officine de pharmacie, par application des dispositions de l'article L.
+519, le titulaire de celle-ci doit remettre l'ordonnancier à un pharmacien qu'il désignera au conseil régional de l'Ordre
+dont il relève.
+
+A défaut de cette désignation le livre d'ordonnances est confié, au moment de la fermeture de l'officine, au pharmacien le
+plus proche proposé par ledit conseil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L519 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-30 (V)
+
+
+#### Chapitre 2 : De l'Ordre national des pharmaciens
+
+##### Section 1 : Organisation
+
+###### Article R5014
+
+La section F de l'Ordre national des pharmaciens est divisée en trois sous-sections géographiques :
+
+La première sous-section comprend les pharmaciens exerçant en Côte française des Somalis, aux Comores et à Saint-Pierre-et-
+Miquelon ;
+
+La deuxième sous-section comprend les pharmaciens exerçant en Nouvelle-Calédonie et dépendances et aux îles Wallis et
+Futuna ;
+
+La troisième sous-section comprend les pharmaciens exerçant en Polynésie française.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1953-11-05
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+
+##### Section 3 : Fonctionnement des chambres de discipline des conseils de l'ordre national des pharmaciens
+
+##### Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux
+
+###### Article R*5016
+
+L'action disciplinaire contre un pharmacien ne peut être introduite que par une plainte formulée par l'une des personnes
+suivantes :
+
+Le ministre de la santé publique et de la population, le ministre du travail et de la sécurité sociale, le ministre de la
+France d'outre-mer, le préfet, directeur départemental de la santé, le procureur de la République, le président du conseil
+national, d'un conseil central ou d'un conseil régional de l'Ordre des pharmaciens ou pharmacien inscrit à l'un des tableaux
+de l'Ordre.
+
+Cette plainte est adressée au président du conseil national ou au président d'un conseil central ou régional ; si elle est
+adressée au président du conseil national ou au président du conseil central "A", elle est transmise au conseil compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-1 (V)
+
+
+###### Article R*5017
+
+Le président du conseil central ou régional qui est saisi de la plainte l'enregistre et la notifie dans la quinzaine au
+pharmacien poursuivi, lui en adressant par pli recommandé avec demande d'avis de réception postal une copie intégrale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-2 (V)
+
+
+###### Article R*5018
+
+Dès réception de la plainte, le président du conseil central ou régional désigne parmi les membres de son conseil un
+rapporteur, qui ne peut être choisi parmi les personnes susceptibles d'être récusées en application de l'article 378 du code
+de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de procédure civile 378
+
+
+###### Article R*5019
+
+Le rapporteur a qualité pour procéder à l'audition du pharmacien poursuivi et, d'une façon générale, recueillir tous
+témoignages et procéder ou faire procéder à toutes constatations nécessaires à la manifestation de la vérité.
+
+Lorsqu'il a achevé l'instruction, le rapporteur transmet le dossier, accompagné de son rapport, au président du conseil
+central ou régional qui l'a désigné.
+
+Son rapport doit constituer un exposé objectif des faits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-4 (V)
+
+
+###### Article R*5020
+
+La comparution en chambre de discipline est obligatoire si elle est demandée expressément par le ministre de la santé
+publique et de la population ou le procureur de la République. Dans tous les autres cas, le président du conseil intéressé
+saisit son conseil de l'affaire.
+
+Si le conseil décide de ne pas traduire en chambre de discipline, cette décision est notifiée par lettre recommandée avec
+demande d'avis de réception postal au pharmacien poursuivi, au plaignant, au ministre de la santé publique et de la
+population et, en cinq exemplaires, au président du conseil national pour transmission aux présidents des conseils centraux.
+
+S'il décide de traduire en chambre de discipline, cette décision est notifiée au pharmacien poursuivi et au plaignant par
+lettre recommandée avec demande d'avis de réception postal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article R*5021
+
+Le pharmacien poursuivi est convoqué à l'audience quinze jours au moins avant la date fixée pour celle-ci.
+
+L'auteur de la plainte est convoqué dans les mêmes formes et délais, ainsi que, le cas échéant, les témoins.
+
+La convocation précise que, jusqu'au jour fixé pour l'audience le pharmacien peut prendre ou faire prendre connaissance du
+dossier par son défenseur à condition que les nom, adresse et qualité de celui-ci soient portés préalablement à la
+connaissance du président du conseil intéressé et en tout état de cause quarante-huit heures au moins avant le jour de
+l'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-6 (V)
+
+
+###### Article R*5022
+
+Constitués en chambre de discipline, les conseils centraux ou régionaux sont présidés par le magistrat désigné conformément
+aux prescriptions de l'article L. 527 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L527 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-7 (V)
+
+
+###### Article R*5023
+
+Le président de la chambre de discipline dirige les débats. Il donne tout d'abord la parole au rapporteur pour la lecture de
+son rapport. Il procède ensuite à l'interrogatoire de l'intéressé et à l'audition des témoins.
+
+Tout membre de la chambre de discipline peut poser des questions par son intermédiaire.
+
+Il donne la parole au plaignant, l'intéressé ou son défenseur parlant en dernier, il peut la retirer à quiconque en abuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-8 (V)
+
+
+###### Article R*5024
+
+Sauf cas de force majeure, l'intéressé doit comparaître en personne ; il ne peut se faire représenter mais peut se faire
+assister par un pharmacien inscrit à l'un des tableaux de l'Ordre ou un avocat inscrit à un barreau, à l'exclusion de toute
+autre personne. Les membres d'un conseil de l'Ordre ne peuvent être choisis comme défenseurs.
+
+Si l'intéressé ne se présente pas, la chambre de discipline apprécie souverainement si elle doit ou non passer outre aux
+débats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-9 (V)
+
+
+###### Article R*5025
+
+L'audience n'est pas publique et la délibération est secrète.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-10 (V)
+
+
+###### Article R*5026
+
+Les chambres de discipline ne peuvent statuer que si la majorité des membres en exercice assistent à la séance.
+
+Si le quorum n'est pas atteint, le président procède à une nouvelle convocation.
+
+Quel que soit alors le nombre des présents, la chambre délibère et statue valablement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-11 (V)
+
+
+###### Article R*5027
+
+Les décisions des chambres de discipline doivent être motivées et mentionner les noms des membres présents.
+
+Elles sont inscrites sur un registre spécial, coté et paraphé par le président de la chambre de discipline.
+
+Ce registre ne peut être communiqué aux tiers.
+
+Les expéditions des décisions sont datées et signées par le président du conseil central ou régional ou par la personne à qui
+il aura donné pouvoir à cet effet. Chaque décision est notifiée dans le délai de quinze jours et à la même date, par lettre
+recommandée avec demande d'avis de réception postal, aux personnes suivantes :
+
+- pharmacien poursuivi ;
+
+- plaignant ;
+
+- ministre de la santé publique et de la population ;
+
+- président du conseil national (en cinq exemplaires, dans ce cas).
+
+Le même jour de leur réception, les décisions sont notifiées aux présidents de conseils centraux par les soins du président
+du conseil national.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-12 (V)
+
+
+###### Article R*5028
+
+Si dans le délai légal qui suit la notification, le conseil national n'a pas été saisi d'un appel contre la décision, le
+président du conseil national en informe dans les quinze jours le conseil qui s'est prononcé en première instance.
+
+Ce dernier, quinze jours après en avoir été avisé, adresse la décision au préfet par l'intermédiaire du directeur
+départemental de la santé (inspection de la pharmacie) en lui demandant d'en assurer l'exécution s'il y a lieu.
+
+Un arrêté préfectoral, pris sur proposition du directeur départemental de la santé après avis de l'inspecteur de la
+pharmacie, fixe la date de départ de l'exécution de la peine en cas d'interdiction d'exercice de la profession.
+
+Le pharmacien interdit doit, après autorisation administrative, fermer son établissement ou se faire remplacer dans les
+conditions prévues par l'article L. 580.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L580 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-14 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5040 (Ab)
+
+
+##### Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline.
+
+###### Article R*5029
+
+Le conseil national est la juridiction d'appel des conseils centraux et des conseils régionaux.
+
+L'appel doit être interjeté dans les trente jours qui suivent le jour de réception de la décision de première instance.
+
+Il est adressé au président du conseil national. Il peut être reçu au secrétariat dudit conseil par simple déclaration contre
+récépissé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-15 (V)
+
+
+###### Article R*5030
+
+Le président du conseil national ou son représentant accuse réception de l'appel et le notifie aux parties.
+
+Il en avise également le président du conseil de première instance et lui demande de lui adresser le dossier de l'affaire,
+qui doit parvenir au conseil national dans les huit jours.
+
+Le dossier qui est transmis doit comporter, cotées, toutes les pièces sans exception, qui ont été en possession des premiers
+juges.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-16 (M)
+
+
+###### Article R*5031
+
+Dès réception du dossier, le président du conseil national désigne, parmi les membres de son conseil, un rapporteur qui ne
+peut être choisi parmi les personnes susceptibles d'être récusées en application de l'article 378 du code de procédure civile
+ni parmi celles qui auraient pu connaître de l'affaire en première instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de procédure civile 378
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-17 (V)
+
+
+###### Article R*5032
+
+Le rapporteur a qualité pour procéder à l'audition du pharmacien poursuivi et, d'une façon générale, recueillir tous
+témoignages et procéder ou faire procéder à toutes constatations nécessaires à la manifestation de la vérité.
+
+Lorsqu'il a achevé l'instruction, le rapporteur transmet le dossier, accompagné de son rapport, au président du conseil
+national.
+
+Son rapport doit constituer un exposé objectif des faits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-18 (V)
+
+
+###### Article R*5033
+
+Le pharmacien poursuivi est convoqué à l'audience par lettre recommandée avec demande d'avis de réception postal. Cette
+convocation doit parvenir à l'intéressé quinze jours au moins avant la date fixée pour l'audience.
+
+L'auteur de la plainte et l'appelant sont convoqués dans les mêmes formes et délais ainsi que, le cas échéant, les témoins.
+
+La convocation précise que, jusqu'au jour fixé pour l'audience, le pharmacien peut prendre ou faire prendre connaissance du
+dossier par son défenseur, à condition que les nom, adresse et qualité de celui-ci soient portés préalablement à la
+connaissance du président du conseil national et en tout état de cause quarante-huit heures au moins avant le jour de
+l'audience.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-19 (V)
+
+
+###### Article R*5034
+
+Statuant disciplinairement, le conseil national est présidé par le président, le vice-président du conseil national ou à
+défaut le plus âgé des membres du bureau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-20 (M)
+
+
+###### Article R*5035
+
+Le président du conseil national dirige les débats.
+
+Il donne tout d'abord la parole au rapporteur pour la lecture de son rapport.
+
+Il procède ensuite à l'interrogatoire de l'intéressé et à l'audition des témoins. Tout membre du conseil national peut poser
+des questions par son intermédiaire. Il donne la parole au plaignant, l'intéressé ou son défenseur parlant en dernier. Il
+peut la retirer à quiconque en abuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-21 (T)
+
+
+###### Article R*5036
+
+Sauf en cas de force majeure, l'intéressé doit comparaître en personne ; il ne peut se faire représenter mais peut se faire
+assister par un pharmacien inscrit au tableau de l'Ordre ou un avocat inscrit à un barreau, à l'exclusion de toute autre
+personne.
+
+Les membres d'un conseil de l'Ordre ne peuvent être désignés comme défenseurs.
+
+Si l'intéressé ne se présente pas, le conseil apprécie souverainement s'il doit ou non passer outre aux débats.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-22 (T)
+
+
+###### Article R*5037
+
+L'audience n'est pas publique et la délibération est secrète.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-23 (T)
+
+
+###### Article R*5038
+
+Le conseil national ne peut statuer que si la majorité des membres en exercice assistent à la séance. Si le quorum n'est pas
+atteint le président procède à une nouvelle convocation.
+
+Dans ce cas, la chambre délibère et statue valablement, dès lors que le nombre des membres présents est au moins de cinq.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-24 (T)
+
+
+###### Article R*5039
+
+Les décisions du conseil national doivent être motivées et mentionner les noms des membres présents.
+
+Elles sont inscrites sur un registre spécial coté et paraphé par le président du conseil national.
+
+Ce registre ne peut être communiqué aux tiers.
+
+Les expéditions des décisions sont datées et signées par le président du conseil national ou par la personne à qui il aura
+donné pouvoir à cet effet. Chaque décision est notifiée par le président dans le délai d'un mois et à la même date, par
+lettre recommandée avec demande d'avis de réception postal, aux personnes suivantes :
+
+- pharmacien poursuivi ;
+
+- plaignant ;
+
+- ministre de la santé publique et de la population ;
+
+- appelant ;
+
+- présidents des conseils centraux et conseil de première instance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-25 (T)
+
+
+###### Article R*5040
+
+Le ministre de la santé publique adresse au préfet intéressé par l'intermédiaire du directeur départemental de la santé
+(inspection de la pharmacie) une copie de la décision qui lui a été notifiée.
+
+Si la peine est une interdiction d'exercer, il demande au préfet par l'intermédiaire du directeur départemental de la santé,
+d'en assurer l'exécution.
+
+Le préfet fixe le point de départ de l'exécution de la peine dans les conditions fixées à l'article R. 5028.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R*5028 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-26 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5089-15 (Ab)
+
+
+###### Article R*5041
+
+Les décisions du conseil national sont susceptibles de pourvoi en cassation dans les conditions fixées par le dernier alinéa
+de l'article 2 du décret n° 53-934 du 30 septembre 1953 portant réforme du contentieux administratif.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°53-934 du 30 septembre 1953 - art. 2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+##### Paragraphe 3 : Dispositions communes.
+
+###### Article R*5042
+
+Les délais prévus à la présente section sont décomptés conformément aux dispositions de l'article 1033 du code de procédure
+civile.
+
+Ceux prévus aux articles R. 5021, R. 5030 et R. 5033, 1er alinéa, sont augmentés conformément à l'article 73 du code de
+procédure civile si le pharmacien exerce hors de la métropole.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de procédure civile 73, 1033
+	  - Code de la santé publique R5021, R5030, R5033
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-27 (T)
+
+
+###### Article R*5043
+
+Tout membre des chambres de discipline des conseils régionaux, centraux, et du conseil national peut être récusé pour les
+motifs énumérés à l'article 378 du code de procédure civile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de procédure civile 378
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-28 (T)
+
+
+###### Article R*5044
+
+Il est interdit à un pharmacien frappé d'une peine d'interdiction d'exercer la pharmacie, d'occuper dans l'officine ou
+l'établissement dont il était responsable ou auquel il était attaché, une fonction quelconque, même subalterne et même non
+rétribuée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+##### Section 2 : Déontologie pharmaceutique
+
+###### Article R*5015-1
+
+Les dispositions de la présente section s'imposent à tous les pharmaciens inscrits à l'un des tableaux de l'Ordre.
+
+Les infractions à ces dispositions relèvent de la juridiction disciplinaire de l'ordre, sans préjudice des poursuites pénales
+qu'elles seraient susceptibles d'entraîner.
+
+Les pharmaciens membres d'une société pharmaceutique ne sauraient considérer leur appartenance à la société comme les
+dispensant, à titre personnel, de leurs obligations.
+
+Les pharmaciens fonctionnaires qui exercent une activité pharmaceutique motivant leur inscription à l'un des tableaux de
+l'ordre restent soumis pour cette activité à la juridiction de l'ordre. Ils ne peuvent être traduits en chambre de discipline
+que sur la demande ou avec l'accord des autorités administratives dont ils relèvent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 1
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°69-505 du 24 mai 1969 - art. 6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-1 (V)
+
+
+##### Paragraphe 1 : Devoirs généraux des pharmaciens
+
+##### 1) Dispositions générales.
+
+###### Article R*5015-2
+
+Le pharmacien doit s'abstenir de tout fait ou manifestation de nature à déconsidérer la profession, même en dehors de
+l'exercice de celle-ci.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-2 (V)
+
+
+###### Article R*5015-3
+
+Il est interdit à tout pharmacien inscrit à l'un des tableaux de l'ordre d'exercer, en même temps que la pharmacie, toute
+autre activité incompatible avec la dignité professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 3
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-3 (V)
+
+
+##### 2) Du concours du pharmacien à l'oeuvre de protection de la santé.
+
+###### Article R*5015-4
+
+Le pharmacien est au service du public. Il doit faire preuve du même dévouement envers tous les malades.
+
+Quelle que soit sa fonction ou sa spécialité, hors le seul cas de force majeure, le pharmacien doit, dans la limite de ses
+connaissances, porter secours à un malade en danger immédiat, si des soins médicaux ne peuvent lui être assurés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 4
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-4 (V)
+
+
+###### Article R*5015-5
+
+Sauf ordre écrit des autorités qualifiées, le pharmacien ne peut quitter son poste si l'intérêt du public exige qu'il y
+reste. Le pharmacien détaillant ne peut fermer son officine qu'après s'être assuré que les malades pourront recevoir chez un
+autre pharmacien, suffisamment proche, les secours dont ils auront besoin.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 5
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article R*5015-6
+
+Les pharmaciens sont tenus de prêter leur concours aux services de médecine sociale et de collaborer à l'oeuvre des pouvoirs
+publics tendant à la protection et à la préservation de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 6
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article R*5015-7
+
+Afin de ne pas compromettre le fonctionnement rationnel et le développement normal des services ou institutions de médecine
+sociale, les pharmaciens observent dans l'exercice de leur activité professionnelle les règles imposées par les statuts des
+collectivités publiques ou privées à condition qu'elles ne soient pas contraires aux lois et règlements qui régissent
+l'exercice de la pharmacie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 7
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-7 (V)
+
+
+###### Article R*5015-8
+
+Le pharmacien ne doit favoriser, ni par ses conseils, ni par ses actes, des pratiques contraires aux bonnes moeurs.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-8 (V)
+
+
+###### Article R*5015-9
+
+Le secret professionnel s'impose à tous les pharmaciens, sauf dérogations établies par la loi.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 9
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-9 (V)
+
+
+###### Article R*5015-10
+
+Afin d'assurer le respect du secret professionnel, le pharmacien s'abstiendra de discuter en public, notamment à l'officine,
+des questions relatives aux maladies de ses clients.
+
+Il évitera toute allusion de nature à compromettre le secret professionnel dans ses publications.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 10
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-10 (V)
+
+
+##### 3) De la responsabilité et de l'indépendance des pharmaciens.
+
+###### Article R*5015-11
+
+L'exercice personnel de la pharmacie consiste pour le pharmacien à préparer et à délivrer lui-même les médicaments ou à
+surveiller attentivement l'exécution de tous les actes pharmaceutiques qu'il n'accomplit pas lui-même.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 11
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-11 (V)
+
+
+###### Article R*5015-12
+
+Toute officine doit porter, de façon apparente, le nom du ou des pharmaciens propriétaires, ou s'il s'agit d'une officine
+exploitée en société, le nom du ou des pharmaciens gérants responsables.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 12
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R*5015-27 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-12 (V)
+
+
+###### Article R*5015-13
+
+Dans les établissements de fabrication ou de vente en gros de produits pharmaceutiques, le nom du ou des pharmaciens
+responsables doit figurer sur l'étiquetage des médicaments.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 13
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-13 (V)
+
+
+###### Article R*5015-14
+
+Le pharmacien assistant est le diplômé qui, inscrit à l'Ordre, apporte son concours à un pharmacien titulaire d'un
+établissement pharmaceutique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 14
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-14 (V)
+
+
+###### Article R*5015-15
+
+Le pharmacien titulaire d'un établissement pharmaceutique qui se fait suppléer dans ses fonctions par un pharmacien
+assistant, doit s'assurer de l'inscription préalable de ce dernier au tableau de l'Ordre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 15
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-15 (V)
+
+
+###### Article R*5015-16
+
+Les conseils de l'Ordre réunis en chambre de discipline apprécient dans quelle mesure le pharmacien titulaire est responsable
+disciplinairement des actes professionnels accomplis par le pharmacien assistant.
+
+En cas de fautes commises par le pharmacien assistant, la responsabilité disciplinaire de ce dernier et celle du pharmacien
+titulaire peuvent être simultanément engagées, eu égard aux devoirs de surveillance qui incombent à l'employeur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 16
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-16 (V)
+
+
+###### Article R*5015-17
+
+S'il est dans l'incapacité d'exercer personnellement et s'il ne se fait pas remplacer conformément aux dispositions
+réglementaires, aucun pharmacien ne doit maintenir ouvert un établissement pharmaceutique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 17
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-2 (V)
+	  - Code de la santé publique - art. R4235-17 (V)
+
+
+###### Article R*5015-18
+
+Toute cessation d'activité professionnelle, toute modification intervenant dans la direction pharmaceutique ou dans la
+structure sociale d'une entreprise, tout transfert de locaux pharmaceutiques doit être l'objet d'une déclaration à la section
+compétente de l'Ordre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 18
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-3 (V)
+	  - Code de la santé publique - art. R4235-18 (V)
+
+
+###### Article R*5015-19
+
+Qu'ils soient titulaires, gérants, assistants ou remplaçants, les pharmaciens ne doivent, en aucun cas, conclure de
+convention tendant à l'aliénation, même partielle, de leur indépendance technique dans l'exercice de leur profession.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-4 (V)
+	  - Code de la santé publique - art. R4235-19 (V)
+
+
+###### Article R*5015-20
+
+Le pharmacien chargé de la gérance d'une officine après décès du titulaire, doit se voir reconnaître la même indépendance
+technique qu'avait ce titulaire lui-même.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 20
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-20 (V)
+
+
+###### Article R*5015-21
+
+Les contrats de location de marques doivent respecter l'indépendance technique des pharmaciens exploitants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 21
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-21 (V)
+
+
+###### Article R*5015-22
+
+Il est interdit aux pharmaciens gérants, remplaçants ou assistants, d'accepter une rémunération qui ne soit pas
+proportionnée, compte tenu des usages, avec les fonctions et les responsabilités qu'ils assument. D'autre part, il est
+interdit aux pharmaciens titulaires d'établissements de proposer une semblable rémunération.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 22
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-22 (V)
+
+
+##### 4) De la tenue des établissements pharmaceutiques.
+
+###### Article R*5015-23
+
+La préparation et la délivrance des médicaments et plus généralement tous les actes pharmaceutiques doivent être effectués
+avec un soin minutieux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 23
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-23 (V)
+
+
+###### Article R*5015-24
+
+Les établissements pharmaceutiques doivent être installés dans des locaux bien adaptés aux activités qui s'y exercent et
+convenablement équipés et tenus.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 24
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-24 (V)
+
+
+###### Article R*5015-25
+
+Tout produit se trouvant dans un établissement pharmaceutique doit pouvoir être identifié par son nom, qui doit être porté
+sur une étiquette disposée de façon appropriée. Cette étiquette doit être conforme au modèle réglementaire éventuel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 25
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-25 (V)
+
+
+##### Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle
+
+##### 1) De la publicité.
+
+###### Article R*5015-26
+
+Les pharmaciens doivent s'interdire de solliciter la clientèle par des procédés et moyens contraires à la dignité de leur
+profession, même lorsque ces procédés et moyens ne sont pas expressément prohibés par la législation en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 26
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-26 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5015-29 (Ab)
+
+
+###### Article R*5015-27
+
+Les inscriptions portées sur les officines en application des dispositions de l'article R. 5015-12, ne peuvent être
+accompagnées que des seuls titres universitaires hospitaliers et scientifiques dont la liste est établie par le conseil
+national de l'Ordre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 27
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R*5015-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-27 (V)
+
+
+###### Article R*5015-28
+
+A l'exception de celles qu'impose la législation commerciale ou industrielle, les seules indications que les pharmaciens
+puissent faire figurer sur leurs en-têtes de lettres, papiers d'affaires ou dans les annuaires, sont :
+
+1° Celles qui facilitent leurs relations avec leurs clients ou fournisseurs telles que : noms, prénoms, adresses, numéros de
+téléphone, jours et heures d'ouverture, numéros de comptes de chèques postaux ;
+
+2° L'énoncé des différentes activités qu'ils exercent ;
+
+3° Les titres et fonctions retenus à cet effet par le conseil national de l'Ordre ;
+
+4° Les distinctions honorifiques reconnues par la République Française.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 28
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-28 (V)
+
+
+###### Article R*5015-29
+
+Toute publicité auprès du corps médical et pharmaceutique doit être véridique et loyale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 29
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-29 (V)
+
+
+##### 2) De la concurrence déloyale.
+
+###### Article R*5015-30
+
+Il est rigoureusement interdit aux pharmaciens de porter atteinte au principe du libre choix du pharmacien par les malades en
+octroyant directement ou indirectement à certains d'entre eux des avantages que la loi ne leur aurait pas explicitement
+dévolus.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 30
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-30 (V)
+
+
+###### Article R*5015-31
+
+Il est notamment interdit d'accorder à l'ayant droit d'un service médico-pharmaceutique collectif le remplacement d'un
+produit par une autre fourniture, même considérée comme ayant une valeur équivalente ou supérieure.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 31
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-31 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5015-33 (Ab)
+
+
+###### Article R*5015-32
+
+Les pharmaciens doivent se refuser à établir tout certificat ou attestation de complaisance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 32
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-32 (V)
+
+
+###### Article R*5015-33
+
+Les pharmaciens investis de mandats électifs ou administratifs ne doivent pas en user pour accroître leur clientèle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 33
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-33 (V)
+
+
+##### 3) Prohibition de certaines conventions ou ententes
+
+###### Article R*5015-34
+
+Sont réputés contraires à la moralité professionnelle toute convention ou tout acte ayant pour objet de spéculer sur la santé
+ainsi que le partage avec des tiers de la rémunération des services du pharmacien.
+
+Sont en particulier interdits :
+
+1° Tous versements et acceptations non explicitement autorisés, de sommes d'argent entre les praticiens ;
+
+2° Tous versements et acceptations de commissions entre les pharmaciens et toutes autres personnes ;
+
+3° Toute ristourne en argent ou en nature sur le prix d'un produit ou d'un service ;
+
+4° Tout acte de nature à procurer à un client un avantage illicite ;
+
+5° Toute facilité accordée à quiconque se livre à l'exercice illégal de la pharmacie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 34
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-34 (V)
+
+
+###### Article R*5015-35
+
+Tout compérage entre pharmaciens et médecins auxiliaires médicaux ou toutes autres personnes est interdit.
+
+Par définition, le compérage est l'intelligence entre deux ou plusieurs personnes en vue d'avantages obtenus au détriment du
+malade ou des tiers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 35
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-35 (V)
+
+
+###### Article R*5015-36
+
+Ne sont pas comprises dans les ententes et conventions prohibées entre pharmaciens et membres du corps médical celles qui
+tendent au versement de droits d'auteur ou d'inventeur. De même les membres du corps médical peuvent être associés aux
+pharmaciens pour la préparation et la vente en gros des produits pharmaceutiques, conformément aux dispositions de la loi et
+des codes de déontologie qui les concernent.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 36
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-36 (V)
+
+
+###### Article R*5015-37
+
+Les pharmaciens peuvent recevoir les redevances qui leur seraient reconnues pour leur contribution à l'étude ou à la mise au
+point de médicaments ou d'appareils dès lors que ceux-ci ont été prescrits ou conseillés par d'autres qu'eux-mêmes.
+
+Ils peuvent verser dans les mêmes conditions les redevances reconnues aux praticiens auxquels les lient des contrats.
+
+Lorsque l'inventeur a prescrit lui-même l'objet de son invention, le versement et l'acceptation des redevances sont
+subordonnés à l'autorisation de l'Ordre dont relève cet inventeur, si la prescription a lieu de manière habituelle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 37
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-37 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5015-45 (Ab)
+
+
+###### Article R*5015-38
+
+Les comptes rendus d'analyses émanant d'un laboratoire peuvent porter facultativement les titres hospitaliers et
+scientifiques du directeur de ce laboratoire. Ils doivent toujours en porter la signature, même si les analyses ont été
+faites pour le compte d'un pharmacien ne possédant pas de laboratoire enregistré ou agréé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 38
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-38 (V)
+
+
+##### Paragraphe 3 : Relations avec des agents de l'administration.
+
+###### Article R*5015-39
+
+Les pharmaciens doivent tenir informé le conseil de l'Ordre dont ils relèvent des contrats de fournitures passés avec les
+administrations.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 39
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-39 (V)
+
+
+###### Article R*5015-40
+
+Les pharmaciens doivent s'efforcer de maintenir des relations confiantes avec les autorités administratives.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 40
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-40 (V)
+
+
+###### Article R*5015-41
+
+Ils doivent donner aux inspecteurs de la pharmacie dans les établissements qu'ils dirigent toutes facilités pour qu'ils
+puissent accomplir leur mission.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 41
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-41 (V)
+
+
+###### Article R*5015-42
+
+Tout pharmacien qui croit avoir à se plaindre d'un agent de l'administration et qui désire obtenir réparation, peut
+s'adresser dans ce but au conseil de la section de l'Ordre dont il relève qui donne à l'affaire la suite qu'elle comporte.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 42
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-42 (V)
+
+
+##### Paragraphe 4 : Des règles à observer dans les relations avec le public.
+
+###### Article R*5015-43
+
+Seuls les pharmaciens d'officine sont habilités à délivrer les médicaments au public et aux collectivités publiques et
+privées dépourvues d'officines autorisées dans les formes légales. Toutefois, cette disposition ne s'applique pas aux cas
+d'urgence ou aux exceptions prévues par la loi de façon expresse.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 43
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-43 (V)
+
+
+###### Article R*5015-44
+
+Chaque fois qu'il est nécessaire, le pharmacien doit inciter ses clients à consulter un médecin.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 44
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-44 (V)
+
+
+###### Article R*5015-45
+
+Les pharmaciens ne peuvent modifier une prescription qu'avec l'accord exprès et préalable de son auteur.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 45
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-45 (V)
+
+
+###### Article R*5015-46
+
+Ils doivent répondre avec circonspection aux demandes faites par les malades ou par leurs préposés pour connaître la nature
+de la maladie traitée ou la valeur des moyens curatifs prescrits ou appliqués.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 46
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-46 (V)
+
+
+###### Article R*5015-47
+
+Ils doivent s'abstenir de formuler un diagnostic ou un pronostic sur la maladie au traitement de laquelle ils sont appellés à
+collaborer. Notamment, ils doivent éviter de commenter médicalement auprès des malades ou de leurs préposés les conclusions
+des analyses qui leur sont demandées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 47
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-47 (V)
+
+
+##### Paragraphe 5 : Relations avec les membres des professions médicales
+
+##### 1) Relations avec les membres des professions non pharmaceutiques.
+
+###### Article R*5015-48
+
+Les pharmaciens doivent s'efforcer de créer entre eux-mêmes et les autres membres du corps médical des sentiments d'estime et
+de confiance. Ils doivent en toute occasion se montrer courtois à leur égard.
+
+Ils doivent, dans leurs rapports professionnels avec les membres du corps médical, et notamment les médecins, chirurgiens
+dentistes et sages-femmes, respecter l'indépendance de ceux-ci.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Arrêté du 31 mars 1999 - art. 6 (V)
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 48
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-48 (V)
+
+
+###### Article R*5015-49
+
+La citation de travaux scientifiques dans une publication, de quelque nature qu'elle soit, doit être fidèle et
+scrupuleusement loyale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 49
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-49 (V)
+
+
+###### Article R*5015-50
+
+Les pharmaciens doivent éviter tous agissements tendant à nuire aux autres membres du corps médical vis-à-vis de leur
+clientèle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 50
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-50 (V)
+
+
+###### Article R*5015-51
+
+Les pharmaciens doivent veiller à ce que des consultations médicales ne soient jamais données dans l'officine et par qui que
+ce soit. Cette interdiction garde sa rigueur envers les pharmaciens docteurs en médecine bénéficiaires des dispositions de
+l'article L. 569.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 51
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L569 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R*5015-52 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-51 (V)
+
+
+###### Article R*5015-52
+
+Tout projet de contrat d'association entre un ou plusieurs pharmaciens d'une part et un ou plusieurs membres d'une ou
+plusieurs des professions visées à l'article précédent d'autre part, doit être soumis à l'agrément du conseil national de
+l'Ordre. Celui-ci s'assurera, sur avis du conseil régional ou central compétent que les règles de la déontologie
+pharmaceutique sont respectées, et notamment que la dignité et l'indépendance du pharmacien sont sauvegardées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 52
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R*5015-51 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-52 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5053-3 (Ab)
+
+
+##### 2) Relations des pharmaciens avec leurs collaborateurs.
+
+###### Article R*5015-53
+
+Les pharmaciens doivent traiter avec équité et bienveillance tous ceux, quels qu'ils soient, qui collaborent avec eux.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 53
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-53 (V)
+
+
+###### Article R*5015-54
+
+Ils doivent exiger d'eux une conduite en accord avec les prescriptions de la présente section.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 54
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-54 (V)
+
+
+###### Article R*5015-55
+
+Les pharmaciens assistants doivent être traités en confrères par les titulaires qu'ils assistent et par les autres
+pharmaciens.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 55
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-55 (V)
+
+
+##### 3) Devoirs des maîtres de stage.
+
+###### Article R*5015-56
+
+Le pharmacien agréé est un maître, et l'étudiant stagiaire son élève.
+
+Le pharmacien agréé s'engage à donner à l'étudiant stagiaire une instruction pratique en l'associant aux activités techniques
+de son officine. Il doit lui inspirer l'amour et le respect de la profession et lui donner l'exemple des qualités
+professionnelles.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 56
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-56 (V)
+
+
+###### Article R*5015-57
+
+Nul pharmacien ne doit prétendre à instruire un stagiaire s'il ne dispose pas du temps nécessaire pour assurer lui-même son
+instruction et s'il ne possède pas le matériel utile.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 57
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-57 (V)
+	  - Code de la santé publique - art. R4235-58 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5053-3 (Ab)
+
+
+###### Article R*5015-58
+
+Le maître de stage doit pouvoir compter sur la fidélité, l'obéissance et le respect de son élève, qui doit l'aider dans la
+mesure de ses connaissances. Les différends entre pharmaciens et stagiaires doivent être portés à la connaissance des
+conseils régionaux, exception faite de ceux relatifs à l'enseignement qui sont de la compétence de l'Université.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 58
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-59 (V)
+
+
+##### 4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires.
+
+###### Article R*5015-59
+
+Devenus pharmaciens, les étudiants stagiaires ne doivent pas exercer leur art en faisant à leurs anciens maîtres une
+concurrence injuste. Les anciens gérants après décès, remplaçants et assistants ont la même obligation vis-à-vis de leurs
+anciens employeurs ou maîtres.
+
+Notamment un pharmacien qui, soit pendant, soit après ses études, remplace ou assiste un de ses confrères, ne doit pas
+s'installer, pendant un délai de deux ans, dans un établissement où sa présence permette une concurrence directe avec le
+pharmacien qu'il a remplacé ou assisté, à moins qu'il n'y ait entre les intéressés un accord qui doit être notifié au conseil
+compétent. S'il y a désaccord, le différend peut être soumis à ce conseil.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 59
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-60 (V)
+
+
+##### 5) Devoirs de confraternité.
+
+###### Article R*5015-60
+
+Tous les pharmaciens inscrits à l'Ordre se doivent mutuellement aide et assistance pour l'accomplissement de leurs devoirs
+professionnels. En toutes circonstances, ils doivent faire preuve de loyauté les uns envers les autres et de solidarité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 60
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-61 (V)
+
+
+###### Article R*5015-61
+
+Tout contrat passé entre pharmaciens doit être sincère et juste. Les obligations qui en découlent doivent être accomplies
+dans un large esprit de confraternité.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 61
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article R*5015-62
+
+Les pharmaciens doivent s'interdire d'inciter les collaborateurs d'un confrère à quitter celui-ci. Avant de prendre à leur
+service l'ancien collaborateur d'un confrère du proche voisinage ou d'un concurrent direct, ils doivent en informer celui-ci.
+Toute contestation à ce sujet doit être soumise à la décision du conseil régional ou du conseil central intéressé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 62
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-62 (V)
+
+
+###### Article R*5015-63
+
+Toute dénonciation injustifiée ou faite dans le dessein de nuire à un confrère peut entraîner une sanction disciplinaire.
+Toute parole ou tout acte pouvant porter un préjudice matériel ou moral à un confrère au point de vue professionnel est
+punissable, même s'il a lieu dans le privé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 63
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-63 (V)
+
+
+###### Article R*5015-64
+
+En raison de leur devoir de confraternité les pharmaciens qui ont entre eux un différend d'ordre professionnel doivent tenter
+de se réconcilier. S'ils ne peuvent y réussir, ils en aviseront le président du conseil régional ou du conseil central
+compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 2003 - art. 6 (VT)
+
+	**Anciens textes**:
+
+	  - Code de déontologie des pharmaciens 64
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-64 (V)
+
+
+#### Chapitre 4 : Réglementation de la publicité
+
+##### Section 2 : Dispositions concernant la publicité pour les médicaments.
+
+###### Article R5047
+
+Sous réserve des dispositions des articles R. 5048 et R. 5050, aucune publicité concernant des médicaments ne peut être faite
+sans avoir reçu préalablement le visa de publicité délivré par le ministre chargé de la santé, après avis d'une commission de
+contrôle de la publicité.
+
+Cette commission est constituée comme suit :
+
+Un professeur d'unité d'enseignement et de recherche de médecine ;
+
+Un professeur d'unité d'enseignement et de recherche de pharmacie ;
+
+Un membre du conseil national de l'ordre des médecins ;
+
+Un membre du conseil national de l'ordre des pharmaciens ;
+
+Trois médecins dont au moins un omnipraticien et un médecin gynécologue ;
+
+Deux pharmaciens dont un pharmacien d'officine et un pharmacien appartenant à l'industrie pharmaceutique ;
+
+Deux personnalités choisies en raison de leur compétence en matière de publicité ;
+
+Un représentant de la presse médicale ;
+
+Une personnalité scientifique choisie en raison de sa compétence en matière d'eaux minérales ;
+
+Une personnalité scientifique choisie en raison de sa compétence en matière de produits diététiques ;
+
+Une personnalité scientifique choisie en raison de sa compétence en matière de produits cosmétiques et d'hygiène corporelle ;
+
+Un représentant du ministre de l'économie et des finances ;
+
+Un représentant du ministre chargé de l'industrie ;
+
+Un représentant du ministre chargé du commerce ;
+
+Un représentant du ministre de l'agriculture (service de la répression des fraudes et du contrôle de la qualité) ;
+
+Un représentant des organisations de consommateurs faisant partie du comité national de la consommation ;
+
+Un représentant de l'institut national de la consommation ;
+
+Deux représentants du ministre chargé de la santé.
+
+Les membres de cette commission sont nommés pour une période de trois ans par arrêté du ministre chargé de la santé. Des
+suppléants sont désignés en nombre égal et dans les mêmes conditions.
+
+Le président et le vice-président, désignés pour un an par le ministre chargé de la santé sont, alternativement, le
+professeur de médecine et le professeur de pharmacie membres titulaires de la commission. En cas de partage égal des voix le
+président de séance a voix prépondérante.
+
+La commission peut faire appel à des experts qui siègent avec voix consultative et le ministre chargé de la santé peut lui
+demander d'en entendre.
+
+L'instruction des dossiers peut être confiée à des rapporteurs choisis soit parmi les membres de la commission, soit sur une
+liste établie par arrêté du ministre de la santé. Les rapporteurs pris en dehors de la commission siègent avec voix
+consultative.
+
+Un arrêté du ministre chargé de la santé désigne les membres de groupes de travail qui se réunissent dans l'intervalle des
+sessions de la commission, notamment en vue de préparer les avis de la commission.
+
+Le secrétariat de la commission et des groupes de travail est assuré par le service central de la pharmacie et des
+médicaments du ministère de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°69-104 du 3 février 1969 - art. 5 (Ab)
+	  - Code de la santé publique - art. R5047-3 (Ab)
+	  - Code de la santé publique - art. R5048 (M)
+	  - Code de la santé publique - art. R5050 (M)
+
+	**Modifié par**:
+
+	  - Décret n°76-807 1976-08-24 art. 1 JORF 26 août 1976
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-8 (V)
+
+
+###### Article R5048
+
+Les mentions qui figurent sur les conditionnements, récipients, prospectus ou notices des spécialités pharmaceutiques sont
+dispensées du visa de publicité prévu à l'article R. 5047 lorsque, outre les mentions obligatoires fixées à l'article R. 5143
+du présent code, elles ne comportent que des précisions suivantes :
+
+Les indications thérapeutiques dans les limites fixées par la décision d'autorisation de mise sur le marché ;
+
+La voie d'administration et la posologie usuelle ;
+
+Les effets secondaires, les contre-indications et les précautions particulières d'emploi, notamment en cas d'emploi
+prolongé ;
+
+Le prix de vente au public et les autres mentions exigées par la législation sur les prix ainsi que la situation par rapport
+aux législations sociales.
+
+Les textes qui figurent sur les étiquettes, conditionnements, récipients, prospectus et notices dispensés de visa de
+publicité doivent accompagner les demandes d'autorisation de mise sur le marché ou, à défaut, faire l'objet d'un dépôt en
+double exemplaire au ministère de la santé (service central de la pharmacie et des médicaments) trente jours au moins avant
+la mise sur le marché des spécialités pharmaceutiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°76-807 1976-08-24 art. 1 JORF 26 août 1976
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5047 (M)
+	  - Code de la santé publique - art. R5143 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5049 (Ab)
+	  - Code de la santé publique - art. R5052-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-17 (V)
+
+
+###### Article R5049
+
+Le support publicitaire ne peut, en aucun cas, être constitué par un article de valeur commerciale destiné à être remis comme
+prime ou cadeau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°76-807 1976-08-24 art. 1 JORF 26 août 1976
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5047 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-18 (V)
+
+
+###### Article R5050
+
+La publicité concernant les médicaments faite auprès des médecins, pharmaciens, chirurgiens-dentistes et sages-femmes est
+soumise au visa de publicité prévu à l'article R. 5047 ; le visa ne peut être accordé que sur présentation de tous les
+éléments de la publicité telle qu'elle doit être diffusée.
+
+Toutefois sont dispensés de ce visa :
+
+A. - La publicité en faveur des spécialités pharmaceutiques, lorsqu'elle ne comporte aucune illustration et que, pour chaque
+spécialité, sont indiquées toutes les mentions ci-après :
+
+1. La dénomination spéciale prévue à l'article L. 601 du code de la santé publique ;
+
+2. Le nom ou la raison sociale et l'adresse du responsable de la mise sur le marché et, le cas échéant, du fabricant ;
+
+3. La ou les formes pharmaceutiques ;
+
+4. La formule avec les dénominations communes et les doses des principes actifs ;
+
+5. Le classement de la spécialité au regard du régime des substances vénéneuses ;
+
+6. Les numéros d'identification administrative de la spécialité ;
+
+7. La ou les propriétés pharmacologiques principales ;
+
+8. Les indications thérapeutiques et les contre-indications éventuelles fixées par décision ministérielle ;
+
+9. Le mode d'emploi et la posologie ;
+
+10. Les effets indésirables ou accessoires et les interactions éventuelles en cas d'utilisation avec d'autres médicaments ou
+avec certains aliments ;
+
+11. Les précautions particulières d'emploi et, s'il y a lieu, celles à prendre en cas d'emploi prolongé ;
+
+12. L'indication des phénomènes toxiques et des accidents d'intolérance possibles ;
+
+13. Les risques d'accoutumance ou de dépendance s'il y a lieu ;
+
+14. Le mode de surveillance du malade pour déceler les accidents éventuels ;
+
+15. Toutes autres mentions imposées, le cas échéant, par la décision d'octroi de l'autorisation de mise sur le marché ;
+
+16. Le prix de vente au public, toute formule en code étant interdite, et les autres mentions exigées par la législation sur
+les prix, ainsi que la situation par rapport aux législations sociales.
+
+B. - La publicité, illustrée ou non, diffusée par voie de presse, lorsqu'elle comporte, à l'exclusion de toute autre mention
+publicitaire, les renseignements figurant au paragraphe A ci-dessus, qu'elle paraît dans les journaux et revues bénéficiaires
+d'une inscription auprès de la commission paritaire des publications et agences de presse, instituée par le décret n° 60-829
+du 2 août 1960, qu'elle est destinée au corps médical ou pharmaceutique et qu'elle leur est exclusivement réservée. Elle ne
+peut toutefois, dans ce cas, se présenter sous la forme d'encarts.
+
+C. - Les dictionnaires et recueils de même nature destinés à l'information du corps médical lorsque, pour les spécialités
+pharmaceutiques mentionnées, sont énoncés tous les renseignements figurant au paragraphe A ci-dessus du présent article.
+
+D. - Les catalogues et documents similaires faisant uniquement mention des tarifs ou des conditions de vente des médicaments.
+
+Les textes et documents publicitaires ou d'information dispensés du visa de publicité, y compris les dictionnaires, doivent
+obligatoirement, en vue d'un contrôle, faire l'objet d'un dépôt, en double exemplaire, au ministère de la santé (service
+central de la pharmacie et des médicaments) par envoi recommandé préalablement à leur diffusion.
+
+Les publications et les éditions ultérieures doivent obligatoirement tenir compte des modifications imposées par décisions
+motivées du ministre à la suite de la vérification des informations diffusées.
+
+La publicité faite par des moyens auditifs ou audiovisuels auprès du corps médical et pharmaceutique est toujours subordonnée
+à l'octroi d'un visa préalable à sa diffusion. La demande doit être accompagnée de tout document écrit destiné à compléter
+cette forme de publicité.
+
+Toute présentation orale d'une spécialité pharmaceutique doit être accompagnée de la remise de la fiche signalétique agréée
+par le ministre chargé de la santé, prévue à l'article R. 5128 du présent code.
+
+Sans préjudice des dispositions prévues à l'alinéa précédent et sauf autorisation préalable accordée par le ministre chargé
+de la santé, il est interdit aux fabricants de produits pharmaceutiques d'adresser ou de faire adresser par voie postale ou
+par tout autre moyen, y compris par leurs délégués ou visiteurs auprès du corps médical ou pharmaceutique, toute publicité en
+faveur des médicaments aux personnes habilitées à les prescrire, à les délivrer ou à les appliquer. Ne sont pas soumises à
+cette interdiction, sous réserve de l'application des dispositions du présent article, les publicités incorporées dans la
+presse exclusivement réservée au corps médical et pharmaceutique bénéficiant d'une inscription auprès de la commission
+paritaire des publications et agences de presse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°60-829 1960-08-02
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. R5128 (M)
+
+	**Modifié par**:
+
+	  - Décret n°76-807 1976-08-24 art. 1 JORF 26 août 1976
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5047 (M)
+	  - Code de la santé publique - art. R5052-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5136-19 (V)
+
+
+###### Article R5051
+
+Il est interdit aux pharmaciens d'officine, aux grossistes répartiteurs, aux dépositaires, aux fabricants de produits
+pharmaceutiques de donner aux médecins, aux chirurgiens-dentistes, aux sages-femmes, à tous auxiliaires médicaux et,
+généralement, à toutes personnes habilitées à prescrire ou à appliquer des médicaments, des primes, des objets ou produits
+quelconques ou des avantages matériels directs ou indirects de quelque nature que ce soit. Sont autorisés les dons destinés à
+encourager la recherche ou l'enseignement, sous réserve de leur déclaration préalable au ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°76-807 1976-08-24 art. 1 JORF 26 août 1976
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5051-1 (Ab)
+	  - Code de la santé publique - art. R5051-2 (Ab)
+	  - Code de la santé publique - art. R5051-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5134-11 (V)
+
+
+###### Article R5052
+
+Les fabricants de produits pharmaceutiques ne peuvent délivrer d'échantillons qu'aux médecins, chirurgiens-dentistes et
+sages-femmes à la condition que les bénéficiaires en aient fait, en termes exprès, la demande écrite et dans les limites
+fixées par les dispositions relatives à la prescription et à l'usage des médicaments par les chirurgiens-dentistes et sages-
+femmes.
+
+Ces échantillons ne peuvent être délivrés que durant les deux années qui suivent la première mise effective sur le marché de
+la spécialité pharmaceutique. Une modification de formule du médicament entraînant ou non la rectification de l'autorisation
+de mise sur le marché ou l'octroi d'une nouvelle autorisation n'ouvrent pas une nouvelle période pendant laquelle la
+délivrance d'échantillons est autorisée.
+
+Sans limitation de délai, les fabricants peuvent fournir, sur demande expresse des intéressés, des échantillons de
+médicaments aux médecins pour leurs travaux dans les établissements hospitaliers publics ou assurant un service public. Dans
+ce cas, les échantillons sont remis par l'intermédiaire du pharmacien de l'hôpital.
+
+La délivrance d'échantillons de spécialités pharmaceutiques est interdite dans les enceintes accessibles au public à
+l'occasion des congrès médicaux et pharmaceutiques.
+
+Les échantillons doivent être identiques aux spécialités pharmaceutiques concernées et porter la mention "échantillon médical
+gratuit".
+
+Toute délivrance d'échantillon d'un médicament soumis au régime des stupéfiants est interdite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°76-807 1976-08-24 art. 1 JORF 26 août 1976
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5052-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-19 (V)
+
+
+##### Section 1 : Dispositions générales.
+
+###### Article R5046
+
+La publicité faite à l'étranger, en langue française, pour des médicaments, produits, objets, appareils et méthodes vendus ou
+diffusés en France ou pour des établissements et des officines installés en France est soumise aux mêmes prescriptions que
+celle qui est faite en France, en tant que ladite publicité peut être reçue ou perçue en France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°76-807 1976-08-24 art. 1 JORF 26 août 1976
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-3 (V)
+
+
+##### Section 4 : Dispositions concernant la publicité pour les officines et les établissements de préparation et de vente en gros des produits pharmaceutiques.
+
+###### Article R5053
+
+Sans préjudice de l'application des dispositions du code de déontologie pharmaceutique, la publicité en faveur des officines
+et celle qui est faite dans les vitrines de pharmacie et dans les emplacements aménagés pour être visibles de l'extérieur ne
+peuvent être réalisées par des procédés ou des moyens contraires à la dignité de la profession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°76-807 1976-08-24 art. 3 JORF 26 août 1976
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-65 (V)
+
+
+###### Article R5054
+
+Est soumise à visa préalable la publicité en faveur des établissements de préparation et de vente en gros de produits
+pharmaceutiques, à l'exception de celle qui a seulement pour objet les techniques de recherche, de fabrication et de contrôle
+de ces établissements ou leur activité économique, à l'exclusion de toute publicité propre à des médicaments particuliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°76-807 1976-08-24 art. 3 JORF 26 août 1976
+
+	**Cité par**:
+
+	  - Arrêté du 7 août 1991 - art. 1 (V)
+	  - Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
+	  - Décret n°2003-633 du 2 juillet 2003 - art. 2 (Ab)
+	  - Code de la santé publique - art. R5046-2 (Ab)
+	  - Code de la santé publique - art. R5046-4 (Ab)
+	  - Code de la santé publique - art. R5047-5 (Ab)
+	  - Code de la santé publique - art. R5089-15 (Ab)
+	  - Code de la sécurité sociale. - art. D162-2-2 (V)
+	  - Code de la sécurité sociale. - art. D162-2-4 (M)
+	  - Code de la sécurité sociale. - art. R163-5 (M)
+	  - Code de la sécurité sociale. - art. R163-7 (V)
+
+
+#### Chapitre 5 : De l'inspection de la pharmacie
+
+##### Section 1 : Fonctions des inspecteurs de la pharmacie.
+
+###### Article R5056
+
+Les inspecteurs de la pharmacie procèdent au moins une fois l'an à l'inspection des officines et pharmacies visées aux
+articles L. 568 et L. 577, des établissements pharmaceutiques visés à l'article L. 596, des dépôts de médicaments détenus par
+les médecins visés à l'article L. 594, des herboristeries visées à l'article L. 659.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L568 (M)
+	  - Code de la santé publique - art. L577 (Ab)
+	  - Code de la santé publique - art. L594 (Ab)
+	  - Code de la santé publique - art. L596 (M)
+	  - Code de la santé publique - art. L659 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5057 (M)
+	  - Code de la santé publique - art. R5178 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-1 (V)
+	  - Code de la santé publique - art. R5313-4 (V)
+	  - Code de la santé publique - art. R5313-5 (V)
+
+
+###### Article R5057
+
+Pour l'application de l'article L. 564, les inspecteurs de la pharmacie peuvent, concurremment avec tous officiers de police
+judiciaire, procéder aux recherches, opérer d'office des prélèvements d'échantillons et, s'il y a lieu, effectuer des saisies
+dans les établissements visés à l'article R. 5056, les dépôts de remèdes tenus par les vétérinaires et, en général, dans tous
+les lieux où sont fabriqués, entreposés et mis en vente des produits médicamenteux hygiéniques ou toxiques.
+
+Ces prélèvements peuvent être effectués notamment dans des laboratoires et leurs dépendances, magasins, boutiques, ateliers,
+véhicules servant au commerce, lieux de fabrication contenant des produits destinés à la vente ainsi que dans les entrepôts,
+dans les gares et ports de départ et d'arrivée.
+
+Dans les locaux particuliers, tels que lieux de fabrication appartenant à des personnes non patentées, ou occupés par de
+telles personnes, les inspecteurs ne peuvent pénétrer et procéder auxdites opérations contre la volonté de ces personnes ou
+exploitants, qu'en vertu d'une ordonnance du juge du tribunal d'instance du canton. Le consentement doit être constaté dans
+le procès-verbal. Les prélèvements et les saisies ne peuvent être opérés dans les locaux que sur des produits destinés à la
+vente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L564 (M)
+	  - Code de la santé publique - art. R5056 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5060 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5411-1 (V)
+
+
+###### Article R5058
+
+Les pouvoirs attribués aux inspecteurs de la pharmacie par les articles précédents s'exercent concurremment avec ceux que
+détiennent les inspecteurs de la répression des fraudes pour la recherche, dans les officines, des infractions à la loi du
+1er août 1905 sur la répression des fraudes et aux règlements en vigueur concernant tous les produits dont la vente n'est pas
+réservée aux pharmaciens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-2 (V)
+
+	**Cite**:
+
+	  - Loi n°1905-08-01
+
+
+###### Article R5059
+
+Les pharmaciens, les médecins visés à l'article L. 594, les herboristes et tous détenteurs de produits pharmaceutiques
+diététiques, hygiéniques ou toxiques, sont tenus de présenter aux inspecteurs visés à l'article L. 557, les drogues,
+médicaments, remèdes et accessoires qu'ils possèdent dans leurs officines, dépôts, magasins, laboratoires et leurs
+dépendances.
+
+Les entrepreneurs de transport sont tenus de n'apporter aucun obstacle aux réquisitions pour prises d'échantillons et de
+présenter les titres de mouvement, lettres de voiture, récépissés, connaissements et déclarations dont ils sont détenteurs.
+
+Les administrations publiques sont tenues de fournir aux inspecteurs ci-dessus désignés tous les éléments d'information
+nécessaires à l'exécution des lois dont elles ont à contrôler l'application.
+
+Les échantillons prélevés sont scellés et transmis conformément aux dispositions de la section II.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L557 (M)
+	  - Code de la santé publique - art. L594 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5060 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-3 (V)
+
+
+##### Section 2 : Recherche et constatation des fraudes sur les substances médicamenteuses et produits hygiéniques et toxiques
+
+##### Paragraphe 1 : Généralités
+
+###### Article R5060
+
+Les infractions à la loi du 1er août 1905 en ce qui concerne les substances médicamenteuses et les produits hygiéniques ou
+toxiques sont recherchées et constatées conformément aux dispositions de la présente section. Ces dispositions ne font pas
+obstacle à ce que la preuve desdites infractions puisse être établie par toutes voies de droit commun.
+
+Les dispositions des articles R. 5057 et R. 5059 sont applicables à la recherche et à la constatation desdites infractions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5057 (M)
+	  - Code de la santé publique - art. R5059 (M)
+	  - Loi n°1905-08-01
+
+
+##### Paragraphe 2 : Prélèvements d'échantillons
+
+###### Article R5061
+
+Sauf dans les cas prévus à l'article R. 5067, tout prélèvement comporte quatre échantillons, l'un destiné au laboratoire pour
+analyse, les trois autres éventuellement destinés aux experts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5067 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-4 (V)
+
+
+###### Article R5062
+
+Tout prélèvement donne lieu, séance tenante, à la rédaction, sur papier libre, d'un procès-verbal. Ce procès-verbal doit
+porter les mentions suivantes :
+
+1° Les nom, prénom, qualité et résidence de l'agent verbalisateur ;
+
+2° La date, l'heure et le lieu où le prélèvement a été effectué ;
+
+3° Les nom, prénom et profession, domicile ou résidence de la personne chez laquelle le prélèvement a été opéré. Si le
+prélèvement a lieu en cours de route, les noms et domiciles des personnes figurant sur les lettres de voitures ou
+connaissements, comme expéditeurs et destinataires ;
+
+4° La signature de l'agent verbalisateur.
+
+Le procès-verbal doit, en outre, contenir un exposé succinct des circonstances dans lesquelles le prélèvement a été effectué,
+relater les marques et étiquettes apposées sur les enveloppes ou récipients, l'importance du lot de marchandise
+échantillonnée ainsi que toutes les indications jugées utiles pour établir l'authenticité des échantillons prélevés,
+l'identité de la marchandise et la dénomination exacte sous laquelle cette dernière était détenue ou mise en vente. Le
+propriétaire ou détenteur de la marchandise ou, le cas échéant, le représentant de l'entreprise de transport peut en outre
+faire insérer au procès-verbal toutes les déclarations qu'il juge utiles. Il est invité à signer le procès-verbal ; en cas de
+refus, mention en est faite par l'agent verbalisateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5077 (Ab)
+
+
+###### Article R5063
+
+Les prélèvements doivent être effectués de telle sorte que les quatre échantillons soient, autant que possible, identiques.
+
+A cet effet, des arrêtés conjoints du ministre de l'agriculture et du ministre de la santé publique et de la population
+déterminent, pour chaque produit ou marchandise, la quantité à prélever et, lorsqu'il y a lieu, les procédés à employer pour
+obtenir des échantillons homogènes, ainsi que les précautions à prendre pour le transport et la conservation des
+échantillons.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5066 (M)
+	  - Code de la santé publique - art. R5069 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-9 (V)
+
+
+###### Article R5064
+
+Tout échantillon prélevé est mis sous scellés. Ces scellés sont appliqués sur une étiquette composée de deux parties pouvant
+se séparer et être ultérieurement rapprochées, savoir :
+
+1° Un talon qui ne sera enlevé que par le chimiste, au laboratoire, après vérifications du scellé. Ce talon doit porter les
+indications suivantes :
+
+- Dénomination sous laquelle le produit est mis en vente ;
+
+- Utilisation du produit ;
+
+- Profession du vendeur ou détenteur ;
+
+- Date du prélèvement ;
+
+- Numéro sous lequel les échantillons sont enregistrés au moment de leur réception par le service administratif ;
+
+2° Un volant qui porte :
+
+- Le numéro d'enregistrement ;
+
+- Les nom et adresse du propriétaire ou détenteur de la marchandise ou, en cas de prélèvement en cours de route, ceux des
+expéditeurs et destinataires.
+
+Ce volant est signé par l'auteur du procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5069 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-10 (V)
+
+
+###### Article R5065
+
+Aussitôt après avoir scellé les échantillons, l'agent verbalisateur, s'il est en présence du propriétaire ou détenteur de la
+marchandise, doit le mettre en demeure de déclarer la valeur des échantillons prélevés. Le procès-verbal mentionne cette mise
+en demeure et la réponse qui a été faite.
+
+Dans le cas où l'agent verbalisateur estime que la valeur déclarée est exagérée, il mentionne au procès-verbal son
+appréciation en vue de la détermination de la valeur réelle.
+
+Un récépissé, détaché d'un livre à souches, est remis au propriétaire ou détenteur de la marchandise ; il y est fait mention
+de la valeur déclarée, et, dans le cas prévu à l'alinéa ci-dessus, de l'estimation faite par l'agent. En cas de prélèvement
+en cours de route, le représentant de l'entreprise de transport reçoit, pour sa décharge, un récépissé indiquant la nature et
+la quantité des marchandises prélevées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5073 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-11 (V)
+
+
+###### Article R5066
+
+L'un des échantillons est laissé au propriétaire ou détenteur du produit.
+
+Si l'intéressé refuse de conserver ledit échantillon en dépôt, mention de ce refus est faite au procès-verbal.
+
+Sous aucun prétexte l'intéressé ne doit modifier l'état de l'échantillon qui lui est confié. Les mesures de garantie qui
+pourront être imposées, à cet égard, seront fixées par l'un des arrêtés ministériels prévus à l'article R. 5063.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5063 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5069 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-12 (V)
+
+
+###### Article R5067
+
+Lorsqu'en raison de la qualité ou de la quantité d'un produit ou d'une préparation, la division en quatre échantillons est
+impossible, l'agent qui effectue le prélèvement place sous scellés, en un échantillon unique, la totalité du produit ou de la
+préparation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5061 (Ab)
+	  - Code de la santé publique - art. R5070 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-13 (V)
+
+
+###### Article R5068
+
+Le procès-verbal et le ou les échantillons, à l'exception de celui que l'intéressé a pu conserver en dépôt, sont envoyés sans
+délai au ministère de la santé publique (service central de la pharmacie).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-14 (V)
+
+
+###### Article R5069
+
+Le service central de la pharmacie qui reçoit échantillons et procès-verbaux les enregistre, inscrit le numéro d'entrée sur
+les deux parties de l'étiquette que porte chaque échantillon et transmet dans les plus courts délais un de ces échantillons
+au laboratoire compétent. Les échantillons à comparer doivent être adressés au même laboratoire. Le talon seul suit
+l'échantillon au laboratoire.
+
+Le volant, préalablement détaché, est annexé au procès-verbal. Les deux autres échantillons ou, dans le cas prévu par le
+deuxième alinéa de l'article R. 5066, les trois autres sont conservés par le service administratif. Toutefois si la nature
+des denrées ou produits exige des mesures spéciales de conservation, les échantillons sont envoyés au laboratoire, où des
+mesures sont prises conformément aux arrêtés ministériels prévus à l'article R. 5063. Dans ce cas, tous les volants sont
+détachés des talons et annexés au procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5063 (M)
+	  - Code de la santé publique - art. R5066 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-15 (V)
+
+
+###### Article R5070
+
+Dans le cas prévu à l'article R. 5067, lorsqu'en raison des circonstances qui ont provoqué le prélèvement ou de l'aspect de
+l'échantillon, le ministre de la santé publique et de la population présume une infraction, l'échantillon accompagné du
+procès-verbal de prélèvement et de toutes les pièces utiles est adressé au procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5067 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5085 (Ab)
+	  - Code de la santé publique - art. R5093 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-18 (V)
+
+
+##### Paragraphe 4 : Saisies
+
+###### Article R5076
+
+Les saisies ne peuvent être faites en dehors d'une ordonnance du juge d'instruction que dans le cas de flagrant délit de
+falsification ou dans le cas où ces produits sont reconnus corrompus. Dans ce dernier cas, la saisie est obligatoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article R5077
+
+Les inspecteurs témoins d'un flagrant délit de falsification, de fraude ou de la mise en vente de produits corrompus sont
+tenus d'en faire la constatation immédiate. Un procès-verbal est dressé à cet effet et l'inspecteur verbaliseur y consigne,
+avec les mentions prévues à l'article R. 5062, toutes les circonstances de nature à établir devant l'autorité judiciaire la
+valeur des constatations faites. Ce procès-verbal est envoyé par l'inspecteur, dans les vingt-quatre heures, au procureur de
+la République. Copie dudit acte est transmise au ministre de la santé publique et de la population sous couvert de
+l'inspecteur divisionnaire de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5062 (M)
+
+
+###### Article R5078
+
+Les produits saisis sont placés sous scellés et envoyés au procureur de la République en même temps que le procès-verbal. Si
+leur envoi immédiat est impossible, ils sont laissés en dépôt à l'intéressé ou, sur son refus, dans un lieu choisi par
+l'auteur du procès-verbal. S'il s'agit de produits reconnus corrompus, l'inspecteur peut procéder à leur destruction, à leur
+stérilisation ou à leur dénaturation. Les opérations sont relatées et justifiées dans le procès-verbal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-19 (V)
+
+
+##### Paragraphe 3 : Analyse administrative des échantillons prélevés et suites administratives.
+
+###### Article R5071
+
+L'analyse des échantillons prélevés est confiée au laboratoire du ministère de la santé publique ou aux laboratoires désignés
+à cet effet en vertu de décisions prises de concert par les ministres de l'agriculture et de la santé publique et de la
+population. Ces analyses sont à la fois d'ordre qualificatif et d'ordre quantitatif ; l'examen comprend des recherches
+organoleptiques, physiques, chimiques, micographiques, physiologiques ou autres, susceptibles de fournir des indications sur
+la pureté des produits, leur identité, leur composition et leur conformité au Codex.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5075 (Ab)
+
+
+###### Article R5072
+
+Le résultat de l'analyse est consigné dans un rapport qui est adressé au ministre de la santé publique et de la population et
+dont les conclusions sont communiquées au préfet du département d'où provient l'échantillon, à Paris et dans le ressort de la
+préfecture de police au préfet de police.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-16 (V)
+
+
+###### Article R5073
+
+Si le rapport ne conclut pas à une présomption d'infraction, l'intéressé en est avisé sans délai. Dans ce cas, si le
+remboursement des échantillons est demandé, il est effectué d'après leur valeur réelle au jour du prélèvement, aux frais de
+l'Etat, au moyen d'un mandat délivré par le préfet sur présentation du récépissé prévu à l'article R. 5065.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5065 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5089 (Ab)
+
+
+###### Article R5074
+
+Dans le cas où le rapport conclut à une présomption d'infraction, il est transmis, accompagné du procès-verbal de prélèvement
+et des échantillons au procureur de la République.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-17 (V)
+
+
+###### Article R5075
+
+Chaque année, les directeurs des laboratoires visés à l'article R. 5071 adressent au ministre de la santé publique un rapport
+sur le nombre des échantillons analysés et le résultat de leur analyse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5071 (M)
+
+
+##### Paragraphe 5 : Fonctionnement de l'expertise contradictoire
+
+###### Article R5079
+
+Le procureur de la République, s'il estime à la suite du procès-verbal de l'inspecteur ou du rapport du laboratoire, et au
+besoin après enquête préalable, qu'une poursuite doit être engagée ou une information ouverte, saisit suivant le cas le
+tribunal ou le juge d'instruction. S'il y a lieu à expertise, il y est procédé conformément aux règles ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-20 (V)
+
+
+###### Article R5080
+
+Dans le cas où la présomption d'infraction résulte de l'analyse faite au laboratoire, l'auteur présumé de la fraude ou de la
+falsification est avisé par le procureur de la République qu'il peut prendre communication du rapport du laboratoire et qu'un
+délai de trois jours francs lui est imparti pour présenter ses observations et pour faire connaître s'il réclame l'expertise
+contradictoire prévue par l'article 12 de la loi du 1er août 1905.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-21 (V)
+
+	**Cite**:
+
+	  - Loi n°1905-08-01 art. 12
+
+
+###### Article R5081
+
+Lorsque l'expertise a été réclamée, il est désigné deux experts, l'un par le juge d'instruction et l'autre par l'intéressé.
+Un délai est imparti à cet effet par le magistrat instructeur à ce dernier, qui a toutefois le droit de renoncer
+explicitement à cette désignation et de s'en rapporter aux conclusions de l'expert désigné par le juge. Si l'intéressé, sans
+avoir renoncé à son droit, n'a pas désigné son expert dans le délai qui lui a été imparti, cet expert est nommé d'office par
+le juge d'instruction. Les experts sont choisis sur les listes spéciales d'experts dressées dans chaque ressort par les cours
+d'appel ou les tribunaux de grande instance.
+
+L'intéressé a le droit de choisir son expert en dehors des listes officielles, mais s'il use de cette faculté, son choix est
+subordonné à l'agrément du juge d'instruction. Les experts doivent être pourvus du diplôme de pharmacien. L'ordonnance du
+juge d'instruction définit la mission donnée aux experts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5085 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-22 (V)
+
+
+###### Article R5082
+
+Après vérification de l'intégrité des scellés, les deux experts sont mis en possession tant de l'échantillon précédemment
+remis à l'intéressé que de l'un des deux autres échantillons. Le juge d'instruction donne communication aux experts des
+procès-verbaux de prélèvement ainsi que du rapport du laboratoire, des ordonnances médicales, des factures, lettres de
+voiture, pièces de régie et, d'une façon générale, de tous les documents que la personne en cause a jugé utile de produire ou
+que le juge s'est fait remettre. Il les commet, en outre, à l'expertise de tous échantillons de comparaison qui ont pu être
+prélevés administrativement ou qui pourront être prélevés par la suite, sur son ordre. Aucune méthode officielle n'est
+imposée aux experts, ils opèrent à leur gré, ensemble ou séparément, chacun d'eux étant libre d'employer les procédés qui lui
+paraissent les mieux appropriés. Toutefois, ils doivent discuter en commun leurs conclusions et dresser un seul rapport.
+S'ils sont d'avis différents, ou s'ils ont des réserves à formuler sur des conclusions communes, chacun d'eux indique son
+opinion ou ses réserves et les motifs à l'appui. Ce rapport est déposé dans le délai fixé par le juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-23 (V)
+
+
+###### Article R5083
+
+Si l'intéressé ne représente pas son échantillon intact dans le délai fixé par le juge d'instruction, il ne doit plus être
+fait à aucun moment état de cet échantillon. Les deux experts sont, dans ce cas, commis à l'examen d'un échantillon unique,
+le quatrième échantillon étant réservé pour arbitrage éventuel prévu à l'article suivant. Lorsque, au cours ou à la suite de
+leurs recherches, les experts sont conduits à présumer qu'une substitution d'échantillons a été opérée, ils sont tenus d'en
+informer aussitôt le juge d'instruction et de tenir à sa disposition toutes pièces à conviction susceptibles de révéler la
+substitution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-24 (V)
+
+
+###### Article R5084
+
+Si les experts sont en désaccord, ils désignent un tiers expert pour les départager. A défaut d'entente pour le choix de ce
+tiers expert, celui-ci est désigné par le président du tribunal de grande instance. Le tiers expert peut être choisi en
+dehors des listes officielles. Il peut n'être pas pourvu du diplôme de pharmacien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5085 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-25 (V)
+
+
+###### Article R5085
+
+Dans le cas prévu à l'article R. 5070 ci-dessus, le procureur de la République notifie à l'intéressé que l'échantillon unique
+va être soumis à l'expertise et l'informe qu'il a trois jours francs pour faire connaître s'il entend user du droit de
+désigner un expert. Si ce droit est réclamé, il est procédé, dans le délai fixé par le juge d'instruction, à la nomination
+simultanée tant des deux experts prévus à l'article R. 5081 que du tiers prévu à l'article R. 5084.
+
+Les trois experts procèdent ensemble à l'examen de l'échantillon unique. Toutefois, il n'est nommé qu'un seul expert si
+l'intéressé a déclaré, avant l'expiration du délai prévu à l'alinéa précédent, s'en rapporter aux conclusions de l'expert
+désigné par le juge.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5070 (M)
+	  - Code de la santé publique - art. R5081 (M)
+	  - Code de la santé publique - art. R5084 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-26 (V)
+
+
+###### Article R5086
+
+Lorsque l'expertise est ordonnée par le tribunal, il y est procédé conformément aux règles du présent paragraphe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5127-27 (V)
+
+
+##### Paragraphe 6 : Dispositions diverses
+
+###### Article R5087
+
+Lorsque les poursuites sont décidées, s'il s'agit soit de médicaments à base de vin ou d'alcool, soit de saccharine ou
+produits saccharinés, soit d'essences ou préparations concentrées contenant de l'essence d'absinthe, soit de toute autre
+substance tombant sous l'application d'une loi fiscale, le procureur de la République doit faire connaître au directeur des
+contributions indirectes, ou à son représentant, et, le cas échéant, au directeur des douanes ou à son représentant, dix
+jours au moins à l'avance, le jour et l'heure de l'audience à laquelle l'affaire sera appelée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article R5088
+
+Il n'est rien innové quant à la procédure suivie par l'administration des douanes et par l'administration des contributions
+indirectes pour la constatation et la poursuite des faits constituant à la fois une contravention fiscale et une infraction
+aux prescriptions de la loi du 1er août 1905.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Loi n°1905-08-01
+
+
+###### Article R5089
+
+En cas de non-lieu ou d'acquittement, le remboursement de la valeur des échantillons s'effectue dans les conditions prévues à
+l'article R. 5073 ci-dessus, sauf quand l'existence d'une infraction est constatée par l'ordonnance de non-lieu ou par le
+jugement d'acquittement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5073 (M)
+
+
 ### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie
 
 #### Chapitre 1 : Conditions d'exercice de la pharmacie d'officine
 
 ##### Section 1 : Des officines de pharmacie
 
+##### Paragraphe 3 : Délivrance des médicaments
+
+###### Article R5092
+
+Indépendamment des dispositions fixant les conditions de délivrance des médicaments soumis au régime des substances
+vénéneuses, défini au titre III, chapitre Ier, section III du présent code, les pharmaciens doivent inscrire les ordonnances
+prescrivant des médicaments magistraux sur un livre registre d'ordonnances coté et paraphé par le maire ou par le commissaire
+de police. Ces transcriptions doivent comporter un numéro d'ordre, le nom du médecin, les nom et adresse du client et la date
+à laquelle le médicament a été délivré. Ledit registre sera conservé pendant une durée de dix ans au moins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 9 juin 2004 - art. ANNEXE (V)
+	  - Code de la santé publique - art. R5146-52 (Ab)
+	  - Code de la santé publique - art. R5198 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-45 (V)
+
+
+###### Article R5093
+
+Avant de délivrer un médicament quel qu'il soit, le pharmacien doit apposer sur le récipient, la boîte ou le paquet qui le
+contient, son nom et son adresse, la désignation du produit. Toutefois, le présent article ne s'applique pas aux médicaments
+visés sous les articles L. 601, L. 605 et L. 606, sauf à ceux qui sont soumis au régime des substances vénéneuses, compte
+tenu des dispositions de l'article R. 5070, et doivent être délivrés conformément aux dispositions des articles R. 5181, R.
+5187, R. 5204.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. L605 (M)
+	  - Code de la santé publique - art. L606 (Ab)
+	  - Code de la santé publique - art. R5070 (M)
+	  - Code de la santé publique - art. R5181 (M)
+	  - Code de la santé publique - art. R5187 (M)
+	  - Code de la santé publique - art. R5204 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-46 (V)
+
+
+##### Paragraphe 5 : Médicaments spécialisés de l'officine
+
+###### Article R5097
+
+On entend par médicament spécialisé de l'officine, tout médicament préparé à l'avance, dosé au poids médicinal, présenté sous
+un conditionnement particulier et destiné à être vendu dans une seule officine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 art. 2 JORF 7 avril 1960
+
+	**Abrogé par**:
+
+	  - Décret n°99-249 du 31 mars 1999 - art. 2 () JORF 1er avril 1999
+
+
+###### Article R5098
+
+Tout médicament spécialisé de l'officine doit être entièrement préparé dans l'officine du pharmacien qui en assure la vente
+et sous son contrôle direct. Il ne peut être mis en vente que s'il remplit les conditions suivantes :
+
+1° Porter sur son conditionnement :
+
+a) Le nom et l'adresse du pharmacien qui le prépare et le met en vente ;
+
+b) Le nom du médicament qui peut être une dénomination de fantaisie ;
+
+c) Le nom et la dose de chacune des substances actives entrant dans sa composition ;
+
+Les dispositions des deux derniers alinéas de l'article R. 5094 et celles des articles R. 5095 et R. 5096 concernant les
+remèdes secrets sont applicables. Notamment, en aucun cas, la mention d'un numéro d'ordonnancier ne peut remplacer
+l'indication du nom et de la composition du médicament ;
+
+d) Sauf dérogation accordée par l'inspecteur de la pharmacie, la date de péremption ;
+
+e) La posologie ;
+
+2° Correspondre à une formule permettant la délivrance du médicament sans ordonnance médicale ;
+
+3° Respecter les tableaux de posologie de la pharmacopée ;
+
+4° Avoir obtenu, pour le conditionnement et, le cas échéant, pour les prospectus, un visa de l'inspecteur de la pharmacie,
+dans des conditions fixées par arrêté du ministre de la santé publique et de la population ;
+
+5° Ne faire l'objet de publicité d'aucune sorte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°99-249 du 31 mars 1999 - art. 2 () JORF 1er avril 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5094 (M)
+	  - Code de la santé publique - art. R5095 (M)
+	  - Code de la santé publique - art. R5096 (M)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 art. 2 JORF 7 avril 1960
+
+
+##### Paragraphe 4 : Remèdes secrets
+
+###### Article R5094
+
+Est considéré comme remède secret tout médicament simple ou composé détenu en vue de la vente, mis en vente ou vendu alors
+qu'une ou plusieurs des mentions suivantes ont été omises sur un des éléments de son conditionnement :
+
+a) Le nom et l'adresse du pharmacien, sauf sur les ampoules médicamenteuses dont les dimensions ne permettent pas cette
+inscription et qui doivent être délivrées au public dans une boîte portant elle-même les indications requises ;
+
+b) Le nom et la dose de chacune des substances actives contenues dans le produit préparé.
+
+Ces deux dernières indications définies aux articles R. 5095 et R. 5096 peuvent être remplacées ainsi qu'il suit :
+
+- S'il figure à la pharmacopée française, ou au formulaire prévu à l'article R. 5006, par le nom attribué au médicament dans
+ces recueils, suivi s'il y a lieu de la référence de l'édition ;
+
+- Si le produit terminé a une composition peu définie, par l'application du nom et des qualités des matières premières
+employées pour sa préparation ainsi que des procédés opératoires suivis, la référence et la description de ces derniers
+devant être suffisamment précises pour permettre, en les reproduisant, l'obtention d'un remède de composition identique à
+celui en cause.
+
+En aucun cas, sauf en ce qui concerne les préparations magistrales, un numéro d'inscription au registre d'ordonnances ne peut
+remplacer les mentions visées au b, ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5006 (M)
+	  - Code de la santé publique - art. R5095 (M)
+	  - Code de la santé publique - art. R5096 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5098 (Ab)
+	  - Code de la santé publique - art. R5098-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-57 (V)
+
+
+###### Article R5095
+
+Sont qualifiées substances actives pour l'application de l'article précédent, les substances qui sont réputées posséder des
+propriétés médicamenteuses, ainsi que celles que le pharmacien préparateur déclare contribuer à l'efficacité curative ou
+préventive du produit.
+
+Le nom de chaque substance active s'entend de sa dénomination scientifique usuelle ou de son nom commun défini à l'article R.
+5135 ; toute notation en symboles chimiques ne pouvant intervenir que comme complément de dénomination.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5094 (Ab)
+	  - Code de la santé publique - art. R5098 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-58 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5135 (M)
+
+
+###### Article R5096
+
+La dose de chaque substance active s'entend :
+
+- Soit de son poids par unité de prise déterminée ;
+
+- Soit de sa proportion centésimale pondérale dans la préparation ;
+
+- Soit, s'il s'agit d'un produit titré en unités biologiques, du nombre d'unités contenues par unité de prise, par centimètre
+cube ou pour une quantité pondérale déterminée du produit, avec la définition de l'unité biologique employée si cette
+définition est nécessaire à la détermination de l'activité du médicament.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5094 (Ab)
+	  - Code de la santé publique - art. R5098 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-59 (V)
+
+
 ##### Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes
+
+###### Article R5091
+
+Lorsque des organismes publics ou privés mentionnés au premier alinéa de l'article L. 577 du présent code sont propriétaires
+d'une pharmacie, la gérance de celle-ci, dans les établissements comptant moins de 500 lits de même que dans les organismes
+ne comportant pas hospitalisation, peut être confiée à un pharmacien ayant une autre activité professionnelle, à condition
+que cette dernière permette l'exécution personnelle par l'intéressé des fonctions de pharmacien de l'établissement ou de
+l'organisme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°70-977 1970-10-26 art. 1 JORF 27 octobre 1970
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L577 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5091-5 (Ab)
+	  - Code de la santé publique - art. R5091-6 (Ab)
+	  - Code de la santé publique - art. R5091-9 (Ab)
+
 
 ###### Article R5091-2
 
@@ -30479,11 +34719,1281 @@ Les pharmaciens assistants ne peuvent exercer aucune autre activité professionn
 	  - Code de la santé publique - art. R5091-5 (Ab)
 
 
+##### Paragraphe 1 : Exploitation des officines
+
+###### Article R5090
+
+Toute personne remplissant les conditions fixées par l'article L. 569 (1er alinéa) et se proposant d'exercer la pharmacie
+concurremment avec l'une des professions de médecin, chirurgien-dentiste, sage-femme ou vétérinaire doit en faire la
+déclaration au préfet.
+
+Le dossier doit comporter, indépendamment des pièces justifiant que les conditions requises sont remplies, une ampliation de
+l'engagement sur l'honneur, que l'intéressé aura joint à sa demande d'inscription aux deux ordres dont il relève, de prendre
+toutes dispositions utiles pour pouvoir exercer les deux professions conformément aux lois et règlements en vigueur.
+
+Le demandeur ne peut exercer la double profession qu'après avoir reçu du préfet une attestation établissant qu'il remplit les
+conditions légales. L'attestation ou le refus d'attestation doit être notifié dans les trois mois de la réception de la
+demande à la préfecture.
+
+Le silence gardé par le préfet à l'expiration du délai de trois mois équivaut à la délivrance de l'attestation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L569 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5090-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-13 (V)
+
+
+##### Section 2 : Exercice personnel de la profession
+
+##### Paragraphe 1 : Assistance par des pharmaciens
+
+###### Article R5099
+
+Les conditions selon lesquelles les pharmaciens assistants visés à l'article L. 579 exercent leur activité sont fixées aux
+articles R. 5008 à R. 5011 inclusivement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L579 (Ab)
+	  - Code de la santé publique L579, R5008 à R5011
+
+
+##### Paragraphe 2 : Remplacement et gérance
+
+###### Article R5100
+
+Une officine ou établissement pharmaceutique ne peut rester ouvert en l'absence du pharmacien titulaire ou chargé de la
+surveillance technique de l'établissement que si ce dernier s'est fait régulièrement remplacer.
+
+Tout pharmacien frappé d'interdiction d'exercer doit se faire remplacer dans les conditions prévues à l'article R. 5103.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 6 mars 1989 - art. 5 (Ab)
+	  - Code de la santé publique - art. R5101 (Ab)
+	  - Code de la santé publique - art. R5103 (Ab)
+	  - Code de la santé publique - art. R5104 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°89-996 du 22 décembre 1989
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-39 (V)
+
+
+###### Article R5101
+
+Le remplacement du titulaire d'une officine prévu à l'article L. 580 est assuré dans les conditions suivantes :
+
+Pour une absence supérieure à trois mois, le remplacement ne peut être effectué que par un pharmacien n'ayant pas d'autre
+activité professionnelle, inscrit au tableau de la section D de l'Ordre des pharmaciens.
+
+Pour une absence inférieure à trois mois, le remplacement peut être effectué soit par un pharmacien n'ayant pas d'autre
+activité professionnelle, soit par un étudiant ayant satisfait à l'examen de troisième année (régime du décret du 4 mai 1937)
+ou aux examens de quatrième année (régime du décret du 26 novembre 1962) et de validation de stage (régime du décret du 4 mai
+1937 ou régime du décret du 26 novembre 1962), et qui aura reçu l'autorisation du doyen de la faculté où il est immatriculé.
+Toutefois, dans les officines et établissements où travaillent plusieurs pharmaciens, le remplacement du titulaire pourra
+être assuré par l'un de ses collaborateurs diplômés.
+
+Si l'absence n'excède pas trente jours, le remplacement pourra être confié à un pharmacien titulaire d'une officine à
+condition qu'il soit en état d'exercer effectivement le remplacement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°89-996 du 22 décembre 1989
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L580 (Ab)
+	  - Décret n°1937-05-04
+	  - Décret n°1962-11-26
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-40 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5267 (Ab)
+
+
+###### Article R5102
+
+Pour toute absence supérieure à huit jours, le pharmacien titulaire doit signaler par lettre recommandée, à l'inspection de
+la pharmacie et au président du conseil de l'Ordre des pharmaciens dont il dépend, les nom, adresse et qualité du remplaçant
+qui se sera engagé par écrit à assurer le remplacement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 6 mars 1989 - art. Annexe (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-41 (V)
+
+
+###### Article R5103
+
+Dans le cas de condamnation par une chambre de discipline professionnelle à une interdiction d'exercer la pharmacie, le
+remplacement peut être effectué par un pharmacien déjà titulaire d'une officine pour une interdiction inférieure à quinze
+jours. Pour une interdiction comprise entre quinze jours et un an, il sera assuré par un pharmacien n'ayant pas d'autre
+activité professionnelle, inscrit à l'Ordre des pharmaciens, section D, et dont le diplôme aura été enregistré à la
+préfecture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°89-996 du 22 décembre 1989
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5100 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-42 (V)
+
+
+###### Article R5104
+
+On entend par gérant après décès, le pharmacien exploitant une officine ou un établissement pharmaceutique dont le titulaire
+est décédé. Le gérant après décès doit être inscrit à l'Ordre des pharmaciens.
+
+La gérance ne peut excéder un an après la date du décès du titulaire, sous réserve des prolongations prévues par l'article L.
+580.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°64-968 1964-09-11 art. 2 JORF 17 septembre 1964
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°89-996 du 22 décembre 1989
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L580 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-43 (V)
+
+
 #### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques
+
+##### Section 1 : Des établissements de préparation et de vente en gros
+
+##### Paragraphe 1 : Dispositions générales.
+
+###### Article R5105
+
+Les dispositions de la présente section sont applicables à tout pharmacien ou à toute société pharmaceutique exerçant une
+activité de fabricant de produits pharmaceutiques, de grossiste-répartiteur ou de dépositaire des mêmes produits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+	  - Décret n°69-13 1969-01-02 art. 3 JORF 8 janvier 1969
+
+
+###### Article R5106
+
+A la qualité de fabricant de produits pharmaceutiques tout pharmacien ou toute société pharmaceutique, propriétaire d'un des
+établissements mentionnés à l'article L. 596 et se livrant, en vue de la vente, à la préparation totale ou partielle des
+médicaments, produits et objets définis aux articles L. 511 et L. 512. Sont considérés comme des préparations, avec les
+obligations de contrôle y afférentes, la division, le changement de conditionnement ou de présentation de ces médicaments,
+produits et objets.
+
+A la qualité de grossiste-répartiteur tout pharmacien ou toute société pharmaceutique, propriétaire d'un des établissements
+mentionnés à l'article L. 596 et se livrant à l'achat en vue de la vente en l'état aux pharmaciens des articles énumérés à
+l'alinéa 1 ci-dessus.
+
+A la qualité de dépositaire tout pharmacien ou toute société pharmaceutique, propriétaire d'un des établissements mentionnés
+à l'article L. 596 et se livrant, pour le compte d'un ou de plusieurs fabricants, au stockage et à la distribution aux
+grossistes-répartiteurs et aux pharmaciens des articles mentionnés plus haut et dont ils ne sont pas propriétaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°69-13 1969-01-02 art. 4 JORF 8 janvier 1969
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+	**Cité par**:
+
+	  - Décret n°98-79 du 11 février 1998 - art. 11 (Ab)
+	  - Code de la santé publique - art. R5009 (Ab)
+	  - Code de la santé publique - art. R5014-3 (Ab)
+	  - Code de la santé publique - art. R5108 (Ab)
+	  - Code de la santé publique - art. R5108-1 (Ab)
+	  - Code de la santé publique - art. R5109 (Ab)
+	  - Code de la santé publique - art. R5110 (Ab)
+	  - Code de la santé publique - art. R5112 (Ab)
+	  - Code de la santé publique - art. R5112-1 (Ab)
+	  - Code de la santé publique - art. R5112-11 (Ab)
+	  - Code de la santé publique - art. R5112-7 (Ab)
+	  - Code de la santé publique - art. R5112-8 (Ab)
+	  - Code de la santé publique - art. R5112-9 (Ab)
+	  - Code de la santé publique - art. R5114 (Ab)
+	  - Code de la santé publique - art. R5114-1 (Ab)
+	  - Code de la santé publique - art. R5115-1 (Ab)
+	  - Code de la santé publique - art. R5115-12 (Ab)
+	  - Code de la santé publique - art. R5115-14 (Ab)
+	  - Code de la santé publique - art. R5115-16 (Ab)
+	  - Code de la santé publique - art. R5115-3 (M)
+	  - Code de la santé publique - art. R5115-4 (Ab)
+	  - Code de la santé publique - art. R5115-5 (Ab)
+	  - Code de la santé publique - art. R5142-15-14 (Ab)
+	  - Code de la santé publique - art. R5142-15-5 (Ab)
+	  - Code de la santé publique - art. R5145-24 (Ab)
+	  - Code de la santé publique - art. R672-13 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L511 (M)
+	  - Code de la santé publique - art. L512 (M)
+	  - Code de la santé publique - art. L596 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-2 (V)
+
+
+###### Article R5107
+
+Est considéré, selon le cas, comme pharmacien fabricant, pharmacien grossiste-répartiteur ou pharmacien dépositaire :
+
+1° Le ou les pharmaciens responsables définis à l'article L. 596 et qui sont propriétaires d'un des établissements mentionnés
+audit article ;
+
+2° Dans le cas d'une société, le pharmacien responsable défini aux articles L. 596 et R. 5113.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L596 (M)
+	  - Code de la santé publique - art. R5113 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5114-3 (M)
+	  - Code de la santé publique - art. R5114-5 (P)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-5 (V)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+	  - Décret n°61-1034 1961-09-13 art. 1 JORF 13 septembre 1961
+	  - Décret n°69-13 1969-01-02 art. 4 JORF 8 janvier 1969
+
+
+###### Article R5108
+
+Un arrêté du ministre de la santé publique et de la population fixe les formes et conditions dans lesquelles sont présentées
+et instruites les demandes d'ouverture des établissements visés à l'article L. 596 du code de la santé publique.
+
+L'autorisation prévue à l'article L. 598 du code de la santé publique est délivrée par le ministre de la santé publique et de
+la population, après avis du conseil central compétent de l'ordre des pharmaciens. Si ledit conseil n'a pas donné son avis
+dans un délai de deux mois, le ministre peut statuer.
+
+La création d'une succursale est assimilée à l'ouverture d'un établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L596 (M)
+	  - Code de la santé publique - art. L598 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R1333-18 (M)
+	  - Code de la santé publique - art. R43-13 (Ab)
+	  - Code de la santé publique - art. R5056 (M)
+	  - Code de la santé publique - art. R5107 (Ab)
+	  - Code de la santé publique - art. R5108-1 (Ab)
+	  - Code de la santé publique - art. R5109 (M)
+	  - Code de la santé publique - art. R5110 (M)
+	  - Code de la santé publique - art. R5110-1 (M)
+	  - Code de la santé publique - art. R5111 (M)
+	  - Code de la santé publique - art. R5111-1 (Ab)
+	  - Code de la santé publique - art. R5111-2 (M)
+	  - Code de la santé publique - art. R5113-1 (M)
+	  - Code de la santé publique - art. R5114-5 (P)
+	  - Code de la santé publique - art. R5115-5 (M)
+	  - Code de la santé publique - art. R5129 (Ab)
+	  - Code de la santé publique - art. R5138 (Ab)
+	  - Code de la santé publique - art. R5142-16 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-6 (V)
+	  - Code de la santé publique - art. R5124-7 (V)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+###### Article R5109
+
+Toute décision de refus est motivée. Elle doit intervenir dans les quatre-vingt-dix jours du dépôt de la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°78-988 1978-09-20 art. 4 JORF 6 octobre 1978
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5110-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-9 (V)
+
+
+###### Article R5110
+
+Toute modification concernant l'établissement, son équipement technique et la nature des spécialités ou des formes
+pharmaceutiques fabriquées est subordonnée à une autorisation préalable du ministre chargé de la santé. Un arrêté ministériel
+fixe les conditions de présentation de la demande d'autorisation.
+
+La décision prise sur cette demande, et qui est motivée en cas de refus, doit intervenir dans les trente jours du dépôt de la
+demande. Dans les cas exceptionnels, ce délai peut être prorogé dans la limite de quatre-vingt-dix jours par décisions du
+ministre chargé de la santé. Cette dernière décision doit être notifiée au demandeur avant l'expiration du précédent délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°78-988 1978-09-20 art. 5 JORF 6 octobre 1978
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+	**Cité par**:
+
+	  - Arrêté du 18 novembre 1996 - art. 3 (V)
+	  - Code de la santé publique - art. R5107 (Ab)
+	  - Code de la santé publique - art. R5110-1 (Ab)
+	  - Code de la santé publique - art. R5111-1 (Ab)
+	  - Code de la santé publique - art. R5129 (Ab)
+	  - Code de la santé publique - art. R5138 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-10 (V)
+
+
+###### Article R5111
+
+Si, dans le délai de deux ans qui suit la notification de l'autorisation, l'établissement ne fonctionne pas, cette
+autorisation devient caduque. Toutefois, sur justification produite avant l'expiration dudit délai, celui-ci peut être
+prorogé par le ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-12 (V)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+##### Paragraphe 4 : Dispositions d'exécution.
+
+###### Article R5116
+
+Des arrêtés du ministre de la santé publique et de la population [*autorité compétente*] fixent les conditions de
+fonctionnement des établissements visés à l'article L. 596 du code de la santé publique notamment celles relatives au
+contrôle des médicaments, et, en tant que de besoin, les modalités d'application de la présente section.
+
+Des arrêtés conjoints du garde des sceaux, ministre de la justice, du ministre de la santé publique et de la population et du
+ministre de l'industrie déterminent les modalités d'application des articles R. 5113-1 et R. 5113-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L596 (M)
+	  - Code de la santé publique - art. R5113-1 (M)
+	  - Code de la santé publique - art. R5113-2 (M)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 ART. 4 JORF 7 avril 1960
+
 
 ##### Section 2 : Spécialités pharmaceutiques
 
+##### Paragraphe 1 : Expérimentation des médicaments.
+
+###### Article R5117
+
+L'expérimentation des médicaments [*définition*], au sens du 6° de l'article L. 605, s'entend des expertises auxquelles il
+est procédé, dans les conditions fixées aux articles R. 5118 à R. 5127, en vue de vérifier qu'un produit susceptible de faire
+l'objet d'une demande d'autorisation de mise sur le marché, possède les propriétés définies au 1° du troisième alinéa de
+l'article L. 601.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. R5118 (M)
+	  - Code de la santé publique - art. R5119 (M)
+	  - Code de la santé publique - art. R5120 (M)
+	  - Code de la santé publique - art. R5121 (M)
+	  - Code de la santé publique - art. R5122 (M)
+	  - Code de la santé publique - art. R5123 (M)
+	  - Code de la santé publique - art. R5124 (M)
+	  - Code de la santé publique - art. R5125 (M)
+	  - Code de la santé publique - art. R5126 (M)
+	  - Code de la santé publique - art. R5127 (M)
+	  - Code de la santé publique L601, L605 AL. 6, R5118, R5119, R5120, R5121, R5122, R5123, R5124, R5125, R5126, R5127
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-10 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5229-4 (Ab)
+
+
+###### Article R5118
+
+Le ministre chargé de la santé [*autorité compétente*] fixe par arrêté les protocoles déterminant les normes et méthodes
+applicables à l'expérimentation des médicaments.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°79-256 1979-03-21 art. 1 JORF 31 mars 1979
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+
+	**Cité par**:
+
+	  - Arrêté du 5 septembre 1989 - art. 1 (V)
+	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
+	  - Code de la santé publique - art. R5117 (Ab)
+	  - Code de la santé publique - art. R5124 (M)
+	  - Code de la santé publique - art. R5125 (M)
+	  - Code de la santé publique - art. R5133 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-11 (V)
+
+
+###### Article R5119
+
+Les candidats aux fonctions d'expert doivent présenter les garanties nécessaires d'honorabilité, posséder les qualifications
+techniques et professionnelles et disposer des moyens propres à l'accomplissement des travaux d'expertise.
+
+L'agrément prévu à l'article L. 605 (2°) est donné par le ministre chargé de la santé, après consultation éventuelle de la
+commission prévue à l'article R. 5140.
+
+L'agrément est valable pendant cinq ans [*durée*] ; il peut être retiré par le ministre chargé de la santé après que l'expert
+a été mis à même de présenter ses observations écrites.
+
+Le ministre chargé de la santé répartit les experts entre différentes sections en fonction de leurs disciplines respectives.
+
+Les experts ne peuvent effectuer d'expertise qu'au titre de la ou des disciplines afférentes aux sections auxquelles ils sont
+rattachés.
+
+Ils ne doivent avoir aucun intérêt financier direct ou indirect, même par personne interposée, dans la commercialisation des
+médicaments faisant l'objet de leurs expertises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
+	  - Décret n°79-256 1979-03-21 ART. 1 JORF 31 mars 1979
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L605 (M)
+	  - Code de la santé publique - art. R5140 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5117 (Ab)
+	  - Code de la santé publique - art. R5119-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-33 (V)
+
+
+###### Article R5120
+
+Les experts et leurs collaborateurs sont tenus au secret professionnel en ce qui concerne la nature des produits essayés, les
+essais eux-mêmes et leurs résultats [*obligation*].
+
+Ils ne peuvent donner de renseignements relatifs à leurs travaux qu'au responsable de la mise sur le marché et aux services
+compétents du ministère de la santé publique.
+
+Aucune publication relative à l'expérimentation d'un médicament ne peut être effectuée sans l'accord conjoint de l'expert et
+du responsable de la mise sur le marché intéressé [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+	  - Décret n°61-1377 1961-12-16 ART. 1 JORF 17 décembre 1961
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
+
+	**Cité par**:
+
+	  - Décret n°72-642 du 3 juillet 1972 - art. 3 (M)
+	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
+	  - Code de la santé publique - art. R5117 (M)
+	  - Code de la santé publique - art. R5125 (Ab)
+	  - Code de la santé publique - art. R5126 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-13 (V)
+
+
+###### Article R5121
+
+Le responsable de la mise sur le marché doit informer chacun des experts auxquels il fait appel du nom des autres experts qui
+effectuent des essais sur le même médicament [*obligation*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°72-642 du 3 juillet 1972 - art. 2 (M)
+	  - Code de la santé publique - art. R5117 (M)
+
+	**Modifié par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-14 (V)
+
+
+###### Article R5122
+
+Les responsables de la mise sur le marché doivent fournir aux experts tous renseignements concernant :
+
+a) La formule intégrale du médicament soumis à expertise ;
+
+b) La nature des expertises demandées ;
+
+c) Les propriétés soumises à vérification ;
+
+d) Les références bibliographiques sur les produits entrant dans la composition du médicament.
+
+Avant d'entreprendre leur expertise, les experts cliniciens doivent être mis en possession des rapports établis par les
+experts analystes et les experts pharmacologues-toxicologues.
+
+Les experts cliniciens doivent exiger de nouveaux essais analytiques ou pharmaco-toxicologiques s'ils s'estiment
+insuffisamment éclairés par les renseignements fournis. En cas de refus du responsable de la mise sur le marché, ils doivent
+interrompre l'expertise.
+
+Tout expert peut refuser de procéder à une expertise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
+	  - Code de la santé publique - art. R5117 (M)
+	  - Code de la santé publique - art. R5124-1 (Ab)
+	  - Code de la santé publique - art. R5127 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-15 (V)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+	  - Décret n°72-261 1972-03-30 ART. 1 JORF 9 avril 1972
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
+
+
+###### Article R5123
+
+Les produits remis aux experts et ceux qui sont utilisés pour la réalisation d'essais comparatifs doivent avoir fait l'objet,
+pour chaque lot de fabrication, des contrôles analytiques [*obligatoires*] nécessaires pour en garantir la qualité. Les
+responsables de la mise sur le marché conservent des échantillons des lots remis aux experts.
+
+Sans préjudice des mentions prévues aux articles R. 5181, R. 5187 et R. 5204, l'étiquetage de ces produits comporte : le nom
+du responsable de la mise sur le marché, la dénomination ou le numéro de référence, le numéro du lot de fabrication et
+l'inscription suivante : "Ce produit ne peut être utilisé que sous une stricte surveillance médicale (art. R. 5123 du code de
+la santé publique)."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R1121-1 (M)
+	  - Code de la santé publique - art. R2038 (Ab)
+	  - Code de la santé publique - art. R5117 (M)
+	  - Code de la santé publique - art. R5123 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-16 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5181 (M)
+	  - Code de la santé publique - art. R5187 (M)
+	  - Code de la santé publique - art. R5204 (M)
+
+
+###### Article R5124
+
+Le programme des expertises est déterminé par le responsable de la mise sur le marché et l'expert, compte tenu des règles
+générales d'expertise définies à la présente section.
+
+Si l'expert justifie que les protocoles prévus à l'article R. 5118 sont inapplicables en l'espèce, le responsable de la mise
+sur le marché est tenu de communiquer au ministre chargé de la santé publique le programme des expertises retenu
+préalablement à la mise en oeuvre de celles-ci.
+
+Ce programme peut être mis à exécution si le ministre chargé de la santé publique n'a pas formulé d'opposition dans le délai
+d'un mois à compter de la réception de la communication ci-dessus indiquée [*accord tacite*] .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5117 (M)
+	  - Code de la santé publique - art. R5125 (Ab)
+	  - Code de la santé publique - art. R5272 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5118 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-17 (V)
+
+
+###### Article R5125
+
+Les rapports d'expertise doivent mentionner notamment [*obligatoirement*] :
+
+La formule intégrale du médicament ainsi que les changements qui ont pu être apportés à cette formule au cours des
+expérimentations ;
+
+Le cas échéant, la description détaillée des échecs rencontrés en cours d'expérimentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5117 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-19 (Ab)
+
+
+###### Article R5126
+
+Lorsqu'il est procédé à une expertise clinique, le responsable de la mise sur le marché qui demande cette expertise doit, en
+même temps, signaler au ministre chargé de la santé publique [*renseignements obligatoires*] :
+
+a) L'objet de cette expertise ;
+
+b) Le nom du ou des experts qui en sont chargés ;
+
+c) La date probable d'exécution de cette expertise ;
+
+d) Le ou les lieux où cette expertise est réalisée.
+
+Lorsque l'expertise a lieu dans un établissement hospitalier public, le responsable de la mise sur le marché communique ces
+mêmes indications au pharmacien de cet établissement, lequel est alors soumis aux obligations définies à l'article R. 5120.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+
+	**Cité par**:
+
+	  - Arrêté du 6 mars 1989 - art. Annexe (V)
+	  - Code de la santé publique - art. R5117 (M)
+	  - Code de la santé publique - art. R5140 (M)
+	  - Code de la santé publique - art. R5272 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5120 (M)
+
+
+###### Article R5127
+
+Le ministre chargé de la santé publique peut demander au responsable de la mise sur le marché de lui communiquer le programme
+d'une expertise lorsqu'il estime que le produit nouveau qui fait l'objet de cette expertise est susceptible de créer un
+risque anormal ou lorsqu'il y a des présomptions graves et concordantes d'une atteinte à la santé publique.
+
+Le ministre chargé de la santé publique [*autorité compétente*] peut faire opposition à la poursuite de l'exécution dudit
+programme dans le délai d'un mois suivant la réception de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5117 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-20 (V)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+
+
 ##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.
+
+###### Article R5128
+
+Toute demande d'autorisation de mise sur le marché doit être adressée au ministère chargé de la santé. Elle mentionne
+[*contenu*] :
+
+a) Le nom et l'adresse du responsable de la mise sur le marché et, lorsque celui-ci ne fabrique pas la spécialité
+pharmaceutique, le nom et l'adresse du fabricant ;
+
+b) La dénomination spéciale du médicament, qui doit être un nom de fantaisie ou une dénomination commune assortie d'une
+marque ou du nom du fabricant, ou encore la dénomination scientifique usuelle assortie d'une marque ou du nom du fabricant ;
+
+c) La composition intégrale du médicament soit par unité de prise, soit par unité de poids ou de volume, énoncée en termes
+usuels à l'exclusion des formules chimiques brutes, avec recours à la dénomination commune internationale des composants,
+chaque fois que celle-ci a été recommandée par l'Organisation mondiale de la santé ;
+
+d) La forme pharmaceutique, les mode et voie d'administration ;
+
+e) Les indications thérapeutiques proposées, contre-indications et effets secondaires ;
+
+f) La posologie usuelle ;
+
+g) La durée de conservation proposée.
+
+La demande peut être accompagnée d'un projet de fiche signalétique destinée à être diffusée auprès des médecins, après
+approbation par le ministre chargé de la santé et délivrance de l'autorisation de mise sur le marché.
+
+Sans préjudice de l'application de la législation relative aux marques de fabrique, de commerce et de service, le nom de
+fantaisie mentionné en b ci-dessus doit être choisi de façon à éviter toute confusion avec d'autres médicaments et ne pas
+induire en erreur sur la qualité ou les propriétés de la spécialité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°78-988 1978-09-20 ART. 6 JORF 6 octobre 1978
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+
+	**Cité par**:
+
+	  - Décret n°95-1172 du 6 novembre 1995 - art. 20 (T)
+	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
+	  - Décret n°2004-651 du 2 juillet 2004 - art. 1 (Ab)
+	  - Code de la santé publique - art. R5045 (Ab)
+	  - Code de la santé publique - art. R5047-3 (Ab)
+	  - Code de la santé publique - art. R5048 (Ab)
+	  - Code de la santé publique - art. R5050 (M)
+	  - Code de la santé publique - art. R5089-13 (M)
+	  - Code de la santé publique - art. R5129 (Ab)
+	  - Code de la santé publique - art. R5133 (Ab)
+	  - Code de la santé publique - art. R5135 (Ab)
+	  - Code de la santé publique - art. R5136 (Ab)
+	  - Code de la santé publique - art. R5138 (Ab)
+	  - Code de la santé publique - art. R5143 (M)
+	  - Code de la santé publique - art. R5144-4 (Ab)
+
+
+###### Article R5129
+
+A la demande [*d'autorisation de mise sur le marché*] prévue à l'article R. 5128 doit être joint un dossier comprenant
+[*contenu*] :
+
+a) La description du mode et des conditions de fabrication du médicament y compris, notamment, la formule complète de
+préparation et toutes indications utiles sur le récipient ;
+
+b) La description des techniques de contrôle des matières premières et de la spécialité prête à l'emploi ainsi que, si
+nécessaire, celle des techniques de contrôle en cours de fabrication et l'indication des résultats obtenus par application de
+ces techniques ;
+
+c) Les comptes rendus des expertises analytiques, pharmacologiques, toxicologiques et cliniques ;
+
+d) Un échantillon du modèle-vente de la spécialité pharmaceutique ou une maquette du conditionnement, celle-ci pouvant être
+réduite au projet d'étiquetage et au projet de notice si celle-ci est prévue, avec indication, pour chaque présentation, de
+la forme pharmaceutique et du contenu en poids, en volume ou en unités de prise ;
+
+e) Copie des décisions autorisant la fabrication de la spécialité concernée et délivrées, selon le cas, soit en vertu de la
+législation nationale du fabricant, soit en application des articles R. 5108 et R. 5110 ou, le cas échéant, copie des
+récépissés des demandes d'autorisation si lesdites demandes n'ont pas encore donné lieu à décision ;
+
+f) Le cas échéant, l'autorisation de mise sur le marché obtenue pour cette spécialité pharmaceutique soit dans un Etat membre
+des communautés européennes, soit dans un pays tiers, pour autant que cette autorisation y existe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°78-988 1978-09-20 ART. 7 JORF 6 octobre 1978
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+
+	**Cité par**:
+
+	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
+	  - Décret n°2004-651 du 2 juillet 2004 - art. 1 (Ab)
+	  - Arrêté du 20 janvier 1986 - art. 1 (Ab)
+	  - Code de la santé publique - art. R5129-1 (Ab)
+	  - Code de la santé publique - art. R5133 (Ab)
+	  - Code de la santé publique - art. R5135-1 (Ab)
+	  - Code de la santé publique - art. R5136 (Ab)
+	  - Code de la santé publique - art. R5142-22 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5108 (M)
+	  - Code de la santé publique - art. R5110 (M)
+	  - Code de la santé publique - art. R5128 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-25 (V)
+
+
+###### Article R5130
+
+Les comptes rendus des expertises analytiques comprennent [*contenu*] :
+
+a) Le protocole détaillé de la technique utilisée par le fabricant ;
+
+b) Les résultats obtenus par l'expert et les limites extrêmes d'acceptation ;
+
+c) L'interprétation de ces résultats ;
+
+d) La description des essais de stabilité ayant permis de déterminer la durée proposée de conservation ;
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°78-988 1978-09-20 ART. 8 JORF 6 octobre 1978
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-26 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5136 (Ab)
+
+
+###### Article R5131
+
+Les comptes rendus des experts pharmacologues et toxicologues [*contenu*] indiquent les méthodes utilisées et comportent une
+évaluation de la toxicité et de l'activité pharmacologique du médicament sur l'animal afin de permettre à l'expert clinicien
+d'entreprendre des expertises sur l'homme avec toutes les garanties nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-27 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5136 (Ab)
+
+
+###### Article R5132
+
+Les comptes rendus des expertises cliniques comprennent le relevé de chaque observation et les conclusions de l'expert
+relatives notamment [*contenu*]:
+
+a) Aux indications et à l'effet thérapeutique ;
+
+b) A l'innocuité dans les conditions normales d'emploi ;
+
+c) A l'évaluation de l'efficacité du dosage ;
+
+d) Aux contre-indications et aux effets secondaires ;
+
+e) Aux conditions normales et particulières de prescription, de délivrance et d'emploi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
+	  - Code de la santé publique - art. R5136 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-28 (V)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+
+
+###### Article R5133
+
+Par dérogation aux dispositions des articles R. 5128 et R. 5129 :
+
+a) Lorsque la demande porte sur une modification d'autorisation de mise sur le marché, le ministre chargé de la santé peut
+dispenser le demandeur de produire certaines des indications ou justifications exigées par les articles R. 5128 et R. 5129
+s'il apparaît que celles-ci sont manifestement sans objet ;
+
+b) Lorsque la demande concerne une spécialité correspondant à une préparation figurant à la Pharmacopée française ou au
+formulaire national, le demandeur peut être dispensé des expertises pharmacologiques, toxicologiques et cliniques ;
+
+c) Une documentation bibliographique peut tenir lieu de comptes rendus des essais pharmacologiques, toxicologiques et
+cliniques lorsqu'il s'agit :
+
+D'une spécialité déjà exploitée ayant été expérimentée d'une manière suffisante sur l'homme pour que ses effets, y compris
+les effets secondaires, soient déjà connus et figurent dans la documentation bibliographique ;
+
+D'une spécialité nouvelle dont la composition en principes actifs est identique à celle d'une spécialité déjà connue et
+exploitée ;
+
+D'une spécialité nouvelle renfermant uniquement des composants connus, déjà associés en proportion comparable dans des
+médicaments et suffisamment expérimentés et déjà exploités.
+
+Dans ces trois cas, les experts doivent justifier le recours à la documentation bibliographique et démontrer que la
+bibliographie satisfait aux exigences de protocoles arrêtés par application de l'article R. 5118, compte tenu notamment de la
+forme pharmaceutique et des constituants de l'excipient.
+
+d) En ce qui concerne une spécialité nouvelle renfermant des composants connus qui n'ont pas encore été associés dans un but
+thérapeutique, les essais concernant ces composants peuvent être remplacés par la présentation d'une documentation
+bibliographique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°78-988 1978-09-20 ART. 9 JORF 6 octobre 1978
+
+	**Cité par**:
+
+	  - Décret n°72-642 du 3 juillet 1972 - art. 2 (Ab)
+	  - Décret n°93-1322 du 20 décembre 1993 - art. 1 (Ab)
+	  - Décret n°96-653 du 16 juillet 1996 - art. 1 (Ab)
+	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
+	  - Décret n°99-486 du 11 juin 1999 - art. 8 (Ab)
+	  - Décret n°2004-651 du 2 juillet 2004 - art. 1 (Ab)
+	  - Code de la santé publique - art. R5136 (Ab)
+	  - Code de la santé publique - art. R5143 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5118 (M)
+	  - Code de la santé publique - art. R5128 (M)
+	  - Code de la santé publique - art. R5129 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-29 (V)
+	  - Code de la santé publique - art. R5121-30 (V)
+	  - Code de la santé publique - art. R5121-31 (V)
+
+
+###### Article R5134
+
+Lors de l'instruction des demandes d'autorisation de mise sur le marché, le ministre chargé de la santé publique [*autorité
+compétente*] peut prendre les mesures suivantes :
+
+a) Faire procéder à toute enquête relative à la fabrication du médicament ;
+
+b) Consulter les experts agréés qui ont été choisis par les fabricants pour participer à la constitution du dossier de
+demande d'autorisation ;
+
+c) Recueillir l'avis d'experts désignés par lui en application de l'article L. 605 ;
+
+d) Désigner des rapporteurs qui s'assurent de la régularité des demandes par rapport aux dispositions du présent code.
+
+e) Exiger du demandeur qu'il complète son dossier, notamment en ce qui concerne les comptes rendus des essais analytiques,
+toxicologiques, pharmacologiques et cliniques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L605 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-34 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5135 (Ab)
+	  - Code de la santé publique - art. R5142-24 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°78-988 1978-09-20 ART. 10 JORF 6 octobre 1978
+
 
 ###### Article R5142-1
 
@@ -30501,7 +36011,3610 @@ Article abrogé
 	  - Décret n°78-988 1978-09-20 art. 16 JORF 6 octobre 1978
 
 
+#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale
+
+##### Section 3 : Dispositions communes.
+
+###### Article R5147
+
+La vignette prévue à l'article L. 625 du présent code doit être gommée ou adhésive et pouvoir être prélevée sans rupture du
+scellement de la spécialité. Les procédés utilisés pour satisfaire à ces conditions doivent recevoir l'agrément du ministre
+des affaires sociales    . 
+
+La vignette doit porter le mot " vignette ", la dénomination sous laquelle le médicament figure sur la liste des spécialités
+remboursables aux assurés sociaux, le numéro d'inscription sur cette liste et le prix limite de vente au public. 
+
+Aucune vignette ne peut être remise à un titre quelconque si elle n'est apposée sur le conditionnement de la spécialité. 
+
+Les échantillons ne doivent comporter ni renfermer aucune vignette. 
+
+Un arrêté du ministre des affaires sociales précisera la forme et la couleur de la vignette ainsi que les mentions ou autres
+caractéristiques qu'elle doit comporter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 2 novembre 1995 - art. 1 (V)
+	  - Arrêté du 21 février 1996 - art. 1 (V)
+	  - Décret n°98-275 du 9 avril 1998 - art. 6 (V)
+	  - Code de la santé publique - art. R5148 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°61-39 1961-01-12 art. 1 JORF 13 janvier 1961
+	  - Décret n°68-1148 1968-12-16 art. 1 JORF 22 décembre 1968
+
+	**Abrogé par**:
+
+	  - Décret n°98-275 du 9 avril 1998 - art. 6 (V) JORF 15 avril 1998
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L625 (Ab)
+
+
+###### Article R5148
+
+La vignette prévue à l'article précédent doit être jointe par tous les intéressés à l'appui des demandes de remboursement
+présentées aux collectivités publiques et aux organismes de sécurité sociale ou de mutualité sociale agricole.
+
+Elle doit être collée par le bénéficiaire sur l'ordonnance tarifée par le pharmacien dans tous les cas pour lesquels l'avance
+des frais est laissée à la charge du premier nommé. Lorsque le médicament est utilisé sans paiement direct, le bénéficiaire
+ou son mandataire doit remettre la vignette au pharmacien dès la délivrance du produit, pour être annexée aux états adressés
+à l'administration ou à l'organisme compétent.
+
+Avec l'accord du bénéficiaire ou de son mandataire, le prélèvement de la vignette peut être effectué par le pharmacien lui-
+même.
+
+La présence d'une vignette dans le conditionnement d'un médicament ne crée pas par elle-même un droit aux bénéficiaires des
+prestations en ce qui concerne la possibilité de prise en charge non plus qu'en ce qui concerne le taux de participation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°97-1321 du 30 décembre 1997 - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5123-1 (V)
+	  - Code de la santé publique - art. R5123-2 (V)
+	  - Code de la santé publique - art. R5123-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5147 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°61-39 1961-01-12 art. 2 JORF 13 janvier 1961
+
+
 ### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS
+
+#### CHAPITRE 1 : SUBSTANCES VENENEUSES
+
+##### SECTION 1 : GENERALITES.
+
+###### Article R5149
+
+En ce qui concerne leur exportation, importation, achat, vente, détention et emploi, le régime des substances vénéneuses est
+différent :
+
+1° Selon que les substances sont destinées au commerce, à l'industrie ou à l'agriculture, ou qu'elles sont destinées à la
+médecine ;
+
+2° Selon que ces substances sont classées dans l'un des trois tableaux suivants :
+
+- Tableau A : produits toxiques ;
+
+- Tableau B : produits stupéfiants ;
+
+- Tableau C : produits dangereux.
+
+Chacun de ces tableaux est divisé en deux sections.
+
+Les substances vénéneuses destinées au commerce, à l'industrie ou à l'agriculture sont inscrites dans la section I des
+tableaux A, B et C. Cette section comprend, outre les substances inscrites dans la section II, celles désignées par arrêté
+pris conjointement par les ministres de l'industrie et du Commerce, de l'Agriculture et de la Santé publique et de la
+Population.
+
+Les substances vénéneuses destinées à la médecine sont inscrites dans la section II des tableaux A, B et C par arrêté du
+ministre de la Santé publique et de la Population.
+
+A l'exception des produits faisant l'objet de la section IV du présent chapitre, les teintures et lotions pour cheveux, les
+fards, cosmétiques, dépilatoires, produits de toilette et, en règle générale, les produits hygiéniques renfermant des
+substances vénéneuses à l'exclusion de ceux destinés à la désinfection des locaux, sont soumis au régime des substances
+destinées à la médecine.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1951-11-15
+	  - TXT_ASSOCIE: Arrêté 1957-01-21
+	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 24 septembre 1987 - art. 1 (Ab)
+	  - Arrêté du 21 décembre 1990 - art. 1 (V)
+	  - Arrêté du 21 décembre 1990 - art. 2 (V)
+	  - Arrêté du 20 septembre 1979 - art. ANNEXE 1 (Ab)
+	  - Code de la santé publique - art. R5204 (Ab)
+	  - Code de la santé publique - art. R5208-1 (Ab)
+	  - Code de la santé publique - art. R5212 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5132-1 (V)
+
+
+##### SECTION 2 : REGIME DE SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE
+
+##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).
+
+###### Article R5152
+
+Quiconque détient une ou plusieurs desdites substances, en vue de la vente ou de l'emploi pour un usage industriel ou
+agricole, doit les placer dans des armoires fermées à clef ou dans des locaux où n'ont pas librement accès les personnes
+étrangères à l'établissement.
+
+Les armoires ou locaux visés au précédent alinéa peuvent contenir d'autres substances, à l'exclusion de celles destinées à
+l'alimentation de l'homme ou des animaux.
+
+Lorsque le détenteur exerce le commerce des produits destinés à l'alimentation de l'homme ou des animaux, aucune
+communication intérieure directe ne doit exister entre l'établissement et ses dépendances où s'exerce ledit commerce, et les
+locaux où sont détenues les substances vénéneuses. Cette obligation ne s'applique pas aux pharmaciens, ni aux personnes
+faisant le commerce des solutions titrées de nicotine détenues et délivrées en bidons scellés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°88-1231 du 29 décembre 1988
+	  - TXT_ASSOCIE: Décret n°88-1231 du 29 décembre 1988 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Décret n°88-1231 du 29 décembre 1988 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Décret n°88-1231 du 29 décembre 1988 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Décret n°88-1231 du 29 décembre 1988 - art. 4 (Ab)
+	  - TXT_ASSOCIE: Décret n°88-1231 du 29 décembre 1988 - art. 5 (Ab)
+	  - TXT_ASSOCIE: Décret n°88-1231 du 29 décembre 1988 - art. 6 (Ab)
+	  - TXT_ASSOCIE: Décret n°88-1231 du 29 décembre 1988 - art. 7 (Ab)
+	  - TXT_ASSOCIE: Décret n°88-1231 du 29 décembre 1988 - art. 8 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°88-1231 du 29 décembre 1988 - art. 1 (Ab)
+	  - Arrêté du 21 février 1990 - art. 2 (Ab)
+	  - Décret n°90-740 du 14 août 1990 - art. 1 (V)
+	  - Arrêté du 21 décembre 1990 - art. 2 (V)
+	  - Arrêté du 1 février 1993 - art. 1 (V)
+	  - Code de la santé publique - art. R5149 (Ab)
+	  - Code de la santé publique - art. R5153 (Ab)
+	  - Code de la santé publique - art. R5153-1 (Ab)
+	  - Code de la santé publique - art. R5153-2 (Ab)
+	  - Code de la santé publique - art. R5154 (Ab)
+	  - Code de la santé publique - art. R5155 (Ab)
+	  - Code de la santé publique - art. R5157 (Ab)
+	  - Code de la santé publique - art. R5158 (Ab)
+	  - Code de la santé publique - art. R5159 (Ab)
+	  - Code de la santé publique - art. R5160 (Ab)
+	  - Code de la santé publique - art. R5161 (Ab)
+	  - Code de la santé publique - art. R5162 (Ab)
+	  - Code de la santé publique - art. R5165 (Ab)
+	  - Code de la santé publique - art. R5205 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5132-2 (Ab)
+	  - Code de la santé publique - art. R5132-46 (V)
+
+
+##### SECTION 2 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A D'AUTRES USAGES QUE LA MEDECINE
+
+##### PARAGRAPHE 2 : SUBSTANCES TOXIQUES (TABLEAU A).
+
+###### Article R5151
+
+Quiconque veut faire le commerce d'une ou plusieurs des substances classées au tableau A (section I) ou exercer une industrie
+qui en nécessite l'emploi, est tenu d'en faire préalablement la déclaration devant le maire de la commune dans laquelle est
+situé son établissement [*obligation*] ; à Paris et dans le ressort de la préfecture de police, la déclaration doit être
+faite à ladite préfecture [*lieu*].
+
+Elle est inscrite sur un registre spécial, récépissé en est donné au déclarant ; elle doit être renouvelée en cas de
+déplacement ou de cession de l'établissement.
+
+Les personnes habilitées à exercer la pharmacie sont dispensées de cette déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 juillet 1997
+	  - TXT_SOURCE: Arrêté du 3 juillet 1997 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1997 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 3 juillet 1997 - art. ANNEXE (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-44 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5161 (M)
+	  - Code de la santé publique - art. R5187 (Ab)
+	  - Code de la santé publique - art. R5229 (M)
+
+
+###### Article R5153
+
+Il est interdit de détenir en vue de la vente, de vendre, de livrer, d'expédier ou de faire circuler ces substances autrement
+que renfermées dans des enveloppes ou récipients portant inscrit le nom desdites substances, tel qu'il figure dans le tableau
+A (section I).
+
+Cette inscription doit être faite en caractères noirs très apparents, sur une étiquette rouge orangé, fixée de telle sorte
+qu'elle ne puisse pas être involontairement détachée.
+
+L'inscription ci-dessus visée doit être accompagnée de la mention "Poison", sur une bande de même couleur, faisant le tour de
+l'enveloppe ou du récipient.
+
+Un arrêté pris conjointement par le ministre de l'industrie, le ministre de l'agriculture et le ministre de la santé publique
+et de la population détermine les conditions auxquelles devront satisfaire, par dérogation aux prescriptions de l'alinéa
+précédent, les enveloppes ou les récipients qui, en raison de leur nature ou de leurs dimensions, ne se prêtent pas à
+l'apposition de bandes.
+
+Les fûts, vases ou autres récipients ainsi que les enveloppes ayant servi à contenir ces substances ne doivent en aucun cas
+être employés à recevoir des produits destinés à l'alimentation de l'homme ou des animaux.
+
+Il est interdit d'employer pour la vente ou le transport de ces substances les bouteilles dites canettes de bières, les
+flacons portant inscrit dans la pâte le nom d'un liquide alimentaire ou médicamenteux, les fûts, vases et autres récipients
+portant encore des étiquettes de produits alimentaires, de boissons quelconques ou de produits médicamenteux.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1962-04-13 JORF 29 avril
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 13 avril 1962 - art. 2 (V)
+	  - Arrêté du 25 janvier 1971 - art. 6 (M)
+	  - Arrêté du 18 février 1981 - art. 18 (Ab)
+	  - Code de la santé publique - art. R5155 (M)
+	  - Code de la santé publique - art. R5157 (M)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+	  - Décret n°62-508 1962-04-13 art. 1 JORF 19 avril 1962
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5132-3 (Ab)
+	  - Code de la santé publique - art. L5132-4 (Ab)
+
+
+###### Article R5154
+
+Sont interdites la mise en vente et la vente des substances classées au tableau A (section I) ou des préparations qui en
+contiennent sous forme de tablettes, pastilles, pilules, comprimés, ampoules, et, d'une manière générale, sous toutes formes
+usitées pour l'administration des médicaments, lorsque ces substances ou préparations sont destinées à d'autres usages que
+celui de la médecine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 21 février 1990 - art. 27 (Ab)
+	  - Décret n°90-740 du 14 août 1990 - art. 1 (V)
+	  - Code de la santé publique - art. R5154 bis (M)
+	  - Code de la santé publique - art. R5168 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-48 (V)
+
+
+###### Article R5155
+
+Toute vente desdites substances [*toxiques*] doit être inscrite sur un registre spécial, coté et paraphé par le maire ou le
+commissaire de police. Les inscriptions sur ce registre sont faites de suite, sans aucun blanc, rature, ni surcharge, au
+moment même de la livraison ou de l'expédition ; elles indiquent le nom et la quantité des substances vendues, la date de la
+vente, ainsi que les nom, profession et adresse de l'acheteur [*mentions obligatoires*].
+
+A chacune des ventes est attribué un numéro d'ordre qui peut s'appliquer à tous les produits compris dans une même livraison.
+Ce numéro est inscrit, ainsi que le nom et l'adresse du vendeur, sur l'étiquette apposée conformément aux dispositions des
+deux premiers alinéas de l'article R. 5153 [*mentions*].
+
+Le registre sur lequel sont faites ces inscriptions doit être conservé pendant dix ans, pour être représenté à toute
+réquisition de l'autorité compétente [*délai*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 22 août 1986 - art. 2 (V)
+	  - Code de la santé publique - art. R5154 bis (M)
+	  - Code de la santé publique - art. R5156 (Ab)
+	  - Code de la santé publique - art. R5157 (M)
+	  - Code de la santé publique - art. R5184 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-49 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5153 (M)
+
+
+###### Article R5156
+
+Aucune vente desdites substances [*toxiques*] ne peut être consentie qu'au profit d'une personne âgée de dix-huit ans au
+moins [*âge minimum*], connue du vendeur ou justifiant de son identité [*condition*]. Ces substances ne peuvent être
+délivrées que contre reçu daté et signé de l'acheteur ou de son représentant et mentionnant sa profession et son adresse. Ce
+reçu peut être remplacé par une commande écrite, datée et signée de l'acheteur ou de son représentant et indiquant sa
+profession et son adresse.
+
+Si la profession de l'acheteur n'implique pas l'emploi des substances demandées, le reçu ou la commande doit mentionner
+l'usage auquel ces substances sont destinées. Le reçu ou la commande doit être conservé pendant trois ans par le vendeur,
+pour être représenté à toute réquisition de l'autorité compétente [*délai*].
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret du 11 mai 1937 - art. 1 (VT)
+	  - Arrêté du 28 mars 1989 - art. 5 (Ab)
+	  - Code de la santé publique - art. R5154 bis (M)
+	  - Code de la santé publique - art. R5157 (M)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-50 (V)
+
+
+###### Article R5157
+
+Lorsqu'elles sont destinées à la destruction des parasites nuisibles à l'agriculture, ces substances ne peuvent être
+délivrées en nature. Elles doivent être mélangées à des matières odorantes et colorantes, suivant les formules établies par
+des arrêtés du ministre de l'Agriculture qui pourront aussi fixer des conditions de délivrance en ce qui concerne les
+concentrations.
+
+Les dispositions des articles R. 5153, R. 5155 et R. 5156 sont applicables à la vente de ces mélanges, qui ne pourront être
+vendus ou délivrés que dans des récipients métalliques, ou dans des récipients parfaitement hermétiques, étanches et
+résistants, dont les modèles sont préalablement agréés par le ministre de l'Agriculture (service de la répression des
+fraudes).
+
+Par dérogation aux prescriptions du présent article, lesdites substances peuvent être délivrées en nature, en vue
+d'expériences scientifiques, sur autorisation spéciale du ministre de l'agriculture. Cette autorisation valable pour un an
+[*durée*] peut être renouvelée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 25 janvier 1971 - art. 2 (V)
+	  - Arrêté du 25 janvier 1971 - art. 6 (M)
+	  - Arrêté du 18 février 1981 - art. 18 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-47 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5153 (M)
+	  - Code de la santé publique - art. R5155 (M)
+	  - Code de la santé publique - art. R5156 (M)
+
+
+###### Article R5158
+
+L'emploi desdites substances pour la destruction des parasites nuisibles à l'agriculture est interdit dans toutes les
+cultures et récoltes pour lesquelles leur emploi n'aura pas été autorisé par arrêté du ministre de l'Agriculture. Cet arrêté
+fixera pour chaque nature de culture et récolte et pour chaque région, les conditions auxquelles l'autorisation sera
+subordonnée, ainsi que les époques de l'année pendant lesquelles l'emploi desdites substances reste prohibé.
+
+Un arrêté dudit ministre, pris après avis du conseil supérieur d'hygiène publique de France, déterminera les précautions que
+devront prendre les personnes qui emploieront, par application du présent article, des produits arsenicaux et notamment
+l'arséniate de plomb.
+
+**Nota:**
+
+[*Nota : Arrêté du 25 septembre 1965 : AUTORISATION DES SUBSTANCES TOXIQUES DANS L'AGRICULTURE. Arrêté du 24 mai 1973 :
+EMPLOI DES PRODUITS ARSENICAUX.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1965-09-25
+	  - TXT_ASSOCIE: Arrêté 1973-05-24
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-51 (V)
+	  - Code de la santé publique - art. R5132-52 (V)
+	  - Code de la santé publique - art. R5132-53 (V)
+	  - Code de la santé publique - art. R5132-56 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5159 (Ab)
+
+
+###### Article R5159
+
+Sont interdites la mise en vente et la vente desdites substances [*toxiques*], en vue de leur emploi à la destruction des
+parasites nuisibles à l'agriculture, dans d'autres conditions que celles fixées à l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-54 (V)
+	  - Code de la santé publique - art. R5132-55 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5158 (M)
+
+
+###### Article R5160
+
+La délivrance et l'emploi des composés arsenicaux solubles sont interdits pour la destruction des mouches ainsi que pour
+celle des parasites nuisibles à l'agriculture, sauf lorsque ces composés sont utilisés pour les traitements d'hiver. Sont
+également interdits la délivrance et l'emploi des produits destinés à la destruction des mouches et dans la fabrication
+desquels est utilisé l'arsenic métalloïdique.
+
+La délivrance et l'emploi des produits contenant de l'arsenic, du plomb ou du mercure, sont interdits pour la désinfection
+des produits récoltés, destinés à la consommation humaine ou animale, ainsi que pour l'embaumement des cadavres humains, la
+destruction des mauvaises herbes dans les allées des jardins, dans les cours et dans les terrains de sport.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-57 (V)
+
+
+###### Article R5161
+
+Les substances visées au présent paragraphe ne peuvent être délivrées en nature, lorsqu'elles sont destinées à la confection
+d'appâts empoisonnés pour la destruction des insectes et des animaux nuisibles [*interdiction*]. Elles doivent être mélangées
+à dix fois au moins leur poids de substances inertes et insolubles, puis additionnées d'une matière colorante intense rouge,
+noire, verte ou bleue.
+
+Par dérogation à l'article R. 5151 la délivrance au public de ces mélanges est interdite à quiconque n'est pas habilité à
+exercer la pharmacie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-45 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5151 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5154 bis (M)
+
+
+###### Article R5162
+
+La vente de la picrotoxine, de la coque du Levant et de leurs préparations est interdite pour tout usage autre que celui de
+la médecine.
+
+En conséquence, la délivrance au public de ces produits est interdite à quiconque n'est pas habilité à exercer la pharmacie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-66 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5163 (Ab)
+	  - Code de la santé publique - art. R5164 (Ab)
+
+
+###### Article R5163
+
+L'addition de radio-éléments ou de produits en contenant aux aliments ainsi qu'aux produits d'hygiène et de beauté visés à
+l'article R. 5145 est interdite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Décret n°90-740 du 14 août 1990 - art. 1 (V)
+	  - Code de la santé publique - art. R5169 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-58 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5145 (M)
+
+
+###### Article R5164
+
+Il n'est point dérogé aux dispositions du décret du 19 juillet 1895, pris en exécution de la loi du 16 avril précédent, sur
+la vente du phosphore.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1895-07-19
+	  - Loi n°1895-04-16
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-59 (V)
+
+
+##### PARAGRAPHE 1 : GENERALITES.
+
+###### Article R5150
+
+Les dispositions de la présente section sont applicables aux substances inscrites nommément aux tableaux A, B et C (section
+I) et aux préparations qui les contiennent.
+
+Les préparations sont soumises au même régime que les substances qu'elles contiennent, à l'exception des préparations
+nommément inscrites à un autre tableau et des préparations qui, en raison de leur concentration ou de leur faible volume,
+sont nommément exclues des tableaux des substances vénéneuses (section I).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-43 (V)
+
+
+##### PARAGRAPHE 4 : SUBSTANCES DANGEREUSES (TABLEAU C).
+
+###### Article R5167
+
+Quiconque détient, en vue de la vente, des substances inscrites au tableau C (section I) est tenu de les placer dans ses
+magasins de manière qu'elles soient séparées des substances non dangereuses, et notamment des produits destinés à
+l'alimentation de l'homme ou des animaux.
+
+Il est interdit de détenir en vue de la vente, de vendre, de livrer, d'expédier ou de faire circuler ces substances autrement
+que dans des enveloppes ou récipients portant inscrit le nom desdites substances, tel qu'il figure au tableau C (section I).
+
+Cette inscription doit être faite en caractères noirs très apparents, sur une étiquette verte [*couleur*] comportant le nom
+et l'adresse du vendeur, et fixée de telle sorte qu'elle ne puisse pas être involontairement détachée.
+
+L'inscription ci-dessus visée doit être accompagnée de la mention "dangereux" en caractères noirs très apparents sur une
+bande de couleur verte faisant le tour de l'enveloppe ou du récipient.
+
+Un arrêté pris conjointement par le ministre de l'industrie, le ministre de l'agriculture et le ministre de la santé publique
+et de la population détermine les conditions auxquelles devront satisfaire, par dérogation aux prescriptions de l'alinéa
+précédent, les enveloppes ou les récipients qui, en raison de leur nature ou de leurs dimensions, ne se prêtent pas à
+l'apposition de bandes.
+
+Les fûts, vases ou autres récipients ainsi que les enveloppes ayant servi à contenir ces substances ne doivent en aucun cas
+être employés à recevoir des produits destinés à l'alimentation de l'homme ou des animaux.
+
+Il est interdit d'employer pour la vente ou le transport de ces substances les bouteilles dites canettes de bière, les
+flacons portant inscrit dans la pâte le nom d'un liquide alimentaire ou médicamenteux, les fûts, vases et autres récipients
+portant encore des étiquettes de produits alimentaires, boissons quelconques ou médicaments.
+
+Lorsqu'elles sont destinées à la destruction des parasites et animaux nuisibles à l'agriculture, par badigeonnages,
+pulvérisations, fumigations, poudrages, appâts et autres procédés, les substances du tableau C en nature et les préparations
+qui en contiennent doivent être mélangées, sauf en cas d'incompatibilité, à des matières odorantes et colorantes ou à l'une
+d'elles seulement, suivant des formules établies par des arrêtés du ministre de l'agriculture, qui pourront fixer les
+conditions d'emploi et de délivrance en ce qui concerne les concentrations.
+
+L'addition de matières colorantes et odorantes ou de matières de l'une de ces deux catégories seulement peut être imposée
+pour tous autres usages par arrêté du ministre de la santé publique et de la population, pris après avis du conseil supérieur
+d'hygiène publique de France, et déterminant pour chaque produit la quantité de la ou des matières à ajouter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 13 avril 1962 - art. 2 (V)
+	  - Arrêté du 26 avril 1988 - art. 2 (V)
+	  - Code de la santé publique - art. R5168 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-62 (M)
+	  - Code de la santé publique - art. R5132-63 (V)
+
+
+##### PARAGRAPHE 5 : INTERDICTION ET LIMITATION D'EMPLOI ET DE COMMERCE DES SUBSTANCES DES TABLEAUX A *PRODUITS TOXIQUES* ET C *PRODUITS DANGEREUX*.
+
+###### Article R5168
+
+L'emploi et le commerce des substances inscrites aux tableaux A et C peuvent être l'objet de mesures d'interdiction et de
+prescriptions particulières pour des raisons d'hygiène et de santé publique, par arrêté pris conjointement par le ministre de
+la Santé publique et de la Population et les ministres intéressés après avis du conseil supérieur d'hygiène publique de
+France.
+
+**Nota:**
+
+[*Nota : Arrêté du 8 juillet 1975 : POLYCHLOROBIPHENYLES. Arrêté du 17 février 1976 : CHLORURE DE VINYLE. Arrêté du 6
+novembre 1978 :
+
+SELS DE PLOMB.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1975-07-08
+	  - TXT_ASSOCIE: Arrêté 1976-02-17
+	  - TXT_ASSOCIE: Arrêté 1978-11-06
+	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 3 (V)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-64 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5169 (Ab)
+
+
+##### PARAGRAPHE 3 : STUPEFIANTS (TABLEAU B).
+
+###### Article R5165
+
+Sont interdits, à moins d'autorisation, la production, la transformation, l'extraction, la préparation, la détention,
+l'offre, la distribution, le courtage, l'achat, la vente, l'importation, l'exportation des substances inscrites au tableau B
+et, d'une manière générale, toutes opérations agricoles, industrielles et commerciales, relatives à ces substances.
+
+En cas d'autorisation, ces opérations sont réglementées par les dispositions contenues à la section III, paragraphe 4, du
+présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L355-14 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L355-14, L627 et s.
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-60 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5190 (M)
+	  - Code de la santé publique - art. R5195 (M)
+	  - Code de la santé publique - art. R5229 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique R5189 à R5211
+
+
+###### Article R5166
+
+Sont interdits l'importation, l'exportation, la production, le commerce, l'utilisation et la détention du chanvre indien et
+des préparations en contenant ou fabriquées à partir du chanvre indien.
+
+On entend par "chanvre indien" [*définition*], pour l'application du présent code, les sommités florifères et fructifères de
+la plante femelle du Cannabis sativa (urticacées-cannabinées), variété dite indienne.
+
+Des dérogations aux dispositions du premier alinéa du présent article pourront être accordées aux fins de recherches
+scientifiques par le ministre de la Santé publique et de la Population.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-61 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5190 (M)
+	  - Code de la santé publique - art. R5229 (M)
+
+
+##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE
+
+##### PARAGRAPHE 1 : DISPOSITIONS COMMUNES *REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C), TOXIQUES (TABLEAU A), DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT*.
+
+###### Article R5169
+
+Les dispositions de la présente section sont applicables aux substances inscrites nommément aux tableaux A, B et C (section
+II) et aux préparations qui les contiennent, destinées à la médecine humaine et vétérinaire.
+
+Ces substances sont soumises à des régimes distincts selon leur classement dans les tableaux A, B et C.
+
+Les préparations sont soumises au même régime que les substances qu'elles contiennent, à l'exception des préparations
+nommément inscrites à un autre tableau et des préparations visées à l'article suivant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-65 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5170 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5170
+
+a) Médecine humaine.
+
+Les dispositions de la présente section, à l'exception de celles des articles R. 5190, R. 5195 et des alinéas 3 et 4 de
+l'article R. 5210, ne sont pas applicables aux préparations médicamenteuses destinées à la médecine humaine renfermant des
+substances vénéneuses à des doses et concentrations trop faibles pour que ces préparations puissent être soumises à la
+présente réglementation.
+
+La forme de ces préparations, les doses et les concentrations sont fixées par arrêtés du ministre de la Santé publique et de
+la Population, pris sur l'avis de l'Académie de pharmacie.
+
+b) Médecine vétérinaire.
+
+Les dispositions de la présente section, à l'exception de celles des articles R. 5171, R. 5181, R. 5187, R. 5190, R. 5195, R.
+5204 et des alinéas 3 et 4 de l'article R. 5210, ne sont pas applicables aux préparations médicamenteuses destinées à la
+médecine vétérinaire renfermant des substances vénéneuses à des doses et concentrations fixées par arrêté pris conjointement
+par le ministre de l'Agriculture et le ministre de la Santé publique et de la Population, après avis d'une commission nommée
+dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1949-07-20 : DOSES ET CONCENTRATIONS DES PREPARATIONS DESTINEES A LA MEDECINE VETERINAIRE
+	  - TXT_ASSOCIE: Arrêté 1957-01-22 : FORME, DOSES ET CONCENTRATIONS DES PREPARATIONS DESTINEES A LA MEDECINE HUMAINE
+	  - SPEC_APPLI: Code de la santé publique - art. R5172 (M)
+	  - SPEC_APPLI: Code de la santé publique - art. R5197 (M)
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-67 (V)
+	  - Code de la santé publique - art. R5132-68 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5169 (M)
+	  - Code de la santé publique - art. R5200 (M)
+	  - Code de la santé publique - art. R5201 (M)
+	  - Code de la santé publique - art. R5205 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5171 (M)
+	  - Code de la santé publique - art. R5181 (M)
+	  - Code de la santé publique - art. R5187 (M)
+	  - Code de la santé publique - art. R5190 (M)
+	  - Code de la santé publique - art. R5195 (M)
+	  - Code de la santé publique - art. R5204 (M)
+	  - Code de la santé publique - art. R5210 (M)
+
+
+###### Article R5171
+
+Les substances vénéneuses visées à la présente section et les préparations qui les contiennent ne peuvent être délivrées sous
+une forme quelconque :
+
+1° Pour l'usage de la médecine humaine, que par les pharmaciens ou par les médecins légalement autorisés à fournir des
+médicaments à leurs clients [*autorités compétentes*] ;
+
+2° Pour l'usage de la médecine vétérinaire, que par les pharmaciens et par les docteurs vétérinaires ainsi que, dans les
+conditions définies au deuxième alinéa de l'article L. 612, par les groupements agréés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°77-635 1977-06-10 ART. 2 JORF 23 juin 1977
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1990 - art. 1 (V)
+	  - Arrêté du 15 janvier 2004 - art. 2 (Ab)
+	  - Arrêté du 30 juillet 2004 - art. 2 (VT)
+	  - Code de la santé publique - art. R5146-25 (Ab)
+	  - Code de la santé publique - art. R5170 (M)
+	  - Code de la santé publique - art. R5172 (Ab)
+	  - Code de la santé publique - art. R5176 (Ab)
+	  - Code de la santé publique - art. R5178 (Ab)
+	  - Code de la santé publique - art. R5183 (Ab)
+	  - Code de la santé publique - art. R5209 (Ab)
+	  - Code de la santé publique - art. R5210 (Ab)
+	  - Code de la santé publique - art. R5217 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L612 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-74 (V)
+	  - Code de la santé publique - art. R5132-75 (V)
+	  - Code de la santé publique - art. R5132-76 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5172
+
+Les médecins et les vétérinaires diplômés peuvent se faire délivrer sur demandes rédigées conformément aux dispositions des
+articles R. 5179, R. 5185, R. 5201, les substances visées à la présente section et destinées à être employées par eux, soit
+dans les cas d'urgence, soit pour des opérations ou des pansements.
+
+Ces médicaments doivent être employés par les praticiens eux-mêmes : il leur est interdit de les céder à leurs clients à
+titre onéreux ou gratuit.
+
+Ces substances ne peuvent être délivrées que sous la forme pharmaceutique compatible avec leur emploi médical, et doivent
+être détenues dans les conditions fixées par le présent code.
+
+Un arrêté du ministre de la Santé publique et de la Population énumère les substances vénéneuses que les pharmaciens peuvent
+délivrer aux chirurgiens dentistes et aux sages-femmes pour leur usage professionnel et fixe les conditions de délivrance et
+d'utilisation de ces substances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 10 octobre 1989
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-77 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5179 (M)
+	  - Code de la santé publique - art. R5201 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5183 (Ab)
+	  - Code de la santé publique - art. R5185 (Ab)
+	  - Code de la santé publique - art. R5209 (Ab)
+
+
+###### Article R5173
+
+Les pharmaciens ne peuvent délivrer les substances vénéneuses et les préparations qui les contiennent pour l'usage de la
+médecine humaine ou vétérinaire, que sur la prescription d'un médecin ou d'un vétérinaire [*condition*].
+
+Toutefois, ils peuvent délivrer sur la prescription d'un chirurgien dentiste ou d'une sage-femme diplômée celles desdites
+substances dont la liste est fixée par arrêté du ministre de la Santé publique et de la Population.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 10 octobre 1989
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Cité par**:
+
+	  - Arrêté du 15 janvier 2004 - art. 2 (Ab)
+	  - Arrêté du 30 juillet 2004 - art. 2 (VT)
+	  - Code de la santé publique - art. R5142-19 (Ab)
+	  - Code de la santé publique - art. R5172 (M)
+	  - Code de la santé publique - art. R5209 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-78 (V)
+
+
+###### Article R5174
+
+Les médecins et vétérinaires autorisés à délivrer des médicaments sont soumis aux obligations imposées aux pharmaciens par la
+présente section.
+
+Toutefois les dispositions de l'article R. 5177 [*relatives aux ordonnances*] ne sont pas applicables aux docteurs
+vétérinaires lorsqu'ils délivrent, dans les conditions prévues au dernier alinéa de l'article R. 5146-52, des médicaments
+relevant des tableaux A et C des substances vénéneuses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°77-635 1977-06-10 ART. 3 JORF 23 juin 1977
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1990 - art. 1 (V)
+	  - Code de la santé publique - art. R5176 (Ab)
+	  - Code de la santé publique - art. R5188 (Ab)
+	  - Code de la santé publique - art. R5209 (Ab)
+	  - Code de la santé publique - art. R5210 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-79 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5146-52 (M)
+	  - Code de la santé publique - art. R5177 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5175
+
+Il est interdit d'employer pour la détention, la vente, ou le transport de ces substances et des préparations qui les
+contiennent, des récipients habituellement utilisés pour contenir des aliments destinés aux humains et aux animaux.
+
+Les récipients ayant contenu lesdites substances ne peuvent plus être utilisés pour l'alimentation des humains et des
+animaux, ni pour la délivrance de médicaments destinés à être absorbés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5089-10 (Ab)
+	  - Code de la santé publique - art. R5209 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-80 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5176
+
+Les établissements visés à l'article L. 577 sont soumis aux dispositions de la présente section, lorsqu'ils ont un
+pharmacien-gérant.
+
+Ceux de ces établissements qui n'ont pas de pharmacien-gérant ne peuvent détenir ces substances, ni les préparations qui les
+contiennent ; toutefois, ils sont autorisés à détenir dans une armoire fermée à clef des préparations comportant des
+substances vénéneuses pour soins urgents à condition qu'un médecin accepte la responsabilité de ce dépôt.
+
+Le contenu maximum de cette armoire d'urgence est fixé qualitativement et quantitativement par le directeur départemental de
+la santé, après avis du conseil départemental de l'Ordre des médecins.
+
+Le réapprovisionnement de ces armoires est effectué sur ordonnances rédigées, conformément aux dispositions des articles R.
+5179, R. 5185 et R. 5201 au moment de l'utilisation de ces médicaments.
+
+Un arrêté du ministre de la Santé publique et de la Population fixe les conditions dans lesquelles les préparations
+renfermant des substances vénéneuses sont délivrées dans les établissements hospitaliers.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1949-01-18 : DELIVRANCE DE CES SUBSTANCES AUX ETABLISSEMENTS HOSPITALIERS
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1990 - art. 1 (V)
+	  - Code de la santé publique - art. R5177 (Ab)
+	  - Code de la santé publique - art. R5209 (Ab)
+	  - Code de la santé publique - art. R5210 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L577 (Ab)
+	  - Code de la santé publique - art. R5179 (M)
+	  - Code de la santé publique - art. R5185 (M)
+	  - Code de la santé publique - art. R5201 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-81 (V)
+
+
+###### Article R5177
+
+Les praticiens habilités à exécuter les ordonnances prescrivant ces substances et les préparations qui les contiennent,
+doivent transcrire de suite lesdites ordonnances sur un livre-registre d'ordonnances coté et paraphé par le maire ou par le
+commissaire de police, sans blanc, rature ni surcharge [*obligation*].
+
+Ces transcriptions doivent comporter un numéro d'ordre, le nom du prescripteur, les nom et adresse du client, la date à
+laquelle le médicament a été délivré et sa composition [*mentions obligatoires*].
+
+Les pharmaciens sont autorisés à transcrire dans les mêmes conditions, sur ledit registre, les ordonnances médicales qui ne
+comportent pas de substances vénéneuses.
+
+Ce registre est conservé pendant une durée de dix années au moins.
+
+Ces prescriptions ne sont pas applicables à la délivrance, dans les centres de planification ou d'éducation familiale agréés,
+des médicaments ou produits contraceptifs aux mineurs désirant garder le secret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°75-317 1975-05-05 art. 2 JORF 6 mai 1975
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-82 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5174 (M)
+	  - Code de la santé publique - art. R5209 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+##### PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT.
+
+###### Article R5178
+
+Les substances inscrites au tableau C et leurs dilutions, à l'exception des médicaments spécialisés, doivent être conservées
+dans un endroit où n'ont pas accès les personnes étrangères à l'établissement.
+
+Les récipients contenant lesdites substances doivent comporter le nom des substances tel qu'il figure au tableau C.
+
+Cette inscription doit être faite en caractères noirs très apparents sur une étiquette verte [*couleur*] fixée de telle sorte
+qu'elle ne puisse pas être involontairement détachée.
+
+Elle doit être accompagnée de la mention "DANGEREUX" inscrite en caractères noirs très apparents sur une bande de couleur
+verte, faisant le tour de l'enveloppe ou du récipient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 5 (Ab)
+	  - Arrêté du 21 décembre 1990 - art. 5 (V)
+	  - Code de la santé publique - art. R5209 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-83 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5179
+
+L'auteur de la prescription est tenu de la dater, de la signer, de mentionner lisiblement son nom et son adresse ainsi que le
+mode d'administration du médicament.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 10 septembre 1992
+	  - TXT_SOURCE: Arrêté du 10 septembre 1992 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 10 mai 1996
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-84 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5172 (M)
+	  - Code de la santé publique - art. R5176 (M)
+	  - Code de la santé publique - art. R5229-3 (Ab)
+
+
+###### Article R5180
+
+Après exécution de la prescription, l'ordonnance doit être rendue au client revêtue du timbre de l'officine où elle a été
+exécutée et comporter le numéro sous lequel la prescription est inscrite à l'ordonnancier et la date de la dernière
+délivrance [*mentions obligatoires*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-85 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5229-3 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5181
+
+Les préparations magistrales contenant des substances du tableau C doivent porter sur une étiquette le nom et l'adresse du
+pharmacien, le numéro d'inscription à l'ordonnancier et le mode d'emploi du médicament [*mentions obligatoires*].
+
+Si le médicament est destiné à la médecine humaine et à être administré par les voies : orale, perlinguale, rectale,
+vaginale, urétrale ou transcutanée, cette étiquette est blanche [*couleur*] et la préparation reçoit en outre une contre-
+étiquette portant imprimée en noir sur fond rouge orangé la mention "Ne pas dépasser la dose prescrite".
+
+Dans les autres cas, l'étiquette est rouge orangé avec la mention "Ne pas avaler" imprimée en noir. Elle peut comporter un
+espace blanc suffisant pour permettre l'inscription du mode d'emploi du médicament.
+
+Les médicaments spécialisés contenant une ou plusieurs substances inscrites au tableau C doivent en outre comporter sur les
+étiquettes intérieure et extérieure le nom de la substance tel qu'il figure au tableau C et sa concentration, la quantité
+contenue dans le récipient et, sur l'emballage extérieur, un espace blanc encadré d'un filet vert, dans lequel le pharmacien
+détaillant doit inscrire son nom, son adresse, le numéro d'inscription à l'ordonnancier et le mode d'emploi indiqué par
+l'auteur de la prescription.
+
+Si le médicament est destiné à la médecine vétérinaire, la préparation reçoit en outre, dans tous les cas, une étiquette
+portant imprimée en noir sur fond rouge orangé la mention "Usage vétérinaire".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 22 août 1990
+	  - TXT_SOURCE: Arrêté du 22 août 1990 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 22 août 1990 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 22 août 1990 - art. ANNEXE (V)
+	  - TXT_SOURCE: Arrêté du 27 mai 1997
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Cité par**:
+
+	  - Arrêté du 22 août 1990 - art. 1 (V)
+	  - Code de la santé publique - art. R5093 (M)
+	  - Code de la santé publique - art. R5123 (M)
+	  - Code de la santé publique - art. R5170 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-86 (V)
+
+
+###### Article R5182
+
+Les prescriptions comportant des substances du tableau C sont renouvelables, sauf indications contraires de l'auteur de la
+prescription, après un délai déterminé par le mode d'emploi du médicament.
+
+Les renouvellements d'une ordonnance doivent être mentionnés sur le registre sous un nouveau numéro d'ordre. Cette
+inscription peut consister en la seule indication du numéro sous lequel l'ordonnance a été primitivement inscrite.
+
+Mention de la date et du numéro du renouvellement doit être faite sur l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 7 août 1991 - art. 1 (V)
+	  - Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
+	  - Code de la santé publique - art. R5089-15 (Ab)
+	  - Code de la santé publique - art. R5151 (M)
+	  - Code de la santé publique - art. R5189 (Ab)
+	  - Code de la santé publique - art. R5192 (M)
+	  - Code de la santé publique - art. R5208 (M)
+	  - Code de la santé publique - art. R5218-2 (Ab)
+	  - Code de la santé publique - art. R5219-1 (M)
+	  - Code de la santé publique - art. R5229-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-87 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+##### PARAGRAPHE 3 : REGIME DES SUBSTANCES TOXIQUES (TABLEAU A) ET DES PREPARATIONS QUI LES CONTIENNENT.
+
+###### Article R5183
+
+Les substances inscrites au tableau A et leurs dilutions, à l'exception des médicaments spécialisés et des plantes
+médicinales, doivent être détenues dans des armoires ou des locaux fermés à clef [*lieu*].
+
+Il est interdit de détenir dans ces armoires ou locaux d'autres substances que celles mentionnées aux tableaux A et B.
+
+Les récipients contenant des substances du tableau A et leurs dilutions doivent comporter le nom des substances tel qu'il
+figure au tableau A.
+
+Cette inscription doit être faite en caractères noirs très apparents sur une étiquette rouge orangé [*couleur*] fixée de
+telle sorte qu'elle ne puisse pas être involontairement détachée.
+
+L'inscription ci-dessus doit être accompagnée de la mention "POISON" inscrite en caractères noirs très apparents sur une
+bande de couleur rouge orangé faisant le tour de l'enveloppe ou du récipient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-88 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5146-25 (Ab)
+	  - Code de la santé publique - art. R5184 (Ab)
+	  - Code de la santé publique - art. R5185 (Ab)
+	  - Code de la santé publique - art. R5187 (Ab)
+	  - Code de la santé publique - art. R5187-1 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5184
+
+Par dérogation aux dispositions de l'article R. 5155, n'est pas obligatoire l'inscription sur un registre des ventes de
+médicaments spécialisés renfermant des substances du tableau A aux praticiens habilités à les détenir.
+
+Ces ventes ne peuvent être réalisées que sur la fourniture d'une commande ou d'un reçu daté et signé par l'acheteur. Ces
+commandes ou reçus sont conservés pendant trois ans [*durée*] par les vendeurs qui doivent les présenter, classés par
+clients, à toute réquisition de l'autorité compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-89 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5155 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5185
+
+L'auteur de la prescription est tenu, sous les sanctions prévues aux articles L. 626 et L. 630, de la dater, de la signer, de
+mentionner lisiblement son nom et son adresse, ainsi que le mode d'emploi du médicament.
+
+S'il s'agit d'une préparation magistrale, il indique en toutes lettres les doses de substances du tableau A prescrites et
+éventuellement le nombre d'unités thérapeutiques.
+
+S'il s'agit d'un médicament spécialisé, il indique en toutes lettres le nombre d'unités thérapeutiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L626 (M)
+	  - Code de la santé publique - art. L630 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-90 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5172 (M)
+	  - Code de la santé publique - art. R5176 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5186
+
+Après l'exécution de la prescription, l'ordonnance doit être rendue au client revêtue du timbre de l'officine où elle a été
+exécutée : elle comportera également le numéro sous lequel la prescription est inscrite à l'ordonnancier, la date de la
+délivrance et éventuellement la mention "Renouvellement interdit".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-91 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5142-19 (Ab)
+	  - Code de la santé publique - art. R5219 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5187
+
+Les préparations magistrales contenant des substances du tableau A doivent porter sur une étiquette le nom et l'adresse du
+pharmacien, le numéro d'inscription à l'ordonnancier et le mode d'emploi du médicament.
+
+Si le médicament est destiné à la médecine humaine et à être administré par les voies : orale, perlinguale, rectale,
+vaginale, urétrale ou transcutanée, cette étiquette est blanche [*couleur*] et la préparation reçoit en outre une contre-
+étiquette portant imprimée en noir sur fond rouge orangé la mention "Ne pas dépasser la dose prescrite".
+
+Dans les autres cas, l'étiquette est rouge orangé avec la mention "Ne pas avaler" imprimée en noir. Elle peut comporter un
+espace blanc suffisant pour permettre l'inscription du mode d'emploi du médicament.
+
+Les médicaments spécialisés contenant une ou plusieurs [*substances*] du tableau A doivent en outre comporter sur les
+étiquettes extérieure et intérieure le nom de la substance tel qu'il figure au tableau A, sa concentration en toutes lettres,
+la quantité contenue dans le récipient, et, sur l'emballage extérieur, un espace blanc encadré d'un filet rouge orangé dans
+lequel le pharmacien détaillant doit inscrire son nom, son adresse, le numéro d'inscription à l'ordonnancier et le mode
+d'emploi indiqué par l'auteur de la prescription.
+
+Si la spécialité contient en outre des substances inscrites au tableau C, l'encadrement doit comporter seulement le filet
+rouge prévu pour le tableau A.
+
+Si le médicament est destiné à la médecine vétérinaire, la préparation reçoit en outre, et dans tous les cas, une étiquette
+portant imprimée en noir sur fond rouge orangé la mention "Usage vétérinaire".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5093 (M)
+	  - Code de la santé publique - art. R5123 (M)
+	  - Code de la santé publique - art. R5170 (M)
+	  - Code de la santé publique - art. R5186 (Ab)
+	  - Code de la santé publique - art. R5219 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-93 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5188
+
+A l'exception des médicaments destinés à être appliqués sur la peau, les préparations contenant des substances du tableau A
+ne peuvent être renouvelées que sur indications écrites du prescripteur [*condition*].
+
+Dans ce cas le renouvellement ne peut être exécuté qu'après le délai déterminé par le mode d'emploi du médicament indiqué par
+l'auteur de la prescription.
+
+Les renouvellements d'une même ordonnance doivent être mentionnés sur le registre, sous un nouveau numéro d'ordre.
+
+Cette inscription peut consister en la seule indication du numéro sous lequel l'ordonnance a été primitivement inscrite.
+
+Mention de la date et du numéro du renouvellement doit être faite sur l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-95 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+##### PARAGRAPHE 4 : REGIME DES STUPEFIANTS (TABLEAU B) ET DES PREPARATIONS QUI LES CONTIENNENT.
+
+###### Article R5189
+
+Les substances du tableau B et les préparations qui les contiennent sont soumises à deux régimes distincts selon que les
+opérations qui les concernent sont effectuées en dehors ou dans une officine définie à l'article L. 568.
+
+Partie ou totalité des dispositions du présent paragraphe pourront être appliquées à des substances et éventuellement aux
+préparations les contenant, qui, bien que ne figurant pas au tableau B, sont fabriquées à partir de stupéfiants, ou donnent
+lieu à la formation de stupéfiants au cours de leur fabrication, ou en raison d'usages abusifs peuvent nécessiter un contrôle
+à certains stades de leur commercialisation.
+
+Le ministre de la Santé publique et de la Population fixe par arrêté pour chacune de ces substances les dispositions du
+présent paragraphe qui leur sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 7 août 1991 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L568 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5182 (Ab)
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+##### 1 : OPERATIONS EFFECTUEES EN DEHORS D'UNE OFFICINE DE PHARMACIE.
+
+###### Article R5190
+
+L'autorisation prévue à l'article R. 5165 ci-dessus est donnée par le ministre de la Santé publique et de la Population, sur
+l'avis conforme d'une commission dont la composition est fixée par un arrêté du ministre de la Santé publique et de la
+Population.
+
+L'autorisation ne peut être délivrée qu'à une personne physique ; elle est strictement attachée à la personne ; elle indique
+nommément chacune des substances ou préparations dont l'extraction, la transformation, la fabrication ou le commerce est
+autorisé.
+
+En ce qui concerne les industriels qui extraient les alcaloïdes de l'opium, du pavot et de la coca, et les industriels qui
+effectuent la synthèse de substances inscrites au tableau B, un arrêté du ministre de la Santé publique et de la Population
+fixe les conditions particulières de contrôle de ces industries.
+
+L'autorisation est retirée par le ministre de la Santé publique et de la Population après avis de la commission ci-dessus
+prévue. Elle ne peut être accordée, et sera retirée, à quiconque aura été condamné pour trafic illicite de stupéfiants
+[*sanction*].
+
+En cas de changement de domicile industriel et commercial, le titulaire en fait la déclaration au ministre de la Santé
+publique et de la Population avant l'ouverture du nouvel établissement, faute de quoi l'autorisation pourra lui être retirée.
+
+En cas de cessation de fabrication ou de commerce, le titulaire en informe le ministre de la Santé publique et de la
+Population, qui doit alors prononcer le retrait de l'autorisation.
+
+Sans préjudice des dispositions de l'article R. 5166, il est interdit à quiconque n'y a pas été autorisé conformément aux
+dispositions du présent article ou de l'article R. 5197, de détenir, d'acheter ou de se faire délivrer ces substances
+autrement que sur ordonnance de tout praticien habilité par les règlements en la matière à les prescrire pour les seuls
+usages thérapeutiques et dans les conditions spéciales fixées au présent code.
+
+Par dérogation aux dispositions de l'article R. 5198, les dispositions du présent article sont applicables à la
+méthylmorphine et ses sels, à l'éthylmorphine et ses sels, et à la pholcodine et ses sels.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1978-03-30 JORF NC 4 AVRIL : COMPOSITION DE LA COMMISSION INTERMINISTERIELLE DES STUPEFIANTS
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5198 (M)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1990 - art. 1 (V)
+	  - Arrêté du 21 décembre 1990 - art. 3 (V)
+	  - Code de la santé publique - art. R5104-106 (Ab)
+	  - Code de la santé publique - art. R5104-108 (Ab)
+	  - Code de la santé publique - art. R5170 (M)
+	  - Code de la santé publique - art. R5192 (Ab)
+	  - Code de la santé publique - art. R5195 (M)
+	  - Code de la santé publique - art. R5196 (Ab)
+	  - Code de la santé publique - art. R5197 (Ab)
+	  - Code de la santé publique - art. R5199 (M)
+	  - Code de la santé publique - art. R5204 (Ab)
+	  - Code de la santé publique - art. R5209 (Ab)
+	  - Code de la santé publique - art. R5229 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5165 (M)
+	  - Code de la santé publique - art. R5166 (M)
+	  - Code de la santé publique - art. R5198 (M)
+
+
+###### Article R5191
+
+Il est interdit d'importer ou d'exporter, de mettre en entrepôt de douane, ou en dépôt en douane, ou de sortir d'entrepôt ou
+de dépôt, des substances classées dans le tableau B, sans une autorisation spéciale délivrée pour chaque opération dans les
+conditions fixées par le décret du 12 décembre 1928 modifié par le décret du 10 septembre 1930 portant organisation des
+importations et exportations des produits et préparations visés par la convention internationale sur les stupéfiants, signée
+à Genève le 19 février 1925.
+
+Les importateurs sont tenus de prendre au bureau de douane par lequel doit avoir lieu l'introduction un acquit-à-caution
+indiquant la quantité importée de chacune desdites substances, ainsi que les nom et adresse du destinataire [*mentions*].
+
+La délivrance de cet acquit-à-caution est subordonnée à la production de l'autorisation d'importer ou de sortir d'entrepôt ou
+de dépôt pour la consommation en France prévue au premier alinéa du présent article. Cet acquit-à-caution doit être envoyé au
+bureau de douane d'émission, dans le délai d'un mois à dater de sa délivrance, revêtu d'un certificat de décharge de
+l'autorité municipale du lieu de résidence du destinataire.
+
+Les exportateurs sont tenus, pour toute expédition hors de la métropole, de prendre au bureau de douane d'exportation un
+certificat de sortie.
+
+Ce certificat doit indiquer la nature et la quantité de la drogue simple exportée et, dans le cas d'une préparation, la
+nature de la préparation exportée ainsi que le nom et la quantité de la ou des drogues simples du tableau B qu'elle renferme
+[*mentions*].
+
+Les certificats de sortie doivent être conservés pendant trois ans [*durée*] par le vendeur pour être représentés à toute
+réquisition de l'autorité compétente.
+
+Il est interdit d'insérer dans les plis ou paquets transportés par la poste l'une quelconque des substances ou préparations
+inscrites au tableau B. Toutefois, l'interdiction ne s'applique pas aux envois de l'espèce effectués dans un but médical pour
+les pays qui les admettent à cette condition. Dans ce cas, les envois ne peuvent être faits que sous forme de "boîtes avec
+valeur déclarée", conformément aux dispositions du décret modifié du 12 décembre 1928.
+
+Sauf arrangement contraire entre pays intéressés, il est interdit d'insérer dans les colis postaux l'une quelconque des
+substances ou préparations inscrites au tableau B.
+
+Toutefois cette interdiction ne s'applique pas aux envois de cette nature effectués dans un but médical à destination des
+pays qui les admettent, à cette condition.
+
+Par dérogation aux dispositions de l'article R. 5198, les dispositions du présent article sont applicables à la
+méthylmorphine et ses sels, à l'éthylmorphine et ses sels, et à la pholcodine et ses sels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-20 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5198 (M)
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5198 (M)
+	  - Convention 1925-02-19 GENEVE
+	  - Décret n°1928-12-12
+	  - Décret n°1930-09-10
+
+
+###### Article R5192
+
+Les substances du tableau B ne peuvent être détenues en vue de la vente, circuler, être importées ou exportées que si les
+enveloppes ou récipients qui les renferment directement sont revêtus d'une étiquette rouge orangé [*couleur*], fixée de telle
+sorte qu'elle ne puisse pas être involontairement détachée ; cette étiquette porte, outre le nom de la substance contenue,
+tel qu'il figure au tableau B, les poids brut et net, le nom et l'adresse du vendeur ainsi qu'un numéro de référence pour
+chaque enveloppe ou récipient [*mentions*].
+
+L'inscription ci-dessus doit être accompagnée de la mention "POISON" inscrite en caractères apparents sur une bande de
+couleur rouge orangé, faisant le tour de l'enveloppe ou du récipient.
+
+Le détenteur de substances classées au tableau B doit les conserver dans des armoires ou locaux fermés à clef. Ces armoires
+ou locaux ne peuvent pas contenir d'autres substances que celles qui figurent aux tableaux A et B. Toute quantité trouvée en
+dehors desdites armoires ou locaux sera saisie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 6 septembre 1989
+	  - TXT_SOURCE: Arrêté du 6 septembre 1989 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 6 septembre 1989 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 6 septembre 1989 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 6 septembre 1989 - art. 4 (V)
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Cité par**:
+
+	  - Arrêté du 6 septembre 1989 - art. 1 (V)
+	  - Arrêté du 21 décembre 1990 - art. 3 (V)
+	  - Arrêté du 13 février 1991 - art. 1 (V)
+	  - Code de la santé publique - art. R5187 (Ab)
+	  - Code de la santé publique - art. R5193 (M)
+	  - Code de la santé publique - art. R5194 (M)
+	  - Code de la santé publique - art. R5217 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-2 (V)
+
+
+###### Article R5193
+
+Les substances du tableau B et les préparations qui les contiennent ne peuvent circuler que si les récipients qui les
+renferment directement sont revêtus des étiquettes prévues aux articles R. 5192 et R. 5204 [*condition*].
+
+Les enveloppes extérieures des colis d'expédition ne doivent comporter aucune autre indication que les noms et adresses de
+l'expéditeur et du destinataire [*mentions*].
+
+Elles devront être cachetées à la marque de l'expéditeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5104-107 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5192 (M)
+	  - Code de la santé publique - art. R5204 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5194
+
+Tout achat ou toute cession, même à titre gratuit, des substances du tableau B doit être inscrit sur un registre spécial coté
+et paraphé par le maire ou le commissaire de police [*autorités compétentes*].
+
+L'autorité qui vise ce registre spécial doit se faire présenter l'autorisation délivrée à l'intéressé. Elle mentionne, sur la
+première page dudit registre, la date à laquelle cette autorisation a été donnée.
+
+L'inscription sur le registre de chacune de ces opérations reçoit un numéro d'ordre qui peut s'appliquer à tous les produits
+contenus dans une même réception ou livraison. Elle doit être faite sans aucun blanc, rature, ni surcharge, au moment même de
+la réception ou de la livraison.
+
+Elle indique les nom, profession et adresse soit de l'acheteur, soit du vendeur, ainsi que la quantité du produit avec le nom
+sous lequel il est inscrit au tableau B et le numéro de référence prévu à l'article R. 5192. Pour les préparations, les mêmes
+indications sont inscrites ainsi que la quantité de la ou des drogues simples du tableau B qui y sont contenues.
+
+Pour l'achat ou la réception, le numéro de référence donné par le vendeur au produit livré est en outre mentionné sur le
+registre.
+
+Dans le cas de revente d'un produit ou d'une préparation dans un emballage revêtu d'un cachet d'origine, le ou les numéros de
+référence portés sur l'étiquette d'origine sont mentionnés sur le registre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1990 - art. 1 (Ab)
+	  - Arrêté du 8 décembre 1994 - art. 1 (Ab)
+	  - Arrêté du 31 mars 1999 - art. 1 (M)
+	  - Arrêté du 31 mars 1999 - art. 3 (V)
+	  - Arrêté du 31 mars 1999 - art. 4 (V)
+	  - Décret n°99-249 du 31 mars 1999 - art. 8 (Ab)
+	  - Décret n°2001-360 du 24 avril 2001 - art. 1 (Ab)
+	  - Décret n°2002-1471 du 17 décembre 2002 - art. 1 (Ab)
+	  - Code de la santé publique - art. R152-10-13 (Ab)
+	  - Code de la santé publique - art. R2212-16 (V)
+	  - Code de la santé publique - art. R5000-1 (Ab)
+	  - Code de la santé publique - art. R5115-1 (Ab)
+	  - Code de la santé publique - art. R5143-5-11 (Ab)
+	  - Code de la santé publique - art. R5148 bis (Ab)
+	  - Code de la santé publique - art. R5195 (M)
+	  - Code de la santé publique - art. R5196 (M)
+	  - Code de la santé publique - art. R5203 (M)
+	  - Code de la santé publique - art. R5212 (Ab)
+	  - Code de la santé publique - art. R5215 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 31 mars 1999
+	  - TXT_SOURCE: Arrêté du 31 mars 1999 - art. 1 (M)
+	  - TXT_SOURCE: Arrêté du 31 mars 1999 - art. 2 (M)
+	  - TXT_SOURCE: Arrêté du 31 mars 1999 - art. ANNEXE (M)
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-3 (V)
+	  - Code de la santé publique - art. R5132-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5192 (M)
+
+
+###### Article R5195
+
+Les industriels qui fabriquent ou transforment des substances du tableau B sont tenus, après avoir indiqué ces opérations sur
+le registre spécial prévu à l'article R. 5194, d'inscrire à la suite de la quantité et de la nature de la matière première
+employée, la quantité et la nature du ou des produits obtenus.
+
+Les pharmaciens d'officine qui, en raison de leur activité sont titulaires de l'autorisation prévue aux articles R. 5165 et
+R. 5190 sont tenus aux mêmes obligations pour les produits qui ne sont pas destinés à être délivrés exclusivement dans leur
+officine.
+
+Décharge de la différence est donnée sur ce registre par les inspecteurs visés à l'article L. 557 si le déficit constaté leur
+paraît résulter normalement des transformations ou manipulations déclarées.
+
+Les industriels et les pharmaciens visés au présent article sont tenus d'adresser au plus tard, le 1er février, le 1er mai,
+le 1er août et le 1er novembre [*dates limites*], au service central de la pharmacie (bureau des stupéfiants) un état
+trimestriel indiquant pour chaque substance inscrite au tableau B : les quantités reçues, utilisées pour la fabrication,
+fabriquées et vendues au cours du trimestre précédent [*mentions*].
+
+Un état des stocks disponibles au 31 décembre de l'année précédente des substances stupéfiantes (drogues simples ou
+préparations) ainsi que des stocks de produits de transformation disponibles à la même date, doit être joint à l'état
+trimestriel qui est adressé avant le 1er février.
+
+Les établissements qui se livrent au commerce de ces produits (droguistes-répartiteurs) sont tenus d'adresser [*obligation*]
+avant le 1er février, au bureau des stupéfiants, un état comportant pour chaque produit les quantités entrées et vendues
+pendant l'année précédente et les quantités restant en stock au 31 décembre.
+
+Par dérogation aux dispositions de l'article R. 5198 les dispositions du présent article sont applicables à la méthylmorphine
+et ses sels, à l'éthylmorphine et ses sels, et à la pholcodine et ses sels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L557 (M)
+	  - Code de la santé publique - art. R5165 (M)
+	  - Code de la santé publique - art. R5190 (M)
+	  - Code de la santé publique - art. R5194 (M)
+	  - Code de la santé publique - art. R5198 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-7 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5170 (M)
+	  - Code de la santé publique - art. R5196 (M)
+
+
+###### Article R5196
+
+Le registre prévu aux articles R. 5194 et R. 5195 doit être conservé pendant dix années [*durée*] pour être représenté à
+toute réquisition de l'autorité compétente.
+
+Le vendeur n'est déchargé des quantités reçues que dans la mesure, soit des ventes par lui effectuées et inscrites audit
+registre, soit de la décharge donnée dans les conditions de l'article précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-19 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5194 (M)
+	  - Code de la santé publique - art. R5195 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5197
+
+Exception faite pour la délivrance en vue des usages thérapeutiques et sur ordonnances des praticiens habilités à les
+prescrire, il est interdit de vendre ou de délivrer lesdites substances à quiconque ne justifie pas qu'il a satisfait aux
+conditions de l'article R. 5190.
+
+Lesdites substances ne peuvent être délivrées que sur demandes rédigées conformément aux dispositions de l'article R. 5199.
+
+Par dérogation aux dispositions ci-dessus :
+
+1° Les fabricants de médicaments spécialisés contenant des substances du tableau B sont autorisés conformément à l'article L.
+551 à délivrer aux médecins et aux vétérinaires des échantillons médicaux, contre remise d'un reçu daté et signé par le
+médecin ou le vétérinaire, dans les limites et selon les règles fixées par arrêté du ministre de la Santé publique et de la
+Population ;
+
+2° Les laboratoires de recherches peuvent se procurer lesdites substances sur autorisation du ministre de la Santé publique
+et de la Population fixant les quantités qu'ils sont autorisés à détenir et à utiliser.
+
+Les fabricants de médicaments spécialisés adressent trimestriellement [*périodicité*] au ministre de la Santé publique et de
+la Population, un relevé des délivrances d'échantillons médicaux effectués conformément aux dispositions ci-dessus prévues.
+
+Les dispositions des deux premiers alinéas du présent article sont applicables en cas de vente ou de cession desdites
+substances après saisie par l'autorité compétente ou à la requête des créanciers.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1955-09-15 : DELIVRANCE DES ECHANTILLONS
+	  - SPEC_APPLI: Code de la santé publique - art. R5170 (M)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L551 (M)
+	  - Code de la santé publique - art. R5199 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-17 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5189-1 (M)
+	  - Code de la santé publique - art. R5190 (M)
+
+
+###### Article R5198
+
+Les dispositions des articles R. 5189 à R. 5211 ne sont pas applicables aux préparations contenant des substances du tableau
+B, qui, en raison de la nature des substances médicamenteuses avec lesquelles ces stupéfiants sont associés et qui empêchent
+de les récupérer pratiquement, auront été reconnues par l'Organisation mondiale de la santé comme ne pouvant pas donner lieu
+à une toxicomanie.
+
+Un arrêté ministériel fixe celui des tableaux A ou C sur lequel ces préparations doivent être inscrites.
+
+Les dispositions de la présente section ne sont pas applicables à ceux des alcaloïdes de l'opium, leurs sels et leurs dérivés
+qui ne sont pas classés nommément dans le tableau B. Ces substances sont soumises aux dispositions du paragraphe 3 de la
+présente section et sont classées dans le tableau A.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 10 septembre 1992 - art. 9 (V)
+	  - Code de la santé publique - art. R5144-28 (Ab)
+	  - Code de la santé publique - art. R5144-33 (Ab)
+	  - Code de la santé publique - art. R5186 (Ab)
+	  - Code de la santé publique - art. R5190 (M)
+	  - Code de la santé publique - art. R5191 (M)
+	  - Code de la santé publique - art. R5195 (M)
+	  - Code de la santé publique - art. R5199 (Ab)
+	  - Code de la santé publique - art. R5201 (Ab)
+	  - Code de la santé publique - art. R5214 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-10 (V)
+	  - Code de la santé publique - art. R5132-11 (V)
+	  - Code de la santé publique - art. R5132-12 (V)
+	  - Code de la santé publique - art. R5132-34 (Ab)
+	  - Code de la santé publique - art. R5132-9 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5190 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5191 (M)
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+	  - TXT_ASSOCIE: Code de la santé publique R5190, R5191, R5195 : DEROGATION
+
+	**Cite**:
+
+	  - Code de la santé publique R5189 à R5211
+
+
+##### 2 : OPERATIONS EFFECTUEES DANS UNE OFFICINE DE PHARMACIE.
+
+###### Article R5199
+
+Le dépôt pour visa de son diplôme tient lieu d'autorisation pour le pharmacien d'officine, mais seulement pour la préparation
+et la délivrance dans son officine des médicaments contenant lesdites substances.
+
+Les achats de substances du tableau B par un pharmacien d'officine ne peuvent être effectués que dans un établissement
+métropolitain détenteur de l'autorisation prévue à l'article R. 5190 sur remise par le pharmacien de deux volets foliotés,
+extraits d'un carnet à souches d'un modèle déterminé pour tout le territoire par le ministre de la Santé publique et de la
+Population. La charge de l'impression et de la répartition de ces carnets incombe à l'Ordre national des pharmaciens.
+
+L'un des volets porte le nom, l'adresse de l'acheteur, sa signature, la date de la demande et le timbre de l'établissement et
+mentionne en toutes lettres le nom du produit et la quantité demandée.
+
+Le second ne porte mention que des nom et adresse de l'acheteur et de la nature du médicament.
+
+Il est renvoyé par le vendeur à l'acheteur en indiquant :
+
+a) Le numéro de sortie à son registre ;
+
+b) Les quantités réellement livrées ;
+
+c) La date de la livraison, le timbre et la signature du vendeur.
+
+Les pièces sont conservées par les intéressés pendant trois ans [*durée*], pour être présentées à toute réquisition de
+l'autorité compétente.
+
+Les produits livrés portent le numéro d'inscription au registre du vendeur.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1948-11-21 JORF 14 JANVIER 1949 : MODELE DE CARNET A SOUCHES
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-13 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5190 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5197 (M)
+	  - Code de la santé publique - art. R5202 (Ab)
+	  - Code de la santé publique - art. R5211 (M)
+	  - Code de la santé publique - art. R5214 (Ab)
+
+
+###### Article R5200
+
+A l'exception des feuilles de coca, les substances du tableau B et les préparations qui les contiennent au-delà des doses
+d'exonération prévues à l'article R. 5170 doivent être détenues dans des armoires ou locaux fermés à clef [*lieu*].
+
+Il est interdit de détenir dans ces armoires ou locaux d'autres substances que celles mentionnées aux tableaux A et B.
+
+Les récipients contenant des substances inscrites au tableau B et leurs dilutions, doivent comporter le nom des substances
+tel qu'il figure au tableau B.
+
+Cette inscription doit être faite en caractères noirs très apparents sur une étiquette rouge orangé [*couleur*] fixée de
+telle sorte qu'elle ne puisse pas être involontairement détachée.
+
+Elle doit être accompagnée de la mention "POISON" inscrite en caractères noirs très apparents sur une bande de couleur rouge
+orangé, faisant le tour de l'enveloppe ou du récipient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-18 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5170 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5201 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5201
+
+Il est interdit de prescrire et d'exécuter des ordonnances comportant des substances en nature inscrites nommément au tableau
+B.
+
+Les substances du tableau B ne peuvent être délivrées que sous une forme compatible avec leur usage thérapeutique.
+
+A l'exception de celles prescrivant des liniments et pommades, les ordonnances prescrivant des préparations contenant des
+substances du tableau B à des doses dépassant les doses d'exonération prévues à l'article R. 5170 sont rédigées, après examen
+du malade, sur des feuilles extraites d'un carnet à souches d'un modèle déterminé par le ministre de la Santé publique et de
+la Population.
+
+La charge de l'impression et de la répartition de ces carnets incombe, chacun en ce qui le concerne, à l'Ordre national des
+médecins, à l'Ordre national des vétérinaires et à l'Ordre des chirurgiens dentistes.
+
+L'auteur de la prescription est tenu sous les sanctions prévues au chapitre I, du titre III, du livre V de la partie
+législative du présent code de la dater, de la signer, de mentionner lisiblement son nom et son adresse, le nom et l'adresse
+du bénéficiaire, le mode d'emploi du médicament.
+
+S'il s'agit d'une préparation magistrale, il indique en toutes lettres les doses des substances du tableau B prescrites et
+éventuellement le nombre d'unités thérapeutiques ; s'il s'agit d'un médicament spécialisé, il indique en toutes lettres le
+nombre d'unités thérapeutiques.
+
+Les souches des carnets doivent être conservées par les praticiens pendant trois ans [*durée*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1948-12-14 : MODELE DE CARNETS A SOUCHES
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 17 octobre 1983 - art. 3 (Ab)
+	  - Code de la santé publique - art. R5123 (M)
+	  - Code de la santé publique - art. R5172 (M)
+	  - Code de la santé publique - art. R5176 (M)
+	  - Code de la santé publique - art. R5201-1 (Ab)
+	  - Code de la santé publique - art. R5206 (M)
+	  - Code de la santé publique - art. R5207 (Ab)
+	  - Code de la santé publique - art. R5211 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-15 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5170 (M)
+
+
+###### Article R5202
+
+A l'exception de celles prescrivant des liniments et pommades, il est interdit de rédiger et d'exécuter des ordonnances
+prescrivant, pour une période supérieure à sept jours, des substances du tableau B.
+
+Il est interdit aux médecins de formuler, et aux pharmaciens d'exécuter ou renouveler, une prescription de substances du
+tableau B, pour un usager, au cours d'une période couverte par une prescription antérieure de substances du même tableau,
+sauf mention formelle portée sur l'ordonnance par le praticien prescripteur et faisant état de la prescription antérieure.
+
+Il est interdit à toute personne déjà pourvue d'une prescription comportant une ou plusieurs substances inscrites au tableau
+B, de recevoir pendant la période de traitement fixée par cette prescription une nouvelle ordonnance comportant des
+substances du tableau B, sans qu'elle ait informé de la ou des précédentes prescriptions le nouveau praticien.
+
+Ce dernier mentionne sur la nouvelle ordonnance qu'il a pris connaissance de la ou des copies des précédentes prescriptions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-14 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5202-1 (M)
+	  - Code de la santé publique - art. R5208 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+	  - TXT_ASSOCIE: Code de la santé publique R5202-1 : DEROGATION A LA PERIODE DE SEPT JOURS
+
+
+###### Article R5203
+
+Après exécution de la prescription, l'ordonnance doit être revêtue du timbre de l'officine où elle a été exécutée, comporter
+le numéro sous lequel la prescription est inscrite à l'ordonnancier et la date de la délivrance [*mentions*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1990 - art. 1 (Ab)
+	  - Arrêté du 31 mars 1999 - art. 22 (V)
+	  - Code de la santé publique - art. R5104-10 (Ab)
+	  - Code de la santé publique - art. R5104-106 (Ab)
+	  - Code de la santé publique - art. R5104-20 (Ab)
+	  - Code de la santé publique - art. R5144-23 (Ab)
+	  - Code de la santé publique - art. R5144-29 (Ab)
+	  - Code de la santé publique - art. R5144-30 (Ab)
+	  - Code de la santé publique - art. R5206 (M)
+	  - Code de la santé publique - art. R5215 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 9 août 1991
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 11 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 12 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 13 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 14 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 15 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 16 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 17 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 18 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 19 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 20 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 21 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 22 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 23 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 août 1991 - art. 9 (Ab)
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5126-113 (V)
+	  - Code de la santé publique - art. R5132-42 (V)
+
+
+###### Article R5204
+
+Les préparations magistrales contenant des substances du tableau B doivent porter sur une étiquette le nom, l'adresse du
+pharmacien, le numéro d'inscription à l'ordonnancier et le mode d'emploi du médicament.
+
+Si le médicament est destiné à la médecine humaine, et à être administré par les voies : orale, perlinguale, rectale,
+vaginale, urétrale ou transcutanée, cette étiquette est blanche et la préparation reçoit en outre une contre-étiquette
+portant imprimée en noir sur fond rouge orangé [*couleur*] la mention "Ne pas dépasser la dose prescrite".
+
+Dans les autres cas l'étiquette est rouge orangé avec la mention "Ne pas avaler" imprimée en noir. Elle peut comporter un
+espace blanc suffisant pour permettre l'inscription du mode d'emploi du médicament.
+
+Les médicaments spécialisés contenant une ou plusieurs substances du tableau B doivent en outre comporter, sur les étiquettes
+intérieure et extérieure, le nom de la substance tel qu'il figure au tableau B, sa concentration en toutes lettres, la
+quantité contenue dans le récipient et, sur l'emballage extérieur, un espace blanc encadré d'un double filet rouge orangé,
+dans lequel le pharmacien détaillant doit inscrire son nom, son adresse, le numéro d'inscription à l'ordonnancier et le mode
+d'emploi indiqué par l'auteur de la prescription.
+
+Si la spécialité comprend en outre des substances inscrites à d'autres tableaux, seul doit figurer le double filet rouge
+orangé.
+
+Si le médicament est destiné à la médecine vétérinaire, la préparation reçoit en outre, dans tous les cas, une étiquette
+portant, imprimée en noir sur fond rouge orangé, la mention "Usage vétérinaire".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 21 décembre 1990 - art. 2 (V)
+	  - Arrêté du 24 avril 2012 (V)
+	  - Arrêté du 8 août 2012 (V)
+	  - Code de la santé publique - art. R5093 (M)
+	  - Code de la santé publique - art. R5123 (M)
+	  - Code de la santé publique - art. R5135 (Ab)
+	  - Code de la santé publique - art. R5149 (Ab)
+	  - Code de la santé publique - art. R5170 (M)
+	  - Code de la santé publique - art. R5190 (Ab)
+	  - Code de la santé publique - art. R5193 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5132-6 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5205
+
+A l'exception des liniments et des pommades, il est interdit de renouveler les préparations comportant des substances du
+tableau B à une dose et à une concentration supérieures à celles fixées par l'arrêté prévu à l'article R. 5170.
+
+En ce qui concerne les liniments et les pommades, les renouvellements d'une même ordonnance ne peuvent être exécutés qu'après
+le délai déterminé par le mode d'emploi indiqué par l'auteur de la prescription. Ils doivent être mentionnés sur le registre
+sous un nouveau numéro d'ordre.
+
+Cette inscription peut consister dans l'indication du numéro sous lequel l'ordonnance a été primitivement inscrite et du nom
+et de la quantité du stupéfiant prescrit.
+
+Mention de la date et du numéro du renouvellement doit être faite sur l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 4 décembre 2003 - art. 1 (Ab)
+	  - Code de la santé publique - art. R5206 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-26 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5170 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5206
+
+Les pharmaciens ne sont autorisés à délivrer des préparations contenant des substances du tableau B, que contre remise d'une
+ordonnance rédigée conformément aux dispositions de l'article R. 5201 [*condition*].
+
+Le pharmacien doit mentionner à l'ordonnancier les nom et adresse du malade et, éventuellement, du tiers qui lui présente
+l'ordonnance.
+
+Si le porteur de l'ordonnance n'est pas connu du pharmacien, celui-ci doit lui demander une justification d'identité. Mention
+est alors portée sur l'ordonnancier de l'autorité qui a délivré la pièce d'identité, de son numéro, de la date à laquelle
+elle a été délivrée.
+
+Les ordonnances non renouvelables sont conservées pendant trois ans [*durée*] par le pharmacien. Elles sont classées
+mensuellement pour être représentées à toute réquisition de l'autorité compétente.
+
+Copie des ordonnances non renouvelables est remise au client, avec les mentions prévues à l'article R. 5203.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 17 octobre 1983 - art. 3 (Ab)
+	  - Code de la santé publique - art. R5211 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-24 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5201 (M)
+	  - Code de la santé publique - art. R5203 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5207
+
+Les médecins et vétérinaires sont autorisés à détenir des médicaments contenant des substances inscrites au tableau B, dans
+la limite d'une provision pour soins urgents.
+
+Cette provision est déterminée qualitativement et quantitativement par le directeur départemental de la santé [*autorité
+compétente*], après avis de l'Ordre intéressé.
+
+Cette provision est, à la suite des prélèvements qui auront été effectués, reconstituée sur demandes rédigées par le médecin
+ou le vétérinaire, conformément aux dispositions de l'article R. 5201.
+
+Ces demandes ne peuvent être exécutées que par un des pharmaciens domiciliés dans la commune du praticien ou par un
+pharmacien de la commune la plus proche, si la sienne est dépourvue d'officine.
+
+Le pharmacien choisi par le médecin ou le vétérinaire sera dans tous les cas signalé par lui au conseil départemental de
+l'Ordre dont il dépend.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5123 (M)
+	  - Code de la santé publique - art. R5208 (M)
+	  - Code de la santé publique - art. R5209 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-25 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5201 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5208
+
+Les chirurgiens dentistes sont autorisés à détenir pour leur usage professionnel, dans les conditions fixées à l'article
+précédent, des préparations contenant des substances inscrites au tableau B, dont la liste est fixée par arrêté du ministre
+de la Santé publique et de la Population.
+
+Les sages-femmes sont autorisées à détenir, pour leur usage professionnel, des préparations contenant des substances
+inscrites au tableau B dont la liste qualitative et quantitative est fixée par arrêté du ministre de la Santé publique et de
+la Population, précisant dans quelles conditions ces médicaments peuvent être délivrés aux sages-femmes et utilisés par
+elles.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1971-10-05 JORF 28 octobre : RELATIF A LA DELIVRANCE DE CERTAINES SUBSTANCES VENENEUSES AUX SAGES-FEMMES
+	  - TXT_SOURCE: Arrêté du 10 octobre 1989
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-21 (V)
+	  - Code de la santé publique - art. R5132-22 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5207 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5209 (M)
+
+
+###### Article R5209
+
+Les pharmaciens doivent conserver pendant trois ans [*durée*], pour être représentées à toute réquisition de l'autorité
+compétente, les demandes visées aux articles R. 5207 et R. 5208 émanant des médecins, vétérinaires, chirurgiens dentistes et
+sages-femmes et en adresser un relevé à la fin de chaque trimestre au directeur départemental de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-27 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5142-19 (Ab)
+	  - Code de la santé publique - art. R5211 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5207 (M)
+	  - Code de la santé publique - art. R5208 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+###### Article R5210
+
+Les pharmaciens sont tenus d'inscrire dès réception, tout achat ou toute entrée dans leur officine, même à titre gratuit, de
+substances du tableau B et de préparations qui en contiennent, sur un registre spécial coté et paraphé par le maire ou le
+commissaire de police [*autorités compétentes*]. L'autorité qui vise le registre doit se faire présenter le diplôme du
+praticien, portant mention de l'enregistrement à la préfecture.
+
+L'inscription de ces entrées fait mention de la date, du nom du fournisseur, de la désignation du produit et des quantités
+reçues.
+
+Les pharmaciens sont tenus d'inscrire sur ce registre les qualité et quantité des substances du tableau B utilisées pour la
+fabrication des préparations officinales ainsi que la quantité des produits obtenus.
+
+En ce qui concerne les préparations magistrales inscrites à l'ordonnancier et les préparations officinales, si elles y sont
+également inscrites le jour de leur fabrication, les pharmaciens sont autorisés à n'en effectuer le relevé que mensuellement
+[*périodicité*] sur le registre prévu au 1er alinéa du présent article.
+
+Ces inscriptions doivent être faites sans blanc, rature, ni surcharge.
+
+Le registre d'entrées et de sorties des stupéfiants doit être conservé pendant dix ans [*durée*] au moins.
+
+Chaque année au moins, le pharmacien procède à l'inventaire des substances du tableau B et des préparations qui en
+contiennent qu'il détient, et établit la balance des entrées et sorties. Les différences constatées sont proposées à la
+ratification du pharmacien inspecteur de la santé à l'occasion de la première visite qui suit l'établissement de la balance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 22 février 1990
+	  - TXT_SOURCE: Arrêté du 22 février 1990 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 22 février 1990 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 22 février 1990 - art. ANNEXE (V)
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1990 - art. 1 (V)
+	  - Arrêté du 10 septembre 1992 - art. 8 (V)
+	  - Code de la santé publique - art. R5170 (M)
+	  - Code de la santé publique - art. R5176 (Ab)
+	  - Code de la santé publique - art. R5211 (M)
+	  - Code de la santé publique - art. R5218 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-28 (Ab)
+
+
+###### Article R5211
+
+Tout pharmacien qui cède son officine procède, en présence de l'acquéreur, à l'inventaire des substances du tableau B et des
+préparations qui en contiennent ; cet inventaire est consigné sur le registre prévu à l'article précédent et contresigné par
+les intéressés.
+
+Le vendeur remet à l'acquéreur, qui lui en donne décharge, le registre des stupéfiants et les pièces à conserver en vertu des
+articles R. 5199, R. 5206 et R. 5209.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1990 - art. 1 (V)
+	  - Code de la santé publique - art. R5123 (M)
+	  - Code de la santé publique - art. R5210 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-38 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5199 (M)
+	  - Code de la santé publique - art. R5206 (M)
+	  - Code de la santé publique - art. R5209 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
+
+
+##### SECTION 4 : PRODUITS CAPILLAIRES, D'HYGIENE CORPORELLE ET DE BEAUTE.
+
+###### Article R5212
+
+Conformément aux dispositions de l'article R. 5149 (dernier alinéa) du présent code, sont soumis aux seules dispositions de
+la présente section les produits capillaires, d'hygiène corporelle et de beauté renfermant des substances vénéneuses et
+définis aux articles ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 22 février 1990
+	  - TXT_SOURCE: Arrêté du 22 février 1990 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 février 1990 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 4 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1990 - art. 1 (Ab)
+	  - Arrêté du 22 février 1990 - art. 2 (V)
+	  - Arrêté du 22 février 1990 - art. 3 (V)
+	  - Arrêté du 10 septembre 1992 - art. 1 (Ab)
+	  - Arrêté du 10 septembre 1992 - art. 1 (V)
+	  - Arrêté du 8 décembre 1994 - art. 1 (Ab)
+	  - Décret n°99-249 du 31 mars 1999 - art. 8 (Ab)
+	  - Arrêté du 20 septembre 1999 - art. 1 (Ab)
+	  - Arrêté du 20 septembre 1999 - art. 2 (Ab)
+	  - Code de la santé publique - art. R5000-1 (Ab)
+	  - Code de la santé publique - art. R5212-31 (V)
+	  - Code de la santé publique - art. R5215 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-29 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5149 (M)
+
+
+##### PARAGRAPHE 4 : DISPOSITIONS COMMUNES *AUX PRODUITS POUR FRISER, DEFRISER ET ONDULER LES CHEVEUX, AUX TEINTURES ET LOTIONS CAPILLAIRES, AUX PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE*.
+
+###### Article R5227
+
+Les fabricants et importateurs des produits visés aux articles R. 5213, R. 5217 et R. 5222 doivent pouvoir justifier que sur
+chaque lot desdits produits a été effectué un contrôle comportant au moins l'identification de la ou des substances
+vénéneuses utilisées, d'une part, et leur dosage dans le produit terminé d'autre part.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5213 (M)
+	  - Code de la santé publique - art. R5217 (M)
+	  - Code de la santé publique - art. R5222 (M)
+
+
+##### SECTION 4 : PRODUITS CAPILLAIRES
+
+##### PARAGRAPHE 1 : PRODUITS POUR FRISER, DEFRISER OU ONDULER LES CHEVEUX.
+
+###### Article R5213
+
+Sont seuls autorisés à utiliser pour friser, défriser ou onduler les cheveux ou à détenir en vue d'un tel usage les produits
+renfermant de l'acide thioglycolique ou ses sels les coiffeurs titulaires de la carte professionnelle instituée par le décret
+n° 47-476 du 18 mars 1947, pris en exécution de la loi du 23 mai 1946 portant réglementation des conditions d'accès à la
+profession de coiffeur [*compétence*].
+
+La délivrance directe de ces produits à des utilisateurs autres que les coiffeurs visés à l'alinéa précédent est interdite.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil d'Etat ASSEMBLEE, SOCIETE TONI, 1951-04-27, Recueil P. 236
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 4 (Ab)
+
+	**Cite**:
+
+	  - Décret n°47-476 1947-03-18
+	  - Loi n°1946-05-23
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1990 - art. 1 (Ab)
+	  - Décret n°99-249 du 31 mars 1999 - art. 8 (Ab)
+	  - Arrêté du 20 septembre 1999 - art. 1 (Ab)
+	  - Code de la santé publique - art. R5214 (M)
+	  - Code de la santé publique - art. R5227 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-30 (V)
+	  - Code de la santé publique - art. R5132-33 (V)
+
+
+###### Article R5214
+
+Les produits visés à l'article R. 5213 ne peuvent être fabriqués et utilisés à une concentration pondérale supérieure à huit
+pour cent en acide thioglycolique.
+
+Ces produits doivent être livrés avec les quantités correspondantes de substances destinées à arrêter, par oxydation,
+l'action de l'acide thioglycolique et de ses sels.
+
+L'inactivation des solutions d'acide thioglycolique ou de ses sels doit être faite aussitôt que l'effet recherché est obtenu.
+La composition et le mode d'emploi des substances d'inactivation doivent être indiqués sur le récipient et l'emballage.
+
+Les récipients qui contiennent les produits visés à l'article R. 5213 et les emballages qui les renferment doivent être munis
+d'étiquettes indiquant [*mentions*] :
+
+La dénomination générique de vente du produit ;
+
+La concentration pondérale en acide thioglycolique ;
+
+Le poids net de produit contenu dans le récipient ;
+
+Le nom et l'adresse du fabricant, ainsi que, le cas échéant, ceux du distributeur français d'un produit importé.
+
+Les récipients contenant lesdits produits doivent en outre comporter une étiquette de couleur rouge sur laquelle sont
+inscrits, en caractères très apparents, le nom chimique de la substance utilisée et la mention suivante :
+
+"Ce produit ne peut être utilisé que par les coiffeurs et uniquement pour friser, défriser ou onduler les cheveux.
+
+"Tout autre emploi est dangereux".
+
+Un arrêté conjoint du ministre des affaires sociales, du ministre de l'agriculture et du ministre de l'industrie fixe, après
+avis du conseil supérieur d'hygiène publique de France, les normes techniques auxquelles doivent être conformes les produits
+visés à l'article R. 5213 et leurs inactivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 10 septembre 1992 - art. 2 (Ab)
+	  - Arrêté du 10 septembre 1992 - art. 2 (V)
+	  - Décret n°99-249 du 31 mars 1999 - art. 8 (Ab)
+	  - Arrêté du 20 septembre 1999 - art. 1 (Ab)
+	  - Arrêté du 20 septembre 1999 - art. 2 (Ab)
+	  - Code de la santé publique - art. R5198 (Ab)
+	  - Code de la santé publique - art. R5218 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 septembre 1999 - art. 4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-35 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5213 (M)
+
+
+###### Article R5215
+
+Les locaux dans lesquels sont utilisés ces produits et leurs produits d'inactivation doivent pouvoir être aérés facilement.
+
+Les utilisateurs sont tenus de déclarer au directeur départemental de l'action sanitaire et sociale, dès qu'ils en ont
+connaissance, les accidents survenus à la suite de l'emploi de ces produits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1990 - art. 1 (Ab)
+	  - Code de la santé publique - art. R5216 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-31 (V)
+
+
+###### Article R5216
+
+Il est interdit d'utiliser les composés du mercure, sous quelque forme que ce soit, en vue de friser, défriser ou onduler les
+cheveux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-32 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5218 (Ab)
+
+
+##### PARAGRAPHE 2 : TEINTURES ET LOTIONS CAPILLAIRES.
+
+###### Article R5217
+
+Il est interdit, sauf aux personnes réunissant les conditions exigées pour l'exercice de la profession de pharmacien, de
+fabriquer ou de vendre, dans les conditions fixées aux articles ci-après, les teintures, shampooings et lotions capillaires
+renfermant des substances vénéneuses autres que celles dont la liste limitative, les concentrations et doses maximum seront
+fixées par arrêté conjoint du ministre des affaires sociales, du ministre de l'agriculture et du ministre de l'industrie,
+après avis du conseil supérieur d'hygiène publique de France.
+
+Aucune teinture capillaire visée au présent article ne peut être délivrée aux utilisateurs que sous une forme immédiatement
+utilisable.
+
+Aucune teinture capillaire visée au présent article ne peut être délivrée au public s'il n'est adjoint au récipient la
+renfermant en quantité suffisante, un produit de lavage neutralisant. La dénomination générique, la composition et le volume
+net du produit de lavage doivent figurer sur le récipient le contenant [*mentions obligatoires*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-36 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5218 (M)
+	  - Code de la santé publique - art. R5219 (M)
+	  - Code de la santé publique - art. R5220 (M)
+	  - Code de la santé publique - art. R5221 (M)
+	  - Code de la santé publique - art. R5227 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Conseil d'Etat ASSEMBLEE, SOCIETE TONI, 1951-04-27, Recueil P. 236
+
+
+###### Article R5218
+
+Les récipients qui contiennent les produits visés au 1er alinéa de l'article R. 5217 et les emballages qui les renferment
+doivent être munis d'étiquettes indiquant :
+
+La dénomination générique de vente du produit ;
+
+Le nom de la ou des substances vénéneuses y contenues, tel qu'il figure dans la liste fixée par l'arrêté prévu à l'article R.
+5217 ;
+
+Le pourcentage pondéral de ces substances ;
+
+Le poids net du produit contenu dans le récipient ;
+
+Le nom et l'adresse du fabricant, ainsi que, le cas échéant, ceux du distributeur français d'un produit importé ;
+
+La mention ci-après qui doit occuper une surface ayant au moins deux centimètres de côté :
+
+"Ce produit est exclusivement destiné à l'emploi indiqué ;
+
+"Il serait dangereux de s'en servir pour un autre usage ;
+
+"Se conformer à la notice".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-37 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5217 (M)
+
+
+###### Article R5219
+
+Une notice doit être jointe à l'emballage renfermant les produits visés au premier alinéa de l'article R. 5217. Elle comporte
+obligatoirement le mode d'emploi, éventuellement la manière de procéder à une touche d'essai, l'indication du délai minimum à
+observer avant de procéder à l'application, ainsi que l'avis ci-après qui sera inscrit en caractères très apparents
+[*mentions*] ;
+
+Avis important    "L'usage des teintures et lotions capillaires renfermant des substances vénéneuses peut, chez certains
+sujets, donner lieu à des accidents graves.
+
+"L'épreuve de la touche d'essai constitue une mesure de précaution qui peut permettre de prévenir de tels accidents.
+
+"Cette épreuve est obligatoire pour certaines substances, même pour les personnes ayant supporté sans inconvénient les
+précédentes applications.
+
+"Un rinçage neutralisant (par un produit tel que la solution chlorurée oxygénée) doit être pratiqué immédiatement après
+l'emploi des teintures."    L'avis prévu ci-dessus doit être affiché chez les coiffeurs qui utilisent les produits visés au
+premier alinéa de l'article R. 5217 et chez tous les commerçants qui en délivrent au public.
+
+L'affiche doit être placée en évidence [*lieu*] et écrite en caractères gras d'au moins six millimètres de hauteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-96 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5217 (M)
+
+
+###### Article R5220
+
+Il est interdit aux coiffeurs d'appliquer sans avoir procédé au préalable à la touche d'essai ceux des produits visés au
+premier alinéa de l'article R. 5217 dont la liste est fixée par arrêté conjoint du ministre des affaires sociales, du
+ministre de l'agriculture et du ministre de l'industrie, après avis du conseil supérieur d'hygiène publique de France.
+
+Les fabricants doivent préciser dans la notice qui accompagne lesdits produits que la touche d'essai est obligatoire
+[*mention*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5217 (M)
+
+
+###### Article R5221
+
+Tout accident survenant à la suite d'une application d'un des produits visés au premier alinéa de l'article R. 5217 par un
+coiffeur doit être signalé par ce dernier, dès qu'il en a connaissance, au directeur départemental de l'action sanitaire et
+sociale [*obligation*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°68-397 1968-04-16 ART. 1 JORF 5 mai 1968
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5217 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5222 (M)
+	  - Code de la santé publique - art. R5223 (M)
+	  - Code de la santé publique - art. R5224 (M)
+	  - Code de la santé publique - art. R5225 (M)
+	  - Code de la santé publique - art. R5226 (M)
+
+
+##### SECTION 4 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE
+
+##### PARAGRAPHE 3 : PRODUITS D'HYGIENE CORPORELLE ET DE BEAUTE.
+
+###### Article R5222
+
+Aucune teinture capillaire visée à l'article R. 5221 ne peut être délivrée au public s'il n'est adjoint au récipient la
+renfermant, en quantité suffisante, un produit de lavage neutralisant.
+
+La dénomination générique, la composition et le volume net du produit de lavage doivent figurer sur le récipient le contenant
+[*mentions obligatoires*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5221 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5223 (M)
+	  - Code de la santé publique - art. R5224 (M)
+	  - Code de la santé publique - art. R5225 (M)
+	  - Code de la santé publique - art. R5226 (M)
+	  - Code de la santé publique - art. R5227 (M)
+
+
+###### Article R5223
+
+Les récipients qui contiennent les produits visés à l'article R. 5221 et les emballages qui les renferment doivent être munis
+d'étiquettes indiquant  :
+
+Le dénomination générique de vente du produit ;
+
+Le nom de la ou des substances vénéneuses y contenues tel qu'il figure au tableau des substances vénéneuses :
+
+Le pourcentage de ces substances ;
+
+Le volume net contenu dans le récipient :
+
+Le nom et l'adresse du fabricant ou du vendeur ;
+
+La mention ci-après portée sur une étiquette ayant au moins deux centimètres de côté :
+
+"Ce produit est exclusivement destiné à l'emploi indiqué. Il serait dangereux de s'en servir pour un autre usage ; se
+conformer à la notice".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5221 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5224 (M)
+
+
+###### Article R5224
+
+La notice prévue à l'article précédent doit être jointe à l'emballage renfermant les produits visés à l'article R. 5221. Elle
+comporte obligatoirement le mode d'emploi, la manière de procéder à une touche d'essai, l'indication du délai minimum à
+observer avant de procéder à l'application de la teinture, ainsi que l'avis ci-après qui sera inscrit en caractères très
+apparents [*mentions obligatoires*] :
+
+Avis important    "L'usage des teintures et lotions capillaires renfermant des substances vénéneuses peut, chez certains
+sujets, donner lieu à des accidents graves. L'épreuve de la touche d'essai constitue une mesure de précaution qui peut
+permettre de prévoir de tels accidents. Cette épreuve est obligatoire, même pour les personnes ayant supporté sans
+inconvénient les précédentes applications. Un rinçage neutralisant doit être appliqué immédiatement après l'emploi des
+teintures."
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5221 (M)
+	  - Code de la santé publique - art. R5223 (M)
+
+
+###### Article R5225
+
+L'avis prévu ci-dessus doit être affiché chez les coiffeurs qui utilisent les produits visés à l'article R. 5221 et chez tous
+les commerçants qui en délivrent au public.
+
+L'affiche doit être placée en évidence et écrite en caractères gras d'au moins six millimètres de hauteur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5221 (M)
+
+
+###### Article R5226
+
+Il est interdit aux coiffeurs sous les sanctions prévues à l'article L. 626, d'appliquer les produits visés à l'article R.
+5221 sans avoir procédé au préalable à la touche d'essai [*obligatoire*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L626 (M)
+	  - Code de la santé publique - art. R5221 (M)
+
+
+##### SECTION 5 : RECHERCHE ET CONSTATATION DES INFRACTIONS
+
+##### INSPECTION.
+
+###### Article R5228
+
+Concurremment avec les inspecteurs de la pharmacie visés à l'article L. 557 et les inspecteurs et agents du service de la
+répression des fraudes, les maires et les commissaires de police doivent veiller à l'exécution des dispositions du présent
+chapitre [*autorités compétentes*]. Ils ont qualité pour visiter avec l'assistance d'un inspecteur de la pharmacie, ou en cas
+d'empêchement de ce dernier avec le concours d'un pharmacien désigné par le préfet, les officines de pharmacie, les dépôts de
+médicaments tenus par les médecins et les vétérinaires, ainsi que les entrepôts et magasins des droguistes et des
+commissionnaires en marchandises, trafiquants de ces substances, les laboratoires où elles sont traitées pour en extraire les
+alcaloïdes ou pour les transformer en préparations pharmaceutiques, les magasins des herboristes, épiciers, coiffeurs et
+parfumeurs et d'une manière générale tous les lieux où sont fabriqués, entreposés, ou mis en vente des produits soumis à la
+réglementation du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L557 (M)
+
+
+###### Article R5229
+
+L'autorité qui procède à l'inspection exige la production du récépissé de la déclaration qui a dû être faite en exécution de
+l'article R. 5151 ou, s'il y a lieu, l'autorisation prévue aux articles R. 5165 et R. 5190. Si cette justification n'est pas
+apportée, les produits trouvés en contravention sont saisis, et si, parmi eux, la présence d'une ou plusieurs substances du
+tableau B [*stupéfiants*] est constatée, la fermeture de l'établissement est ordonnée par le préfet [*autorité compétente*].
+Si la déclaration est produite, l'autorité qui procède à la visite s'assure que les registres sont régulièrement tenus, et
+que leurs énonciations concordent avec les quantités existantes. Dans le cas d'infractions pouvant entraîner l'application
+des peines prévues au chapitre I du titre III du livre V de la partie législative du présent code, procès-verbal est dressé
+des constatations et opérations effectuées. Ce procès-verbal est transmis au procureur de la République par l'autorité qui a
+procédé aux constatations ; copie dudit acte est adressée par elle au préfet.
+
+Toute quantité de chanvre indien ou de ses préparations, saisie à l'occasion de la constatation d'une infraction aux
+dispositions de l'article R. 5166, sera détruite.
+
+Toute quantité de kat ou de ses préparations saisie à l'occasion de la constatation d'une infraction aux dispositions de
+l'article R. 5166-1 sera détruite, après le prélèvement de deux échantillons qui seront transmis respectivement à l'autorité
+judiciaire compétente et à l'office central pour la répression du trafic illicite des stupéfiants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5151 (M)
+	  - Code de la santé publique - art. R5165 (M)
+	  - Code de la santé publique - art. R5166 (M)
+	  - Code de la santé publique - art. R5166-1 (M)
+	  - Code de la santé publique - art. R5190 (M)
+
+	**Modifié par**:
+
+	  - Décret n°57-429 1957-04-02 ART. 2 JORF 5 avril
+
 
 #### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.
 
@@ -30515,5 +39628,1421 @@ Article abrogé
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+#### Chapitre 2 : Radio-éléments artificiels *radioactivité*
+
+###### Article R5230
+
+La commission interministérielle prévue à l'article L. 633 comprend, sous la présidence d'un conseiller d'Etat désigné par
+arrêté du Premier ministre [*composition*] :
+
+Un représentant du ministre de l'agriculture ;
+
+Deux [*nombre*] représentants du ministre chargé de la défense ;
+
+Deux représentants du ministre chargé de l'industrie ;
+
+Un représentant du ministre chargé des installations classées ;
+
+Un représentant du ministre de l'intérieur ;
+
+Deux représentants du ministre chargé de la santé ;
+
+Un représentant du ministre chargé du travail ;
+
+Un représentant du ministre chargé des universités ;
+
+Deux représentants du commissariat à l'énergie atomique ;
+
+Un représentant du centre national de la recherche scientifique ;
+
+Un représentant de l'institut national de la santé et de la recherche médicale ;
+
+Le chef du service central de protection contre les rayonnements ionisants.
+
+Des membres suppléants sont désignés en nombre égal à celui des titulaires.
+
+La commission peut désigner parmi ses membres un ou plusieurs vice-présidents.
+
+Les membres titulaires et suppléants de la commission sont nommés par arrêté du Premier ministre sur proposition des
+ministres ou organismes qu'ils représentent.
+
+La commission comprend en outre un secrétaire permanent nommé par arrêté du Premier ministre sur la proposition conjointe de
+l'administrateur général du commissariat à l'énergie atomique et du haut-commissaire à l'énergie atomique. Il a voix
+délibérative.
+
+Le secrétariat de la commission est assuré par les services du commissariat à l'énergie atomique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L633 (Ab)
+
+
+###### Article R5231
+
+La commission se réunit sur la convocation de son président et au moins deux fois par an [*périodicité*].
+
+Les délibérations ne sont valables que si la moitié au moins [*quorum*] des membres de la commission sont présents. Si, lors
+d'une séance, cette condition n'est pas remplie, la commission doit se réunir à nouveau dans un délai maximum de trois
+semaines.
+
+Des délibérations prises au cours de la deuxième réunion sont alors valables quel que soit le nombre des membres présents.
+
+Les délibérations sont prises à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.
+
+La commission peut se faire assister de techniciens pour l'étude d'une question déterminée.
+
+Elle établit son règlement intérieur.
+
+Les demandes tendant à saisir la commission sont adressées au président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5232 (Ab)
+
+
+###### Article R5232
+
+La commission comprend deux sections, placées sous la présidence du président de la commission.
+
+La première section comprend [*composition*] :
+
+Un représentant du ministre chargé de la défense ;
+
+Un représentant du ministre de l'intérieur ;
+
+Un représentant du ministre chargé des installations classées ;
+
+Deux représentants du ministre chargé de la santé ;
+
+Un représentant du commissariat à l'énergie atomique ;
+
+Un représentant du centre national de la recherche scientifique ;
+
+Un représentant de l'institut national de la santé et de la recherche médicale ;
+
+Le chef du service central de protection contre les rayonnements ionisants ;
+
+Le secrétaire permanent de la commission.
+
+La deuxième section comprend :
+
+Un représentant du ministre de l'agriculture ;
+
+Un représentant du ministre chargé de la défense ;
+
+Deux représentants du ministre chargé de l'industrie ;
+
+Un représentant du ministre chargé des installations classées ;
+
+Un représentant du ministre de l'intérieur ;
+
+Un représentant du ministre chargé de la santé ;
+
+Un représentant du ministre chargé du travail ;
+
+Un représentant du ministre chargé des universités ;
+
+Deux représentants du commissariat à l'énergie atomique ;
+
+Un représentant du centre national de la recherche scientifique ;
+
+Le chef du service central de protection contre les rayonnements ionisants ;
+
+Le secrétaire permanent de la commission.
+
+Ces sections se prononcent au nom de la commission sur les questions respectivement prévues aux articles R. 5234 et R. 5235.
+
+Les dispositions des alinéas 2, 3 et 4 de l'article R. 5231 sont applicables aux délibérations des sections.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5231 (Ab)
+	  - Code de la santé publique - art. R5235 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5234 (M)
+
+
+###### Article R5233
+
+La commission interministérielle, en séance plénière, formule son avis ou ses propositions sur toutes les questions d'ordre
+général que soulèvent l'élaboration et l'application de la réglementation relative aux radio-éléments artificiels, et
+notamment [*attributions*] :
+
+La préparation, l'importation et la fabrication de radio-éléments artificiels sous quelque forme que ce soit ;
+
+Les conditions générales d'étalonnage, de détention, de transport, de vente, de distribution et du commerce de ces produits ;
+
+Les conditions générales d'utilisation des radio-éléments artificiels et les mesures de protection contre les effets de leur
+rayonnement ;
+
+Les règles générales selon lesquelles la publicité prévue à l'article L. 635 peut être faite.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1976-07-05 JORF 31 JUILLET : RELATIF A LA LIMITATION DE DUREE DES AUTORISATIONS DE DETENTION ET D'UTILISATION DES RADIOS-ELEMENTS ARTIFICIELS
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°85-968 du 27 août 1985 - art. 23 (V)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 15 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L635 (Ab)
+
+
+###### Article R5234
+
+La préparation, l'importation et l'exportation par toute personne physique ou morale autre que le commissariat à l'énergie
+atomique et la cession par quiconque de radio-éléments artificiels ou de produits en contenant destinés à la biologie humaine
+ou aux applications thérapeutiques, sont soumises à l'autorisation du ministre de la santé publique et de la population
+[*autorité compétente*], après avis de la première section instituée par l'article R. 5232 [*formalité obligatoire*].
+
+Les conditions particulières dans lesquelles les radio-éléments artificiels ou les produits en contenant destinés à la
+biologie humaine ou aux applications thérapeutiques doivent être utilisés, seront conformes à la réglementation générale sur
+les radio-éléments artificiels résultant notamment d'arrêtés des ministres intéressés pris sur avis de la commission
+plénière. En cas de lacune ou d'insuffisance de cette réglementation, ces conditions d'utilisation sont fixées au moment de
+chaque autorisation individuelle par le ministre de la santé publique et de la population, après avis de la première section
+instituée par l'article R. 5232.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1974-02-08 JORF 26 février
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 23 avril 1969 - art. 18 (V)
+	  - Arrêté du 26 mars 1974 - art. 1 (V)
+	  - Arrêté du 30 octobre 1981 - art. 1 (V)
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 15 (Ab)
+	  - Arrêté du 29 juillet 1988 - art. 2 (V)
+	  - Code de la santé publique - art. R5232 (Ab)
+	  - Code de la santé publique - art. R5234-1 (Ab)
+	  - Code de la santé publique - art. R5234-4 (Ab)
+	  - Code de la santé publique - art. R5234-5 (Ab)
+	  - Code de la santé publique - art. R5235 (M)
+	  - Code de la santé publique - art. R5237 (Ab)
+	  - Code de la santé publique - art. R5237-1 (Ab)
+	  - Code de la santé publique - art. R5237-4 (Ab)
+	  - Code de la santé publique - art. R5238 (Ab)
+
+
+###### Article R5235
+
+Pour toutes les applications autres que celles prévues à l'article précédent, la préparation, l'importation, l'exportation
+des radio-éléments artificiels ou de produits en contenant par toute personne physique ou morale autre que le commissariat à
+l'énergie atomique sont soumises à l'autorisation du président de la commission [*autorité compétente*]. Les décisions
+d'autorisation sont prises après avis de la deuxième section de la commission.
+
+Le commissariat à l'énergie atomique peut, sur avis conforme de la deuxième section de la commission, céder, pour des besoins
+autres que ceux prévus à l'article 5234, les radio-éléments artificiels qu'il détient. En cas de désaccord entre le
+commissariat à l'énergie atomique et la deuxième section de la commission, la décision est prise par le Premier ministre.
+Cette cession vaut, pour le cessionnaire, autorisation de détenir et d'utiliser les radio-éléments cédés. Les cessions faites
+par les autres détenteurs pour les besoins prévus au premier alinéa du présent article doivent être autorisées par le
+président de la commission, après avis de la deuxième section de la commission.
+
+Les conditions particulières dans lesquelles les radio-éléments artificiels ou les produits en contenant destinés à des
+applications autres que celles prévues à l'article R. 5234 doivent être utilisés, seront conformes à la réglementation
+générale sur les radio-éléments artificiels résultant notamment d'arrêtés des ministres intéressés pris sur avis de la
+commission plénière. En cas de lacune ou d'insuffisance de cette réglementation, ces conditions d'utilisation sont fixées, au
+moment de chaque autorisation individuelle, par l'autorité compétente pour autoriser les cessions, après avis de la deuxième
+section de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°60-78 1960-01-14 art. 1 JORF 23 janvier 1960
+
+	**Cité par**:
+
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 15 (Ab)
+	  - Arrêté du 28 avril 1989 - art. 1 (V)
+	  - Arrêté du 28 avril 1989 - art. 2 (V)
+	  - Arrêté du 28 avril 1989 - art. 3 (V)
+	  - Code de la santé publique - art. R5232 (Ab)
+	  - Code de la santé publique - art. R5235-1 (Ab)
+	  - Code de la santé publique - art. R5235-2 (Ab)
+	  - Code de la santé publique - art. R5235-3 (Ab)
+	  - Code de la santé publique - art. R5237 (Ab)
+	  - Code de la santé publique - art. R5237-1 (Ab)
+	  - Code de la santé publique - art. R5237-4 (Ab)
+	  - Code de la santé publique - art. R5238 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 28 avril 1989
+	  - TXT_SOURCE: Arrêté du 28 avril 1989 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 avril 1989 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 28 avril 1989 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5234 (M)
+
+
+###### Article R5236
+
+La commission interministérielle et ses sections peuvent donner délégation à deux au moins de leurs membres agissant
+conjointement pour examiner les demandes courantes et ne présentant pas de difficultés particulières.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 15 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
+
+
+###### Article R5237
+
+Les autorisations sont personnelles, les détenteurs de ces autorisations ne peuvent céder ou mettre à la disposition d'autres
+personnes les radio-éléments artificiels qui leur ont été délivrés, qu'en suivant la procédure prévue aux articles R. 5234 et
+R. 5235.
+
+Les bénéficiaires d'une autorisation individuelle devront se soumettre tant aux conditions générales qu'aux conditions
+particulières éventuellement fixées par la décision d'autorisation lors de la délivrance des radio-éléments artificiels. Dans
+le cas où ils feraient un usage interdit ou abusif des radio-éléments artificiels qu'ils détiennent, le retrait de cette
+autorisation pourra être prononcé par l'autorité qui l'a accordée sur avis conforme de la section compétente, pris dans les
+conditions qui seront déterminées par arrêté après consultation de la commission interministérielle [*sanctions*]. Cet arrêté
+déterminera la procédure à suivre et les conséquences du retrait, notamment en ce qui concerne la dévolution des produits
+irradiés.
+
+Ces dispositions ne font pas obstacle à l'application des peines prévues à l'article L. 639.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L639 (Ab)
+	  - Code de la santé publique - art. R5234 (M)
+	  - Code de la santé publique - art. R5235 (M)
+
+
+###### Article R5238
+
+Les bénéficiaires d'une autorisation individuelle devront se soumettre, à tout moment, au contrôle de l'observation des
+conditions qui leur ont été imposées. Ce contrôle, qui portera notamment sur les conditions de fabrication, de détention et
+de transport des radio-éléments artificiels, sur la surveillance de leur utilisation et sur la vérification des stocks
+existants, sera exercé sur les instructions des ministres intéressés, soit par des membres des corps de contrôle existants,
+soit par des membres de la commission désignés par son président sur demande de ces ministres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°86-1103 du 2 octobre 1986 - art. 15 (Ab)
+
+
+#### Chapitre 4 : Médicaments antivénériens.
+
+###### Article R5239
+
+Les médicaments spécifiques, utilisés dans les services publics, visés à l'article L. 643, sont ceux qui sont inscrits sur
+une liste dressée par l'académie de médecine et arrêtée par le ministre de la santé publique.
+
+Cette liste est révisée périodiquement dans les mêmes formes. Le ministre de la santé publique prend toutes mesures utiles
+pour en assurer la communication aux organisations professionnelles de médecins et de pharmaciens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°93-982 du 5 août 1993 - art. 11 (Ab) JORF 7 août 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L643 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5240 (Ab)
+
+
+###### Article R5240
+
+Tout fabricant de l'un des médicaments spécifiques inscrits sur la liste prévue à l'article précédent doit, pour se conformer
+aux prescriptions de l'article L. 643 [*obligations*] :
+
+1° Avoir obtenu pour le produit :
+
+a) Le visa prévu à l'article L. 601 ou l'enregistrement prévu à l'article L. 605 suivant qu'il s'agit d'une spécialité
+pharmaceutique ou d'un produit sous cachet ;
+
+b) L'inscription sur la liste prévue à l'article L. 618 ;
+
+2° Adresser une demande au ministre de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (Loi DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Décret n°93-982 du 5 août 1993 - art. 11 (Ab) JORF 7 août 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. L605 (M)
+	  - Code de la santé publique - art. L618 (M)
+	  - Code de la santé publique - art. L643 (Ab)
+	  - Code de la santé publique - art. R5239 (Ab)
+
+
+###### Article R5241
+
+Sont applicables aux médicaments spécifiques vendus au public et utilisés par les services publics dans les conditions
+prévues à l'article L. 643, les dispositions des articles R. 5060 à R. 5089 [*recherche et constatation des fraudes*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°93-982 du 5 août 1993 - art. 11 (Ab) JORF 7 août 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L643 (Ab)
+	  - Code de la santé publique L643, R5060 à R5089
+
+
+#### Chapitre 6 : Thermomètres médicaux.
+
+###### Article R5243
+
+Les thermomètres médicaux, visés aux articles L. 651 à L. 656, sont des thermomètres construits de façon telle qu'ils
+puissent indiquer la température interne de l'homme ou de l'animal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L651 (Ab)
+	  - Code de la santé publique - art. L652 (Ab)
+	  - Code de la santé publique - art. L653 (Ab)
+	  - Code de la santé publique - art. L654 (Ab)
+	  - Code de la santé publique - art. L655 (M)
+	  - Code de la santé publique - art. L656 (Ab)
+
+
+###### Article R5244
+
+L'échelle de température adoptée pour la graduation des thermomètres médicaux est l'échelle centésimale définie par la loi du
+2 avril 1919, modifiée par la loi n° 48-89 du 14 janvier 1948.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°48-89 1948-01-14
+	  - Loi n°1919-04-02
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+
+###### Article R5245
+
+La graduation des thermomètres médicaux s'étend au moins de 35 à 42 degrés centésimaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5261 (Ab)
+
+
+###### Article R5246
+
+Les indications d'un thermomètre médical doivent être assez rapides pour que l'instrument prenne sa température d'équilibre,
+dans les conditions d'emploi, au bout d'un temps inférieur ou égal à trois minutes [*durée*].
+
+Pour le contrôle de cette qualité, les instruments présentés à la vérification sont divisés en deux catégories. Les
+instruments de la première catégorie (thermomètres dits "une minute") doivent indiquer en vingt secondes au plus, la
+température d'un bain d'eau agitée, dans les conditions d'exactitude fixées par l'article R. 5247.
+
+Les instruments de la seconde catégorie (thermomètres médicaux dits ordinaires) doivent indiquer en soixante secondes au plus
+la température d'un bain d'eau agitée, dans les conditions d'exactitude définies par l'article R. 5247.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5247 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5249 (Ab)
+	  - Code de la santé publique - art. R5261 (Ab)
+
+
+###### Article R5247
+
+Les thermomètres médicaux en tous les points de leur échelle doivent être justes et fidèles au 0,1 degré centésimal près, en
+plus ou en moins.
+
+Pour le contrôle de ces qualités, le corps thermométrique de l'instrument à vérifier, est plongé dans un bain d'eau agitée
+dont la température est maintenue constante à 0,02 degré centésimal en plus ou en moins pendant le temps défini à l'article
+R. 5246.
+
+Après retour de l'instrument à la température ambiante, l'indication enregistrée ne doit pas différer de plus de 0,1 degré
+centésimal de la température du bain.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5246 (Ab)
+	  - Code de la santé publique - art. R5249 (Ab)
+	  - Code de la santé publique - art. R5261 (Ab)
+
+
+###### Article R5248
+
+La graduation adoptée pour l'échelle thermométrique doit être assez lisible pour que l'utilisateur profite pleinement des
+qualités de l'instrument. A cette fin, l'échelle est divisée en dixièmes de degrés centésimaux, par des traits nettement
+visibles dont l'épaisseur est toutefois inférieure au cinquième de l'intervalle qui les sépare. Les traits correspondant aux
+degrés et demi-degrés se distinguent par une longueur supérieure à celle des autres.
+
+L'inscription des chiffres est faite en face de ces traits, à chaque degré.
+
+Le long d'une ligne coupant normalement chacun des traits de la graduation en son milieu, l'écartement des axes de deux
+traits successifs ne doit pas être inférieur à 0, 7 mm.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5261 (Ab)
+
+
+###### Article R5249
+
+Le contrôle des thermomètres médicaux comporte :
+
+1° L'approbation du principe des dispositifs utilisés, qui établit que ces dispositifs permettent la réalisation de
+thermomètres susceptibles de satisfaire aux règlements ;
+
+2° L'admission des modèles particuliers à chaque constructeur, qui établit que ces modèles se composent de dispositifs
+approuvés et répondant aux prescriptions réglementaires ;
+
+3° La vérification qui a pour but de constater que les thermomètres présentés sont conformes au modèle admis (examen
+préliminaire) et répondent aux prescriptions réglementaires (essais d'exactitude). Les règles à suivre pour ces deux
+opérations sont définies aux articles R. 5242, R. 5246 et R. 5247 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5246 (Ab)
+	  - Code de la santé publique - art. R5247 (Ab)
+	  - Code de la santé publique - art. R5252 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5261 (Ab)
+
+
+###### Article R5250
+
+Les réservoirs des thermomètres médicaux à maximum, à dilatation de liquide dans une enveloppe de verre ne peuvent être
+construits qu'avec des verres présentant un retard de dilatation au plus égal à un dixième de degré centésimal à la
+température de 100 degrés.
+
+Ces verres devront porter une marque de fabrique constituée par un ou plusieurs filets colorés incorporés dans la matière,
+suffisamment larges et opaques pour être visibles. Chaque lot d'instruments déposé au service de vérification sera accompagné
+d'une attestation faisant connaître le nom du fabricant du verre employé pour le réservoir et la désignation du verre
+[*mentions*].
+
+Toute personne habilitée à présenter à la vérification des thermomètres construits avec un verre déterminé devra déposer au
+laboratoire un thermomètre spécialement construit avec ce verre, afin de permettre l'étude du retard de dilatation. Ce
+thermomètre devra pouvoir être porté à 100 degrés. La graduation portera les points 0 à 100 degrés, avec au moins deux degrés
+divisés en dixièmes de degré de part et d'autre de chacun de ces points.
+
+Il ne sera pas nécessaire de faire d'autre graduation.
+
+Chaque fois qu'une nouvelle sorte de verre sera présentée, le laboratoire de vérification constatera, sur le thermomètre
+spécial, que ce verre remplit ou non la condition indiquée au paragraphe 1er du présent article relativement au retard de
+dilatation.
+
+Chaque fois qu'il le jugera utile le laboratoire de vérification constatera que le verre ayant servi à la construction des
+lots de thermomètres déposés pour la vérification est conforme au type défini par le thermomètre spécial correspondant et par
+la marque de fabrique du verre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5261 (Ab)
+
+
+###### Article R5251
+
+La vérification des thermomètres médicaux a lieu par les soins du conservatoire national des arts et métiers, soit dans son
+laboratoire d'essais de Paris, soit dans tous les autres laboratoires désignés ou agréés par arrêté du ministre de
+l'éducation nationale après avis du conseil d'administration du conservatoire national des arts et métiers [*lieu*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+
+###### Article R5252
+
+Toute personne habilitée à présenter à la vérification des thermomètres médicaux d'un modèle déterminé est tenue de déposer
+entre les mains du directeur du laboratoire d'essais du conservatoire national des arts et métiers un thermomètre de ce
+modèle et de certifier par écrit que les thermomètres qu'elle désire mettre en vente sont conformes au modèle qu'elle a
+déposé. Il est délivré un reçu daté de ce dépôt.
+
+Le directeur du conservatoire national des arts et métiers, sur l'avis du directeur du laboratoire d'essais, peut prononcer
+l'admission de tout modèle de thermomètre composé de dispositifs approuvés. A défaut de décision dans le délai de six mois,
+le modèle présenté est admis de droit à la vérification [*accord tacite*].
+
+Dans tous les autres cas la commission technique du laboratoire d'essais examine le thermomètre déposé.
+
+Dans un délai de six mois à compter de la date du dépôt, elle décide si ce thermomètre satisfait aux prescriptions du présent
+code et définit le cas échéant les règles à suivre dans l'examen préliminaire des instruments conformes.
+
+Sur sa demande, le constructeur peut être entendu par la commission technique avant décision.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5249 (Ab)
+
+
+###### Article R5253
+
+Récépissé du dépôt des thermomètres présentés à la vérification est délivré au déposant.
+
+Les thermomètres reconnus exacts sont revêtus de la marque légale de la vérification, du numéro de lot de contrôle et d'une
+indication relative à la date de celui-ci. La commission technique du laboratoire d'essais définit, pour chaque modèle admis
+à la vérification, les dimensions et l'emplacement de l'espace libre réservé sur le corps de l'instrument à l'apposition de
+ces marques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+
+###### Article R5254
+
+Tout thermomètre médical devra porter inscrit, de façon indélébile, le nom de son constructeur et, le cas échéant,
+l'indication " 1 minute "    . En dehors de ces indications obligatoires, il ne pourra porter que les numéros ou signes
+repères du constructeur et, éventuellement, pour les thermomètres importés, les correctifs prévus par l'article 39 du code
+des douanes. Le nom du constructeur peut être remplacé par sa marque lorsque celle-ci a été déposée au laboratoire d'essais
+du conservatoire national des arts et métiers. 
+
+Les indications visées à l'alinéa précédent doivent être placées de manière à ne pas gêner la lecture de la graduation. Les
+prescriptions du paragraphe 1er du présent article ne sont pas opposables quant à la vérification des thermomètres destinés à
+l'exportation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+	**Cite**:
+
+	  - Code des douanes - art. 39 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5261 (Ab)
+
+
+###### Article R5255
+
+Nul ne peut être habilité à présenter des thermomètres médicaux à la vérification s'il ne satisfait aux prescriptions
+suivantes [*condition d'exercice*] :
+
+1° Etre domicilié ou avoir fait élection de domicile en France ;
+
+2° Avoir fait, par écrit, une demande de dépôt au directeur du laboratoire d'essais du conservatoire national des arts et
+métiers, en justifiant de son inscription au registre du commerce ou au registre des métiers ;
+
+3° Justifier de sa qualité de construction ou d'importateur de thermomètres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+
+###### Article R5256
+
+Indépendamment du contrôle et de la vérification obligatoire imposée aux constructeurs et importateurs, tout détenteur de
+thermomètre médical, que cet instrument remplisse ou non les conditions indiquées dans le présent code, peut demander au
+service de vérification d'en faire l'essai. Il est délivré dans ce cas un procès-verbal du résultat d'essai indiquant les
+corrections de chaque instrument. Ce procès-verbal porte, s'il y a lieu, une mention spéciale indiquant que le thermomètre ne
+remplit pas les conditions imposées au chapitre VI du titre III, du livre V de la partie législative du présent code. Aucune
+marque n'est imposée sur le thermomètre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+	**Cite**:
+
+	  - Code de la santé publique R5243 à R5261
+
+
+###### Article R5257
+
+Le conservatoire national des arts et métiers n'est pas responsable des dommages causés aux instruments par le fait même de
+la vérification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+
+###### Article R5258
+
+Les taxes sont perçues au comptant, lors de l'accomplissement des opérations. Elles ne sont pas exigibles pour les
+instruments détériorés au cours des épreuves.
+
+Elles sont remboursées pour les instruments exportés en vue de la vente, sur justification d'exportation.
+
+La vérification est exécutée sans perception de taxe [*gratuité*] pour les instruments présentés par l'autorité militaire et
+l'administration de l'assistance publique à Paris pour le service exclusif de leurs hôpitaux militaires et civils. Dans ce
+cas, la mention suivante sera portée sur les thermomètres "interdit pour la vente au public".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+
+###### Article R5259
+
+Indépendamment des officiers de police judiciaire, les pharmaciens inspecteurs de la santé, les fonctionnaires assermentés du
+service des instruments de mesure sont chargés de procéder aux recherches pour constater les infractions au chapitre VI du
+titre III, du livre V de la partie législative du présent code.
+
+Ils peuvent, à cet effet, effectuer librement leurs opérations en tous lieux où sont déposés, pour la vente, des thermomètres
+médicaux ainsi qu'en cours de transport des mêmes appareils pour la livraison. Ils dressent procès-verbal de leurs
+constatations et placent sous scellés les thermomètres saisis.
+
+Les procès-verbaux, ainsi que les thermomètres saisis sont adressés au procureur de la République de l'arrondissement où le
+procès-verbal a été dressé. Le procureur de la République, dans le cas où il donne suite au procès-verbal, peut transmettre
+les thermomètres au laboratoire d'essais du Conservatoire national des arts et métiers pour y être procédé à la vérification
+d'exactitude. Les résultats de cette vérification sont alors consignés dans un rapport qui est adressé au procureur de la
+République.
+
+Les infractions constatées par les procès-verbaux et, le cas échéant, établies par les vérifications faites, sont déférées
+par les soins du procureur de la République aux tribunaux compétents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5260 (Ab)
+
+
+###### Article R5260
+
+Les frais d'envoi et de vérification relevant des dispositions de l'article R. 5259 sont supportés par les contrevenants ou
+les délinquants [*charge financière*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5259 (Ab)
+
+
+###### Article R5261
+
+Les dispositions des articles R. 5245 à R. 5250 et R. 5254 ne sont pas applicables aux thermomètres médicaux pour usages
+spéciaux qui doivent satisfaire aux dispositions particulières qui leur sont imposées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre en vigueur le 1er janvier 1986
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5245 (Ab)
+	  - Code de la santé publique - art. R5246 (Ab)
+	  - Code de la santé publique - art. R5247 (Ab)
+	  - Code de la santé publique - art. R5248 (Ab)
+	  - Code de la santé publique - art. R5249 (Ab)
+	  - Code de la santé publique - art. R5250 (Ab)
+	  - Code de la santé publique - art. R5254 (Ab)
+
+
+#### Chapitre 5 : Anticonceptionnels et abortifs.
+
+###### Article R5242
+
+L'article L. 645 (alinéa 1er) s'applique aux remèdes, substances et objets suivants, qui seront délivrés dans les conditions
+prescrites par l'alinéa du même article :
+
+1° Par les pharmaciens sur prescription médicale [*compétence*] ;
+
+a) Les préparations simples ou composées à base d'hormones oestrogènes ;
+
+b) Les préparations simples ou composées à base de sabine, de rue, de phosphore blanc, d'ergot de seigle, de posthypophyse ou
+de sels de plomb ;
+
+2° Par les pharmaciens ou les négociants en matériel médico-chirurgical et les fabricants d'appareils gynécologiques sur
+prescription médicale ou demande écrite du médecin pour usage professionnel :
+
+Les sondes et les canules rigides ou non, ayant une longueur supérieure à 18 cm ;
+
+Les seringues intra-utérines de Braun ;
+
+Les pinces longues à forci-pressure ;
+
+Les bougies de Heggar ;
+
+Les perce-membranes ;
+
+Les tampons vaginaux médicamenteux ;
+
+3° Uniquement aux praticiens habilités à exercer la médecine, par les pharmaciens ou les négociants en matériel médico-
+chirurgical et les fabricants d'appareils gynécologiques, sur demande écrite, pour usage professionnel : les spéculums autres
+que ceux destinés à l'otorhinologie, les hystéromètres, les laminaires, les crayons et bougies utérins, les porte-coton
+utérins.
+
+Les demandes écrites et les ordonnances concernant les remèdes, substances et objets visés au 1° b, 2° et 3° du présent
+article devront être conservées pendant trois années [*durée*] par les pharmaciens et les négociants qui les auront
+exécutées, et tenues à la disposition des pharmaciens inspecteurs de la santé.
+
+Toutefois, les spéculums vaginaux sont délivrés aux sages-femmes sur demande écrite.
+
+**Nota:**
+
+Nota - Décret 90-740 du 14 août 1990, article 4 : le présent décret est applicable à la collectivité territoriale de Mayotte
+et article 7 : spécificités d'application à la collectivité territoriale de Mayotte*.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°90-740 du 14 août 1990 - art. 4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L645 (Ab)
+
+
+#### Chapitre 7 : Biberons à tube et tétines.
+
+###### Article R5262
+
+Aucune tétine ou sucette ne peut être fabriquée, vendue, mise en vente, exposée ou importée sans que le produit servant à sa
+fabrication ait été homologué par le ministre de la santé publique et de la population, après avis du conseil supérieur
+d'hygiène publique de France [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5231-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5263 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique R5266 : DEROGATIONS
+
+
+###### Article R5263
+
+L'homologation prévue à l'article R. 5262 ne peut être accordée que si le demandeur établit dans les conditions fixées à
+l'article R. 5264 ci-après, que le produit fini :
+
+1° Peut supporter une stérilisation par ébullition sans altération de ses caractères d'élasticité ;
+
+2° N'est pas nocif et n'est pas susceptible de conférer une nocivité aux liquides alimentaires ou d'en modifier les
+propriétés.
+
+**Nota:**
+
+[*Nota : Code de la santé publique R. 5266 : DEROGATION.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°97-503 du 21 mai 1997 - art. 22 (Ab) JORF 22 mai 1997 en vigueur le 1er janvier 1998
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 juin 2000
+	  - TXT_SOURCE: Arrêté du 30 juin 2000 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 30 juin 2000 - art. 2 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5266 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 30 juin 2000 - art. 1 (V)
+	  - Code de la santé publique - art. R5264 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5131-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5262 (M)
+
+
+###### Article R5264
+
+Les caractéristiques envisagées à l'article précédent doivent être certifiées par un des laboratoires agréés à cet effet et
+inscrits sur une liste arrêtée et publiée par le ministre de la santé publique et de la population qui peut fixer des
+protocoles d'essais.
+
+L'homologation est accordée ou refusée par arrêté ministériel. Elle ne peut être retirée suivant la même procédure.
+
+**Nota:**
+
+[*Nota : Code de la santé publique R. 5266 : DEROGATION.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°97-503 du 21 mai 1997 - art. 22 (Ab) JORF 22 mai 1997 en vigueur le 1er janvier 1998
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5263 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5266 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5431-1 (V)
+	  - Code de la santé publique - art. R5431-2 (V)
+	  - Code de la santé publique - art. R5431-3 (Ab)
+
+
+###### Article R5265
+
+Les tétines et sucettes doivent porter avec la marque du fabricant ou du commercant responsable, l'indication du numéro sous
+lequel l'homologation a été accordée    .
+
+**Nota:**
+
+[*Nota : Code de la santé publique R. 5266 : DEROGATION.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°97-503 du 21 mai 1997 - art. 22 (Ab) JORF 22 mai 1997 en vigueur le 1er janvier 1998
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5266 (Ab)
+
+
+###### Article R5266
+
+Par dérogation aux dispositions des articles précédents aucune homologation n'est exigée pour les tétines et sucettes
+fabriquées en caoutchouc pur vulcanisé à chaud à condition qu'elles portent avec la marque du fabricant ou du commerçant
+l'indication spéciale " caoutchouc pur "    .
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°97-503 du 21 mai 1997 - art. 22 (Ab) JORF 22 mai 1997 en vigueur le 1er janvier 1998
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5263 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5264 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5265 (Ab)
+
+
+### Titre 4 : Dispositions diverses et dispositions transitoires
+
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie, dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion.
+
+###### Article R5267
+
+Par dérogation aux dispositions de l'article R. 5101, le remplacement du titulaire d'une officine est assuré dans les
+conditions suivantes dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion :
+
+Pour une absence supérieure à trois mois [*durée*], le remplacement ne peut être effectué que par un pharmacien n'ayant pas
+d'autre activité professionnelle et inscrit au tableau de la section D de l'ordre ;
+
+Si l'absence n'excède pas trois mois, le remplacement pourra être confié à un pharmacien titulaire d'une officine, à
+condition qu'il soit en état d'exercer effectivement le remplacement [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5101 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-44 (V)
+
+
+###### Article R5268
+
+Le visa peut être accordé aux spécialités vétérinaires, en application de l'article L. 661, aux mêmes conditions qu'aux
+produits visés à l'article L. 606 [*médicaments vétérinaires*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L606 (Ab)
+	  - Code de la santé publique - art. L661 (Ab)
+
+
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie.
+
+###### Article R5269
+
+Toute personne qui revendique le bénéfice de l'article L. 663, alinéas 1 et 2, doit adresser à cet effet une demande en
+double exemplaire au préfet du département dans lequel elle exerce ou a exercé en dernier lieu sa profession. A sa demande,
+elle joint [*documents obligatoires*] :
+
+1° Un extrait de son acte de naissance ;
+
+2° Un certificat du ou des pharmaciens qui l'a ou l'ont employée, indiquant la date à laquelle elle a commencé d'exercer la
+profession de préparateur en pharmacie, ainsi que le temps pendant lequel elle a pratiqué ladite profession.
+
+Un arrêté du ministre de la santé publique et de la population fixera les conditions du contrôle exercé par l'inspection des
+pharmacies sur la sincérité des pièces fournies par les intéressés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L663 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4241-17 (V)
+
+
+###### Article R5270
+
+Le dossier de chaque candidat est transmis à l'Inspection de la pharmacie, qui adresse au préfet la liste des bénéficiaires
+[*autorité compétente*]. Celui-ci accorde dans les conditions prévues par l'article L. 663 l'autorisation de continuer à
+exercer l'emploi de préparateur en pharmacie, avec les droits, prérogatives et charges qui sont attachés à cette qualité.
+
+Le titulaire de l'autorisation ainsi délivrée doit la faire enregistrer à la préfecture de tous les départements où il
+exercera l'emploi de préparateur en pharmacie.
+
+En cas de rejet de la demande, le préfet en avise l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 20 décembre 1989 - art. 3 (V)
+	  - Arrêté du 14 avril 1965 - art. 4 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L663 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4241-18 (V)
+
+
+###### Article R5271
+
+Les décisions du préfet peuvent faire l'objet d'un recours devant le ministre de la santé publique et de la population
+[*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4241-19 (V)
+
+
+#### Chapitre 4 : Visa des spécialités anciennes
+
+##### Section 1 : Spécialités pharmaceutiques.
+
+###### Article R5272
+
+Tout fabricant de spécialités pharmaceutiques, qui a adressé au ministre de la santé publique et de la population, dans les
+délais prescrits à l'article L. 665, une demande en vue d'obtenir le visa pour une spécialité pharmaceutique, débitée
+antérieurement à la loi du 11 septembre 1941, est autorisé à poursuivre la vente de cette spécialité jusqu'à ce que le
+ministre ait pris une décision sur celle-ci après examen par le comité technique des spécialités.
+
+Un récépissé est adressé au demandeur en vue de lui permettre d'établir la situation régulière du médicament. Ce récépissé
+est établi sans examen préalable de la spécialité.
+
+Au cas où le comité technique constaterait que le médicament présente un danger pour la santé publique, le refus de visa peut
+être prononcé dans les formes et selon la procédure prévue pour le retrait du visa à l'article R. 5126.
+
+Le recours qui serait éventuellement adressé par le fabricant au ministre est instruit dans les formes prévues à l'article R.
+5124.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°93-982 du 5 août 1993 - art. 14 (Ab) JORF 7 août 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L665 (Ab)
+	  - Code de la santé publique - art. R5124 (M)
+	  - Code de la santé publique - art. R5126 (M)
+	  - Loi n°1941-09-11
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-33 (V)
+
+
+##### Section 2 : Produits d'origine microbienne.
+
+###### Article R5273
+
+Un arrêté du ministre de la santé publique et de la population détermine les conditions dans lesquelles les produits ayant
+fait l'objet d'une autorisation de débit antérieure à la promulgation de la loi du 6 août 1953 seront soumis au visa prévu à
+l'article L. 601.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°93-982 du 5 août 1993 - art. 14 (Ab) JORF 7 août 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+	  - Loi n°1953-08-06
 
 
