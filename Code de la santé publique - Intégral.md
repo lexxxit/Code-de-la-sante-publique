@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1987-09-24
+Version Consolidée au 1987-09-27
 
 # Partie législative ancienne
 
@@ -41018,6 +41018,31 @@ au moins avant la date prévue pour la réunion de la commission. Il peut se fai
 	  - Code de la santé publique - art. R5122-34 (Ab)
 
 
+###### Article R5055-4
+
+La commission se réunit sur convocation de son président en exercice ou du ministre de la santé publique.
+
+Les délibérations ne sont valables que si la moitié au moins des membres de la commission sont présents.
+
+Les résultats des votes sont acquis à la majorité des suffrages exprimés. En cas de partage égal des voix, celle du président
+de séance est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°87-772 du 23 septembre 1987 - art. 1 () JORF 24 septembre 1987
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-24 (Ab)
+
+
 ##### Section 4 : Publicité en faveur des établissements pharmaceutiques.
 
 ###### Article R5053
@@ -41041,33 +41066,6 @@ personnes appelées à prescrire ou délivrer ce médicament, produit ou objet o
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5124-65 (V)
-
-
-##### Section 5 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement
-
-###### Article R5055-4
-
-La commission se réunit sur convocation de son président en exercice ou du ministre de la santé publique.
-
-Les délibérations ne sont valables que si la moitié au moins des membres de la commission sont présents.
-
-Les résultats des votes sont acquis à la majorité des suffrages exprimés. En cas de partage égal des voix, celle du président
-de séance est prépondérante.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°73-209 1973-02-22 art. 2 JORF 1er mars 1973
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R5122-24 (Ab)
 
 
 ##### Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art.
