@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-08-29
+Version Consolidée au 1993-09-01
 
 # Partie législative ancienne
 
@@ -5500,11 +5500,11 @@ notamment de permettre à celle-ci de garder son enfant. A cette occasion, lui s
 personnes qui, soit à titre individuel, soit au nom d'un organisme, d'un service ou d'une association, seraient susceptibles
 d'apporter une aide morale ou matérielle aux femmes et aux couples confrontés aux problèmes de l'accueil de l'enfant.
 
-Sauf en ce qui concerne les établissements hospitaliers publics ces consultations ne peuvent se dérouler à l'intérieur des
+Sauf en ce qui concerne les établissements hospitaliers publics, ces consultations ne peuvent se dérouler à l'intérieur des
 établissements dans lesquels sont pratiquées des interruptions volontaires de la grossesse [*lieu*].
 
-Les personnels des organismes visés au premier alinéa sont soumis aux dispositions de l'article 378 du Code pénal [*secret
-professionnel*].
+Les personnels des organismes visés au premier alinéa sont soumis aux dispositions des articles 226-13 et 226-14 du Code
+pénal [*secret professionnel*].
 
 Chaque fois que cela est possible, le couple participe à la consultation et à la décision à prendre.
 
@@ -5564,11 +5564,16 @@ Chaque fois que cela est possible, le couple participe à la consultation et à 
 
 	**Modifié par**:
 
-	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 	  - Code de la santé publique - art. L162-1 (M)
 
 	**Nouveaux textes**:
@@ -6953,8 +6958,8 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L188
 
-L'article 378 du code pénal relatif au secret professionnel est applicable à toute personne appelée à collaborer au service
-départemental de protection maternelle et infantile.
+Les articles 226-13 et 226-14 du code pénal relatifs au secret professionnel sont applicables à toute personne appelée à
+collaborer au service départemental de protection maternelle et infantile.
 
 **Nota:**
 
@@ -6970,11 +6975,16 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 	**Nouveaux textes**:
 
@@ -8297,10 +8307,10 @@ Leurs membres sont nommés par le représentant de l'Etat dans la région, par t
 des autorités ou organisations habilitées à le faire.
 
 Les membres des comités, les personnes appelées à collaborer à leurs travaux et les agents de l'Etat qui en sont dépositaires
-sont tenus [*obligations*], dans les conditions et sous les peines prévues à l'article 378 du code pénal, de garder secrètes
-les informations dont ils peuvent avoir connaissance à raison de leurs fonctions et qui sont relatives à la nature des
-recherches, aux personnes qui les organisent ou qui s'y prêtent ou aux produits, objets ou méthodes expérimentés [*secret
-professionnel*].
+sont tenus [*obligations*], dans les conditions et sous les peines prévues aux articles 226-13 et 226-14 du code pénal, de
+garder secrètes les informations dont ils peuvent avoir connaissance à raison de leurs fonctions et qui sont relatives à la
+nature des recherches, aux personnes qui les organisent ou qui s'y prêtent ou aux produits, objets ou méthodes expérimentés
+[*secret professionnel*].
 
 Ne peuvent valablement participer à une délibération les personnes qui ne sont pas indépendantes du promoteur et de
 l'investigateur de la recherche examinée.
@@ -8334,12 +8344,6 @@ territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 	  - Code de la santé publique - art. R2007 (Ab)
 	  - Code de la santé publique - art. R2012 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°90-86 du 23 janvier 1990 - art. 41 () JORF 25 janvier 1990
-	  - Loi n°90-86 du 23 janvier 1990 - art. 42 () JORF 25 janvier 1990
-	  - Loi n°90-86 du 23 janvier 1990 - art. 48 () JORF 25 janvier 1990
-
 	**Liens**:
 
 	  - TXT_ASSOCIE: Arrêté du 7 mai 1991
@@ -8348,9 +8352,14 @@ territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 	  - TXT_ASSOCIE: Arrêté du 7 mai 1991 - art. 3 (V)
 	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 	**Nouveaux textes**:
 
@@ -8679,18 +8688,32 @@ territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 ###### Article L209-19
 
-Est puni d'une peine d'emprisonnement de six mois à trois ans [*durée*] et d'une amende de 12 000 F à 200 000 F [*montant*]
-ou de l'une de ces deux peines seulement quiconque aura pratiqué ou fait pratiquer sur l'être humain une recherche
-biomédicale sans avoir recueilli le consentement prévu par les articles L. 209-9 et L. 209-10 du présent code, ou alors qu'il
-aura été retiré.
+Ainsi qu'il est dit à l'article 223-8 du code pénal, le fait de pratiquer ou de faire pratiquer sur une personne une
+recherche biomédicale sans avoir recueilli le consentement libre, éclairé et exprès de l'intéressé, des titulaires de
+l'autorité parentale ou du tuteur dans les cas prévus par les dispositions du présent code est puni de trois ans
+d'emprisonnement [*durée*] et de 300 000 F d'amende [*montant - (1)*].
 
-Est punie des peines prévues à l'alinéa précédent toute personne qui aura pratiqué ou fait pratiquer une recherche
-biomédicale en infraction aux dispositions des articles L. 209-4 à L. 209-6 et du dernier alinéa de l'article L. 209-9.
+Les mêmes peines sont applicables lorsque le consentement a été retiré avant qu'il ne soit procédé à la recherche
+biomédicale.
+
+Ainsi qu'il est dit à l'article 223-9 du code pénal, les personnes morales peuvent être déclarées responsables pénalement,
+dans les conditions prévues par l'article 121-2 du code pénal, de cette infraction.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du code pénal.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice de laquelle ou à
+l'occasion de laquelle l'infraction a été commise.
 
 **Nota:**
 
 [*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
-territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.
+
+(1) taux résultant de la loi n° 92-1336 du 16 décembre 1992 en vigueur le 1er septembre 1993.*]
 
 **Liens relatifs à cet article**
 
@@ -8699,17 +8722,17 @@ territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 219 () JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L209-10 (M)
-	  - Code de la santé publique - art. L209-4 (M)
-	  - Code de la santé publique - art. L209-5 (M)
-	  - Code de la santé publique - art. L209-6 (M)
-	  - Code de la santé publique - art. L209-9 (M)
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 223-8 (M)
+	  - Code pénal - art. 223-9 (V)
 
 	**Liens**:
 
@@ -12802,7 +12825,7 @@ des malades atteints de troubles mentaux dans le département du ressort de la c
 
 Ils ne peuvent, en dehors du cadre des attributions de la commission, faire état des informations qu'ils ont pu recueillir
 sur les personnes dont la situation leur a été présentée. Sous réserve des dispositions des 4° et 6° de l'article L. 332-4,
-ils sont soumis au secret professionnel dans les conditions prévues par l'article 378 du code pénal.
+ils sont soumis au secret professionnel dans les conditions prévues par les articles 226-13 et 226-14 du code pénal.
 
 La commission désigne, en son sein, son président, dans des conditions fixées par voie réglementaire.
 
@@ -12812,10 +12835,6 @@ La commission désigne, en son sein, son président, dans des conditions fixées
 avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 24.*]
 
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
 
 	**Cité par**:
 
@@ -12848,12 +12867,26 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 8 (Ab)
 	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 9 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 	  - Code de la santé publique - art. L331 (M)
 	  - Code de la santé publique - art. L332-2 (Ab)
 	  - Code de la santé publique - art. L332-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3222-5 (V)
+	  - Code de la santé publique - art. L3223-2 (M)
 
 
 ###### Article L332-4
@@ -13680,7 +13713,7 @@ d'office. A défaut de confirmation, cette mesure est caduque au terme d'une dur
 ###### Article L348
 
 Lorsque les autorités judiciaires estiment que l'état mental d'une personne qui a bénéficié d'un non-lieu, d'une décision de
-relaxe ou d'un acquittement en application des dispositions de l'article 64 du code pénal pourrait compromettre l'ordre
+relaxe ou d'un acquittement en application des dispositions de l'article 122-1 du code pénal pourrait compromettre l'ordre
 public ou la sûreté des personnes, elles avisent immédiatement le préfet, qui prend sans délai toute mesure utile, ainsi que
 la commission mentionnée à l'article L. 332-3. L'avis médical visé à l'article L. 342 doit porter sur l'état actuel du
 malade.
@@ -13689,11 +13722,15 @@ malade.
 
 	**Modifié par**:
 
-	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 221 () JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
-	  - Code pénal 64
+	  - Code pénal - art. 122-1 (V)
 	  - Code de la santé publique - art. L332-3 (M)
 
 	**Cité par**:
@@ -17117,18 +17154,26 @@ et suivants.
 ###### Article L378
 
 L'usurpation du titre de docteur en médecine ou en chirurgie dentaire ou du titre de sage-femme ainsi que l'usurpation de
-tout autre titre donnant accès en France à l'exercice de la profession de médecin, de chirurgien dentiste ou de sage-femme
-sont punies des peines prévues à l'article 259 du code pénal.
+tout autre titre donnant accès en France à l'exercice de la profession de médecin, de chirurgien-dentiste ou de sage-femme
+sont punies des peines prévues à l'article 433-17 du code pénal. 
 
-Est considéré comme ayant usurpé [*définition*] le titre français de docteur en médecine ou en chirurgie dentaire quiconque,
-se livrant à l'exercice de la médecine ou de la chirurgie dentaire sans être titulaire du diplôme français d'Etat de docteur
-en médecine ou en chirurgie dentaire, fait précéder ou suivre son nom du titre de docteur sans en indiquer la nature ou sans
-préciser qu'il s'agit d'un titre étranger ou d'un diplôme français d'université [*mentions obligatoires*].
+Est considéré comme ayant usurpé le titre français de docteur en médecine ou en chirurgie dentaire quiconque, se livrant à
+l'exercice de la médecine ou de la chirurgie dentaire sans être titulaire du diplôme français d'Etat de docteur en médecine
+ou en chirurgie dentaire, fait précéder ou suivre son nom du titre de docteur sans en indiquer la nature ou sans préciser
+qu'il s'agit d'un titre étranger ou d'un diplôme français d'université    .
 
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 2 : le présent article est applicable dans les départements d'outre-mer et les
+collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon sous réserve des adaptations prévues aux articles L466
+et suivants.
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
 
 **Liens relatifs à cet article**
 
@@ -17136,11 +17181,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Modifié par**:
-
-	  - Loi n°71-1026 du 24 décembre 1971 - art. 5 () JORF 25 décembre 1971
-	  - Loi n°76-1288 1976-12-31 art. 9 JORF 1ER janvier 1977
 
 	**Cité par**:
 
@@ -17150,12 +17190,26 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L472-21 (Ab)
 	  - Code de la santé publique - art. L472-9 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 334 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 2, art. 3 : conditions d'application
+	  - SPEC_APPLI: Ordonnance n°2000-189 du 2 mars 2000 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - Code pénal 259
+	  - Code pénal - art. 433-17 (M)
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L4162-1 (M)
 	  - Code de la santé publique - art. L4162-1 (V)
 	  - Code de la santé publique - art. L4162-2 (Ab)
 
@@ -22687,7 +22741,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 ###### Article L481
 
 Les infirmières ou infirmiers [*obligation*] et les élèves des écoles préparant à l'exercice de la profession sont tenus au
-secret professionnel dans les conditions et sous les réserves énoncées à l'article 378 du Code pénal.
+secret professionnel dans les conditions et sous les réserves énoncées aux articles 226-13 et 226-14 du Code pénal.
 
 **Nota:**
 
@@ -22701,9 +22755,18 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 	**Nouveaux textes**:
 
@@ -23975,8 +24038,8 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 ###### Article L500
 
 Les masseurs-kinésithérapeutes et les pédicures-podologues se préparant à l'exercice, soit de l'une, soit de l'autre
-profession, sont tenus au secret professionnel, dans les conditions et sous les réserves énoncées à l'article 378 du Code
-pénal.
+profession, sont tenus au secret professionnel, dans les conditions et sous les réserves énoncées aux articles 226-13 et
+226-14 du Code pénal.
 
 **Nota:**
 
@@ -23994,17 +24057,22 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L4323-3 (V)
-
-	**Modifié par**:
-
-	  - Loi n°84-391 1984-05-25 art. 9 JORF 26 mai 1984
 
 
 ###### Article L501
@@ -24354,8 +24422,8 @@ s'applique à la collectivité territoriale de Mayotte.*]
 ###### Article L504-5
 
 Les orthophonistes et les aides-orthoptistes et les élèves faisant leurs études préparatoires à l'obtention de l'un ou
-l'autre certificat de capacité sont tenus au secret professionnel dans les conditions et sous les réserves énoncées à
-l'article 378 du Code pénal.
+l'autre certificat de capacité sont tenus au secret professionnel dans les conditions et sous les réserves énoncées aux
+articles 226-13 et 226-14 du Code pénal.
 
 **Nota:**
 
@@ -24369,9 +24437,22 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
+	**Créé par**:
+
+	  - Loi n°64-699 du 10 juillet 1964, article unique, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 	**Nouveaux textes**:
 
@@ -24909,7 +24990,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 Les audioprothésistes, les élèves poursuivant les études préparatoires à l'obtention du diplôme prévu à l'article L. 510-2 et
 les personnes visées à l'article L. 510-3 ci-dessus sont tenus au secret professionnel dans les conditions et sous les peines
-énoncées à l'article 378 du Code pénal.
+énoncées aux articles 226-13 et 226-14 du Code pénal.
 
 **Nota:**
 
@@ -24923,14 +25004,24 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 	  - Code de la santé publique - art. L510-2 (M)
 	  - Code de la santé publique - art. L510-3 (Ab)
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L4363-1 (M)
 	  - Code de la santé publique - art. L4363-1 (V)
 
 
@@ -25162,7 +25253,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L510-8-3
 
-L'usurpation du titre de diététicien est punie des peines prévues à l'article 259 du code pénal.
+L'usurpation du titre de diététicien est punie des peines prévues à l'article 433-17 du code pénal.
 
 **Nota:**
 
@@ -25171,16 +25262,21 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°86-76 du 17 janvier 1986 - art. 14 () JORF 18 janvier 1986
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 334 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
-	  - Code pénal 259
+	  - Code pénal - art. 433-17 (M)
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L4372-1 (M)
 	  - Code de la santé publique - art. L4372-1 (V)
 
 
@@ -28296,9 +28392,10 @@ collectivité territoriale de Mayotte.*]
 Les inspecteurs de la pharmacie qui ne sont pas affectés dans les services de l'administration centrale sont répartis dans
 les régions, compte tenu de l'importance des activités relevant de l'inspection de la pharmacie dans chaque région.
 
-La compétence de certains inspecteurs de la pharmacie peut, en tant que de besoin, être étendue à certaines régions. Ils sont
-tenus au secret professionnel dans les conditions prévues à l'article 378 du Code pénal. Ils prêtent serment devant le
-tribunal de grande instance de leur résidence [*juridiction compétente*].
+La compétence de certains inspecteurs de la pharmacie peut, en tant que de besoin, être étendue à plusieurs régions.
+
+Ils sont tenus au secret professionnel dans les conditions prévues aux articles 226-13 et 226-14 du Code pénal. Ils prêtent
+serment devant le tribunal de grande instance de leur résidence [*juridiction compétente*].
 
 **Nota:**
 
@@ -28307,18 +28404,19 @@ collectivité territoriale de Mayotte sous réserve des dispositions de l'articl
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Loi n°85-772 du 25 juillet 1985 - art. 20 () JORF 26 juillet 1985
-
 	**Cité par**:
 
 	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 45 (Ab)
 	  - Code de la santé publique - art. R5089-18 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 	**Nouveaux textes**:
 
@@ -30347,8 +30445,8 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 Sous réserve des dispositions de l'article L. 663 ci-après, nul, s'il ne répond aux conditions fixées à l'article L. 582 du
 présent titre [*brevet professionnel*], ne peut se qualifier préparateur en pharmacie ni, notamment sur le plan
-professionnel, user des droits et prérogatives attachés à cette qualité, sous peine de sanctions prévues à l'article 259 du
-code pénal. En cas de récidive, la peine sera doublée.
+professionnel, user des droits et prérogatives attachés à cette qualité, sous peine de sanctions encourues pour le délit
+d'usurpation de titre prévu par l'article 433-17 du code pénal. En cas de récidive, la peine sera doublée.
 
 Les dispositions du présent article ne sont applicables [*non*] ni aux étudiants en pharmacie, qui peuvent être employés dans
 une pharmacie aux conditions [*d'exercice*] prévues à l'article L. 588, ni aux personnes titulaires du diplôme de pharmacien,
@@ -30369,11 +30467,11 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°77-745 1977-07-08 art. 4 JORF 10 juillet 1977
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 334 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 	**Cite**:
 
-	  - Code pénal 259
+	  - Code pénal - art. 433-17 (M)
 	  - Code de la santé publique - art. L582 (Ab)
 	  - Code de la santé publique - art. L588 (Ab)
 	  - Code de la santé publique - art. L663 (Ab)
@@ -30391,10 +30489,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique - art. L582 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°46-1182 1946-05-24 art. 6
 
 
 ###### Article L587
@@ -30744,7 +30838,7 @@ pharmacie doivent porter un insigne indiquant leur qualité [*obligation*] ; les
 conditions selon lesquelles le public est informé de sa signification, sont fixées par arrêté du ministre chargé de la santé.
 
 Toute personne portant, contrairement aux dispositions de l'alinéa précédent, un insigne ne correspondant pas à sa qualité
-sera passible des sanctions prévues au premier alinéa de l'article 259 du code pénal.
+sera passible des sanctions prévues au premier alinéa de l'article 433-17 du code pénal.
 
 **Nota:**
 
@@ -30763,13 +30857,22 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°77-745 1977-07-08 art. 6 JORF 10 juillet 1977
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 334 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
-	  - Code pénal 259
+	  - Code pénal - art. 433-17 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-29 (V)
+	  - Code de la santé publique - art. L5424-12 (V)
 
 
 ##### Section 5 : Délivrance des médicaments par les médecins
@@ -34941,52 +35044,14 @@ agréé, les personnes qui y ont accès et les modalités selon lesquelles sont 
 
 ###### Article L627
 
-Seront punis d'un emprisonnement de deux ans à dix ans [*durée*] et d'une amende de 5.000 F à 50.000.000 F [*montant*], ou de
-l'une de ces deux peines seulement, ceux qui auront contrevenu aux dispositions des règlements d'administration publique
-prévus à l'article L. 626 et concernant les substances ou plantes vénéneuses classées comme stupéfiants par voie
-réglementaire. Lorsque le délit aura consisté dans l'importation, la fabrication, ou l'exportation illicite desdites
-substances ou plantes, la peine d'emprisonnement sera de dix à vingt ans.
+Les conditions de production, de fabrication, de transport, d'importation, d'exportation, de détention, d'offre, de cession,
+d'acquisition et d'emploi des substances ou plantes vénéneuses classées comme stupéfiants par voie réglementaire sont fixées
+par décret en Conseil d'Etat.
 
-La tentative d'une des infractions réprimées par l'alinéa précédent sera punie comme le délit consommé. Il en sera de même de
-l'association ou de l'entente en vue de commettre ces infractions.    Seront punis d'un emprisonnement de deux à dix ans et
-d'une amende de 5 000 F à 500 000 F ou de l'une de ces deux peines seulement ceux qui, par tout moyen frauduleux, auront
-facilité ou tenté de faciliter la justification mensongère de l'origine des ressources ou des biens de l'auteur de l'une des
-infractions mentionnées au premier alinéa du présent article ou ceux qui auront sciemment apporté leur concours à toute
-opération de placement, de dissimulation ou de conversion du produit d'une telle infraction.
+**Nota:**
 
-Les peines prévues aux trois alinéas précédents pourront être prononcées alors même que les divers actes qui constituent les
-éléments de l'infraction auront été accomplis dans des pays différents [*à l'étranger*].
-
-Seront également punis d'un emprisonnement de deux à dix ans et d'une amende de 5.000 F à 50.000.000 F, ou de l'une de ces
-deux peines seulement :
-
-1° Ceux qui auront facilité à autrui l'usage desdites substances ou plantes, à titre onéreux ou à titre gratuit, soit en
-procurant dans ce but un local, soit par tout autre moyen ;
-
-2° Ceux qui, au moyen d'ordonnances fictives ou d'ordonnances de complaisance, se seront fait délivrer ou auront tenté de se
-faire délivrer lesdites substances ou plantes ;
-
-3° Ceux qui, connaissant le caractère fictif ou de complaisance de ces ordonnances, auront, sur la présentation qui leur en
-aura été faite, délivré lesdites substances ou plantes.
-
-Lorsque l'usage desdites substances ou plantes aura été facilité à un ou des mineurs de moins de vingt et un ans [*dix-huit
-ans*] ou lorsque ces substances ou plantes leur auront été délivrées dans les conditions prévues au 3° ci-dessus, la peine
-d'emprisonnement sera de cinq à dix ans.
-
-Les tribunaux pourront, en outre, dans tous les cas prévus aux alinéas précédents, prononcer la peine de l'interdiction des
-droits civiques pendant une durée de cinq à dix ans.
-
-Ils pourront prononcer l'interdiction de séjour, pendant une durée de deux ans au moins et de cinq ans au plus, contre tout
-individu condamné en vertu du présent article. Ils pourront également prononcer le retrait du passeport ainsi que, pour une
-durée de trois ans au plus, la suspension du permis de conduire.
-
-Les dispositions de l'article 59 (alinéa 2) du Code de procédure pénale sont applicables aux locaux où l'on usera en société
-de stupéfiants et à ceux où seront fabriquées, transformées ou entreposées illicitement lesdites substances ou plantes.
-
-Les visites, perquisitions et saisies ne pourront se faire que pour la recherche et la constatation des délits prévus au
-présent article. Elles devront être précédées d'une autorisation écrite [*condition de forme*] du procureur de la République
-lorsqu'il s'agira de les effectuer dans une maison d'habitation ou un appartement, à moins qu'elles ne soient ordonnées par
-le juge d'instruction. Tout procès-verbal dressé pour un autre objet sera frappé de nullité.
+[*Nota - Ordonnance 96-267 du 28 mars 1996 art. 12 : l'article 222 de la présente ordonnance est applicable dans les TOM et à
+Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -35033,15 +35098,11 @@ le juge d'instruction. Tout procès-verbal dressé pour un autre objet sera frap
 
 	**Modifié par**:
 
-	  - Loi n°91-1414 du 31 décembre 1991 - art. 28 () JORF 7 janvier 1992
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 59 (M)
-	  - Code de la santé publique - art. L626 (M)
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 222 () JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 	**Liens**:
 
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
 	  - TXT_SOURCE: Arrêté du 17 octobre 1983
 	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 2 (Ab)
@@ -35049,218 +35110,15 @@ le juge d'instruction. Tout procès-verbal dressé pour un autre objet sera frap
 	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
 	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L629 (M)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L629-1 (M)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L630 (M)
-	  - TXT_ASSOCIE: Code de la santé publique L627-1 : GARDE A VUE
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L5132-7 (V)
 	  - Code de la santé publique - art. L5132-8 (V)
-
-
-###### Article L627-1
-
-Dans les hypothèses prévues à l'article L. 627 [*opérations relatives aux stupéfiants*], le délai de garde à vue est celui
-prévu aux premier et second alinéas de l'article 63 du code de procédure pénale.
-
-Toutefois, le procureur de la République, dans les cas visés aux articles 63 et 77 du code de procédure pénale et le juge
-d'instruction, dans le cas prévu à l'article 154 du même code, peuvent, par une autorisation écrite, la prolonger pour une
-durée de quarante-huit heures.
-
-Une deuxième prolongation peut être accordée dans les mêmes conditions pour une durée supplémentaire de vingt-quatre heures.
-
-Dès le début de la garde à vue, le procureur de la République ou le juge d'instruction doit désigner un médecin expert qui
-examine toutes les vingt-quatre heures la personne gardée à vue et délivre après chaque examen un certificat médical motivé
-qui est versé au dossier. La personne retenue est avisée du droit de demander d'autres examens médicaux par l'officier de
-police judiciaire. Mention de cet avis est faite au procès-verbal. Ces examens médicaux sont de droit.
-
-D'autres examens médicaux pourront être demandés par la personne retenue. Ces examens médicaux seront de droit.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Loi n°81-82 du 2 février 1981 - art. 39 () JORF 3 FEVRIER 1981
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 223 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 154 (M)
-	  - CODE DE PROCEDURE PENALE - art. 63 (M)
-	  - CODE DE PROCEDURE PENALE - art. 77 (M)
-	  - Code de la santé publique - art. L627 (M)
-
-	**Cité par**:
-
-	  - CODE DE PROCEDURE PENALE - art. R117 (M)
-
-
-###### Article L627-2
-
-Seront punis d'un emprisonnement d'un an à cinq ans [*durée*] et d'une amende de 5.000 F à 500.000 F [*montant*], ou de l'une
-de ces deux peines seulement, ceux qui auront cédé ou offert des stupéfiants à une personne en vue de sa consommation
-personnelle.
-
-La peine d'emprisonnement sera de deux à dix ans lorsque les stupéfiants auront été offerts ou cédés, dans les conditions
-définies à l'alinéa précédent, à des mineurs ou dans des centres d'enseignement ou d'éducation, ou dans des locaux de
-l'administration [*circonstances aggravantes*].
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°84-610 du 16 juillet 1984 - art. 43 (Ab)
-	  - Loi n°88-828 du 20 juillet 1988 - art. 29 (V)
-	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
-	  - Décret n°2004-470 du 25 mai 2004 - art. 13 (V)
-	  - Code de la santé publique - art. L627-3 (Ab)
-	  - Code de la santé publique - art. L629 (M)
-	  - Code de la santé publique - art. L629-1 (M)
-	  - Code de la santé publique - art. L629-2 (M)
-	  - Code de la santé publique - art. L630-1 (Ab)
-	  - Code de la santé publique - art. L630-3 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°87-1157 du 31 décembre 1987 - art. 3 () JORF 5 janvier 1988) A(Loi 92-1336 1992-12-16 art. 223 JORF 23 décembre 1992 en vigueur le 1er septembre 1993
-
-
-###### Article L627-3
-
-Lorsqu'une personne poursuivie pour une infraction visée à l'article L. 627-2 est traduite devant le tribunal selon la
-procédure de la comparution immédiate, le tribunal peut ordonner une enquête de personnalité.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°86-76 du 17 janvier 1986 - art. 3 () JORF 18 janvier 1986
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 223 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L627-2 (M)
-
-
-###### Article L627-4
-
-En cas d'inculpation du chef de l'une des infractions prévues par les premier, deuxième et troisième alinéas de l'article L.
-627 et afin de garantir le paiement des amendes encourues, des frais de justice et de la confiscation prévue à l'article L.
-629, le président du tribunal de grande instance [*magistrat compétent*], sur requête du ministère public, pourra ordonner,
-aux frais avancés du Trésor et selon les modalités prévues par le code de procédure civile, des mesures conservatoires sur
-les biens de la personne inculpée.
-
-La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés.
-
-La décision de non-lieu, de relaxe ou d'acquittement emporte de plein droit, aux frais du Trésor, mainlevée des mesures
-ordonnées. Il en est de même en cas d'extinction de l'action publique.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°90-614 du 12 juillet 1990 - art. 20 () JORF 14 juillet 1990
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 223 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L627 (M)
-	  - Code de la santé publique - art. L629 (M)
-
-
-###### Article L627-5
-
-Toute personne qui se sera rendue coupable de participation à une association ou à une entente constituée en vue de commettre
-l'une des infractions énumérées à l'article L. 627 sera exempte de peine si, ayant révélé cette association ou cette entente
-à l'autorité administrative ou judiciaire, elle a permis d'éviter la réalisation de l'infraction et d'identifier les autres
-personnes en cause.
-
-Hors les cas prévus à l'alinéa précédent, la peine maximale encourue par toute personne, auteur ou complice de l'une des
-infractions énumérées à l'article L. 627 qui aura, avant toute poursuite, permis ou facilité l'identification des autres
-coupables ou, après l'engagement des poursuites permis ou facilité l'arrestation de ceux-ci, sera réduite de moitié
-[*réduction de peine*].
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°87-1157 du 31 décembre 1987 - art. 4 () JORF 5 janvier 1988) A(Loi 92-1336 1992-12-16 art. 223 JORF 23 décembre 1992 en vigueur le 1er septembre 1993
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L627 (M)
-
-
-###### Article L627-6
-
-L'action publique pour la répression de l'une des infractions prévues par l'article L. 627 se prescrit par dix ans. La peine
-prononcée en cas de condamnation pour l'une de ces infractions se prescrit par vingt ans à compter de la date à laquelle la
-décision de condamnation est devenue définitive.
-
-Par dérogation aux dispositions de l'article 750 du code de procédure pénale, la durée de la contrainte par corps est fixée à
-deux années lorsque l'amende et les condamnations pécuniaires prononcées pour l'une des infractions mentionnées à l'alinéa
-ci-dessus ou pour les infractions douanières connexes éxèdent 500 000 francs.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°87-1157 du 31 décembre 1987 - art. 4 () JORF 5 janvier 1988) A(Loi 92-1336 1992-12-16 art. 223 JORF 23 décembre 1992 en vigueur le 1er septembre 1993
-
-	**Cite**:
-
-	  - CODE DE PROCEDURE PENALE - art. 750 (M)
-	  - Code de la santé publique - art. L627 (M)
-
-
-###### Article L627-7
-
-Afin de constater les infractions prévues par les trois premiers alinéas de l'article L. 627, d'en identifier les auteurs et
-complices et d'effectuer les saisies prévues par le code de procédure pénale et le présent code, les officiers et, sous
-l'autorité de ceux-ci, les agents de police judiciaire peuvent, après en avoir informé le procureur de la République,
-procéder à la surveillance de l'acheminement des substances ou plantes classées comme stupéfiants ou des produits tirés de la
-commission des infractions prévues au premier alinéa de cet article [*trafic de stupéfiants*].
-
-Ils ne sont pas pénalement responsables lorsque, aux mêmes fins, avec l'autorisation du procureur de la République ou celle
-du juge d'instruction saisi, qui en avise préalablement le parquet, ils acquièrent, détiennent, transportent ou livrent ces
-substances ou plantes et ces produits ou mettent à la disposition des personnes se livrant aux infractions mentionnées à
-l'alinéa précédent des moyens de caractère juridique, ainsi que des moyens de transport, de dépôt, de stockage, de
-conservation et de communication. L'autorisation ne peut être donnée que pour des actes ne déterminant pas la commission des
-infractions visées au premier alinéa.
-
-Les dispositions des deux alinéas précédents sont, aux mêmes fins, applicables aux substances qui sont utilisées pour la
-fabrication illicite des produits stupéfiants et dont la liste est fixée par décret, ainsi qu'aux matériels servant à cette
-fabrication.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°91-1264 du 19 décembre 1991 - art. 1 () JORF 20 décembre 1991
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 223 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L627 (M)
 
 
 ###### Article L628-1
@@ -35518,41 +35376,17 @@ qu'ils concernent la désintoxication.
 
 ###### Article L629
 
-Dans tous les cas prévus par les articles L. 627, L. 627-2 et L. 628 [*opérations ou usage illicite de stupéfiants*], les
-tribunaux devront ordonner la confiscation des substances ou plantes saisies. Cette confiscation ne pourra toutefois être
-prononcée lorsque le délit aura été constaté dans une officine pharmaceutique si le délinquant n'est que le gérant
-responsable, à moins que le propriétaire de l'officine n'ait fait acte de complicité ou que la détention de ces substances ou
-plantes ne soit illicite.
+Dans le cas prévu par l'article L. 628, les tribunaux devront ordonner la confiscation des substances ou plantes saisies.
+Cette confiscation ne pourra toutefois être prononcée lorsque le délit aura été constaté dans une officine pharmaceutique si
+le délinquant n'est que le gérant responsable, à moins que le propriétaire de l'officine n'ait fait acte de complicité ou que
+la détention de ces substances ou plantes ne soit illicite.
 
-Dans les cas prévus au premier alinéa et au 3° de l'article L. 627, les tribunaux pourront interdire au condamné l'exercice
-de la profession à l'occasion de laquelle le délit aura été commis pendant un délai qui ne pourra excéder cinq ans [*délai de
-prescription*].
+**Nota:**
 
-Dans les cas prévus aux premier et deuxième alinéas de l'article L. 627, seront saisis et confisqués les installations,
-matériels et tous biens ayant servi directement ou indirectement à la commission de l'infraction ainsi que tout produit
-provenant directement ou indirectement de celle-ci, à quelque personne qu'ils appartiennent et en quelque lieu qu'ils se
-trouvent, dès lors que leur propriétaire ne pouvait en ignorer l'origine ou l'utilisation frauduleuses. Ces mesures de saisie
-et de confiscation pourront être ordonnées dans les cas prévus par les articles L. 627, troisième alinéa, et L. 627-2. Les
-frais résultant des mesures de saisie et de confiscation seront à la charge du condamné ; s'ils ont été avancés par
-l'administration, ils seront recouvrés comme frais de justice criminelle.
-
-Dans les cas prévus par les premier et deuxième alinéas de l'article L. 627, les juridictions compétentes pourront, en outre,
-ordonner la confiscation de tout ou partie des biens du condamné, quelle qu'en soit la nature, meubles ou immeubles, divis ou
-indivis, suivant les modalités définies par les articles 38 et 39 du code pénal.
-
-Dans les cas prévus au 1° de l'article L. 627, les tribunaux pourront ordonner la confiscation des ustensiles, matériels et
-meubles dont les lieux seront garnis et décorés, ainsi que l'interdiction pour le délinquant, pendant un délai qui ne pourra
-excéder cinq ans, d'exercer la profession sous le couvert de laquelle le délit aura été perpétré.
-
-Quiconque contreviendra à l'interdiction de l'exercice de sa profession prononcée en vertu des deuxième et cinquième alinéas
-du présent article sera puni d'un emprisonnement de six mois au moins [*durée*] et de deux ans au plus, et d'une amende de
-3.600 F au moins et de 60.000 F au plus [*montant*], ou de l'une de ces deux peines seulement.
+[*Nota - Ordonnance 96-267 du 28 mars 1996 art. 12 : l'article 224 de la présente ordonnance est applicable dans les TOM et à
+Mayotte.*]
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°90-1010 du 14 novembre 1990 - art. 11 () JORF 16 novembre 1990
 
 	**Cité par**:
 
@@ -35560,45 +35394,38 @@ du présent article sera puni d'un emprisonnement de six mois au moins [*durée*
 	  - Code de la santé publique - art. L48-1 (Ab)
 	  - Code de la santé publique - art. L627-4 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code pénal 38, 39
-	  - Code de la santé publique - art. L627 (M)
-	  - Code de la santé publique - art. L627-2 (M)
-	  - Code de la santé publique - art. L628 (Ab)
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 224 () JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L627 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L628 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L3421-2 (V)
 
-	**Liens**:
+	**Cite**:
 
-	  - TXT_ASSOCIE: Code de la santé publique - art. L627 (M)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L628 (Ab)
+	  - Code de la santé publique - art. L628 (Ab)
 
 
 ###### Article L629-1
 
-En cas de poursuites pour l'un des délits prévus par les articles L. 627, L. 627-2 et L. 628 [*opérations ou usage illicite
-de stupéfiants*], le juge d'instruction pourra ordonner à titre provisoire, pour une durée de six mois au plus, la fermeture
-de tout hôtel, maison meublée, pension, débit de boissons, restaurant, club, cercle, dancing, lieu de spectacle ou leurs
-annexes, ou lieu quelconque ouvert au public ou utilisé par le public, où ont été commis ces délits par l'exploitant ou avec
-sa complicité.
+Les dispositions de l'article 706-33 du code de procédure pénale et du premier alinéa de l'article 222-49 du code pénal sont
+applicables en cas de poursuites pour le délit prévu par l'article L. 628.
 
-Cette fermeture pourra, quelle qu'en ait été la durée, faire l'objet de renouvellement dans les mêmes formes pour une durée
-de trois mois au plus chacun.
+**Nota:**
 
-Les décisions prévues aux alinéas précédents et celles statuant sur les demandes de mainlevée peuvent faire l'objet d'un
-recours devant la chambre d'accusation dans les vingt-quatre heures de leur exécution ou de la notification faite aux parties
-intéressées [*délai*].
-
-Lorsqu'une juridiction de jugement est saisie, la mainlevée de la mesure de fermeture en cours, ou son renouvellement pour
-une durée de trois mois au plus chaque fois, est prononcée selon les règles fixées par l'article 148-1 (alinéas 2 à 4) du
-Code de procédure pénale.
-
-Sans préjudice de l'application des dispositions du titre III du code des débits de boissons et des mesures contre
-l'alcoolisme, le tribunal pourra, dans tous les cas visés à l'alinéa 1er, ordonner la fermeture de l'établissement pour une
-durée de trois mois à cinq ans et prononcer, le cas échéant, le retrait de la licence de débit de boissons ou de restaurant.
+[*Nota - Ordonnance 96-267 du 28 mars 1996 art. 12 : l'article 225 de la présente ordonnance est applicable dans les TOM et à
+Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -35607,31 +35434,34 @@ durée de trois mois à cinq ans et prononcer, le cas échéant, le retrait de l
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Modifié par**:
-
-	  - Loi n°87-1157 du 31 décembre 1987 - art. 7 () JORF 5 janvier 1988
-
 	**Cité par**:
 
 	  - Loi n°90-1010 du 14 novembre 1990 - art. 13 (M)
 	  - Code de la santé publique - art. L629-2 (M)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 225 () JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L627 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L628 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - CODE DE PROCEDURE PENALE - art. 148-1 (M)
-	  - Code de la santé publique - art. L627 (M)
-	  - Code de la santé publique - art. L627-2 (M)
+	  - Code pénal - art. 222-49 (M)
+	  - CODE DE PROCEDURE PENALE - art. 706-33 (M)
 	  - Code de la santé publique - art. L628 (Ab)
-	  - Code des débits de boissons TITRE 3
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L3421-3 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L627 (M)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L628 (Ab)
 
 
 ###### Article L629-2
@@ -35784,67 +35614,6 @@ l'expiration de sa peine d'emprisonnement.
 	**Modifié par**:
 
 	  - Loi n°93-1027 du 24 août 1993 - art. 35 () JORF 29 août 1993
-
-
-###### Article L630-2
-
-Les peines prévues au présent chapitre seront portées au double en cas de récidive, dans les conditions de l'article 58 du
-Code pénal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 223 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
-
-	**Cite**:
-
-	  - Code pénal 58
-	  - Code de la santé publique L626 A L630-2
-
-
-###### Article L630-3
-
-Lorsque, à l'occasion d'une même procédure, la personne poursuivie aura été déclarée coupable de plusieurs infractions parmi
-lesquelles figurent au moins un crime et l'un des délits prévus par les articles L. 627, L. 627-2 ou L. 630, chacune des
-peines encourues pourra être prononcée. Toutefois, si plusieurs infractions constitutives d'un crime ou délit sont punies de
-peines de même espèce, la juridiction ne pourra prononcer, pour ces infractions, qu'une seule peine de cette espèce dans la
-limite du maximum légal le plus élevé. Chaque peine prononcée sera réputée commune à l'ensemble des infractions constitutives
-d'un crime ou délit dans la limite du maximum légal applicable à chacune d'entre elles.
-
-Lorsque, à l'occasion de procédures séparées, la personne poursuivie aura fait l'objet d'une condamnation pour crime et d'une
-condamnation pour l'un des délits prévus par les articles L. 627, L. 627-2 ou L. 630, les peines de même espèce s'exécuteront
-cumulativement dans la limite du maximum légal le plus élevé toutes les fois que les faits ayant donné lieu à l'une des
-condamnations auront été commis avant que l'autre ne devienne définitive. Néanmoins, la confusion des peines de même espèce
-pourra être ordonnée.
-
-Pour l'application du présent article, les peines privatives de liberté seront considérées comme étant de même espèce ; le
-maximum légal le plus élevé sera déterminé en considération de la durée de la peine la plus longue. "
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°87-1157 du 31 décembre 1987 - art. 12 () JORF 5 janvier 1988) A(Loi 92-1336 1992-12-16 art. 223 JORF 23 décembre 1992 en vigueur le 1er septembre 1993
-
-	**Cité par**:
-
-	  - Loi n°90-1010 du 14 novembre 1990 - art. 13 (M)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L627 (M)
-	  - Code de la santé publique - art. L627-2 (M)
-	  - Code de la santé publique - art. L630 (M)
 
 
 #### Chapitre 2 : Radio-éléments artificiels
@@ -36449,15 +36218,20 @@ ou en ayant tiré profit, si le délit a été commis par toute autre voie.
 
 Indépendamment des contraventions visées à l'article précédent, lorsqu'un thermomètre, mis en vente ou vendu sans les signes
 de contrôle prévus à l'article L. 651, aura été reconnu inexact à plus de deux dixièmes de degré, le vendeur ou détenteur
-responsable sera passible, en cas de mauvaise foi constatée, des peines prévues par l'article 1er de la loi du 1er août 1905
-et, dans le cas contraire, des peines prévues par l'article 13 de la même loi.
+responsable sera passible, en cas de mauvaise foi constatée, des peines prévues par l'article L. 213-1 du code de la
+consommation et, dans le cas contraire, des peines prévues par l'article L. 214-2 du même code.
 
 Les mêmes peines seront applicables au vendeur ou détenteur responsable dans le cas où l'appareil livré ou mis en vente avec
 les signes du contrôle prévu à l'article 651 aura été reconnu inexact à plus de deux dixièmes de degré, à moins qu'aucune
 négligence ne lui soit personnellement imputable.
 
-Dans le cas d'apposition d'une fausse marque sur un appareil, les articles 142 et 143 du Code pénal seront applicables. En
-toute circonstance, les appareils reconnus inexacts seront saisis et confisqués.
+Dans le cas d'apposition d'une fausse marque sur un appareil, les articles 444-3 et 444-4 du Code pénal seront applicables.
+En toute circonstance, les appareils reconnus inexacts seront saisis et confisqués.
+
+**Nota:**
+
+[*Nota : Loi 93-949 du 26 juillet 1993 art. 4 : les références à la loi du 1er août 1905 sont remplaçées par les références
+au code de la consommation correspondantes.*]
 
 **Liens relatifs à cet article**
 
@@ -36468,10 +36242,12 @@ toute circonstance, les appareils reconnus inexacts seront saisis et confisqués
 
 	**Cite**:
 
-	  - Code pénal 142, 143
+	  - Code de la consommation - art. L213-1 (M)
+	  - Code de la consommation - art. L214-2 (M)
+	  - Code pénal - art. 444-3 (M)
+	  - Code pénal - art. 444-4 (M)
 	  - Code de la santé publique - art. L651 (Ab)
-	  - Code de la santé publique - art. L654 (Ab)
-	  - Loi n°1905-08-01 ART. 1, ART. 13
+	  - Code de la santé publique L651, 651
 
 	**Cité par**:
 
@@ -36480,6 +36256,18 @@ toute circonstance, les appareils reconnus inexacts seront saisis et confisqués
 	**Anciens textes**:
 
 	  - Loi n°1918-08-14 ART. 4
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 228 () JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°93-949 1993-07-26 art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 #### Chapitre 7 : Biberons à tube et tétines
@@ -36639,12 +36427,11 @@ intégrale du produit doit être transmise aux centres de traitement des intoxic
 L'obligation d'indiquer dans le dossier et de transmettre aux centres de traitement des intoxications visés à l'alinéa
 précédent la formule intégrale du produit ne s'applique pas [*non*] aux parfums proprement dits et aux compositions
 parfumantes, pour lesquels doivent toutefois être indiqués et transmis la liste et le dosage des supports et des produits
-[*substances vénéneuses, colorants, conservateurs, bactéricides et fongicides*]
-
-prévus aux articles L. 658-5 et L. 658-6 du présent code entrant éventuellement dans leur composition.
+[*substances vénéneuses, colorants, conservateurs, bactéricides et fongicides*] prévus aux articles L. 658-5 et L. 658-6 du
+présent code entrant éventuellement dans leur composition.
 
 Les personnes ayant accès aux dossiers ou aux formules visées au présent article sont tenues au secret professionnel selon
-les modalités prévues à l'article 378 du code pénal, sauf à l'égard des autorités judiciaires.
+les modalités prévues aux articles 226-13 et 226-14 du code pénal, sauf à l'égard des autorités judiciaires.
 
 Un décret fixe les conditions permettant la protection, notamment dans les centres de traitement des intoxications, du secret
 de la formule intégrale du produit, ainsi que de celle des composants mentionnés au dossier de fabrication et délivrés par
@@ -36693,19 +36480,20 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code du travail - art. R231-52-16 (VT)
 	  - Code du travail - art. R231-60 (T)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 	  - Code de la santé publique - art. L658-5 (M)
 	  - Code de la santé publique - art. L658-6 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L5131-3 (V)
-
-	**Créé par**:
-
-	  - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
 
 
 ###### Article L658-4
@@ -60576,9 +60364,9 @@ La commission [*mentionnée à l'article R. 5140*] peut faire appel à des rappo
 
 ###### Article R5141-4
 
-Sans préjudice du secret professionnel auquel sont astreints, dans les conditions prévues à l'article 378 du code pénal, les
-membres, les rapporteurs et les experts de la commission mentionnée à l'article R. 5140, les délibérations de celle-ci sont
-secrètes.
+Sans préjudice du secret professionnel auquel sont astreints, dans les conditions prévues aux articles 226-13 et 226-14 du
+code pénal, les membres, les rapporteurs et les experts de la commission mentionnée à l'article R. 5140, les délibérations de
+celle-ci sont secrètes.
 
 **Liens relatifs à cet article**
 
@@ -60587,14 +60375,15 @@ secrètes.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
-
-	  - Décret n°78-181 1978-02-09 art. 2 JORF 22 février 1978
-
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 	  - Code de la santé publique - art. R5140 (M)
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 
 ###### Article R5141-5
@@ -62769,9 +62558,9 @@ Le président de la commission désigne un rapporteur dans chaque affaire. La co
 
 ###### Article R5146-39-5
 
-Sans préjudice du secret professionnel auquel sont astreints, dans les conditions prévues à l'article 378 du code pénal, les
-membres, les rapporteurs et les experts de la commission mentionnée à l'article R. 5146-38, les délibérations de celle-ci
-sont secrètes.
+Sans préjudice du secret professionnel auquel sont astreints, dans les conditions prévues aux articles 226-13 et 226-14 du
+code pénal, les membres, les rapporteurs et les experts de la commission mentionnée à l'article R. 5146-38, les délibérations
+de celle-ci sont secrètes.
 
 **Liens relatifs à cet article**
 
@@ -62780,13 +62569,14 @@ sont secrètes.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-623 1987-07-30 art. 2 JORF 5 août 1987
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 	  - Code de la santé publique - art. R5146-38 (M)
 
 	**Nouveaux textes**:
@@ -71023,7 +70813,7 @@ date à laquelle expirait le mandat du membre remplacé.
 Le président et le vice-président de la commission sont désignés par le ministre chargé de la santé ; ils peuvent être
 choisis en dehors des membres de la commission.
 
-Les personnalités mentionnées au 3° sont nommés pour une durée de trois ans. La durée totale des mandats successifs qu'elles
+Les personnalités mentionnées au 3° sont nommées pour une durée de trois ans. La durée totale des mandats successifs qu'elles
 peuvent exercer, en qualité de titulaire, ne peut excéder six ans.
 
 Le président et le vice-président sont également nommés pour une durée de trois ans mais peuvent exercer leurs fonctions sans
@@ -71035,9 +70825,9 @@ est jugée utile.
 Des groupes d'experts compétents pour les différentes catégories de produits et appareils préparent le travail de la
 commission. Ces experts sont désignés par arrêté du ministre chargé de la santé sur proposition de la commission.
 
-Sans préjudice du secret professionnel auquel sont astreints, dans les conditions prévues à l'article 378 du code pénal, les
-membres de la commission et des groupes d'experts ainsi que les personnels qui assistent aux délibérations, ces délibérations
-sont secrètes.
+Sans préjudice du secret professionnel auquel sont astreints, dans les conditions prévues aux articles 226-13, 226-14 du code
+pénal, les membres de la commission et des groupes d'experts ainsi que les personnels qui assistent aux délibérations, ces
+délibérations sont secrètes.
 
 La commission se prononce à la majorité simple. En cas de partage égal des voix, celle du président est prépondérante.
 
@@ -71051,13 +70841,18 @@ est assuré par le ministère chargé de la santé.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 
 ###### Article R5276
@@ -76388,7 +76183,7 @@ des départements, dans lequel est situé le secteur. Ils sont conservés dans u
 
 Ce registre est tenu à la disposition des membres de la conférence qui peuvent le consulter sur place et obtenir des copies
 ou des extraits des procès-verbaux ; ces copies ou extraits ne peuvent être utilisés que sous réserve du respect de
-l'obligation de discrétion professionnelle et, le cas échéant, des prescriptions de l'article 378 du code pénal.
+l'obligation de discrétion professionnelle et, le cas échéant, des prescriptions des articles 226-13 et 226-14 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -76397,13 +76192,14 @@ l'obligation de discrétion professionnelle et, le cas échéant, des prescripti
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-517 du 5 juin 1992 - art. 1 () JORF 14 juin 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 333 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
 
 	**Nouveaux textes**:
 
