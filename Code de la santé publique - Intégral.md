@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1958-12-31
+Version Consolidée au 1959-01-06
 
 # Partie législative ancienne
 
@@ -5809,6 +5809,43 @@ En outre, toute personne spécialement désignée par le ministre de la Santé p
 	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
 
 
+###### Article L205
+
+S'il est établi que la santé, la sécurité ou la moralité des enfants se trouvent compromises, ou si la direction de
+l'établissement refuse de se soumettre à la surveillance prévue à l'article 204, le préfet [*autorité compétente*] peut, par
+arrêté motivé, ordonner la fermeture de l'établissement, sous réserve de l'approbation du ministre de la santé publique et de
+la population [*sanction*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L204 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2321-6 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°55-685 1955-05-20 ART. 1
+	  - Décret n°56-907 1956-09-10
+
+	**Modifié par**:
+
+	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
+	  - Ordonnance 59-34 1959-01-05 art. 1 JORF 6 janvier 1959
+
+	**Cité par**:
+
+	  - Décret n°56-841 du 18 août 1956 - art. 28 (Ab)
+
+
 ###### Article L206
 
 Un décret en Conseil d'Etat fixera les conditions d'application du présent titre et notamment : 
@@ -5869,6 +5906,46 @@ protection des enfants placés hors du domicile de leurs parents.
 	**Modifié par**:
 
 	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
+
+
+###### Article L208
+
+Sera puni d'une amende de 400 F à 15.000 F [*montant*] et d'un emprisonnement de un à trois mois [*durée*] ou de l'une de ces
+deux peines seulement : 
+
+1° Quiconque aura ouvert ou dirigé sans autorisation l'un des établissements visés au présent titre, ou aura sciemment fait
+une déclaration inexacte ou incomplète ; 
+
+2° Quiconque aura continué l'exploitation d'un tel établissement malgré une décision de fermeture ;
+
+3° Quiconque, assumant la direction d'un des établissements visés, aura mis ou tenté de mettre obstacle au contrôle prévu à
+l'article 204.
+
+En cas de récidive, le délinquant sera condamné à une amende de 2.000 F à 30.000 F et à un emprisonnement de deux mois à un
+an ou à l'une de ces deux peines seulement.
+
+En ce cas, le tribunal pourra ordonner la fermeture temporaire ou définitive de l'établissement et prononcer en outre
+l'interdiction, à temps ou définitive, d'exercer les fonctions de directeur d'un établissement visé au présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L204 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2326-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
+	  - Ordonnance 59-34 1959-01-05 ART. 2 JORF 6 janvier 1959
 
 
 ## Livre 3 : Lutte contre les fléaux sociaux
