@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-10-07
+Version Consolidée au 1994-10-11
 
 # Partie législative ancienne
 
@@ -81323,24 +81323,26 @@ homologué et ne pouvant être ni utilisé, ni mis sur le marché".
 	  - Code de la santé publique - art. R5274 (Ab)
 
 
-## Livre 6 : Utilisation thérapeutique de produits d'origine humaine
+## Livre 6 : Don et utilisation des éléments et produits du corps humain
 
-### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés
+### Titre 2 : Du sang humain
 
-#### Section 1 : Hémovigilance
+#### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés
+
+##### Section 1 : Hémovigilance
 
 ##### Sous-section 1 : Dispositions générales
 
 ###### Article R666-12-1
 
-L'hémovigilance [*définition*] est un élément de la sécurité transfusionnelle. Elle comporte, pour toute unité préparée d'un
-produit sanguin labile :
+L'hémovigilance    est un élément de la sécurité transfusionnelle. Elle comporte, pour toute unité préparée d'un produit
+sanguin labile : 
 
 a) Le signalement de tout effet inattendu ou indésirable lié ou susceptible d'être lié à l'usage thérapeutique de ce
-produit ;
+produit ; 
 
 b) Le recueil, la conservation et l'accessibilité des informations relatives à son prélèvement, à sa préparation, à son
-utilisation ainsi qu'aux effets mentionnés au a ci-dessus ;
+utilisation ainsi qu'aux effets mentionnés au a ci-dessus ; 
 
 c) L'évaluation et l'exploitation de ces informations en vue de prévenir la survenance de tout effet inattendu ou indésirable
 résultant de l'utilisation thérapeutique des produits sanguins labiles.
@@ -81352,9 +81354,13 @@ résultant de l'utilisation thérapeutique des produits sanguins labiles.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 	**Nouveaux textes**:
 
@@ -81386,9 +81392,9 @@ c) Procède ou fait procéder par une personne morale de droit public agissant s
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -81417,16 +81423,14 @@ réside, ou est susceptible de résider, dans la qualité du sang prélevé dont
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R1221-18 (V)
 
-
-##### Sous-section 2 : Dispositions générales
 
 ###### Article R666-12-4
 
@@ -81440,9 +81444,9 @@ recueille dans l'exercice de sa mission d'hémovigilance et dont la liste est fi
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -81466,9 +81470,9 @@ dont il assure l'approvisionnement.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Cité par**:
 
@@ -81496,9 +81500,13 @@ transfusion sanguine que les produits sanguins labiles dont il a lui-même assur
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-150 du 4 mars 1999 - art. 3 () JORF 5 mars 1999 en vigueur au plus tard le 31 décembre 1999
 
 	**Cité par**:
 
@@ -81518,9 +81526,9 @@ doivent être compatibles avec les dispositions du ou des schémas d'organisatio
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Cité par**:
 
@@ -81551,9 +81559,9 @@ d'établissements de santé.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Cité par**:
 
@@ -81580,9 +81588,9 @@ obligatoires que doivent comporter ces conventions.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Cité par**:
 
@@ -81610,9 +81618,13 @@ l'article L. 716-3.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-150 du 4 mars 1999 - art. 6 () JORF 5 mars 1999
 
 	**Cite**:
 
@@ -81663,9 +81675,9 @@ article et fixer les modalités de leur recueil par l'établissement de transfus
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Cité par**:
 
@@ -81710,9 +81722,9 @@ Le nom du correspondant est communiqué par l'établissement à l'Agence frança
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -81746,7 +81758,7 @@ distinct de l'établissement de transfusion distributeur ;
 c) Les circonstances du transport et de la conservation de l'unité ainsi que l'identification du prescripteur et celle de la
 personne responsable de l'administration du produit sanguin ;
 
-d) L'identification du patient auquel a été administré l'unité et les circonstances de cette administration, ou, le cas
+d) L'identification du patient auquel a été administrée l'unité et les circonstances de cette administration, ou, le cas
 échéant, la date à laquelle l'unité a été détruite ou restituée à l'établissement de transfusion sanguine distributeur ;
 
 e) Le cas échéant, l'identification de l'établissement de santé auquel a été cédée l'unité ainsi que la date et les
@@ -81779,9 +81791,9 @@ transfusion sanguine.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Cité par**:
 
@@ -81832,9 +81844,9 @@ Le nom du correspondant est communiqué par l'établissement au préfet de régi
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Liens**:
 
@@ -81875,18 +81887,23 @@ transfusionnelle et d'hémovigilance d'établissement.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
-
 	**Cité par**:
 
 	  - Arrêté du 24 février 1994 - art. 1 (V)
 	  - Code de la santé publique - art. R713-2-22 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R1221-31 (Ab)
+	  - Code de la santé publique - art. R1221-31 (M)
 
 
 ###### Article R666-12-16
@@ -81923,44 +81940,23 @@ f) Il remet à la commission médicale d'établissement un rapport annuel d'acti
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. R1221-32 (M)
 	  - Code de la santé publique - art. R1221-32 (V)
 
 	**Cite**:
 
 	  - Code de la santé publique - art. R666-12-24 (M)
 	  - Code de la santé publique - art. R710-2-1 (M)
-
-
-###### Article R666-12-17
-
-Le comité de sécurité transfusionnelle et d'hémovigilance d'établissement se réunit au moins trois fois par an.
-
-Le coordonnateur régional, s'il le souhaite, assiste de droit aux séances du comité et peut y être entendu.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R1221-33 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R5144-24 (Ab)
 
 
 ###### Article R666-12-18
@@ -81976,9 +81972,9 @@ d'hémovigilance d'établissement.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -81998,9 +81994,9 @@ toute investigation sur les circonstances d'un incident transfusionnel inattendu
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82036,9 +82032,9 @@ susceptible d'améliorer la qualité, la fiabilité et la cohérence du disposit
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82082,9 +82078,9 @@ investigations, entre les établissements et le coordonnateur, d'une part, entre
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82112,9 +82108,9 @@ autre coordonnateur régional une information dont il est détenteur. Il en info
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82135,9 +82131,9 @@ après avis du préfet de région.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82145,44 +82141,6 @@ après avis du préfet de région.
 
 
 ##### Sous-section 6 : Déclaration d'incident transfusionnel
-
-###### Article R666-12-24
-
-Tout médecin, pharmacien, chirurgien-dentiste, sage-femme, infirmière ou infirmier qui a connaissance de l'administration
-d'un produit sanguin labile à un de ses patients et qui constate un effet inattendu ou indésirable dû, ou susceptible d'être
-dû à ce produit, [*obligation*] doit le signaler sans délai au correspondant d'hémovigilance de l'établissement dans lequel a
-été administré le produit. A défaut, il le signale à tout correspondant d'hémovigilance d'un établissement de transfusion
-sanguine ou de santé, qui transmet cette information au correspondant d'hémovigilance compétent.
-
-Le correspondant d'hémovigilance de l'établissement dans lequel a eu lieu l'administration du produit en cause procède aux
-investigations et examens appropriés dans le service concerné. Il informe le correspondant de l'établissement de transfusion
-sanguine distributeur et rédige, en concertation avec lui, une fiche d'incident transfusionnel dont copie est versée au
-dossier médical du patient.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R1221-40 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R666-12-12 (Ab)
-	  - Code de la santé publique - art. R666-12-14 (Ab)
-	  - Code de la santé publique - art. R666-12-16 (Ab)
-	  - Code de la santé publique - art. R710-2-1 (M)
-	  - Code de la santé publique - art. R710-2-2 (Ab)
-	  - Code de la santé publique - art. R721-1 (Ab)
-
 
 ###### Article R666-12-25
 
@@ -82196,9 +82154,9 @@ sont destinataires des fiches d'incident transfusionnel.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82222,9 +82180,9 @@ transmettre la fiche.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82235,9 +82193,9 @@ transmettre la fiche.
 	  - Code de la santé publique - art. R666-12-2 (Ab)
 
 
-### Chapitre 2 : Organisation et fonctionnement de l'Agence française du sang
+#### Chapitre 2 : Organisation et fonctionnement de l'Agence française du sang
 
-#### Section 1 : Dispositions générales
+##### Section 1 : Dispositions générales
 
 ###### Article R667-1
 
@@ -82260,9 +82218,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Cité par**:
 
@@ -82284,7 +82243,7 @@ Pour l'exercice des missions définies à l'article L. 667-5, l'agence peut nota
 1° Acquérir les biens meubles ou immeubles nécessaires ;
 
 2° Attribuer, sur son budget propre, des subventions, prêts ou avances à des personnes publiques ou privées qui réalisent des
-études, recherches, travaux ou équipements concourant à l'accomplissement de ses missions.
+études, recherches, travaux ou équipements concourant à l'accomplissement de ses missions ;
 
 3° Coopérer, en particulier par la voie de conventions ou de participations à des groupements d'intérêt public ou des
 groupements d'intérêt économique, avec toute personne publique ou privée, française ou étrangère, et notamment avec les
@@ -82311,10 +82270,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 2
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Cite**:
 
@@ -82329,7 +82288,7 @@ territoriale de Mayotte.*]
 	  - TXT_ASSOCIE: Code de la santé publique - art. R667-44 (M)
 
 
-#### Section 2 : Organisation générale
+##### Section 2 : Organisation générale
 
 ##### Sous-section 1 : Le conseil d'administration
 
@@ -82402,10 +82361,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 3
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 2 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82445,10 +82404,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 4
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Cite**:
 
@@ -82489,10 +82448,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 5
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82532,9 +82491,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 6
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82573,9 +82533,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 7
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82612,9 +82573,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 8
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82693,10 +82655,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 9
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82741,10 +82703,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 10
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82782,9 +82744,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 11
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82847,10 +82810,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 12
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Cite**:
 
@@ -82898,9 +82861,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 13
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82946,10 +82910,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 14
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -82993,10 +82957,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 15
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Cite**:
 
@@ -83055,10 +83019,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 16
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Cite**:
 
@@ -83095,9 +83059,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 17
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83125,9 +83094,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 18
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83158,9 +83132,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 19
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83188,9 +83167,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 20
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83238,9 +83222,9 @@ président ;
 6° Deux membres nommés sur proposition de la Fédération française des donneurs de sang bénévoles ;
 
 7° Cinq membres représentant les personnels des établissements de transfusion sanguine nommés respectivement sur proposition
-de chacune des organisations syndicales suivantes : Confédération française démocratique du travail (C.F.D.T.), Confédération
-française des travailleurs chrétiens (C.F.T.C.), Confédération française de l'encadrement (C.F.E.-C.G.C.), Confédération
-générale du travail (C.G.T.) et Confédération générale du travail Force ouvrière (C.G.T.-F.O.) ;
+de chacune des organisations syndicales suivantes : Confédération française démocratique du travail (CFDT), Confédération
+française des travailleurs chrétiens (CFTC), Confédération française de l'encadrement (CFE-CGC), Confédération générale du
+travail (CGT) et Confédération générale du travail Force ouvrière (CGT-FO) ;
 
 D. - Douze membres nommés par le conseil d'administration de l'agence, pour trois ans, sur proposition du président de
 l'agence :
@@ -83275,10 +83259,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 21
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83309,9 +83297,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 22
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83338,9 +83331,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 23
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83372,9 +83370,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 24
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83409,9 +83412,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 25
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83445,10 +83453,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 26
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Cite**:
 
@@ -83482,10 +83494,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 27
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Cite**:
 
@@ -83530,10 +83546,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 28
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Cite**:
 
@@ -83569,9 +83585,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 29
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83607,9 +83628,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 30
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83641,9 +83667,10 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 31
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
 
 	**Liens**:
 
@@ -83677,16 +83704,21 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 32
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique - art. R667-44 (M)
 
 
-#### Section 3 : Dispositions financières et comptables
+##### Section 3 : Dispositions financières et comptables
 
 ##### Sous-section 1 : Dispositions générales
 
@@ -83717,10 +83749,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 33
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83747,9 +83783,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 34
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83781,9 +83822,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 35
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83816,10 +83862,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 36
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83853,10 +83903,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 37
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Cite**:
 
@@ -83889,9 +83943,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 38
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83920,9 +83979,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 39
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83950,9 +84014,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 40
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -83988,9 +84057,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 41
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -84020,10 +84094,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 42
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -84034,7 +84112,7 @@ territoriale de Mayotte.*]
 	  - Code de la santé publique - art. R667-9 (M)
 
 
-#### Section 4 : Dispositions diverses
+##### Section 4 : Dispositions diverses
 
 ###### Article R667-43
 
@@ -84067,9 +84145,14 @@ territoriale de Mayotte.*]
 
 	  - Décret n°93-312 1993-03-09 art. 43
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -84091,10 +84174,14 @@ Les dispositions du présent chapitre sont applicables à la collectivité terri
 
 	  - Décret n°93-312 1993-03-09 art. 44
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 1 (Ab) JORF 12 mai 1994
-	  - Décret n°94-365 du 10 mai 1994 - art. 3 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 1 () JORF 30 décembre 1999
 
 	**Liens**:
 
@@ -84144,9 +84231,9 @@ Les dispositions du présent chapitre sont applicables à la collectivité terri
 	  - TXT_ASSOCIE: Code de la santé publique - art. R667-9 (Ab)
 
 
-### Chapitre 3 : Des établissements de transfusion sanguine
+#### Chapitre 3 : Des établissements de transfusion sanguine
 
-#### Section 1 : Des organismes agréés en qualité d'établissement de transfusion sanguine
+##### Section 1 : Des organismes agréés en qualité d'établissement de transfusion sanguine
 
 ##### Sous-section 1 : Des associations agréées en qualité d'établissement de transfusion sanguine
 
@@ -84163,9 +84250,14 @@ section.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 4 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Transféré par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
 
 	**Cite**:
 
@@ -84197,9 +84289,14 @@ section.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 4 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Transféré par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
 
 	**Cité par**:
 
@@ -84234,9 +84331,14 @@ l'objet d'une publication dans les mêmes conditions.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 4 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Transféré par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
 
 	**Cite**:
 
@@ -84274,9 +84376,14 @@ et les administrations concernées.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 4 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Transféré par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
 
 	**Cité par**:
 
@@ -84299,16 +84406,21 @@ L'agent comptable des groupements soumis aux règles de la comptabilité publiqu
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-365 du 10 mai 1994 - art. 4 () JORF 12 mai 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Transféré par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R668-1-5 (M)
 
 
-### Chapitre 4 : Des schémas d'organisation de la transfusion sanguine
+#### Chapitre 4 : Des schémas d'organisation de la transfusion sanguine
 
 ###### Article R669-1
 
@@ -84335,9 +84447,14 @@ une organisation commune concernant certaines activités sur tout ou partie de l
 
 	  - Décret n°60-516 1960-06-02 annexe I
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 	**Nouveaux textes**:
 
@@ -84363,9 +84480,14 @@ d'organisation de la transfusion sanguine pour les questions visées aux deuxiè
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 	**Nouveaux textes**:
 
@@ -84392,9 +84514,14 @@ subventions prévues à l'article L. 667-11 pour l'application des schémas d'or
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 	**Cite**:
 
@@ -84425,9 +84552,14 @@ par le président de l'Agence française du sang ou le préfet de région.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 	**Nouveaux textes**:
 
@@ -84455,9 +84587,14 @@ Les membres des commissions exercent leur mandat à titre gratuit.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-644 du 26 juillet 1994 - art. 1 () JORF 28 juillet 1994
+	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
 
 	**Cite**:
 
@@ -84466,6 +84603,1184 @@ Les membres des commissions exercent leur mandat à titre gratuit.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R1224-4 (Ab)
+
+
+### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés
+
+#### Section 1 : Hémovigilance
+
+##### Sous-section 4 : Rôle des établissements de santé
+
+###### Article R666-12-17
+
+Le comité de sécurité transfusionnelle et d'hémovigilance d'établissement se réunit au moins trois fois par an.
+
+Le coordonnateur régional, s'il le souhaite, assiste de droit aux séances du comité et peut y être entendu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-33 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5144-24 (Ab)
+
+
+##### Sous-section 6 : Déclaration d'incident transfusionnel
+
+###### Article R666-12-24
+
+Tout médecin, pharmacien, chirurgien-dentiste, sage-femme, infirmière ou infirmier qui a connaissance de l'administration
+d'un produit sanguin labile à un de ses patients et qui constate un effet inattendu ou indésirable dû, ou susceptible d'être
+dû à ce produit, [*obligation*] doit le signaler sans délai au correspondant d'hémovigilance de l'établissement dans lequel a
+été administré le produit. A défaut, il le signale à tout correspondant d'hémovigilance d'un établissement de transfusion
+sanguine ou de santé, qui transmet cette information au correspondant d'hémovigilance compétent.
+
+Le correspondant d'hémovigilance de l'établissement dans lequel a eu lieu l'administration du produit en cause procède aux
+investigations et examens appropriés dans le service concerné. Il informe le correspondant de l'établissement de transfusion
+sanguine distributeur et rédige, en concertation avec lui, une fiche d'incident transfusionnel dont copie est versée au
+dossier médical du patient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-40 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R666-12-12 (Ab)
+	  - Code de la santé publique - art. R666-12-14 (Ab)
+	  - Code de la santé publique - art. R666-12-16 (Ab)
+	  - Code de la santé publique - art. R710-2-1 (M)
+	  - Code de la santé publique - art. R710-2-2 (Ab)
+	  - Code de la santé publique - art. R721-1 (Ab)
+
+
+### Titre 3 : Des organes, tissus, cellules et produits du corps humain
+
+#### Chapitre 2 bis : De l'Etablissement français des greffes
+
+##### Section 1 : Dispositions générales
+
+###### Article R673-8-1
+
+Au titre des missions qui lui sont dévolues par les dispositions de l'article L. 673-8, l'Etablissement français des greffes
+est chargé [*attributions*] :
+
+1° En vue d'une bonne application des règles relatives à la gestion de la liste nationale des patients, à la répartition et à
+l'attribution des greffons :
+
+a) De coordonner les activités de prélèvement et de greffe d'organes, de moelle osseuse, de tissus dont la cornée et de
+cellules issues du corps humain, à l'exclusion de celles qui relèvent du chapitre Ier du titre II du livre VI, y compris les
+échanges internationaux dont les greffons font l'objet, et de définir les modalités et l'organisation territoriale de cette
+coordination ;
+
+b) De recueillir les informations nécessaires à l'évaluation des activités de prélèvement et de greffe et à l'analyse des
+résultats obtenus par type de greffe et par équipe ;
+
+c) De gérer un fichier national de donneurs volontaires non apparentés de moelle osseuse et de définir les conditions
+d'interrogation des fichiers européens et internationaux ;
+
+2° De promouvoir la qualité de l'appariement immunologique ;
+
+3° De donner un avis à l'autorité administrative compétente préalablement à la délivrance à des établissements de santé de
+l'autorisation de pratiquer des prélèvements ;
+
+4° De donner un avis au ministre des affaires étrangères sur les demandes de visa pour motif sanitaire présentées par des
+patients non résidents lorsque ces demandes sont faites en vue d'opérations de prélèvement ou de greffe ;
+
+5° De promouvoir et de favoriser l'innovation scientifique ; de participer à l'enseignement et à la recherche dans le domaine
+des greffes ;
+
+6° De proposer toutes mesures permettant d'assurer la meilleure sécurité possible dans les activités de greffe.
+
+A la demande du ministre chargé de la santé, l'établissement participe, dans les domaines relevant de sa compétence, à
+l'élaboration et à la mise en oeuvre des règles communautaires et des accords internationaux, ainsi qu'à la représentation de
+la France dans toute instance internationale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L673-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1251-1 (Ab)
+
+
+###### Article R673-8-2
+
+Pour l'exercice de ses missions, l'Etablissement français des greffes peut notamment :
+
+1° Acquérir les biens meubles ou immeubles nécessaires ;
+
+2° Attribuer sur son budget propre des subventions, prêts ou avances à des personnes publiques ou privées qui réalisent des
+études, recherches, travaux ou équipements concourant à l'accomplissement de ses missions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-25 (Ab)
+
+
+###### Article R673-8-3
+
+Dans les domaines relevant de sa compétence, l'Etablissement français des greffes communique toute information et réalise
+toute étude qui lui sont demandées par le ministre chargé de la santé.
+
+Il signale au ministre chargé de la santé tout manquement aux règles applicables en matière de prélèvement, de conservation,
+de transformation, de transport, de répartition et d'attribution des greffons et lui propose les mesures qu'il juge utiles
+pour y remédier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1251-2 (Ab)
+
+
+##### Section 2 : Organisation de l'établissement
+
+##### Sous-section 1 : Le conseil d'administration
+
+###### Article R673-8-4
+
+L'Etablissement français des greffes est administré par un conseil d'administration qui comprend, outre son président, vingt-
+sept membres nommés pour une durée de trois ans, à savoir [*composition*] :
+
+1° Le directeur général de la santé ou son représentant ;
+
+2° Le directeur des hôpitaux ou son représentant ;
+
+3° Le directeur de l'administration générale, du personnel et du budget au ministère chargé de la santé ou son représentant ;
+
+4° Le directeur de la sécurité sociale au ministère chargé de la sécurité sociale ou son représentant ;
+
+5° Le directeur des Français à l'étranger et des étrangers en France au ministère des affaires étrangères ou son
+représentant ;
+
+6° Le directeur du budget au ministère chargé du budget ou son représentant ;
+
+7° Le directeur des affaires civiles et du sceau au ministère de la justice ou son représentant ;
+
+8° Le directeur général de la recherche et de la technologie au ministère chargé de la recherche ou son représentant ;
+
+9° Le directeur général des enseignements supérieurs au ministère chargé de l'enseignement supérieur ou son représentant ;
+
+10° Le président de l'Agence française du sang ou son représentant ;
+
+11° Le directeur général de l'Institut national de la santé et de la recherche médicale ou son représentant ;
+
+12° Un directeur régional ou départemental des affaires sanitaires et sociales ;
+
+13° Un médecin inspecteur régional ou départemental de la santé ;
+
+14° Un représentant de la Caisse nationale d'assurance maladie des travailleurs salariés, désigné par le conseil
+d'administration de la caisse ;
+
+15° Un représentant des associations pour la promotion du don en vue des greffes ;
+
+16° Cinq praticiens qualifiés dans le domaine des greffes, de l'immunologie, de l'anesthésie-réanimation et de la
+conservation des greffons ;
+
+17° Un représentant du personnel de l'Etablissement français des greffes, élu selon des modalités définies par le règlement
+intérieur de l'établissement ;
+
+18° Un infirmier relevant de la fonction publique hospitalière et exerçant une activité de coordination locale dans le
+domaine des prélèvements et greffes ;
+
+19° Une personnalité désignée par le Comité consultatif national d'éthique pour les sciences de la vie et de la santé ;
+
+20° Un représentant de la Fédération hospitalière de France ;
+
+21° Un représentant des organisations d'hospitalisation privée ;
+
+22° Un représentant désigné par la conférence des présidents de commission médicale d'établissement de centre hospitalier et
+universitaire n'exerçant pas d'activité dans le domaine des greffes ;
+
+23° Un représentant des associations de malades greffés ou en attente de greffe.
+
+Les membres du conseil d'administration mentionnés aux 15°, 21° et 23° sont proposés conjointement par les organisations
+concernées. En cas de désaccord, chacune de ces organisations propose un nom au ministre chargé de la santé ; le ministre
+procède alors à la désignation des membres parmi les personnes ainsi proposées.
+
+Les membres mentionnés aux 12°, 13°, 16° et 18° sont désignés par le ministre chargé de la santé.
+
+Pour les membres mentionnés du 12° au 23°, il est procédé dans les mêmes conditions que pour les titulaires à la nomination
+d'autant de membres suppléants. Ces derniers ne siègent au conseil d'administration qu'en cas d'absence du titulaire.
+
+Un arrêté du ministre chargé de la santé fixe la composition nominative du conseil d'administration.
+
+Les membres décédés, démissionnaires ou qui n'exercent plus les fonctions au titre desquelles ils avaient été désignés
+doivent être remplacés. Dans ce cas, le mandat des nouveaux membres expire à la date à laquelle aurait normalement pris fin
+celui de leur prédécesseur.
+
+Le directeur général de l'Etablissement français des greffes, le contrôleur financier, l'agent comptable et le président du
+comité médical et scientifique assistent aux séances du conseil d'administration avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-1 (Ab)
+
+
+###### Article R673-8-5
+
+Le président du conseil d'administration est nommé, par décret, pour une durée de trois ans, sur proposition du ministre
+chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-2 (Ab)
+
+
+###### Article R673-8-6
+
+Les fonctions de membre du conseil d'administration sont exercées à titre gratuit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-3 (Ab)
+
+
+###### Article R673-8-7
+
+Le conseil d'administration se réunit au moins trois fois par an sur convocation de son président. La convocation est de
+droit si le ministre chargé de la santé le demande.
+
+Le président fixe l'ordre du jour.
+
+Les questions dont le ministre chargé de la santé ou le tiers des membres du conseil d'administration demandent l'inscription
+à l'ordre du jour sont inscrites de droit et examinées dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-4 (Ab)
+
+
+###### Article R673-8-8
+
+Les séances ne sont pas publiques.
+
+Le conseil d'administration peut entendre toute personne dont il estime l'audition utile à son information.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-5 (Ab)
+
+
+###### Article R673-8-9
+
+Le conseil d'administration ne peut délibérer valablement que si la moitié au moins de ses membres ayant voix délibérative
+sont présents. Si le quorum n'est pas atteint, le conseil est convoqué dans les quinze jours ; il délibère alors valablement
+quel que soit le nombre d'administrateurs présents.
+
+Le vote au scrutin secret est de droit sur demande d'un membre présent.
+
+Les décisions sont prises à la majorité des membres présents. La voix du président est prépondérante en cas de partage égal
+des voix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-6 (Ab)
+
+
+###### Article R673-8-10
+
+Le conseil d'administration définit les orientations générales des activités de l'Etablissement français des greffes. Il
+délibère sur les matières suivantes :
+
+1° L'organisation générale de l'établissement et le règlement intérieur ;
+
+2° L'organisation fonctionnelle et territoriale de la coordination en matière de prélèvements et de greffes ;
+
+3° Le budget de l'établissement, les décisions modificatives et le compte financier ;
+
+4° Le tableau des emplois de l'établissement ;
+
+5° Les contrats et les marchés d'un montant supérieur à un seuil qu'il détermine ;
+
+6° Les emprunts ;
+
+7° Les acquisitions, aliénations et échanges d'immeubles, les baux et locations les concernant ;
+
+8° L'acceptation et le refus des dons et legs ;
+
+9° L'exercice des actions en justice et les transactions ;
+
+10° Les participations de l'établissement à des groupements d'intérêt public, à des groupements d'intérêt économique ou à
+tous autres organismes, quelle que soit leur nature juridique ;
+
+11° Les conventions comportant des engagements de longue durée pour l'établissement ;
+
+12° Les décisions relatives à la mise en oeuvre de traitements automatisés d'informations nominatives ;
+
+13° Le rapport annuel d'activité.
+
+Le conseil d'administration prend connaissance des avis, des recommandations et du rapport du conseil médical et
+scientifique, mentionnés à l'article R. 673-8-17.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-7 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R673-8-11 (Ab)
+	  - Code de la santé publique - art. R673-8-15 (Ab)
+	  - Code de la santé publique - art. R673-8-17 (Ab)
+	  - Code de la santé publique - art. R673-9-5 (Ab)
+
+
+###### Article R673-8-11
+
+Les délibérations du conseil d'administration mentionnées à l'article R. 673-8-10 deviennent exécutoires selon les modalités
+suivantes :
+
+1° Les délibérations portant sur les matières énumérées aux 1°, 2°, 4°, 5°, 8°, 9°, 11°, 12° et 13° sont exécutoires trente
+jours après leur réception par le ministre chargé de la santé à moins que celui-ci n'y fasse opposition. En cas d'urgence, le
+ministre chargé de la santé peut autoriser l'exécution immédiate ;
+
+2° Les délibérations portant sur les matières mentionnées aux 3°, 6°, 7° et 10° ne sont exécutoires qu'après approbation
+expresse par le ministre chargé de la santé et le ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Cité par**:
+
+	  - Décret n°2003-224 du 7 mars 2003 - art. 3 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-8 (Ab)
+	  - Code de la santé publique - art. R1252-8 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R673-8-10 (Ab)
+
+
+###### Article R673-8-12
+
+Le directeur général de l'établissement prend, sous réserve de l'accord du contrôleur financier et d'une ratification par le
+conseil d'administration lors de sa plus prochaine séance, les décisions modificatives du budget autres que celles qui ont
+pour objet une augmentation des dépenses ou des virements de crédits entre la section de fonctionnement et la section des
+opérations en capital, ou entre les chapitres de personnel et les chapitres de matériel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-9 (Ab)
+
+
+###### Article R673-8-13
+
+Lorsqu'une disposition législative ou réglementaire prévoit la consultation de l'Etablissement français des greffes, cet avis
+est donné par une délibération du conseil d'administration de l'établissement, sauf s'il en est disposé autrement par le
+texte prévoyant l'avis ou par le présent chapitre, après consultation du conseil médical et scientifique dans les domaines
+relevant de la compétence de ce dernier.
+
+Le conseil d'administration donne son avis, par délibération, sur les règles de répartition et d'attribution des greffons et
+sur les règles de bonnes pratiques, mentionnées au troisième alinéa du II de l'article L. 673-8, avant leur transmission pour
+homologation au ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L673-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-10 (Ab)
+
+
+##### Sous-section 2 : Le directeur général de l'Etablissement français des greffes
+
+###### Article R673-8-14
+
+Le directeur général de l'Etablissement des greffes est nommé par décret sur proposition du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-11 (Ab)
+
+
+###### Article R673-8-15
+
+Le directeur général assure la gestion et la conduite générale de l'établissement. Il représente l'établissement en justice
+et dans tous les actes de la vie civile.
+
+Il prépare et exécute les délibérations du conseil d'administration et lui soumet le rapport annuel d'activité. Ce rapport
+fait apparaître un bilan financier par secteur d'activités.
+
+Il a compétence pour régler les affaires de l'établissement autres que celles qui sont énumérées à l'article R. 673-8-10.
+
+Il a autorité sur l'ensemble des personnels de l'établissement ; il recrute et nomme les agents contractuels dans le respect
+du tableau des emplois fixé par le conseil d'administration.
+
+Il passe au nom de l'établissement les contrats et marchés et les actes d'acquisition, de vente et de transaction, sous
+réserve des attributions conférées au conseil d'administration par l'article R. 673-8-10.
+
+Il est ordonnateur des dépenses et recettes du budget de l'établissement. Il peut désigner des ordonnateurs secondaires, sous
+réserve de l'accord du conseil d'administration.
+
+Il peut déléguer sa signature.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Cité par**:
+
+	  - Décret n°98-372 du 14 mai 1998 - art. 1 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-12 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R673-8-10 (Ab)
+
+
+###### Article R673-8-16
+
+Les fonctions de directeur général ne sont pas compatibles avec celles de membre du conseil d'administration ou du conseil
+médical et scientifique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-14 (Ab)
+
+
+##### Sous-section 3 : Le conseil médical et scientifique
+
+###### Article R673-8-17
+
+Le conseil médical et scientifique de l'Etablissement français des greffes est une instance d'expertise, de conseil et de
+proposition.
+
+Le conseil médical et scientifique émet les avis et assure toutes les missions d'expertise qui lui sont demandés par le
+directeur général. Ce dernier le consulte sur les questions de nature médicale, scientifique, technique ou éthique et, en
+particulier, sur :
+
+1° Les règles de répartition et d'attribution des greffons ;
+
+2° Les règles de bonnes pratiques ;
+
+3° Les organismes susceptibles d'être autorisés à importer ou exporter les tissus, y compris les cornées et les cellules
+issues du corps humain, à l'exclusion de celles qui relèvent du chapitre Ier du titre II du livre IV, en considération
+notamment de leurs conditions techniques de fonctionnement et de la qualification de leur personnel ;
+
+4° L'évaluation scientifique et technique des équipes ayant une activité dans le domaine des greffes ;
+
+5° L'organisation des prélèvements et les conditions d'accueil des donneurs et de leur famille ;
+
+6° L'évaluation scientifique des laboratoires effectuant les examens d'histocompatibilité ;
+
+7° L'organisation territoriale et fonctionnelle mentionnée au 2° de l'article R. 673-8-10 ;
+
+8° La participation à l'enseignement et à la recherche dans le domaine des greffes.
+
+Le conseil médical et scientifique peut faire toute recommandation qu'il estime propre à favoriser la bonne application de la
+réglementation en vigueur. Il élabore un rapport annuel qui porte sur les aspects scientifiques, techniques, évolutifs et sur
+les résultats des activités de greffe, y compris par type de greffe et par équipe. Les avis, les recommandations et le
+rapport du conseil médical et scientifique sont transmis par son président au directeur général et au président du conseil
+d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-15 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R671-17 (Ab)
+	  - Code de la santé publique - art. R672-11 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R673-8-10 (Ab)
+
+
+###### Article R673-8-18
+
+Le conseil médical et scientifique de l'Etablissement français des greffes est composé de quarante membres, nommés par arrêté
+du ministre chargé de la santé pour une durée de trois ans renouvelable une fois.
+
+Le conseil médical et scientifique comprend [*composition*] :
+
+1° Dix praticiens représentant les activités de greffe d'organes, dont un spécialisé dans les greffes pratiquées chez les
+enfants ;
+
+2° Cinq praticiens représentant les activités de greffe de moelle ;
+
+3° Cinq praticiens représentant les activités de greffe de tissus ;
+
+4° Deux praticiens représentant les activités de greffe de cornées ;
+
+5° Cinq anesthésistes-réanimateurs ou réanimateurs dont au moins deux exerçant dans des établissements exclusivement
+autorisés à effectuer des prélèvements ;
+
+6° Cinq représentants des activités biologiques ;
+
+7° Trois représentants des organismes de conservation ;
+
+8° Un représentant du personnel infirmier exerçant des activités de coordination locale ;
+
+9° Trois personnes qualifiées, dont une proposée par le Conseil national de l'ordre des médecins et une proposée par le
+ministre de la défense ;
+
+10° Le médecin-conseil du service médical de la Caisse nationale d'assurance maladie ou son représentant.
+
+A l'exception de ceux mentionnés aux 8°, 9° et 10°, les membres du conseil sont nommés sur proposition des organisations de
+praticiens du domaine considéré. La liste de ces organisations est définie par arrêté du ministre chargé de la santé lors de
+la constitution et lors de chaque renouvellement général du conseil. Ces organisations proposent au ministre deux fois plus
+de noms qu'il y a de praticiens à désigner au titre du ou des domaines considérés.
+
+Les fonctions de membres du conseil médical et scientifique sont gratuites et incompatibles avec celles de membres du conseil
+d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-16 (Ab)
+
+
+###### Article R673-8-19
+
+Le conseil médical et scientifique peut, avec l'accord du directeur général, proposer la création de commissions compétentes
+dans les domaines relevant de ses attributions.
+
+Des responsables locaux de l'Etablissement français des greffes peuvent participer, en tant que de besoin, aux activités du
+conseil médical et scientifique. Ce dernier peut en outre s'adjoindre le concours de toute personne compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-17 (Ab)
+
+
+###### Article R673-8-20
+
+Le président du conseil médical et scientifique est élu en son sein. La durée de son mandat est de trois ans renouvelable une
+fois. En cas de vacance, le conseil procède à l'élection d'un nouveau président dont le mandat prend fin à la date
+d'expiration du mandat du prédécesseur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-18 (Ab)
+
+
+##### Sous-section 4 : Dispositions financières et comptables
+
+###### Article R673-9-1
+
+La dotation globale prévue à l'article L. 673-9 est fixée par arrêté conjoint du ministre chargé de la santé et du ministre
+chargé du budget. Elle est révisée selon les mêmes modalités.
+
+Elle est versée à l'Etablissement français des greffes par la caisse primaire du régime d'assurance maladie des travailleurs
+salariés dans la circonscription de laquelle se trouve le siège de l'établissement, sous forme de versements mensuels égaux
+au 1/12 de la dotation globale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Cité par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 5 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L673-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-19 (Ab)
+
+
+###### Article R673-9-2
+
+L'arrêté fixant ou révisant la dotation globale, accompagné du budget approuvé, est notifié à l'Etablissement français des
+greffes, à la Caisse nationale d'assurance maladie des travailleurs salariés et à la caisse primaire chargée du versement de
+la dotation globale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-20 (Ab)
+
+
+###### Article R673-9-3
+
+Si la caisse primaire d'assurance maladie chargée du versement de la dotation globale n'a pas reçu notification de la
+décision fixant cette dotation avant le 1er janvier de l'exercice en cause, elle règle, jusqu'à ce qu'une telle décision lui
+soit notifiée, des acomptes mensuels égaux aux sommes allouées pour la période correspondante de l'année précédente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-21 (Ab)
+
+
+###### Article R673-9-4
+
+La répartition de la charge de la dotation globale de l'Etablissement français des greffes entre les différents régimes
+d'assurance maladie se fait selon les taux fixés annuellement en application de l'article R. 174-1-4 du code de la sécurité
+sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-22 (Ab)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. R174-1-4 (M)
+
+
+###### Article R673-9-5
+
+Outre la dotation globale prévue à l'article L. 673-9, les ressources de l'Etablissement français des greffes comprennent :
+
+1° Les dotations, subventions et autres versements des collectivités publiques et de tous les organismes publics et privés,
+nationaux et internationaux ;
+
+2° Le produit des participations mentionnées au 10° de l'article R. 673-8-10 ;
+
+3° Les rémunérations des services rendus ;
+
+4° Le produit des taxes fiscales et redevances instituées à son profit ;
+
+5° Le produit des intérêts et des remboursements des prêts et avances consentis ;
+
+6° Le produit des cessions d'actifs ;
+
+7° Les revenus tirés des brevets et inventions ;
+
+8° Les revenus de biens meubles ou immeubles ;
+
+9° Les dons et legs,
+
+et, d'une manière générale, toutes les recettes autorisées par la loi et les règlements en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L673-9 (Ab)
+	  - Code de la santé publique - art. R673-8-10 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-23 (Ab)
+
+
+###### Article R673-9-6
+
+Les dépenses de l'Etablissement français des greffes comprennent les frais de personnel, de fonctionnement et
+d'investissement ainsi que, d'une manière générale, toutes celles que justifie l'activité de l'établissement.
+
+Dans le cadre des relations avec des organismes étrangers, l'établissement est habilité à procéder à des dépôts de garantie.
+
+Les comptes bancaires permettant la réalisation des opérations financières avec des organismes étrangers seront ouverts sur
+autorisation du ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-24 (Ab)
+
+
+###### Article R673-9-7
+
+L'agent comptable est nommé par arrêté conjoint du ministre chargé de la santé et du ministre chargé du budget.
+
+Des comptables secondaires peuvent être désignés par le directeur général après avis de l'agent comptable et avec l'agrément
+du ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-26 (Ab)
+
+
+###### Article R673-9-8
+
+L'Etablissement français des greffes est soumis au régime comptable et financier défini par les dispositions du décret n°
+53-1227 du 10 décembre 1953 et du décret n° 62-1587 du 29 décembre 1962, sauf dérogation au présent chapitre.
+
+Sous réserve de modalités particulières d'indemnisation des frais de déplacement qui, par arrêté conjoint du ministre chargé
+de la santé et du ministre chargé du budget, pourront être prévues en faveur de certaines catégories de personnels en raison
+de la nature des missions effectuées, l'Etablissement français des greffes est soumis aux dispositions des décrets n° 86-416
+du 12 mars 1986 et n° 90-437 du 28 mai 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Décret n°53-1227 1953-12-10
+	  - Décret n°62-1587 1962-12-29
+	  - Décret n°86-416 1986-03-12
+	  - Décret n°90-437 1990-05-28
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-27 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R673-8-18 (Ab)
+	  - Code de la santé publique - art. R673-8-6 (Ab)
+
+
+###### Article R673-9-9
+
+L'établissement est soumis au contrôle financier de l'Etat dans les conditions prévues par le décret du 25 octobre 1935.
+
+Les modalités particulières de l'exercice de ce contrôle sont fixées en tant que de besoin par arrêté conjoint des ministres
+chargés du budget et de la santé.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1935-10-25
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-28 (Ab)
+
+
+###### Article R673-9-10
+
+Des régies de recettes et d'avances peuvent être instituées conformément aux dispositions du décret n° 92-681 du 20 juillet
+1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Décret n°92-681 1992-07-20
+
+	**Créé par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 2 () JORF 11 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1252-29 (Ab)
 
 
 ## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires
