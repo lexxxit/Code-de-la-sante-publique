@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1982-04-02
+Version Consolidée au 1982-05-20
 
 # Partie législative ancienne
 
@@ -12149,7 +12149,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L356
 
-Nul ne peut exercer la profession de médecin [*interdiction*], de chirurgien dentiste ou de sage-femme en France s'il n'est
+Nul ne peut exercer la profession de médecin [*interdiction*], de chirurgien-dentiste ou de sage-femme en France s'il n'est
 [*condition*] :
 
 1° Titulaire d'un diplôme, certificat ou autre titre mentionné à l'article L. 356-2 ou bénéficiaire des dispositions
@@ -12157,30 +12157,30 @@ transitoires de la loi du 30 novembre 1892 ou des dispositions spéciales aux pr
 septembre 1919, loi du 13 juillet 1921, loi du 10 août 1924, décret du 5 juillet 1922 ratifié par la loi du 13 décembre 1924,
 loi du 31 décembre 1924, loi du 18 août 1927) ou aux praticiens sarrois (lois des 26 juillet 1935 et 27 juillet 1937) ;
 
-2° De nationalité française, citoyen andorran ou ressortissant de l'un des Etats membres de la Communauté économique
+2° De nationalité française, citoyen andorran ou ressortissant de l'un des Etats membres de la communauté économique
 européenne, du Maroc ou de la Tunisie, sous réserve de l'application, le cas échéant, soit des règles fixées aux alinéas 4 à
 9 du présent article, soit de celles qui découlent d'engagements internationaux autres que ceux mentionnés à l'alinéa 4 ci-
 après.
 
-Toutefois, lorsqu'un Etat étranger accorde à des médecins, chirurgiens dentistes ou sages-femmes nationaux français ou
+Toutefois, lorsqu'un Etat étranger accorde à des médecins, chirurgiens-dentistes ou sages-femmes nationaux français ou
 ressortissants français, le droit d'exercer leur profession sur son territoire, le ressortissant de cet Etat peut être
-autorisé à pratiquer son art en France par arrêté du ministre de la Santé publique et de la Population, si des accords ont
+autorisé à pratiquer son art en France par arrêté du ministre de la santé publique et de la population, si des accords ont
 été passés à cet effet avec cet Etat et si l'équivalence de la valeur scientifique du diplôme est reconnue par le ministre de
-l'Education nationale [*condition*]. Ces accords, conclus avec l'agrément du ministre de la Santé publique et de la
-Population, devront comporter obligatoirement la parité effective et stipuleront le nombre des praticiens étrangers que
+l'Education nationale [*condition*]. Ces accords, conclus avec l'agrément du ministre de la santé publique et de la
+population, devront comporter obligatoirement la parité effective et stipuleront le nombre des praticiens étrangers que
 chacun des deux pays autorisera à exercer sur son territoire [*mentions obligatoires*]. Les autorisations seront données
 individuellement, après avis des organisations syndicales nationales et des ordres intéressés, aux praticiens ayant satisfait
 à l'examen de culture générale tel qu'il est prévu dans le décret du 15 janvier 1947, cet examen comportant en plus une
 épreuve écrite sur la connaissance des lois médico-sociales affectée d'un coefficient égal à celui de la composition
 française. Elles pourront être retirées à tout moment.
 
-En outre, le ministre chargé de la Santé publique peut, après avis d'une commission comprenant notamment des délégués des
+En outre, le ministre chargé de la santé publique peut, après avis d'une commission comprenant notamment des délégués des
 conseils nationaux des ordres et des organisations syndicales nationales des professions intéressées, choisis par ces
 organismes, autoriser individuellement à exercer :
 
-- Des personnes étrangères titulaires d'un diplôme français permettant l'exercice de la profession ;
+- des personnes étrangères titulaires d'un diplôme français permettant l'exercice de la profession ;
 
-- Des personnes françaises ou étrangères, titulaires d'un diplôme étranger de valeur scientifique reconnue équivalente par le
+- des personnes françaises ou étrangères, titulaires d'un diplôme étranger de valeur scientifique reconnue équivalente par le
 ministre chargé des universités à celle d'un diplôme français permettant l'exercice de la profession et qui ont subi avec
 succès des épreuves définies par voie réglementaire.
 
@@ -12188,21 +12188,22 @@ Le nombre maximum de ces autorisations est fixé chaque année par voie régleme
 dessus et compte tenu du mode d'exercice de la profession.
 
 Lorsqu'un établissement hospitalier, établi sur le territoire français par un organisme étranger, a obtenu la reconnaissance
-d'utilité publique avant le 10 juin 1949 [*date*], le ministre de la Santé publique et de la Population peut autoriser, par
+d'utilité publique avant le 10 juin 1949 [*date*], le ministre de la santé publique et de la population peut autoriser, par
 arrêté individuel, certains praticiens attachés à cet établissement à exercer leur art en France, par dérogation aux
 dispositions des paragraphes 1er et 2ème du présent article et après avis des organisations nationales intéressées. Ces
-praticiens devront être inscrits au tableau de l'Ordre intéressé. Le nombre maximum par établissement hospitalier de ces
-praticiens autorisés est fixé par arrêté conjoint du ministre de la Santé publique et de la Population et du ministre des
-Affaires étrangères, et l'autorisation n'est valable que pour la période durant laquelle lesdits praticiens sont
+praticiens devront être inscrits au tableau de l'ordre intéressé. Le nombre maximum par établissement hospitalier de ces
+praticiens autorisés est fixé par arrêté conjoint du ministre de la santé publique et de la population et du ministre des
+affaires étrangères, et l'autorisation n'est valable que pour la période durant laquelle lesdits praticiens sont
 effectivement attachés à cet établissement ;
 
-3° Inscrit à un tableau de l'Ordre des médecins, à un tableau de l'Ordre des chirurgiens dentistes ou à un tableau de l'Ordre
-des sages-femmes.
+3° Inscrit à un tableau de l'ordre des médecins, à un tableau de l'ordre des chirurgiens-dentistes ou à un tableau de l'ordre
+des sages-femmes ;
 
-Toutefois, cette dernière condition ne s'applique pas [*non*] aux médecins, chirurgiens dentistes et sages-femmes appartenant
-aux cadres actifs du service de santé des armées. Elle ne s'applique pas non plus à ceux des médecins, chirurgiens dentistes
+Toutefois, cette dernière condition ne s'applique pas [*non*] aux médecins, chirurgiens-dentistes et sages-femmes appartenant
+aux cadres actifs du service de santé des armées. Elle ne s'applique pas non plus à ceux des médecins, chirurgiens-dentistes
 ou sages-femmes qui, ayant la qualité de fonctionnaire de l'Etat ou d'agent titulaire d'une collectivité locale ne sont pas
-appelés, dans l'exercice de leurs fonctions, à exercer la médecine ou l'art dentaire ou à pratiquer des accouchements.
+appelés, dans l'exercice de leurs fonctions, à exercer la médecine ou l'art dentaire ou à pratiquer les actes entrant dans la
+définition de la profession de sage-femme.
 
 **Liens relatifs à cet article**
 
@@ -12219,11 +12220,6 @@ appelés, dans l'exercice de leurs fonctions, à exercer la médecine ou l'art d
 	  - Loi n°1927-08-18
 	  - Loi n°1935-07-26
 	  - Loi n°1937-07-27
-
-	**Anciens textes**:
-
-	  - Ordonnance n°45-2184 du 24 septembre 1945 - art. 1, v. init.
-	  - Loi n°49-757 1949-06-09
 
 	**Cité par**:
 
@@ -12285,11 +12281,6 @@ appelés, dans l'exercice de leurs fonctions, à exercer la médecine ou l'art d
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Loi n°71-1026 du 24 décembre 1971 - art. 2 () JORF 25 DECEMBRE 1971
-	  - Loi n°72-661 1972-07-13 ART. 1 JORF 14 JUILLET 1972
 
 	**Liens**:
 
@@ -12360,6 +12351,10 @@ appelés, dans l'exercice de leurs fonctions, à exercer la médecine ou l'art d
 	  - TXT_SOURCE: Arrêté du 4 décembre 1975 - art. 4 (Ab)
 	  - TXT_SOURCE: Arrêté du 4 décembre 1975 - art. 5 (Ab)
 	  - TXT_ASSOCIE: Code de la santé publique L357 : DEROGATION POUR CERTAINS ETRANGERS
+
+	**Modifié par**:
+
+	  - Loi n°82-413 1982-05-19 ART. 2 JORF 20 MAI 1982
 
 
 ###### Article L356-1
@@ -12991,29 +12986,45 @@ et suivants.
 
 ###### Article L363
 
-Il est interdit d'exercer la médecine, l'art dentaire ou la pratique des accouchements sous un pseudonyme.
+Il est interdit d'exercer la médecine, l'art dentaire ou la profession de sage-femme sous un pseudonyme [*nom*].
+
+**Nota:**
+
+[*Nota - Code de la santé publique L376-1 : sanction pénale.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2184 1945-09-24 ART. 6
-
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-346 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°82-413 1982-05-19 art. 3 JORF 20 mai 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - TXT_ASSOCIE: Code de la santé publique - art. L376-1 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L376 : DISPOSITIONS PENALES
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cité par**:
 
 	  - Code de déontologie médicale - art. 75 (Ab)
 	  - Code de la santé publique - art. L376 (M)
 	  - Code de la santé publique - art. L376-1 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L376-1 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique L376 : DISPOSITIONS PENALES
 
 	**Nouveaux textes**:
 
@@ -13074,21 +13085,23 @@ et suivants.
 
 Il est interdit à toute personne ne remplissant pas les conditions requises pour l'exercice de la profession de recevoir, en
 vertu d'une convention, la totalité ou une quote-part des honoraires ou des bénéfices provenant de l'activité professionnelle
-d'un médecin ou d'un chirurgien dentiste.
+d'un membre de l'une des professions régies par le présent titre, médecin, chirurgien-dentiste ou sage-femme.
 
 En outre, certaines conventions entre pharmaciens et membres des professions médicales sont interdites par les articles L.
-549 et L. 550.
+549 et 550.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L376-1 : sanction pénale.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance 45-2184 1945-09-24 ART. 13
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
+	  - Loi n°82-413 1982-05-19 art. 4 JORF 20 mai 1982
 
 	**Cité par**:
 
@@ -13311,6 +13324,87 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 
 ##### Paragraphe 4 : Règles propres à l'exercice de la profession de sage-femme
+
+###### Article L369
+
+Les sages-femmes ne peuvent employer que les instruments dont la liste est fixée par arrêté du ministre chargé de la santé
+après avis de l'académie nationale de médecine.
+
+En cas d'accouchement dystocique ou de suites de couches pathologiques, elles doivent [*obligation*] faire appeler un docteur
+en médecine.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L374 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4151-3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°82-413 1982-05-19 art. 5 JORF 20 mai 1982
+
+
+###### Article L370
+
+Les sages-femmes ne peuvent prescrire que les examens ainsi que les médicaments nécessaires à l'exercice de leur profession.
+La liste de ces examens et de ces médicaments est établie par arrêté du ministre chargé de la santé après avis de l'académie
+nationale de médecine [*prescriptions médicales*].
+
+**Nota:**
+
+[*Nota : Arrêté du 4 octobre 1971 : LISTE DES MEDICAMENTS.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1971-10-04
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 10 octobre 1989
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
+
+	**Codifié par**:
+
+	  - Loi n°58-346 1958-04-03 (loi de validation)
+	  - Décret n°53-1101 1953-10-05 (décret de codification)
+
+	**Modifié par**:
+
+	  - Loi n°82-413 1982-05-19 art. 6 JORF 20 mai 1982
+
+	**Cité par**:
+
+	  - Code de déontologie des sages-femmes. - art. 12 (Ab)
+	  - Code de déontologie des sages-femmes. - art. 24 (Ab)
+	  - Code de la santé publique - art. L374 (Ab)
+	  - Code de la santé publique - art. R5193 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4151-4 (V)
+
 
 ###### Article L371
 
@@ -13563,25 +13657,28 @@ et suivants.
 
 ###### Article L374
 
-Exerce illégalement la pratique des accouchements [*interdiction*] :
+L'exercice de la profession de sage-femme comporte [*attributions*] la pratique des actes nécessaires au diagnostic, à la
+surveillance de la grossesse et à la préparation psychoprophylactique à l'accouchement, ainsi qu'à la surveillance et à la
+pratique de l'accouchement et des soins postnataux en ce qui concerne la mère et l'enfant, sous réserve des dispositions des
+articles L. 369, L. 370 et L. 371 du présent code et suivant les modalités fixées par le code de déontologie de la
+profession, mentionné à l'article L. 366.
 
-1° Toute personne qui, non munie d'un diplôme, certificat ou autre titre mentionné à l'article L. 356-2 et exigé pour
-l'exercice de la profession de médecin ou de sage-femme et n'étant pas bénéficiaire des dispositions transitoires ou
-spéciales, comme il est dit à l'article L. 372 ci-dessus, pratique habituellement des accouchements ;
+Exerce illégalement la profession de sage-femme :
 
-2° Toute sage-femme qui pratique habituellement des accouchements sans satisfaire à la condition [*de nationalité*] posée au
-2° de l'article L. 356, compte tenu, le cas échéant, des exceptions apportées à celle-ci par le présent code, et notamment
-par ses articles L. 357 et L. 357-1.
+1° Toute personne qui pratique habituellement les actes mentionnés ci-dessus sans remplir les conditions exigées par le
+présent titre pour l'exercice de la profession de médecin ou de sage-femme, notamment par les articles L. 356, L. 356-2, L.
+357 et L. 357-1 ;
 
-3° Toute sage-femme qui pratique habituellement des accouchements sans être inscrite au tableau de l'ordre des sages-femmes,
-lorsque cette inscription est obligatoire ou alors qu'elle est sous le coup d'une peine d'interdiction temporaire d'exercer
-prononcée en vertu des articles L. 423 et L. 454 ci-après.
+2° Toute personne qui, munie d'un titre régulier, sort des attributions que la loi lui confère, notamment en prêtant son
+concours aux personnes mentionnées au 1° ci-dessus, à l'effet de les soustraire aux prescriptions du présent titre ;
+
+3° Tout médecin ou sage-femme qui pratique les actes susmentionnés pendant la durée d'une peine d'interdiction temporaire
+prononcée en application des articles L. 423 et L. 454.
+
+L'exercice de la profession de sage-femme peut comporter également la participation aux consultations de planification
+familiale.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2184 1945-09-24 ART. 10
 
 	**Codifié par**:
 
@@ -13590,8 +13687,7 @@ prononcée en vertu des articles L. 423 et L. 454 ci-après.
 
 	**Modifié par**:
 
-	  - Loi n°72-661 1972-07-13 art. 6 JORF 14 juillet 1972
-	  - Loi n°76-1288 1976-12-31 art. 8 JORF 1er janvier 1977
+	  - Loi n°82-413 1982-05-19 ART. 7 JORF 20 MAI 1982
 
 	**Cité par**:
 
@@ -13604,7 +13700,10 @@ prononcée en vertu des articles L. 423 et L. 454 ci-après.
 	  - Code de la santé publique - art. L356-2 (M)
 	  - Code de la santé publique - art. L357 (Ab)
 	  - Code de la santé publique - art. L357-1 (Ab)
-	  - Code de la santé publique - art. L372 (Ab)
+	  - Code de la santé publique - art. L366 (Ab)
+	  - Code de la santé publique - art. L369 (M)
+	  - Code de la santé publique - art. L370 (M)
+	  - Code de la santé publique - art. L371 (M)
 	  - Code de la santé publique - art. L423 (M)
 	  - Code de la santé publique - art. L454 (Ab)
 
@@ -13613,44 +13712,59 @@ prononcée en vertu des articles L. 423 et L. 454 ci-après.
 
 ###### Article L375
 
-En ce qui concerne spécialement l'exercice illégal de la médecine, de l'art dentaire ou de la pratique des accouchements, les
-médecins, les chirurgiens dentistes et les sages-femmes, les conseils de l'Ordre et les syndicats intéressés pourront saisir
-les tribunaux par voie de citations directes, données dans les termes de l'article 182 du Code d'instruction criminelle
+En ce qui concerne spécialement l'exercice illégal de la médecine, de l'art dentaire ou de la profession de sage-femme, les
+médecins, les chirurgiens-dentistes et les sages-femmes, les conseils de l'ordre et les syndicats intéressés pourront saisir
+les tribunaux par voie de citations directes, données dans les termes de l'article 182 du code d'instruction criminelle
 [*code de procédure pénale art. 388*], sans préjudice de la faculté de se porter, s'il y a lieu, partie civile, dans toute
 poursuite intentée par le ministère public [*recours*].
 
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2184 1945-09-24 ART. 11
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Ordonnance 58-1297 1958-12-23 ART. 19 JORF 24 DECEMBRE 1958
 
 	**Cite**:
 
+	  - CODE D'INSTRUCTION CRIMINELLE 182
 	  - CODE DE PROCEDURE PENALE - art. 388 (V)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-346 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°82-413 1982-05-19 art. 8 JORF 20 mai 1982
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L4161-4 (M)
 	  - Code de la santé publique - art. L4161-4 (V)
 
 
 ###### Article L376
 
-L'exercice illégal de la profession de médecin ou de chirurgien dentiste est puni d'une amende de 3.600 F à 30.000 F et, en
-cas de récidive, d'une amende de 18.000 F à 60.000 F et d'un emprisonnement de six jours à six mois, ou de l'une de ces deux
-peines seulement. Pourra, en outre, être prononcée la confiscation du matériel ayant permis l'exercice illégal.
+L'exercice illégal de la profession de médecin, de chirurgien-dentiste ou de sage-femme est puni d'une amende de 3.600 F à
+30.000 F et, en cas de récidive, d'une amende de 18.000 F à 60.000 F et d'un emprisonnement de six jours à six mois, ou de
+l'une de ces deux peines seulement. Pourra, en outre, être prononcée la confiscation du matériel ayant permis l'exercice
+illégal.
 
-Sont punies des mêmes peines, en ce qui concerne les médecins et les chirurgiens dentistes, les infractions aux dispositions
-des articles L. 363, 364 et 365.
+Sont punies des mêmes peines, les infractions aux dispositions des articles L. 363, 364 et 365.
 
 **Liens relatifs à cet article**
 
@@ -13669,9 +13783,9 @@ des articles L. 363, 364 et 365.
 
 	  - Code de la santé publique - art. L4161-5 (M)
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Ordonnance 45-2184 1945-09-24 ART. 6, ART. 12 ET ART. 13
+	  - Loi n°82-413 1982-05-19 ART. 9 JORF 20 MAI 1982
 
 	**Cité par**:
 
@@ -18297,81 +18411,6 @@ Article abrogé
 
 	  - Code de la santé publique - art. L471-4 (Ab)
 	  - Code de la santé publique - art. L471-7 (Ab)
-
-
-### TITRE 1 : PROFESSIONS DE SAGE-FEMME
-
-#### CHAPITRE 1 : EXERCICE DE LA PROFESSION
-
-##### SECTION 2 : REGLES D'EXERCICE DE LA PROFESSION
-
-##### PARAGRAPHE 4 : REGLES PROPRES A L'EXERCICE DE LA PROFESSION DE SAGE-FEMME.
-
-###### Article L369
-
-Les sages-femmes ne peuvent employer que les instruments dont la liste est fixée par leur code de déontologie.
-
-En cas d'accouchement dystocique ou de suites de couches pathologiques, elles doivent [*obligation*] faire appeler un docteur
-en médecine.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2184 1945-09-24 ART. 4
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L374 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L4151-3 (V)
-
-
-###### Article L370
-
-Les sages-femmes ne peuvent prescrire que les médicaments figurant sur une liste fixée par un arrêté du ministre de la Santé
-publique et de la Population pris après avis de l'Académie nationale de médecine.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1971-10-04 : LISTE DES MEDICAMENTS
-	  - TXT_SOURCE: Arrêté du 17 octobre 1983
-	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 1 (Ab)
-	  - TXT_SOURCE: Arrêté du 10 octobre 1989
-	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 2 (Ab)
-	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 3 (Ab)
-	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
-	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
-	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2184 1945-09-24 ART. 4
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Code de déontologie des sages-femmes. - art. 12 (Ab)
-	  - Code de déontologie des sages-femmes. - art. 24 (Ab)
-	  - Code de la santé publique - art. L374 (Ab)
-	  - Code de la santé publique - art. R5193 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L4151-4 (V)
 
 
 ### TITRE 1 : PROFESSION DE MEDECIN
