@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1989-11-09
+Version Consolidée au 1989-12-19
 
 # Partie législative ancienne
 
@@ -4262,11 +4262,19 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ### Titre 1 : Protection maternelle et infantile.
 
-###### Article L146
+#### Chapitre 5 : Du contrôle de certains établissements
 
-La protection sanitaire et sociale des femmes enceintes et des mères, ainsi que celle des enfants n'ayant pas dépassé deux
-ans révolus, dits enfants du premier âge [*définition*], et de deux à six ans révolus, dits enfants du second âge, est
-organisée dans les conditions fixées par le présent titre.
+##### Section 1 : Etablissements d'hospitalisation recevant des femmes enceintes.
+
+###### Article L177
+
+Les établissements visés à l'article L. 176, autorisés ou non, sont soumis à la surveillance préfectorale exercée par le
+directeur départemental de la Santé ou par son adjoint et les commissaires de police [*autorités compétentes*]. Ces
+fonctionnaires peuvent pénétrer à toute heure, de jour et de nuit, dans les établissements susvisés et procéder à toutes
+investigations, constatations et enquêtes par eux jugées utiles [*droit de circulation*].
+
+Quiconque fait obstacle aux inspections prévues à l'alinéa précédent sera puni de six jours à six mois d'emprisonnement
+[*durée*] et d'une amende de 1.800 F à 20.000 F [*montant*]. La fermeture de l'établissement peut, en outre, être prononcée.
 
 **Liens relatifs à cet article**
 
@@ -4275,28 +4283,142 @@ organisée dans les conditions fixées par le présent titre.
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
+	**Cité par**:
+
+	  - Décret n°72-162 du 21 février 1972 - art. 1 (Ab)
+	  - Loi n°79-1140 du 29 décembre 1979 - art. 10 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 44 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L176 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1939-07-29 ART. 94
+
+
+### Titre 2 : Santé scolaire et universitaire.
+
+###### Article L197
+
+Indépendamment des sanctions disciplinaires qui sont fixées par décret, quiconque refusera de se soumettre aux prescriptions
+de l'article L. 192 du présent titre, ou quiconque en entravera l'exécution, sera passible d'une amende de 1.300 F à 2.500 F
+[*montant*] et, en cas de récidive dans le délai d'un an, d'une amende de 2.500 F à 5.000 F et d'un emprisonnement de dix
+jours à un mois [*durée*] ou de l'une de ces deux peines seulement. 
+
+Les mêmes pénalités sont encourues par les personnes ayant la garde des enfants qui mettraient obstacle à l'exécution des
+prescriptions prévues à l'article 191 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2407 1945-10-18 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L191 (M)
+	  - Code de la santé publique - art. L192 (M)
+
+
+### Titre 3 : Maisons d'enfants à caractère sanitaire.
+
+###### Article L208
+
+Sera puni d'une amende de 400 F à 15.000 F [*montant*] et d'un emprisonnement de un à trois mois [*durée*] ou de l'une de ces
+deux peines seulement : 
+
+1° Quiconque aura ouvert ou dirigé sans autorisation l'un des établissements visés au présent titre, ou aura sciemment fait
+une déclaration inexacte ou incomplète ; 
+
+2° Quiconque aura continué l'exploitation d'un tel établissement malgré une décision de fermeture ;
+
+3° Quiconque, assumant la direction d'un des établissements visés, aura mis ou tenté de mettre obstacle au contrôle prévu à
+l'article 204.
+
+En cas de récidive, le délinquant sera condamné à une amende de 2.000 F à 30.000 F et à un emprisonnement de deux mois à un
+an ou à l'une de ces deux peines seulement.
+
+En ce cas, le tribunal pourra ordonner la fermeture temporaire ou définitive de l'établissement et prononcer en outre
+l'interdiction, à temps ou définitive, d'exercer les fonctions de directeur d'un établissement visé au présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L204 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2326-1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
+	  - Ordonnance 59-34 1959-01-05 ART. 2 JORF 6 janvier 1959
+
+
+## Livre 2 : Action sanitaire et médico-sociale en faveur de la famille, de l'enfance et de la jeunesse
+
+### Titre 1 : Protection maternelle et infantile
+
+#### Chapitre 1 : Dispositions générales
+
+###### Article L146
+
+L'Etat, les collectivités territoriales et les organismes de sécurité sociale participent, dans les conditions prévues par le
+présent titre, à la protection et à la promotion de la santé maternelle et infantile qui comprend notamment :
+
+1° Des mesures de prévention médicales, psychologiques, sociales et d'éducation pour la santé en faveur des futurs parents et
+des enfants ;
+
+2° Des actions de prévention et de dépistage des handicaps des enfants de moins de six ans ainsi que de conseil aux familles
+pour la prise en charge de ces handicaps ;
+
+3° La surveillance et le contrôle des établissements et services d'accueil des enfants de moins de six ans ainsi que des
+assistantes maternelles mentionnées à l'article 123-1 du code de la famille et de l'aide sociale.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 123-1 (M)
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2111-1 (M)
 
-	**Anciens textes**:
-
-	  - Ordonnance n°45-2720 du 2 novembre 1945 - art. 1, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°70-633 1970-07-15 ART. 1 JORF 17 JUILLET 1970
-
-
-#### Chapitre 1 : Organisation administrative
-
-##### Section 1 : Institutions.
 
 ###### Article L147
 
-Les centres et consultations de protection maternelle et infantile, les activités de protection maternelle et infantile à
-domicile, la formation et l'agrément des assistantes maternelles relèvent de la compétence du département qui en assure
-l'organisation et le financement.
+Les services et consultations de santé maternelle et infantile, les activités de protection de la santé maternelle et
+infantile à domicile, la formation et l'agrément des assistantes maternelles relèvent de la compétence du département qui en
+assure l'organisation et le financement sous réserve des dispositions du chapitre VI du présent titre.
 
 **Liens relatifs à cet article**
 
@@ -4315,30 +4437,35 @@ l'organisation et le financement.
 
 	**Modifié par**:
 
-	  - Loi n°83-663 du 22 juillet 1983 - art. 39 () JORF 23 JUILLET 1983
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2111-2 (V)
 
 
+#### Chapitre 2 : Organisation et missions du service départemental de protection maternelle et infantile.
+
 ###### Article L148
 
-La circonscription est pourvue d'un centre de protection maternelle et infantile et comprend autant de consultations de
-nourrissons et de consultations prénatales que l'exigent les besoins de la population. Les consultations de nourrissons et
-les consultations prénatales doivent, en principe, correspondre, chacune respectivement à 8.000 habitants [*nombre*] et
-20.000 habitants. Des consultations d'enfants du second âge doivent être également prévues dans toutes les circonscriptions.
+Les compétences dévolues au département par le 3° de l'article 37 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n°
+83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat
+et par l'article L. 147 sont exercées, sous l'autorité du président du conseil général, par le service départemental de
+protection maternelle et infantile qui est un service non personnalisé du département, placé sous la responsabilité d'un
+médecin et comprenant des personnels qualifiés notamment dans les domaines médical, paramédical, social et psychologique. Les
+exigences de qualification professionnelle de ces personnels sont fixées par voie réglementaire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 8.*]
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 2 AL. 2
-
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cité par**:
 
@@ -4347,46 +4474,56 @@ les consultations prénatales doivent, en principe, correspondre, chacune respec
 	  - Code de la famille et de l'aide sociale. - art. 66 (Ab)
 	  - Code de la santé publique - art. L149 (M)
 
+	**Cite**:
+
+	  - Loi n°83-8 1983-01-07
+	  - Loi n°83-663 1983-07-22 art. 37
+	  - Code de la santé publique - art. L147 (M)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L2112-1 (M)
 	  - Code de la santé publique - art. L2112-1 (V)
 
 
 ###### Article L149
 
-Le centre principal de protection maternelle et infantile prévu pour chaque circonscription à l'article précédent, est
-constitué par des formations sanitaires diverses relevant d'organismes publics ou privés exerçant leur activité, en partie ou
-en totalité, dans le domaine de la protection maternelle et infantile.
+Le service doit organiser :
 
-Le centre de protection maternelle et infantile de circonscription [*lieu*] comporte obligatoirement les formations
-sanitaires suivantes :
+1° Des consultations prénuptiales, prénatales et postnatales et des actions de prévention médico-sociale en faveur des femmes
+enceintes ;
 
-- Des consultations prénuptiales, prénatales et postnatales dans lesquelles pourront être examinés les futurs couples et les
-parents ;
+2° Des consultations et des actions de prévention médico-sociale en faveur des enfants de moins de six ans, notamment dans
+les écoles maternelles ;
 
-- Des consultations de médecine infantile, d'enfants du premier et du second âge ;
+3° Des activités de planification familiale et d'éducation familiale, dans les conditions prévues par l'article 4 de la loi
+n° 67-1176 du 28 décembre 1967 relative à la régulation des naissances et abrogeant les articles L. 648 et L. 649 du code de
+la santé publique ;
 
-- Une consultation de lutte contre la stérilité ;
+4° Des actions médico-sociales préventives à domicile pour les femmes enceintes et les enfants de moins de six ans requérant
+une attention particulière, assurées à la demande ou avec l'accord des intéressés, en liaison avec le médecin traitant et les
+services hospitaliers concernés ;
 
-- Une consultation de conseil génétique ;
+5° Le recueil d'informations en épidémiologie et en santé publique, ainsi que le traitement de ces informations et en
+particulier de celles qui figurent sur les documents mentionnés par l'article L. 164 ;
 
-- Un centre de planification ou d'éducation familiale ;
+6° L'édition et la diffusion des documents mentionnés par les articles L. 153, L. 155, L. 163 et L. 164 ;
 
-Ces trois dernières formations peuvent être regroupées avec les consultations prénuptiales et prénatales sous la dénomination
-de "consultations sur les problèmes de la naissance".
+7° Des actions de formation destinées à aider les assistantes maternelles dans leurs tâches éducatives.
 
-Chaque centre doit s'assurer et rémunérer le concours d'un service antituberculeux, d'un service antivénérien, d'un
-laboratoire d'analyses médicales, suivant les modalités fixées par le directeur départemental de la santé.
-
-Il peut toutefois faire appel pour les examens de radiologie à un autre service. Les modalités suivant lesquelles il est
-admis à user de cette faculté ou à demander le concours d'autres services spécialisés sont fixées comme il est prévu à
-l'alinéa précédent.
+En outre, le service doit participer aux actions de prévention des mauvais traitements et de prise en charge des mineurs
+maltraités dans les conditions prévues au sixième alinéa (5°) de l'article 40 et aux articles 66 à 72 du code de la famille
+et de l'aide sociale.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°45-2720 du 2 novembre 1945 - art. 30, v. init.
 
 	**Codifié par**:
 
@@ -4408,13 +4545,27 @@ l'alinéa précédent.
 	  - Code de la santé publique - art. L150 (Ab)
 	  - Code de la santé publique - art. L198-1 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°74-1026 1974-12-04 ART. 6 JORF 5 DECEMBRE 1974
-
 	**Cite**:
 
-	  - Code de la santé publique - art. L148 (M)
+	  - Loi n°67-1176 du 28 décembre 1967 - art. 4 (M)
+	  - Code de la famille et de l'aide sociale. - art. 40 (M)
+	  - Code de la famille et de l'aide sociale. - art. 66 (M)
+	  - Code de la famille et de l'aide sociale. - art. 67 (M)
+	  - Code de la famille et de l'aide sociale. - art. 68 (M)
+	  - Code de la famille et de l'aide sociale. - art. 69 (M)
+	  - Code de la famille et de l'aide sociale. - art. 70 (M)
+	  - Code de la famille et de l'aide sociale. - art. 71 (M)
+	  - Code de la famille et de l'aide sociale. - art. 72 (M)
+	  - Code de la santé publique - art. L153 (Ab)
+	  - Code de la santé publique - art. L155 (M)
+	  - Code de la santé publique - art. L163 (M)
+	  - Code de la santé publique - art. L164 (M)
+	  - Code de la santé publique - art. L648 (Ab)
+	  - Code de la santé publique - art. L649 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
 
 	**Nouveaux textes**:
 
@@ -4423,27 +4574,18 @@ l'alinéa précédent.
 
 ###### Article L150
 
-Tout département doit être rattaché à un ou plusieurs centres de placement surveillés relevant du service de la protection
-maternelle et infantile qui exerce sur eux le contrôle sanitaire et social prévu par le présent titre.
-
-Lorsque la circonscription d'un de ces centres s'étend à plusieurs départements qui ont coopéré à sa création, le
-fonctionnement en est surveillé par le service de la protection maternelle et infantile du département où le centre est
-installé [*organisme compétent*].
+Les activités mentionnées à l'article L. 149 sont gérées soit directement, soit par voie de convention avec d'autres
+collectivités publiques ou des personnes morales de droit privé à but non lucratif ; elles sont organisées sur une base
+territoriale en fonction des besoins sanitaires et sociaux de la population et selon des normes minimales fixées par voie
+réglementaire. Elles sont menées en liaison avec le service départemental d'action sociale et le service départemental de
+l'aide sociale à l'enfance.
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°45-2720 du 2 novembre 1945 - art. 29, v. init.
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab) JORF 24 juillet 1962
 
 	**Cité par**:
 
@@ -4453,32 +4595,54 @@ installé [*organisme compétent*].
 	  - Décret n°92-785 du 6 août 1992 - art. 14 (Ab)
 	  - Arrêté du 7 juillet 1957 - art. 71 (VD)
 
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L149 (M)
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2112-4 (V)
 
 
-##### Section 2 : Direction et coordination.
-
 ###### Article L151
 
-Dans chaque département le service de la protection maternelle et infantile, au point de vue médico-social et administratif,
-est confié au directeur départemental de la Santé [*autorité compétente*].
+Le service départemental de protection maternelle et infantile établit une liaison avec le service de santé scolaire,
+notamment en transmettant au médecin de santé scolaire les dossiers médicaux des enfants suivis à l'école maternelle. Les
+modalités de cette transmission doivent garantir le respect du secret professionnel. Ces dossiers médicaux sont établis
+conformément à un modèle fixé par arrêté interministériel et transmis avant l'examen médical pratiqué en application de
+l'article L. 191.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 2 ET ART. 29
-
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cité par**:
 
 	  - Décret n°62-840 du 19 juillet 1962 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L191 (M)
 
 	**Nouveaux textes**:
 
@@ -4487,252 +4651,268 @@ est confié au directeur départemental de la Santé [*autorité compétente*].
 
 ###### Article L152
 
-Une assistante sociale-chef [*autorité compétente*] seconde le médecin chargé du service départemental de la protection
-maternelle et infantile, pour tout ce qui concerne le travail et la discipline du personnel des assistantes sociales
-concourant à l'application du présent titre.
+En toute circonstance et particulièrement lors des consultations ou des visites à domicile, chaque fois qu'il est constaté
+que l'état de santé de l'enfant requiert des soins appropriés, il incombe au service départemental de protection maternelle
+et infantile d'engager la famille ou la personne à laquelle l'enfant a été confié à faire appel au médecin de son choix et,
+le cas échéant, d'aider la famille ayant en charge l'enfant à prendre toutes autres dispositions utiles.
+
+Chaque fois que le personnel du service départemental de protection maternelle et infantile constate que la santé ou le
+développement de l'enfant sont compromis ou menacés par des mauvais traitements, et sans préjudice des compétences et de la
+saisine de l'autorité judiciaire, le personnel en rend compte sans délai au médecin responsable du service qui provoque
+d'urgence toutes mesures appropriées.
+
+Lorsqu'un médecin du service départemental de protection maternelle et infantile estime que les circonstances font obstacle à
+ce que l'enfant reçoive les soins nécessaires, il lui appartient de prendre toutes mesures relevant de sa compétence propres
+à faire face à la situation. Il en rend compte au médecin responsable du service.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 2
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cité par**:
 
 	  - Décret n°62-840 du 19 juillet 1962 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2112-6 (V)
 
 
-#### Chapitre 2 : Du certificat prénuptial.
+#### Chapitre 3 : Actions de prévention concernant les futurs conjoints et parents
 
-###### Article L155
+##### Section 1 : Examen médical prénuptial.
 
-Au cours de l'examen [*médical précédant le mariage*] prévu par le 2ème alinéa de l'article 63 du Code civil, l'attention du
-médecin doit se porter particulièrement sur les affections contagieuses ou chroniques susceptibles d'avoir des conséquences
-dangereuses pour le conjoint ou la descendance.
+###### Article L153
+
+Le médecin qui, en application du deuxième alinéa de l'article 63 du code civil, procède à un examen en vue du mariage ne
+pourra délivrer le certificat médical prénuptial mentionné par cet article, et dont le modèle est établi par arrêté, qu'au vu
+de résultats d'analyses ou d'examens dont la liste est fixée par voie réglementaire.
+
+Une brochure d'éducation sanitaire doit être remise à chacun des futurs conjoints en même temps que le certificat médical.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Ordonnance 45-2720 1945-11-02 ART. 6
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
+	  - Décret n°92-143 du 14 février 1992 - art. 1 (Ab)
+	  - Arrêté du 7 mai 1992 - art. 2 (Ab)
+	  - Arrêté du 7 mars 1997 - art. Unique (VD)
+	  - Code de la santé publique - art. L149 (Ab)
+	  - Code de la santé publique - art. L186 (Ab)
+	  - Code de la sécurité sociale. - art. L321-1 (M)
+	  - Code de la sécurité sociale. - art. L615-14 (M)
+
+	**Créé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 7 mai 1992
+	  - TXT_SOURCE: Arrêté du 7 mai 1992 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 7 mai 1992 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 7 mai 1992 - art. 3 (Ab)
+	  - SPEC_APPLI: Code de la sécurité sociale. - art. L321-1 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 63 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2121-1 (V)
+
+
+##### Section 2 : Actions de prévention durant la grossesse et après l'accouchement.
+
+###### Article L154
+
+Toute femme enceinte bénéficie d'une surveillance médicale de la grossesse et des suites de l'accouchement qui comporte, en
+particulier, des examens prénataux et postnataux obligatoires pratiqués ou prescrits par un médecin ou une sage-femme.
+Toutefois, le premier examen prénatal ainsi que l'examen postnatal ne peuvent être pratiqués que par un médecin.
+
+Le nombre et la nature des examens obligatoires ainsi que les périodes au cours desquelles ils doivent intervenir sont
+déterminés par voie réglementaire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique, à l'exception de la dernière phrase du premier alinéa à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°78-397 du 17 mars 1978 - art. 2 (Ab)
+	  - Décret n°92-143 du 14 février 1992 - art. 2 (Ab)
+	  - Code de la santé publique - art. L155 (Ab)
+	  - Code de la santé publique - art. L186 (Ab)
+	  - Code de la santé publique - art. L190 (Ab)
+	  - Code de la sécurité sociale. - art. D615-4 (Ab)
+	  - Code de la sécurité sociale. - art. L331-2 (M)
+	  - Code de la sécurité sociale. - art. L534-1 (Ab)
+	  - Code de la sécurité sociale. - art. R534-2 (Ab)
+	  - Code de la sécurité sociale. - art. R534-4 (Ab)
+	  - Code du service national - art. R*233-1 (V)
+	  - Code du travail - art. L122-25-3 (M)
+
+	**Créé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2122-1 (V)
+	  - Code de la santé publique - art. L2421-2 (V)
+
+
+###### Article L155
+
+Toute femme enceinte est pourvue gratuitement, lors du premier examen prénatal, d'un carnet de grossesse. Un arrêté
+interministériel détermine le modèle et le mode d'utilisation de ce carnet où sont mentionnés obligatoirement les résultats
+des examens prescrits en application de l'article L. 154 et où sont également notées, au fur et à mesure, toutes les
+constatations importantes concernant le déroulement de la grossesse et la santé de la future mère.
+
+Le carnet appartient à la future mère. Celle-ci doit être informée que nul ne peut en exiger la communication et que toute
+personne appelée, de par sa fonction, à prendre connaissance des renseignements qui y sont inscrits est soumise au secret
+professionnel.
+
+A la demande du père putatif, le médecin peut rendre compte à celui-ci de l'état de santé de la future mère, dans le respect
+des règles de la déontologie médicale.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
 
 	**Cité par**:
 
 	  - Arrêté du 16 novembre 1990 - art. 1 (Ab)
 	  - Code de la santé publique - art. L149 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - Code civil 63 AL. 2
+	  - Code de la santé publique - art. L154 (Ab)
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2122-2 (V)
 
 
-###### Article L157
+###### Article L156
 
-Un modèle de certificat prénuptial est établi par arrêté du ministre de la Santé publique et de la Population.
+Chaque fois que l'examen de la future mère ou les antécédents familiaux le rendent nécessaire, il est également procédé à un
+examen médical du futur père accompagné, le cas échéant, des analyses et examens complémentaires appropriés.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Ordonnance 45-2720 1945-11-02 ART. 6
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L186 (Ab)
+	  - Code de la sécurité sociale. - art. D615-4 (Ab)
+	  - Code de la sécurité sociale. - art. L331-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2122-3 (V)
+
+
+###### Article L157
+
+Les organismes et services chargés du versement des prestations familiales sont tenus de transmettre sous huitaine au médecin
+responsable du service départemental de protection maternelle et infantile l'attestation de passation de premier examen
+médical prénatal de leurs allocataires.
+
+La transmission de cette information se fait dans le respect du secret professionnel.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2122-4 (V)
-
-
-###### Article L158
-
-Les frais résultant de l'examen médical avant le mariage sont couverts [*charge financière*] :
-
-1° Par les caisses de sécurité sociale en ce qui concerne leurs affiliés et dans la mesure de leurs tarifs de
-responsabilité ;
-
-2° Par le service de l'aide médicale pour ceux qui bénéficient de ce mode d'assistance.
-
-Ces frais restent à la charge des intéressés eux-mêmes lorsqu'ils ne sont ni assurés sociaux, ni bénéficiaires de l'aide
-médicale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 10
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Décret n°62-840 du 19 juillet 1962 - art. 12 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°89-899 du 18 décembre 1989 - art. 3 () JORF 19 décembre 1989
-
-
-#### Chapitre 3 : Protection des futurs parents
-
-##### Section 1 : Examens médicaux.
-
-###### Article L159
-
-Toute femme enceinte doit, pour bénéficier des allocations de toute nature versées par l'Etat, par les collectivités
-publiques ou les établissements publics, par les caisses de sécurité sociale, suivre les conseils d'hygiène et de prophylaxie
-qui lui sont donnés par l'assistante sociale.
-
-Elle doit, en outre, dans les conditions fixées par arrêté du ministre de la Santé publique et de la Population, après avis
-de l'Académie nationale de médecine, faire l'objet d'au moins trois [*nombre*] examens au cours de sa grossesse, et d'un
-examen postnatal [*obligatoires*] dans les huit semaines qui suivent l'accouchement [*délai*].
-
-Le premier examen, qui se place avant la fin du troisième mois, est à la fois obstétrical et général ; il doit être effectué,
-ainsi que l'examen postnatal, par un médecin.
-
-Ces examens sont pratiqués :
-
-a) Soit par un médecin au choix de l'intéressé ;
-
-b) Soit par un médecin d'un centre de protection maternelle et infantile ;
-
-c) Soit par un médecin inscrit au service de l'aide médicale pour les bénéficiaires de ce mode d'assistance.
-
-Les frais d'examen sont répartis conformément aux règlements et lois en vigueur, notamment suivant les dispositions des
-articles 190 et 191 du Code de la famille et de l'aide sociale et suivant la législation sur les assurances sociales [*charge
-financière*].
-
-Un décret détermine, pour chacune des administrations intéressées, les conditions d'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance n°45-2720 du 2 novembre 1945 - art. 11, v. init.
-	  - Loi n°48-836 1948-05-17
-
-	**Cité par**:
-
-	  - Décret n°45-0179 du 29 décembre 1945 - art. 50 (Ab)
-	  - Décret n°46-2880 du 10 décembre 1946 - art. 26 (Ab)
-	  - Décret n°50-1225 du 21 septembre 1950 - art. 42 (Ab)
-	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
-	  - Décret n°62-840 du 19 juillet 1962 - art. 7 (Ab)
-	  - Décret n°68-1009 du 19 novembre 1968 - art. 6 (Ab)
-	  - Arrêté du 27 août 1971 - art. 1 (V)
-	  - Décret n°77-663 du 27 juin 1977 - art. 3 (M)
-	  - Décret n°78-397 du 17 mars 1978 - art. 2 (M)
-	  - Décret n°82-1247 du 31 décembre 1982 - art. 4 (Ab)
-	  - Décret n°85-475 du 26 avril 1985 - art. 4 (Ab)
-	  - Décret n°85-475 du 26 avril 1985 - art. 6 (Ab)
-	  - Code de la santé publique - art. L190 (M)
-	  - Code de la sécurité sociale. - art. D615-4 (M)
-	  - Code de la sécurité sociale. - art. D615-8 (M)
-	  - Code de la sécurité sociale. - art. D722-15-4 (Ab)
-	  - Code de la sécurité sociale. - art. L531-2 (M)
-	  - Code de la sécurité sociale. - art. L534-1 (M)
-	  - Code de la sécurité sociale. - art. R531-4 (MMN)
-	  - Code de la sécurité sociale. - art. R531-6 (Ab)
-	  - Code de la sécurité sociale. - art. R534-2 (M)
-	  - Code de la sécurité sociale. - art. R534-4 (M)
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab) JORF 24 juillet 1962
-
-	**Abrogé par**:
-
-	  - Loi n°89-899 du 18 décembre 1989 - art. 3 () JORF 19 décembre 1989
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale 190 ET 191
-
-
-###### Article L160
-
-Chaque fois que l'examen de la mère ou les antécédents familiaux le rendent nécessaire, il est également procédé, autant que
-possible au centre de protection maternelle et infantile, à un examen général du père accompagné de tous les examens de
-laboratoire, sérologiques ou autres, jugés utiles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 13
-
-	**Cité par**:
-
-	  - Arrêté du 27 août 1971 - art. 2 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°89-899 du 18 décembre 1989 - art. 3 () JORF 19 décembre 1989
-
-
-##### Section 2 : Visites à domicile.
-
-###### Article L162
-
-Les assistantes sociales visitent à domicile les femmes enceintes dont l'état sanitaire ou la situation matérielle ou morale
-nécessite une protection particulière.
-
-Afin de permettre cette surveillance, les directeurs départementaux de la santé doivent être tenus informés, dans les
-conditions fixées par arrêté interministériel, par les organismes et services chargés du versement des prestations
-d'assurances maternité et des prestations familiales dans les divers régimes, des déclarations de grossesse que ceux-ci
-reçoivent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 14
-
-	**Modifié par**:
-
-	  - Loi n°64-677 1964-07-06 art. 1 JORF 8 juillet 1964
-
-	**Abrogé par**:
-
-	  - Loi n°89-899 du 18 décembre 1989 - art. 3 () JORF 19 décembre 1989
 
 
 #### Chapitre 3 bis : Interruption volontaire de la grossesse
@@ -4747,9 +4927,10 @@ limite*].
 
 **Nota:**
 
-[*Nota : LOI 75-17 du 17 janvier 1975 ART. 2, ART. 11 :
+[*Nota : LOI 75-17 du 17 janvier 1975 ART. 2, ART. 11 : période d'application.*]    [*Nota - Ordonnance 90-570 du 25 juin
+1990 art. 7 :
 
-période d'application.*]
+dispositions applicables à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -4762,10 +4943,11 @@ période d'application.*]
 
 	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
 	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
 
 	**Cité par**:
 
@@ -4773,6 +4955,10 @@ période d'application.*]
 	  - Arrêté du 10 septembre 1992 - art. 7 (V)
 	  - Code de la santé publique - art. L162-3 (Ab)
 	  - Code de la santé publique - art. L162-4 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -4791,6 +4977,12 @@ satisfaisant aux dispositions de l'article L. 176.
 [*Nota : LOI 75-17 17 janvier 1975 ART. 2, ART. 11 : période d'application. Code de la santé publique L. 162-13 : disposition
 applicable à l'IVG pratiquée pour motif thérapeutique.*]
 
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+[*Nota : Loi 91-748 du 31 juillet 1991 art. 33 : dans les dispositions législatives, les mots "établissements publics de
+santé" sont substitués aux mots "établissements d'hospitalisation publics" et les mots "établissements de santé privés" sont
+substitués aux mots "établissements d'hospitalisation privés".*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -4802,11 +4994,16 @@ applicable à l'IVG pratiquée pour motif thérapeutique.*]
 
 	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
 	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
 	  - SPEC_APPLI: Code de la santé publique - art. L162-13 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cité par**:
 
@@ -4847,6 +5044,11 @@ d) La liste et les adresses des établissements où sont effectuées des interru
 Un arrêté précise dans quelles conditions les directions départementales des affaires sanitaires et sociales assurent la
 réalisation et la diffusion des dossiers-guides destinés aux médecins.
 
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte sous
+certaines réserves.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -4858,10 +5060,6 @@ réalisation et la diffusion des dossiers-guides destinés aux médecins.
 
 	  - Loi n°75-17 1975-01-17 ART. 1
 	  - Code de la santé publique - art. L162-1 (M)
-
-	**Créé par**:
-
-	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
 
 	**Liens**:
 
@@ -4876,6 +5074,7 @@ réalisation et la diffusion des dossiers-guides destinés aux médecins.
 	  - TXT_SOURCE: Arrêté du 29 janvier 1988 - art. 2 (Ab)
 	  - TXT_SOURCE: Arrêté du 29 janvier 1988 - art. 3 (Ab)
 	  - TXT_SOURCE: Arrêté du 29 janvier 1988 - art. 4 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
 	  - TXT_SOURCE: Arrêté du 25 novembre 1980
 	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 2 (Ab)
@@ -4907,7 +5106,11 @@ réalisation et la diffusion des dossiers-guides destinés aux médecins.
 
 	**Modifié par**:
 
-	  - Loi n°79-1204 du 31 décembre 1979 - art. 4 () JORF 1ER janvier 1980
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -4935,6 +5138,10 @@ professionnel*].
 
 Chaque fois que cela est possible, le couple participe à la consultation et à la décision à prendre.
 
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -4960,16 +5167,13 @@ Chaque fois que cela est possible, le couple participe à la consultation et à 
 	  - TXT_SOURCE: Arrêté du 28 novembre 1975 - art. 5 (V)
 	  - TXT_SOURCE: Arrêté du 28 novembre 1975 - art. 6 (V)
 	  - TXT_SOURCE: Arrêté du 28 novembre 1975 - art. 7 (V)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
 	  - TXT_SOURCE: Arrêté du 25 novembre 1980
 	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 1 (Ab)
 	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 2 (Ab)
 	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 3 (Ab)
 	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 4 (Ab)
 	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. Annexe (Ab)
-
-	**Créé par**:
-
-	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
 
 	**Cité par**:
 
@@ -4990,7 +5194,7 @@ Chaque fois que cela est possible, le couple participe à la consultation et à 
 
 	**Modifié par**:
 
-	  - Loi n°79-1204 du 31 décembre 1979 - art. 5 () JORF 1ER janvier 1980
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
 
 	**Cite**:
 
@@ -5011,6 +5215,10 @@ semaines risquerait d'être dépassé, le médecin étant seul juge de l'opportu
 ne peut intervenir qu'après l'expiration d'un délai de deux jours suivant l'entretien prévu à l'article L. 162-4, ce délai
 pouvant être inclus dans celui d'une semaine prévu ci-dessus.
 
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -5022,14 +5230,7 @@ pouvant être inclus dans celui d'une semaine prévu ci-dessus.
 
 	  - SPEC_APPLI: Loi n°75-17 1975-01-17 ART. 2, 11 : PERIODE D'APPLICATION
 	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
-
-	**Modifié par**:
-
-	  - Loi n°79-1204 du 31 décembre 1979 - art. 6 () JORF 1ER janvier 1980
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
 
 	**Cité par**:
 
@@ -5039,6 +5240,14 @@ pouvant être inclus dans celui d'une semaine prévu ci-dessus.
 	  - Code de la santé publique - art. L6314-1 (V)
 	  - Code de la santé publique - art. L6315-1 (T)
 	  - Code de la santé publique - art. L6325-1 (T)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
@@ -5061,6 +5270,10 @@ Le directeur de l'établissement d'hospitalisation dans lequel une femme demande
 volontaire de la grossesse doit se faire remettre et conserver pendant au moins un an [*durée*] les attestations justifiant
 qu'elle a satisfait aux consultations prescrites aux articles L. 162-3 à L. 162-5.
 
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -5072,14 +5285,15 @@ qu'elle a satisfait aux consultations prescrites aux articles L. 162-3 à L. 162
 
 	  - SPEC_APPLI: Loi n°75-17 1975-01-17 ART. 2, 11 : PERIODE D'APPLICATION
 	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
 
 	**Modifié par**:
 
-	  - Loi n°79-1204 du 31 décembre 1979 - art. 6 () JORF 1ER janvier 1980
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
@@ -5103,6 +5317,9 @@ célibataire enceinte, ce dernier étant donné en dehors de la présence des pa
 
 [*Nota : LOI 75-17 17 janvier 1975 ART. 2, ART. 11 : période d'application.*]
 
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte, sous
+certaines réserves.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -5110,28 +5327,29 @@ célibataire enceinte, ce dernier étant donné en dehors de la présence des pa
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
-	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
-
 	**Cité par**:
 
 	  - Décret n°75-750 du 7 août 1975 - art. 16 (Ab)
-	  - Ordonnance no 90-570 du 25 juin 1990 portant exten - art. 8 (Ab)
 	  - Code de la santé publique - art. L162-11 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°79-1204 du 31 décembre 1979 - art. 6 () JORF 1ER janvier 1980
+	  - Ordonnance no 90-570 du 25 juin 1990 portant exten - art. 8 (Ab)
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2212-7 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 ###### Article L162-8
@@ -5164,6 +5382,12 @@ dotée des moyens permettant la pratique des interruptions volontaires de la gro
 [*Nota : LOI 75-17 17 janvier 1975 ART. 2, ART. 11 : période d'application. Code de la santé publique L. 162-13 : disposition
 applicable à l'IVG pratiquée pour motif thérapeutique.*]
 
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte, à
+l'exception des trois derniers alinéas.*]
+
+[*Nota : Loi 91-748 du 31 juillet 1991 art. 33 : dans les dispositions législatives, les mots "établissements de santé
+privés" sont substitués aux mots "établissements d'hospitalisation privés".*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -5184,19 +5408,12 @@ applicable à l'IVG pratiquée pour motif thérapeutique.*]
 	  - TXT_SOURCE: Décret n°80-285 du 17 avril 1980
 	  - TXT_SOURCE: Décret n°80-285 du 17 avril 1980 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°80-285 du 17 avril 1980 - art. 2 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
 	  - SPEC_APPLI: Code de la santé publique - art. L162-13 (M)
 	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988
 	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988 - art. 2 (Ab)
 	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
-
-	**Modifié par**:
-
-	  - Loi n°79-1204 du 31 décembre 1979 - art. 6 () JORF 1ER janvier 1980
 
 	**Cité par**:
 
@@ -5206,6 +5423,14 @@ applicable à l'IVG pratiquée pour motif thérapeutique.*]
 	  - Code de déontologie des sages-femmes. - art. 24 (Ab)
 	  - Code de la santé publique - art. L162-13 (Ab)
 	  - Décret n°88-59 du 18 janvier 1988 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -5222,6 +5447,8 @@ Tout établissement dans lequel est pratiquée une interruption de grossesse doi
 [*Nota : LOI 75-17 du 17 janvier 1975 ART. 2, ART. 11 : période d'application. Code de la santé publique L. 162-13 :
 disposition applicable à l'IVG pratiquée pour motif thérapeutique.*]
 
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -5236,15 +5463,12 @@ disposition applicable à l'IVG pratiquée pour motif thérapeutique.*]
 	  - TXT_SOURCE: Décret n°80-285 du 17 avril 1980
 	  - TXT_SOURCE: Décret n°80-285 du 17 avril 1980 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°80-285 du 17 avril 1980 - art. 2 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
 	  - SPEC_APPLI: Code de la santé publique - art. L162-13 (M)
 	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988
 	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988 - art. 2 (Ab)
 	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988 - art. 3 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
 
 	**Cité par**:
 
@@ -5252,6 +5476,14 @@ disposition applicable à l'IVG pratiquée pour motif thérapeutique.*]
 	  - Décret n°90-740 du 14 août 1990 - art. 6 (V)
 	  - Code de la santé publique - art. L162-13 (Ab)
 	  - Code de la santé publique - art. L178 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -5269,6 +5501,8 @@ aucune mention de l'identité de la femme [*anonymat*].
 [*Nota : LOI 75-17 du 17 janvier 1975 ART. 2, ART. 11 : période d'application. Code de la santé publique L. 162-13 :
 disposition applicable à l'IVG pratiquée pour motif thérapeutique.*]
 
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -5283,13 +5517,10 @@ disposition applicable à l'IVG pratiquée pour motif thérapeutique.*]
 	  - TXT_SOURCE: Arrêté du 7 novembre 1989
 	  - TXT_SOURCE: Arrêté du 7 novembre 1989 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 7 novembre 1989 - art. 2 (V)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
 	  - TXT_SOURCE: Arrêté du 19 août 1975
 	  - TXT_SOURCE: Arrêté du 19 août 1975 - art. 1 (Ab)
 	  - SPEC_APPLI: Code de la santé publique - art. L162-13 (M)
-
-	**Créé par**:
-
-	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
 
 	**Cité par**:
 
@@ -5300,6 +5531,14 @@ disposition applicable à l'IVG pratiquée pour motif thérapeutique.*]
 	  - Arrêté du 7 novembre 1989 - art. 2 (V)
 	  - Code de la santé publique - art. L162-13 (Ab)
 	  - Code de la santé publique - art. L178 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -5314,6 +5553,10 @@ fixées par voie réglementaire.
 Les femmes célibataires étrangères âgées de moins de dix-huit ans [*mineures*] doivent en outre se soumettre aux conditions
 prévues à l'article L. 162-7.
 
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -5327,10 +5570,7 @@ prévues à l'article L. 162-7.
 	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
 	  - TXT_SOURCE: Décret n°75-354 du 13 mai 1975
 	  - TXT_SOURCE: Décret n°75-354 du 13 mai 1975 - art. 2 (Ab)
-
-	**Créé par**:
-
-	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
 
 	**Cité par**:
 
@@ -5338,6 +5578,14 @@ prévues à l'article L. 162-7.
 	  - Décret n°90-740 du 14 août 1990 - art. 6 (V)
 	  - Décret n°2003-462 du 21 mai 2003 - art. 6 (V)
 	  - Code de la santé publique - art. L178 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
@@ -5361,16 +5609,20 @@ Un des exemplaires de la consultation est remis à l'intéressée :
 
 deux autres sont conservés par les médecins consultants.
 
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+[*Nota : Loi 91-748 du 31 juillet 1991 art. 33 : dans les dispositions législatives, les mots "établissements publics de
+santé" sont substitués aux mots "établissements d'hospitalisation publics" et les mots "établissements de santé privés" sont
+substitués aux mots "établissements d'hospitalisation privés".*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Loi n°75-17 du 17 janvier 1975 - art. 5 () JORF 18 janvier 1975
 
 	**Cité par**:
 
@@ -5379,6 +5631,14 @@ deux autres sont conservés par les médecins consultants.
 	  - Arrêté du 10 septembre 1992 - art. 7 (V)
 	  - CODE PENAL - art. 317 (Ab)
 	  - Code de la santé publique - art. R162-29 (M)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
 
 	**Cite**:
 
@@ -5394,6 +5654,10 @@ deux autres sont conservés par les médecins consultants.
 Les dispositions des articles L. 162-2 et L. 162-8 à L. 162-10 sont applicables à l'interruption volontaire de la grossesse
 pratiquée pour motif thérapeutique.
 
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -5401,20 +5665,25 @@ pratiquée pour motif thérapeutique.
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-17 du 17 janvier 1975 - art. 5 () JORF 18 janvier 1975
-
-	**Cité par**:
-
-	  - Code de déontologie des sages-femmes. - art. 24 (Ab)
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
 
 	**Liens**:
 
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
 	  - SPEC_APPLI: Code de la santé publique - art. L162-10 (Ab)
 	  - SPEC_APPLI: Code de la santé publique - art. L162-2 (Ab)
 	  - SPEC_APPLI: Code de la santé publique - art. L162-8 (Ab)
 	  - SPEC_APPLI: Code de la santé publique - art. L162-9 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de déontologie des sages-femmes. - art. 24 (Ab)
 
 	**Cite**:
 
@@ -5434,6 +5703,10 @@ pratiquée pour motif thérapeutique.
 
 Un décret en Conseil d'Etat fixera les conditions d'application du présent chapitre.
 
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -5441,35 +5714,46 @@ Un décret en Conseil d'Etat fixera les conditions d'application du présent cha
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2212-11 (M)
 	  - Code de la santé publique - art. L2213-3 (M)
 
-	**Créé par**:
 
-	  - Loi n°75-17 du 17 janvier 1975 - art. 6 () JORF 18 janvier 1975
-
-
-#### Chapitre 4 : Protection des enfants
-
-##### Section 1 : Carnet de santé.
+#### Chapitre 4 : Actions de prévention concernant l'enfant.
 
 ###### Article L163
 
-Tout enfant est pourvu d'un carnet de santé délivré gratuitement par le maire lors de la déclaration de la naissance. Les
-enfants présentés dans les consultations de nourrissons et dans les centres de protection maternelle et infantile, s'ils
-n'ont pas encore reçu ce carnet, en sont pourvus par les soins de ces organismes.
+Lors de la déclaration de naissance, il est délivré gratuitement pour tout enfant un carnet de santé. Ce carnet est remis par
+l'officier d'état civil ; à défaut, il peut être demandé au service départemental de protection maternelle et infantile.
 
-Un arrêté du ministre de la Santé publique et de la Population détermine la forme et le mode d'utilisation de ce carnet où
-seront mentionnés obligatoirement les résultats de ces examens préventifs prescrits par le présent titre et où seront
-également notées, au fur et à mesure, toutes les consultations importantes concernant la santé de l'enfant.
+Un arrêté ministériel détermine le modèle et le mode d'utilisation de ce carnet où sont mentionnés obligatoirement les
+résultats des examens médicaux prévus à l'article L. 164 et où doivent être notées, au fur et à mesure, toutes les
+constatations importantes concernant la santé de l'enfant.
+
+Le carnet est établi au nom de l'enfant. Il est remis aux parents ou aux personnes titulaires de l'exercice de l'autorité
+parentale ou aux personnes ou aux services à qui l'enfant a été confié. Ils doivent être informés que nul autre qu'eux ne
+peut en exiger la communication et que toute personne appelée, de par sa profession, à prendre connaissance des
+renseignements qui y sont inscrits est astreinte au secret professionnel.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 19
 
 	**Cité par**:
 
@@ -5484,8 +5768,12 @@ seront mentionnés obligatoirement les résultats de ces examens préventifs pre
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
 
 	**Liens**:
 
@@ -5497,35 +5785,42 @@ seront mentionnés obligatoirement les résultats de ces examens préventifs pre
 	  - TXT_SOURCE: Arrêté du 2 mars 1995 - art. 5 (V)
 	  - TXT_SOURCE: Arrêté du 2 mars 1995 - art. 6 (V)
 
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L164 (M)
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2132-1 (M)
 	  - Code de la santé publique - art. L2421-3 (V)
 
 
-##### Section 2 : Surveillance sanitaire et sociale.
-
 ###### Article L164
 
-Jusqu'au début de l'obligation scolaire, tous les enfants sont l'objet d'une surveillance sanitaire préventive et, le cas
-échéant, d'une surveillance sociale.
+Tous les enfants de moins de six ans bénéficient de mesures de prévention sanitaire et sociale qui comportent notamment des
+examens obligatoires.
+
+Le nombre et le contenu de ces examens, l'âge auquel ils doivent intervenir et la détermination de ceux qui donnent lieu à
+l'établissement d'un certificat de santé sont fixés par voie réglementaire.
+
+Le contenu des certificats de santé, et notamment la liste des maladies ou déficiences qui doivent y être mentionnées, est
+établi par arrêté interministériel.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°64-677 1964-07-06 ART. 2 JORF 8 juillet 1964
-	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab) JORF 24 juillet 1962
-	  - Décret n°64-931 1964-09-03 ART. 1 JORF 10 septembre 1964
-
-	**Anciens textes**:
-
-	  - Ordonnance n°45-2720 du 2 novembre 1945 - art. 15, v. init.
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cité par**:
 
@@ -5544,167 +5839,81 @@ Jusqu'au début de l'obligation scolaire, tous les enfants sont l'objet d'une su
 	  - Code de la sécurité sociale. - art. L552-2 (M)
 	  - Code de la sécurité sociale. - art. R534-4 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2132-2 (V)
 
 
-###### Article L164-1
+###### Article L165
 
-La surveillance sanitaire prévue à l'article L. 164 donne lieu obligatoirement à la délivrance de certificats de santé et à
-la détermination du groupe sanguin des enfants qui lui sont soumis.
-
-Un décret en Conseil d'Etat précisera, parmi les examens obligatoires, ceux qui doivent donner lieu à l'établissement d'un
-certificat de santé et les âges auxquels doivent être subis ces examens.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Décret n°68-1009 du 19 novembre 1968 - art. 6 (Ab)
-	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
-	  - Code de la santé publique - art. L164-2 (P)
-	  - Code de la santé publique - art. L184 (Ab)
-	  - Code de la sécurité sociale. - art. D615-4 (M)
-	  - Code de la sécurité sociale. - art. L531-2 (M)
-	  - Code de la sécurité sociale. - art. L534-2 (M)
-	  - Code de la sécurité sociale. - art. L534-3 (M)
-
-	**Créé par**:
-
-	  - Loi n°70-633 1970-07-15 ART. 2 JORF 17 juillet
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973
-	  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 4 (Ab)
-	  - PEREMPTION: Loi n°89-899 du 18 décembre 1989 - art. 4 () JORF 19 décembre 1989
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L164 (M)
-
-
-###### Article L164-2
-
-Le certificat de santé [*contenu*] prévu à l'article 164-1 fait mention, le cas échéant, de toute anomalie, maladie ou
-infirmité, notamment mentale, sensorielle ou motrice, d'origine génétique ou autre, ayant provoqué ou susceptible de
-provoquer une invalidité de longue durée ou un handicap définitif ou non.
-
-S'il y a lieu, le médecin traitant ou le médecin du centre de protection maternelle et infantile prescrira les examens
-complémentaires ou spécialisés qui lui paraîtront nécessaires à la confirmation ou à l'infirmation des anomalies présumées, à
-la recherche des maladies ou infirmités visées à l'alinéa précédent. Les dépenses correspondantes seront prises en charge
-dans les mêmes conditions que l'examen initial.
-
-La liste des maladies ou infirmités qui doivent être mentionnées dans le certificat de santé ainsi que la forme du certificat
-sont établies par arrêté du ministre de la santé publique et de la sécurité sociale, pris après avis de l'académie nationale
-de médecine. Ce certificat est adressé par le médecin qui l'a rédigé à l'autorité sanitaire. Il ne peut être communiqué qu'à
-des personnes astreintes au secret professionnel médical.
-
-Les modalités d'application de cet article seront déterminées par le décret en Conseil d'Etat prévu à l'article L. 164-1.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Loi n°70-633 1970-07-15 ART. 2 JORF 17 juillet
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973
-	  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°73-267 du 2 mars 1973 - art. 4 (Ab)
-	  - PEREMPTION: Loi n°89-899 du 18 décembre 1989 - art. 4 () JORF 19 décembre 1989
-
-	**Cité par**:
-
-	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
-	  - Code de la santé publique - art. L164-3 (P)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L164-1 (P)
-
-
-###### Article L164-3
-
-Les enfants chez qui un handicap aura été décelé ou signalé, notamment au cours des examens médicaux prévus à l'article L.
-164-2 ci-dessus pourront être accueillis dans des structures d'action médico-sociale précoce en vue de prévenir ou de réduire
-l'aggravation de ce handicap. La prise en charge s'effectuera sous forme de cure ambulatoire comportant l'intervention de
-médecins et de techniciens para-médicaux et sociaux et, si nécessaire, une action de conseil et de soutien de la famille.
-Elle est assurée, s'il y a lieu, en liaison avec les institutions d'éducation préscolaire.
+Dans un délai de huit jours, le médecin qui a effectué un examen donnant lieu à l'établissement d'un certificat de santé
+adresse ce certificat au médecin responsable du service départemental de protection maternelle et infantile. La transmission
+de cette information se fait dans le respect du secret professionnel.
 
 **Nota:**
 
-*Nota : LOI 75-534 du 30 juin 1975 ART. 62 : fixe la date d'entrée en vigueur.*
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
 
 	**Créé par**:
 
-	  - Loi n°75-534 du 30 juin 1975 - art. 3 () JORF 1ER juillet
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
 
-	**Liens**:
+	**Abrogé par**:
 
-	  - SPEC_APPLI: Loi n°75-534 du 30 juin 1975 - art. 62 (Ab)
-	  - PEREMPTION: Loi n°89-899 du 18 décembre 1989 - art. 4 () JORF 19 décembre 1989
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
-	**Cite**:
+	**Nouveaux textes**:
 
-	  - Code de la santé publique - art. L164-2 (P)
+	  - Code de la santé publique - art. L2132-3 (M)
+	  - Code de la santé publique - art. L2132-3 (V)
 
 
 ###### Article L166
 
-Chaque fois qu'il est constaté, soit à la consultation de nourrissons, soit à l'occasion de la visite à domicile, que la
-santé de l'enfant est déficiente, l'assistante sociale doit engager la famille ou la personne à laquelle incombe la garde de
-l'enfant, à faire appel à un médecin et, le cas échéant, faire appuyer son avis par un médecin agréé par le service de la
-protection de l'enfance.
+Les personnes titulaires de l'exercice de l'autorité parentale ou celles à qui un enfant a été confié sont informées, dans le
+respect des règles déontologiques, lorsqu'un handicap a été suspecté, décelé ou signalé chez ce dernier, notamment au cours
+des examens médicaux prévus à l'article L. 164, de la nature du handicap et de la possibilité pour l'enfant d'être accueilli
+dans des centres spécialisés, notamment, dans des centres d'action médico-sociale précoce, en vue de prévenir ou de réduire
+l'aggravation de ce handicap.
 
-De même, si la santé de l'enfant est compromise par l'absence de soins convenables, par de mauvais traitements ou de mauvais
-exemples, l'assistante sociale en rend compte simultanément et sans délai au médecin chef du centre de protection maternelle
-et infantile de la circonscription intéressée et au directeur départemental de la Santé [*autorités compétentes*]. Ce dernier
-provoque d'urgence toutes les mesures appropriées en vue de sauvegarder la santé ou la vie de l'enfant et, notamment, fait
-constater l'état de ce dernier par un médecin agréé par le service de protection de la maternité ou de l'enfance.
+Dans les centres d'action médico-sociale précoce, la prise en charge s'effectue sous forme de cure ambulatoire comportant
+l'intervention d'une équipe pluridisciplinaire. Elle comporte une action de conseil et de soutien de la famille ou des
+personnes auxquelles l'enfant a été confié. Elle est assurée, s'il y a lieu, en liaison avec les institutions d'éducation
+préscolaires et les établissements et services mentionnés à l'article L. 180.
+
+Le financement de ces centres est assuré dans les conditions définies à l'article L. 187.
 
 **Nota:**
 
-[*Nota - Décret 62-840 du 19 juillet 1962 : ces obligations incombent aussi aux puéricultrices.*]
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 17
-
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°62-840 1962-07-19
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cité par**:
 
@@ -5713,65 +5922,22 @@ constater l'état de ce dernier par un médecin agréé par le service de protec
 	  - Code de la santé publique - art. L168 (Ab)
 	  - Code de la santé publique - art. L187 (Ab)
 
+	**Modifié par**:
 
-###### Article L167
-
-Si un enfant tombe malade chez une nourrice ou une gardienne et que les parents n'aient pas pris de mesures nécessaires pour
-qu'il reçoive les soins médicaux, la nourrice ou la gardienne, après avoir appelé le médecin pour la première visite, en
-informe le maire qui prononce l'admission d'urgence à l'aide médicale sauf recours contre les parents et, éventuellement, le
-bureau des nourrices.
-
-Si l'enfant placé chez une nourrice ou une gardienne ne paraît pas recevoir tous les soins matériels ou moraux nécessaires,
-le directeur départemental de la Santé [*autorité compétente*] peut, après mise en demeure adressée aux parents, prononcer le
-retrait de l'enfant de chez la nourrice ou la gardienne et le placer provisoirement chez une autre personne. Il en réfère
-ensuite au préfet qui statue en ce qui concerne le placement définitif de l'enfant et le retrait du certificat de la nourrice
-prévu à l'article 170 ci-après. Il peut interdire, le cas échéant, à cette dernière, de recevoir de nouveaux enfants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 18
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
 
 	**Abrogé par**:
 
-	  - Loi n°89-899 du 18 décembre 1989 - art. 5 () JORF 19 décembre 1989
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L170 (Ab)
+	  - Code de la santé publique - art. L164 (M)
+	  - Code de la santé publique L164, L180 et L187
 
+	**Nouveaux textes**:
 
-###### Article L168
-
-Si le médecin appelé par l'assistante sociale dans les conditions prévues à l'article L. 166 [*santé déficiente ou mauvais
-traitements*] reconnaît, soit chez la nourrice, soit chez l'enfant, les symptômes d'une maladie susceptible d'être transmise
-[*contagieuse*], l'allaitement au sein peut être supprimé par décision du directeur départemental de la Santé, qui en avise
-immédiatement les parents.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 26
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Abrogé par**:
-
-	  - Loi n°89-899 du 18 décembre 1989 - art. 5 () JORF 19 décembre 1989
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L166 (M)
+	  - Code de la santé publique - art. L2132-4 (V)
 
 
 #### Chapitre 5 : Du contrôle de certains établissements
@@ -5793,6 +5959,10 @@ pourra, en outre, être fermé ; en cas de récidive dans les trois ans, le coup
 six jours à deux ans [*durée*], le tout sans préjudice des peines plus fortes encourues notamment du fait des crimes et
 délits par les articles 317, 345 à 351 du Code pénal et par les articles L. 647 et suivants du présent Code.
 
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -5804,11 +5974,6 @@ délits par les articles 317, 345 à 351 du Code pénal et par les articles L. 6
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°70-415 du 8 mai 1970 - art. 11 () JORF 17 mai 1970
-	  - Loi n°75-17 du 17 janvier 1975 - art. 7 () JORF 18 janvier 1975
 
 	**Cité par**:
 
@@ -5854,6 +6019,11 @@ délits par les articles 317, 345 à 351 du Code pénal et par les articles L. 6
 	  - TXT_SOURCE: Décret n°80-632 du 5 août 1980
 	  - TXT_SOURCE: Décret n°80-632 du 5 août 1980 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°80-632 du 5 août 1980 - art. 2 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
 
 	**Cite**:
 
@@ -5866,44 +6036,16 @@ délits par les articles 317, 345 à 351 du Code pénal et par les articles L. 6
 	  - Code de la santé publique - art. L2322-7 (Ab)
 
 
-###### Article L177
-
-Les établissements visés à l'article L. 176, autorisés ou non, sont soumis à la surveillance préfectorale exercée par le
-directeur départemental de la Santé ou par son adjoint et les commissaires de police [*autorités compétentes*]. Ces
-fonctionnaires peuvent pénétrer à toute heure, de jour et de nuit, dans les établissements susvisés et procéder à toutes
-investigations, constatations et enquêtes par eux jugées utiles [*droit de circulation*].
-
-Quiconque fait obstacle aux inspections prévues à l'alinéa précédent sera puni de six jours à six mois d'emprisonnement
-[*durée*] et d'une amende de 1.800 F à 20.000 F [*montant*]. La fermeture de l'établissement peut, en outre, être prononcée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Décret n°72-162 du 21 février 1972 - art. 1 (Ab)
-	  - Loi n°79-1140 du 29 décembre 1979 - art. 10 (Ab)
-	  - Code de la famille et de l'aide sociale. - art. 44 (M)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L176 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1939-07-29 ART. 94
-
-
 ###### Article L178
 
 Le préfet [*autorité compétente*] peut, sur rapport du médecin inspecteur départemental de la santé, prononcer le retrait de
 l'autorisation prévue à l'article L. 176 [*sanction*] si l'établissement cesse de remplir les conditions fixées par le décret
-prévu audit article ou s'il contrevient aux dispositions des articles L. 162-6, 2ème alinéa, et L. 162-9 à L. 162-11
+prévu audit article ou s'il contrevient aux dispositions des articles L. 162-6, 2° alinéa, et L. 162-9 à L. 162-11
 [*relatives à l'interruption de la grossesse*].
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -5919,7 +6061,15 @@ prévu audit article ou s'il contrevient aux dispositions des articles L. 162-6,
 
 	**Modifié par**:
 
-	  - Loi n°75-17 du 17 janvier 1975 - art. 7 () JORF 18 janvier 1975
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
@@ -5946,6 +6096,10 @@ chaque année ne pourra être supérieur au quart du total des actes chirurgicau
 Tout dépassement entraînera la fermeture de l'établissement pendant un an. En cas de récidive, la fermeture sera définitive
 [*sanction*].
 
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -5953,9 +6107,17 @@ Tout dépassement entraînera la fermeture de l'établissement pendant un an. En
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-17 du 17 janvier 1975 - art. 7 () JORF 18 janvier 1975
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
@@ -5972,17 +6134,16 @@ Toute publicité de caractère commercial, sous quelque forme que ce soit, conce
 grossesse ou l'accouchement est interdite, sauf en faveur des établissements autorisés dans les conditions de l'article L.
 176 de la présente section, ainsi que dans les publications exclusivement réservées au corps médical.
 
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
 	**Cité par**:
 
-	  - Décret n°72-162 du 21 février 1972 - art. 1 (Ab)
 	  - Code de la famille et de l'aide sociale. - art. 44 (M)
+	  - Décret n°72-162 du 21 février 1972 - art. 1 (Ab)
 
 	**Cite**:
 
@@ -5996,37 +6157,6 @@ grossesse ou l'accouchement est interdite, sauf en faveur des établissements au
 
 	  - Décret n°1939-07-29 ART. 96
 
-
-##### Section 2 : Etablissements concourant à la protection, à la garde ou au placement des enfants du premier et du second âge.
-
-###### Article L180
-
-Le contrôle du directeur départemental de la Santé, au point de vue médical et technique, et celui des inspecteurs principaux
-des directions départementales de la Population, au point de vue administratif et financier s'exerce sur tous les
-établissements ainsi que sur les particuliers qui concourent à la protection, à la garde ou au placement des enfants du
-premier et du second âge.
-
-Les établissements et services publics et privés ou les particuliers visés au premier alinéa du présent article ne peuvent
-exercer leur activité sans une autorisation [*obligatoire*] délivrée par le préfet, après avis du directeur départemental de
-la santé.
-
-Toute décision de refus doit être motivée.
-
-Le directeur départemental de la Santé a qualité pour faire vérifier à tout moment l'état de santé des personnes qui, en
-exerçant soit pour leur propre compte, soit au service d'autrui l'une des activités visées ci-dessus, se trouvent en contact
-avec des enfants [*contrôle de l'encadrement*].
-
-Si les examens qu'il aura prescrits, dans les conditions fixées par arrêté du ministre de la Santé publique et de la
-Population [*autorité compétente*] relèvent que les personnes examinées sont atteintes d'une affection contagieuse, les
-malades ainsi dépistés devront interrompre leur activité [*interdiction*] jusqu'à la disparition complète des risques de
-contagion.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 31
-
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
@@ -6034,53 +6164,109 @@ contagion.
 
 	**Modifié par**:
 
-	  - Loi n°64-677 1964-07-06 art. 5 I ET II JORF 8 juillet 1964
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+##### Section 2 : Etablissements et services concourant à l'accueil des enfants de moins de six ans.
+
+###### Article L180
+
+I. - Si elles ne sont pas soumises à un régime d'autorisation en vertu d'une autre disposition législative, la création,
+l'extension et la transformation des établissements et services gérés par une personne physique ou morale de droit privé
+accueillant des enfants de moins de six ans sont subordonnées à une autorisation délivrée par le président du conseil
+général, après avis du maire de la commune d'implantation.
+
+II. - Sous la même réserve, la création, l'extension et la transformation des établissements et services publics accueillant
+des enfants de moins de six ans sont décidées par la collectivité publique intéressée, après avis du président du conseil
+général.
+
+III. - La création, l'extension ou la transformation des centres de vacances, de loisirs ou de placement de vacances, publics
+ou privés, qui accueillent des enfants de moins de six ans est subordonnée à une autorisation délivrée par le représentant de
+l'Etat dans le département, après avis du médecin responsable du service départemental de protection maternelle et infantile.
+
+IV. - Les conditions de qualification ou d'expérience professionnelle, de moralité et d'aptitude physique requises des
+personnes exerçant leur activité dans les établissements ou services mentionnés aux paragraphes I à III ainsi que les
+conditions d'installation et de fonctionnement de ces établissements ou services sont fixées par voie réglementaire.
+
+**Nota:**
+
+[*Nota : Loi 89-899 du 18 décembre 1989 art. 17 : dispositions transitoires.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 9.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
 
 	**Cité par**:
 
 	  - Loi n°89-899 du 18 décembre 1989 - art. 17 (V)
-	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 9 (Ab)
 	  - Arrêté du 12 août 1952 - art. 26 (Ab)
 	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 quater D (M)
 	  - Code de la santé publique - art. L181 (Ab)
 	  - Code de la santé publique - art. L182 (Ab)
 	  - Code de la santé publique - art. L183 (Ab)
 	  - Code de la santé publique - art. R215-1 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 9 (Ab)
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L2324-1 (M)
 	  - Code de la santé publique - art. L2324-1 (V)
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique L181 : SANCTIONS
 
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 
 ###### Article L181
 
-Toute infraction aux dispositions de l'article L. 180 ci-dessus est punie d'un à cinq jours d'emprisonnement [*durée*] et
-d'une amende de 1.300 F à 2.500 F [*montant*], ou de l'une de ces deux peines seulement.
+Les établissements et services mentionnés à l'article L. 180 sont soumis au contrôle et à la surveillance du médecin
+responsable du service départemental de protection maternelle et infantile.
 
-En cas de récidive, le délinquant est passible d'un emprisonnement de onze jours à six mois et d'une amende de 450 F à 15.000
-F.
+**Nota:**
 
-Le tribunal peut, en outre, dans ce dernier cas, ordonner la fermeture de l'établissement ou prononcer l'interdiction
-d'exercer, soit à titre temporaire, soit à titre définitif.
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 31
-
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
 
 	**Cité par**:
 
 	  - Décret n°92-785 du 6 août 1992 - art. 18 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
@@ -6091,28 +6277,168 @@ d'exercer, soit à titre temporaire, soit à titre définitif.
 	  - Code de la santé publique - art. L2324-2 (V)
 
 
-#### Chapitre 6 : Financement.
+###### Article L182
 
-###### Article L185
+Lorsqu'il estime que la santé physique ou mentale ou l'éducation des enfants sont compromises ou menacées :
 
-Les frais occasionnés par l'application des dispositions du chapitre V du présent titre sont supportés par l'Etat [*charge -
-établissements d'hospitalisation recevant des femmes enceintes ou concourant ù la protection, à la garde ou au placement des
-enfants du premier et du second âge*].
+1° Le représentant de l'Etat dans le département ou le président du conseil général peut adresser des injonctions aux
+établissements et services mentionnés au paragraphe I de l'article L. 180 ;
+
+2° Le représentant de l'Etat dans le département peut adresser des injonctions aux établissements et services mentionnés aux
+paragraphes II et III de l'article L. 180.
+
+Dans le cas où il n'a pas été satisfait aux injonctions, le représentant de l'Etat dans le département peut prononcer la
+fermeture totale ou partielle, provisoire ou définitive, des établissements ou services mentionnés à l'article L. 180, après
+avis du président du conseil général en ce qui concerne les établissements et services mentionnés aux paragraphes I et II de
+cet article.
+
+La fermeture définitive vaut retrait des autorisations instituées par les paragraphes I et III de l'article L. 180.
+
+En cas d'urgence, le représentant de l'Etat dans le département peut prononcer, par arrêté motivé, la fermeture immédiate, à
+titre provisoire, des établissements mentionnés à l'article L. 180. Il en informe le président du conseil général.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 10.*]
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
+	**Codifié par**:
 
-	  - Ordonnance 45-2720 1945-11-02 ART. 46
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 10 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L180 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2324-3 (V)
+
+
+###### Article L183
+
+Seront punis des peines prévues au premier et au troisième alinéa de l'article 99 du code de la famille et de l'aide sociale
+ceux qui auront créé, étendu ou transformé des établissements et services privés qui accueillent des enfants de moins de six
+ans sans l'autorisation mentionnée aux paragraphes I et III de l'article L. 180.
+
+Le tribunal pourra, en outre, ordonner la fermeture des établissements ou services ou prononcer, à l'encontre du condamné,
+l'interdiction, soit à titre temporaire, soit à titre définitif, de diriger tout établissement ou service relevant de la
+présente section.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 99 (M)
+	  - Code de la santé publique - art. L180 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2326-4 (M)
+	  - Code de la santé publique - art. L2326-4 (V)
+
+
+##### Section 3 : Lactariums
+
+###### Article L184
+
+La collecte du lait humain ne peut être faite que par des lactariums gérés par des collectivités publiques ou des organismes
+sans but lucratif et autorisés à fonctionner par le représentant de l'Etat dans le département.
+
+Les lactariums contrôlent la qualité du lait et assurent son traitement, son stockage et sa distribution, sur prescription
+médicale, dans des conditions fixées par arrêté interministériel.
+
+Les dispositions de l'article L. 164-1 du code de la sécurité sociale sont applicables au lait humain.
+
+**Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
+	**Créé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L164-1 (P)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2323-1 (M)
+	  - Code de la santé publique - art. L2323-1 (V)
+
+
+#### Chapitre 6 : Financement.
+
+###### Article L185
+
+Les frais occasionnés par le contrôle de l'application des dispositions du chapitre III bis et des sections 1 et 3 du
+chapitre V sont supportés par l'Etat [*charge financière.*]
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
 	**Modifié par**:
 
-	  - Loi n°83-663 du 22 juillet 1983 - art. 49 () JORF 23 JUILLET 1983
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cité par**:
 
@@ -6127,51 +6453,87 @@ enfants du premier et du second âge*].
 
 ###### Article L186
 
-Le contrôle financier est effectué par le directeur départemental de la Population et de l'Entraide sociale [*autorité
-compétente*].
+Lorsque les examens institués par les articles L. 153, L. 154, deuxième alinéa, L. 156 et L. 164, deuxième alinéa, sont
+pratiqués dans une consultation du service départemental de protection maternelle et infantile et concernent des assurés
+sociaux ou leurs ayants droit, les frais y afférents sont remboursés au département par les organismes d'assurance maladie
+dont relèvent les intéressés selon le mode de tarification prévu à l'article L. 162-32 du code de la sécurité sociale.
+
+Les organismes d'assurance maladie peuvent également, par voie de convention, participer sur leurs fonds d'action sanitaire
+et sociale aux autres actions de prévention médico-sociale menées par le département.
+
+Dans les départements où, à la date d'entrée en vigueur de la loi n° 89-899 du 18 décembre 1989, une convention fixe les
+conditions de la participation des organismes d'assurance maladie au fonctionnement du service départemental de protection
+maternelle et infantile, celle-ci demeure en vigueur, sauf dénonciation dans les conditions prévues par ladite convention. En
+cas de dénonciation, les dispositions du premier alinéa et éventuellement du deuxième alinéa du présent article sont
+applicables.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 11.*]
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 2
-
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°89-899 1989-12-18
+	  - Code de la santé publique - art. L153 (Ab)
+	  - Code de la santé publique - art. L154 (Ab)
+	  - Code de la santé publique - art. L156 (Ab)
+	  - Code de la santé publique - art. L164 (M)
+	  - Code de la sécurité sociale. - art. L162-32 (M)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989 rectificatif JORF 25 janvier 1990
 
 	**Cité par**:
 
 	  - Décret n°92-785 du 6 août 1992 - art. 17 (Ab)
 	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 11 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2112-7 (V)
 
 
-#### Chapitre 7 : Dispositions diverses.
-
 ###### Article L187
 
-L'article 378 du Code pénal relatif au secret professionnel est applicable à toute personne appelée à collaborer à la
-protection de la maternité et de la première enfance, notamment aux assistantes sociales et aux nourrices et gardiennes.
+Le financement des centres d'action médico-sociale précoce mentionnés à l'article L. 166 est assuré par une dotation globale
+annuelle à la charge des régimes d'assurance maladie pour 80 p. 100 de son montant et du département pour le solde.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance n°45-2720 du 2 novembre 1945 - art. 47, v. init.
-
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
-	  - Code pénal 378
+	  - Code de la santé publique - art. L166 (M)
 
 	**Nouveaux textes**:
 
@@ -6182,57 +6544,36 @@ protection de la maternité et de la première enfance, notamment aux assistante
 	  - Code de la sécurité sociale. - art. L174-13 (V)
 
 
+#### Chapitre 7 : Dispositions diverses.
+
 ###### Article L188
 
-Les préfets adressent chaque année [*périodicité*] au ministre de la Santé publique et de la Population un rapport sur le
-fonctionnement du service de la protection maternelle et infantile.
+L'article 378 du code pénal relatif au secret professionnel est applicable à toute personne appelée à collaborer au service
+départemental de protection maternelle et infantile.
 
-Le ministre de la Santé publique et de la Population publie tous les cinq ans au Journal officiel un rapport sur l'exécution
-du présent titre.
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 48
-
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Cite**:
+
+	  - Code pénal 378
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2112-9 (V)
-
-
-###### Article L189
-
-Des décrets fixent les conditions d'application du présent titre, notamment en ce qui concerne la surveillance sanitaire des
-enfants fréquentant les écoles maternelles, après accord avec le ministre de l'Education nationale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2720 1945-11-02 ART. 49
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Code de la famille et de l'aide sociale. - art. 73 (Ab)
-
-	**Cite**:
-
-	  - Code de la santé publique L146 A L190-1
-
-	**Abrogé par**:
-
-	  - Loi n°89-899 du 18 décembre 1989 - art. 9 () JORF 19 décembre 1989
 
 
 #### Chapitre 8 : Dispositions relatives aux départements d'outre-mer.
@@ -6241,35 +6582,16 @@ enfants fréquentant les écoles maternelles, après accord avec le ministre de 
 
 Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, les femmes qui n'ont pas le droit à
 une prestation familiale à la naissance bénéficient d'une prime versée après chacun des examens prénataux et après l'examen
-post-natal institués en application de l'article L. 159. Un décret détermine les modalités de versement et le montant de
+post-natal institués en application de l'article L. 154. Un décret détermine les modalités de versement et le montant de
 cette prime, qui évolue comme le montant des allocations familiales versées aux salariés du régime général dans les
 départements visés ci-dessus.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°56-907 1956-09-10
-	  - Ordonnance 45-2407 1945-10-18 ART. 6
-	  - Décret n°64-782 1964-07-30 ART. 2
-
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Décret n°53-1001 1953-10-05 jorf 7 octobre 1953
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°77-1411 1977-12-23 ART. 2 : ENTREE EN VIGUEUR AU PLUS TARD LE 1ER juillet 1978
-	  - TXT_ASSOCIE: Code de la santé publique L190-1 : FINANCEMENT
-
-	**Modifié par**:
-
-	  - Loi n°77-1411 1977-12-23 art. 1 jorf 24 décembre 1977
 
 	**Cité par**:
 
@@ -6278,25 +6600,47 @@ départements visés ci-dessus.
 	  - Code de la santé publique - art. L190-1 (Ab)
 	  - Code de la sécurité sociale. - art. L755-32 (M)
 
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L159 (Ab)
+	  - Code de la santé publique - art. L154 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L190-1 : FINANCEMENT
 
 
 ###### Article L190-1
 
 Les dépenses résultant de l'attribution de la prime instituée par l'article L. 190 font partie des dépenses obligatoires de
-protection maternelle et infantile auxquelles sont applicables les dispositions de l'article L. 185 [*budget*].
+protection maternelle et infantile.
 
 Les organismes de sécurité sociale débiteurs des prestations familiales des différents régimes remboursent aux départements
 le montant des primes versées à leurs ressortissants [*charge*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.
+
+Toutefois, les personnes ayant bénéficié à cette date d'au moins une prime à la protection de la maternité continuent à
+percevoir ces primes jusqu'à l'expiration du droit.
+
+Les dépenses résultant de l'attribution de ces primes sont prises en charge dans les conditions prévues à l'article L. 190-1
+du code de la santé publique.
+
+Les primes pour la protection de la maternité ne sont pas cumulables avec l'allocation pour jeune enfant visée au 1° de
+l'article L. 531-1 du code de la sécurité sociale.*]
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cité par**:
 
@@ -6304,25 +6648,68 @@ le montant des primes versées à leurs ressortissants [*charge*].
 	  - Loi n°96-609 du 5 juillet 1996 - art. 61 (V)
 	  - Code de la sécurité sociale. - art. L755-32 (M)
 
-	**Liens**:
+	**Modifié par**:
 
-	  - SPEC_APPLI: Loi n°77-1411 1977-12-23 ART. 2 : ENTREE EN VIGUEUR AU PLUS TARD LE 1ER juillet 1978
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°77-1411 1977-12-23 art. 1 JORF 24 décembre 1977
+	  - Loi n°96-609 du 5 juillet 1996 - art. 61 (V) JORF 9 juillet 1996
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L185 (M)
 	  - Code de la santé publique - art. L190 (M)
+
+
+#### Chapitre 9 : Dispositions finales.
+
+###### Article L190-2
+
+Sauf disposition contraire, les conditions d'application du présent titre sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2111-4 (V)
+	  - Code de la santé publique - art. L2112-10 (V)
+	  - Code de la santé publique - art. L2121-2 (V)
+	  - Code de la santé publique - art. L2122-5 (V)
+	  - Code de la santé publique - art. L2131-5 (M)
+	  - Code de la santé publique - art. L2131-5 (V)
+	  - Code de la santé publique - art. L2132-5 (V)
+	  - Code de la santé publique - art. L2141-11 (M)
+	  - Code de la santé publique - art. L2141-11 (V)
+	  - Code de la santé publique - art. L2142-4 (M)
+	  - Code de la santé publique - art. L2142-4 (V)
+	  - Code de la santé publique - art. L2322-7 (Ab)
+	  - Code de la santé publique - art. L2323-3 (V)
+	  - Code de la santé publique - art. L2324-4 (V)
 
 
 ### Titre 2 : Santé scolaire et universitaire.
 
 ###### Article L191
 
-Au cours de leur sixième année [*âge*], les enfants sont obligatoirement soumis à une visite médicale. Cette visite, à
+Au cours de leur sixième année [*âge*], tous les enfants sont obligatoirement soumis à une visite médicale. Cette visite, à
 laquelle les parents ou tuteurs sont tenus, sur convocation administrative, de présenter les enfants, ne donne pas lieu à
 contribution pécuniaire de la part des familles [*frais*].
 
@@ -6332,6 +6719,11 @@ est exercée avec le concours d'un service social.
 Des décrets pris en Conseil d'Etat fixent la participation des familles et des collectivités publiques aux dépenses
 occasionnées par les examens médicaux périodiques des élèves des divers ordres d'enseignement.
 
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 12 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
@@ -6340,8 +6732,8 @@ occasionnées par les examens médicaux périodiques des élèves des divers ord
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cité par**:
 
@@ -6356,6 +6748,14 @@ occasionnées par les examens médicaux périodiques des élèves des divers ord
 	  - Code de la santé publique - art. L198 (Ab)
 	  - Code de la santé publique - art. L198-1 (Ab)
 	  - Code de la santé publique - art. L215 (M)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -6384,6 +6784,10 @@ tous les deux ans [*périodicité*] à un examen médical de dépistage des mala
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
 	**Nouveaux textes**:
 
 	  - Code de l'éducation - art. L541-2 (V)
@@ -6404,16 +6808,17 @@ Dans chaque chef-lieu de département et d'arrondissement, dans chaque commune d
 les communes désignées par arrêté ministériel, un ou plusieurs centres médico-sociaux scolaires sont organisés pour les
 visites [*médicales*] et examens prescrits aux articles 191 et 192 ci-dessus [*lieu*].
 
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 12 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 13.*]
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2407 1945-10-18 ART. 3
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Nouveaux textes**:
 
@@ -6428,22 +6833,47 @@ visites [*médicales*] et examens prescrits aux articles 191 et 192 ci-dessus [*
 
 	  - Code de la santé publique - art. L194 (Ab)
 
+	**Anciens textes**:
+
+	  - Ordonnance 45-2407 1945-10-18 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 
 ###### Article L194
 
 Le contrôle médical des activités physiques et sportives scolaires et universitaires est assuré dans les conditions définies
 aux articles 191 et 193 du présent titre.
 
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 12 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Anciens textes**:
 
-	  - Ordonnance 45-2407 1945-10-18 ART. 10
+	  - Ordonnance 45-2407 1945-10-18 art. 10
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -6461,43 +6891,29 @@ aux articles 191 et 193 du présent titre.
 Il est établi un casier sanitaire des locaux et dépendances de tous les établissements d'enseignement et d'éducation tant
 publics que privés [*renseignements*].
 
-**Liens relatifs à cet article**
+**Nota:**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2407 1945-10-18 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-
-###### Article L197
-
-Indépendamment des sanctions disciplinaires qui sont fixées par décret, quiconque refusera de se soumettre aux prescriptions
-de l'article L. 192 du présent titre, ou quiconque en entravera l'exécution, sera passible d'une amende de 1.300 F à 2.500 F
-[*montant*] et, en cas de récidive dans le délai d'un an, d'une amende de 2.500 F à 5.000 F et d'un emprisonnement de dix
-jours à un mois [*durée*] ou de l'une de ces deux peines seulement. 
-
-Les mêmes pénalités sont encourues par les personnes ayant la garde des enfants qui mettraient obstacle à l'exécution des
-prescriptions prévues à l'article 191 ci-dessus.
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 12 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Ordonnance 45-2407 1945-10-18 ART. 7
-
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Cite**:
+	**Anciens textes**:
 
-	  - Code de la santé publique - art. L191 (M)
-	  - Code de la santé publique - art. L192 (M)
+	  - Ordonnance 45-2407 1945-10-18 art. 5
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 ###### Article L198
@@ -6507,7 +6923,12 @@ fonctionnement du service médical et du service social concernant la population
 de doctrine médicale seront pris après avis de l'académie nationale de médecine.
 
 Des décrets déterminent également les sanctions disciplinaires applicables aux étudiants et élèves de l'enseignement
-supérieur en cas d'infraction aux dispositions de l'article 191 ci-dessus [*examens médicaux périodiques obligatoires*].
+supérieur en cas d'infraction aux dispositions de l'article L. 191 ci-dessus [*examens médicaux périodiques obligatoires*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 12 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -6517,8 +6938,16 @@ supérieur en cas d'infraction aux dispositions de l'article 191 ci-dessus [*exa
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -6534,14 +6963,14 @@ supérieur en cas d'infraction aux dispositions de l'article 191 ci-dessus [*exa
 
 ###### Article L199
 
-Les maisons d'enfants à caractère sanitaire sont des établissements [*nature, définition*], qu'ils soient permanents ou
-temporaires, qui fonctionnent en régime d'internat et sont destinés à recevoir, sur certificat médical, des enfants ou des
-adolescents de trois à dix-sept ans révolus [*âge*], en vue de leur assurer soit un traitement spécial ou un régime
-diététique particulier, soit une cure thermale ou climatique.
+Les maisons d'enfants à caractère sanitaire sont des établissements, qu'ils soient permanents ou temporaires, qui
+fonctionnent en régime d'internat et sont destinés à recevoir, sur certificat médical, des enfants ou des adolescents de
+trois à dix-sept ans révolus   , en vue de leur assurer soit un traitement spécial ou un régime diététique particulier, soit
+une cure thermale ou climatique. 
 
 Ne sont pas considérés comme maisons d'enfants à caractère sanitaire les établissements climatiques de l'enseignement public
 ou privé, qui ne sont pas des établissements sanitaires où le séjour des enfants peut donner lieu à une prise en charge par
-les organismes de sécurité sociale.
+les organismes de sécurité sociale. 
 
 Dans quelque catégorie qu'ils aient été antérieurement classés, et quelle que soit la dénomination qui leur ait été donnée,
 ou qu'ils portent en fait, les établissements qui reçoivent des enfants aux fins visées à l'alinéa 1er ci-dessus sont soumis
@@ -6553,10 +6982,6 @@ aux dispositions du présent titre.
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
 
 	**Liens**:
 
@@ -6598,16 +7023,25 @@ aux dispositions du présent titre.
 
 	  - Décret n°56-841 du 18 août 1956 - art. 1 (Ab)
 	  - Décret n°56-841 du 18 août 1956 - art. 2 (Ab)
-	  - Rapport - art. 24 (V)
-	  - Rapport - art. 25 (V)
 	  - Arrêté du 6 août 1996 - art. 1 (V)
 	  - Code de la santé publique - art. L201 (Ab)
 	  - Code de la santé publique - art. R215-1 (Ab)
 	  - Code de la santé publique - art. R715-13-1 (M)
+	  - Rapport - art. 24 (V)
+	  - Rapport - art. 25 (V)
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2321-1 (V)
+	  - Code de la santé publique - art. L2321-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 ###### Article L200
@@ -6631,16 +7065,21 @@ caractère ou du comportement.
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Modifié par**:
-
-	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
-
 	**Cité par**:
 
 	  - Décret n°56-841 du 18 août 1956 - art. 2 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L2321-2 (M)
 	  - Code de la santé publique - art. L2321-2 (V)
 
 	**Cite**:
@@ -6667,6 +7106,14 @@ Ces autorisations sont délivrées dans les conditions définies par le décret 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L199 (M)
@@ -6677,11 +7124,8 @@ Ces autorisations sont délivrées dans les conditions définies par le décret 
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L2321-3 (M)
 	  - Code de la santé publique - art. L2321-3 (V)
-
-	**Modifié par**:
-
-	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
 
 
 ###### Article L202
@@ -6698,17 +7142,22 @@ application de l'article L. 206 (par. 2, 3 et 4).
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L206 (M)
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L2321-4 (M)
 	  - Code de la santé publique - art. L2321-4 (V)
-
-	**Modifié par**:
-
-	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
 
 
 ###### Article L203
@@ -6724,6 +7173,11 @@ d'organismes d'assurances sociales ;
 Du titre II du même décret, s'il s'agit de maisons d'enfants à caractère sanitaire relevant de collectivités privées autres
 que celles prévues à l'alinéa précédent, ou gérées par des particuliers.
 
+**Nota:**
+
+[*Nota - Ordonnance 96-346 du 24 avril 1996 art. 27 II : l'article L. 203 du code de la santé publique est abrogé à compter
+du 1er janvier 1997.*]
+
 **Liens relatifs à cet article**
 
 	**Cite**:
@@ -6737,10 +7191,6 @@ que celles prévues à l'alinéa précédent, ou gérées par des particuliers.
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Modifié par**:
-
-	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
-
 	**Cité par**:
 
 	  - Décret n°76-456 du 21 mai 1976 - art. 15 (Ab)
@@ -6752,6 +7202,14 @@ que celles prévues à l'alinéa précédent, ou gérées par des particuliers.
 	**Liens**:
 
 	  - SPEC_APPLI: Loi n°83-25 1983-01-19 art. 15 : dispositions non applicables aux établissements publics et aux établissements privés admis à participer à l'exécution du service public hospitalier
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Rapport - art. 27 (V) JORF 25 avril 1996 à compter du 1er janvier 1997
 
 
 ###### Article L204
@@ -6770,6 +7228,14 @@ En outre, toute personne spécialement désignée par le ministre de la Santé p
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cité par**:
 
 	  - Code de la santé publique - art. L205 (Ab)
@@ -6779,17 +7245,13 @@ En outre, toute personne spécialement désignée par le ministre de la Santé p
 
 	  - Code de la santé publique - art. L2321-5 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
-
 
 ###### Article L205
 
 S'il est établi que la santé, la sécurité ou la moralité des enfants se trouvent compromises, ou si la direction de
-l'établissement refuse de se soumettre à la surveillance prévue à l'article 204, le préfet [*autorité compétente*] peut, par
-arrêté motivé, ordonner la fermeture de l'établissement, sous réserve de l'approbation du ministre de la santé publique et de
-la population [*sanction*].
+l'établissement refuse de se soumettre à la surveillance prévue à l'article L. 204, le préfet [*autorité compétente*] peut,
+par arrêté motivé, ordonner la fermeture de l'établissement, sous réserve de l'approbation du ministre de la santé publique
+et de la population [*sanction*].
 
 **Liens relatifs à cet article**
 
@@ -6798,6 +7260,23 @@ la population [*sanction*].
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
+	**Anciens textes**:
+
+	  - Décret n°55-685 1955-05-20 ART. 1
+	  - Décret n°56-907 1956-09-10
+
+	**Cité par**:
+
+	  - Décret n°56-841 du 18 août 1956 - art. 28 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L204 (M)
@@ -6805,20 +7284,6 @@ la population [*sanction*].
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2321-6 (Ab)
-
-	**Anciens textes**:
-
-	  - Décret n°55-685 1955-05-20 ART. 1
-	  - Décret n°56-907 1956-09-10
-
-	**Modifié par**:
-
-	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
-	  - Ordonnance 59-34 1959-01-05 art. 1 JORF 6 janvier 1959
-
-	**Cité par**:
-
-	  - Décret n°56-841 du 18 août 1956 - art. 28 (Ab)
 
 
 ###### Article L206
@@ -6844,6 +7309,14 @@ qu'ils sont appelés à recevoir.
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cité par**:
 
 	  - Code de la santé publique - art. L201 (Ab)
@@ -6853,10 +7326,6 @@ qu'ils sont appelés à recevoir.
 
 	  - Code de la santé publique - art. L2321-7 (Ab)
 
-	**Modifié par**:
-
-	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
-
 
 ###### Article L207
 
@@ -6865,6 +7334,19 @@ protection des enfants placés hors du domicile de leurs parents.
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2321-8 (Ab)
@@ -6872,55 +7354,6 @@ protection des enfants placés hors du domicile de leurs parents.
 	**Cite**:
 
 	  - Décret n°1938-06-17
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
-
-
-###### Article L208
-
-Sera puni d'une amende de 400 F à 15.000 F [*montant*] et d'un emprisonnement de un à trois mois [*durée*] ou de l'une de ces
-deux peines seulement : 
-
-1° Quiconque aura ouvert ou dirigé sans autorisation l'un des établissements visés au présent titre, ou aura sciemment fait
-une déclaration inexacte ou incomplète ; 
-
-2° Quiconque aura continué l'exploitation d'un tel établissement malgré une décision de fermeture ;
-
-3° Quiconque, assumant la direction d'un des établissements visés, aura mis ou tenté de mettre obstacle au contrôle prévu à
-l'article 204.
-
-En cas de récidive, le délinquant sera condamné à une amende de 2.000 F à 30.000 F et à un emprisonnement de deux mois à un
-an ou à l'une de ces deux peines seulement.
-
-En ce cas, le tribunal pourra ordonner la fermeture temporaire ou définitive de l'établissement et prononcer en outre
-l'interdiction, à temps ou définitive, d'exercer les fonctions de directeur d'un établissement visé au présent titre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L204 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2326-1 (V)
-
-	**Modifié par**:
-
-	  - Décret n°55-685 1955-05-20 ART. 1 JORF 22 mai 1955
-	  - Ordonnance 59-34 1959-01-05 ART. 2 JORF 6 janvier 1959
 
 
 ## Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales.
@@ -7851,7 +8284,9 @@ Sont soumises à la vaccination obligatoire par le vaccin antituberculeux B.C.G.
 dans les conditions fixées par décret en Conseil d'Etat prévu à l'article L. 217-3 ci-après, les personnes comprises dans les
 catégories de la population ci-après : 
 
-1° Les enfants du premier âge et du deuxième âge placés en maisons maternelles, crèches, pouponnières ou en nourrice ;
+1° Les enfants de moins de six ans accueillis dans des maisons maternelles, des pouponnières, des maisons d'enfants à
+caractère sanitaire, des écoles maternelles ainsi que chez des assistantes maternelles et dans des services et établissements
+visés à l'article L. 180 du présent code ;
 
 2° Les enfants vivant dans un foyer où vit également un tuberculeux recevant, à ce titre, des prestations des collectivités
 publiques ou des organismes de sécurité sociale ; 
@@ -7874,16 +8309,21 @@ dans un des établissements, écoles ou classes, définis par l'article 566 du C
 8° Les personnels des entreprises industrielles et commerciales et, particulièrement, les personnes travaillant dans un
 milieu insalubre ou qui manipulent des denrées alimentaires.
 
+**Nota:**
+
+[*Nota : Décret 92-264 du 23 mars 1992 art. 4 : à compter du 25 mars 1992, le mot "élève" et les mots "école d'infirmiers"
+sont respectivement remplacés par le mot "étudiant" et les mots "centre de formation en soins infirmiers" dans tout acte
+administratif en comportant la mention.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 14 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 16.*]
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°50-7 1950-01-05 ART. 1
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cité par**:
 
@@ -7899,10 +8339,15 @@ milieu insalubre ou qui manipulent des denrées alimentaires.
 	  - Code de la santé publique - art. L217-2 (Ab)
 	  - Code du travail - art. R231-65-1 (VT)
 
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 11 () JORF 19 décembre 1989
+
 	**Cite**:
 
+	  - Code de la santé publique - art. L191 (M)
 	  - Code de la santé publique - art. L217-3 (Ab)
-	  - Code de la santé publique L217-3, L191 A L198
+	  - Code de la santé publique L217-3, L191, L198 et L180
 	  - Code de la sécurité sociale L566
 
 	**Nouveaux textes**:
@@ -7913,11 +8358,6 @@ milieu insalubre ou qui manipulent des denrées alimentaires.
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique L216 : exception
-	  - SPEC_APPLI: Décret n°64-415 1964-05-05 : date d'application fixée au 1er janvier 1964 en ce qui concerne les personnels visés aux 6° et 8° du présent article
-
-	**Modifié par**:
-
-	  - Ordonnance 58-1359 1958-12-27 art. 1 JORF 30 décembre 1958
 
 
 ###### Article L216
