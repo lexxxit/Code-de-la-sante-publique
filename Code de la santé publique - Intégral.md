@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1964-07-12
+Version Consolidée au 1964-07-19
 
 # Partie législative ancienne
 
@@ -26393,110 +26393,6 @@ l'autonomie financière.
 	**Anciens textes**:
 
 	  - Loi n°41-4968 1941-11-30 ART. 1
-
-
-###### Article L786
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°64-727 1964-07-18 art. 20 JORF 19 juillet 1964
-
-
-###### Article L787
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°64-727 1964-07-18 art. 20 JORF 19 juillet 1964
-
-
-###### Article L788
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°64-727 1964-07-18 art. 20 JORF 19 juillet 1964
-
-
-###### Article L789
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°64-727 1964-07-18 art. 20 JORF 19 juillet 1964
-
-
-###### Article L790
-
-Un décret en Conseil d'Etat précise les conditions d'application de la section I du chapitre III du livre VIII du Code de la
-santé publique relative à l'Institut national de la santé et de la recherche médicale, notamment en ce qui concerne le
-fonctionnement du conseil d'administration, le statut du personnel et le régime financier.
-
-**Nota:**
-
-[*Nota : Décret 64-727 du 18 juillet 1964 : Abroge l'article L. 790 à la date d'entrée en fonction du conseil
-d'administration prévu par ce décret. Décret 74-390 du 9 mai 1974 : Modifie l'article 1 du décret du 23 juillet 1962.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°62-855 1962-07-23 ART. 1 JORF 27 juillet
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°64-727 1964-07-18
-	  - SPEC_APPLI: Décret n°74-390 1974-05-09
-
-	**Abrogé par**:
-
-	  - Décret n°64-727 1964-07-18 ART. 20 JORF 19 juillet
-
-	**Cite**:
-
-	  - Code de la santé publique L785 à L790
-
-	**Cité par**:
-
-	  - Code de la sécurité sociale. - art. D412-79 (V)
 
 
 ## LIVRE 9 : PERSONNEL
