@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-09-02
+Version Consolidée au 1994-01-01
 
 # Partie législative ancienne
 
@@ -15236,9 +15236,10 @@ transitoires de la loi du 30 novembre 1892 ou des dispositions spéciales aux pr
 septembre 1919, loi du 13 juillet 1921, loi du 10 août 1924, décret du 5 juillet 1922 ratifié par la loi du 13 décembre 1924,
 loi du 31 décembre 1924, loi du 18 août 1927) ou aux praticiens sarrois (lois des 26 juillet 1935 et 27 juillet 1937) ;
 
-2° De nationalité française ou ressortissant de l'un des Etats membres de la communauté économique européenne, du Maroc ou de
-la Tunisie, sous réserve de l'application, le cas échéant, soit des règles fixées aux alinéas 4 à 9 du présent article, soit
-de celles qui découlent d'engagements internationaux autres que ceux mentionnés à l'alinéa 4 ci-après.
+2° De nationalité française ou ressortissant de l'un des Etats membres de la communauté européenne ou des autres Etats
+parties à l'accord sur l'Espace économique européen, du Maroc ou de la Tunisie, sous réserve de l'application, le cas
+échéant, soit des règles fixées aux alinéas 4 à 9 du présent article, soit de celles qui découlent d'engagements
+internationaux autres que ceux mentionnés à l'alinéa 4 ci-après.
 
 Toutefois, lorsqu'un Etat étranger accorde à des médecins, chirurgiens-dentistes ou sages-femmes nationaux français ou
 ressortissants français, le droit d'exercer leur profession sur son territoire, le ressortissant de cet Etat peut être
@@ -15268,38 +15269,41 @@ commission prévue ci-dessus et compte tenu du mode d'exercice de la profession.
 Lorsqu'un établissement hospitalier, établi sur le territoire français par un organisme étranger, a obtenu la reconnaissance
 d'utilité publique avant le 10 juin 1949 [*date*], le ministre de la santé publique et de la population peut autoriser, par
 arrêté individuel, certains praticiens attachés à cet établissement à exercer leur art en France, par dérogation aux
-dispositions des paragraphes 1er et 2ème du présent article et après avis des organisations nationales intéressées. Ces
-praticiens devront être inscrits au tableau de l'ordre intéressé.
-
-Le nombre maximum par établissement hospitalier de ces praticiens autorisés est fixé par arrêté conjoint du ministre de la
-santé publique et de la population et du ministre des affaires étrangères, et l'autorisation n'est valable que pour la
-période durant laquelle lesdits praticiens sont effectivement attachés à cet établissement ;
+dispositions des paragraphes 1° et 2° du présent article et après avis des organisations nationales intéressées. Ces
+praticiens devront être inscrits au tableau de l'ordre intéressé. Le nombre maximum par établissement hospitalier de ces
+praticiens autorisés est fixé par arrêté conjoint du ministre de la santé publique et de la population et du ministre des
+affaires étrangères, et l'autorisation n'est valable que pour la période durant laquelle lesdits praticiens sont
+effectivement attachés à cet établissement ;
 
 3° Inscrit à un tableau de l'ordre des médecins, à un tableau de l'ordre des chirurgiens-dentistes ou à un tableau de l'ordre
 des sages-femmes ;
 
 Toutefois, cette dernière condition ne s'applique pas [*non*] aux médecins, chirurgiens-dentistes et sages-femmes appartenant
-aux cadres actifs du service de santé des armées.
-
-Elle ne s'applique pas non plus à ceux des médecins, chirurgiens-dentistes ou sages-femmes qui, ayant la qualité de
-fonctionnaire de l'Etat ou d'agent titulaire d'une collectivité locale ne sont pas appelés, dans l'exercice de leurs
-fonctions, à exercer la médecine ou l'art dentaire ou à pratiquer les actes entrant dans la définition de la profession de
-sage-femme.
+aux cadres actifs du service de santé des armées. Elle ne s'applique pas non plus à ceux des médecins, chirurgiens-dentistes
+ou sages-femmes qui, ayant la qualité de fonctionnaire de l'Etat ou d'agent titulaire d'une collectivité locale ne sont pas
+appelés, dans l'exercice de leurs fonctions, à exercer la médecine ou l'art dentaire ou à pratiquer les actes entrant dans la
+définition de la profession de sage-femme.
 
 **Nota:**
 
-[*Nota : Code de la santé publique L357 : DEROGATION POUR CERTAINS ETRANGERS.
+*Nota : Code de la santé publique L357 : dérogation.*
 
 Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
-s'applique à la collectivité territoriale de Mayotte.*]
+s'applique à la collectivité territoriale de Mayotte.*
+
+*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*
+
+*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
+loi.*
 
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Arrêté 1919-09-24
-	  - Décret n°1947-01-15
 	  - Décret n°1922-07-05
+	  - Décret n°1947-01-15
 	  - Loi n°1892-11-30
 	  - Loi n°1921-07-13
 	  - Loi n°1924-08-10
@@ -15441,27 +15445,28 @@ s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°87-588 du 30 juillet 1987 - art. 30 () JORF 31 juillet 1987
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
 
 
 ###### Article L356-1
 
 Le médecin, le praticien de l'art dentaire [*dentiste*] ou la sage-femme ressortissant d'un des Etats membres de la
-Communauté économique européenne qui est établi et exerce légalement les activités de médecin, de praticien de l'art dentaire
-ou de sage-femme dans un Etat membre autre que la France [*à l'étranger*] peut exécuter en France des actes de sa profession
-sans la condition posée au 3° de l'article L. 356. L'exécution de ces actes est toutefois subordonnée à une déclaration
-préalable [*condition d'exercice*] dont les modalités sont fixées par un décret en Conseil d'Etat. Si l'urgence ne permet pas
-de faire cette déclaration préalablement à l'acte, elle doit être faite postérieurement dans un délai maximum de quinze
-jours.
+Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui est établi et exerce
+légalement les activités de médecin, de praticien de l'art dentaire ou de sage-femme dans un Etat membre ou autre Etat partie
+autre que la France peut exécuter en France des actes de sa profession sans remplir la condition posée au 3° de l'article L.
+356. L'exécution de ces actes est toutefois subordonnée à une déclaration préalable [*condition d'exercice*] dont les
+modalités sont fixées par un décret en Conseil d'Etat. Si l'urgence ne permet pas de faire cette déclaration préalablement à
+l'acte, elle doit être faite postérieurement dans un délai maximum de quinze jours.
 
-La déclaration est accompagnée d'une attestation de l'autorité compétente de l'Etat membre certifiant que l'intéressé possède
-les diplômes, certificats ou autres titres requis et qu'il exerce légalement ls activités de médecin, de praticien de l'art
-dentaire ou de sage-femme dans l'Etat membre ou il est établi Elle est également accompagnée d'une déclaration sur l'honneur
-attestant qu'aucune instance pouvant entraîner l'interdiction temporaire ou définitive de l'exercice de la médecine, de l'art
-dentaire ou de la profession de sage-femme dans l'Etat d'origine ou de provenance n'est en cours à son encontre [*document*].
+La déclaration est accompagnée d'une attestation de l'autorité compétente de l'Etat membre ou autre Etat partie certifiant
+que l'intéressé possède les diplômes, certificats ou autres titres requis et qu'il exerce légalement les activités de
+médecin, de praticien de l'art dentaire ou de sage-femme dans l'Etat membre ou autre Etat partie où il est établi. Elle est
+également accompagnée d'une déclaration sur l'honneur attestant qu'aucune instance pouvant entraîner l'interdiction
+temporaire ou définitive de l'exercice de la médecine, de l'art dentaire ou de la profession de sage-femme dans l'Etat
+d'origine ou de provenance n'est en cours à son encontre [*document*].
 
-Le médecin, le praticien de l'art dentaire ou la sage-femme prestataire de services est tenu [*obligation*] de respecter les
-règles professionnelles en vigueur dans l'Etat où il effectue sa prestation et soumis à la juridiction disciplinaire
+Le médecin, le praticien de l'art dentaire ou la sage-femme prestataire de service est tenu [*obligation*] de respecter les
+règles professionnelles en vigueur dans l'Etat où il effectue sa prestation, et soumis à la juridiction disciplinaire
 compétente.
 
 **Nota:**
@@ -15469,16 +15474,22 @@ compétente.
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
+loi.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Modifié par**:
-
-	  - Loi n°84-391 1984-05-25 art. 3 JORF 26 mai 1984
 
 	**Liens**:
 
@@ -15492,6 +15503,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - TXT_SOURCE: Décret n°86-122 du 23 janvier 1986 - art. 7 (Ab)
 	  - TXT_SOURCE: Décret n°86-122 du 23 janvier 1986 - art. 8 (Ab)
 	  - TXT_SOURCE: Décret n°86-122 du 23 janvier 1986 - art. 9 (Ab)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
 
 	**Cité par**:
 
@@ -15506,6 +15518,14 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L372 (Ab)
 	  - Code de la santé publique - art. L373 (Ab)
 	  - Code de la santé publique - art. L374 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
@@ -15522,18 +15542,19 @@ Les diplômes, certificats et titres exigés en application du 1° de l'article 
 
 1° Pour l'exercice de la profession de médecin :
 
-- soit le diplôme français d'Etat de docteur en médecine ;
+- soit le diplôme français d'Etat de docteur en médecine lorsque ce diplôme a été obtenu dans les conditions définies à
+l'article 50 de la loi n° 68-978 du 12 novembre 1968 d'orientation de l'enseignement supérieur, il est complété par le
+document annexe visé au deuxième alinéa dudit article ;
 
-- soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté économique européenne [*étranger*], un diplôme,
-certificat ou autre titre de médecin délivré par l'un des ces Etats et figurant sur une liste établie conformément aux
-obligations communautaires, par arrêté conjoint du ministre de la santé et du ministre chargé des universités ou tout autre
-diplôme, certificat ou autre titre de médecin délivré par l'un des Etats membres sanctionnant une formation de médecin
+- soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord
+sur l'Espace économique européen, un diplôme, certificat ou autre titre de médecin délivré par l'un des ces Etats et figurant
+sur une liste établie conformément aux obligations communautaires ou à celles résultant de l'accord sur l'Espace économique
+européen, par arrêté conjoint du ministre de la santé et du ministre chargé des universités ou tout autre diplôme, certificat
+ou autre titre de médecin délivré par l'un des Etats membres ou d'autres Etats parties sanctionnant une formation de médecin
 acquise dans l'un de ces Etats et commencée avant le 20 décembre 1976, à la condition qu'il soit accompagné d'une attestation
 de cet Etat certifiant que le titulaire du diplôme, certificat ou titre, s'est consacré de façon effective et licite aux
 activités de médecin pendant au moins trois années consécutives [*durée*] au cours des cinq années précédant la délivrance de
-l'attestation; lorsque ce diplôme a été obtenu dans les conditions définies à l'article 50 de la loi n° 68-978 du 12 novembre
-1968 d'orientation de l'enseignement supérieur, il est complété par le document annexe visé au deuxième alinéa dudit
-article ;
+l'attestation ;
 
 2° Pour l'exercice de la profession de chirurgien-dentiste :
 
@@ -15541,40 +15562,56 @@ article ;
 
 - soit le diplôme français d'Etat de chirurgien-dentiste ;
 
-- soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté économique européenne, un diplôme, certificat ou
-autre titre de praticien de l'art dentaire délivré par l'un de ces Etats conformément aux obligations communautaires et
+- soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord
+sur l'Espace économique européen, un diplôme, certificat ou autre titre de praticien de l'art dentaire délivré par l'un de
+ces Etats conformément aux obligations communautaires ou à celles résultant de l'accord sur l'Espace économique européen et
 figurant sur une liste établie par arrêté conjoint du ministre chargé de la santé et du ministre chargé des universités ou
-tout autre diplôme, certificat ou autre titre de praticien de l'art dentaire délivré par l'un des Etats membres sanctionnant
-une formation de praticien de l'art dentaire acquise dans l'un de ces Etats et commençée avant le 28 janvier 1980, à la
-condition qu'il soit accompagné d'une attestation de cet Etat certifiant que le titulaire de diplôme, certificat ou titre,
-s'est consacré de façon effective et licite aux activités de praticien de l'art dentaire pendant au moins trois années
-consécutives au cours des cinq années précédant la délivrance de l'attestation.
+tout autre diplôme, certificat ou autre titre de praticien de l'art dentaire délivré par l'un des Etats membres ou autres
+Etats parties sanctionnant une formation de praticien de l'art dentaire acquise dans l'un de ces Etats et commençée avant le
+28 janvier 1980, à la condition qu'il soit accompagné d'une attestation de cet Etat certifiant que le titulaire du diplôme,
+certificat ou titre, s'est consacré de façon effective et licite aux activités de praticien de l'art dentaire pendant au
+moins trois années consécutives au cours des cinq années précédant la délivrance de l'attestation.
 
 3° Pour l'exercice de la profession de sage-femme :
 
 a) Soit le diplôme français d'Etat de sage-femme ;
 
-b) Soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté économique européenne, un diplôme, certificat ou
-autre titre de sage-femme délivré par l'un de ces Etats conformément aux obligations communautaires et figurant sur une liste
-établie par arrêté interministériel ; cet arrêté précise les diplômes, certificats et titres dont la validité est subordonnée
-à la production d'une attestation délivrée par l'un des Etats membres certifiant que le bénéficiaire, après avoir obtenu son
-diplôme, titre ou certificat, a exercé dans un établissement de soins agréé à cet effet, de façon satisfaisante, toutes les
-activités de sage-femme pendant une durée déterminée ;
+b) Soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord
+sur l'Espace économique européen, un diplôme, certificat ou autre titre de sage-femme délivré par l'un de ces Etats
+conformément aux obligations communautaires ou à celles résultant de l'accord sur l'Espace économique européen et figurant
+sur une liste établie par arrêté interministériel ; cet arrêté précise les diplômes, certificats et titres dont la validité
+est subordonnée à la production d'une attestation délivrée par l'un des Etats membres ou autre Etat partie certifiant que le
+bénéficiaire, après avoir obtenu son diplôme, titre ou certificat, a exercé dans un établissement de soins agréé à cet effet,
+de façon satisfaisante, toutes les activités de sage-femme pendant une durée déterminée ;
 
 c) Soit un diplôme, certificat ou autre titre de sage-femme figurant sur la liste mentionnée ci-dessus et délivré avant le 23
-janvier 1983 mais non accompagné de l'attestation exigée, à condition que l'un des Etats membres atteste que l'intéressé
-s'est consacré de façon effective et licite aux activités de sage-femme pendant au moins deux années au cours des cinq années
-précédant la délivrance de cette attestation ;
+janvier 1983 mais non accompagné de l'attestation exigée, à condition que l'un des Etats membres ou autres Etats parties
+atteste que l'intéressé s'est consacré de façon effective et licite aux activités de sage-femme pendant au moins deux années
+au cours des cinq années précédant la délivrance de cette attestation ;
 
-d) Soit tout autre diplôme, certificat ou titre de sage-femme délivré par l'un des Etats membres au plus tard le 23 janvier
-1986, sanctionnant une formation de sage-femme acquise dans l'un de ces Etats, à condition que l'un de ceux-ci atteste que
-l'intéressé s'est consacré de façon effective et licite aux activités de sage-femme pendant au moins trois années au cours
-des cinq années précédant la délivrance de cette attestation.
+d) Soit tout autre diplôme, certificat ou titre de sage-femme délivré par l'un des Etats membres ou autres Etats parties au
+plus tard le 23 janvier 1986, sanctionnant une formation de sage-femme acquise dans l'un de ces Etats, à condition que l'un
+de ceux-ci atteste que l'intéressé s'est consacré de façon effective et licite aux activités de sage-femme pendant au moins
+trois années au cours des cinq années précédant la délivrance de cette attestation.
 
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 32.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
+loi.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 2 : le présent article est applicable dans les départements d'outre-mer et les
+collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon sous réserve des adaptations prévues aux articles L466
+et suivants.
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
 
 **Liens relatifs à cet article**
 
@@ -15582,6 +15619,8 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 
 	  - TXT_ASSOCIE: Arrêté 1977-02-16 : liste
 	  - TXT_SOURCE: Arrêté du 19 novembre 1997
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 2, art. 3 : conditions d'application
+	  - SPEC_APPLI: Ordonnance n°2000-189 du 2 mars 2000 - art. 2 ()
 
 	**Cité par**:
 
@@ -15643,7 +15682,18 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 
 	**Modifié par**:
 
-	  - Loi n°89-18 du 13 janvier 1989 - art. 25 () JORF 14 janvier 1989
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 3 () JORF 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4131-1 (M)
+	  - Code de la santé publique - art. L4141-3 (M)
+	  - Code de la santé publique - art. L4151-5 (M)
 
 
 ###### Article L357
@@ -15819,24 +15869,23 @@ et suivants.
 
 ###### Article L359
 
-Les étudiants en médecine français ou ressortissants de l'un des Etats membres des communautés européennes [*condition de
-nationalité*] et inscrits en troisième cycle des études médicales en France peuvent être autorisés à exercer la médecine,
-soit à titre de remplaçant d'un docteur en médecine, soit, en cas d'afflux exceptionnel de population dans une région
-déterminée, comme adjoint d'un docteur en médecine.
+Les étudiants en médecine français ou ressortissants de l'un des Etats membres des communautés européennes ou des autres
+Etats parties à l'accord sur l'Espace économique européen [*condition de nationalité*] et inscrits en troisième cycle des
+études médicales en France peuvent être autorisés à exercer la médecine, soit à titre de remplaçant d'un docteur en médecine,
+soit, en cas d'afflux exceptionnel de population dans une région déterminée, comme adjoint d'un docteur en médecine.
 
 Les autorisations mentionnées à l'alinéa ci-dessus sont délivrées par le préfet du département, après avis favorable du
-conseil départemental de l'ordre des médecins, et pour une durée limitée ;
-
-elles sont renouvelables dans les mêmes conditions.
+conseil départemental de l'ordre des médecins, et pour une durée limitée ; elles sont renouvelables dans les mêmes
+conditions.
 
 Lorsque les besoins de la santé publique l'exigent, le ministre chargé de la santé peut, pendant un délai déterminé, par
 arrêté pris, sauf en cas d'extrême urgence, après avis des conseils de l'ordre intéressés, habiliter les préfets à autoriser,
 dans les conditions prévues à l'alinéa précédent, l'exercice de la médecine par tout ou partie des étudiants ayant validé le
 deuxième cycle des études médicales.
 
-Les étudiants en chirurgie dentaire français ou ressortissants de l'un des Etats membres des communautés européennes, ayant
-satisfait en France à l'examen de cinquième année, peuvent être autorisés à exercer l'art dentaire, soit à titre de
-remplaçant, soit comme adjoint d'un chirurgien-dentiste.
+Les étudiants en chirurgie dentaire français ou ressortissants de l'un des Etats membres des communautés européennes ou des
+autres Etats parties à l'accord sur l'Espace économique européen, ayant satisfait en France à l'examen de cinquième année,
+peuvent être autorisés à exercer l'art dentaire, soit à titre de remplaçant, soit comme adjoint d'un chirurgien-dentiste.
 
 Ces autorisations sont délivrées par le préfet du département [*autorité compétente*], après avis favorable du conseil
 départemental de l'ordre des chirurgiens-dentistes, et pour une durée limitée.
@@ -15848,10 +15897,18 @@ et les conditions de leur prorogation.
 
 **Nota:**
 
-[*Nota : loi 91-73 du 18 janvier 1991 art. 18 III : date d'application de l'article 8.
-
 Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
-s'applique à la collectivité territoriale de Mayotte.*]
+s'applique à la collectivité territoriale de Mayotte.*
+
+*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*
+
+*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
+loi.*
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
 
 **Liens relatifs à cet article**
 
@@ -15893,10 +15950,20 @@ s'applique à la collectivité territoriale de Mayotte.*]
 	  - TXT_SOURCE: Décret n°94-120 du 4 février 1994 - art. 6 (Ab)
 	  - TXT_SOURCE: Décret n°94-120 du 4 février 1994 - art. ANNEXE (Ab)
 	  - TXT_SOURCE: Décret n°98-168 du 13 mars 1998
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
 
 	**Modifié par**:
 
-	  - Loi n°91-73 du 18 janvier 1991 - art. 8 (V) JORF 20 janvier 1991 en vigueur le 1er octobre 1991
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4131-2 (M)
+	  - Code de la santé publique - art. L4141-4 (M)
 
 
 ###### Article L359-1
@@ -15932,19 +15999,28 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L359-2
 
-Les étudiants sages-femmes français ou ressortissants de l'un des Etats membres des communautés européennes, ayant validé les
-trois premières années de formation, peuvent être autorisés à exercer la profession de sage-femme comme remplaçant, par le
-préfet du département, après avis favorable du conseil départemental de l'ordre des sages-femmes, et pour une durée limitée.
+Les étudiants sages-femmes français ou ressortissants de l'un des Etats membres des communautés européennes ou des autres
+Etats parties à l'accord sur l'Espace économique européen, ayant validé les trois premières années de formation, peuvent être
+autorisés à exercer la profession de sage-femme comme remplaçant, par le préfet du département, après avis favorable du
+conseil départemental de l'ordre des sages-femmes, et pour une durée limitée.
 
 Un décret en Conseil d'Etat, pris après avis du conseil national de l'ordre des sages-femmes, fixe les conditions
 d'application du présent article.
 
 **Nota:**
 
-[*Nota : loi 91-73 du 18 janvier 1991 art. 18 III : date d'application de l'article 8.
-
 Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
-s'applique à la collectivité territoriale de Mayotte.*]
+s'applique à la collectivité territoriale de Mayotte.*
+
+*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*
+
+*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
+loi.*
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
 
 **Liens relatifs à cet article**
 
@@ -15955,11 +16031,12 @@ s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°91-73 1991-01-18 art. 8 III
 	  - TXT_SOURCE: Décret n°92-88 du 22 janvier 1992
 	  - TXT_SOURCE: Décret n°92-88 du 22 janvier 1992 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°92-88 du 22 janvier 1992 - art. 2 (Ab)
 	  - TXT_SOURCE: Décret n°92-88 du 22 janvier 1992 - art. 3 (Ab)
-	  - SPEC_APPLI: Loi n°91-73 1991-01-18 art. 8 III
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
 
 	**Cité par**:
 
@@ -15967,13 +16044,18 @@ s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
 	  - Code de déontologie des sages-femmes. - art. 58 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L4151-6 (M)
 	  - Code de la santé publique - art. L4151-6 (V)
-
-	**Créé par**:
-
-	  - Loi n°91-73 du 18 janvier 1991 - art. 8 (V) JORF 20 janvier 1991 en vigueur le 1er octobre 1991
 
 
 ###### Article L360
@@ -18899,7 +18981,7 @@ et suivants.
 Les médecins qui exercent dans un département sont inscrits, dans les formes indiquées ci-après, sur un tableau établi et
 tenu à jour par le conseil départemental de l'Ordre visé à l'article L. 383 du présent titre. Ce tableau est déposé à la
 préfecture ainsi qu'au parquet du tribunal [*lieu*]. Dans le courant du mois de janvier de chaque année, il est publié
-conformément à l'article 362 ci-dessus.
+conformément à l'article L. 362 ci-dessus.
 
 Nul ne peut être inscrit sur ce tableau [*interdiction*] s'il ne remplit pas les conditions requises par le présent titre.
 
@@ -18907,14 +18989,25 @@ Un médecin ne peut être inscrit que sur un seul tableau qui est celui du dépa
 professionnelle sauf dérogation prévue par le code de déontologie.
 
 Un médecin inscrit ou enregistré en qualité de médecin dans un Etat ne faisant pas partie de la Communauté économique
-européenne ne peut être inscrit à un tableau à l'ordre des médecins.
+européenne ou n'étant pas partie à l'accord sur l'Espace économique européen ne peut être inscrit à un tableau à l'ordre des
+médecins.
 
 **Nota:**
 
-[*Nota : Code de la santé publique L. 453 : APPLICATION AUX SAGES-FEMMES.*]
+[*Nota : Code de la santé publique L. 453 : application aux sages-femmes.*]
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
+loi.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
 
 **Liens relatifs à cet article**
 
@@ -18929,7 +19022,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°87-588 du 30 juillet 1987 - art. 34 () JORF 31 juillet 1987
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 4 () JORF 1er janvier 1994
 
 	**Cité par**:
 
@@ -18938,6 +19031,15 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L441 (Ab)
 	  - Code de la santé publique - art. L453 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L453 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L362 (Ab)
@@ -18945,11 +19047,8 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L4112-1 (M)
 	  - Code de la santé publique - art. L4112-1 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la santé publique - art. L453 (Ab)
 
 
 ###### Article L413
@@ -19022,12 +19121,12 @@ et suivants.
 Le conseil départemental de l'Ordre statue sur la demande d'inscription au tableau dans un délai maximum de trois mois à
 compter de la réception de la demande, accompagnée d'un dossier complet.
 
-En ce qui concerne les ressortissants des Etats membres de la Communauté économique européenne autres que la France
-[*étrangers*], lorsqu'il y a lieu de consulter un Etat membre sur l'existence de faits graves et précis commis hors de France
-et susceptibles d'avoir des conséquences sur l'inscription au tableau, le délai fixé à l'alinéa 1er est suspendu par la
-demande de consultation jusqu'à la réception de la réponse de l'Etat consulté si celle-ci intervient dans un délai de trois
-mois. Si la réponse n'est pas parvenue dans ce délai, la suspension prend fin à l'expiration dudit délai. L'intéressé en est
-avisé.
+En ce qui concerne les ressortissants des Etats membres de la Communauté européenne ou des autres Etats parties à l'accord
+sur l'Espace économique européen autres que la France, lorsqu'il y a lieu de consulter un Etat membre ou un autre Etat partie
+sur l'existence de faits graves et précis commis hors de France et susceptibles d'avoir des conséquences sur l'inscription au
+tableau, le délai fixé à l'alinéa 1er est suspendu par la demande de consultation jusqu'à la réception de la réponse de
+l'Etat consulté si celle-ci intervient dans un délai de trois mois. Si la réponse n'est pas parvenue dans ce délai, la
+suspension prend fin à l'expiration dudit délai. L'intéressé en est avisé.
 
 En ce qui concerne les personnes autres que celles mentionnées aux alinéas précédents, le délai prévu à l'alinéa 1er est
 porté à six mois lorsqu'il y a lieu de procéder à une enquête hors de la France métropolitaine. L'intéressé en est avisé.
@@ -19040,10 +19139,20 @@ national de l'Ordre.
 
 **Nota:**
 
-[*Nota : Code de la santé publique L. 453 : APPLICATION AUX SAGES-FEMMES.*]
+[*Nota : Code de la santé publique L. 453 : application aux sages-femmes.*]
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
+loi.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
 
 **Liens relatifs à cet article**
 
@@ -19056,10 +19165,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Modifié par**:
-
-	  - Loi n°76-1288 1976-12-31 art. 11 JORF 1er janvier 1977
-
 	**Cité par**:
 
 	  - Décret n°77-636 du 14 juin 1977 - art. 6 (Ab)
@@ -19070,13 +19175,23 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L441 (Ab)
 	  - Code de la santé publique - art. L453 (Ab)
 
-	**Nouveaux textes**:
+	**Modifié par**:
 
-	  - Code de la santé publique - art. L4112-3 (V)
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
 
 	**Liens**:
 
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
 	  - SPEC_APPLI: Code de la santé publique - art. L453 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4112-3 (M)
+	  - Code de la santé publique - art. L4112-3 (V)
 
 
 ###### Article L415
@@ -22115,12 +22230,13 @@ Les diplômes, certificats et titres exigés en application de l'article L. 474 
 Soit le diplôme français d'Etat d'infirmier ou d'infirmière ou l'un des brevets délivrés en application du décret du 27 juin
 1922 ;
 
-Soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté économique européenne [*étranger*], un diplôme,
-certificat ou autre titre d'infirmier responsable des soins généraux délivré conformément aux obligations communautaires par
-l'un de ces Etats et figurant sur une liste établie par le ministre chargé de la santé, ou tout autre diplôme, certificat ou
-autre titre d'infirmier responsable des soins généraux délivré par l'un des Etats membres sanctionnant une formation
-d'infirmier responsable des soins généraux acquise dans l'un de ces Etat commencée avant le 29 juin 1979 à la condition qu'il
-soit accompagné d'une attestation de cet Etat certifiant que :
+Soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
+l'Espace économique européen, un diplôme, certificat ou autre titre d'infirmier responsable des soins généraux délivré
+conformément aux obligations communautaires ou à celles résultant de l'accord sur l'Espace économique européen par l'un de
+ces Etats et figurant sur une liste établie par le ministre chargé de la santé, ou tout autre diplôme, certificat ou autre
+titre d'infirmier responsable des soins généraux délivré par l'un des Etats membres ou autre Etat partie sanctionnant une
+formation d'infirmier responsable des soins généraux acquise dans l'un de ces Etat commencée avant le 29 juin 1979 à la
+condition qu'il soit accompagné d'une attestation de cet Etat certifiant que :
 
 - le titulaire du diplôme, certificat ou titre s'est consacré, de façon effective et licite, aux activités d'infirmier
 responsable des soins généraux pendant au moins trois années [*durée d'ancienneté*] au cours des cinq années précédant la
@@ -22134,16 +22250,18 @@ infirmiers aux patients.
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 36.*]
 
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
+loi.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Modifié par**:
-
-	  - Loi n°84-391 1984-05-25 art. 8 JORF 26 mai 1984
 
 	**Cité par**:
 
@@ -22164,6 +22282,11 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 	  - Code de la santé publique - art. R668-15 (Ab)
 	  - Code de la santé publique - art. R668-8 (Ab)
 	  - Code de la santé publique - art. R668-9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 3 () JORF 1er janvier 1994
 
 	**Liens**:
 
@@ -22306,11 +22429,11 @@ permis soit en qualité d'auxiliaire polyvalent, soit pour un ou plusieurs étab
 
 1° Aux personnes pourvues de certificats, titres ou attestations dont la liste et les conditions de validité sont fixées par
 arrêté du ministre de la santé publique et de la population. Toutefois, les certificats, titres ou attestations délivrés dans
-un Etat non membre de la Communauté économique européenne [*étranger*] ne peuvent permettre l'exercice de la profession
-d'infirmier ou d'infirmière que dans la mesure où le diplôme d'Etat français ouvre lui-même l'exercice de celle-ci dans cet
-Etat [*condition de réciprocité, équivalence*]. Cette dernière disposition n'est applicable ni aux personnes ayant le statut
-de réfugié politique, ni aux personnes exerçant légalement en France la profession d'infirmier ou d'infirmière à la date de
-la publication de la loi n° 80-527 du 12 juillet 1980.
+un Etat non membre de la Communauté européenne ou n'étant pas partie à l'accord sur l'Espace économique européen [*étranger*]
+ne peuvent permettre l'exercice de la profession d'infirmier ou d'infirmière que dans la mesure où le diplôme d'Etat français
+ouvre lui-même l'exercice de celle-ci dans cet Etat [*condition de réciprocité, équivalence*]. Cette dernière disposition
+n'est applicable ni aux personnes ayant le statut de réfugié politique, ni aux personnes exerçant légalement en France la
+profession d'infirmier ou d'infirmière à la date de la publication de la loi n° 80-527 du 12 juillet 1980.
 
 2° Aux élèves préparant le diplôme d'Etat pendant la durée de leur scolarité, mais seulement dans les établissements ou
 services agréés pour l'accomplissement des stages.
@@ -22325,6 +22448,12 @@ sur le rapport du ministre de la Santé publique et de la Population.
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 37.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
+loi.*]
 
 **Liens relatifs à cet article**
 
@@ -22368,7 +22497,11 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 
 	**Modifié par**:
 
-	  - Loi n°93-121 du 27 janvier 1993 - art. 45 () JORF 30 janvier 1993
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 4 () JORF 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -22450,6 +22583,9 @@ juridiction disciplinaire prévue aux articles L. 482-1 et suivants [*recours*].
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -22457,9 +22593,14 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°80-527 1980-07-12 art. 4 JORF 13 juillet 1980
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -22647,22 +22788,32 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L479
 
-L'infirmier ou l'infirmière ressortissant d'un des Etats membres de la Communauté économique européenne [*étranger*] qui est
-établi et exerce légalement les activités d'infirmier responsable des soins généraux dans un Etat membre autre que la France,
-peut exécuter en France des actes professionnels sans avoir procédé à l'inscription prévue par l'article L. 478.
+L'infirmier ou l'infirmière ressortissant d'un des Etats membres de la Communauté européenne ou d'un autre Etat partie à
+l'accord sur l'Espace économique européen qui est établi et exerce légalement les activités d'infirmier responsable des soins
+généraux dans un Etat membre ou un autre Etat partie autre que la France, peut exécuter en France des actes professionnels
+sans avoir procédé à l'inscription prévue par l'article L. 478.
 
 L'exécution de ces actes est toutefois subordonnée à une déclaration préalable dont les modalités sont fixées par un décret
 en Conseil d'Etat [*condition d'exercice*]. Si l'urgence ne permet pas de faire cette déclaration préalablement à l'acte,
 elle doit être faite postérieurement dans un délai maximum de quinze jours.
 
-La déclaration est accompagnée d'une attestation de l'autorité compétente de l'Etat membre certifiant que l'intéressé possède
-les diplômes, certificats ou autres titres requis et qu'il exerce légalement les activités d'infirmier responsable des soins
-généraux dans l'Etat membre ou il est établi. Elle est également accompagnée d'une déclaration sur l'honneur attestant
-qu'aucune instance pouvant entraîner l'interdiction temporaire ou définitive de l'exercice de l'activité de l'infirmier
-responsable des soins dans l'Etat d'origine ou de provenance n'est en cours à son encontre [*documents*].
+La déclaration est accompagnée d'une attestation de l'autorité compétente de l'Etat membre ou de l'autre Etat partie
+certifiant que l'intéressé possède les diplômes, certificats ou autres titres requis et qu'il exerce légalement les activités
+d'infirmier responsable des soins généraux dans l'Etat membre ou autre Etat partie où il est établi. Elle est également
+accompagnée d'une déclaration sur l'honneur attestant qu'aucune instance pouvant entraîner l'interdiction temporaire ou
+définitive de l'exercice de l'activité de l'infirmier responsable des soins généraux dans l'Etat d'origine ou de provenance
+n'est en cours à son encontre [*documents*].
 
 L'infirmier ou l'infirmière prestataire de services est soumis aux dispositions des articles L. 482 et L. 482-1
 [*discipline*].
+
+**Nota:**
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
+loi.*]
 
 **Liens relatifs à cet article**
 
@@ -22673,12 +22824,17 @@ L'infirmier ou l'infirmière prestataire de services est soumis aux dispositions
 
 	**Modifié par**:
 
-	  - Loi n°80-527 1980-07-12 ART. 4 JORF 13 juillet 1980
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
 
 	**Cité par**:
 
 	  - Décret n°95-1113 du 16 octobre 1995 - art. 1 (Ab)
 	  - Code de la santé publique - art. L478 (Ab)
+	  - Code de la santé publique - art. L482 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -22686,7 +22842,6 @@ L'infirmier ou l'infirmière prestataire de services est soumis aux dispositions
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L482 (Ab)
 	  - Code de la santé publique - art. L482-1 (Ab)
 
 	**Anciens textes**:
@@ -25086,30 +25241,36 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 Peuvent exercer la profession de pédicure-podologue, d'opticien-lunetier détaillant ou d'audioprothésiste, sans posséder les
 diplômes, certificats, titres ou autorisations exigés, respectivement par les articles L. 494, L. 505 et L. 510-2, les
-ressortissants d'un Etat membre des communautés européennes qui ont suivi avec succès un cycle d'études dont la durée et les
-modalités sont fixées par décret en Conseil d'Etat et qui justifient de diplômes, certificats ou autres titres, permettant
-l'exercice de la profession dans l'Etat membre d'origine ou de provenance délivrés [*conditions*]:
+ressortissants d'un Etat membre des communautés européennes ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen qui ont suivi avec succès un cycle d'études dont la durée et les modalités sont fixées par décret en Conseil d'Etat
+et qui justifient de diplômes, certificats ou autres titres, permettant l'exercice de la profession dans l'Etat membre ou
+autre Etat partie d'origine ou de provenance délivrés [*conditions*]:
 
-a) Soit par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans la
-Communauté ;
+a) Soit par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans la Communauté
+ou l'Espace économique européen ;
 
-b) Soit par un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre qui
-a reconnu les diplômes, certificats ou autres titres certifiant que le titulaire de ces diplômes, certificats ou autres
-titres a une expérience professionnelle dans cet Etat de trois ans au moins.
+b) Soit par un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre ou
+autre Etat partie qui a reconnu les diplômes, certificats ou autres titres certifiant que le titulaire de ces diplômes,
+certificats ou autres titres a une expérience professionnelle dans cet Etat de trois ans au moins.
 
 Lorsque la formation de l'intéressé porte sur des matières substantiellement différentes de celles qui figurent au programme
 des diplômes et certificats respectivement mentionnés par les articles L. 494, L. 505 et L. 510-2 ou lorsqu'une ou plusieurs
-des activités professionnelles dont l'exercice est subordonné auxdits diplômes et certificats ne sont pas réglementés dans
-l'Etat membre d'origine ou de provenance ou sont réglementés de manière différente, le ministre chargé de la santé peut
-exiger que l'intéressé choisisse, soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation.
+des activités professionnelles dont l'exercice est subordonné auxdits diplômes et certificats ne sont pas réglementées dans
+l'Etat membre ou autre Etat partie d'origine ou de provenance ou sont réglementées de manière différente, le ministre chargé
+de la santé peut exiger que l'intéressé choisisse, soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un stage
+d'adaptation.
 
 Un décret en Conseil d'Etat détermine les mesures nécessaires à l'application du présent article.
 
+**Nota:**
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
+loi.*]
+
 **Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°91-73 du 18 janvier 1991 - art. 4 () JORF 20 janvier 1991
 
 	**Liens**:
 
@@ -25140,6 +25301,15 @@ Un décret en Conseil d'Etat détermine les mesures nécessaires à l'applicatio
 	  - Arrêté du 17 septembre 1997 - art. 3 (V)
 	  - Décret n°97-1185 du 19 décembre 1997 - art. Annexe (V)
 	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 2 () JORF 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -25280,87 +25450,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L4372-1 (V)
 
 
-###### Article L510-9-1
-
-Peuvent exercer la profession de masseur kinésithérapeute, d'orthophoniste ou d'orthoptiste, sans posséder les diplômes,
-certificats, titres ou autorisations exigés respectivement par les articles L. 487 et L. 491, L. 504-2 et L. 504-4, les
-ressortissants d'un Etat membre des communautés européennes qui ont suivi avec succès une formation théorique et pratique
-post-secondaire d'une durée minimale de trois ans ou d'une durée équivalente à temps partiel, dans une université ou un
-établissement d'enseignement supérieur ou dans un autre établissement du même niveau de formation d'un Etat membre et qui
-justifient [*conditions*]:
-
-1° De diplômes, certificats ou autres titres permettant l'exercice de la profession dans l'Etat membre d'origine ou de
-provenance délivrés :
-
-a) Soit par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans la
-Communauté ;
-
-b) Soit par un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre qui
-a reconnu les diplômes, certificats ou autres titres certifiant que le titulaire de ces diplômes, certificats ou titres a une
-expérience professionnelle dans cet Etat de trois ans au moins ;
-
-2° Ou de l'exercice à plein temps de la profession pendant deux ans au moins au cours des dix années précédentes dans un Etat
-membre d'origine ou de provenance qui ne réglemente pas l'accès ou l'exercice de cette profession à condition que cet
-exercice soit attesté par l'autorité compétente de cet Etat membre.
-
-Lorsque la formation de l'intéressé porte sur des matières substantiellement différentes de celles qui figurent au programme
-des diplômes et certificats respectivement mentionnés par les articles L. 487, L. 504-2 et L. 504-4 ou lorsqu'une ou
-plusieurs des activités professionnelles dont l'exercice est subordonné auxdits diplômes et certificats ne sont pas
-réglementées de manière différente, le ministre chargé de la santé peut exiger que l'intéressé choisisse soit de se soumettre
-à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder trois ans.
-
-Un décret en Conseil d'Etat détermine les mesures nécessaires à l'application du présent article.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°91-73 du 18 janvier 1991 - art. 5 () JORF 20 janvier 1991
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991
-	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 1 (V)
-	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 2 (V)
-	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 3 (V)
-	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 4 (V)
-	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 5 (V)
-	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991
-	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 6 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991
-	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 1 (V)
-	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 2 (V)
-	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 3 (V)
-	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 4 (V)
-	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 5 (V)
-
-	**Cité par**:
-
-	  - Décret n°91-1009 du 2 octobre 1991 - art. 3 (Ab)
-	  - Décret n°97-44 du 21 janvier 1997 - art. 14 (Ab)
-	  - Arrêté du 17 septembre 1997 - art. 3 (V)
-	  - Décret n°97-1185 du 19 décembre 1997 - art. Annexe (VT)
-	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L4321-4 (M)
-	  - Code de la santé publique - art. L4341-4 (M)
-	  - Code de la santé publique - art. L4342-4 (M)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L487 (M)
-	  - Code de la santé publique - art. L491 (Ab)
-	  - Code de la santé publique - art. L504-2 (Ab)
-	  - Code de la santé publique - art. L504-4 (Ab)
-
-
 ### Titre 6 : Dispositions diverses
 
 ###### Article L510-9
@@ -25422,6 +25511,100 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	  - Code de la santé publique - art. L4381-1 (Ab)
 	  - Code de la santé publique - art. L4381-1 (M)
+
+
+###### Article L510-9-1
+
+Peuvent exercer la profession de masseur kinésithérapeute, d'orthophoniste ou d'orthoptiste, sans posséder les diplômes,
+certificats, titres ou autorisations exigés respectivement par les articles L. 487 et L. 491, L. 504-2 et L. 504-4, les
+ressortissants d'un Etat membre des communautés européennes ou d'un autre Etat partie à l'accord sur l'Espace économique
+européen qui ont suivi avec succès une formation théorique et pratique post-secondaire d'une durée minimale de trois ans ou
+d'une durée équivalente à temps partiel, dans une université ou un établissement d'enseignement supérieur ou dans un autre
+établissement du même niveau de formation d'un Etat membre ou autre Etat partie et qui justifient [*conditions*]:
+
+1° De diplômes, certificats ou autres titres permettant l'exercice de la profession dans l'Etat membre ou autre Etat partie
+d'origine ou de provenance délivrés :
+
+a) Soit par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans la Communauté
+ou dans l'Espace économique européen ;
+
+b) Soit par un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre ou
+autre Etat partie qui a reconnu les diplômes, certificats ou autres titres certifiant que le titulaire de ces diplômes,
+certificats ou titres a une expérience professionnelle dans cet Etat de trois ans au moins ;
+
+2° Ou de l'exercice à plein temps de la profession pendant deux ans au moins au cours des dix années précédentes dans un Etat
+membre ou autre Etat partie d'origine ou de provenance qui ne réglemente pas l'accès ou l'exercice de cette profession à
+condition que cet exercice soit attesté par l'autorité compétente de cet Etat membre ou autre Etat partie.
+
+Lorsque la formation de l'intéressé porte sur des matières substantiellement différentes de celles qui figurent au programme
+des diplômes et certificats respectivement mentionnés par les articles L. 487, L. 504-2 et L. 504-4 ou lorsqu'une ou
+plusieurs des activités professionnelles dont l'exercice est subordonné auxdits diplômes et certificats ne sont pas
+réglementées de manière différente, le ministre chargé de la santé peut exiger que l'intéressé choisisse soit de se soumettre
+à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder trois ans.
+
+Un décret en Conseil d'Etat détermine les mesures nécessaires à l'application du présent article.
+
+**Nota:**
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
+loi.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 3 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 4 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 6 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 3 (V)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 4 (V)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Décret n°91-1009 du 2 octobre 1991 - art. 3 (Ab)
+	  - Décret n°97-44 du 21 janvier 1997 - art. 14 (Ab)
+	  - Arrêté du 17 septembre 1997 - art. 3 (V)
+	  - Décret n°97-1185 du 19 décembre 1997 - art. Annexe (VT)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 2 () JORF 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-4 (M)
+	  - Code de la santé publique - art. L4341-4 (M)
+	  - Code de la santé publique - art. L4342-4 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L487 (M)
+	  - Code de la santé publique - art. L491 (Ab)
+	  - Code de la santé publique - art. L504-2 (Ab)
+	  - Code de la santé publique - art. L504-4 (Ab)
 
 
 ###### Article L510-9-2
@@ -26108,24 +26291,25 @@ les conditions suivantes :
 
 a) Soit du diplôme français d'Etat de docteur en pharmacie ou de pharmacien ;
 
-b) Soit d'un diplôme, certificat ou autre titre de pharmacien délivré par un des Etats membres de la Communauté économique
-européenne et figurant sur une liste établie conformément aux obligations communautaires par arrêté conjoint du ministre
+b) Soit d'un diplôme, certificat ou autre titre de pharmacien délivré par un des Etats membres de la Communauté européenne ou
+d'un autre Etat partie à l'accord sur l'Espace économique européen et figurant sur une liste établie conformément aux
+obligations communautaires ou à celles résultant de l'accord sur l'Espace économique européen par arrêté conjoint du ministre
 chargé de la santé et du ministre chargé des universités ;
 
-c) Soit de tout autre diplôme, certificat ou autre titre de pharmacien délivré par l'un des Etats membres sanctionnant une
-formation de pharmacien acquise dans l'un de ces Etats et commencée avant le 1er octobre 1987, à la condition qu'il soit
-accompagné d'une attestation d'un Etat membre certifiant que le titulaire du diplôme, certificat ou titre de pharmacien s'est
-consacré de façon effective et licite aux activités de pharmacien pendant au moins trois années consécutives au cours des
-cinq années précédant la délivrance de l'attestation.
+c) Soit de tout autre diplôme, certificat ou autre titre de pharmacien délivré par l'un des Etats membres ou autre Etat
+partie sanctionnant une formation de pharmacien acquise dans l'un de ces Etats et commencée avant le 1er octobre 1987, à la
+condition qu'il soit accompagné d'une attestation d'un Etat membre ou autre Etat partie certifiant que le titulaire du
+diplôme, certificat ou titre de pharmacien s'est consacré de façon effective et licite aux activités de pharmacien pendant au
+moins trois années consécutives au cours des cinq années précédant la délivrance de l'attestation.
 
 Les diplômes, certificats ou titres doivent être enregistrés sans frais à la préfecture.
 
 Les diplômes, certificats ou autres titres délivrés par la République hellénique ne sont reconnus que pour l'exercice d'une
 activité salariée.
 
-2° Etre de nationalité française, citoyen andorran, ressortissant de l'un des Etats membres de la Communauté économique
-européenne ou ressortissant d'un pays dans lequel les Français peuvent exercer la pharmacie lorsqu'ils sont titulaires du
-diplôme qui en ouvre l'exercice aux nationaux de ce pays.
+2° Etre de nationalité française, citoyen andorran, ressortissant de l'un des Etats membres de la Communauté européenne ou
+d'un autre Etat partie à l'accord sur l'Espace économique européen ou ressortissant d'un pays dans lequel les Français
+peuvent exercer la pharmacie lorsqu'ils sont titulaires du diplôme qui en ouvre l'exercice aux nationaux de ce pays.
 
 3° Etre inscrit à l'ordre des pharmaciens.
 
@@ -26133,6 +26317,12 @@ diplôme qui en ouvre l'exercice aux nationaux de ce pays.
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
 collectivité territoriale de Mayotte.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
+loi.*]
 
 **Liens relatifs à cet article**
 
@@ -26164,6 +26354,7 @@ collectivité territoriale de Mayotte.*]
 	  - Décret n°92-1432 du 30 décembre 1992 - art. 5 (V)
 	  - Arrêté du 15 février 1993 - art. 3 (Ab)
 	  - Décret n°93-701 du 27 mars 1993 - art. 3 (M)
+	  - Loi n°95-116 du 4 février 1995 - art. 4 (Ab)
 	  - Décret n°95-568 du 6 mai 1995 - art. 4 (Ab)
 	  - Décret n°95-569 du 6 mai 1995 - art. 2 (V)
 	  - Décret n°95-569 du 6 mai 1995 - art. 3 (V)
@@ -26184,6 +26375,7 @@ collectivité territoriale de Mayotte.*]
 	  - Décret n°99-517 du 25 juin 1999 - art. 2 (M)
 	  - Décret n°99-517 du 25 juin 1999 - art. 4 (M)
 	  - Décret n°99-517 du 25 juin 1999 - art. 5 (Ab)
+	  - Loi n°99-641 du 27 juillet 1999 - art. 61 (M)
 	  - Décret n°99-1039 du 10 décembre 1999 - art. 58 (V)
 	  - Code de la santé publique - art. L514-1 (MMN)
 	  - Code de la santé publique - art. L559 (Ab)
@@ -26199,12 +26391,11 @@ collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. R5114-2 (M)
 	  - Code de la santé publique - art. R5146-10 (Ab)
 	  - Code de la santé publique - art. R5146-14 (Ab)
-	  - Loi n°95-116 du 4 février 1995 - art. 4 (Ab)
-	  - Loi n°99-641 du 27 juillet 1999 - art. 61 (M)
 
 	**Modifié par**:
 
-	  - Loi n°87-588 du 30 juillet 1987 - art. 35 () JORF 31 juillet 1987
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 3 () JORF 1er janvier 1994
 
 	**Liens**:
 
@@ -26846,7 +27037,7 @@ collectivité territoriale de Mayotte.*]
 Le conseil régional de l'ordre statue sur la demande d'inscription au tableau dans un délai maximum de trois mois à compter
 de la réception de la demande accompagnée d'un dossier complet.
 
-En ce qui concerne les ressortissants des Etats membres de la Communauté économique européenne [*CEE*] autres que la France,
+En ce qui concerne les ressortissants des Etats membres de la Communauté économique européenne autres que la France,
 lorsqu'il y a lieu de consulter un Etat membre sur l'existence de faits graves et précis commis hors de France et
 susceptibles d'avoir des conséquences sur l'inscription au tableau, le délai fixé au premier alinéa est suspendu par la
 demande de consultation jusqu'à la réception de la réponse de l'Etat consulté. Si la réponse n'est pas parvenue à
@@ -26862,6 +27053,9 @@ métropolitaine. L'intéressé en reçoit notification.
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
 collectivité territoriale de Mayotte.*]
 
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -26869,9 +27063,13 @@ collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°87-588 du 30 juillet 1987 - art. 38 () JORF 31 juillet 1987
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -29652,6 +29850,11 @@ quelconque des sections de l'ordre à cette date ou y ayant été précédemment
 ressortissants des autres Etats membres de la Communauté économique européenne eu égard à leur exercice professionnel dans
 leur pays d'origine ou de provenance.
 
+**Nota:**
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -29659,13 +29862,18 @@ leur pays d'origine ou de provenance.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
+	**Modifié par**:
+
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L5125-9 (M)
-
-	**Créé par**:
-
-	  - Loi n°93-121 du 27 janvier 1993 - art. 46 () JORF 30 janvier 1993
 
 
 ###### Article L571
@@ -31436,14 +31644,19 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 Des organismes à but non lucratif et à vocation humanitaire agréés par l'autorité administrative, après avis du conseil
 central compétent de l'ordre national des pharmaciens, peuvent comporter un établissement pharmaceutique, dont ils sont
 propriétaires, qui distribue en gros des médicaments, fabriqués en conformité avec les normes visées à l'article L. 600, à
-des organismes similaires ayant la même vocation en France ou dans un Etat de la Communauté économique européenne, ou qui les
-exporte aux mêmes fins humanitaires dans un Etat non membre de ladite Communauté en vue de leur distribution et dispensation
-sans but lucratif. Le pharmacien responsable de l'établissement doit participer à la direction générale de l'organisme
-propriétaire.
+des organismes similaires ayant la même vocation en France ou dans un Etat de la Communauté européenne ou autre Etat partie à
+l'accord sur l'Espace économique européen, ou qui les exporte aux mêmes fins humanitaires dans un Etat non membre de ladite
+Communauté en vue de leur distribution et dispensation sans but lucratif. Le pharmacien responsable de l'établissement doit
+participer à la direction générale de l'organisme propriétaire.
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent article et les adaptations qui pourront être
 apportées, en ce qui concerne ces établissements pharmaceutiques, aux troisième, quatrième et cinquième alinéas de l'article
 L. 596.
+
+**Nota:**
+
+[*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
+et-Miquelon.*]
 
 **Liens relatifs à cet article**
 
@@ -31452,9 +31665,10 @@ L. 596.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 14 () JORF 11 décembre 1992
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
+	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
 
 	**Nouveaux textes**:
 
@@ -40132,17 +40346,16 @@ compétence ;
 6° Conjointement avec les praticiens et les autres professionnels de santé, personnes et services concernés, à l'aide
 médicale urgente.
 
+Le service public hospitalier assure, dans des conditions fixées par voie réglementaire, les examens de diagnostic et les
+soins dispensés aux détenus en milieu pénitentiaire et, si nécessaire, en milieu hospitalier. Il concourt, dans les mêmes
+conditions, aux actions de prévention et d'éducation pour la santé organisées dans les établissements pénitentiaires.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cite**:
-
-	  - Ordonnance 58-1373 1958-12-30
-	  - Code de la santé publique - art. L711-1 (M)
 
 	**Cité par**:
 
@@ -40163,10 +40376,9 @@ médicale urgente.
 	  - Code de la santé publique - art. R716-3-57 (Ab)
 	  - Code de la sécurité sociale. - art. L381-30-5 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-	  - Loi n°91-748 du 31 juillet 1991 - art. 2 () JORF 2 août 1991
+	  - Loi n°94-43 du 18 janvier 1994 - art. 2 () JORF 19 janvier 1994 en vigueur le 1er janvier 1994
 
 	**Nouveaux textes**:
 
