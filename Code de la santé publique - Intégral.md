@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1959-03-28
+Version Consolidée au 1959-07-07
 
 # Partie législative ancienne
 
@@ -27041,6 +27041,377 @@ Le dossier doit suivre l'agent lorsque celui-ci est nommé à un emploi dans un 
 
 #### Chapitre II : Dispositions organiques
 
+###### Article L803
+
+Il est institué auprès du ministre de la santé publique et de la population, un conseil supérieur de la fonction hospitalière
+présidé par un conseiller d'Etat et comprenant, outre ce dernier :
+
+1° Deux représentants du ministre de la santé publique et de la population ;
+
+Deux représentants du ministre de l'intérieur ;
+
+Deux représentants du ministre des finances et des affaires économiques ;
+
+Le directeur général de l'administration générale de l'assistance publique à Paris ou son représentant ;
+
+Le directeur général de l'administration de l'assistance publique à Marseille ou son représentant ;
+
+Le directeur général des hospices civils de Lyon ou son représentant ;
+
+2° Trois administrateurs d'hôpitaux et hospices publics désignés par la fédération hospitalière de France ;
+
+Trois maires désignés par l'association des maires de France ;
+
+Deux conseillers généraux désignés par l'assemblée des présidents des conseils généraux de France ;
+
+3° Seize représentants des différentes catégories de personnel hospitalier désignés sur la proposition des organisations
+syndicales de ce personnel.
+
+Il est procédé à la désignation d'un suppléant pour chaque membre titulaire du conseil supérieur de la fonction hospitalière.
+
+Les membres titulaires et suppléants sont désignés pour une durée de trois ans.
+
+Dans le cas où au cours de cette période de trois ans, un membre titulaire ou suppléant remet sa démission, vient à cesser
+les fonctions à raison desquelles il a été désigné ou se trouve dans l'impossibilité définitive d'exercer son mandat pour
+raisons de santé, il est procédé à son remplacement sur proposition de l'autorité ou de l'organisme compétent. Le mandat du
+remplaçant expire lors du renouvellement du conseil supérieur de la fonction hospitalière.
+
+Le conseil supérieur de la fonction hospitalière est consulté dans les cas prévus aux articles L. 812, L. 813 et L. 814 du
+code de la santé publique aux lieu et place du comité supérieur de la fonction hospitalière qu'il remplace.
+
+Il peut être saisi, par le ministre de la santé publique et de la population, de toute question intéressant la situation du
+personnel relevant du livre IX du code de la santé publique.
+
+Il peut soumettre des propositions au ministre de la santé publique et de la population.
+
+Est annexée au conseil supérieur de la fonction hospitalière une commission des recours présidée par le président de ce
+conseil. Le nombre des membres de la commission des recours est fixé par arrêté conjoint du ministre chargé de la santé
+publique et du ministre de l'intérieur.
+
+La commission des recours comprend outre le président :
+
+1° Des membres représentant les personnels hospitaliers. Ces membres sont désignés, sur présentation des organisations
+syndicales représentées au conseil supérieur de la fonction hospitalière, parmi les représentants du personnel aux
+commissions paritaires consultatives départementales ;
+
+2° En nombre égal à ceux de la catégorie précédente, des membres désignés par arrêté conjoint du ministre chargé de la santé
+publique et du ministre de l'intérieur parmi les membres du conseil supérieur de la fonction hospitalière mentionnés au 1° et
+au 2° de l'article 1er du décret susvisé du 4 juillet 1959 ;
+
+Dans chaque affaire, siègent des représentants du personnel de la catégorie hiérarchique à laquelle appartient le requérant.
+
+Est annexée au conseil supérieur de la fonction hospitalière une commission des recours présidée par le président de ce
+conseil. Le nombre des membres de la commission des recours est fixé par arrêté conjoint du ministre chargé de la santé
+publique et du ministre de l'intérieur.
+
+La commission des recours comprend outre le président :
+
+1° Des membres représentant les personnels hospitaliers. Ces membres sont désignés, sur présentation des organisations
+syndicales représentées au conseil supérieur de la fonction hospitalière, s'il s'agit de personnels nommés par le ministre de
+la santé parmi les représentants du personnel aux commissions consultatives nationales, s'il s'agit d'autres personnels parmi
+les représentants du personnel aux commissions paritaires consultatives départementales.
+
+2° En nombre égal à ceux des représentants des personnels, des membres désignés parmi les membres du conseil supérieur de la
+fonction hospitalière mentionnés au 1° et au 2° de l'article 1er du décret susvisé du 4 juillet 1959.
+
+Les membres de la commission sont désignés par arrêté conjoint du ministre chargé de la santé publique et du ministre de
+l'intérieur.
+
+Indépendamment de ses attributions en matière disciplinaire, la commission des recours est chargé de la mission prévue à
+l'article L. 825 du code de la santé publique.
+
+**Nota:**
+
+Nota : Décret 59-805 du 4 juillet 1959 et Décret 70-1329 du 31 décembre 1970 : remplace l'article L. 803 par des dispositions
+reglementaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°55-683 1955-05-20 art. 12
+
+	**Cité par**:
+
+	  - Décret n°58-1202 du 11 décembre 1958 - art. 1 (Ab)
+	  - Code de la santé publique - art. L803 (Ab)
+	  - Code de la santé publique - art. L825 (Ab)
+
+	**Cite**:
+
+	  - Décret n°59-805 du 4 juillet 1959 - art. 1, v. init.
+	  - Code de la santé publique - art. L812 (Ab)
+	  - Code de la santé publique - art. L813 (Ab)
+	  - Code de la santé publique - art. L814 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°70-1329 du 31 décembre 1970 - art. 2 () JORF 3 janvier 1971
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 11 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 12 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 13 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 14 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 15 (M)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 16 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 17 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 19 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 20 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 21 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 22 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 23 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 24 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 25 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 26 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 27 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 28 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 29 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 30 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 31 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 32 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 33 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 34 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 35 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 36 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 37 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 38 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 39 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°88-386 du 19 avril 1988 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L804
+
+Dans chaque département, il est institué par arrêté du préfet une ou plusieurs commissions paritaires consultatives
+départementales ayant compétence dans les limites fixées par le livre IX du code de la santé publique et par les règlements
+d'application en matière de recrutement, de notation, d'avancement, de discipline et plus généralement, pour toutes questions
+individuelles concernant :
+
+1° Les personnels hospitaliers dont la nomination appartient au préfet ;
+
+2° Les agents dont la nomination appartient au président de la commission administrative ou au directeur et qui occupent des
+emplois dont l'effectif ne permet pas, dans l'établissement où les intéressés sont en fonctions, la constitution de
+commissions paritaires locales.
+
+**Nota:**
+
+Nota : Décret 59-805 du 4 juillet 1959 : remplace l'article L. 804 par des dispositions réglementaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°55-683 1955-05-20 art. 13
+
+	**Cité par**:
+
+	  - Décret n°56-1294 du 14 décembre 1956 - art. 26 (Ab)
+	  - Arrêté du 15 février 1982 - art. 3 (V)
+	  - Arrêté du 16 février 1982 - art. 1 (An)
+	  - Arrêté du 28 octobre 1958 - art. 6 (M)
+	  - Arrêté du 6 mars 1985 - art. 1 (V)
+	  - Code de la santé publique - art. L796 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 15 février 1982
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 11 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 15 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 16 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 17 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 18 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 19 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 20 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 21 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 22 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 23 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 24 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 25 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 26 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 27 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 28 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 29 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 30 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 31 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 32 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 33 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 34 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 35 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 36 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 37 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 38 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 39 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 40 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 41 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 42 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 43 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 44 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 45 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 46 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 47 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 48 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 49 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 50 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 51 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 52 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 53 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 54 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 55 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 56 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 57 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 16 février 1982
+	  - TXT_SOURCE: Arrêté du 16 février 1982 - art. 1 (An)
+	  - TXT_SOURCE: Arrêté du 16 février 1982 - art. 2 (An)
+	  - TXT_SOURCE: Arrêté du 16 février 1982 - art. 3 (An)
+	  - TXT_SOURCE: Arrêté du 6 mars 1985
+	  - TXT_SOURCE: Arrêté du 6 mars 1985 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 6 mars 1985 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 6 mars 1985 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L805
+
+Dans chaque établissement, il est institué, par délibération de l'assemblée compétente, une ou plusieurs commissions
+paritaires consultatives locales ayant compétence dans les limites fixées par le livre IX du code de la santé publique et les
+règlements d'application en matière de recrutement, de notation, d'avancement, de discipline et plus généralement, pour
+toutes questions individuelles concernant le personnel dont la nomination appartient au président de la commission
+administrative ou au directeur.
+
+**Nota:**
+
+Nota : Décret 59-805 du 4 juillet 1959 : remplace l'article L. 805 par des dispositions reglementaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°55-683 1955-05-20 art. 14
+
+	**Cité par**:
+
+	  - Décret n°56-1294 du 14 décembre 1956 - art. 26 (Ab)
+	  - Arrêté du 16 février 1982 - art. 1 (An)
+	  - Arrêté du 28 octobre 1958 - art. 6 (M)
+	  - Arrêté du 6 mars 1985 - art. 1 (V)
+	  - Code de la santé publique - art. L796 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 15 février 1982
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 11 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 15 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 16 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 17 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 18 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 19 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 20 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 21 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 22 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 23 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 24 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 25 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 26 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 27 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 28 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 29 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 30 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 31 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 32 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 33 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 34 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 35 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 36 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 37 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 38 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 39 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 40 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 41 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 42 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 43 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 44 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 45 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 46 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 47 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 48 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 49 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 50 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 51 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 52 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 53 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 54 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 55 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 56 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 57 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 16 février 1982
+	  - TXT_SOURCE: Arrêté du 16 février 1982 - art. 1 (An)
+	  - TXT_SOURCE: Arrêté du 16 février 1982 - art. 2 (An)
+	  - TXT_SOURCE: Arrêté du 16 février 1982 - art. 3 (An)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
 ###### Article L806
 
 Les représentants du personnel au sein des commissions paritaires sont élus au bulletin secret à la proportionnelle par les
@@ -27121,6 +27492,102 @@ agents en activité ou détachés dans un emploi des cadres hospitaliers.
 	**Abrogé par**:
 
 	  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
+
+
+###### Article L807
+
+Les modalités de désignation des membres, l'organisation et le fonctionnement des commissions paritaires font l'objet
+d'arrêtés concertés des ministres de la santé publique et de la population, de l'intérieur et des finances et des affaires
+économiques.
+
+**Nota:**
+
+Nota : Décret 59-805 du 4 juillet 1959 : remplace l'article L. 807 par des dispositions reglementaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°55-683 1955-05-20 art. 16
+
+	**Cité par**:
+
+	  - Décret n°59-707 du 8 juin 1959 - art. 16 (V)
+	  - Décret n°98-674 du 30 juillet 1998 - art. 12 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 15 février 1982
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 11 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 15 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 16 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 17 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 18 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 19 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 20 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 21 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 22 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 23 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 24 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 25 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 26 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 27 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 28 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 29 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 30 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 31 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 32 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 33 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 34 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 35 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 36 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 37 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 38 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 39 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 40 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 41 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 42 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 43 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 44 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 45 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 46 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 47 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 48 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 49 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 50 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 51 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 52 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 53 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 54 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 55 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 56 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 57 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 9 (V)
+	  - TXT_SOURCE: Arrêté du 6 mars 1985
+	  - TXT_SOURCE: Arrêté du 6 mars 1985 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 6 mars 1985 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 6 mars 1985 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°98-674 du 30 juillet 1998 - art. 12 (V) JORF 6 août 1998
 
 
 #### Chapitre III : Recrutement.
