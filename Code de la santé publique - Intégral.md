@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1980-07-09
+Version Consolidée au 1980-07-13
 
 # Partie législative ancienne
 
@@ -18340,6 +18340,75 @@ s'applique à la collectivité territoriale de Mayotte.*]
 	  - Loi n°46-630 1946-04-08 art. 3
 
 
+###### Article L474-1
+
+Les diplômes, certificats et titres exigés en application de l'article L. 474 sont :
+
+Soit le diplôme français d'Etat d'infirmier ou d'infirmière ou l'un des brevets délivrés en application du décret du 27 juin
+1922 ;
+
+Soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté économique européenne [*étranger*], un diplôme,
+certificat ou autre titre d'infirmier responsable des soins généraux délivré conformément aux obligations communautaires par
+l'un de ces Etats et figurant sur une liste établie par le ministre chargé de la santé, ou tout autre diplôme, certificat ou
+autre titre d'infirmier responsable des soins généraux délivré par l'un des Etats membres avant le 29 juin 1979 à la
+condition qu'il soit accompagné d'une attestation de cet Etat certifiant que :
+
+- le titulaire du diplôme, certificat ou titre s'est consacré, de façon effective et licite, aux activités d'infirmier
+responsable des soins généraux pendant au moins trois années [*durée d'ancienneté*] au cours des cinq années précédant la
+délivrance de l'attestation [*condition*] ;
+
+- ces activités ont comporté la pleine responsabilité de la programmation, de l'organisation et de l'administration des soins
+infirmiers aux patients.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 ART. 1 JORF 13 JUILLET 1980
+
+	**Cité par**:
+
+	  - Arrêté du 30 août 1988 - art. 6 (V)
+	  - Décret n°88-903 du 30 août 1988 - art. 1 (Ab)
+	  - Arrêté du 13 septembre 1988 - art. 5 (V)
+	  - Arrêté du 12 décembre 1990 - art. 1 (V)
+	  - Décret n°91-13 du 4 janvier 1991 - art. 3 (Ab)
+	  - Décret n°92-785 du 6 août 1992 - art. 12 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 36 (Ab)
+	  - Décret n°93-58 du 14 janvier 1993 - art. 1 (V)
+	  - Arrêté du 22 juillet 1994 - art. 51 (Ab)
+	  - Décret n°94-1020 du 23 novembre 1994 - art. 5 (M)
+	  - Arrêté du 17 septembre 1997 - art. 1 (V)
+	  - Code de la santé publique - art. L474 (Ab)
+	  - Code de la santé publique - art. L477-1 (Ab)
+	  - Code de la santé publique - art. R668-11 (Ab)
+	  - Code de la santé publique - art. R668-15 (Ab)
+	  - Code de la santé publique - art. R668-8 (Ab)
+	  - Code de la santé publique - art. R668-9 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté du 16 juillet 1980
+	  - TXT_ASSOCIE: Arrêté du 16 juillet 1980 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 16 juillet 1980 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 16 juillet 1980 - art. 3 (V)
+	  - TXT_ASSOCIE: Arrêté du 16 juillet 1980 - art. 3 bis (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-11 (V)
+	  - Code de la santé publique - art. L4311-3 (V)
+
+	**Cite**:
+
+	  - Décret n°1922-06-27
+
+
 ###### Article L475
 
 Pour l'obtention du diplôme d'Etat d'infirmier ou d'infirmière, les candidats ne peuvent être admis à subir les examens que
@@ -18417,6 +18486,42 @@ avril 1992, s'applique, à l'exception du second alinéa, à la collectivité te
 	**Anciens textes**:
 
 	  - Loi n°43-372 1943-07-15 art. 4
+
+
+###### Article L476-1
+
+Par dérogation aux dispositions de l'article L. 474, peuvent exercer la profession d'infirmier ou d'infirmière les personnes
+titulaires d'une autorisation d'exercer définitivement la profession d'infirmier ou d'infirmière, délivrée en application des
+dispositions transitoires de l'article 12 de la loi du 15 juillet 1943 ou de l'article 13 de la loi du 8 avril 1946.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 ART. 2 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-11 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L474 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L474 (M)
+	  - Loi n°1943-07-15 ART. 12
+	  - Loi n°1946-04-08 ART. 13
 
 
 ###### Article L477
@@ -18543,6 +18648,216 @@ inscrit sur une liste départementale [*interdiction*].
 	  - Code de la santé publique - art. L4311-15 (M)
 
 
+###### Article L478-1
+
+Le préfet [*autorité compétente*] refuse l'inscription si le demandeur ne remplit pas les conditions légales exigées pour
+l'exercice de la profession ou s'il est frappé soit d'une interdiction temporaire ou définitive d'exercer la profession en
+France ou à l'étranger, soit d'une suspension prononcée en application des articles L. 482-10 ou L. 482-12.
+
+Toutefois, lorsque le demandeur est frappé d'une interdiction d'exercer la profession dans un autre pays qu'un Etat membre de
+la Communauté économique européenne, il peut être autorisé à exercer cette profession en France par décision de la
+juridiction disciplinaire prévue aux articles L. 482-1 et suivants [*recours*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 4 JORF 13 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-16 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L482-10 (Ab)
+	  - Code de la santé publique - art. L482-12 (Ab)
+	  - Code de la santé publique L482-10, L482-12, L482-1 ET S.
+
+
+###### Article L478-2
+
+L'infirmier ou l'infirmière qui demande son inscription sur la liste départementale doit faire la preuve d'une connaissance
+suffisante de la langue française et des systèmes de poids et mesures utilisés en France [*condition d'exercice*]. Lorsque
+cette preuve ne résulte pas du dossier accompagnant la demande d'inscription, la vérification est faite par l'inspecteur
+départemental de la santé ; une nouvelle vérification peut être faite, à la demande de l'intéressé, par l'inspecteur régional
+de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 ART. 4 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-17 (M)
+	  - Code de la santé publique - art. L4311-17 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L478-5 (Ab)
+
+
+###### Article L478-3
+
+S'il apparaît que le demandeur est atteint d'une infirmité ou se trouve dans un état pathologique qui rend dangereux
+l'exercice de sa profession, le préfet saisit le tribunal de grande instance [*juridiction compétente, recours*] qui se
+prononce dans les conditions prévues à l'article L. 482-10.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 38.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 4 JORF 13 juillet 1980
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 38 (Ab)
+	  - Code de la santé publique - art. L478-5 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-18 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L482-10 (Ab)
+
+
+###### Article L478-4
+
+Lorsqu'un infirmier ou une infirmière veut exercer sa profession dans une catégorie professionnelle où il ne l'exercerait pas
+jusqu'alors, il doit demander la modification de son inscription sur la liste départementale [*obligation*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 4 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-19 (Ab)
+
+
+###### Article L478-5
+
+L'infirmier ou l'infirmière est en droit d'exercer sa profession ou d'en poursuivre l'exercice dans une autre catégorie à
+l'expiration d'un délai d'un mois courant à compter de l'envoi ou du dépôt de sa demande [*de modification de son
+inscription*]. Il n'en est autrement que si le préfet l'avise par lettre recommandée de son intention d'exercer le contrôle
+prévu aux articles L. 478-2 et L. 478-3.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 4 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-20 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L478-2 (Ab)
+	  - Code de la santé publique - art. L478-3 (Ab)
+
+
+###### Article L478-6
+
+L'infirmier ou l'infirmière qui cesse d'exercer sa profession doit demander au préfet de le radier de la liste
+départementale. A défaut de demande, il est radié d'office.
+
+Est également radié d'office l'infirmier ou l'infirmière qui ne remplit plus les conditions requises pour l'exercice de la
+profession.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-21 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 4 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
 ###### Article L479
 
 L'infirmier ou l'infirmière ressortissant d'un des Etats membres de la Communauté économique européenne [*étranger*] qui est
@@ -18666,6 +18981,542 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Loi n°46-630 1946-04-08 art. 9
 
 
+###### Article L482
+
+Les infirmiers et infirmières [*obligation*] inscrits sur une liste départementale ou exécutant en France un acte
+professionnel tel que prévu à l'article L. 479 sont tenus de respecter les règles professionnelles fixées par décret en
+Conseil d'Etat pris après avis de la commission compétente du conseil supérieur des professions paramédicales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 58-1297 1958-12-23 art. 19 JORF 24 décembre 1953
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 ART. 6 JORF 13 juillet 1980
+
+	**Cité par**:
+
+	  - Décret n°93-221 du 16 février 1993 - art. 41 (Ab)
+	  - Code de la santé publique - art. L479 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4312-1 (M)
+	  - Code de la santé publique - art. L4312-1 (V)
+
+
+###### Article L482-1
+
+Il est institué dans chaque région sanitaire [*circonscription*] une commission de discipline devant laquelle sont poursuivis
+les infirmiers et infirmières qui ont manqué à leurs obligations professionnelles.
+
+Cette commission peut comprendre plusieurs sections. Les règles applicables à la commission sont applicables aux sections.
+
+Les dispositions de l'article L. 427 sont applicables aux infirmiers et infirmières [*discipline*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 40.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 6 JORF 13 juillet 1980
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 40 (Ab)
+	  - Décret n°93-221 du 16 février 1993 - art. 24 (Ab)
+	  - Décret n°93-221 du 16 février 1993 - art. 46 (Ab)
+	  - Code de la santé publique - art. L479 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L427 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L427 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4313-1 (Ab)
+	  - Code de la santé publique - art. L4413-6 (M)
+
+
+###### Article L482-2
+
+La commission régionale de discipline [*composition*] est présidée par un magistrat de tribunal administratif, en activité ou
+honoraire, désigné par le président du tribunal administratif dans le ressort duquel se trouve le siège de la région
+sanitaire. Elle comprend en outre quatre assesseurs infirmiers ou infirmières.
+
+Ces assesseurs doivent être des infirmiers ou infirmières de secteur psychiatrique lorsque la personne traduite devant la
+commission appartient à cette catégorie. Lorsqu'elle appartient à une autre catégorie, les assesseurs doivent exercer, pour
+moitié d'entre eux à titre libéral, pour moitié d'entre eux à titre salarié, public ou privé.
+
+Les assesseurs infirmiers [*titulaires*] sont élus, en même temps qu'un suppléant pour chacun d'eux, respectivement par les
+infirmiers et infirmières exerçant à titre libéral, les infirmiers et infirmières salariés, les infirmiers et infirmières de
+secteur psychiatrique. Ils sont élus au scrutin [*mode*] majoritaire à un tour pour une durée de quatre ans.
+
+Seuls peuvent être élus comme assesseurs les infirmiers et infirmières de nationalité française qui exercent la profession
+régulièrement depuis trois ans au moins [*ancienneté*] et qui n'ont pas fait l'objet d'une sanction disciplinaire ou d'une
+mesure d'interdiction prononcée par une juridiction pénale [*condition d'éligibilité*].
+
+L'inspecteur régional de la santé est obligatoirement consulté ou entendu par la commission régionale de discipline.
+
+Lorsque la poursuite est relative à l'exécution de soins ou de prescription médicale, l'avis technique du conseil régional de
+l'ordre des médecins est obligatoirement demandé par la commission régionale de discipline.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 ART. 6 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4313-2 (Ab)
+
+
+###### Article L482-3
+
+La commission régionale de discipline peut être saisie par le ministre chargé de la santé, par le procureur de la République,
+par le préfet, par le conseil départemental de l'ordre de l'une des professions médicales, par l'autorité administrative
+investie du pouvoir de nomination ou par un groupement professionnel régulièrement constitué d'infirmiers ou d'infirmières.
+
+Toutefois, lorsque l'infirmier ou l'infirmière poursuivi est un infirmier ou une infirmière du secteur public qui lui est
+déféré en cette qualité, la commission ne peut être saisie que par le ministre chargé de la santé, l'autorité administrative
+investie du pouvoir de nomination, le procureur de la République ou le préfet.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 40.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4313-3 (Ab)
+	  - Code de la santé publique - art. L4413-7 (M)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 6 JORF 13 juillet 1980
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 40 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L482-4
+
+En cas d'urgence, le président de la commission régionale de discipline [*autorité compétente*] peut, à la demande du
+ministre chargé de la santé, du procureur de la République ou du préfet, prononcer à titre provisoire, jusqu'à la conclusion
+de l'instance disciplinaire devant la commission, l'interdiction d'exercice de la profession. Lorsqu'une telle décision est
+prise, la commission régionale de discipline statue dans un délai maximum de trois mois à compter de l'acte prononçant
+l'interdiction.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 6 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4313-4 (Ab)
+
+
+###### Article L482-5
+
+Appel des décisions de la commission régionale de discipline peut être porté devant la commission nationale de discipline
+[*recours*]. Peuvent former appel la personne qui a été l'objet d'une sanction ainsi que les personnes qui avaient qualité
+pour saisir la commission régionale de discipline.
+
+La commission nationale comprend [*composition*] un conseiller d'Etat, président, désigné par le vice-président du Conseil
+d'Etat, et quatre assesseurs infirmiers ou infirmières élus en même temps qu'un suppléant pour chacun d'eux, par les
+infirmiers et infirmières membres de la commission compétente du conseil supérieur des professions paramédicales.
+
+Un médecin membre de l'inspection générale des affaires sociales est obligatoirement consulté ou entendu par la commission
+nationale de discipline.
+
+Lorsque la poursuite est relative à l'exécution de soins ou de prescription médicale, l'avis technique du conseil national de
+l'ordre des médecins est obligatoirement demandé par la commission nationale de discipline.
+
+Les membres de la commission sont désignés pour quatre ans [*durée du mandat*].
+
+Les décisions de la commission nationale de discipline peuvent faire l'objet d'un recours en cassation devant le Conseil
+d'Etat.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 6 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4313-5 (Ab)
+
+
+###### Article L482-6
+
+L'infirmier ou l'infirmière poursuivi peut se faire assister devant la commission régionale et la commission nationale par un
+avocat, un médecin ou un infirmier ou une infirmière inscrits et en situation légale d'exercice.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 6 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4313-6 (Ab)
+
+
+###### Article L482-7
+
+La commission régionale et la commission nationale peuvent prononcer les sanctions suivantes [*juridictions compétentes*] :
+
+1° L'avertissement ;
+
+2° Le blâme ;
+
+3° L'interdiction temporaire d'exercer la profession ;
+
+4° L'interdiction définitive d'exercer la profession.
+
+L'interdiction temporaire entraîne pendant sa durée la privation du droit d'élire les membres de la commission de discipline.
+
+Lorsque l'infirmier ou l'infirmière, est frappé d'interdiction de dispenser des soins aux assurés sociaux en application de
+l'article L. 406 du Code de la sécurité sociale, la commission régionale et la commission nationale de discipline peuvent
+décider que la peine d'interdiction temporaire prononcée par elle sera exécutée, en tout ou partie, concomitamment avec cette
+autre peine.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 40.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4313-7 (Ab)
+	  - Code de la santé publique - art. L4413-9 (M)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale L406
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 6 JORF 13 juillet 1980
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 40 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L482-8
+
+Un décret en Conseil d'Etat détermine la procédure applicable en matière disciplinaire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 6 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4313-9 (Ab)
+
+
+###### Article L482-9
+
+L'infirmier ou l'infirmière qui a fait l'objet d'une mesure d'interdiction définitive peut être, sur sa demande, relevé de
+cette interdiction par la commission nationale après un délai de cinq années au moins à compter de la décision définitive. En
+cas de rejet, il ne peut être formé de nouvelle demande qu'après un délai de cinq ans.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 6 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4313-8 (Ab)
+
+
+###### Article L482-10
+
+Lorsqu'un infirmier ou une infirmière est atteint d'une infirmité ou se trouve dans un état pathologique qui rend dangereuse
+la poursuite de l'exercice de la profession, le tribunal de grande instance [*juridiction compétente*], après avis de la
+commission régionale de discipline, prononce la suspension du droit d'exercer cette profession. Il prescrit en même temps les
+mesures de publicité qu'il juge utiles.
+
+Le tribunal de grande instance est saisi par le ministre chargé de la santé, par le procureur de la République, par
+l'inspecteur régional de la santé ou par le préfet.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-24 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L478-1 (Ab)
+	  - Code de la santé publique - art. L478-3 (Ab)
+	  - Code de la santé publique - art. L482-11 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 6 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L482-11
+
+Le tribunal de grande instance [*juridiction compétente*] peut, à tout moment, et après avis de la commission régionale de
+discipline, mettre fin à une mesure [*de suspension*] ordonnée en application de l'article L. 482-10.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 6 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-25 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L482-10 (Ab)
+
+
+###### Article L482-12
+
+En cas d'urgence et après avis de l'inspecteur départemental de la santé, le préfet [*autorité compétente*] peut prononcer la
+suspension d'un infirmier ou d'une infirmière atteint d'une infirmité ou se trouvant dans un état pathologique qui rend
+dangereux l'exercice de la profession. Il en informe sans délai la commission régionale de discipline qui formule un avis.
+
+La durée de cette suspension ne peut dépasser un mois, et ne peut être renouvelée qu'une seule fois.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 6 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-26 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L478-1 (Ab)
+	  - Code de la santé publique - art. L482-13 (Ab)
+
+
+###### Article L482-13
+
+La suspension du droit d'exercer prononcée [*par le préfet*] en application de l'article L. 482-12 ne saurait avoir pour
+effet de priver l'infirmier ou l'infirmière salarié de sa rémunération jusqu'au prononcé de la décision définitive
+[*maintien*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 6 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-27 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L482-12 (Ab)
+
+
 ###### Article L483
 
 L'interdiction temporaire ou définitive d'exercer la profession d'infirmière ou d'infirmier peut être prononcée par les cours
@@ -18710,6 +19561,42 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Cite**:
 
 	  - Code de la santé publique - art. L483-1 (M)
+
+
+###### Article L483-1
+
+L'exercice illégal de la profession d'infirmier ou d'infirmière est passible d'une amende de 3.000 F à 20.000 F [*montant*]
+et, en cas de récidive, d'une amende de 10.000 F à 30.000 F, une peine d'emprisonnement de quinze jours à cinq mois [*durée*]
+pouvant en outre être prononcée dans ce cas. 
+
+L'usage du titre d'infirmier ou d'infirmière par des personnes qui n'en sont pas régulièrement investies et le port illégal
+de l'insigne sont punis des peines prévues à l'article 259 du Code pénal.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 8 JORF 13 juillet 1980
+
+	**Cité par**:
+
+	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Code de la santé publique - art. L483 (Ab)
+
+	**Cite**:
+
+	  - Code pénal 259
 
 
 ###### Article L484
@@ -19080,6 +19967,40 @@ tenus au secret professionnel, dans les conditions et sous les réserves énonc�
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L4323-3 (V)
+
+
+###### Article L501
+
+L'exercice illégal de la profession de masseur-kinésithérapeute ou de la profession de pédicure est passible d'une amende de
+3.000 F à 20.000 F et, en cas de récidive, d'une amende de 10.000 F à 30.000 F, une peine d'emprisonnement de quinze jours à
+cinq mois pouvant en outre être prononcée dans ce cas.
+
+L'usurpation du titre de masseur-kinésithérapeute, masseur, gymnaste médical, et du titre de pédicure est punie des peines
+prévues à l'article 259 du Code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1297 1958-12-23 ART. 19 : AVAIT ABROGE L'ARTICLE L501
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 ART. 12 JORF 13 JUILLET 1980
+
+	**Cité par**:
+
+	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+
+	**Cite**:
+
+	  - Code pénal 259
 
 
 ###### Article L502
@@ -20191,6 +21112,69 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	  - Code de la santé publique - art. L4363-6 (Ab)
 	  - Code de la santé publique - art. L4363-6 (M)
+
+
+### Titre 6 : Dispositions diverses
+
+###### Article L510-9
+
+Le nombre des étudiants ou élèves admis à entreprendre des études en vue de la délivrance des diplômes, certificats ou autres
+titres exigés pour l'exercice des professions d'auxiliaires médicaux peut être fixé chaque année compte tenu des besoins de
+la population et de la nécessité de remédier aux inégalités géographiques, dans les conditions et selon des modalités
+déterminées pour chaque profession par décret en Conseil d'Etat, aprés consultation de la commission compétente du conseil
+supérieur des professions paramédicales.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°80-527 1980-07-12 art. 13 JORF 13 juillet 1980
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°81-290 du 31 mars 1981
+	  - TXT_SOURCE: Décret n°81-290 du 31 mars 1981 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°81-290 du 31 mars 1981 - art. 2 (M)
+	  - TXT_SOURCE: Décret n°81-290 du 31 mars 1981 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°81-290 du 31 mars 1981 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°81-290 du 31 mars 1981 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°81-290 du 31 mars 1981 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°81-421 du 29 avril 1981
+	  - TXT_SOURCE: Décret n°81-421 du 29 avril 1981 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°81-421 du 29 avril 1981 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°81-421 du 29 avril 1981 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°81-421 du 29 avril 1981 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°81-421 du 29 avril 1981 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°81-421 du 29 avril 1981 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°89-55 du 30 janvier 1989
+	  - TXT_SOURCE: Décret n°89-55 du 30 janvier 1989 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°89-55 du 30 janvier 1989 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°89-55 du 30 janvier 1989 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°89-55 du 30 janvier 1989 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°89-55 du 30 janvier 1989 - art. 5 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°81-290 du 31 mars 1981 - art. 1 (Ab)
+	  - Décret n°81-421 du 29 avril 1981 - art. 1 (Ab)
+	  - Décret n°89-55 du 30 janvier 1989 - art. 1 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 41 (Ab)
+	  - Décret n°93-538 du 27 mars 1993 - art. 7 (Ab)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4381-1 (Ab)
+	  - Code de la santé publique - art. L4381-1 (M)
 
 
 ## Livre 5 : Pharmacie
