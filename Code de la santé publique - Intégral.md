@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1977-12-24
+Version Consolidée au 1977-12-31
 
 # Partie législative ancienne
 
@@ -24845,6 +24845,180 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L5121-16 (M)
+
+
+###### Article L602-1
+
+Les spécialités pharmaceutiques bénéficiaires d'une autorisation du ministre chargé de la santé publique sont frappées d'une
+taxe annuelle perçue au profit de l'Etat.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°77-1467 1977-12-30 art. 97 JORF 31 décembre 1977
+
+	**Cité par**:
+
+	  - Décret n°93-1323 du 20 décembre 1993 - art. 1 (Ab)
+	  - Décret n°93-1323 du 20 décembre 1993 - art. 2 (Ab)
+	  - Code de la santé publique - art. L567-7 (Ab)
+	  - Code de la santé publique - art. L602-2 (Ab)
+	  - Code de la santé publique - art. L605 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5121-17 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L602-2
+
+I. - La taxe annuelle prévue à l'article précédent est fixée à 1.000 F [*montant*] par spécialité pharmaceutique bénéficiant
+d'une autorisation de mise sur le marché. Elle est due par le titulaire de cette autorisation.
+
+II. - La taxe n'est pas exigible pour les spécialités dont les ventes, à l'exclusion des ventes à l'exportation n'ont pas
+atteint, au cours de l'année civile précédente, un montant hors taxe de 500.000 F.
+
+III. - Lorsqu'une spécialité pharmaceutique est présentée en plusieurs conditionnements d'une contenance différente, c'est le
+montant total des ventes de la spécialité, sous ses différents conditionnements, qui doit être retenu pour l'application des
+dispositions précédentes.
+
+IV. - En ce qui concerne les spécialités pharmaceutiques à base de préparations homéopathiques ou d'allergènes, la taxe est
+perçue une seule fois pour une même famille de produits ; dans ce cas, le montant annuel des ventes à prendre en
+considération est celui qui est réalisé pour l'ensemble des produits de la même famille.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°77-1467 1977-12-30 art. 97 JORF 31 décembre 1977
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5121-17 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L602-1 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L605 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L602-3
+
+I. - Les redevables de la taxe [*obligation*] sont tenus d'adresser au ministre de la santé, au plus tard le 31 mars de
+chaque année [*date limite*], une déclaration indiquant les spécialités pharmaceutiques donnant lieu au paiement de la taxe.
+Cette déclaration est établie conformément au modèle fixé par arrêté du ministre de la santé.
+
+II. - En l'absence de déclaration dans le délai fixé ou en cas de déclaration inexacte, le ministre de la santé peut procéder
+à une taxation d'office qui entraîne l'application d'une pénalité de 10 p. 100 pour retard de déclaration et de 50 p. 100
+pour défaut ou insuffisance de déclaration [*montant*].
+
+A défaut de versement dans les deux mois à compter de la date de la notification du montant à payer, la fraction non
+acquittée de la taxe, éventuellement assortie des pénalités applicables, est majorée de 10 p. 100.
+
+III. - La taxe et les pénalités sont recouvrées et jugées comme en matière de contributions directes. L'action en répétition
+dont l'administration dispose pour le recouvrement de la taxe peut être exercée jusqu'à l'expiration de la quatrième année
+suivant celle au cours de laquelle la taxe doit être versée [*délai de prescription*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1978-02-28 JORF NC 11 MARS : MODELE DE DECLARATION
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°77-1467 1977-12-30 art. 97 JORF 31 décembre 1977
+
+	**Cité par**:
+
+	  - Loi n°78-1239 du 29 décembre 1978 - art. 109 (Ab)
+	  - Loi n°93-5 du 4 janvier 1993 - art. 21 (M)
+	  - Code de la santé publique - art. L601-5-1 (Ab)
+	  - Code de la santé publique - art. L602 (Ab)
+	  - Code de la santé publique - art. L605 (M)
+	  - Code de la santé publique - art. L617-5 (Ab)
+	  - Code de la santé publique - art. L658-16 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5121-18 (V)
+
+
+###### Article L602-4
+
+Les pharmaciens inspecteurs de la santé peuvent obtenir sur place, de tout titulaire d'autorisation de mise sur le marché,
+communication des documents comptables nécessaires au contrôle de la taxe.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5121-19 (VT)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L605 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Loi n°77-1467 1977-12-30 art. 97 JORF 31 décembre 1977
 
 
 ###### Article L603
