@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1990-03-28
+Version Consolidée au 1990-06-30
 
 # Partie législative ancienne
 
@@ -11692,15 +11692,16 @@ anticancéreux relevant de l'assistance publique dans les villes où cette admin
 
 ### TITRE 4 : LUTTE CONTRE LES MALADIES MENTALES
 
-#### CHAPITRE 1 : DEPISTAGE ET PROPHYLAXIE.
+#### Chapitre 1 : Organisation générale de la lutte contre les maladies mentales et droits des personnes hospitalisées en raison de troubles mentaux.
 
 ###### Article L326
 
-La lutte contre les maladies mentales comporte des actions de prévention, de diagnostic et de soins.
+La lutte contre les maladies mentales comporte des actions de prévention, de diagnostic, de soins, de réadaptation et de
+réinsertion sociale.
 
 A cet effet, exercent leurs missions dans le cadre de circonscriptions géographiques, appelées secteurs psychiatriques
 [*dénomination*], les établissements assurant le service public hospitalier, les services dépendant de l'Etat, ainsi que
-toute personne de droit public ou privé ayant passé avec l'Etat une convention précisant les objectifs poursuivis, les
+toute personne morale de droit public ou privé ayant passé avec l'Etat une convention précisant les objectifs poursuivis, les
 catégories de bénéficiaires, les moyens mis en oeuvre et, le cas échéant, les relations avec les autres organismes agissant
 dans le domaine de la santé mentale.
 
@@ -11714,6 +11715,15 @@ conseil départemental de santé mentale, conformément aux dispositions des art
 du 31 décembre 1970 portant réforme hospitalière.
 
 Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
+
+**Nota:**
+
+[*Nota : Loi 91-748 du 31 juillet 1991 art. 33 : dans les dispositions législatives, les mots "établissements publics de
+santé" sont substitués aux mots "établissements d'hospitalisation publics" et les mots "établissements de santé privés" sont
+substitués aux mots "établissements d'hospitalisation privés".
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 23 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 23.*]
 
 **Liens relatifs à cet article**
 
@@ -11757,7 +11767,16 @@ Les conditions d'application du présent article sont fixées par décret en Con
 
 	**Modifié par**:
 
-	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+	  - Loi n°90-527 du 27 juin 1990 - art. 1 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3221-1 (M)
+	  - Code de la santé publique - art. L3221-2 (M)
 
 	**Liens**:
 
@@ -11766,32 +11785,23 @@ Les conditions d'application du présent article sont fixées par décret en Con
 
 ###### Article L326-1
 
-Le médecin qui constate que la personne à laquelle il donne ses soins a besoin, pour l'une des causes prévues à l'article 490
-du Code civil [*altérations des facultés mentales dues à la maladie, l'infirmité ou l'affaiblissement dû à l'âge*], d'être
-protégée dans les actes de la vie civile peut en faire la déclaration au procureur de la République. Cette déclaration a pour
-effet de placer le malade sous la sauvegarde de justice si elle est accompagnée de l'avis conforme d'un médecin spécialiste.
+Nul ne peut être sans son consentement [*condition préalable*] ou, le cas échéant, sans celui de son représentant légal,
+hospitalisé ou maintenu en hospitalisation dans un établissement accueillant des malades atteints de troubles mentaux hormis
+les cas prévus par la loi et notamment par le chapitre III du présent titre.
 
-Lorsqu'une personne est soignée dans un établissement public ou dans l'un des établissements privés figurant sur une liste
-établie par arrêté du ministre des Affaires sociales, le médecin est tenu, s'il constate qu'elle se trouve dans la situation
-prévue à l'alinéa précédent, d'en faire la déclaration au procureur de la République. Cette déclaration a pour effet de
-placer le malade sous la sauvegarde de justice.
-
-Le directeur de l'action sanitaire et sociale doit être informé par le procureur de la mise sous sauvegarde.
+Toute personne hospitalisée ou sa famille dispose du droit de s'adresser au praticien ou à l'équipe de santé mentale,
+publique ou privée, de son choix tant à l'intérieur qu'à l'extérieur du secteur psychiatrique correspondant à son lieu de
+résidence.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Loi n°90-527 du 27 juin 1990 - art. 2 () JORF 30 juin 1990
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°68-5 du 3 janvier 1968 - art. 9 () JORF 4 janvier 1968
-
-	**Cite**:
-
-	  - Code civil - art. 490 (AbD)
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cité par**:
 
@@ -11805,21 +11815,21 @@ Le directeur de l'action sanitaire et sociale doit être informé par le procure
 	  - Code de la santé publique - art. L3211-1 (V)
 
 
-#### CHAPITRE 2 : ETABLISSEMENTS DE SOINS
-
-##### SECTION 1 : ORGANISATION GENERALE.
-
 ###### Article L326-2
 
-Dans chaque département, un ou plusieurs établissements assurant le service public hospitalier sont habilités par le
-représentant de l'Etat à soigner les personnes qui sont atteintes de maladies mentales et qui relèvent du chapitre III du
-présent titre.
+Toute personne hospitalisée avec son consentement pour des troubles mentaux est dite en hospitalisation libre. Elle dispose
+des mêmes droits liés à l'exercice des libertés individuelles que ceux qui sont reconnus aux malades hospitalisés pour une
+autre cause.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Loi n°85-1468 du 31 décembre 1985 - art. 4 () JORF 1er janvier 1986
+	  - Loi n°90-527 du 27 juin 1990 - art. 2 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -11830,99 +11840,216 @@ présent titre.
 	  - Code de la santé publique - art. L332-2 (Ab)
 
 
-##### Section 2 : Diverses catégories d'établissements
+###### Article L326-3
 
-##### Paragraphe 1 : Etablissements publics.
+Lorsqu'une personne atteinte de troubles mentaux est hospitalisée sans son consentement en application des dispositions du
+chapitre III du présent titre, les restrictions à l'exercice de ses libertés individuelles doivent être limitées à celles
+nécessitées par son état de santé et la mise en oeuvre de son traitement. En toutes circonstances, la dignité de la personne
+hospitalisée doit être respectée et sa réinsertion recherchée.
 
-###### Article L327
+Elle doit être informée dès l'admission et, par la suite, à sa demande, de sa situation juridique et de ses droits.
 
-Les établissements publics consacrés aux aliénés sont placés sous la direction de l'autorité publique.
+En tout état de cause, elle dispose du droit :
+
+1° De communiquer avec les autorités mentionnées à l'article L. 332-2 ;
+
+2° De saisir la commission prévue à l'article L. 332-3 ;
+
+3° De prendre conseil d'un médecin ou d'un avocat de son choix ;
+
+4° D'émettre ou de recevoir des courriers ;
+
+5° De consulter le règlement intérieur de l'établissement tel que défini à l'article L. 332-1 et de recevoir les explications
+qui s'y rapportent ;
+
+6° D'exercer son droit de vote ;
+
+7° De se livrer aux activités religieuses ou philosophiques de son choix.
+
+Ces droits, à l'exception de ceux mentionnés aux 4°, 6° et 7°, peuvent être exercés à leur demande par les parents ou les
+personnes susceptibles d'agir dans l'intérêt du malade.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Loi n°90-527 du 27 juin 1990 - art. 2 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L3211-3 (M)
+	  - Code de la santé publique - art. L3211-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L332-1 (Ab)
+	  - Code de la santé publique - art. L332-2 (Ab)
+	  - Code de la santé publique - art. L332-3 (M)
+
+
+###### Article L326-4
+
+Tout protocole thérapeutique pratiqué en psychiatrie ne peut être mis en oeuvre que dans le strict respect des règles
+déontologiques et éthiques en vigueur.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 2 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-4 (V)
+
+
+###### Article L326-5
+
+A sa sortie de l'établissement, toute personne hospitalisée en raison de troubles mentaux conserve la totalité de ses droits
+et devoirs de citoyen, sous réserve des dispositions des articles 492 et 508 du code civil, sans que ses antécédents
+psychiatriques puissent lui être opposés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 2 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code civil 492 et 508
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-5 (V)
+
+
+###### Article L327
+
+Le médecin qui constate que la personne à laquelle il donne ses soins a besoin, pour l'une des causes prévues à l'article 490
+du code civil, d'être protégée dans les actes de la vie civile peut en faire la déclaration au procureur de la République du
+lieu de traitement. Cette déclaration a pour effet de placer le malade sous sauvegarde de justice si elle est accompagnée de
+l'avis conforme d'un psychiatre.
+
+Lorsqu'une personne est soignée dans l'un des établissements mentionnés aux articles L. 331 et L. 332, le médecin est tenu,
+s'il constate que cette personne se trouve dans la situation prévue à l'alinéa précédent, d'en faire la déclaration au
+procureur de la République du lieu de traitement. Cette déclaration a pour effet de placer le malade sous sauvegarde de
+justice. Le préfet doit être informé par le procureur de la mise sous sauvegarde.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 2 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code civil - art. 490 (AbD)
+	  - Code de la santé publique L331 et L332
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-6 (AbD)
 	  - Code de la santé publique - art. L3211-6 (VD)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 5
 
 
 ###### Article L328
 
-Pour les établissements publics et les établissements privés faisant fonction d'établissements publics, consacrés en tout ou
-partie au service des aliénés, il est établi, par arrêté du ministre de la santé publique et de la population, en ce qui
-concerne ledit service, un réglement intérieur type ou, le cas échéant, des règlements intérieurs types.
+La personne hospitalisée sans son consentement dans un établissement de soins conserve le domicile qui était le sien avant
+l'hospitalisation aussi longtemps que ce domicile reste à sa disposition. Néanmoins, les significations qui y auront été
+faites pourront, suivant les circonstances, être annulées par les tribunaux.
 
-Les règlements intérieurs sont, dans les dispositions relatives à ces services, soumis à l'approbation du préfet
-[*conditions*]. Toutefois, ceux qui comportent des modifications aux prescriptions du règlement type sont approuvés par le
-ministre de la santé publique [*autorité compétente*], sauf lorsque lesdites modifications ont le caractère de modifications
-de pure forme.
+Si une tutelle a été constituée, les significations seront faites au tuteur ; s'il y a curatelle, elles devront être faites à
+la fois à la personne protégée et à son curateur.
+
+Les fonctions de juge des tutelles peuvent être exercées par un juge appartenant au tribunal d'instance dans le ressort
+duquel la personne sous tutelle ou curatelle est hospitalisée, lors même que celle-ci a conservé son domicile dans un ressort
+différent de celui du lieu de traitement.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
 	**Cité par**:
 
 	  - Décret n°86-602 du 14 mars 1986 - art. 12 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 2 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L3211-7 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 7
-
-
-##### Paragraphe 2 : Etablissements privés.
 
 ###### Article L329
 
-Les établissements privés consacrés aux aliénés sont placés sous la surveillance de l'autorité publique.
+Il peut être constitué, suivant les cas, et conformément aux articles 492 et 508 du code civil, une tutelle ou une curatelle
+pour la personne hospitalisée sans son consentement dans un des établissements visés au chapitre II.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Loi n°90-527 du 27 juin 1990 - art. 2 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code civil 492 et 508
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L3211-8 (V)
 
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 3
-
 
 ###### Article L330
 
-Nul ne peut diriger ni former un établissement privé consacré aux aliénés sans l'autorisation du Gouvernement [*condition*].
+Sur la demande de l'intéressé, de son conjoint, de l'un de ses parents ou de toute personne agissant dans l'intérêt du
+malade, ou à l'initiative du procureur de la République du lieu du traitement, le tribunal pourra nommer en chambre du
+conseil, par jugement exécutoire malgré appel, un curateur à la personne du malade n'ayant pas fait l'objet d'une mesure de
+protection et hospitalisé sans son consentement dans un des établissements mentionnés à l'article L. 331.
 
-Les établissements privés consacrés au traitement d'autres maladies ne peuvent recevoir les personnes atteintes d'aliénation
-mentale [*interdiction*], à moins qu'elles ne soient placées dans un local entièrement séparé.
+Ce curateur veille :
 
-Ces établissements doivent être, à cet effet, spécialement autorisés par le Gouvernement, et sont soumis, en ce qui concerne
-les aliénés, à toutes les obligations prescrites par le présent titre.
+1° A ce que les revenus disponibles du malade soient employés à adoucir son sort, à accélérer sa guérison et à favoriser sa
+réinsertion ;
+
+2° A ce que ce malade soit rendu au libre exercice de la totalité de ses droits aussitôt que son état le permettra.
+
+Hormis le conjoint, ce curateur ne peut pas être choisi parmi les héritiers présomptifs de la personne hospitalisée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Loi n°90-527 du 27 juin 1990 - art. 2 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -11934,26 +12061,37 @@ les aliénés, à toutes les obligations prescrites par le présent titre.
 	  - Code de la santé publique - art. L339 (Ab)
 	  - Code de la santé publique - art. L355 (M)
 
-	**Liens**:
 
-	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
+###### Article L330-1
 
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 2
-
-
-###### Article L331
-
-Des décrets en Conseil d'Etat déterminent les conditions auxquelles sont accordées les autorisations énoncées en l'article
-précédent, les cas où elles peuvent être retirées, et les obligations auxquelles sont soumis les établissements autorisés.
+Hormis les cas prévus à la section II du chapitre III du présent titre, l'hospitalisation ou la sortie d'un mineur sont
+demandées, selon les situations, par les personnes titulaires de l'exercice de l'autorité parentale, par le conseil de
+famille ou, en l'absence du conseil de famille, par le tuteur avec l'autorisation du juge des tutelles qui se prononce sans
+délai. En cas de désaccord entre les titulaires de l'exercice de l'autorité parentale, le juge des tutelles statue.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Créé par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Loi n°90-527 du 27 juin 1990 - art. 2 () JORF 30 juin 1990
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-10 (V)
+
+
+#### Chapitre 2 : Des établissements recevant des personnes hospitalisées en raison de troubles mentaux.
+
+###### Article L331
+
+Dans chaque département, un ou plusieurs établissements sont seuls habilités par le préfet à soigner les personnes atteintes
+de troubles mentaux qui relèvent du chapitre III du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
 
 	**Cité par**:
 
@@ -11975,6 +12113,10 @@ précédent, les cas où elles peuvent être retirées, et les obligations auxqu
 	  - Code de la santé publique - art. R711-19 (Ab)
 	  - Code de la santé publique - art. R712-77 (M)
 
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L3222-1 (V)
@@ -11982,39 +12124,24 @@ précédent, les cas où elles peuvent être retirées, et les obligations auxqu
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique L355 : sanctions
 
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 6
-
-
-##### Paragraphe 3 : Dispositions relatives au contrôle.
 
 ###### Article L332
 
-Le préfet [*autorité compétente*] et les personnes spécialement déléguées à cet effet par lui ou par le ministre de la Santé
-publique et de la Population, le président du tribunal, le procureur de la République, le juge du tribunal d'instance, le
-maire de la commune, sont chargés de visiter les établissements publics et privés consacrés aux aliénés ou accueillant des
-malades soignés pour troubles mentaux [*asiles*].
-
-Ils recevront les réclamations des personnes qui y sont placées, et prendront, à leur égard, tous renseignements propres à
-faire connaître leur position.
-
-Les établissements visés au premier alinéa sont visités, à des jours indéterminés, une fois au moins chaque trimestre
-[*périodicité*], par le procureur de la République. En outre, ces établissements sont visités, une fois par année, par les
-autres autorités visées au même alinéa. Il en est rendu compte aux autorités compétentes.
+Lorsqu'un malade hospitalisé dans un établissement autre que ceux mentionnés à l'article L. 331 est atteint de troubles
+mentaux tels que définis soit aux 1° et 2° de l'article L. 333, soit à l'article L. 342, le directeur de l'établissement doit
+prendre, dans les quarante-huit heures [*délai*], toutes les mesures nécessaires à la mise en oeuvre de l'une des procédures
+prévues aux articles L. 333, L. 333-2, L. 342 ou L. 343.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
 	**Modifié par**:
 
-	  - Loi n°81-82 du 2 février 1981 - art. 73 () JORF 3 FEVRIER 1981
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cité par**:
 
@@ -12026,862 +12153,239 @@ autres autorités visées au même alinéa. Il en est rendu compte aux autorité
 
 	  - Code de la santé publique - art. L3222-2 (V)
 
+	**Cite**:
+
+	  - Code de la santé publique - art. L331 (M)
+	  - Code de la santé publique - art. L333 (M)
+	  - Code de la santé publique - art. L333-2 (Ab)
+	  - Code de la santé publique - art. L342 (M)
+	  - Code de la santé publique - art. L343 (M)
+
+
+###### Article L332-1
+
+Un règlement est établi pour chaque établissement ou unité d'hospitalisation accueillant des malades atteints de troubles
+mentaux.
+
+Ce règlement doit être conforme à un règlement intérieur type établi par voie réglementaire pour la catégorie d'établissement
+concernée.
+
+Il doit être approuvé par le préfet.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3222-3 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L326-3 (Ab)
+
+
+###### Article L332-2
+
+Les établissements accueillant des malades atteints de troubles mentaux sont visités sans publicité préalable une fois par
+semestre par le préfet ou son représentant, le juge du tribunal d'instance, le président du tribunal de grande instance ou
+son délégué, le maire de la commune ou son représentant et, au moins une fois par trimestre, par le procureur de la
+République dans le ressort duquel est situé l'établissement [*périodicité*].
+
+Ces autorités reçoivent les réclamations des personnes hospitalisées ou de leur conseil et procèdent, le cas échéant, à
+toutes vérifications utiles. Elles contrôlent notamment la bonne application des dispositions des articles L. 326-1, L. 326-2
+et L. 326-3 et signent le registre de l'établissement dans les conditions prévues à l'article L. 341.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3222-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L326-1 (M)
+	  - Code de la santé publique - art. L326-2 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L326-3 (Ab)
+	  - Code de la santé publique - art. L332-3 (Ab)
+	  - Code de la santé publique - art. L341 (Ab)
+
+
+###### Article L332-3
+
+Sans préjudice des dispositions de l'article L. 332-2, il est institué dans chaque département une commission départementale
+des hospitalisations psychiatriques chargée d'examiner la situation des personnes hospitalisées en raison de troubles mentaux
+au regard du respect des libertés individuelles et de la dignité des personnes.
+
+Cette commission se compose [*composition - membres*] :
+
+1° D'un psychiatre désigné par le procureur général près la cour d'appel ;
+
+2° D'un magistrat désigné par le premier président de la cour d'appel ;
+
+3° De deux personnalités qualifiées désignées l'une par le préfet, l'autre par le président du conseil général, dont un
+psychiatre et un représentant d'une organisation représentative des familles de personnes atteintes de troubles mentaux.
+
+Seul l'un des deux psychiatres mentionnés aux 1° et 3° pourra exercer dans un établissement visé à l'article L. 331.
+
+Les membres de la commission ne peuvent être membres du conseil d'administration d'un établissement hospitalier accueillant
+des malades atteints de troubles mentaux dans le département du ressort de la commission [*incompatibilité*].
+
+Ils ne peuvent, en dehors du cadre des attributions de la commission, faire état des informations qu'ils ont pu recueillir
+sur les personnes dont la situation leur a été présentée. Sous réserve des dispositions des 4° et 6° de l'article L. 332-4,
+ils sont soumis au secret professionnel dans les conditions prévues par l'article 378 du code pénal.
+
+La commission désigne, en son sein, son président, dans des conditions fixées par voie réglementaire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 23 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 24.*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Cité par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 4 (V)
+	  - Décret n°91-981 du 25 septembre 1991 - art. 1 (Ab)
+	  - Décret n°91-981 du 25 septembre 1991 - art. 2 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 24 (Ab)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+	  - Code de la santé publique - art. L326-3 (Ab)
+	  - Code de la santé publique - art. L334 (Ab)
+	  - Code de la santé publique - art. L337 (Ab)
+	  - Code de la santé publique - art. L338 (Ab)
+	  - Code de la santé publique - art. L340 (Ab)
+	  - Code de la santé publique - art. L342 (Ab)
+	  - Code de la santé publique - art. L344 (Ab)
+	  - Code de la santé publique - art. L345 (Ab)
+	  - Code de la santé publique - art. L348 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 9 (Ab)
+
+	**Cite**:
+
+	  - Code pénal 378
+	  - Code de la santé publique - art. L331 (M)
+	  - Code de la santé publique - art. L332-2 (Ab)
+	  - Code de la santé publique - art. L332-4 (Ab)
+
+
+###### Article L332-4
+
+La commission prévue à l'article L. 332-3 [*attributions*] :
+
+1° Est informée, dans les conditions prévues au chapitre III du présent titre, de toute hospitalisation sans le consentement
+du malade, de tout renouvellement et de toute levée d'hospitalisation ;
+
+2° Etablit chaque année un bilan de l'utilisation des procédures d'urgence visées aux articles L. 333-2 et L. 343 ;
+
+3° Examine, en tant que de besoin, la situation des personnes hospitalisées et, obligatoirement, celle de toutes personnes
+dont l'hospitalisation sur demande d'un tiers se prolonge au-delà de trois mois ;
+
+4° Saisit, en tant que de besoin, le préfet ou le procureur de la République de la situation des personnes hospitalisées ;
+
+5° Visite les établissements mentionnés à l'article L. 331, reçoit les réclamations des personnes hospitalisées ou de leur
+conseil, vérifie les informations transcrites sur le registre prévu à l'article L. 341 et s'assure que toutes les mentions
+prescrites par la loi y sont portées ;
+
+6° Adresse, chaque année, le rapport de son activité au préfet et au procureur de la République et le présente au conseil
+départemental de santé mentale ;
+
+7° Peut proposer au président du tribunal de grande instance du lieu de la situation de l'établissement d'ordonner la sortie
+immédiate, en les formes et modalités prévues à l'article L. 351, de toute personne hospitalisée sans son consentement ou
+retenue dans un établissement défini à l'article L. 331.
+
+Les personnels des établissements hospitaliers sont tenus de répondre à toutes demandes d'information formulées par la
+commission.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 23 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 25.*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°91-981 du 25 septembre 1991 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°91-981 du 25 septembre 1991 - art. 10 (Ab)
+	  - Décret n°91-981 du 25 septembre 1991 - art. 8 (Ab)
+	  - Arrêté du 22 novembre 1991 - art. 1 (V)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 25 (Ab)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+	  - Code de la santé publique - art. L332-3 (Ab)
+	  - Code de la santé publique - art. L341 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3223-1 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L331 (M)
+	  - Code de la santé publique - art. L333-2 (Ab)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L351 (M)
+
 
 #### Chapitre 3 : Modes de placement dans les établissements de soins
 
-##### Section 1 : Placement volontaire.
-
-###### Article L333
-
-Les chefs ou préposés responsables des établissements publics et les directeurs des établissements privés et consacrés aux
-aliénés ne peuvent recevoir [*interdiction*] une personne atteinte d'aliénation mentale s'il ne leur est remis [*documents
-obligatoires*] :
-
-1° Une demande d'admission contenant les nom, profession, âge et domicile, tant de la personne qui la forme que de celle dont
-le placement est réclamé, et l'indication du degré de parenté ou, à défaut, de la nature des relations qui existent entre
-elles [*mentions*].
-
-La demande sera écrite et signée par celui qui la formera et, s'il ne sait pas écrire, elle sera reçue par le maire ou le
-commissaire de police, qui en donnera acte.
-
-Les chefs, préposés ou directeurs, doivent s'assurer sous leur responsabilité de l'individualité de la personne qui aura
-formé la demande, lorsque cette demande n'aura pas été reçue par le maire ou le commissaire de police.
-
-Si la demande d'admission est formée par le tuteur d'un interdit, il devra fournir à l'appui un extrait du jugement
-d'interdiction ;
-
-2° Un certificat de médecin constatant l'état mental de la personne à placer, et indiquant les particularités de sa maladie
-et la nécessité de faire traiter la personne désignée dans un établissement d'aliénés, et de l'y tenir renfermée.
-
-Ce certificat ne pourra être admis, s'il a été délivré plus de quinze jours avant sa remise au chef ou directeur [*délai de
-validité*] ; s'il est signé d'un médecin attaché à l'établissement, ou si le médecin signataire est parent ou allié, au
-second degré inclusivement, des chefs ou propriétaires de l'établissement, ou de la personne qui fera effectuer le placement
-[*condition de forme*].
-
-En cas d'urgence, les chefs des établissements publics pourront se dispenser d'exiger le certificat du médecin ;
-
-3° Le passeport ou toute autre pièce propre à constater l'individualité de la personne à placer.
-
-Il sera fait mention de toutes les pièces produites dans un bulletin d'entrée, qui sera renvoyé, dans les vingt-quatre
-heures, avec un certificat du médecin de l'établissement, et la copie de celui ci-dessus mentionné au préfet ou au sous-
-préfet dans les communes chefs-lieux de département ou d'arrondissement, et aux maires dans les autres communes. Le sous-
-préfet, ou le maire, en fera immédiatement l'envoi au préfet.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°70-415 du 8 mai 1970 - art. 12 (V) JORF 17 mai 1970
-
-	**Cité par**:
-
-	  - Décret n°70-415 du 8 mai 1970 - art. 12 (V)
-	  - Arrêté du 26 février 1992 - art. 2 (V)
-	  - Code de la santé publique - art. L209-5 (Ab)
-	  - Code de la santé publique - art. L332 (Ab)
-	  - Code de la santé publique - art. L333-1 (Ab)
-	  - Code de la santé publique - art. L334 (Ab)
-	  - Code de la santé publique - art. L336 (M)
-	  - Code de la santé publique - art. L337 (M)
-	  - Code de la santé publique - art. L338 (Ab)
-	  - Code de la santé publique - art. L340 (M)
-	  - Code de la santé publique - art. L353-4 (Ab)
-	  - Code de la santé publique - art. L355 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3212-1 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 8
-
-
-###### Article L334
-
-Si le placement est fait dans un établissement privé, le préfet, dans les trois jours de la réception du bulletin [*délai*],
-charge un ou plusieurs hommes de l'art de visiter la personne désignée dans ce bulletin, à l'effet de constater son état
-mental et d'en faire rapport sur-le-champ [*contrôle*]. Il peut leur adjoindre telle autre personne qu'il désignera.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3212-4 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L341 (Ab)
-	  - Code de la santé publique - art. L353 (Ab)
-	  - Code de la santé publique - art. L354 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 9
-
-
-###### Article L335
-
-Dans le même délai [*que l'article L. 336*], le préfet notifie administrativement les nom, profession et domicile, tant de la
-personne placée que de celle qui aura demandé le placement, et les causes du placement : 1° au procureur de la République de
-l'arrondissement du domicile de la personne placée ; 2° au procureur de la République de l'arrondissement de la situation de
-l'établissement. Ces dispositions sont communes aux établissements publics et privés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3212-5 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L338 (Ab)
-	  - Code de la santé publique - art. L340 (Ab)
-	  - Code de la santé publique - art. L347 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 10
-
-
-###### Article L336
-
-Quinze jours après le placement d'une personne dans un établissement public ou privé, il sera adressé au préfet, conformément
-au dernier paragraphe de l'article L. 333, un nouveau certificat du médecin de l'établissement ; ce certificat confirmera ou
-rectifiera, s'il y a lieu, les observations contenues dans le premier certificat, en indiquant le retour plus ou moins
-fréquent des accès ou des actes de démence.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3212-6 (V)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L333 (M)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L337 (M)
-	  - Code de la santé publique - art. L355 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 11
-
-
-###### Article L337
-
-Il y aura, dans chaque établissement, un registre coté et paraphé par le maire, sur lequel seront immédiatement inscrits les
-nom, profession, âge et domicile des personnes placées dans les établissements, la mention du jugement d'interdiction, s'il a
-été prononcé, et le nom de leur tuteur ; la date de leur placement, les nom, profession et demeure de la personne, parente ou
-non parente, qui l'aura demandé. Seront également transcrits sur ce registre : 1° le certificat du médecin, joint à la
-demande d'admission ; 2° ceux que le médecin de l'établissement devra adresser à l'autorité, conformément aux articles L. 333
-et 336 ci-dessus.
-
-Le médecin sera tenu de consigner sur ce registre, au moins tous les mois [*périodicité*], les changements survenus dans
-l'état mental de chaque malade. Ce registre constatera également les sorties et les décès.
-
-Ce registre sera soumis aux personnes qui, d'après l'article L. 332, ont le droit de visiter l'établissement lorsqu'elles se
-présenteront pour en faire la visite [*information*] ; après l'avoir terminée, elles apposeront sur le registre leur visa,
-leur signature et leurs observations, s'il y a lieu.
-
-**Nota:**
-
-Dans sa décision n° 2011-202 QPC du 2 décembre 2011 (NOR : CSCX11322870S), le Conseil constitutionnel a déclaré contraire à
-la Constitution l'article L. 337 du code de la santé publique, dans sa rédaction antérieure à la loi n° 90-527 du 27 juin
-1990. La déclaration d'inconstitutionnalité prend effet à compter de la publication de la présente décision dans les
-conditions fixées par son considérant 16.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3212-7 (VT)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L332 (M)
-	  - Code de la santé publique - art. L333 (M)
-	  - Code de la santé publique - art. L336 (M)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L338 (Ab)
-	  - Code de la santé publique - art. L339 (M)
-	  - Code de la santé publique - art. L341 (Ab)
-	  - Code de la santé publique - art. L343 (M)
-	  - Code de la santé publique - art. L348 (M)
-	  - Code de la santé publique - art. L352 (Ab)
-	  - Code de la santé publique - art. L353 (Ab)
-	  - Code de la santé publique - art. L354 (Ab)
-	  - Code de la santé publique - art. L355 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 12
-
-
-###### Article L338
-
-Toute personne placée dans un établissement d'aliénés cessera d'y être retenue aussitôt que les médecins de l'établissement
-auront déclaré, sur le registre énoncé en l'article précédent, que la guérison est obtenue.
-
-S'il s'agit d'un mineur ou d'un interdit, il sera donné immédiatement avis de la déclaration des médecins aux personnes
-auxquelles il devra être remis, et au procureur de la République.
-
-**Nota:**
-
-Dans sa décision n° 2011-202 QPC du 2 décembre 2011 (NOR : CSCX11322870S), le Conseil constitutionnel a déclaré contraire à
-la Constitution l'article L. 338 du code de la santé publique, dans sa rédaction antérieure à la loi n° 90-527 du 27 juin
-1990. La déclaration d'inconstitutionnalité prend effet à compter de la publication de la présente décision dans les
-conditions fixées par son considérant 16.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3212-8 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L337 (Ab)
-	  - Code de la santé publique - art. L341 (Ab)
-	  - Code de la santé publique - art. L352 (Ab)
-	  - Code de la santé publique - art. L353 (Ab)
-	  - Code de la santé publique - art. L354 (M)
-	  - Code de la santé publique - art. L355 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 13
-
-
-###### Article L339
-
-Avant même que les médecins aient déclaré la guérison, toute personne placée dans un établissement d'aliénés cessera
-également d'y être retenue, dès que la sortie sera requise par l'une des personnes ci-après désignées, savoir :
-
-1° Le curateur nommé en exécution de l'article L. 353 ci-après ;
-
-2° L'époux ou l'épouse ;
-
-3° S'il n'y a pas d'époux ou d'épouse, les ascendants ;
-
-4° S'il n'y a pas d'ascendants, les descendants ;
-
-5° La personne qui aura signé la demande d'admission, à moins qu'un parent n'ait déclaré s'opposer à ce qu'elle use de cette
-faculté sans l'assentiment du conseil de famille ;
-
-6° Toute personne à ce autorisée par le conseil de famille.
-
-S'il résulte d'une opposition notifiée au chef de l'établissement par un ayant droit qu'il y a dissentiment, soit entre les
-ascendants, soit entre les descendants, le conseil de famille prononcera.
-
-Néanmoins, si le médecin de l'établissement est d'avis que l'état mental du malade pourrait compromettre l'ordre public ou la
-sûreté des personnes, il en sera donné préalablement connaissance au maire, qui pourra ordonner immédiatement un sursis
-provisoire à la sortie à la charge d'en référer, dans les vingt-quatre heures, au préfet. Ce sursis provisoire cessera de
-plein droit à l'expiration de la quinzaine [*délai*], si le préfet n'a pas, dans ce délai, donné d'ordres contraires,
-conformément à l'article L. 346 ci-après. L'ordre du maire sera transcrit sur le registre tenu en exécution de l'article L.
-337 ci-dessus.
-
-En cas de minorité, la sortie ne pourra être requise par les père et mère qui ne se trouvent pas dans l'un des cas prévus à
-l'article 373 du Code civil ; à leur défaut, elle le sera par le tuteur. S'il y a dissentiment entre les père et mère, le
-tribunal prononcera. S'ils sont divorcés ou séparés de corps, le droit de requérir la sortie est exercé par celui à qui la
-garde de l'enfant a été confiée.
-
-**Nota:**
-
-Dans sa décision n° 2011-202 QPC du 2 décembre 2011 (NOR : CSCX11322870S), le Conseil constitutionnel a déclaré contraire à
-la Constitution l'article L. 339 du code de la santé publique, dans sa rédaction antérieure à la loi n° 90-527 du 27 juin
-1990. La déclaration d'inconstitutionnalité prend effet à compter de la publication de la présente décision dans les
-conditions fixées par son considérant 16.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 6 () JORF 4 janvier 1968
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°91-981 du 25 septembre 1991 - art. 9 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°91-981 du 25 septembre 1991 - art. 9 (Ab)
-	  - Code de la santé publique - art. L340 (Ab)
-	  - Code de la santé publique - art. L352 (Ab)
-	  - Code de la santé publique - art. L354 (M)
-
-	**Cite**:
-
-	  - Code civil - art. 373 (M)
-	  - Code de la santé publique - art. L337 (M)
-	  - Code de la santé publique - art. L346 (M)
-	  - Code de la santé publique - art. L353 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3212-9 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 14
-
-
-###### Article L340
-
-Dans les vingt-quatre heures de la sortie, les chefs, préposés ou directeurs en donneront avis, aux fonctionnaires désignés
-dans le dernier paragraphe de l'article L. 333, et leur feront connaître le nom et la résidence des personnes qui auront
-retiré le malade, son état mental au moment de la sortie, et, autant que possible, l'indication du lieu où il aura été
-conduit.
-
-**Nota:**
-
-Dans sa décision n° 2011-202 QPC du 2 décembre 2011 (NOR : CSCX11322870S), le Conseil constitutionnel a déclaré contraire à
-la Constitution l'article L. 340 du code de la santé publique, dans sa rédaction antérieure à la loi n° 90-527 du 27 juin
-1990. La déclaration d'inconstitutionnalité prend effet à compter de la publication de la présente décision dans les
-conditions fixées par son considérant 16.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3212-10 (VT)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L333 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L353 (Ab)
-	  - Code de la santé publique - art. L355 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 15
-
-
-###### Article L341
-
-Le préfet pourra toujours ordonner la sortie immédiate des personnes placées volontairement dans les établissements
-d'aliénés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Décret n°91-981 du 25 septembre 1991 - art. 6 (Ab)
-	  - Code de la santé publique - art. L332-2 (Ab)
-	  - Code de la santé publique - art. L332-4 (Ab)
-	  - Code de la santé publique - art. L338 (Ab)
-	  - Code de la santé publique - art. L342 (Ab)
-	  - Code de la santé publique - art. L353 (Ab)
-	  - Code de la santé publique - art. L354 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3212-11 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 16
-
-
-###### Article L342
-
-Le mineur ne pourra être remis qu'à ceux sous l'autorité desquels il est placé par la loi, à moins qu'il n'en soit autrement
-ordonné par le tribunal, à la requête du procureur de la République, sur avis du médecin traitant de l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 7 () JORF 4 janvier 1968
-
-	**Cité par**:
-
-	  - Arrêté du 14 décembre 1986 - art. 3 (V)
-	  - CODE DE PROCEDURE PENALE - art. D398 (V)
-	  - Code de la santé publique - art. L209-5 (Ab)
-	  - Code de la santé publique - art. L332 (Ab)
-	  - Code de la santé publique - art. L339 (Ab)
-	  - Code de la santé publique - art. L343 (Ab)
-	  - Code de la santé publique - art. L348 (Ab)
-	  - Code de la santé publique - art. L353 (Ab)
-	  - Code de la santé publique - art. L354 (Ab)
-	  - Code de la santé publique - art. L355 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3213-1 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 17
-
-
-##### Section 2 : Placement d'office.
-
-###### Article L343
-
-A Paris, le préfet de police [*autorité compétente*], et, dans les départements, les préfets ordonneront d'office le
-placement, dans un établissement d'aliénés, de toute personne interdite ou non interdite, dont l'état d'aliénation
-compromettrait l'ordre public ou la sûreté des personnes.
-
-Les ordres des préfets seront motivés et devront énoncer les circonstances qui les auront rendus nécessaires. Ces ordres,
-ainsi que ceux qui seront donnés conformément aux articles L. 344, 345, 346 et 348, seront inscrits sur un registre semblable
-à celui qui est prescrit par l'article L. 337 ci-dessus, dont toutes les dispositions seront applicables aux individus placés
-d'office.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Décret n°70-415 du 8 mai 1970 - art. 2 (V)
-	  - Arrêté du 22 novembre 1991 - art. 1 (V)
-	  - Arrêté du 14 décembre 1986 - art. 3 (V)
-	  - Arrêté du 14 octobre 1986 - art. 1 (V)
-	  - Code de la santé publique - art. L332 (Ab)
-	  - Code de la santé publique - art. L332-4 (Ab)
-	  - Code de la santé publique - art. L342 (Ab)
-	  - Code de la santé publique - art. L347 (M)
-	  - Code de la santé publique - art. L349 (M)
-	  - Code de la santé publique - art. L354 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3213-2 (V)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L337 (M)
-	  - Code de la santé publique - art. L344 (M)
-	  - Code de la santé publique - art. L345 (M)
-	  - Code de la santé publique - art. L346 (M)
-	  - Code de la santé publique - art. L348 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 18
-
-
-###### Article L344
-
-En cas de danger imminent, attesté par le certificat d'un médecin ou par la notoriété publique, les commissaires de police à
-Paris, et les maires dans les autres communes, ordonneront, à l'égard des personnes atteintes d'aliénation mentale, toutes
-les mesures provisoires nécessaires, à la charge d'en référer dans les vingt-quatre heures au préfet, qui statuera sans
-délai.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Arrêté du 14 décembre 1986 - art. 3 (V)
-	  - Arrêté du 14 octobre 1986 - art. 1 (V)
-	  - Code de la santé publique - art. L343 (M)
-	  - Code de la santé publique - art. L347 (M)
-	  - Code de la santé publique - art. L349 (M)
-	  - Code de la santé publique - art. L353 (Ab)
-	  - Code de la santé publique - art. L354 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3213-3 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 19
-
-
-###### Article L345
-
-Les chefs, directeurs ou préposés responsables des établissements seront tenus d'adresser aux préfets, dans le premier mois
-de chaque semestre, un rapport rédigé par le médecin de l'établissement sur l'état de chaque personne qui y sera retenue, sur
-la nature de sa maladie et les résultats du traitement.
-
-Le préfet prononcera sur chacune individuellement, ordonnera sa maintenue dans l'établissement ou sa sortie.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Arrêté du 14 décembre 1986 - art. 3 (V)
-	  - Arrêté du 14 octobre 1986 - art. 1 (V)
-	  - Arrêté du 14 octobre 1986 - art. 16 (V)
-	  - Code de la santé publique - art. L342 (Ab)
-	  - Code de la santé publique - art. L343 (M)
-	  - Code de la santé publique - art. L347 (M)
-	  - Code de la santé publique - art. L348 (M)
-	  - Code de la santé publique - art. L352 (Ab)
-	  - Code de la santé publique - art. L354 (M)
-	  - Code de la santé publique - art. L355 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3213-4 (VT)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 20
-
-
-###### Article L346
-
-A l'égard des personnes dont le placement aura été volontaire, et dans le cas où leur état mental pourrait compromettre
-l'ordre public ou la sûreté des personnes, le préfet [*autorité compétente*] pourra, dans les formes tracées par le 2ème
-alinéa de l'article L. 343, décerner un ordre spécial, à l'effet d'empêcher qu'elles ne sortent de l'établissement sans son
-autorisation, si ce n'est pour être placées dans un autre établissement.
-
-Les chefs, directeurs ou préposés responsables seront tenus de se conformer à cet ordre [*obligation*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Arrêté du 14 décembre 1986 - art. 3 (V)
-	  - Arrêté du 14 octobre 1986 - art. 1 (V)
-	  - Code de la santé publique - art. L339 (M)
-	  - Code de la santé publique - art. L342 (Ab)
-	  - Code de la santé publique - art. L343 (M)
-	  - Code de la santé publique - art. L347 (M)
-	  - Code de la santé publique - art. L352 (Ab)
-	  - Code de la santé publique - art. L353 (Ab)
-	  - Code de la santé publique - art. L355 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3213-5 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
-
-	**Cite**:
-
-	  - Code de la santé publique L343 AL. 2
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 21
-
-
-###### Article L347
-
-Les procureurs de la République seront informés de tous les ordres donnés en vertu des articles L. 343, 344, 345 et 346 ci-
-dessus.
-
-Ces ordres seront notifiés au maire du domicile des personnes soumises au placement, qui en donnera immédiatement avis aux
-familles.
-
-Il en sera rendu compte au ministre de l'Intérieur. Les diverses notifications prescrites par le présent article seront
-faites dans les formes et délais énoncés en l'article L. 335 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Arrêté du 14 décembre 1986 - art. 3 (V)
-	  - Arrêté du 14 octobre 1986 - art. 1 (V)
-	  - Code de la santé publique - art. L339 (Ab)
-	  - Code de la santé publique - art. L342 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3213-6 (M)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L335 (M)
-	  - Code de la santé publique - art. L343 (M)
-	  - Code de la santé publique - art. L344 (M)
-	  - Code de la santé publique - art. L345 (M)
-	  - Code de la santé publique - art. L346 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 22
-
-
-###### Article L348
-
-Si dans l'intervalle qui s'écoulera entre les rapports ordonnés par l'article L. 345, les médecins déclarent, sur le registre
-tenu en exécution de l'article L. 337, que la sortie peut être ordonnée, les chefs, directeurs ou préposés responsables des
-établissements, seront tenus, sous peine d'être poursuivis conformément à l'article L. 352 ci-après, d'en référer
-[*obligation*] aussitôt au préfet, qui statuera sans délai.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Arrêté du 14 décembre 1986 - art. 3 (V)
-	  - Arrêté du 14 octobre 1986 - art. 1 (V)
-	  - Arrêté du 14 octobre 1986 - art. 16 (V)
-	  - Code de la santé publique - art. L342 (Ab)
-	  - Code de la santé publique - art. L343 (M)
-	  - Code de la santé publique - art. L348-1 (Ab)
-	  - Code de la santé publique - art. L354 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3213-7 (M)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L337 (M)
-	  - Code de la santé publique - art. L345 (M)
-	  - Code de la santé publique - art. L352 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 23
-
-
-###### Article L349
-
-Les hospices et hôpitaux civils seront tenus [*obligation*] de recevoir provisoirement les personnes qui leur seront
-adressées en vertu des articles L. 343 et 344, jusqu'à ce qu'elles soient dirigées sur l'établissement spécial destiné à les
-recevoir, aux termes de l'article L. 326, ou pendant le trajet qu'elles feront pour s'y rendre.
-
-Dans toutes les communes où il existe des hospices ou hôpitaux, les aliénés ne pourront être déposés ailleurs que dans ces
-hospices ou hôpitaux.
-
-Dans les lieux où il n'en existe pas, les maires devront pourvoir à leur logement, soit dans une hôtellerie, soit dans un
-local loué à cet effet.
-
-Dans aucun cas, les aliénés ne peuvent être ni conduits avec les condamnés ou les prévenus, ni déposés dans une prison
-[*interdiction*].
-
-Ces dispositions sont applicables à tous les aliénés dirigés par l'administration sur un établissement public ou privé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Décret n°91-981 du 25 septembre 1991 - art. 8 (Ab)
-	  - Arrêté du 14 décembre 1986 - art. 3 (V)
-	  - Arrêté du 14 octobre 1986 - art. 1 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3213-9 (V)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L326 (M)
-	  - Code de la santé publique - art. L343 (M)
-	  - Code de la santé publique - art. L344 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 24
-
-
 ##### Section 3 : Dispositions communes *au placement volontaire ou d'office*.
-
-###### Article L350
-
-Les aliénés dont le placement aura été ordonné par le préfet, et dont les familles n'auront pas demandé l'admission dans un
-établissement privé, seront conduits dans l'établissement appartenant au département [*lieu*], ou avec lequel il aura traité.
-
-Les aliénés dont l'état mental ne compromettrait point l'ordre public ou la sûreté des personnes y seront également admis,
-dans les formes, dans les circonstances et aux conditions qui seront réglées par le conseil général, sur la proposition du
-préfet, et approuvées par le ministre.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3211-11 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L341 (Ab)
-	  - Code de la santé publique - art. L342 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 25
-
-
-###### Article L351
-
-Toute personne placée ou retenue dans quelque établissement que ce soit, public ou privé, consacré aux aliénés ou accueillant
-des malades soignés pour troubles mentaux, son tuteur si elle est mineure, son tuteur ou curateur, si, majeure, elle a été
-mise en tutelle ou en curatelle, son conjoint, tout parent, allié ou ami, et éventuellement le curateur à la personne,
-désigné en vertu de l'article suivant [*requérant*], pourront, à quelque époque que ce soit, se pourvoir par simple requête
-devant le président du tribunal de grande instance du lieu de la situation de l'établissement qui, statuant en la forme des
-référés après débat contradictoire et après les vérifications nécessaires, ordonnera, s'il y a lieu, la sortie immédiate.
-
-Les personnes qui auront demandé le placement et le procureur de la république, d'office, pourront se pourvoir aux mêmes
-fins.
-
-La requête, le jugement et les autres actes auxquels la réclamation pourrait donner lieu, sera visés pour timbre et
-enregistrés en débat.
-
-Aucune requête, aucune réclamation adressée, soit à l'autorité judiciaire, soit à l'autorité administrative, ne pourront être
-supprimées ou retenues par des chefs d'établissements, sous les peines portées à l'article L. 355 ci-après.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Loi n°81-82 du 2 février 1981 - art. 74 () JORF 3 FEVRIER 1981
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3211-12 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L332-4 (Ab)
-	  - Code de la santé publique - art. L352 (Ab)
-	  - Code de la santé publique - art. L354 (M)
-	  - Code de la santé publique - art. L355 (M)
-
 
 ###### Article L352
 
@@ -12915,59 +12419,997 @@ Ce curateur ne pourra être choisi parmi les héritiers présomptifs de la perso
 	  - Loi n°1838-06-30 ART. 38
 
 
-###### Article L352-1
+#### Chapitre 3 : Modes d'hospitalisation sans consentement dans les établissements
 
-Il peut être constitué, suivant les cas, et conformément aux articles 492 et 508 du Code civil, une tutelle ou une curatelle
-pour la personne placée dans un des établissements [*de soins*] visés au présent chapitre.
+##### Section 1 : Hospitalisation sur demande d'un tiers.
+
+###### Article L333
+
+Une personne atteinte de troubles mentaux ne peut être hospitalisée sans son consentement à la demande d'un tiers que si : 
+
+1° Ses troubles rendent impossible son consentement ; 
+
+2° Son état impose des soins immédiats assortis d'une surveillance constante en milieu hospitalier. 
+
+La demande d'admission est présentée soit par un membre de la famille du malade, soit par une personne susceptible d'agir
+dans l'intérêt de celui-ci, à l'exclusion des personnels soignants dès lors qu'ils exercent dans l'établissement d'accueil. 
+
+Cette demande doit être manuscrite et signée par la personne qui la formule. Si cette dernière ne sait pas écrire, la demande
+est reçue par le maire, le commissaire de police ou le directeur de l'établissement qui en donne acte. Elle comporte les nom,
+prénoms, profession, âge et domicile tant de la personne qui demande l'hospitalisation que de celle dont l'hospitalisation
+est demandée et l'indication de la nature des relations qui existent entre elles ainsi que, s'il y a lieu, de leur degré de
+parenté. 
+
+La demande d'admission est accompagnée de deux certificats médicaux datant de moins de quinze jours et circonstanciés,
+attestant que les conditions prévues par les deuxième et troisième alinéas sont remplies    . 
+
+Le premier certificat médical ne peut être établi que par un médecin n'exerçant pas dans l'établissement accueillant le
+malade ; il constate l'état mental de la personne à soigner, indique les particularités de sa maladie et la nécessité de la
+faire hospitaliser sans son consentement. Il doit être confirmé par un certificat d'un deuxième médecin qui peut exercer dans
+l'établissement accueillant le malade. Les deux médecins ne peuvent être parents ou alliés, au quatrième degré inclusivement,
+ni entre eux, ni des directeurs des établissements mentionnés à l'article L. 331, ni de la personne ayant demandé
+l'hospitalisation ou de la personne hospitalisée.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Cité par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°70-415 du 8 mai 1970 - art. 12 (V)
+	  - Arrêté du 26 février 1992 - art. 2 (V)
+	  - Code de la santé publique - art. L209-5 (Ab)
+	  - Code de la santé publique - art. L332 (Ab)
+	  - Code de la santé publique - art. L333-1 (Ab)
+	  - Code de la santé publique - art. L334 (Ab)
+	  - Code de la santé publique - art. L336 (M)
+	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L338 (Ab)
+	  - Code de la santé publique - art. L340 (M)
+	  - Code de la santé publique - art. L353-4 (Ab)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L331 (M)
+
+
+###### Article L333-1
+
+Avant d'admettre une personne en hospitalisation sur demande d'un tiers, le directeur de l'établissement vérifie que la
+demande a été établie conformément aux dispositions de l'article L. 333 ou de l'article L. 333-2 et s'assure de l'identité de
+la personne pour laquelle l'hospitalisation est demandée et de celle de la personne qui demande l'hospitalisation. Si la
+demande d'admission d'un majeur protégé est formulée par son tuteur ou curateur, celui-ci doit fournir à l'appui de sa
+demande un extrait du jugement de mise sous tutelle ou curatelle. 
+
+Il est fait mention   de toutes les pièces produites dans le bulletin d'entrée.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Loi n°68-5 du 3 janvier 1968 - art. 9 () JORF 4 janvier 1968
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
 
 	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-2 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L333 (M)
+	  - Code de la santé publique - art. L333-2 (Ab)
+
+
+###### Article L333-2
+
+A titre exceptionnel et en cas de péril imminent pour la santé du malade dûment constaté par le médecin, le directeur de
+l'établissement pourra prononcer l'admission au vu d'un seul certificat médical émanant éventuellement d'un médecin exerçant
+dans l'établissement d'accueil.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Cité par**:
+
+	  - Arrêté du 22 novembre 1991 - art. 1 (V)
+	  - Code de la santé publique - art. L332 (Ab)
+	  - Code de la santé publique - art. L332-4 (Ab)
+	  - Code de la santé publique - art. L333-1 (Ab)
+	  - Code de la santé publique - art. L338 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-3 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+
+
+###### Article L334
+
+Dans les vingt-quatre heures [*délai*] suivant l'admission, il est établi par un psychiatre de l'établissement d'accueil, qui
+ne peut en aucun cas être un des médecins mentionnés au dernier alinéa de l'article L. 333, un nouveau certificat médical
+constatant l'état mental de la personne et confirmant ou infirmant la nécessité de maintenir l'hospitalisation sur demande
+d'un tiers.
+
+Dès réception du certificat médical, le directeur de l'établissement adresse ce certificat ainsi que le bulletin et la copie
+des certificats médicaux d'entrée au préfet et à la commission mentionnée à l'article L. 332-3.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L332-3 (M)
+	  - Code de la santé publique - art. L333 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L341 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+
+
+###### Article L335
+
+Dans les trois jours de l'hospitalisation [*délai*], le préfet notifie les nom, prénoms, profession et domicile, tant de la
+personne hospitalisée que de celle qui a demandé l'hospitalisation [*notification*] :
+
+1° Au procureur de la République près le tribunal de grande instance dans le ressort duquel se trouve le domicile de la
+personne hospitalisée ;
+
+2° Au procureur de la République près le tribunal de grande instance dans le ressort duquel est situé l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-5 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L338 (Ab)
+	  - Code de la santé publique - art. L340 (Ab)
+	  - Code de la santé publique - art. L347 (M)
+
+
+###### Article L336
+
+Si l'hospitalisation est faite dans un établissement privé n'assurant pas le service public hospitalier, le préfet, dans les
+trois jours de la réception du bulletin, charge deux psychiatres de visiter la personne désignée dans ce bulletin, à l'effet
+de constater son état et d'en faire rapport sur-le-champ. Il peut leur adjoindre telle autre personne qu'il désignera.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-6 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L355 (M)
+
+
+###### Article L337
+
+Dans les trois jours précédant l'expiration des quinze premiers jours de l'hospitalisation, le malade est examiné par un
+psychiatre de l'établissement d'accueil.
+
+Ce dernier établit un certificat médical circonstancié précisant notamment la nature et l'évolution des troubles et indiquant
+clairement si les conditions de l'hospitalisation sont ou non toujours réunies. Au vu de ce certificat, l'hospitalisation
+peut être maintenue pour une durée maximale d'un mois.
+
+Au-delà de cette durée, l'hospitalisation peut être maintenue pour des périodes maximales d'un mois, renouvelables selon les
+mêmes modalités.
+
+Le certificat médical est adressé aux autorités visées au deuxième alinéa de l'article L. 338 ainsi qu'à la commission
+mentionnée à l'article L. 332-3 et selon les modalités prévues à ce même alinéa.
+
+Faute de production du certificat susvisé, la levée de l'hospitalisation est acquise.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-7 (V)
+	  - Code de la santé publique - art. L3212-7 (VT)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L332-3 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L338 (Ab)
+	  - Code de la santé publique - art. L339 (M)
+	  - Code de la santé publique - art. L341 (Ab)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L348 (M)
+	  - Code de la santé publique - art. L352 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (Ab)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+
+
+###### Article L338
+
+Sans préjudice des dispositions mentionnées au précédent article, il est mis fin à la mesure d'hospitalisation prise en
+application de l'article L. 333 ou de l'article L. 333-2 dès qu'un psychiatre de l'établissement certifie que les conditions
+de l'hospitalisation sur demande d'un tiers ne sont plus réunies et en fait mention sur le registre prévu à l'article L. 341.
+Ce certificat circonstancié doit mentionner l'évolution ou la disparition des troubles ayant justifié l'hospitalisation.
+
+Dans les vingt-quatre heures qui suivent la fin de cette mesure d'hospitalisation, le directeur de l'établissement en informe
+le préfet, la commission mentionnée à l'article L. 332-3, les procureurs de la République mentionnés à l'article L. 335 et la
+personne qui a demandé l'hospitalisation.
+
+Le préfet peut ordonner la levée immédiate d'une hospitalisation à la demande d'un tiers dans les établissements mentionnés à
+l'article L. 331 lorsque les conditions de l'hospitalisation ne sont plus réunies.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-8 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L331 (M)
+	  - Code de la santé publique - art. L332-3 (M)
+	  - Code de la santé publique - art. L333 (M)
+	  - Code de la santé publique - art. L333-2 (Ab)
+	  - Code de la santé publique - art. L335 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L337 (Ab)
+	  - Code de la santé publique - art. L341 (Ab)
+	  - Code de la santé publique - art. L352 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (M)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+
+
+###### Article L339
+
+Toute personne hospitalisée à la demande d'un tiers dans un établissement mentionné à l'article L. 331 cesse également d'y
+être retenue dès que la levée de l'hospitalisation est requise par :
+
+1° Le curateur nommé en application de l'article L. 330 ;
+
+2° Le conjoint ou la personne justifiant qu'elle vit en concubinage avec le malade ;
+
+3° S'il n'y a pas de conjoint, les ascendants ;
+
+4° S'il n'y a pas d'ascendants, les descendants majeurs ;
+
+5° La personne qui a signé la demande d'admission, à moins qu'un parent, jusqu'au sixième degré inclus, n'ait déclaré
+s'opposer à ce qu'elle use de cette faculté sans l'assentiment du conseil de famille ;
+
+6° Toute personne autorisée à cette fin par le conseil de famille ;
+
+7° La commission mentionnée à l'article L. 322-3.
+
+S'il résulte d'une opposition notifiée au chef de l'établissement par un ayant droit qu'il y a dissentiment soit entre les
+ascendants, soit entre les descendants, le conseil de famille se prononcera dans un délai d'un mois.
+
+Néanmoins, si le médecin de l'établissement est d'avis que l'état du malade pourrait compromettre l'ordre public ou la sûreté
+des personnes, sans préjudice des dispositions des articles L. 342 et L. 347, il en est donné préalablement et aussitôt
+connaissance au préfet, qui peut ordonner immédiatement un sursis provisoire et, le cas échéant, une hospitalisation d'office
+conformément aux dispositions de l'article L. 342. Ce sursis provisoire cesse de plein droit à l'expiration de la quinzaine
+si le préfet n'a pas, dans ce délai, prononcé une hospitalisation d'office.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°91-981 du 25 septembre 1991 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°91-981 du 25 septembre 1991 - art. 9 (Ab)
+	  - Code de la santé publique - art. L340 (Ab)
+	  - Code de la santé publique - art. L352 (Ab)
+	  - Code de la santé publique - art. L354 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-9 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L330 (M)
+	  - Code de la santé publique - art. L331 (M)
+	  - Code de la santé publique - art. L342 (M)
+	  - Code de la santé publique - art. L347 (M)
+	  - Code de la santé publique L331, L330, L322-3, L342, L347
+
+
+###### Article L340
+
+Dans les vingt-quatre heures suivant la sortie, le directeur de l'établissement en avise le préfet ainsi que la commission
+mentionnée à l'article L. 332-3 et les procureurs mentionnés à l'article L. 335 et leur fait connaître le nom et l'adresse
+des personnes ou de l'organisme mentionnés à l'article L. 339.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-10 (V)
+	  - Code de la santé publique - art. L3212-10 (VT)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L332-3 (M)
+	  - Code de la santé publique - art. L335 (M)
+	  - Code de la santé publique - art. L339 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L355 (M)
+
+
+###### Article L341
+
+Dans chaque établissement est tenu un registre sur lequel sont transcrits dans les vingt-quatre heures :
+
+1° Les nom, prénoms, profession, âge et domicile des personnes hospitalisées ;
+
+2° La date de l'hospitalisation ;
+
+3° Les nom, prénoms, profession et domicile de la personne ayant demandé l'hospitalisation ;
+
+4° Les certificats médicaux joints à la demande d'admission ;
+
+5° Le cas échéant, la mention de la décision de mise sous tutelle, curatelle ou sauvegarde de justice ;
+
+6° Les certificats que le directeur de l'établissement doit adresser aux autorités administratives en application des
+articles L. 334, L. 337 et L. 338 ;
+
+7° Les dates, durées et modalités des sorties d'essai prévues à l'article L. 350 ;
+
+8° Les levées d'hospitalisation ;
+
+9° Les décès.
+
+Ce registre est soumis aux personnes qui, en application des articles L. 332-2 et L. 332-4, visitent l'établissement ; ces
+dernières apposent, à l'issue de la visite, leur visa, leur signature et, s'il y a lieu, leurs observations.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Cité par**:
+
+	  - Décret n°91-981 du 25 septembre 1991 - art. 6 (Ab)
+	  - Code de la santé publique - art. L332-2 (Ab)
+	  - Code de la santé publique - art. L332-4 (Ab)
+	  - Code de la santé publique - art. L338 (Ab)
+	  - Code de la santé publique - art. L342 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-11 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L334 (M)
+	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L350 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+
+
+##### Section 2 : Hospitalisation d'office.
+
+###### Article L342
+
+A Paris, le préfet de police et, dans les départements, les préfets prononcent par arrêté, au vu d'un certificat médical
+circonstancié, l'hospitalisation d'office dans un établissement mentionné à l'article L. 331 des personnes dont les troubles
+mentaux compromettent l'ordre public ou la sûreté des personnes. Le certificat médical circonstancié ne peut émaner d'un
+psychiatre exerçant dans l'établissement accueillant le malade. Les arrêtés préfectoraux sont motivés et énoncent avec
+précision les circonstances qui ont rendu l'hospitalisation nécessaire.
+
+Dans les vingt-quatre heures suivant l'admission, le directeur de l'établissement d'accueil transmet au préfet et à la
+commission mentionnée à l'article L. 332-3 un certificat médical établi par un psychiatre de l'établissement.
+
+Ces arrêtés ainsi que ceux qui sont pris en application des articles L. 343, L. 345, L. 346, L. 347 et L. 348 et les sorties
+effectuées en application de l'article L. 350 sont inscrits sur un registre semblable à celui qui est prescrit par l'article
+L. 341, dont toutes les dispositions sont applicables aux personnes hospitalisées d'office.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - CODE DE PROCEDURE PENALE - art. D398 (V)
+	  - Code de la santé publique - art. L209-5 (Ab)
+	  - Code de la santé publique - art. L332 (Ab)
+	  - Code de la santé publique - art. L339 (Ab)
+	  - Code de la santé publique - art. L343 (Ab)
+	  - Code de la santé publique - art. L348 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (Ab)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-1 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L331 (M)
+	  - Code de la santé publique - art. L332-3 (M)
+	  - Code de la santé publique - art. L341 (M)
+	  - Code de la santé publique - art. L345 (M)
+	  - Code de la santé publique - art. L346 (M)
+	  - Code de la santé publique - art. L347 (M)
+	  - Code de la santé publique - art. L350 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+
+
+###### Article L343
+
+En cas de danger imminent pour la sûreté des personnes, attesté par un avis médical ou, à défaut, par la notoriété publique,
+le maire et, à Paris, les commissaires de police arrêtent, à l'égard des personnes dont le comportement révèle des troubles
+mentaux manifestes, toutes les mesures provisoires nécessaires, à charge d'en référer dans les vingt-quatre heures au préfet
+qui statue sans délai et prononce, s'il y a lieu, un arrêté d'hospitalisation d'office dans les formes prévues à l'article L.
+342. Faute de décision préfectorale, ces mesures provisoires sont caduques au terme d'une durée de quarante-huit heures.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 2 (V)
+	  - Arrêté du 22 novembre 1991 - art. 1 (V)
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+	  - Code de la santé publique - art. L332 (Ab)
+	  - Code de la santé publique - art. L332-4 (Ab)
+	  - Code de la santé publique - art. L342 (Ab)
+	  - Code de la santé publique - art. L347 (M)
+	  - Code de la santé publique - art. L349 (M)
+	  - Code de la santé publique - art. L354 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-2 (V)
+
+
+###### Article L344
+
+Dans les quinze jours, puis un mois après l'hospitalisation et ensuite au moins tous les mois, le malade est examiné par un
+psychiatre de l'établissement qui établit un certificat médical circonstancié confirmant ou infirmant, s'il y a lieu, les
+observations contenues dans le précédent certificat et précisant notamment les caractéristiques de l'évolution ou la
+disparition des troubles justifiant l'hospitalisation. Chaque certificat est transmis au préfet et à la commission mentionnée
+à l'article L. 332-3 par le directeur de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L347 (M)
+	  - Code de la santé publique - art. L349 (M)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L332-3 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+
+
+###### Article L345
+
+Dans les trois jours précédant l'expiration du premier mois d'hospitalisation, le préfet peut prononcer, après avis motivé
+d'un psychiatre, le maintien de l'hospitalisation d'office pour une nouvelle durée de trois mois. Au-delà de cette durée,
+l'hospitalisation peut être maintenue par le préfet pour des périodes de six mois maximum renouvelables selon les mêmes
+modalités.
+
+Faute de décision préfectorale à l'issue de chacun des délais prévus à l'alinéa précédent, la mainlevée de l'hospitalisation
+est acquise.
+
+Sans préjudice des dispositions qui précèdent, le préfet peut à tout moment mettre fin à l'hospitalisation après avis d'un
+psychiatre ou sur proposition de la commission mentionnée à l'article L. 332-3.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+	  - Arrêté du 14 octobre 1986 - art. 16 (V)
+	  - Code de la santé publique - art. L342 (Ab)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L347 (M)
+	  - Code de la santé publique - art. L348 (M)
+	  - Code de la santé publique - art. L352 (Ab)
+	  - Code de la santé publique - art. L354 (M)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-4 (V)
+	  - Code de la santé publique - art. L3213-4 (VT)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L332-3 (M)
+
+
+###### Article L346
+
+Si un psychiatre déclare sur un certificat médical ou sur le registre tenu en exécution des articles L. 341 et L. 342 que la
+sortie peut être ordonnée, le directeur de l'établissement est tenu d'en référer dans les vingt-quatre heures au préfet qui
+statue sans délai.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+	  - Code de la santé publique - art. L339 (M)
+	  - Code de la santé publique - art. L342 (Ab)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L347 (M)
+	  - Code de la santé publique - art. L352 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-5 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique L341 et L342
+
+
+###### Article L347
+
+A l'égard des personnes relevant d'une hospitalisation sur demande d'un tiers, et dans le cas où leur état mental pourrait
+compromettre l'ordre public ou la sûreté des personnes, le préfet peut prendre un arrêté provisoire d'hospitalisation
+d'office. A défaut de confirmation, cette mesure est caduque au terme d'une durée de quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+	  - Code de la santé publique - art. L339 (Ab)
+	  - Code de la santé publique - art. L342 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-6 (M)
+
+
+###### Article L348
+
+Lorsque les autorités judiciaires estiment que l'état mental d'une personne qui a bénéficié d'un non-lieu, d'une décision de
+relaxe ou d'un acquittement en application des dispositions de l'article 64 du code pénal pourrait compromettre l'ordre
+public ou la sûreté des personnes, elles avisent immédiatement le préfet, qui prend sans délai toute mesure utile, ainsi que
+la commission mentionnée à l'article L. 332-3. L'avis médical visé à l'article L. 342 doit porter sur l'état actuel du
+malade.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
 
 	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
 
 	**Cite**:
 
-	  - Code civil - art. 492 (AbD)
-	  - Code civil - art. 508 (AbD)
+	  - Code pénal 64
+	  - Code de la santé publique - art. L332-3 (M)
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+	  - Arrêté du 14 octobre 1986 - art. 16 (V)
+	  - Code de la santé publique - art. L342 (Ab)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L348-1 (Ab)
+	  - Code de la santé publique - art. L354 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-7 (M)
 
 
-###### Article L352-2
+###### Article L348-1
 
-La personne placée dans un établissement de soins conserve le domicile qui était le sien avant le placement aussi longtemps
-que ce domicile reste à sa disposition. Néanmoins, les significations qui y auront été faites pourront, suivant les
-circonstances, être annulées par les tribunaux.
+Il ne peut être mis fin aux hospitalisations d'office intervenues en application de l'article L. 348 que sur les décisions
+conformes de deux psychiatres n'appartenant pas à l'établissement et choisis par le préfet sur une liste établie par le
+procureur de la République après avis de la direction de l'action sanitaire et sociale du département dans lequel est situé
+l'établissement.
 
-Si une tutelle a été constituée, les significations seront faites au tuteur ; s'il y a curatelle, elles devront être faites à
-la fois à la personne protégée et à son curateur.
-
-Les fonctions de juge des tutelles peuvent être exercées par un juge appartenant au tribunal d'instance dans le ressort
-duquel la personne sous tutelle ou curatelle est hospitalisée, lors même que celle-ci a conservé son domicile dans un ressort
-différent de celui du lieu de traitement.
+Ces deux décisions résultant de deux examens séparés et concordants doivent établir que l'intéressé n'est plus dangereux ni
+pour lui-même ni pour autrui.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
 	**Créé par**:
 
-	  - Loi n°68-5 du 3 janvier 1968 - art. 9 () JORF 4 janvier 1968
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
 
 	**Abrogé par**:
 
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-8 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L348 (M)
+
+
+###### Article L349
+
+Le préfet avise dans les vingt-quatre heures le procureur de la République près le tribunal de grande instance dans le
+ressort duquel est situé l'établissement, le maire du domicile et la famille de la personne hospitalisée, de toute
+hospitalisation d'office, de tout renouvellement et de toute sortie.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
 	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Cité par**:
+
+	  - Décret n°91-981 du 25 septembre 1991 - art. 8 (Ab)
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-9 (V)
+
+
+##### Section 3 : Dispositions communes.
+
+###### Article L350
+
+Afin de favoriser leur guérison, leur réadaptation ou leur réinsertion sociale, les personnes qui ont fait l'objet d'une
+hospitalisation sur demande d'un tiers ou d'une hospitalisation d'office peuvent bénéficier d'aménagements de leurs
+conditions de traitement sous forme de sorties d'essai, éventuellement au sein d'équipements et services ne comportant pas
+d'hospitalisation à temps complet mentionnés aux articles 4 ter et 44 de la loi n° 70-1318 du 31 décembre 1970 portant
+réforme hospitalière.
+
+La sortie d'essai comporte une surveillance médicale. Sa durée ne peut dépasser trois mois ; elle est renouvelable. Le suivi
+de la sortie d'essai est assuré par le secteur psychiatrique compétent.
+
+La sortie d'essai, son renouvellement éventuel ou sa cessation sont décidés :
+
+1° Dans le cas d'une hospitalisation sur demande d'un tiers, par un psychiatre de l'établissement d'accueil ; le bulletin de
+sortie d'essai est visé par le directeur de l'établissement et transmis sans délai au préfet ; le tiers ayant fait la demande
+d'hospitalisation est informé ;
+
+2° Dans le cas d'une hospitalisation d'office, par le préfet, sur proposition écrite et motivée d'un psychiatre de
+l'établissement d'accueil.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°70-1318 1970-12-31 art. 4 ter et art. 44
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-11 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L341 (Ab)
+	  - Code de la santé publique - art. L342 (Ab)
+
+
+###### Article L351
+
+Toute personne hospitalisée sans son consentement ou retenue dans quelque établissement que ce soit, public ou privé, qui
+accueille des malades soignés pour troubles mentaux, son tuteur si elle est mineure, son tuteur ou curateur si, majeure, elle
+a été mise sous tutelle ou en curatelle, son conjoint, son concubin, tout parent ou toute personne susceptible d'agir dans
+l'intérêt du malade et éventuellement le curateur à la personne peuvent, à quelque époque que ce soit, se pourvoir par simple
+requête devant le président du tribunal de grande instance du lieu de la situation de l'établissement qui, statuant en la
+forme des référés après débat contradictoire et après les vérifications nécessaires, ordonne, s'il y a lieu, la sortie
+immédiate.
+
+Toute personne qui a demandé l'hospitalisation ou le procureur de la République, d'office, peut se pourvoir aux mêmes fins.
+
+Le président du tribunal de grande instance peut également se saisir d'office, à tout moment, pour ordonner qu'il soit mis
+fin à l'hospitalisation sans consentement. A cette fin, toute personne intéressée peut porter à sa connaissance les
+informations qu'elle estimerait utiles sur la situation d'un malade hospitalisé.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-12 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L332-4 (Ab)
+	  - Code de la santé publique - art. L352 (Ab)
+	  - Code de la santé publique - art. L354 (M)
+	  - Code de la santé publique - art. L355 (M)
+
+
+#### Chapitre 4 : Dispositions pénales.
+
+###### Article L354
+
+Sera puni des peines mentionnées à l'article L. 353 :
+
+1° Le médecin d'un établissement mentionné à l'article L. 331 qui aura supprimé ou retenu une requête ou une réclamation
+adressée par une personne hospitalisée sans son consentement à l'autorité judiciaire ou à l'autorité administrative ;
+
+2° Le médecin d'un établissement mentionné à l'article L. 331 qui aura refusé ou omis d'établir dans les délais prescrits les
+certificats médicaux relevant de sa responsabilité en application des articles L. 334, L.  337, L.  342 et L. 344 ;
+
+3° Le directeur d'un établissement autre que ceux mentionnés à l'article L. 331 qui n'aura pas pris dans le délai prescrit
+les mesures nécessaires à la mise en oeuvre de l'une des procédures prévues par les articles L. 133, L. 333-2, L. 342 ou L.
+343 dans les cas définis à l'article L. 332.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L133 (Ab)
+	  - Code de la santé publique - art. L331 (M)
+	  - Code de la santé publique - art. L332 (M)
+	  - Code de la santé publique - art. L333-2 (Ab)
+	  - Code de la santé publique - art. L334 (M)
+	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L342 (M)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L344 (M)
+	  - Code de la santé publique - art. L353 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3214-3 (T)
+	  - Code de la santé publique - art. L3214-4 (T)
+
+
+###### Article L355
+
+Des décrets en Conseil d'Etat déterminent en tant que de besoin les mesures d'application du présent titre.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 22 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°73-364 du 12 mars 1973 - art. 16 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 22 (Ab)
+	  - Décret n°95-589 du 6 mai 1995 - art. 9 (M)
+	  - Code de la santé publique - art. L351 (M)
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-13 (V)
+	  - Code de la santé publique - art. L3212-12 (V)
+	  - Code de la santé publique - art. L3213-10 (V)
+	  - Code de la santé publique - art. L3221-6 (V)
+	  - Code de la santé publique - art. L3222-6 (V)
+	  - Code de la santé publique - art. L3223-3 (V)
 
 
 #### CHAPITRE 4 : DISPOSITIONS DIVERSES
@@ -13002,256 +13444,6 @@ régimes d'assurance maladie aux dépenses de soins [*dépistage et prophylaxie 
 
 	  - Code de la santé publique - art. L339 (M)
 	  - Code de la santé publique - art. L354 (Ab)
-
-
-##### Section 2 : Prix de journée.
-
-###### Article L353-1
-
-La dépense du transport des personnes dirigées par l'Administration sur les établissements de soins est arrêtée par le préfet
-sur le mémoire des agents préposés au transport.
-
-Le préfet, sur délibération conforme du conseil général, fixe, chaque année, pour les établissements départementaux qu'il
-administre, le prix de journée de toutes les catégories d'aliénés indigents ou autres. Le prix de journée fixé pour les
-aliénés indigents sans domicile de secours à la charge de l'Etat est le même que celui des aliénés indigents à la charge des
-départements et des communes.
-
-Ce prix de journée ne peut entrer en application qu'après avoir été approuvé par le ministre de la Santé publique et de la
-Population.
-
-Les traités que les départements passent pour l'entretien de leurs aliénés soit avec d'autres départements, soit avec les
-établissements privés faisant fonction d'établissements publics d'aliénés, soit avec des quartiers d'hospices, ne reçoivent
-exécution que s'ils ont été approuvés par le ministre de la Santé publique et de la Population après avis du ministre de
-l'Intérieur. Ils ne pourront être modifiés que dans les mêmes formes.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 26 ET 27
-
-	**Modifié par**:
-
-	  - Loi n°68-5 du 3 janvier 1968 - art. 8 () JORF 4 janvier 1968
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°83-25 1983-01-19 ART. 15 : dispositions non applicables aux établissements publics et aux établissements privés admis à participer à l'exécution du service public hospitalier
-
-	**Cité par**:
-
-	  - Loi n°83-25 du 19 janvier 1983 - art. 15 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
-
-
-##### Section 3 : Dispositions applicables à certains établissements accueillant des malades atteints de troubles mentaux.
-
-###### Article L353-2
-
-Toute personne soignée dans un établissement, public ou privé, accueillant des malades atteints de troubles mentaux, à
-l'exclusion des établissements visés aux paragraphes I et II de la section II du chapitre II du titre IV du livre III du
-présent code, dispose du droit :
-
-- d'être informée à son admission de ses droits et devoirs ;
-
-- de disposer à son gré de la liberté d'émettre ou de recevoir des communications téléphoniques ou du courrier personnel ;
-
-- de recevoir des visites ;
-
-- de refuser tout traitement et de prendre conseil d'un médecin de son choix pour en décider ;
-
-- de disposer de sa liberté de mouvement à l'intérieur de l'établissement, sous réserve du respect du règlement intérieur de
-celui-ci ;
-
-- de pratiquer la religion de son choix sans discrimination.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Loi n°81-82 du 2 février 1981 - art. 74 () JORF 3 FEVRIER 1981
-
-	**Abrogé par**:
-
-	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L353-3 (Ab)
-	  - Code de la santé publique - art. L353-4 (Ab)
-	  - Code de la santé publique - art. L355 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique L355 : DISPOSITIONS PENALES
-
-
-###### Article L353-3
-
-Les malades admis dans les établissements définis à l'article L. 353-2 ne peuvent se voir imposer des conditions de séjour
-différentes de celles qui sont réservées aux autres personnes admises dans ces établissements.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Loi n°81-82 du 2 février 1981 - art. 74 () JORF 3 FEVRIER 1981
-
-	**Abrogé par**:
-
-	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L353-2 (Ab)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L355 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique L355 : DISPOSITIONS PENALES
-
-
-###### Article L353-4
-
-Dans les établissements visés à l'article L. 353-2, lorsqu'un malade est atteint d'un trouble lui retirant tout contrôle de
-son comportement, il peut être transféré pour une durée ne pouvant dépasser quarante-huit heures dans l'un des établissements
-visés aux paragraphes I et II de la section II du chapitre II du titre IV du livre III du présent code.
-
-La demande de transfert doit être accompagnée d'un certificat médical décrivant les symptômes qui l'ont rendu nécessaire. A
-l'issue de ce délai, les dispositions de l'article L. 333 du présent code sont applicables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Loi n°81-82 du 2 février 1981 - art. 74 () JORF 3 FEVRIER 1981
-
-	**Abrogé par**:
-
-	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L333 (M)
-	  - Code de la santé publique - art. L353-2 (Ab)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L355 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique L355 : DISPOSITIONS PENALES
-
-
-#### Chapitre 5 : Dispositions pénales.
-
-###### Article L354
-
-Les chefs, directeurs ou préposés responsables [*interdiction*] ne pourront, sous les peines portées par l'article 120 du
-Code pénal, retenir une personne placée dans un établissement d'aliénés, dès que sa sortie aura été ordonnée par le préfet,
-aux termes des articles L. 341, 345 et 348, ou par le tribunal, aux termes de l'article L. 351, ni lorsque cette personne se
-trouvera dans les cas énoncés aux articles L. 338 et 339.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cite**:
-
-	  - Code pénal 120
-	  - Code de la santé publique - art. L338 (M)
-	  - Code de la santé publique - art. L339 (M)
-	  - Code de la santé publique - art. L341 (M)
-	  - Code de la santé publique - art. L345 (M)
-	  - Code de la santé publique - art. L348 (M)
-	  - Code de la santé publique - art. L351 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 30
-
-
-###### Article L355
-
-Les contraventions aux dispositions des articles L. 330, L. 333, L. 336, L. 337, du 2ème alinéa de l'article L. 338, des
-articles L. 340, L. 342, L. 345, L. 346, du dernier alinéa de l'article L. 351 et des articles L. 353-2, L. 353-3 et L.
-353-4, et aux règlements pris en vertu de l'article L. 331 ci-dessus qui seront commises par les chefs, directeurs ou
-préposés responsables des établissements publics ou privés d'aliénés, par les médecins employés dans ces établissements,
-seront punies d'un emprisonnement de cinq jours à un an [*durée*] et d'une amende de 180 F à 20.000 F [*montant*] ou de l'une
-de ces peines.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Décret n°73-364 du 12 mars 1973 - art. 16 (Ab)
-	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 22 (Ab)
-	  - Décret n°95-589 du 6 mai 1995 - art. 9 (M)
-	  - Code de la santé publique - art. L351 (M)
-
-	**Modifié par**:
-
-	  - Loi n°81-82 du 2 février 1981 - art. 74 () JORF 3 FEVRIER 1981
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3211-13 (V)
-	  - Code de la santé publique - art. L3212-12 (V)
-	  - Code de la santé publique - art. L3213-10 (V)
-	  - Code de la santé publique - art. L3221-6 (V)
-	  - Code de la santé publique - art. L3222-6 (V)
-	  - Code de la santé publique - art. L3223-3 (V)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L330 (M)
-	  - Code de la santé publique - art. L331 (M)
-	  - Code de la santé publique - art. L333 (M)
-	  - Code de la santé publique - art. L336 (M)
-	  - Code de la santé publique - art. L337 (M)
-	  - Code de la santé publique - art. L338 (M)
-	  - Code de la santé publique - art. L340 (M)
-	  - Code de la santé publique - art. L342 (M)
-	  - Code de la santé publique - art. L345 (M)
-	  - Code de la santé publique - art. L346 (M)
-	  - Code de la santé publique - art. L353-2 (Ab)
-	  - Code de la santé publique - art. L353-3 (Ab)
-	  - Code de la santé publique - art. L353-4 (Ab)
 
 
 ### Titre 5 : Lutte contre l'alcoolisme.
