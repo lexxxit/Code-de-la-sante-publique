@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1991-05-16
+Version Consolidée au 1991-07-01
 
 # Partie législative ancienne
 
@@ -6493,15 +6493,29 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, les femmes qui n'ont pas le droit à
 une prestation familiale à la naissance bénéficient d'une prime versée après chacun des examens prénataux et après l'examen
 post-natal institués en application de l'article L. 154. Un décret détermine les modalités de versement et le montant de
-cette prime, qui évolue comme le montant des allocations familiales versées aux salariés du régime général dans les
-départements visés ci-dessus.
+cette prime, qui est fixée en pourcentage de la base mentionnée au deuxième alinéa de l'article L. 755-3 du code de la
+sécurité sociale.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.
+
+Toutefois, les personnes ayant bénéficié à cette date d'au moins une prime à la protection de la maternité continuent à
+percevoir ces primes jusqu'à l'expiration du droit.
+
+Les dépenses résultant de l'attribution de ces primes sont prises en charge dans les conditions prévues à l'article L. 190-1
+du code de la santé publique.
+
+Les primes pour la protection de la maternité ne sont pas cumulables avec l'allocation pour jeune enfant visée au 1° de
+l'article L. 531-1 du code de la sécurité sociale.*]
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cité par**:
 
@@ -6510,17 +6524,23 @@ départements visés ci-dessus.
 	  - Code de la santé publique - art. L190-1 (Ab)
 	  - Code de la sécurité sociale. - art. L755-32 (M)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°91-738 1991-07-31 art. 16 I
+	  - TXT_ASSOCIE: Code de la santé publique L190-1 : FINANCEMENT
+
 	**Modifié par**:
 
-	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+	  - Loi n°91-738 du 31 juillet 1991 - art. 12 () JORF 1er août 1991 en vigueur le 1er juillet 1991
+
+	**Abrogé par**:
+
+	  - Loi n°96-609 du 5 juillet 1996 - art. 61 (V) JORF 9 juillet 1996
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L154 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique L190-1 : FINANCEMENT
+	  - Code de la sécurité sociale. - art. L755-3 (M)
 
 
 ###### Article L190-1
