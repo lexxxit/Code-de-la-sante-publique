@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1962-04-19
+Version Consolidée au 1962-07-24
 
 # Partie législative ancienne
 
@@ -4291,41 +4291,6 @@ concourant à l'application du présent titre.
 	  - Code de la santé publique - art. L2112-6 (V)
 
 
-###### Article L153
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
-	  - Décret n°92-143 du 14 février 1992 - art. 1 (Ab)
-	  - Arrêté du 7 mai 1992 - art. 2 (Ab)
-	  - Arrêté du 7 mars 1997 - art. Unique (VD)
-	  - Code de la santé publique - art. L149 (Ab)
-	  - Code de la santé publique - art. L186 (Ab)
-	  - Code de la sécurité sociale. - art. L321-1 (M)
-	  - Code de la sécurité sociale. - art. L615-14 (M)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 7 mai 1992
-	  - TXT_SOURCE: Arrêté du 7 mai 1992 - art. 1 (Ab)
-	  - TXT_SOURCE: Arrêté du 7 mai 1992 - art. 2 (Ab)
-	  - TXT_SOURCE: Arrêté du 7 mai 1992 - art. 3 (Ab)
-	  - SPEC_APPLI: Code de la sécurité sociale. - art. L321-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2121-1 (V)
-
-
 ##### Section 3 : Dispositions spéciales du département de la Seine.
 
 ###### Article L154
@@ -4574,22 +4539,6 @@ laboratoire, sérologiques ou autres, jugés utiles.
 	  - Loi n°89-899 du 18 décembre 1989 - art. 3 () JORF 19 décembre 1989
 
 
-###### Article L161
-
-texte abrogé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
-
-
 ###### Article L161-1
 
 Lorsque la sauvegarde de la vie de la mère gravement menacée exige soit une intervention chirurgicale, soit l'emploi d'une
@@ -4748,26 +4697,6 @@ Jusqu'au début de l'obligation scolaire, tous les enfants sont l'objet d'une su
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2132-2 (V)
-
-
-###### Article L165
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2132-3 (V)
 
 
 ###### Article L166
@@ -5284,47 +5213,6 @@ d'exercer, soit à titre temporaire, soit à titre définitif.
 
 
 #### Chapitre 6 : Financement.
-
-###### Article L182
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
-	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 10 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2324-3 (V)
-
-
-###### Article L183
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2326-4 (V)
-
 
 ###### Article L184
 
