@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1960-11-27
+Version Consolidée au 1961-07-27
 
 # Partie législative ancienne
 
@@ -24693,70 +24693,6 @@ Article abrogé
 	**Cité par**:
 
 	  - Loi n°64-707 du 10 juillet 1964 - art. 7 (V)
-
-
-###### Article L727
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°61-778 1961-07-22 art. 1 JORF 27 juillet 1961
-
-
-###### Article L728
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°61-778 1961-07-22 art. 1 JORF 27 juillet 1961
-
-
-###### Article L729
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°61-778 1961-07-22 art. 1 JORF 27 juillet 1961
-
-
-###### Article L730
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°61-778 1961-07-22 art. 1 JORF 27 juillet 1961
 
 
 ###### Article L731
