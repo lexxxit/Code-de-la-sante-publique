@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1990-07-14
+Version Consolidée au 1990-09-02
 
 # Partie législative ancienne
 
@@ -46936,27 +46936,38 @@ préciser s'il désire que sa demande soit soumise pour avis au comité des spé
 
 La commission mentionnée à l'article R. 5140 comprend [*composition*]:
 
-1° Quatre [*nombre*] membres de droit :
+1° Trois [*nombre*] membres de droit :
 
 Le directeur de la pharmacie et du médicament ou son représentant    Le directeur général de l'Institut national de la santé
 et de la recherche médicale ou son représentant ;
 
 Le directeur général du Laboratoire national de la santé ou son représentant ;
 
-Un membre de la mission scientifique de la direction de la pharmacie et du médicament.
+2° Cinq membres représentant les commissions instituées auprès du ministre chargé de la santé et compétentes en matière de
+médicament :
 
-2° Vingt-quatre membres nommés par le ministre chargé de la santé pour une durée de trois ans [*durée du mandat*].
+a) Le président de la commission nationale de la pharmacopée ou son représentant ;
+
+b) Le président de la commission de la transparence ou son représentant ;
+
+c) Le président de la commission nationale de la pharmacovigilance ou son représentant ;
+
+d) Le président de la commission des stupéfiants et des psychotropes ou son représentant ;
+
+e) Le président de la commission de contrôle de la publicité ou son représentant.
+
+3° Trente membres nommés par le ministre chargé de la santé pour une durée de trois ans [*durée du mandat*].
 
 Un médecin choisi sur une liste de deux noms proposés par l'Académie nationale de médecine ;
 
 Un pharmacien choisi sur une liste de deux noms proposés par l'Académie nationale de pharmacie ;
 
-Vingt-deux personnalités choisies en raison de leur compétence scientifique dans le domaine de la chimie analytique, de la
+Vingt-huit personnalités choisies en raison de leur compétence scientifique dans le domaine de la chimie analytique, de la
 pharmacie galénique, de la toxicologie expérimentale, de la pharmacologie expérimentale, de la pharmacologie clinique, de la
 pathologie et de et de la thérapeutique.
 
-Vingt-quatre suppléants sont désignés dans les mêmes conditions que les membres titulaires. Ils remplacent [*attributions*]
-ces derniers soit en cas d'empêchement, soit s'il se produit une vacance en cours de mandat.
+Trente suppléants sont désignés dans les mêmes conditions que les membres titulaires. Ils remplacent [*attributions*] ces
+derniers soit en cas d'empêchement, soit s'il se produit une vacance en cours de mandat.
 
 Le président ainsi qu'un premier et un deuxième vice-président sont désignés par le ministre chargé de la santé parmi les
 membres de la commission.
@@ -46976,7 +46987,7 @@ pharmaceutiques, des organisations de consommateurs et de la mutualité françai
 
 	**Modifié par**:
 
-	  - Décret n°85-498 1985-05-06 art. 1 JORF 11 mai 1985
+	  - Décret n°90-773 du 31 août 1990 - art. 1 () JORF 2 septembre 1990
 
 	**Liens**:
 
@@ -46988,9 +46999,6 @@ pharmaceutiques, des organisations de consommateurs et de la mutualité françai
 
 
 ###### Article R5141-1
-
-La durée totale des mandats successifs que peuvent exercer en qualité tant de titulaire que de suppléant les membres de la
-commission mentionnée à l'article R. 5140 ne peut excéder six ans.
 
 En cas de vacance survenant au cours d'un mandat, le mandat du suppléant appelé à remplacer un membre titulaire ou celui d'un
 membre nouveau appelé à remplacer un suppléant prennent fin à la même date que le mandat du membre remplacé.
@@ -47004,11 +47012,7 @@ membre nouveau appelé à remplacer un suppléant prennent fin à la même date 
 
 	**Modifié par**:
 
-	  - Décret n°84-309 1984-04-26 ART. 3 JORF 28 AVRIL 1984
-
-	**Cite**:
-
-	  - Code de la santé publique - art. R5140 (M)
+	  - Décret n°90-773 du 31 août 1990 - art. 2 () JORF 2 septembre 1990
 
 
 ###### Article R5141-2
