@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1986-08-22
+Version Consolidée au 1987-01-28
 
 # Partie législative ancienne
 
@@ -1325,6 +1325,47 @@ leur publication au Journal officiel [*délai*].
 	**Anciens textes**:
 
 	  - Loi n°1902-02-15 ART. 8
+
+
+###### Article L18-1
+
+Dans les départements où est constatée l'existence de conditions entraînant le développement de maladies humaines transmises
+par l'intermédiaire d'insectes [*paludisme, fièvre jaune, dengue*] et constituant une menace pour la santé de la population,
+les mesures de lutte nécessaires relèvent de la compétence de l'Etat.
+
+Les dépenses correspondantes sont à la charge de l'Etat.
+
+La nature des mesures susceptibles d'être prises est fixée par décret en Conseil d'Etat. Un arrêté fixe la liste des
+départements concernés.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°87-39 du 27 janvier 1987 - art. 20 () JORF 28 janvier 1987
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté du 23 avril 1987 - art. 1 (V)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Cité par**:
+
+	  - Décret n°88-49 du 12 janvier 1988 - art. 1 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3114-5 (M)
+	  - Code de la santé publique - art. L3114-5 (V)
+	  - Code de la santé publique - art. L3114-6 (T)
 
 
 #### Chapitre 3 : Des eaux potables
@@ -8981,42 +9022,6 @@ cette surveillance et qui aura à en préciser les modalités.
 
 ##### Section 5 : Dispositions diverses.
 
-###### Article L282
-
-Toute publicité de caractère commercial, sous quelque forme que ce soit, concernant ouvertement ou d'une manière déguisée la
-prophylaxie et le traitement des maladies vénériennes est interdite, sauf dans les publications exclusivement réservées au
-corps médical.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Anciens textes**:
-
-	  - Loi n°42-1073 1942-12-31 ART. 20
-
-	**Modifié par**:
-
-	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
-
-	**Abrogé par**:
-
-	  - Loi n°87-39 du 27 janvier 1987 - art. 21 () JORF 28 janvier 1987
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L293 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique L293 : SANCTIONS
-
-
-##### PARAGRAPHE 2 : DISPOSITIONS FINANCIERES.
-
 ###### Article L283
 
 Tout malade hospitalisé d'office par arrêté du préfet sur proposition de l'autorité sanitaire, en application des
@@ -9033,14 +9038,18 @@ dispositions de la présente section, bénéficie de plein droit de l'aide médi
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Modifié par**:
-
-	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
-
 	**Cité par**:
 
 	  - Décret n°74-27 du 14 janvier 1974 - art. 33 (Ab)
 	  - Code de la santé publique - art. L278 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°87-39 du 27 janvier 1987 - art. 21 () JORF 28 janvier 1987
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 ###### Article L284
@@ -9061,14 +9070,16 @@ que celles relatives au fonctionnement des services antivénériens [*charge*].
 
 	**Modifié par**:
 
-	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+	  - Loi n°87-39 du 27 janvier 1987 - art. 21 () JORF 28 janvier 1987
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L261 (Ab)
 
-
-##### PARAGRAPHE 3 : MODALITES D'APPLICATION.
 
 ###### Article L284-1
 
@@ -9092,7 +9103,11 @@ Les modalités d'application des dispositions des articles L. 254 à L. 262 et L
 
 	**Modifié par**:
 
-	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+	  - Loi n°87-39 du 27 janvier 1987 - art. 21 () JORF 28 janvier 1987
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 ##### Section 6 : Dispositions pénales.
@@ -9125,43 +9140,6 @@ peines de la dénonciation calomnieuse.
 	**Cite**:
 
 	  - Code de la santé publique - art. L261 (Ab)
-
-
-###### Article L293
-
-Toute infraction aux dispositions de l'article L. 282 [*publicité commerciale*] est passible d'une amende de 2.000 F à 20.000
-F.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
-
-	**Abrogé par**:
-
-	  - Loi n°87-39 du 27 janvier 1987 - art. 21 () JORF 28 janvier 1987
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L282 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L292 (Ab)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L292 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°42-1073 1942-12-31 ART. 20
 
 
 #### Chapitre 2 : Organisation médico-administrative de la lutte antivénérienne.
@@ -15789,6 +15767,42 @@ et suivants.
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
+###### Article L407
+
+Le Conseil national est assisté par un conseiller d'Etat nommé, en même temps que deux conseillers d'Etat suppléants, par le
+garde des sceaux, ministre de la Justice, avec voix délibérative.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 41
+
+	**Cité par**:
+
+	  - Décret n°48-1671 du 26 octobre 1948 - art. 21 (Ab)
+	  - Code de la santé publique - art. L408 (Ab)
+	  - Code de la santé publique - art. L491-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°87-39 du 27 janvier 1987 - art. 27 () JORF 28 janvier 1987
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4132-4 (M)
+
+
 ###### Article L408
 
 A sa première réunion et à la première réunion qui suit chaque renouvellement, le Conseil national élit en son sein huit
@@ -19065,33 +19079,6 @@ Article abrogé
 ##### SECTION 2 : CONSEILS DE L'ORDRE DES MEDECINS
 
 ##### PARAGRAPHE 3 : CONSEIL NATIONAL *DE L'ORDRE DES MEDECINS*.
-
-###### Article L407
-
-Le Conseil national est assisté par un conseiller d'Etat nommé, en même temps qu'un conseiller d'Etat suppléant, par le garde
-des sceaux, ministre de la Justice, avec voix délibérative.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2184 1945-09-24 ART. 41
-
-	**Cité par**:
-
-	  - Décret n°48-1671 du 26 octobre 1948 - art. 21 (Ab)
-	  - Code de la santé publique - art. L408 (Ab)
-	  - Code de la santé publique - art. L491-4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L4132-4 (M)
-
 
 ###### Article L411
 
@@ -24617,18 +24604,16 @@ diagnostic ou la modification de l'état physique ou physiologique, la restaurat
 fonctions organiques, est soumise aux dispositions prévues à l'alinéa 1er du présent article et au décret pris pour son
 application.
 
+La publicité ou la propagande, sous quelque forme que ce soit, relative aux préservatifs masculins en tant que moyen de
+prévention contre les maladies transmises par voie sexuelle [*mst*] est soumise aux dispositions prévues au premier alinéa du
+présent article et au décret pris pour son application.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Ordonnance n°59-250 du 4 février 1959 - art. 7 () JORF 8 février 1959
-	  - Loi n°72-7 1972-01-03 art. 1 JORF 5 janvier 1972
-	  - Loi n°78-23 1978-01-10 art. 42 I JORF 11 janvier 1978
 
 	**Cité par**:
 
@@ -24657,6 +24642,10 @@ application.
 	  - Code de la sécurité sociale. - art. R163-7 (V)
 	  - Décret n°91-827 du 29 août 1991 - art. 7 (M)
 
+	**Modifié par**:
+
+	  - Loi n°87-39 du 27 janvier 1987 - art. 21 () JORF 28 janvier 1987
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L5122-1 (V)
@@ -24673,14 +24662,14 @@ application.
 
 ###### Article L552
 
-La publicité ou la propagande, sous quelque forme que ce soit, relative aux objets, appareils et méthodes, présentés comme
-favorisant le diagnostic, la prévention ou le traitement des maladies, des affections relevant de la pathologie chirurgicale
-et des dérèglements physiologiques, le diagnostic ou la modification de l'état physique ou physiologique, la restauration, la
-correction ou la modification des fonctions organiques, peut être interdite par le ministère chargé de la santé lorsqu'il
-n'est pas établi que lesdits objets, appareils et méthodes possèdent les propriétés annoncées. Le ministre chargé de la santé
-peut aussi, après avis de la commission prévue à l'alinéa 2 du présent article, soumettre cette publicité ou propagande à
-l'obligation de mentionner les avertissements et précautions d'emplois nécessaires à l'information du consommateur
-[*condition*].
+La publicité ou la propagande, sous quelque forme que ce soit, relative aux objets, appareils et méthodes, à l'exclusion des
+objets visés au troisième alinéa de l'article L. 551, présentés comme favorisant le diagnostic, la prévention ou le
+traitement des maladies, des affections relevant de la pathologie chirurgicale et des dérèglements physiologiques, le
+diagnostic ou la modification de l'état physique ou physiologique, la restauration, la correction ou la modification des
+fonctions organiques, peut être interdite par le ministère chargé de la santé lorsqu'il n'est pas établi que lesdits objets,
+appareils et méthodes possèdent les propriétés annoncées. Le ministre chargé de la santé peut aussi, après avis de la
+commission prévue à l'alinéa 2 du présent article, soumettre cette publicité ou propagande à l'obligation de mentionner les
+avertissements et précautions d'emplois nécessaires à l'information du consommateur [*condition*].
 
 L'interdiction est prononcée après avis d'une commission et après que le fabricant, importateur ou distributeur desdits
 objets et appareils ou le promoteur desdites méthodes aura été appelé à présenter ses observations. Elle prend effet trois
@@ -24698,26 +24687,25 @@ modalités de fonctionnement de la commission prévue à l'alinéa précédent.
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Liens**:
-
-	  - SPEC_APPLI: Ordonnance 59-250 1959-02-04 : AVAIT ABROGE L'ARTICLE L552, RETABLI PAR LA LOI DU 3 JANVIER 1972
-	  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L556 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique L518, L556 : DISPOSITIONS PENALES
-
-	**Créé par**:
-
-	  - Loi n°72-7 1972-01-03 art. 2 JORF 5 janvier 1972
-
 	**Modifié par**:
 
-	  - Loi n°78-23 1978-01-10 art. 42 II JORF 11 janvier 1978
+	  - Loi n°87-39 du 27 janvier 1987 - art. 21 () JORF 28 janvier 1987
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L5122-15 (V)
 	  - Code de la santé publique - art. L5122-16 (V)
 	  - Code de la santé publique - art. L5422-12 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L556 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518, L556 : DISPOSITIONS PENALES
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L551 (M)
 
 	**Cité par**:
 
@@ -32683,6 +32671,38 @@ Les pharmaciens résidents sont nommés par le ministre de la santé publique et
 	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
 
 
+###### Article L685
+
+Le statut général du personnel des établissements de soins et de cure publics fixé par les titres Ier et IV du statut général
+des fonctionnaires de l'Etat et des collectivités territoriales n'est pas applicable aux membres du personnel médical, aux
+pharmaciens et aux biologistes des hôpitaux et hospices publics, qu'ils exercent à temps partiel dans ces établissements ou
+qu'ils leur consacrent toute leur activité professionnelle. Le statut de ce personnel est déterminé par décret en Conseil
+d'Etat. Des modalités différentes peuvent être prévues en ce qui concerne la protection sociale des praticiens hospitaliers
+selon qu'ils concluent ou non un contrat d'activité libérale en application de l'article 25-4 de la loi n° 70-1318 du 31
+décembre 1970 portant réforme hospitalière.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
+	  - Loi n°87-39 du 27 janvier 1987 - art. 29 (V)
+	  - Code de la santé publique - art. L686 (Ab)
+
+	**Cite**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 25-4 (T)
+
+	**Modifié par**:
+
+	  - Loi n°87-39 du 27 janvier 1987 - art. 16 (V) JORF 28 janvier 1987
+	  - Loi n°87-39 du 27 janvier 1987 - art. 29 (V) JORF 28 janvier 1987
+
+	**Abrogé par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+
+
 ##### Section 2 : Attributions.
 
 ###### Article L686
@@ -32796,6 +32816,45 @@ aux articles 900-2 à 900-8 du code civil.
 #### Chapitre 6 : Autres dispositions financières.
 
 ##### Section 1 : Marchés.
+
+###### Article L706
+
+Les marchés passés par les directeurs des établissements d'hospitalisation publics, à l'exception de l'administration
+générale de l'assistance publique à Paris, qui est régie par des dispositions particulières établies par décret en Conseil
+D'Etat, et des hospices publics sont soumis l'approbation du représentant de l'Etat selon des modalités définies par décret
+en Conseil d'Etat. Ce décret adapte les règles de passation des marchés, telles qu'elles sont définies par le code des
+marchés publics.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-241 du 18 février 1985
+	  - TXT_SOURCE: Décret n°85-241 du 18 février 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Code des marchés publics - art. 250 bis (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°87-39 du 27 janvier 1987 - art. 22 () JORF 28 janvier 1987
+
+	**Abrogé par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+
+	**Cité par**:
+
+	  - Décret n°2005-840 du 20 juillet 2005 - art. 6 (V)
+	  - Code de la santé publique - art. L706-1 (Ab)
+
+	**Cite**:
+
+	  - Loi n°1926-08-18
+
 
 ###### Article L706-1
 
@@ -34514,6 +34573,71 @@ directeurs adjoints de laboratoires peuvent se faire remplacer à titre temporai
 
 ##### Section 3 : Dispositions diverses.
 
+###### Article L761-11
+
+Ne sont pas soumis aux dispositions du présent chapitre :
+
+1° Les médecins qui, à l'occasion des actes médicaux auxquels ils procèdent, effectuent, personnellement et dans leur
+cabinet, des analyses qui ne donnent pas lieu, en vertu de la législation de sécurité sociale, à un remboursement distinct et
+ne peuvent faire l'objet d'un compte rendu écrit ;
+
+2° Les pharmaciens d'officine qui effectuent des analyses figurant sur une liste fixée par un arrêté du ministre de la santé,
+qui précise en outre les conditions d'équipement nécessaires ;
+
+3° Les laboratoires d'analyses de biologie médicale relevant du ministère de la défense ;
+
+4° Sous réserve des dispositions des articles L. 761-13 et L. 761-14, les autres laboratoires et services de biologie
+médicale de l'Etat, des départements, des communes et des établissements publics, notamment hospitaliers ;
+
+5° Les laboratoires des établissements de transfusion sanguine et des centres anti-cancéreux qui effectuent exclusivement les
+actes de biologie directement liés à leur objet spécifique ;
+
+6° Les infirmiers qui, à l'occasion de soins qu'ils accomplissent, effectuent les contrôles biologiques de dépistage à
+lecture instantanée dont la liste est fixée par décret en Conseil d'Etat pris après avis de l'Académie nationale de médecine.
+Ces contrôles biologiques ne donnent pas lieu, en vertu de la législation de sécurité sociale, à un remboursement distinct et
+ne peuvent faire l'objet d'un compte rendu écrit ;
+
+7° Les médecins spécialistes qualifiés en anatomie et cytologie pathologiques qui effectuent, en dehors des laboratoires
+d'analyses de biologie médicale et dans les conditions fixées par un décret en Conseil d'Etat, des actes d'anatomie et de
+cytologie pathologiques.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1979-02-08 : LISTE DES ANALYSES EFFECTUEES PAR LES PHARMACIENS
+	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988
+	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°87-39 du 27 janvier 1987 - art. 28 () JORF 28 janvier 1987
+
+	**Cité par**:
+
+	  - Décret n°93-221 du 16 février 1993 - art. 3 (Ab)
+	  - Arrêté du 2 novembre 1994 - art. Annexe A (V)
+	  - Décret n°2005-840 du 20 juillet 2005 - art. 5 (V)
+	  - Code de la santé publique - art. L753 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6211-8 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-13 (M)
+	  - Code de la santé publique - art. L761-14 (M)
+
+
 ###### Article L761-12
 
 A l'exception de l'information scientifique auprès du corps médical et pharmaceutique, toute publicité en faveur d'un
@@ -35129,140 +35253,6 @@ En cas de récidive, l'amende peut être portée au double et le jugement ordonn
 	**Créé par**:
 
 	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
-
-
-## LIVRE 7 : HOPITAUX ET HOSPICES PUBLICS
-
-### TITRE 1 : HOPITAUX ET HOSPICES PUBLICS
-
-#### CHAPITRE 2 : COMMISSIONS ADMINISTRATIVES
-
-##### SECTION 1 : COMPOSITION ET FONCTIONNEMENT.
-
-###### Article L685
-
-Le statut général du personnel des établissements de soins et de cure publics fixé par les titres Ier et IV du statut général
-des fonctionnaires de l'Etat et des collectivités territoriales n'est pas applicable aux membres du personnel médical et aux
-biologistes des hôpitaux et hospices publics, qu'ils exercent à temps partiel dans ces établissements ou qu'ils leur
-consacrent toute leur activité professionnelle. Le statut de ce personnel est déterminé par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
-	  - Loi n°87-39 du 27 janvier 1987 - art. 29 (V)
-	  - Code de la santé publique - art. L686 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°86-33 du 9 janvier 1986 - art. 135 (V) JORF 11 janvier 1986
-
-
-#### CHAPITRE 5 : AUTRES DISPOSITIONS FINANCIERES
-
-##### SECTION 1 : MARCHES.
-
-###### Article L706
-
-Les marchés passés par les directeurs des établissements d'hospitalisation publics et des hospices publics sont soumis à
-l'approbation du représentant de l'Etat selon des modalités définies par décret en Conseil d'Etat. Ce décret adapte les
-règles de passation des marchés, telles qu'elles sont définies par le code des marchés publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Loi n°84-5 du 3 janvier 1984 - art. 11 () JORF 4 JANVIER 1984
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°85-241 du 18 février 1985
-	  - TXT_SOURCE: Décret n°85-241 du 18 février 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Code des marchés publics - art. 250 bis (Ab)
-
-	**Cité par**:
-
-	  - Décret n°2005-840 du 20 juillet 2005 - art. 6 (V)
-	  - Code de la santé publique - art. L706-1 (Ab)
-
-	**Cite**:
-
-	  - Loi n°1926-08-18
-
-
-## LIVRE 7 : LABORATOIRES
-
-### TITRE 3 : LABORATOIRES
-
-#### CHAPITRE 1 : LABORATOIRES D'ANALYSES DE BIOLOGIE MEDICALE
-
-##### SECTION 3 : DISPOSITIONS DIVERSES.
-
-###### Article L761-11
-
-Ne sont pas soumis aux dispositions du présent chapitre :
-
-1° Les médecins qui, à l'occasion des actes médicaux auxquels ils procèdent, effectuent, personnellement et dans leur
-cabinet, des analyses qui ne donnent pas lieu, en vertu de la législation de sécurité sociale, à un remboursement distinct et
-ne peuvent faire l'objet d'un compte rendu écrit ;
-
-2° Les pharmaciens d'officine qui effectuent des analyses figurant sur une liste fixée par un arrêté du ministre de la santé,
-qui précise en outre les conditions d'équipement nécessaires ;
-
-3° Les laboratoires d'analyses de biologie médicale relevant du ministère de la défense ;
-
-4° Sous réserve des dispositions des articles L. 761-13 et L. 761-14, les autres laboratoires et services de biologie
-médicale de l'Etat, des départements, des communes et des établissements publics, notamment hospitaliers ;
-
-5° Les laboratoires des établissements de transfusion sanguine et des centres anti-cancéreux qui effectuent exclusivement les
-actes de biologie directement liés à leur objet spécifique ;
-
-6° Les infirmiers qui, à l'occasion de soins qu'ils accomplissent, effectuent les contrôles biologiques de dépistage à
-lecture instantanée dont la liste est fixée par décret en Conseil d'Etat pris après avis de l'Académie nationale de médecine.
-Ces contrôles biologiques ne donnent pas lieu, en vertu de la législation de sécurité sociale, à un remboursement distinct et
-ne peuvent faire l'objet d'un compte rendu écrit.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1979-02-08 : LISTE DES ANALYSES EFFECTUEES PAR LES PHARMACIENS
-	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988
-	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988 - art. 4 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Loi n°84-391 1984-05-25 ART. 15 JORF 26 MAI 1984
-
-	**Cité par**:
-
-	  - Décret n°93-221 du 16 février 1993 - art. 3 (Ab)
-	  - Arrêté du 2 novembre 1994 - art. Annexe A (V)
-	  - Décret n°2005-840 du 20 juillet 2005 - art. 5 (V)
-	  - Code de la santé publique - art. L753 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L6211-8 (M)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L761-13 (M)
-	  - Code de la santé publique - art. L761-14 (M)
 
 
 ## Livre 8 : Institutions
