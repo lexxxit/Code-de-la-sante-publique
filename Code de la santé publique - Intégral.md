@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1971-05-15
+Version Consolidée au 1972-01-05
 
 # Partie législative ancienne
 
@@ -20455,6 +20455,116 @@ application.
 	  - Code de la santé publique - art. L601 (M)
 
 
+###### Article L552
+
+La publicité ou la propagande, sous quelque forme que ce soit, relative aux objets, appareils et méthodes, présentés comme
+favorisant le diagnostic, la prévention ou le traitement des maladies, des affections relevant de la pathologie chirurgicale
+et des dérèglements physiologiques, le diagnostic ou la modification de l'état physique ou physiologique, la restauration, la
+correction ou la modification des fonctions organiques, peut être interdite par le ministère chargé de la santé lorsqu'il
+n'est pas établi que lesdits objets, appareils et méthodes possèdent les propriétés annoncées. Le ministre chargé de la santé
+peut aussi, après avis de la commission prévue à l'alinéa 2 du présent article, soumettre cette publicité ou propagande à
+l'obligation de mentionner les avertissements et précautions d'emplois nécessaires à l'information du consommateur
+[*condition*].
+
+L'interdiction est prononcée après avis d'une commission et après que le fabricant, importateur ou distributeur desdits
+objets et appareils ou le promoteur desdites méthodes aura été appelé à présenter ses observations. Elle prend effet trois
+semaines après sa publication au Journal officiel [*date, délai*]. Elle est alors opposable au fabricant, importateur,
+distributeur ou promoteur, ainsi qu'aux personnes qui sollicitent ou font solliciter la publicité ou la propagande interdite
+et aux agents de publicité ou de diffusion.
+
+Un décret en Conseil d'Etat déterminera les conditions d'application du présent article et notamment la composition et les
+modalités de fonctionnement de la commission prévue à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 59-250 1959-02-04 : AVAIT ABROGE L'ARTICLE L552, RETABLI PAR LA LOI DU 3 JANVIER 1972
+	  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L556 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518, L556 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Loi n°72-7 1972-01-03 art. 2 JORF 5 janvier 1972
+
+	**Modifié par**:
+
+	  - Loi n°78-23 1978-01-10 art. 42 II JORF 11 janvier 1978
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5122-15 (V)
+	  - Code de la santé publique - art. L5122-16 (V)
+	  - Code de la santé publique - art. L5422-12 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L556 (Ab)
+	  - Code de la santé publique - art. L564 (M)
+	  - Code de la santé publique - art. R5045 (M)
+	  - Code de la santé publique - art. R5045-2 (M)
+	  - Code de la santé publique - art. R5055 (Ab)
+	  - Code de la santé publique - art. R5055-6 (Ab)
+
+
+###### Article L556
+
+Toute infraction aux dispositions des articles L. 551 et L. 552 et des textes pris pour leur application sera punie d'une
+amende de 5.000 à 30.000 F (1) et, en cas de récidive, d'une amende de 50.000 à 200.000 F (2) [*montant*].
+
+Sont passibles des mêmes peines, quel que soit le mode de publicité utilisé, les personnes qui tirent profit d'une publicité
+irrégulière et les agents de diffusion de cette publicité.
+
+Les dispositions prévues à l'alinéa précédent sont applicables lorsque cette publicité est faite à l'étranger, mais perçue ou
+diffusée en France.
+
+Dans tous les cas, le tribunal pourra interdire la vente et ordonner la saisie et la confiscation des médicaments, produits,
+objets et appareils susvisés, ainsi que la saisie et la destruction des documents et objets publicitaires les concernant ou
+concernant les méthodes susvisées.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+(2) Amende applicable depuis le 7 janvier 1972.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance n°59-250 du 4 février 1959 - art. 8 (V) JORF 8 février 1959
+	  - Loi n°72-7 1972-01-03 art. 3 JORF 5 janvier 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°72-7 1972-01-03 art. 3
+	  - TXT_ASSOCIE: Code de la santé publique - art. L551 (M)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5424-18 (VT)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L551 (M)
+	  - Code de la santé publique - art. L552 (M)
+
+
 #### Chapitre 5 : De l'inspection de la pharmacie
 
 ###### Article L557
@@ -20693,6 +20803,57 @@ collectivité territoriale de Mayotte.*]
 	**Anciens textes**:
 
 	  - Loi n°41-3890 1941-09-11 art. 54
+
+
+###### Article L564
+
+Dans tous les établissements de l'inspection desquels ils sont chargés, les inspecteurs de la pharmacie [*autorités
+compétentes*] ont qualité pour rechercher et constater les infractions aux dispositions du présent livre, aux lois sur la
+répression des fraudes et plus généralement à toutes les lois qui concernent l'exercice de la pharmacie et aux règlements
+d'administration publique pris pour leur application. Toutefois les infractions en matière de contrôle des prix, sont
+constatées et poursuivies dans les conditions prévues par les lois spéciales à la matière.
+
+Même en dehors des établissements mentionnés à l'alinéa 1er, les inspecteurs de la pharmacie ont qualité pour rechercher et
+constater les infractions aux dispositions des articles L. 551 et L. 552 [*relatives à la publicité*].
+
+Dans tous les cas où les inspecteurs de la pharmacie relèvent un fait susceptible d'impliquer des poursuites pénales,
+l'inspecteur divisionnaire de la santé transmet le dossier au procureur de la République compétent ; avis de cette
+transmission est adressé au président du conseil central ou du conseil régional intéressé [*procédure*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L551 (M)
+	  - Code de la santé publique - art. L552 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L564-1 (T)
+	  - Code de la santé publique - art. L658-9 (Ab)
+	  - Code de la santé publique - art. L793-10 (Ab)
+	  - Code de la santé publique - art. R5055-2 (M)
+	  - Code de la santé publique - art. R5057 (Ab)
+	  - Code de la santé publique - art. R5062 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. L564-1 (T)
+	  - Loi n°41-3890 1941-09-11 ART. 55
+	  - Loi n°42-855 1942-09-09 ART. 1
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Modifié par**:
+
+	  - Loi n°72-7 1972-01-03 art. 4 JORF 5 janvier 1972
 
 
 ###### Article L565
