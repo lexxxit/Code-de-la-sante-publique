@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1975-05-30
+Version Consolidée au 1975-07-01
 
 # Partie législative ancienne
 
@@ -5406,6 +5406,39 @@ Les modalités d'application de cet article seront déterminées par le décret 
 	**Cite**:
 
 	  - Code de la santé publique - art. L164-1 (P)
+
+
+###### Article L164-3
+
+Les enfants chez qui un handicap aura été décelé ou signalé, notamment au cours des examens médicaux prévus à l'article L.
+164-2 ci-dessus pourront être accueillis dans des structures d'action médico-sociale précoce en vue de prévenir ou de réduire
+l'aggravation de ce handicap. La prise en charge s'effectuera sous forme de cure ambulatoire comportant l'intervention de
+médecins et de techniciens para-médicaux et sociaux et, si nécessaire, une action de conseil et de soutien de la famille.
+Elle est assurée, s'il y a lieu, en liaison avec les institutions d'éducation préscolaire.
+
+**Nota:**
+
+*Nota : LOI 75-534 du 30 juin 1975 ART. 62 : fixe la date d'entrée en vigueur.*
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°75-534 du 30 juin 1975 - art. 3 () JORF 1ER juillet
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-534 du 30 juin 1975 - art. 62 (Ab)
+	  - PEREMPTION: Loi n°89-899 du 18 décembre 1989 - art. 4 () JORF 19 décembre 1989
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L164-2 (P)
 
 
 ###### Article L166
