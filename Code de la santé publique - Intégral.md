@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-01-19
+Version Consolidée au 1993-01-30
 
 # Partie législative ancienne
 
@@ -4471,6 +4471,163 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L5462-2 (T)
 
 
+### Titre 4 : Lutte contre les intoxications
+
+###### Article L145-1
+
+Les centres antipoison, définis à l'article L. 711-9, et l'organisme agréé visé à l'article L. 145-2 ont accès à la
+composition de toute préparation dans l'exercice de leurs missions de conseil, de soins ou de prévention en vue d'en prévenir
+les effets sur la santé ou de répondre à toute demande d'ordre médical destinée au traitement des affections induites par ces
+produits, en particulier en cas d'urgence.
+
+Les fabricants, les importateurs ou les vendeurs de toutes préparations doivent fournir leur composition aux centres
+antipoison ou à l'organisme agréé visé à l'article L. 145-2 dès qu'ils en font la demande.
+
+Ils sont libérés de cette obligation lorsque les informations concernant ces préparations ont déjà été données à l'organisme
+agréé visé à l'article L. 626-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 36 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1341-1 (M)
+	  - Code de la santé publique - art. L1523-6 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L145-2 (Ab)
+	  - Code de la santé publique - art. L626-1 (Ab)
+	  - Code de la santé publique - art. L711-9 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L145-5 (Ab)
+	  - Code de la santé publique - art. R145-1 (Ab)
+	  - Code de la santé publique - art. R145-2 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-5 (Ab)
+
+
+###### Article L145-2
+
+Les compositions recueillies par les centres antipoison sont transmises, dans des conditions assurant leur confidentialité, à
+l'organisme agréé visé à l'article L. 626-1 chargé de centraliser ces informations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 36 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1341-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L145-1 (Ab)
+	  - Code de la santé publique - art. R145-2 (Ab)
+	  - Code de la santé publique - art. R145-3 (Ab)
+	  - Code de la santé publique - art. R145-4 (Ab)
+	  - Code de la santé publique - art. R145-5 (Ab)
+	  - Code de la santé publique - art. R145-5-1 (Ab)
+	  - Code de la santé publique - art. R145-6 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L626-1 (Ab)
+
+
+###### Article L145-3
+
+Un décret en Conseil d'Etat définit le contenu de l'information transmise aux centres antipoison ou au centre agréé et les
+conditions dans lesquelles ce dernier fournit les informations et les personnes qui y ont accès, de façon à assurer leur
+confidentialité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 36 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1341-3 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R145-2 (Ab)
+
+
+###### Article L145-4
+
+Les personnes ayant accès à ces informations sont tenues au secret professionnel dans les conditions et sous les peines
+prévues à l'article 378 du code pénal.
+
+Le secret professionnel ne peut toutefois être opposé à l'autorité judiciaire agissant dans le cadre d'une procédure pénale.
+
+**Nota:**
+
+[*Nota - Loi n° 92-1336 du 16 décembre 1992 art. 333 : à partir du 1er septembre 1993, la référence aux peines prévues à
+l'article 378 du code pénal est remplacée par la référence aux peines fixées par l'article 226-13 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 36 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal 378
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1343-3 (V)
+
+
 ## Livre 2 : Action sanitaire et médico-sociale en faveur de la famille, de l'enfance et de la jeunesse
 
 ### Titre 1 : Protection maternelle et infantile
@@ -4903,6 +5060,9 @@ de résultats d'analyses ou d'examens dont la liste est fixée par voie régleme
 
 Une brochure d'éducation sanitaire doit être remise à chacun des futurs conjoints en même temps que le certificat médical.
 
+A l'occasion de l'examen médical prénuptial, après information sur les risques de contamination, un test de dépistage de
+l'infection par le virus de l'immuno-déficience humaine est proposé aux futurs conjoints [*SIDA*].
+
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 6 : le présent article du code de la santé publique, en vigueur au 7
@@ -4926,10 +5086,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la sécurité sociale. - art. L321-1 (M)
 	  - Code de la sécurité sociale. - art. L615-14 (M)
 
-	**Créé par**:
-
-	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 7 mai 1992
@@ -4938,12 +5094,21 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - TXT_SOURCE: Arrêté du 7 mai 1992 - art. 3 (Ab)
 	  - SPEC_APPLI: Code de la sécurité sociale. - art. L321-1 (M)
 
+	**Modifié par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 48 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
 	  - Code civil - art. 63 (M)
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L2121-1 (M)
 	  - Code de la santé publique - art. L2121-1 (V)
 
 
@@ -4957,6 +5122,9 @@ Toutefois, le premier examen prénatal ainsi que l'examen postnatal ne peuvent �
 
 Le nombre et la nature des examens obligatoires ainsi que les périodes au cours desquelles ils doivent intervenir sont
 déterminés par voie réglementaire.
+
+A l'occasion du premier examen prénatal, après information sur les risques de contamination, un test de dépistage de
+l'infection par le virus de l'immuno-déficience humaine est proposé à la femme enceinte [*SIDA*].
 
 **Nota:**
 
@@ -4985,12 +5153,17 @@ avril 1992, s'applique, à l'exception de la dernière phrase du premier alinéa
 	  - Code du service national - art. R*233-1 (V)
 	  - Code du travail - art. L122-25-3 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+	  - Loi n°93-121 du 27 janvier 1993 - art. 48 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L2122-1 (M)
 	  - Code de la santé publique - art. L2122-1 (V)
 	  - Code de la santé publique - art. L2421-2 (V)
 
@@ -5927,6 +6100,41 @@ Un décret en Conseil d'Etat fixera les conditions d'application du présent cha
 
 	  - Code de la santé publique - art. L2212-11 (M)
 	  - Code de la santé publique - art. L2213-3 (M)
+
+
+##### Section 4 : Entrave à l'interruption volontaire de grossesse
+
+###### Article L162-15-1
+
+Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, dont l'objet statutaire comporte la
+défense des droits des femmes à accéder à la contraception et à l'avortement, peut exercer les droits reconnus à la partie
+civile en ce qui concerne les infractions prévues par l'article L. 162-15 lorsque les faits ont été commis en vue d'empêcher
+ou de tenter d'empêcher une interruption volontaire de grossesse ou les actes préalables prévus par les articles L. 162-3 à
+L. 162-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L162-15 (Ab)
+	  - Code de la santé publique L162-15, L162-3 à L162-8
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2223-1 (V)
+
+	**Créé par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 37 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 #### Chapitre 4 : Actions de prévention concernant l'enfant.
@@ -14675,6 +14883,47 @@ s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L355-31 (Ab)
 
 
+###### Article L355-25
+
+Sont considérés comme produits du tabac les produits destinés à être fumés, prisés, mâchés ou sucés, dès lors qu'ils sont,
+même partiellement, constitués de tabac, ainsi que les produits destinés à être fumés même s'ils ne contiennent pas de tabac,
+au sens du troisième alinéa (2°) de l'article 564 decies du code général des impôts.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 29 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 564 decies
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°76-616 du 9 juillet 1976 - art. 1 (M)
+	  - Loi n°76-616 du 9 juillet 1976 - art. 1 (T)
+
+	**Créé par**:
+
+	  - Loi n°91-32 du 10 janvier 1991 - art. 9 () JORF 12 janvier 1991 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3511-1 (M)
+	  - Code de la santé publique - art. L3816-2 (M)
+
+
 ###### Article L355-26
 
 Est considérée comme propagande ou publicité indirecte toute propagande ou publicité en faveur d'un organisme, d'un service,
@@ -15951,7 +16200,9 @@ vertu d'une convention, la totalité ou une quote-part des honoraires ou des bé
 d'un membre de l'une des professions régies par le présent titre, médecin, chirurgien-dentiste ou sage-femme.
 
 En outre, certaines conventions entre pharmaciens et membres des professions médicales sont interdites par les articles L.
-549 et 550.
+549 et 550. Cette interdiction ne fait pas obstacle à l'application des dispositions de la loi n° 90-1258 du 31 décembre 1990
+relative à l'exercice sous forme de sociétés des professions libérales soumises à un statut législatif ou réglementaire ou
+dont le titre est protégé.
 
 **Nota:**
 
@@ -15960,11 +16211,32 @@ En outre, certaines conventions entre pharmaciens et membres des professions mé
 Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
 s'applique à la collectivité territoriale de Mayotte.*]
 
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Loi n°90-1258 1990-12-31
+	  - Code de la santé publique - art. L549 (Ab)
+	  - Code de la santé publique L549, 550
 
 	**Modifié par**:
 
-	  - Loi n°82-413 1982-05-19 art. 4 JORF 20 mai 1982
+	  - Loi n°93-121 du 27 janvier 1993 - art. 39 () JORF 30 janvier 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - TXT_ASSOCIE: Code de la santé publique - art. L376-1 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L510-9-4 (Ab)
+	  - SPEC_APPLI: Code de la santé publique l376 : dispositions pénales
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cité par**:
 
@@ -15976,21 +16248,53 @@ s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L472-3 (Ab)
 	  - Code de la santé publique - art. L510-9-2 (Ab)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L376-1 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L510-9-4 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique L376 : DISPOSITIONS PENALES
-
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L4113-5 (V)
 	  - Code de la santé publique - art. L4163-3 (V)
 
-	**Cite**:
 
-	  - Code de la santé publique - art. L549 (Ab)
-	  - Code de la santé publique - art. L550 (Ab)
+###### Article L365-1
+
+Est interdit le fait, pour les membres des professions médicales visées au titre Ier du livre IV du présent code, de recevoir
+des avantages en nature ou en espèces, sous quelque forme que ce soit, d'une façon directe ou indirecte, procurés par des
+entreprises assurant des prestations, produisant ou commercialisant des produits pris en charge par les régimes obligatoires
+de sécurité sociale.
+
+Toutefois, l'alinéa précédent ne s'applique pas aux avantages prévus par conventions passées entre les membres de ces
+professions médicales et des entreprises, dès lors que ces conventions ont pour objet explicite et but réel des activités de
+recherche ou d'évaluation scientifique, qu'elles sont, avant leur mise en application, soumises pour avis au conseil
+départemental de l'ordre des médecins et notifiées, lorsque les activités de recherche ou d'évaluation sont effectuées, même
+partiellement, dans un établissement de santé au responsable de l'établissement, et que les rémunérations ne sont pas
+calculées de manière proportionnelle au nombre de prestations ou produits prescrits, commercialisés ou assurés.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-121 1993-01-27 art. 47 1° JORF 30 janvier 1993
+
+	**Cité par**:
+
+	  - Code de déontologie médicale - art. 24 (Ab)
+	  - Code de la santé publique - art. L376-2 (Ab)
+	  - Code de la santé publique - art. L376-3 (Ab)
+	  - Code de la santé publique - art. L469-5 (Ab)
+	  - Code de la santé publique - art. L472-17 (Ab)
+	  - Code de la santé publique - art. L510-9-2 (Ab)
+	  - Code de la santé publique - art. R5053 (Ab)
+	  - Code de la santé publique - art. R5053-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L376-3 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L510-9-4 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L376 : DISPOSITIONS PENALES
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4113-6 (M)
+	  - Code de la santé publique - art. L4163-2 (M)
 
 
 ###### Article L366
@@ -16715,6 +17019,99 @@ Sont punies des mêmes peines, les infractions aux dispositions des articles L. 
 	**Cité par**:
 
 	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+
+
+###### Article L376-2
+
+Les dispositions de l'article L. 658-9 du présent code sont applicables à la recherche et à la constatation des infractions
+aux dispositions des articles L. 365, L. 365-1 et L. 549.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-121 1993-01-27 art. 47 3° JORF 30 janvier 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L365 (M)
+	  - Code de la santé publique - art. L365-1 (M)
+	  - Code de la santé publique - art. L549 (Ab)
+	  - Code de la santé publique - art. L658-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4163-1 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L472-20 (Ab)
+	  - Code de la santé publique - art. L472-8 (Ab)
+
+
+###### Article L376-3
+
+Les infractions aux dispositions de l'article L. 365-1 seront punies d'une amende de 500 000 F (1) [*montant*] et d'un
+emprisonnement de deux ans [*durée*]. En cas de condamnation, l'interdiction temporaire d'exercer la profession pendant une
+période de dix ans au plus pourra être prononcée par les cours et tribunaux accessoirement à la peine principale.
+
+(1) Amende applicable depuis le 1er février 1993.
+
+**Nota:**
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-121 1993-01-27 art. 47 5° JORF 30 janvier 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - TXT_ASSOCIE: Code de la santé publique - art. L365-1 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L365-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4163-2 (M)
 
 
 ###### Article L378
@@ -21864,6 +22261,9 @@ la publication de la loi n° 80-527 du 12 juillet 1980.
 2° Aux élèves préparant le diplôme d'Etat pendant la durée de leur scolarité, mais seulement dans les établissements ou
 services agréés pour l'accomplissement des stages.
 
+3° Aux élèves officiers et officiers de la marine marchande pendant la durée de leur stage de formation sanitaire effectué
+dans des établissements ou services agréés par le ministre chargé de la santé.
+
 La date et les modalités de la cessation des régimes dérogatoires visés dans le présent article seront fixées par décret pris
 sur le rapport du ministre de la Santé publique et de la Population.
 
@@ -21914,15 +22314,11 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 
 	**Modifié par**:
 
-	  - Loi n°80-527 1980-07-12 art. 3 JORF 13 juillet 1980
+	  - Loi n°93-121 du 27 janvier 1993 - art. 45 () JORF 30 janvier 1993
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L4311-12 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°46-630 1946-04-08 art. 5
 
 
 #### Chapitre 2 : Règles d'exercice de la profession et dispositions pénales.
@@ -24930,6 +25326,107 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	  - Code de la santé publique - art. L4381-1 (Ab)
 	  - Code de la santé publique - art. L4381-1 (M)
+
+
+###### Article L510-9-2
+
+Les règles fixées aux articles L. 365, L. 365-1 et L. 549 pour les membres des professions médicales visées au titre Ier du
+livre IV du présent code sont applicables aux professions visées au titre II, au chapitre Ier du titre III et au titre III-1
+du livre IV du présent code.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-121 1993-01-27 art. 47 2° JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L365 (M)
+	  - Code de la santé publique - art. L365-1 (M)
+	  - Code de la santé publique - art. L549 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-28 (M)
+	  - Code de la santé publique - art. L4321-20 (M)
+	  - Code de la santé publique - art. L4343-1 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L510-9-3 (Ab)
+	  - Code de la santé publique - art. L510-9-4 (Ab)
+	  - Code de la santé publique - art. R5053 (Ab)
+	  - Code de la santé publique - art. R5053-1 (Ab)
+
+
+###### Article L510-9-3
+
+Les dispositions de l'article L. 658-9 du présent code sont applicables à la recherche et à la constatation des infractions
+aux dispositions de l'article L. 510-9-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-121 1993-01-27 art. 47 4° JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4314-2 (V)
+	  - Code de la santé publique - art. L4323-2 (V)
+	  - Code de la santé publique - art. L4344-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L510-9-2 (Ab)
+	  - Code de la santé publique - art. L658-9 (M)
+
+
+###### Article L510-9-4
+
+Les infractions aux dispositions de l'article L. 510-9-2 seront punies d'une amende de 500 000 F (1) [*montant*] et d'un
+emprisonnement de deux ans [*durée*]. En cas de condamnation, l'interdiction temporaire d'exercer la profession pendant une
+période de dix ans au plus pourra être prononcée par les cours et tribunaux accessoirement à la peine principale.
+
+(1) Amende applicable depuis le 1er février 1993.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°93-121 1993-01-27 art. 47 6° JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L365 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L365-1 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L549 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4314-6 (M)
+	  - Code de la santé publique - art. L4314-6 (V)
+	  - Code de la santé publique - art. L4323-6 (M)
+	  - Code de la santé publique - art. L4323-6 (V)
+	  - Code de la santé publique - art. L4344-3 (M)
+	  - Code de la santé publique - art. L4344-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L510-9-2 (Ab)
 
 
 ###### Article L510-10
@@ -29035,6 +29532,36 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
 
 
+###### Article L570-2
+
+Pour être titulaire d'une officine de pharmacie ouverte au public, accéder à la gérance d'une pharmacie après décès, ou d'une
+pharmacie mutualiste ou de secours minière, le pharmacien doit justifier de l'exercice pendant au moins six mois d'une
+expérience complémentaire en tant que pharmacien assistant ou en tant que remplaçant dans une officine de pharmacie s'il n'a
+pas effectué le stage de fin d'études de six mois dans une officine de pharmacie ou une pharmacie hospitalière.
+
+Cette disposition ne s'applique pas aux anciens internes en pharmacie hospitalière.
+
+La présente disposition, qui entrera en vigueur le 1er janvier 1996, ne s'appliquera pas aux pharmaciens inscrits à l'une
+quelconque des sections de l'ordre à cette date ou y ayant été précédemment inscrits. Il en ira de même pour les pharmaciens
+ressortissants des autres Etats membres de la Communauté économique européenne eu égard à leur exercice professionnel dans
+leur pays d'origine ou de provenance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-9 (M)
+
+	**Créé par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 46 () JORF 30 janvier 1993
+
+
 ###### Article L571
 
 Aucune création d'officine ne peut être accordée dans les villes où la licence a déjà été délivrée à [*numérus clausus*] :
@@ -30577,6 +31104,97 @@ service ou de l'établissement.
 	**Abrogé par**:
 
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L595-10
+
+Les services départementaux d'incendie et de secours peuvent bénéficier de l'autorisation prévue à l'article L. 595-3, en vue
+de dispenser des médicaments, objets ou produits nécessaires aux malades ou blessés auxquels ils donnent des secours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 23 () JORF 30 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°97-1225 du 26 décembre 1997 - art. 25 (Ab)
+	  - Code de la santé publique - art. R5056 (Ab)
+	  - Code de la santé publique - art. R5203 (Ab)
+	  - Code général des collectivités territoriales - art. R1424-25 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5126-13 (V)
+	  - Code de la santé publique - art. L5126-13 (VT)
+	  - Code de la santé publique - art. L595-11 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L595-3 (Ab)
+
+
+##### Section 4 : Dispositions communes
+
+###### Article L595-11
+
+Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre et notamment :
+
+- les modalités d'octroi, de suspension ou de retrait de l'autorisation mentionnée à l'article L. 595-3 ;
+
+- les conditions d'installation et de fonctionnement des pharmacies à usage intérieur ;
+
+- les conditions de la gérance de ces pharmacies ;
+
+- les conditions d'exercice et de remplacement de leurs pharmaciens ;
+
+- les critères selon lesquels sont arrêtés la liste des médicaments définie à l'article L. 595-7-1, leur prix de cession,
+ainsi que le choix des établissements autorisés, par le même article, à vendre lesdits médicaments au public ;
+
+- les conditions dans lesquelles les pharmacies à usage intérieur sont inspectées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 23 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5126-14 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. L595-10 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L595-3 (Ab)
+	  - Code de la santé publique - art. L595-7-1 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5008 (M)
+	  - Code de la santé publique - art. R5028 (M)
 
 
 #### Chapitre 2 : Fabrication, importation, exportation et distribution en gros des produits pharmaceutiques et exploitation des spécialités ou autres médicaments
@@ -34180,54 +34798,6 @@ l'article L. 595-3.
 	**Cite**:
 
 	  - Code de la santé publique - art. L595-3 (Ab)
-
-
-##### Section 4 : Dispositions communes
-
-###### Article L595-10
-
-Un décret en Conseil d'Etat précise les conditions d'application du présent chapitre et notamment :
-
-- les modalités d'octroi, de suspension ou de retrait de l'autorisation mentionnée à l'article L. 595-3 ;
-
-- les conditions d'installation et de fonctionnement des pharmacies à usage intérieur ;
-
-- les conditions de la gérance de ces pharmacies ;
-
-- les conditions d'exercice et de remplacement de leurs pharmaciens ;
-
-- les critères selon lesquels sont arrêtés la liste des médicaments définie à l'article L. 595-7-1, leur prix de cession,
-ainsi que le choix des établissements autorisés, par le même article, à vendre lesdits médicaments au public ;
-
-- les conditions dans lesquelles les pharmacies à usage intérieur sont inspectées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 8 () JORF 11 décembre 1992
-
-	**Cité par**:
-
-	  - Décret n°97-1225 du 26 décembre 1997 - art. 25 (Ab)
-	  - Code de la santé publique - art. R5056 (Ab)
-	  - Code de la santé publique - art. R5203 (Ab)
-	  - Code général des collectivités territoriales - art. R1424-25 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L5126-13 (VT)
-	  - Code de la santé publique - art. L595-11 (Ab)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L595-3 (Ab)
-	  - Code de la santé publique - art. L595-7-1 (M)
 
 
 ### Titre 3 : Restrictions au commerce de certaines substances ou de certains objets
@@ -39427,12 +39997,21 @@ Dans le respect du secret médical et des droits des malades, ils mettent en oeu
 compte notamment des pathologies et des modes de prise en charge en vue d'améliorer la connaissance et l'évaluation de
 l'activité et des coûts et de favoriser l'optimisation de l'offre de soins.
 
+Les praticiens exerçant dans les établissements de santé publics et privés transmettent les données médicales nominatives
+nécessaires à l'analyse de l'activité au médecin responsable de l'information médicale pour l'établissement dans des
+conditions déterminées par voie réglementaire après consultation du Conseil national de l'ordre des médecins.
+
+Le praticien responsable de l'information médicale est un médecin désigné par le conseil d'administration ou l'organe
+délibérant de l'établissement, s'il existe, après avis de la commission médicale ou de la conférence médicale. Pour ce qui
+concerne les établissements publics de santé, les conditions de cette désignation et les modes d'organisation de la fonction
+d'information médicale sont fixés par décret.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cité par**:
 
@@ -39472,10 +40051,13 @@ l'activité et des coûts et de favoriser l'optimisation de l'offre de soins.
 	  - Code de la sécurité sociale. - art. L162-12-15 (V)
 	  - Code de la sécurité sociale. - art. R161-30 (V)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-748 du 31 juillet 1991 - art. 1 () JORF 2 août 1991
-	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+	  - Loi n°93-121 du 27 janvier 1993 - art. 40 () JORF 30 janvier 1993
+
+	**Transféré par**:
+
+	  - Rapport - art. 2 (V) JORF 25 avril 1996
 
 	**Liens**:
 
@@ -39484,6 +40066,7 @@ l'activité et des coûts et de favoriser l'optimisation de l'offre de soins.
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L710-6 (Ab)
 	  - Code de la santé publique - art. L710-6 (M)
 
 
@@ -40966,10 +41549,9 @@ excédents existant dans la zone considérée et dans la limite d'un plafond.
 Par dérogation aux dispositions des 1° et 2° de l'article L. 712-9, lorsque des établissements de santé, publics ou privés,
 situés dans une zone sanitaire dont les moyens sont excédentaires dans la ou les disciplines en cause demandent
 l'autorisation de se regrouper ou de se reconvertir au sein de cette zone, l'autorisation peut être accordée à condition
-d'être assortie d'une réduction de capacité des établissements regroupés ; les modalités de cette réduction sont définies par
-décret en tenant compte des excédents existant dans la zone considérée et dans la limite d'un plafond. En cas
-d'établissements multidisciplinaires, le regroupement par discipline entre plusieurs établissements est autorisé dans les
-mêmes conditions.
+d'être assortie d'une réduction de capacité des établissements ; les modalités de cette réduction sont définies par décret en
+tenant compte des excédents existant dans la zone considérée et dans la limite d'un plafond. En cas d'établissements
+multidisciplinaires, le regroupement par discipline entre plusieurs établissements est autorisé dans les mêmes conditions.
 
 Ces dispositions ne sont pas applicables aux cessions d'établissements ne donnant pas lieu à une augmentation de capacité ou
 à un regroupement d'établissements.
@@ -40981,15 +41563,14 @@ Ces dispositions ne sont pas applicables aux cessions d'établissements ne donna
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Créé par**:
-
-	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-	  - Loi n°91-748 du 31 juillet 1991 - art. 4 () JORF 2 août 1991
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°92-1373 du 24 décembre 1992
 	  - TXT_SOURCE: Décret n°92-1373 du 24 décembre 1992 - art. 2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 41 () JORF 30 janvier 1993
 
 	**Cité par**:
 
@@ -41025,7 +41606,7 @@ sécurité sociale.
 
 L'autorisation de dispenser des soins remboursables aux assurés sociaux peut être refusée lorsque le prix prévu est hors de
 proportion avec les conditions de fonctionnement du service, eu égard aux conditions techniques de fonctionnement fixées en
-application de l'article L. 712-19.
+application de l'article L. 712-9.
 
 **Liens relatifs à cet article**
 
@@ -41033,6 +41614,10 @@ application de l'article L. 712-19.
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 41 () JORF 30 janvier 1993
 
 	**Cité par**:
 
@@ -41052,13 +41637,8 @@ application de l'article L. 712-19.
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L712-19 (M)
+	  - Code de la santé publique - art. L712-9 (M)
 	  - Code de la sécurité sociale. - art. L162-21 (M)
-
-	**Créé par**:
-
-	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-	  - Loi n°91-748 du 31 juillet 1991 - art. 4 () JORF 2 août 1991
 
 
 ###### Article L712-13
@@ -44159,7 +44739,7 @@ privés" sont substitués aux mots "établissements d'hospitalisation privés".*
 Les établissements de santé privés peuvent être admis à assurer l'exécution du service public hospitalier dans les conditions
 prévues par la présente section, sur leur demande ou sur celle de la personne morale dont ils dépendent, sous réserve qu'ils
 s'engagent à respecter les obligations de service public imposées aux établissements publics de santé par les dispositions
-des articles L. 711-1 à L. 711-3. Les établissements de santé privés assurant l'exécution du service public hospitalier sont
+des articles L. 711-1 à L. 711-4. Les établissements de santé privés assurant l'exécution du service public hospitalier sont
 assimilés aux établissements publics de santé en ce qui concerne l'accès des assurés sociaux et des personnes bénéficiaires
 de l'aide sociale.
 
@@ -44170,9 +44750,9 @@ de l'aide sociale.
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-748 du 31 juillet 1991 - art. 11 () JORF 2 août 1991
+	  - Loi n°93-121 du 27 janvier 1993 - art. 41 () JORF 30 janvier 1993
 
 	**Cité par**:
 
@@ -44191,7 +44771,7 @@ de l'aide sociale.
 
 	**Cite**:
 
-	  - Code de la santé publique L711-1 à L711-3
+	  - Code de la santé publique L711-1 à L711-4
 
 
 ###### Article L715-6
@@ -44430,13 +45010,7 @@ accords en vue de leur association au fonctionnement du service public hospitali
 des organismes de sécurité sociale.
 
 Ils peuvent alors demander à bénéficier des services communs gérés par le syndicat interhospitalier du lieu de leur
-implantation. L'autorisation est accordée selon les modalités prévues à l'article L. 713-4.
-
-**Nota:**
-
-[*Nota : Loi 91-748 du 31 juillet 1991 art. 33 : dans les dispositions législatives, les mots "établissements publics de
-santé" sont substitués aux mots "établissements d'hospitalisation publics" et les mots "établissements de santé privés" sont
-substitués aux mots "établissements d'hospitalisation privés".*]
+implantation. L'autorisation est accordée selon les modalités prévues à l'article L. 713-10.
 
 **Liens relatifs à cet article**
 
@@ -44449,12 +45023,9 @@ substitués aux mots "établissements d'hospitalisation privés".*]
 
 	  - Loi n°70-1318 du 31 décembre 1970 - art. 43 (T)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-748 1991-07-31 art. 11 II, art. 15 I et II, art. 16, art. 33 JORF 2 août 1991
-	  - Loi n°91-748 du 31 juillet 1991 - art. 11 () JORF 2 août 1991
-	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-	  - Loi n°91-748 du 31 juillet 1991 - art. 33 (V) JORF 2 août 1991
+	  - Loi n°93-121 du 27 janvier 1993 - art. 41 () JORF 30 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -44470,7 +45041,7 @@ substitués aux mots "établissements d'hospitalisation privés".*]
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L713-4 (M)
+	  - Code de la santé publique - art. L713-10 (M)
 
 
 ##### Section 3 : Dispositions relatives aux établissements de santé privés ne participant pas au service public hospitalier
@@ -45598,7 +46169,10 @@ Un laboratoire d'analyses de biologie médicale ne peut être ouvert, exploité 
 5° Un organisme mutualiste ou de sécurité sociale ;
 
 6° Un organisme à but non lucratif reconnu d'utilité publique ou bénéficiant d'une autorisation donnée par le ministère de la
-santé.
+santé ;
+
+7° Une société d'exercice libéral à responsabilité limitée, une société d'exercice libéral à forme anonyme ou une société
+d'exercice libéral en commandite par actions dans les conditions prévues par la loi n° 90-1258 du 31 décembre 1990.
 
 **Nota:**
 
@@ -45616,6 +46190,11 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
+	**Cite**:
+
+	  - Loi n°1966-11-29
+	  - Loi n°90-1258 1990-12-31
+
 	**Cité par**:
 
 	  - Loi n°75-626 du 11 juillet 1975 - art. 2 (V)
@@ -45625,7 +46204,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+	  - Loi n°93-121 du 27 janvier 1993 - art. 44 () JORF 30 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -45633,12 +46212,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de la santé publique L755 : DESIGNATION DES DIRECTEURS
 	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
-
-	**Cite**:
-
-	  - Loi n°1966-11-29
 
 
 ###### Article L755
@@ -45700,8 +46274,8 @@ médicale, elle doit se conformer aux règles ci-après [*obligation*] :
 
 1° Les actions des sociétés anonymes doivent revêtir la forme nominative ;
 
-2° Les trois quarts au moins [*pourcentage*] du capital social doivent être détenus par les directeurs et directeurs adjoints
-du laboratoire ;
+2° Les trois quarts au moins [*pourcentage*] du capital social doivent être détenus par le ou les directeurs et directeurs
+adjoints du laboratoire ;
 
 3° Les associés ne peuvent être que des personnes physiques, à l'exclusion de celles exerçant une activité médicale autre que
 les fonctions de directeur ou directeur adjoint de laboratoire ;
@@ -45746,7 +46320,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+	  - Loi n°93-121 du 27 janvier 1993 - art. 44 () JORF 30 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -45922,19 +46496,28 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 ###### Article L760
 
 Sous réserve des accords ou conventions susceptibles d'être passés avec des régimes ou des organismes d'assurance maladie ou
-des établissements hospitaliers publics ou privés, les personnes physiques et les sociétés et organismes qui exploitent un
-laboratoire d'analyses de biologie médicale ne peuvent consentir à des tiers, sous quelque forme que ce soit, des ristournes
-pour les analyses ou examens dont ils sont chargés [*interdiction*].
+des établissements hospitaliers publics ou privés et des contrats de collaboration visés au quatrième alinéa du présent
+article ou privés, les personnes physiques et les sociétés et organismes qui exploitent un laboratoire d'analyses de biologie
+médicale ne peuvent consentir à des tiers, sous quelque forme que ce soit, des ristournes pour les analyses ou examens dont
+ils sont chargés [*interdiction*].
 
 Ils ne peuvent passer un accord ou une convention accordant à un tiers la totalité ou une quote-part des revenus provenant de
 l'activité du laboratoire d'analyses de biologie médicale.
 
-La transmission de prélèvements aux fins d'analyses n'est autorisée qu'au pharmacien d'officine installé dans une
-agglomération où n'existe pas de laboratoire exclusif ou à un directeur de laboratoire à un autre laboratoire spécialement
-équipé pour une ou plusieurs disciplines biologiques.
+La transmission de prélèvements aux fins d'analyses n'est autorisée au pharmacien d'officine que s'il est installé dans une
+agglomération où n'existe pas de laboratoire exclusif.
+
+Les transmissions de prélèvements aux fins d'analyses à l'exception des actes visés à l'article L. 759 ne peuvent être
+effectuées entre deux laboratoires qu'en application d'un contrat de collaboration préalablement conclu entre eux, qui
+précise la nature et les modalités des transmissions effectuées.
+
+Les laboratoires exploités au sein d'une même société sont autorisés à réaliser entre eux des transmissions de prélèvements
+aux fins d'analyses sans conclure de contrat de collaboration. Toutefois, ils devront en préciser la nature et les modalités
+dans un règlement intérieur dont le texte devra être communiqué au préfet et au conseil de l'ordre compétent. Dans le cas
+d'un contrat de collaboration, l'analyse est effectuée sous la responsabilité du laboratoire qui a effectué le prélèvement.
 
 Dans ces cas, une indemnité forfaitaire dont le montant est fixé par arrêté interministériel est attribuée au pharmacien
-d'officine ou au directeur de laboratoire qui a assuré la transmission.
+d'officine qui a assuré la transmission.
 
 Cette indemnité, incluse dans la tarification des analyses auxquelles a donné lieu le prélèvement, est à la charge du
 laboratoire qui a effectué ces analyses.
@@ -45945,6 +46528,12 @@ laboratoire qui a effectué ces analyses.
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique l761-11 : hors champ d'application
+	  - TXT_ASSOCIE: Code de la santé publique l761-17 : dispositions pénales
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-17 (Ab)
 
 	**Codifié par**:
 
@@ -45959,19 +46548,13 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°94-1049 du 2 décembre 1994 - art. 4 (Ab)
 	  - Code de la santé publique - art. L761-17 (Ab)
 
+	**Cite**:
+
+	  - Code de la santé publique - art. L759 (M)
+
 	**Modifié par**:
 
-	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L761-17 (Ab)
-	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
-	  - TXT_ASSOCIE: Code de la santé publique L761-17 : DISPOSITIONS PENALES
-
-	**Anciens textes**:
-
-	  - Décret n°1939-11-29 art. 21
+	  - Loi n°93-121 du 27 janvier 1993 - art. 44 () JORF 30 janvier 1993 rectificatif JORF 23 avril 1993
 
 
 ##### Section 2 : Dispositions applicables aux directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale
