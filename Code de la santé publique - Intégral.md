@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1995-02-24
+Version Consolidée au 1995-02-26
 
 # Partie législative ancienne
 
@@ -107645,9 +107645,13 @@ restituée.
 
 # Partie réglementaire ancienne - Décrets simples
 
-## Livre VI : Utilisation thérapeutique de produits d'origine humaine
+## Livre VI : Don et utilisation des éléments et produits du corps humain
 
-### Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés
+### Titre II : Du sang humain
+
+#### Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés
+
+##### Section 1 : Des règles relatives au bénévolat du don du sang
 
 ###### Article D666-3-1
 
@@ -107664,9 +107668,13 @@ prestation ou tout octroi d'avantages.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+	  - Décret n°95-195 du 16 février 1995 - art. 1 () JORF 26 février 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
 
 	**Nouveaux textes**:
 
@@ -107688,9 +107696,17 @@ de collation jugée médicalement nécessaire.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+	  - Décret n°95-195 du 16 février 1995 - art. 1 () JORF 26 février 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D1221-2 (V)
 
 	**Cite**:
 
@@ -107709,9 +107725,13 @@ que l'offre d'une collation consécutive au don.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+	  - Décret n°95-195 du 16 février 1995 - art. 1 () JORF 26 février 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
 
 	**Nouveaux textes**:
 
@@ -107730,9 +107750,13 @@ exposés lors du don, à l'exclusion de tout remboursement forfaitaire.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+	  - Décret n°95-195 du 16 février 1995 - art. 1 () JORF 26 février 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
 
 	**Nouveaux textes**:
 
@@ -107751,15 +107775,307 @@ précèdent en vertu des missions et des compétences qu'elle tient des articles
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+	  - Décret n°95-195 du 16 février 1995 - art. 1 () JORF 26 février 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L667-4 (M)
 	  - Code de la santé publique - art. L667-5 (M)
 	  - Code de la santé publique - art. L667-9 (M)
+
+
+##### Section 2 : Des analyses biologiques et tests de dépistage des maladies transmissibles effectués sur les prélèvements de sang et de ses composants
+
+###### Article D666-4-1
+
+I. - Les analyses biologiques et tests de dépistage suivants sont effectués sur chaque prélèvement de sang ou de composant du
+sang destiné à la préparation de produits sanguins labiles à usage thérapeutique direct ainsi que sur chaque donneur avant
+tout prélèvement de cellules souches hématopoïétiques ou de cellules somatiques mononucléées destinées à la réalisation de
+préparations cellulaires :
+
+1° La détermination des groupes sanguins érythrocytaires, qui comprend :
+
+a) La détermination du groupe dans le système ABO ;
+
+b) La détermination du groupe Rh D (RH1) et, en cas de Rh D négatif (RH : - 1), la détermination des autres antigènes du
+système rhésus : C (RH2), E (RH3), c (RH4) et e (RH5) ;
+
+2° La cherche des anticorps anti-érythrocytaires pouvant avoir une incidence clinique transfusionnelle ;
+
+3° La détection des anticorps anti-A et anti-B immuns ;
+
+4° Le dosage de l'hémoglobine ou la détermination de l'hématocrite ;
+
+5° Les tests et analyses biologiques suivants en vue du dépistage de maladies transmissibles :
+
+a) Le dépistage sérologique de la syphilis ;
+
+b) La détection de l'antigène HBs ;
+
+c) La détection des anticorps anti-VIH 1 et anti-VIH 2 ;
+
+d) La détection des anticorps anti-VHC ;
+
+e) La détection des anticorps anti-HTLV-I et anti-HTLV-II ;
+
+f) La détection des anticorps antipaludéens chez les donneurs ayant séjourné dans une zone d'endémie telle que définie par
+l'Organisation mondiale de la santé lorsque le prélèvement est effectué plus de quatre mois et moins de trois ans après la
+date de leur retour de la zone d'endémie ;
+
+g) La détection des anticorps anti-HBc ;
+
+h) Le dosage des alanine-aminotransférases (ALAT).
+
+II. - Le sang ou ses composants ne peuvent être utilisés en vue de préparer des produits sanguins labiles destinés à un usage
+thérapeutique direct que si les résultats des tests de dépistage prévus au 5° ci-dessus sont négatifs et si les résultats du
+dosage des alanine-aminotransférases (ALAT) sont conformes aux normes fixées par arrêté du ministre chargé de la santé.
+
+III. - Toutefois, des dérogations aux dispositions des alinéas précédents peuvent être prévues par arrêté du ministre chargé
+de la santé, lorsque le sang ou ses composants sont prélevés en vue de préparer des produits sanguins labiles destinés à la
+transfusion autologue.
+
+IV. - Un arrêté du ministre chargé de la santé :
+
+- peut prévoir des analyses biologiques et des tests de dépistage à effectuer sur le donneur avant tout prélèvement de
+cellules souches hématopoïétiques ou de cellules souches mononucléées destinées à la réalisation de préparations cellulaires,
+en supplément des analyses et tests mentionnés au I du présent article ;
+
+- prévoit les conditions d'utilisation de ces prélèvements au vu des résultats des tests et analyses obligatoires, en
+fonction du caractère allogénique ou autologue des greffes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-195 du 16 février 1995 - art. 2 () JORF 26 février 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 24 mars 1995
+	  - TXT_SOURCE: Arrêté du 24 mars 1995 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 24 mars 1995 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 mars 1996
+	  - TXT_SOURCE: Arrêté du 29 novembre 1996
+	  - TXT_SOURCE: Arrêté du 29 novembre 1996 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 29 novembre 1996 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 29 novembre 1996 - art. 3 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 24 mars 1995 - art. 1 (Ab)
+	  - Arrêté du 24 mars 1995 - art. 2 (Ab)
+	  - Arrêté du 28 décembre 1995 - art. 1 (V)
+	  - Arrêté du 29 novembre 1996
+	  - Arrêté du 29 novembre 1996 - art. 1 (V)
+	  - Arrêté du 29 novembre 1996 - art. 2 (V)
+	  - Arrêté du 28 octobre 1997 - art. 3 (V)
+	  - Code de la santé publique - art. D666-4-2 (Ab)
+	  - Code de la santé publique - art. D666-4-3 (Ab)
+	  - Code de la santé publique - art. D666-4-4 (Ab)
+	  - Code de la santé publique - art. D666-4-5 (Ab)
+	  - Code de la santé publique - art. D666-4-6 (Ab)
+
+
+###### Article D666-4-2
+
+Par dérogation aux dispositions de l'article D. 666-4-1, un arrêté du ministre chargé de la santé prévoit les conditions dans
+lesquelles, afin de répondre à des nécessités thérapeutiques impérieuses, peuvent être utilisés pour préparer des produits
+sanguins labiles à usage thérapeutique direct correspondant à des groupes sanguins érythrocytaires rares, des prélèvements de
+sang ou de composants du sang sur lesquels n'a pas été effectué l'ensemble des tests et analyses mentionnés à l'article
+précité ou pour lesquels les résultats de certains de ces tests et analyses sont positifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-195 du 16 février 1995 - art. 2 () JORF 26 février 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 28 décembre 1995
+	  - TXT_SOURCE: Arrêté du 28 décembre 1995 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 29 novembre 1996
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D1221-11 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D666-4-1 (M)
+
+
+###### Article D666-4-3
+
+Le sang ou ses composants ne peuvent être utilisés en vue de préparer des produits intermédiaires et des médicaments dérivés
+du sang que si les résultats des tests mentionnés aux b, c et d du 5° du I de l'article D. 666-4-1 sont négatifs. D'autre
+part, le résultat du dosage des alanine-aminotransférases (ALAT) doit être conforme à des normes fixées par arrêté du
+ministre chargé de la santé.
+
+Toutefois, lorsque les composants du sang prélevés pour préparer des produits intermédiaires ou des médicaments sont des
+composants cellulaires, un arrêté du ministre chargé de la santé peut prévoir des tests et analyses supplémentaires, ces
+composants cellulaires ne pouvant alors être utilisés pour préparer des produits intermédiaires ou des médicaments que si les
+résultats de ces tests supplémentaires sont négatifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-195 du 16 février 1995 - art. 2 () JORF 26 février 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 24 mars 1995
+	  - TXT_SOURCE: Arrêté du 24 mars 1995 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 24 mars 1995 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 mars 1996
+
+	**Cité par**:
+
+	  - Arrêté du 24 mars 1995 - art. 1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D1221-12 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D666-4-1 (M)
+
+
+###### Article D666-4-4
+
+Tout établissement de transfusion sanguine agréé en application de l'article L. 668-1 collectant le sang et ses composants,
+qui prépare, outre des produits sanguins labiles à usage thérapeutique direct, des produits sanguins labiles destinés à la
+préparation de médicaments dérivés du sang, est tenu d'appliquer à tous les prélèvements correspondants l'ensemble des
+dispositions du I ainsi que du II de l'article D. 666-4-1.
+
+Toutefois, par dérogation aux dispositions de l'alinéa précédent, un arrêté du ministre chargé de la santé peut autoriser
+l'utilisation de prélèvements pour lesquels le résultat du test de détection des anticorps anti-HBc est positif, en vue de la
+préparation de produits intermédiaires et de médicaments, à condition que ces anticorps soient associés à des anticorps anti-
+HBs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-195 du 16 février 1995 - art. 2 () JORF 26 février 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 24 mars 1995
+	  - TXT_SOURCE: Arrêté du 24 mars 1995 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 24 mars 1995 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 mars 1996
+
+	**Cité par**:
+
+	  - Arrêté du 24 mars 1995 - art. 1 (Ab)
+	  - Arrêté du 24 mars 1995 - art. 2 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D1221-13 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D666-4-1 (M)
+	  - Code de la santé publique - art. L668-1 (M)
+
+
+###### Article D666-4-5
+
+Le sang et ses composants ne peuvent être utilisés en vue de préparer des réactifs que si les résultats des tests et analyses
+prévus aux b, c et d du 5° du I de l'article D. 666-4-1 sont négatifs.
+
+Toutefois, un réactif de laboratoire peut être préparé à partir d'un prélèvement contenant un ou plusieurs anticorps ou
+antigènes recherchés par les tests et analyses visés à l'alinéa ci-dessus et nécessaires à l'usage de ce réactif, à condition
+que le prélèvement ait subi une inactivation virale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-195 du 16 février 1995 - art. 2 () JORF 26 février 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 3° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D1221-14 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D666-4-1 (M)
+
+
+###### Article D666-4-6
+
+Le sang et ses composants ne peuvent être cédés à un établissement d'enseignement secondaire qu'à des fins d'enseignement, à
+l'exclusion de toute administration à l'homme, et à condition que :
+
+- les tests et analyses prévus au 5° du I de l'article D. 666-4-1 aient été pratiqués sur chaque prélèvement ;
+
+- que les résultats soient conformes aux dispositions du II de ce même article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-195 du 16 février 1995 - art. 2 () JORF 26 février 1995
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D1221-15 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D666-4-1 (M)
 
 
 ## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires
