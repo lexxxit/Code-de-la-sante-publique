@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1978-07-07
+Version Consolidée au 1978-07-13
 
 # Partie législative ancienne
 
@@ -1775,6 +1775,140 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Liens**:
 
 	  - SPEC_APPLI: Code de la santé publique L51 : non applicable aux ateliers et manufectures
+
+
+#### Chapitre 3-1 : Des piscines et baignades
+
+###### Article L25-2
+
+Toute personne publique ou privée qui procède à l'installation d'une piscine ou à l'aménagement d'une baignade, autres que
+celles réservées à l'usage personnel d'une famille, doit en faire, avant l'ouverture, la déclaration [*obligatoire*] à la
+mairie du lieu de son implantation.
+
+Cette déclaration, accompagnée d'un dossier justificatif, comporte l'engagement que l'installation de la piscine ou
+l'aménagement de la baignade satisfait aux normes d'hygiène et de sécurité fixées par le décret mentionné à l'article L.
+25-5.
+
+Une déclaration doit également être effectuée par le propriétaire ou l'exploitant d'une piscine ou d'une baignade aménagée
+déjà existante, dans le délai prévu par le même décret.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°78-733 1978-07-12 art. 1 JORF 13 juillet 1978
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Arrêté du 7 avril 1981 - art. 1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1332-1 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L25-5 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
+###### Article L25-3
+
+Sans préjudice de l'exercice des pouvoirs de police appartenant aux diverses autorités administratives, l'utilisation d'une
+piscine ou d'une baignade aménagée peut être interdite par les autorités administratives si les conditions matérielles
+d'aménagement ou de fonctionnement portent atteinte à la santé ou à la sécurité des utilisateurs ainsi qu'à l'hygiène ou à la
+salubrité publique, ou si l'installation n'est pas conforme aux normes prévues ou n'a pas été mise en conformité avec celles-
+ci dans le délai déterminé par les autorités administratives.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°78-733 1978-07-12 art. 1 JORF 13 juillet 1978
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1332-2 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
+###### Article L25-4
+
+Le contrôle des piscines et des baignades aménagées ainsi que la constatation des infractions aux dispositions du présent
+chapitre et des textes pris pour son application sont assurés par les agents mentionnés à l'article L. 48 du présent code
+ainsi que par les fonctionnaires et agents du ministère de l'intérieur, du ministère chargé des sports, du ministère chargé
+de la santé, assermentés et commissionnés à cet effet [*autorités compétentes*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°78-733 1978-07-12 art. 1 JORF 13 juillet 1978
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Arrêté du 7 avril 1981 - art. 5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1332-3 (M)
+	  - Code de la santé publique - art. L1336-1 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L48 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
 
 
 #### Chapitre 4 : Salubrité des immeubles
