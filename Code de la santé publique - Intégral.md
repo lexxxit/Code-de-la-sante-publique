@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-03-27
+Version Consolidée au 1993-03-28
 
 # Partie législative ancienne
 
@@ -72246,6 +72246,385 @@ attachés exerçant dans les centres hospitaliers autres que les centres hospita
 	  - Code de la santé publique - art. R711-6-18 (M)
 
 
+##### Section 3 : Soins dispensés en milieu pénitentiaire par les établissements publics de santé
+
+###### Article R711-7
+
+Les conditions dans lesquelles des établissements publics de santé dispensent en milieu pénitentiaire des soins aux détenus
+dont l'état ne requiert ni hospitalisation ni examens en milieu hospitalier sont fixées par une convention passée à cet effet
+entre l'établissement pénitentiaire concerné et un établissement public de santé situé à proximité et remplissant les
+conditions définies à l'article R. 711-8 ; lorsque cet établissement ne dispense pas de soins en psychiatrie, l'établissement
+pénitentiaire passe, en outre, une convention avec un établissement public de santé spécialisé, sans préjudice des
+dispositions de l'article L. 326 et des actions mises en oeuvre par les services médico-psychologiques régionaux dans le
+cadre des secteurs de psychiatrie en milieu pénitentiaire conformément aux articles 1er et 11 du décret n° 86-602 du 14 mars
+1986.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°86-602 du 14 mars 1986 - art. 1 (Ab)
+	  - Décret n°86-602 du 14 mars 1986 - art. 11 (M)
+	  - Code de la santé publique - art. L326 (M)
+
+	**Créé par**:
+
+	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+
+	**Cité par**:
+
+	  - Arrêté du 29 novembre 1993 - art. 2 (V)
+	  - Arrêté du 14 décembre 1986 - art. 4 (V)
+	  - CODE DE PROCEDURE PENALE - art. D368 (V)
+	  - CODE DE PROCEDURE PENALE - art. D369 (V)
+	  - CODE DE PROCEDURE PENALE - art. D372 (V)
+	  - CODE DE PROCEDURE PENALE - art. D391 (V)
+	  - Code de la santé publique - art. R5104-13 (M)
+	  - Code de la santé publique - art. R711-10 (Ab)
+	  - Code de la santé publique - art. R711-12 (Ab)
+	  - Code de la santé publique - art. R711-13 (Ab)
+	  - Code de la santé publique - art. R711-14 (Ab)
+	  - Code de la santé publique - art. R711-15 (M)
+	  - Code de la santé publique - art. R711-19 (Ab)
+	  - Code de la santé publique - art. R711-8 (M)
+	  - Code de la santé publique - art. R711-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-14 (V)
+
+
+###### Article R711-8
+
+Peuvent passer les conventions mentionnées à l'article R. 711-7 les établissements publics de santé :
+
+1° Dont la mission principale est de dispenser les soins définis au a du 1° de l'article L. 711-2 et qui comportent un
+service d'accueil et de traitement des urgences au sens du 5° du III de l'article R. 712-2 ;
+
+2° Ou dont la mission exclusive est de participer à la lutte contre les maladies mentales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 1993 - art. Annexe, art. 2 (V)
+	  - Code de la santé publique - art. R711-7 (M)
+	  - Code de la santé publique - art. R711-9 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L711-2 (M)
+	  - Code de la santé publique - art. R712-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-14 (V)
+
+
+###### Article R711-9
+
+En l'absence, à proximité de l'établissement pénitentiaire, d'un établissement public de santé participant à la sectorisation
+psychiatrique, par dérogation aux articles R. 711-7 et R. 711-8, une convention peut être conclue au titre de la lutte contre
+les maladies mentales avec un établissement de santé privé participant au service public hospitalier relevant des
+dispositions de l'article L. 711-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 1993 - art. Annexe, art. 2 (V)
+	  - CODE DE PROCEDURE PENALE - art. D368 (V)
+	  - CODE DE PROCEDURE PENALE - art. D369 (V)
+	  - CODE DE PROCEDURE PENALE - art. D372 (V)
+	  - Code de la santé publique - art. R711-10 (Ab)
+	  - Code de la santé publique - art. R711-11 (Ab)
+	  - Code de la santé publique - art. R711-12 (Ab)
+	  - Code de la santé publique - art. R711-17 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L711-11 (M)
+	  - Code de la santé publique - art. R711-7 (M)
+	  - Code de la santé publique - art. R711-8 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-15 (V)
+
+
+###### Article R711-10
+
+L'organisation des soins et le fonctionnement médical de la structure de l'établissement public de la santé qui intervient en
+milieu pénitentiaire sont régis par les dispositions de la section III du chapitre IV du présent titre sans préjudice des
+dispositions de l'article L. 326 et du décret du 14 mars 1986 susmentionné.
+
+Cette intervention s'inscrit dans le projet d'établissement défini à l'article L. 714-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°86-602 1986-03-14
+	  - Code de la santé publique - art. L326 (M)
+	  - Code de la santé publique - art. L714-11 (M)
+
+	**Créé par**:
+
+	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+
+	**Cité par**:
+
+	  - Décret n°94-929 du 27 octobre 1994 - art. 10 (Ab)
+	  - Décret n°94-929 du 27 octobre 1994 - art. 17 (Ab)
+	  - Décret n°94-929 du 27 octobre 1994 - art. 8 (Ab)
+	  - Arrêté du 14 décembre 1986 - art. 4 (V)
+	  - CODE DE PROCEDURE PENALE - art. D369 (V)
+	  - CODE DE PROCEDURE PENALE - art. D389 (V)
+	  - CODE DE PROCEDURE PENALE - art. R50-33 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. R57-5 (V)
+	  - Code de la santé publique - art. R711-16 (Ab)
+	  - Code de la santé publique - art. R711-17 (Ab)
+	  - Code de la santé publique - art. R711-18 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-16 (V)
+
+
+###### Article R711-11
+
+L'établissement pénitentiaire assure la construction, l'aménagement, la sécurité et l'entretien des locaux spécialisés
+destinés aux consultations et aux examens ; il assure la sécurité des personnels de l'établissement de santé à l'intérieur de
+l'établissement pénitentiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°92-6 du 2 janvier 1992 - art. 1 (V)
+	  - Code de la santé publique - art. R711-12 (M)
+	  - Code de la santé publique - art. R711-14 (M)
+	  - Code de la santé publique - art. R711-16 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-17 (V)
+
+
+###### Article R711-12
+
+L'établissement public de santé :
+
+1° Pourvoit à l'équipement médical et non médical des locaux mentionnés à l'article R. 711-11 ;
+
+2° Assure la fourniture et le transport des produits et petits matériels à usage médical ainsi que des produits
+pharmaceutiques qui sont placés sous la responsabilité d'un pharmacien de l'établissement dans les conditions fixées soit par
+les articles L. 595-1 à L. 595-5, soit par l'article L. 595-9 ;
+
+3° Effectue ou fait effectuer les examens nécessaires et notamment les examens de laboratoire ;
+
+4° Assure l'élimination des déchets ;
+
+5° Assure le transport du personnel hospitalier.
+
+Les frais de transport mentionnés aux 2° et 5° sont remboursés à l'établissement public de santé par l'établissement
+pénitentiaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L595-9 (M)
+	  - Code de la santé publique - art. R711-11 (M)
+	  - Code de la santé publique R711-11, L595-1 à L595-5, L595-9
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-18 (V)
+
+
+###### Article R711-13
+
+L'établissement public de santé élabore un programme de prévention et d'éducation pour la santé en accord avec
+l'établissement pénitentiaire ainsi qu'avec le préfet et le président du conseil général pour les actions et services dont
+sont respectivement responsables l'Etat et le département en application notamment de l'article 37 de la loi n° 83-663 du 22
+juillet 1983, les organismes d'assurance maladie ainsi que les autres collectivités et associations concernées sont associés
+à ce programme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Loi n°83-663 1983-07-22 art. 37
+
+	**Créé par**:
+
+	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 1993 - art. Annexe, art. 3 (V)
+	  - CODE DE PROCEDURE PENALE - art. D379 (V)
+	  - Code de la santé publique - art. R711-14 (M)
+	  - Code de la santé publique - art. R711-15 (Ab)
+	  - Code de la santé publique - art. R711-16 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-19 (V)
+
+
+###### Article R711-14
+
+Les conventions mentionnées à l'article R. 711-7 définissent, dans le respect des dispositions de la présente section,
+notamment :
+
+1° Les conditions dans lesquelles les personnels de l'établissement public de santé assurent l'examen systématique des
+détenus arrivant dans l'établissement pénitentiaire et dispensent à ceux-ci des soins courants et certains soins
+spécialisés ;
+
+2° Les modalités de participation de l'établissement public de santé au programme de prévention et d'éducation pour la santé
+mentionnées à l'article R. 711-13.
+
+Les conventions contiennent, en outre, des dispositions relatives :
+
+1° A l'aménagement et l'équipement des locaux mentionnés à l'article R. 711-11 ;
+
+2° Aux conditions dans lesquelles les détenus peuvent recourir aux équipements médicaux situés dans l'établissement public de
+santé ;
+
+3° Aux conditions dans lesquelles l'établissement public de santé établit et archive le dossier médical des patients dans le
+respect des dispositions des articles R. 710-2-1 à R. 710-2-8 ;
+
+4° A la définition du système d'information permettant l'analyse de l'activité, dans les conditions prévues à l'article L.
+710-5 ;
+
+5° Aux conditions dans lesquelles les dépenses et recettes afférentes aux activités définies par la convention sont prévues
+et inscrites au budget de l'établissement public de santé ainsi qu'aux modalités de règlement des dépenses qui donnent lieu à
+remboursement par l'établissement pénitentiaire.
+
+Les conventions peuvent également prévoir l'aménagement, à la charge de l'administration pénitentiaire, de locaux
+spécialement prévus pour assurer en toute sécurité l'hospitalisation des détenus dans l'établissement public de santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D379 (V)
+	  - Code de la santé publique - art. R711-16 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L710-5 (M)
+	  - Code de la santé publique - art. R711-11 (M)
+	  - Code de la santé publique - art. R711-13 (M)
+	  - Code de la santé publique - art. R711-7 (M)
+	  - Code de la santé publique R711-7, R711-13, R711-11, R710-2-1 à R710-2-8, L710-5
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-20 (V)
+
+
+###### Article R711-15
+
+Les conventions mentionnées à l'article R. 711-7 sont établies par référence à une convention type, dont le modèle est fixé
+par arrêté conjoint du ministre de la justice et des ministres chargés de la santé, de la sécurité sociale et du budget.
+
+Elles prennent effet le premier jour d'un trimestre civil. Sauf si les cocontractants ont fixé une date postérieure, la date
+d'effet de la convention est fixée au premier jour du trimestre civil suivant sa signature.
+
+L'établissement public de santé transmet au préfet, pour information dès sa signature, la convention et ses annexes ainsi que
+ses avenants éventuels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-704 du 27 mars 1993 - art. 1 () JORF 28 mars 1993
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 1993 - art. 1 (V)
+	  - CODE DE PROCEDURE PENALE - art. D370 (V)
+	  - Code de la santé publique - art. R711-16 (Ab)
+	  - Code de la santé publique - art. R723-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6112-21 (T)
+	  - Code de la santé publique - art. R6112-22 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R711-7 (M)
+
+
 #### Chapitre 2 : L'organisation et l'équipement sanitaires
 
 ##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire
@@ -87816,6 +88195,312 @@ comme suit :
 	**Cite**:
 
 	  - Code de la santé publique - art. L711-6 (M)
+
+
+##### Section 2 bis : Dispositions relatives aux missions et moyens des centres anti-poisons
+
+###### Article D711-9-1
+
+Les centres anti-poisons, dont la liste et le territoire géographique d'intervention sont définis par arrêté du ministre
+chargé de la santé, ont pour mission de donner avis et conseils en matière de diagnostic, pronostic, traitement (toxicologie
+clinique) et prévention des intoxications humaines.
+
+Les centres anti-poisons assurent leurs missions vingt-quatre heures sur vingt-quatre ; leur organisation et leur
+fonctionnement médical doivent répondre aux dispositions de la section 3 du chapitre IV du livre VII du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-696 du 26 mars 1993 - art. 1 () JORF 28 mars 1993 rectificatif JORF 17 avril 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6141-37 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D711-9-3 (Ab)
+
+
+###### Article D711-9-2
+
+Du fait de leur capacité à répondre aux situations d'urgence toxicologique, les centres anti-poisons participent au
+dispositif d'aide médicale urgente tel qu'il est défini dans la loi n° 86-11 du 6 janvier 1986.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°86-11 1986-01-06
+
+	**Créé par**:
+
+	  - Décret n°93-696 du 26 mars 1993 - art. 1 () JORF 28 mars 1993 rectificatif JORF 17 avril 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6141-38 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D711-9-3 (Ab)
+
+
+###### Article D711-9-3
+
+Ils doivent être en mesure de connaître l'évolution des intoxications pour lesquelles ils ont été consultés. Ils recueillent
+les données concernant ces intoxications. Ils ont une mission d'alerte auprès des pouvoirs publics et notamment auprès de la
+direction générale de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-696 du 26 mars 1993 - art. 1 () JORF 28 mars 1993 rectificatif JORF 17 avril 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6141-39 (V)
+
+
+###### Article D711-9-4
+
+Les centres anti-poisons rédigent un rapport annuel d'activité assorti d'une évaluation des pratiques et de l'organisation
+selon le modèle défini par arrêté du ministre chargé de la santé, soumis au conseil d'administration de l'établissement et
+transmis au préfet du département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-696 du 26 mars 1993 - art. 1 () JORF 28 mars 1993 rectificatif JORF 17 avril 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6141-40 (V)
+
+
+###### Article D711-9-5
+
+Ils participent à la toxicovigilance dans le cadre des réseaux de toxicovigilance, à la pharmacovigilance organisée par les
+articles R. 5144-1 à R. 5144-7 du code de la santé publique et à la surveillance des pharmacodépendances.
+
+Les organismes responsables de ces domaines peuvent leur demander, par l'intermédiaire du comité technique de la
+toxicovigilance, toute étude ou information qu'ils estiment nécessaires.
+
+Ils transmettent aux centres régionaux de pharmacovigilance les informations sur les effets inattendus ou toxiques
+susceptibles d'être dus à un médicament dont ils ont connaissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-696 du 26 mars 1993 - art. 1 () JORF 28 mars 1993 rectificatif JORF 17 avril 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6141-41 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique R5144-1 à R5144-7
+
+
+###### Article D711-9-6
+
+En sus des missions prévues à l'article R. 711-9-1, les centres anti-poisons participent à la prévention et à l'éducation
+sanitaire. Ils assurent un enseignement en toxicologie clinique et participent à la recherche en ce domaine. Ils remplissent
+auprès des pouvoirs publics et instances consultatives une mission d'expertise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-696 du 26 mars 1993 - art. 1 () JORF 28 mars 1993 rectificatif JORF 17 avril 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6141-42 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique R711-9-1
+
+
+###### Article D711-9-7
+
+La responsabilité médicale du centre anti-poisons doit être assurée par un praticien hospitalier formé en toxicologie
+clinique. Il est entouré d'une équipe permettant d'assurer la réponse vingt-quatre heures sur vingt-quatre, d'évaluer la
+toxicité humaine des produits, de participer au système de surveillance ainsi qu'aux autres missions définies au chapitre
+Ier. La réponse téléphonique, jour et nuit, doit être assurée par un médecin ayant suivi une formation en toxicologie
+clinique et à la réponse téléphonique. Il peut être assisté d'étudiants en médecine du troisième cycle ayant suivi la
+formation nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-696 du 26 mars 1993 - art. 1 () JORF 28 mars 1993 rectificatif JORF 17 avril 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6141-43 (V)
+
+
+###### Article D711-9-8
+
+Les centres anti-poisons doivent être en relation téléphonique directe, avec possibilité éventuelle de transfert d'appels,
+avec les centres de réception et de régulation des appels situés dans leur zone géographique d'intervention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-696 du 26 mars 1993 - art. 1 () JORF 28 mars 1993 rectificatif JORF 17 avril 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6141-44 (V)
+
+
+###### Article D711-9-9
+
+Pour remplir leurs missions, les centres anti-poisons doivent disposer des moyens suivants :
+
+- des locaux indépendants et suffisants ;
+
+- des moyens de réception des appels ;
+
+- des moyens d'enregistrement des appels et des réponses, les documents enregistrés devant être conservés pendant un mois ;
+
+- d'un accès immédiat à une documentation apportant une aide pour donner avis et conseils spécialisés concernant les
+intoxications ;
+
+- des moyens informatiques permettant l'enregistrement des données liées aux cas d'intoxication ainsi que de toute donnée
+susceptible de contribuer à la toxicovigilance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-696 du 26 mars 1993 - art. 1 () JORF 28 mars 1993 rectificatif JORF 17 avril 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6141-45 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D711-9-7 (Ab)
+
+
+###### Article D711-9-10
+
+L'enregistrement informatique des données définies à l'article R. 711-9-9 doit se faire selon un modèle commun à l'ensemble
+des centres anti-poisons. Ces données, rendues anonymes, doivent être transférées dans une banque nationale des cas
+accessible dans son intégralité à tous les participants et mise à disposition du ministère chargé de la santé (direction
+générale de la santé), dans le cadre du respect de la déontologie médicale.
+
+La nature de l'enregistrement informatique et les modalités de fonctionnement de cette banque de données sont définies, dans
+le respect de la législation existante, par arrêté du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-696 du 26 mars 1993 - art. 1 () JORF 28 mars 1993 rectificatif JORF 17 avril 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6141-46 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D711-9-7 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique R711-9-9
+
+
+###### Article D711-9-11
+
+Le non-respect par un centre anti-poisons des dispositions du présent décret peut entraîner son retrait de la liste prévue à
+l'article R. 711-9-1 [*sanction*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-696 du 26 mars 1993 - art. 1 () JORF 28 mars 1993 rectificatif JORF 17 avril 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6141-47 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D711-9-10 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique R711-9-1
 
 
 ##### Section 3 : De la participation au service public hospitalier, à l'enseignement médical, odontologique et pharmaceutique
