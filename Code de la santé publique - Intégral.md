@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1953-10-07
+Version Consolidée au 1953-10-27
 
 # Partie législative ancienne
 
@@ -24418,6 +24418,43 @@ agents en activité ou détachés dans un emploi des cadres hospitaliers.
 ## Livre 5 : Pharmacie
 
 ### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie
+
+#### Chapitre 1 : Conditions d'exercice de la pharmacie d'officine
+
+##### Section 1 : Des officines de pharmacie
+
+##### Paragraphe 2 : Pharmacies des organismes de soins et pharmacies mutualistes
+
+###### Article R5091-2
+
+Dans les établissements comptant au moins 500 lits, la gérance de la pharmacie doit être confiée à un pharmacien n'ayant pas
+d'autre activité professionnelle, sous réserve des dispositions de l'article L. 560 du présent code. Un pharmacien assistant
+doit être adjoint à ce pharmacien lorsque la capacité d'hospitalisation de l'établissement est au moins égale à 1000 lits.
+Au-dessus de ce chiffre, un pharmacien assistant supplémentaire par tranche entière de 500 lits doit être adjoint au
+pharmacien gérant. Toutefois lorsque l'établissement dispose d'une façon permanente d'internes en pharmacie, le premier
+pharmacien assistant n'est exigé que si la capacité d'hospitalisation dépasse 1500 lits.
+
+Les pharmaciens assistants ne peuvent exercer aucune autre activité professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°70-977 1970-10-26 art. 1 JORF 27 octobre 1970
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L560 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5091-5 (Ab)
+
 
 #### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques
 
