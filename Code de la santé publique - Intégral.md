@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-07-10
+Version Consolidée au 1994-07-21
 
 # Partie législative ancienne
 
@@ -74232,7 +74232,7 @@ Le secrétariat de la commission est assuré par les services du commissariat à
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 10 () JORF 7 août 1993
+	  - Décret n°94-604 du 19 juillet 1994 - art. 22 (Ab) JORF 21 juillet 1994
 
 	**Cite**:
 
@@ -74338,7 +74338,7 @@ Les dispositions des alinéas 2, 3 et 4 de l'article R. 5231 sont applicables au
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 10 () JORF 7 août 1993
+	  - Décret n°94-604 du 19 juillet 1994 - art. 22 (Ab) JORF 21 juillet 1994
 
 	**Cite**:
 
@@ -75009,15 +75009,19 @@ Tout détenteur doit être en mesure de justifier en permanence de l'origine des
 
 La perte ou le vol de radio-éléments artificiels, notamment de sources radioactives, ainsi que les faits susceptibles
 d'engendrer une dissémination radioactive doivent être immédiatement déclarés au commissaire de la République du département.
-Ils doivent être signalés au service central de protection contre les rayonnements ionisants.
+Ils doivent être signalés à l'Office de protection contre les rayonnements ionisants.
 
 Le commissaire de la République tient informé le secrétaire permanent de la commission interministérielle.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°86-80 1986-01-13 art. 6 JORF 18 janvier 1986
+	  - Décret n°94-604 du 19 juillet 1994 - art. 22 (Ab) JORF 21 juillet 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2002-460 du 4 avril 2002 - art. 8 (V) JORF 6 avril 2002
 
 	**Cité par**:
 
