@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1991-02-06
+Version Consolidée au 1991-05-11
 
 # Partie législative ancienne
 
@@ -58466,8 +58466,8 @@ La demande d'homologation concerne un produit ou appareil ayant dépassé le sta
 La demande accompagnée du dossier technique est enregistrée par le secrétariat de la commission lorsque toutes les pièces
 requises sont fournies. Le demandeur est avisé de cet enregistrement.
 
-Un arrêté du ministre chargé de la santé fixe la liste des pièces qui doivent accompagner la demande d'homologation et de
-celles que doit comporter le dossier technique.
+Un arrêté du ministre chargé de la santé fixe la liste des pièces qui doivent accompagner la demande d'homologation ou de
+renouvellement d'homologation et de celles que doit comporter le dossier technique.
 
 Dans des cas exceptionnels, le ministre chargé de la santé peut autoriser la production d'un dossier simplifié.
 
@@ -58478,9 +58478,13 @@ Dans des cas exceptionnels, le ministre chargé de la santé peut autoriser la p
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+	  - Décret n°91-423 du 10 mai 1991 - art. 1 () JORF 11 mai 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 	**Cité par**:
 
@@ -58553,6 +58557,29 @@ En outre, le ministre chargé de la santé peut, dans ce cas, dispenser le deman
 	**Cite**:
 
 	  - Code de la santé publique - art. R5276 (M)
+
+
+###### Article R5279
+
+L'homologation est accordée par arrêté du ministre chargé de la santé pour une durée maximale de cinq ans ; elle est
+renouvelable sur demande de son titulaire.
+
+L'arrêté d'homologation peut limiter les conditions d'utilisation des produits et appareils.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°91-423 du 10 mai 1991 - art. 1 () JORF 11 mai 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 
 ###### Article R5280
@@ -58670,8 +58697,9 @@ qu'après exercice d'un recours gracieux qui est soumis à l'avis de la commissi
 
 ###### Article R5284
 
-Les décisions d'homologation, de refus ou de retrait d'homologation ainsi que les décisions suspendant l'homologation ou
-mettant fin à cette suspension sont publiées par extraits au Journal officiel de la République française.
+Les décisions d'homologation, de renouvellement d'homologation, de refus ou de retrait d'homologation ainsi que les décisions
+suspendant l'homologation ou mettant fin à cette suspension sont publiées par extraits au Journal officiel de la République
+française.
 
 Les décisions de suspension et de retrait ainsi que celles qui mettent fin à une suspension font l'objet des autres
 publicités que le ministre chargé de la santé estime nécessaire d'ordonner.
@@ -58683,9 +58711,13 @@ publicités que le ministre chargé de la santé estime nécessaire d'ordonner.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+	  - Décret n°91-423 du 10 mai 1991 - art. 2 () JORF 11 mai 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 
 ###### Article R5285
@@ -58740,8 +58772,8 @@ commission et des membres des groupes d'experts.
 
 Les produits et appareils appartenant aux catégories qui figurent sur la liste mentionnée à l'article R. 5274 et qui n'ont
 pas encore été homologués ne peuvent être présentés ou exposés que si le fabricant ou son mandataire y appose de manière
-claire et visible la mention " produit non homologué et ne pouvant être vendu " ou " appareil non homologué et ne pouvant
-être vendu ".
+claire et visible la mention "produit non homologué et ne pouvant être ni utilisé, ni mis sur le marché" ou "appareil non
+homologué et ne pouvant être ni utilisé, ni mis sur le marché".
 
 **Liens relatifs à cet article**
 
@@ -58750,9 +58782,13 @@ claire et visible la mention " produit non homologué et ne pouvant être vendu 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+	  - Décret n°91-423 du 10 mai 1991 - art. 3 () JORF 11 mai 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 	**Cite**:
 
@@ -58760,24 +58796,6 @@ claire et visible la mention " produit non homologué et ne pouvant être vendu 
 
 
 #### Chapitre 4 : Visa des spécialités anciennes
-
-###### Article R5279
-
-L'homologation est accordée par arrêté du ministre chargé de la santé.
-
-L'arrêté d'homologation peut limiter les conditions d'utilisation des produits et appareils.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
-
 
 ##### Section 1 : Spécialités pharmaceutiques.
 
