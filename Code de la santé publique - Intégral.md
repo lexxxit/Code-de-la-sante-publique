@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-01-04
+Version Consolidée au 1992-01-07
 
 # Partie législative ancienne
 
@@ -32426,11 +32426,71 @@ plantes saisies.
 	  - Code de la santé publique - art. L5432-1 (V)
 
 
+###### Article L626-1
+
+I. - Les fabricants, les importateurs ou les vendeurs de substances ou de préparations dangereuses non exclusivement
+destinées à être utilisées dans les établissements mentionnés à l'article L. 231-1 du code du travail doivent, dans des
+conditions définies par décret en Conseil d'Etat, fournir à un organisme agréé par le ministre chargé de la santé toutes les
+informations nécessaires sur ces produits, et notamment leur composition, en vue d'en prévenir les effets sur la santé ou de
+répondre à toute demande d'ordre médical destinée au traitement des affections induites par ces produits, en particulier en
+cas d'urgence.
+
+Les dispositions précédentes ne s'appliquent pas au fabricant, à l'importateur ou au vendeur de certaines catégories de
+substances ou de préparations, définies par décret en Conseil d'Etat et soumises à d'autres procédures de déclaration ou
+d'autorisation lorsque ces procédures prennent en compte les risques encourus par l'homme, l'animal ou l'environnement.
+
+II. - Obligation peut être faite aux personnes visées au I ci-dessus de participer à la conservation et à l'exploitation des
+informations et de contribuer à la couverture des dépenses qui en résultent.
+
+III. - Un décret en Conseil d'Etat détermine les conditions dans lesquelles les informations sont fournies par l'organisme
+agréé, les personnes qui y ont accès et les modalités selon lesquelles sont préservés les secrets de fabrication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°91-1414 du 31 décembre 1991 - art. 27 () JORF 7 janvier 1992
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code du travail - art. L231-1 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D711-9-10 (Ab)
+	  - Code de la santé publique - art. D711-9-6 (Ab)
+	  - Code de la santé publique - art. L145-1 (Ab)
+	  - Code de la santé publique - art. L145-2 (Ab)
+	  - Code de la santé publique - art. L626 (Ab)
+	  - Code de la santé publique - art. L795-4 (Ab)
+	  - Code de la santé publique - art. R145-5-4 (Ab)
+	  - Code de la santé publique - art. R145-5-7 (Ab)
+	  - Code de la santé publique - art. R5153-1 (Ab)
+	  - Code de la santé publique - art. R5153-2 (Ab)
+	  - Code de la santé publique - art. R5153-5 (Ab)
+	  - Code de la santé publique - art. R5153-9 (Ab)
+	  - Code du travail - art. R231-53 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1342-1 (V)
+	  - Code de la santé publique - art. L1342-3 (V)
+
+
 ###### Article L627
 
 Seront punis d'un emprisonnement de deux ans à dix ans [*durée*] et d'une amende de 5.000 F à 50.000.000 F [*montant*], ou de
 l'une de ces deux peines seulement, ceux qui auront contrevenu aux dispositions des règlements d'administration publique
-prévus à l'article précédent et concernant les substances ou plantes vénéneuses classées comme stupéfiants par voie
+prévus à l'article L. 626 et concernant les substances ou plantes vénéneuses classées comme stupéfiants par voie
 réglementaire. Lorsque le délit aura consisté dans l'importation, la fabrication, ou l'exportation illicite desdites
 substances ou plantes, la peine d'emprisonnement sera de dix à vingt ans.
 
@@ -32520,7 +32580,7 @@ le juge d'instruction. Tout procès-verbal dressé pour un autre objet sera frap
 
 	**Modifié par**:
 
-	  - Loi n°87-1157 du 31 décembre 1987 - art. 2 () JORF 5 janvier 1988
+	  - Loi n°91-1414 du 31 décembre 1991 - art. 28 () JORF 7 janvier 1992
 
 	**Cite**:
 
@@ -32539,7 +32599,7 @@ le juge d'instruction. Tout procès-verbal dressé pour un autre objet sera frap
 	  - TXT_ASSOCIE: Code de la santé publique - art. L629 (M)
 	  - TXT_ASSOCIE: Code de la santé publique - art. L629-1 (M)
 	  - TXT_ASSOCIE: Code de la santé publique - art. L630 (M)
-	  - TXT_ASSOCIE: Code de la santé publique L629, L629-1, L630, L630-1 : AUTRES DISPOSITIONS PENALES
+	  - TXT_ASSOCIE: Code de la santé publique L627-1 : GARDE A VUE
 
 	**Nouveaux textes**:
 
