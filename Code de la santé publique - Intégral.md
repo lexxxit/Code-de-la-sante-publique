@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-11-24
+Version Consolidée au 1994-12-03
 
 # Partie législative ancienne
 
@@ -68267,9 +68267,19 @@ satisfaisantes.
 
 ###### Article R5135
 
-L'autorisation de mise sur le marché est accordée par le directeur général de l'Agence du médicament. Cette autorisation est
-accompagnée du résumé des caractéristiques du produit mentionné à l'article R. 5128, tel que ce résumé est approuvé par le
-directeur général de l'agence.
+L'autorisation de mise sur le marché est accordée par le directeur général de l'Agence du médicament.
+
+Elle indique, le cas échéant, le classement du médicament dans les catégories suivantes :
+
+a) Médicament soumis à prescription du fait de son inscription sur l'une des listes définies à l'article R. 5204 ;
+
+b) Médicament soumis à prescription spéciale du fait de son classement comme stupéfiant ou de l'application des dispositions
+des articles R. 5208-1 ou R. 5218-1 ;
+
+c) Médicament soumis à prescription restreinte en application des dispositions de l'article R. 5143-5-1.
+
+L'autorisation est accompagnée du résumé des caractéristiques du produit mentionné à l'article R. 5128, tel que ce résumé est
+approuvé par le directeur général de l'Agence du médicament.
 
 Avant de prendre sa décision, le directeur général de l'Agence du médicament peut ordonner toute mesure d'instruction qu'il
 juge nécessaire.
@@ -68281,11 +68291,15 @@ Lorsque le directeur général de l'Agence du médicament a recours à la facult
 de complément de dossier*], ces délais sont suspendus jusqu'à ce que les informations complémentaires requises aient été
 fournies.
 
+**Nota:**
+
+[*Nota : Décret 94-1030 du 2 décembre 1994 art. 9 : date d'application.*]
+
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 1 () JORF 3 décembre 1994
 
 	**Cité par**:
 
@@ -68301,6 +68315,11 @@ fournies.
 	**Cite**:
 
 	  - Code de la santé publique - art. R5128 (M)
+	  - Code de la santé publique - art. R5134 (M)
+	  - Code de la santé publique - art. R5143-5-1 (M)
+	  - Code de la santé publique - art. R5204 (M)
+	  - Code de la santé publique - art. R5208-1 (M)
+	  - Code de la santé publique - art. R5218-1 (M)
 
 
 ###### Article R5135-1
@@ -69117,7 +69136,8 @@ o) Le prix limite de vente au public lorsqu'un tel prix est fixé en application
 
 p) Les conditions de remboursement par les organismes d'assurance maladie ;
 
-q) La classification en matière de délivrance du médicament, mentionnée dans l'autorisation de mise sur le marché.
+q) Le classement du médicament en matière de prescription et de délivrance, mentionné dans l'autorisation de mise sur le
+marché.
 
 Le conditionnement extérieur peut comporter, outre le signe distinctif de l'entreprise, des signes ou des pictogrammes
 explicitant certaines des informations ci-dessus ainsi que d'autres informations compatibles avec le résumé des
@@ -69134,7 +69154,7 @@ mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 j
 renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]    [*Nota : Code
 de la santé publique R. 5143-1 :
 
-dérogation.*]
+dérogation.*]    [*Nota : Décret 94-1030 du 2 décembre 1994 art. 9 : date d'application.*]
 
 **Liens relatifs à cet article**
 
@@ -69154,9 +69174,7 @@ dérogation.*]
 
 	**Modifié par**:
 
-	  - Décret n°94-19 du 5 janvier 1994 - art. 17 () JORF 9 janvier 1994
-	  - Décret n°94-19 du 5 janvier 1994 - art. 18 () JORF 9 janvier 1994
-	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 3 () JORF 3 décembre 1994
 
 	**Liens**:
 
@@ -69286,69 +69304,6 @@ renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occas
 
 
 ##### Paragraphe 5 : Dispositions diverses
-
-###### Article R5143-6
-
-A titre exceptionnel, le directeur général de l'Agence du médicament peut, sur demande motivée du titulaire de l'autorisation
-de mise sur le marché, l'autoriser à présenter sous un seul [*nombre*] conditionnement plusieurs spécialités ayant obtenu
-chacune une autorisation de mise sur le marché.
-
-**Nota:**
-
-[*Nota : Décret 93-14 du 31 décembre 1993 art. 23 : ces dispositions ne sont applicables aux médicaments ou produits
-mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 janvier 1994, qu'à compter du premier
-renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°94-19 du 5 janvier 1994 - art. 19 () JORF 9 janvier 1994
-	  - Décret n°94-19 du 5 janvier 1994 - art. 22 () JORF 9 janvier 1994
-	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
-
-	**Anciens textes**:
-
-	  - Code de la santé publique R5143-1
-
-
-###### Article R5143-7
-
-Le titulaire de l'autorisation de mise sur le marché doit se conformer à de bonnes pratiques d'étiquetage et de notice
-établies par le ministre chargé de la santé sur proposition de l'Agence du médicament.
-
-**Nota:**
-
-[*Nota : Décret 93-14 du 31 décembre 1993 art. 23 : ces dispositions ne sont applicables aux médicaments ou produits
-mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 janvier 1994, qu'à compter du premier
-renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°94-19 du 5 janvier 1994 - art. 22 () JORF 9 janvier 1994
-	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R5142-27 (M)
-	  - Code de la santé publique - art. R5143 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R5143-27 (M)
-
 
 ###### Article R5144
 
@@ -69519,6 +69474,410 @@ renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occas
 	  - Décret n°94-19 du 5 janvier 1994 - art. 17 () JORF 9 janvier 1994
 	  - Décret n°94-19 du 5 janvier 1994 - art. 21 () JORF 9 janvier 1994
 	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
+
+##### Paragraphe 5 : Médicaments soumis à prescription restreinte
+
+###### Article R5143-5-1
+
+L'autorisation de mise sur le marché ou l'autorisation temporaire d'utilisation d'un médicament peut classer celui-ci dans
+une ou plusieurs des catégories de prescription restreinte suivantes :
+
+a) Médicament réservé à l'usage hospitalier ;
+
+b) Médicament à prescription initiale hospitalière ;
+
+c) Médicament nécessitant une surveillance particulière pendant le traitement.
+
+**Nota:**
+
+[*Nota : Décret 94-1030 du 2 décembre 1994 art. 9 : date d'application.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 5 () JORF 3 décembre 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5104-109 (Ab)
+	  - Code de la santé publique - art. R5115-1 (Ab)
+	  - Code de la santé publique - art. R5135 (Ab)
+	  - Code de la santé publique - art. R5143-5-5 (M)
+	  - Code de la santé publique - art. R5143-5-7 (T)
+	  - Code de la santé publique - art. R5143-5-8 (Ab)
+	  - Code de la santé publique - art. R5146-53-6 (Ab)
+	  - Code de la santé publique - art. R5194 (Ab)
+	  - Code de la sécurité sociale. - art. R163-20 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-77 (V)
+
+
+###### Article R5143-5-2
+
+I. - Le classement dans la catégorie des médicaments réservés à l'usage hospitalier a les effets suivants :
+
+1° La prescription du médicament est réservée :
+
+- à un médecin, un chirurgien-dentiste ou une sage-femme répondant aux conditions fixées à l'article L. 356 et exerçant dans
+un établissement de santé public ou privé, ou dans un établissement de transfusion sanguine autorisé à dispenser des
+médicaments dérivés du sang aux malades qui y sont traités, en application des dispositions de l'article L. 668-1, ou dans un
+service de dialyse à domicile mentionné à l'article L. 595-8, ou dans un centre spécialisé de soins aux toxicomanes prévu par
+le décret n° 92-590 du 29 juin 1992 ;
+
+- ou, dans les établissements publics de santé, à tout autre prescripteur agissant sous la responsabilité du chef de service
+ou de département ou du responsable de structure mentionné à l'article L. 714-25-2 ;
+
+2° La délivrance du médicament est réservée aux pharmacies à usage intérieur mentionnées à l'article L. 595-1 ou aux
+établissements de transfusion sanguine dans lesquels les soins sont administrés.
+
+II. - Ce classement ne peut intervenir que si les restrictions apportées à la prescription et à la délivrance du médicament
+sont justifiées par ses caractéristiques pharmacologiques, par son degré d'innovation ou par des motifs de santé publique.
+
+La prescription par un médecin exerçant au sein d'un établissement de transfusion sanguine, d'un service de dialyse à
+domicile ou d'un centre spécialisé de soins aux toxicomanes et la délivrance aux malades qui y sont traités ne sont
+autorisées que si l'autorisation de mise sur le marché les prévoit expressément.
+
+**Nota:**
+
+[*Nota : Décret 94-1030 du 2 décembre 1994 art. 9 : date d'application.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°58-1202 du 11 décembre 1958 - art. 37-2 (Ab)
+	  - Arrêté du 26 avril 1999 - art. 2 (V)
+	  - Code de la santé publique - art. R5115-1 (Ab)
+	  - Code de la santé publique - art. R5143-5-5 (M)
+	  - Code de la santé publique - art. R5143-5-7 (T)
+	  - Code de la santé publique - art. R5143-5-8 (Ab)
+
+	**Cite**:
+
+	  - Décret n°92-590 1992-06-29
+	  - Code de la santé publique - art. L356 (M)
+	  - Code de la santé publique - art. L595-1 (M)
+	  - Code de la santé publique - art. L595-8 (Ab)
+	  - Code de la santé publique - art. L668-1 (M)
+	  - Code de la santé publique - art. L714-25-2 (M)
+
+	**Créé par**:
+
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 5 () JORF 3 décembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-82 (M)
+	  - Code de la santé publique - art. R5121-83 (V)
+
+
+###### Article R5143-5-3
+
+Le classement dans la catégorie des médicaments à prescription initiale hospitalière a pour effet de réserver la prescription
+initiale du médicament :
+
+- à un médecin, un chirurgien-dentiste ou une sage-femme répondant aux conditions fixées à l'article L. 356 et exerçant dans
+un établissement de santé public ou privé, ou dans un établissement de transfusion sanguine autorisé à dispenser des
+médicaments dérivés du sang aux malades qui y sont traités, en application des dispositions de l'article L. 668-1, ou dans un
+service de dialyse à domicile mentionné à l'article L. 595-8, ou dans un centre spécialisé de soins aux toxicomanes prévu par
+le décret n° 92-590 du 29 juin 1992 ;
+
+- ou, dans les établissements publics de santé, à tout autre prescripteur agissant sous la responsabilité du chef de service
+ou de département ou du responsable de structure mentionné à l'article L. 714-25-2.
+
+Ce classement ne peut intervenir que si les restrictions apportées à la prescription du médicament sont justifiées par la
+nécessité d'effectuer dans des établissements disposant de moyens adaptés le diagnostic des maladies pour le traitement
+desquelles le médicament est habituellement utilisé.
+
+La prescription initiale par un médecin exerçant au sein d'un établissement de transfusion sanguine, d'un service de dialyse
+à domicile ou d'un centre spécialisé de soins aux toxicomanes n'est autorisée que si l'autorisation de mise sur le marché le
+prévoit expressément.
+
+Lorsque les caractéristiques du médicament le justifient, l'autorisation de mise sur le marché ou l'autorisation temporaire
+d'utilisation peut fixer le délai au terme duquel un nouveau diagnostic doit être effectué dans un établissement, service ou
+centre mentionné au premier alinéa du présent article. Au terme de ce délai, l'ordonnance initiale devient caduque.
+
+**Nota:**
+
+[*Nota : Décret 94-1030 du 2 décembre 1994 art. 9 : date d'application.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°92-590 1992-06-29
+	  - Code de la santé publique - art. L356 (M)
+	  - Code de la santé publique - art. L595-8 (Ab)
+	  - Code de la santé publique - art. L668-1 (M)
+	  - Code de la santé publique - art. L714-25-2 (M)
+
+	**Créé par**:
+
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 5 () JORF 3 décembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-84 (V)
+	  - Code de la santé publique - art. R5121-85 (V)
+	  - Code de la santé publique - art. R5121-86 (V)
+	  - Code de la santé publique - art. R5143-5-4 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5143-5-5 (M)
+	  - Code de la santé publique - art. R5143-5-6 (T)
+	  - Code de la santé publique - art. R5143-5-7 (T)
+	  - Code de la santé publique - art. R5194 (Ab)
+	  - Code de la santé publique - art. R5198 (M)
+
+
+###### Article R5143-5-4
+
+Le classement dans la catégorie des médicaments nécessitant une surveillance particulière pendant le traitement a pour effet
+de subordonner leur prescription à des examens périodiques devant être subis par le patient.
+
+Ce classement ne peut intervenir que si les restrictions apportées à la prescription du médicament sont justifiées par la
+gravité des effets indésirables que peut provoquer son emploi.
+
+L'autorisation de mise sur le marché ou l'autorisation temporaire d'utilisation mentionne la nature et la périodicité des
+examens que le médecin doit prescrire, ainsi que, le cas échéant, les conditions dans lesquelles le traitement peut, compte
+tenu des résultats de ces examens, être poursuivi.
+
+**Nota:**
+
+[*Nota : Décret 94-1030 du 2 décembre 1994 art. 9 : date d'application.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 5 () JORF 3 décembre 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5104-109 (Ab)
+	  - Code de la santé publique - art. R5143-5-5 (M)
+	  - Code de la santé publique - art. R5143-5-6 (T)
+	  - Code de la santé publique - art. R5143-5-8 (Ab)
+	  - Code de la santé publique - art. R5194 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-87 (V)
+	  - Code de la santé publique - art. R5121-88 (V)
+	  - Code de la santé publique - art. R5121-89 (V)
+	  - Code de la santé publique - art. R5143-5-6 (Ab)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R5143-5-3 (T)
+
+
+###### Article R5143-5-5
+
+L'autorisation de mise sur le marché ou l'autorisation temporaire d'utilisation peut en outre :
+
+1° Réserver la prescription d'un médicament mentionné à l'article R. 5143-5-2 ou la prescription initiale d'un médicament
+mentionné à l'article R. 5143-5-3 :
+
+- aux prescripteurs exerçant dans certains services spécialisés des établissements de santé publics ou privés ;
+
+- aux prescripteurs autorisés à exercer certaines spécialités dans les conditions prévues par leurs statuts ;
+
+- aux prescripteurs auxquels ont été reconnues certaines qualifications dans les conditions prévues à l'article 67 (4°) du
+décret n° 79-506 du 28 juin 1979 portant code de déontologie médicale ;
+
+- aux prescripteurs titulaires de certains diplômes d'études spécialisées complémentaires ;
+
+2° Réserver le renouvellement de la prescription d'un médicament mentionné à l'article R. 5143-5-3 ou la prescription d'un
+médicament mentionné à l'article R. 5143-5-4 :
+
+- aux prescripteurs auxquels ont été reconnues certaines qualifications dans les conditions prévues à l'article 67 (4°) du
+décret n° 79-506 du 28 juin 1979 portant code de déontologie médicale ;
+
+- aux prescripteurs titulaires de certains diplômes d'études spécialisées complémentaires.
+
+Ces restrictions ne peuvent être apportées à la prescription que si elles sont justifiées par les caractéristiques
+pharmacologiques du médicament, par son degré d'innovation, par la gravité des effets indésirables que peut provoquer son
+emploi ou par un autre motif de santé publique.
+
+**Nota:**
+
+[*Nota : Décret 94-1030 du 2 décembre 1994 art. 9 : date d'application.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°79-506 1979-06-28 art. 67
+
+	**Créé par**:
+
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 5 () JORF 3 décembre 1994
+
+	**Cité par**:
+
+	  - Arrêté du 31 mars 1999 - art. 2 (V)
+	  - Arrêté du 31 mars 1999 - art. 6 (V)
+	  - Code de la santé publique - art. R5143-5-2 (Ab)
+	  - Code de la santé publique - art. R5143-5-3 (Ab)
+	  - Code de la santé publique - art. R5143-5-4 (Ab)
+	  - Code de la santé publique - art. R5143-5-6 (T)
+	  - Code de la santé publique - art. R5143-5-7 (T)
+	  - Code de la santé publique - art. R5143-5-8 (Ab)
+	  - Code de la santé publique - art. R5194 (Ab)
+	  - Code de la santé publique - art. R5198 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-90 (V)
+	  - Code de la santé publique - art. R5121-92 (V)
+
+
+###### Article R5143-5-6
+
+Si le médicament est classé dans la catégorie des médicaments à prescription initiale hospitalière en application des
+dispositions de l'article R. 5143-5-3, le pharmacien s'assure, lors de la présentation de l'ordonnance de renouvellement, de
+la présentation simultanée de l'ordonnance initiale.
+
+Si la prescription du médicament est réservée à certaines catégories de prescripteurs en application du 2° de l'article R.
+5143-5-5, le pharmacien s'assure que la qualification ou le titre du prescripteur apparaissant sur l'ordonnance est conforme
+à ce que prévoit l'autorisation de mise sur le marché.
+
+**Nota:**
+
+[*Nota : Décret 94-1030 du 2 décembre 1994 art. 9 : date d'application.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 5 () JORF 3 décembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-93 (V)
+	  - Code de la santé publique - art. R5121-94 (V)
+	  - Code de la santé publique - art. R5121-95 (V)
+	  - Code de la santé publique - art. R5143-5-7 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5143-5-3 (M)
+	  - Code de la santé publique - art. R5143-5-5 (M)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R5143-5-4 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5194 (Ab)
+	  - Code de la santé publique - art. R5208 (Ab)
+
+
+##### Paragraphe 6 : Dispositions diverses
+
+###### Article R5143-6
+
+A titre exceptionnel, le directeur général de l'Agence du médicament peut, sur demande motivée du titulaire de l'autorisation
+de mise sur le marché, l'autoriser à présenter sous un seul [*nombre*] conditionnement plusieurs spécialités ayant obtenu
+chacune une autorisation de mise sur le marché.
+
+**Nota:**
+
+[*Nota : Décret 93-14 du 31 décembre 1993 art. 23 : ces dispositions ne sont applicables aux médicaments ou produits
+mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 janvier 1994, qu'à compter du premier
+renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 4 () JORF 3 décembre 1994
+
+	**Transféré par**:
+
+	  - Décret n°98-52 du 28 janvier 1998 - art. 7 () JORF 30 janvier 1998
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5143-26 (M)
+
+
+###### Article R5143-7
+
+Le titulaire de l'autorisation de mise sur le marché doit se conformer à de bonnes pratiques d'étiquetage et de notice
+établies par le ministre chargé de la santé sur proposition de l'Agence du médicament.
+
+**Nota:**
+
+[*Nota : Décret 93-14 du 31 décembre 1993 art. 23 : ces dispositions ne sont applicables aux médicaments ou produits
+mentionnés à l'article L. 601 du code de la santé publique, autorisés au 9 janvier 1994, qu'à compter du premier
+renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occasion de toute modification.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 4 () JORF 3 décembre 1994
+
+	**Transféré par**:
+
+	  - Décret n°98-52 du 28 janvier 1998 - art. 7 () JORF 30 janvier 1998
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5142-27 (M)
+	  - Code de la santé publique - art. R5143 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5143-27 (M)
 
 
 ##### Paragraphe 2 bis : Importation et exportation des médicaments
@@ -69978,6 +70337,9 @@ commission de l'article R. 5140 ;
 
 b) Pour les médicaments mentionnés à l'article R. 5142-23 : pour la durée du traitement, dans la limite maximale d'un an.
 
+Elle indique, le cas échéant, le classement du médicament dans les catégories énumérées au deuxième alinéa de l'article R.
+5135.
+
 L'autorisation est accompagnée des informations prévues par les articles R. 5142-21 à R. 5142-24, telles qu'elles ont été
 approuvées par le directeur général de l'Agence du médicament.
 
@@ -69988,9 +70350,9 @@ approuvées par le directeur général de l'Agence du médicament.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°94-568 du 8 juillet 1994 - art. 1 () JORF 10 juillet 1994
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 2 () JORF 3 décembre 1994
 
 	**Liens**:
 
@@ -69998,8 +70360,9 @@ approuvées par le directeur général de l'Agence du médicament.
 
 	**Cite**:
 
+	  - Code de la santé publique - art. R5135 (M)
 	  - Code de la santé publique - art. R5140 (M)
-	  - Code de la santé publique R5142-21, R5142-22, R5140, R5142-23, R5142-21 à R5142-24
+	  - Code de la santé publique R5142-21, R5142-22, R5140, R5142-23, R5135, R5142-21 à R5142-24
 
 
 ###### Article R5142-26
@@ -77518,11 +77881,16 @@ de contact mentionnés à la présente section.
 Toute ordonnance comportant une prescription de médicaments ou produits mentionnés à la présente section doit être rédigée
 après examen du malade et indiquer lisiblement [*mentions obligatoires*] :
 
-1° Le nom, l'adresse et la qualité du prescripteur, sa signature et la date à laquelle elle a été rédigée ;
+1° Le nom, la qualité et, le cas échéant, la qualification ou le titre du prescripteur, son adresse, sa signature et la date
+à laquelle l'ordonnance a été rédigée ;
 
 2° La dénomination du médicament ou du produit prescrit, sa posologie et son mode d'emploi ;
 
-3° La quantité prescrite ou la durée du traitement et, éventuellement, le nombre de renouvellements.
+3° La quantité prescrite ou la durée du traitement et, éventuellement, le nombre de renouvellements ;
+
+4° Pour un médicament classé dans la catégorie des médicaments à prescription initiale hospitalière en application des
+dispositions de l'article R. 5143-5-3, la date à laquelle un nouveau diagnostic doit être effectué lorsque l'autorisation de
+mise sur le marché le prévoit.
 
 En outre, elle mentionne :
 
@@ -77568,7 +77936,7 @@ Toute commande à usage professionnel de médicaments ou produits mentionnés à
 
 	**Modifié par**:
 
-	  - Décret n°92-963 du 7 septembre 1992 - art. 17 () JORF 10 septembre 1992
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 6 () JORF 3 décembre 1994
 
 	**Liens**:
 
@@ -77582,6 +77950,10 @@ Toute commande à usage professionnel de médicaments ou produits mentionnés à
 
 	  - Code de la santé publique - art. R5132-3 (V)
 	  - Code de la santé publique - art. R5132-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5143-5-3 (M)
 
 
 ###### Article R5195
@@ -77725,7 +78097,14 @@ c) La mention Usage professionnel ;
 
 3° La dénomination ou la formule du médicament, du produit ou de la préparation ;
 
-4° Les quantités délivrées.
+4° Les quantités délivrées ;
+
+5° Pour un médicament classé dans la catégorie des médicaments à prescription initiale hospitalière en application des
+dispositions de l'article R. 5143-5-3, le nom de l'établissement ou service de santé et le nom du prescripteur auteur de la
+prescription initiale ;
+
+6° Lorsque le médicament est soumis aux conditions de prescription restreinte prévues au 2° de l'article R. 5143-5-5, la
+qualification ou le titre du prescripteur.
 
 Les dispositions qui précèdent ne sont pas applicables [*dérogation*] aux centres de planification ou d'éducation familiale
 agréés pour la délivrance de contraceptifs aux mineurs désirant garder le secret.
@@ -77740,10 +78119,6 @@ supérieure à un mois. Toutefois, les médicaments contraceptifs peuvent être 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Modifié par**:
-
-	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
 	**Cité par**:
 
 	  - Arrêté du 10 septembre 1992 - art. 9 (V)
@@ -77757,9 +78132,15 @@ supérieure à un mois. Toutefois, les médicaments contraceptifs peuvent être 
 	  - Code de la santé publique - art. R5201 (Ab)
 	  - Code de la santé publique - art. R5214 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 7 () JORF 3 décembre 1994
+
 	**Cite**:
 
 	  - Code de la santé publique - art. R5092 (M)
+	  - Code de la santé publique - art. R5143-5-3 (M)
+	  - Code de la santé publique - art. R5143-5-5 (M)
 
 	**Nouveaux textes**:
 
@@ -78696,8 +79077,20 @@ Les listes I et II mentionnées à l'article R. 5149 comprennent [*composition*]
 1° Les substances ou préparations vénéneuses présentant pour la santé des risques directs ou indirects ;
 
 2° Les médicaments et produits vénéneux mentionnés à l'article R. 5190 présentant pour la santé des risques directs ou
-indirects.    La liste I comprend les substances ou préparations et les médicaments et produits présentant les risques les
-plus élevés pour la santé.
+indirects ;
+
+3° Les médicaments à usage humain susceptibles de présenter directement ou indirectement un danger pour la santé en cas de
+mauvais usage ou d'usage abusif ou détourné ;
+
+4° Les médicaments à usage humain contenant des substances dont l'activité ou les effets indésirables nécessitent une
+surveillance médicale.
+
+La liste I comprend les substances ou préparations et les médicaments et produits présentant les risques les plus élevés pour
+la santé.
+
+**Nota:**
+
+[*Nota : Décret 94-1030 du 2 décembre 1994 art. 9 : date d'application.*]
 
 **Liens relatifs à cet article**
 
@@ -78705,10 +79098,6 @@ plus élevés pour la santé.
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Modifié par**:
-
-	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 	**Cité par**:
 
@@ -78722,6 +79111,10 @@ plus élevés pour la santé.
 	  - Code de la santé publique - art. R5170 (M)
 	  - Code de la santé publique - art. R5190 (Ab)
 	  - Code de la santé publique - art. R5193 (M)
+
+	**Modifié par**:
+
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 8 () JORF 3 décembre 1994
 
 	**Nouveaux textes**:
 
