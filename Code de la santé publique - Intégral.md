@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1967-12-29
+Version Consolidée au 1968-01-03
 
 # Partie législative ancienne
 
@@ -21721,28 +21721,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L5121-16 (M)
 
 
-###### Article L604
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Loi n°68-1 du 2 janvier 1968 - art. 72 (Ab)
-	  - Code de la santé publique - art. L605 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L5124-5 (V)
-	  - Code de la santé publique - art. L5421-4 (V)
-
-
 #### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurité sociale
 
 ##### Section 1 : Agrément pour les collectivités publiques.
@@ -31440,35 +31418,6 @@ régional de la santé et au conseil central de la section D de l'Ordre des phar
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5125-38 (V)
-
-
-##### Section 2 : Licences spéciales et brevets d'invention.
-
-###### Article R5007
-
-(texte abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Loi n°68-1 du 2 janvier 1968 - art. 72 (Ab) JORF 3 janvier 1968
-
-	**Cité par**:
-
-	  - Décret n°2004-188 du 23 février 2004 - art. 3 (V)
-	  - Code de la santé publique - art. R5007-3 (Ab)
-	  - Code de la santé publique - art. R5007-5 (Ab)
-	  - Code de la santé publique - art. R5007-6 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4211-1 (V)
 
 
 ##### Section 4 : Dispositions spéciales en cas de fermeture d'officine.
