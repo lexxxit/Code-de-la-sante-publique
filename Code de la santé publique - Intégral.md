@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-07-30
+Version Consolidée au 1994-08-05
 
 # Partie législative ancienne
 
@@ -84699,6 +84699,411 @@ voie contractuelle entre le directeur de l'établissement et l'autorité adminis
 	**Créé par**:
 
 	  - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
+
+
+##### Section 2 : De l'analyse de l'activité des établissements de santé
+
+###### Article R710-5-1
+
+Pour l'analyse de leur activité médicale, les établissements de santé, publics et privés, procèdent, dans les conditions
+fixées par la présente section, à la synthèse et au traitement informatique de données figurant dans le dossier médical
+mentionné à l'article L. 710-2 qui sont recueillies, pour chaque patient, par le praticien responsable de la structure
+médicale ou médico-technique ou par le praticien ayant dispensé des soins au patient et qui sont transmises au médecin
+responsable de l'information médicale pour l'établissement, mentionné à l'article L. 710-5.
+
+Ces données ne peuvent concerner que :
+
+1° L'identité du patient et son lieu de résidence ;
+
+2° Les modalités selon lesquelles les soins ont été dispensés, telles qu'hospitalisation avec ou sans hébergement,
+hospitalisation à temps partiel, hospitalisation à domicile, consultation externe ;
+
+3° L'environnement familial ou social du patient en tant qu'il influe sur les modalités du traitement de celui-ci ;
+
+4° Les modes et dates d'entrée et de sortie ;
+
+5° Les unités médicales ayant pris en charge le patient ;
+
+6° Les pathologies et autres caractéristiques médicales de la personne soignée ;
+
+7° Les actes de diagnostic et de soins réalisés au profit du patient au cours de son séjour dans l'établissement.
+
+Les données mentionnées au 1° ne sont pas recueillies lorsqu'une personne peut légalement être admise dans un établissement
+de santé ou y recevoir des soins en gardant l'anonymat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°94-666 du 27 juillet 1994 - art. 1 () JORF 5 août 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L710-2 (M)
+	  - Code de la santé publique - art. L710-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6113-1 (M)
+
+
+###### Article R710-5-2
+
+Des arrêtés des ministres chargés de la santé et de la sécurité sociale, pris après avis de la commission des systèmes
+d'information des établissements de santé mentionnée à l'article R. 712-52, déterminent, en fonction de la catégorie de
+l'établissement dans lequel les soins sont dispensés et de la nature de ces soins tels qu'ils sont définis à l'article L.
+711-2 :
+
+1° Les données dont le recueil et le traitement ont un caractère obligatoire ;
+
+2° Les nomenclatures et classifications à adopter ;
+
+3° Les modalités et la durée minimale de conservation des fichiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°94-666 du 27 juillet 1994 - art. 1 () JORF 5 août 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L711-2 (M)
+	  - Code de la santé publique - art. R712-52 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6113-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R710-5-9 (Ab)
+
+
+###### Article R710-5-3
+
+Conformément aux dispositions du chapitre III de la loi n° 78-17 du 6 janvier 1978, les traitements de données nominatives
+prévus dans chaque établissement de santé font l'objet avant leur mise en oeuvre d'une demande d'avis ou d'une déclaration
+préalable de l'établissement concerné auprès de la commission nationale de l'informatique et des libertés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°94-666 du 27 juillet 1994 - art. 1 () JORF 5 août 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6113-3 (M)
+	  - Code de la santé publique - art. R6113-3 (V)
+
+	**Cite**:
+
+	  - Loi n°78-17 1978-01-06
+
+
+###### Article R710-5-4
+
+Le praticien responsable d'une structure médicale ou médico-technique ou le praticien ayant dispensé les soins est garant,
+pour ce qui le concerne, de l'exhaustivité et de la qualité des informations qu'il transmet pour traitement au médecin
+responsable de l'information médicale dans l'établissement.
+
+Ce médecin conseille les praticiens pour la production des informations. Il veille à la qualité des données qu'il confronte,
+en tant que de besoin, avec les dossiers médicaux et les fichiers administratifs.
+
+Les praticiens de l'établissement ont un droit d'accès et de rectification quant aux informations relatives aux soins qu'ils
+ont dispensés ou qui ont été dispensés dans une structure médicale ou médico-technique dont ils ont la responsabilité. Ils
+sont régulièrement destinataires des résultats des traitements de ces informations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°94-666 du 27 juillet 1994 - art. 1 () JORF 5 août 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6113-4 (M)
+	  - Code de la santé publique - art. R6113-4 (V)
+
+
+###### Article R710-5-5
+
+Les médecins chargés de la collecte des données médicales nominatives ou du traitement des fichiers comportant de telles
+données sont soumis à l'obligation de secret [*profesionnel*] dont la méconnaissance est punie conformément aux articles
+226-13 et 226-14 du code pénal.
+
+Il en est de même des personnels placés ou détachés auprès de ces médecins et qui travaillent à l'exploitation de données
+nominatives sous leur autorité, ainsi que des personnels intervenant sur le matériel et les logiciels utilisés pour le
+recueil et le traitement des données.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°94-666 du 27 juillet 1994 - art. 1 () JORF 5 août 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+	  - Code pénal - art. 226-14 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6113-5 (M)
+	  - Code de la santé publique - art. R6113-5 (V)
+
+
+###### Article R710-5-6
+
+Après avis de la commission médicale d'établissement mentionnée aux articles L. 714-16 et L. 715-8 ou de la conférence
+médicale mentionnée à l'article L. 715-12, le directeur de l'établissement prend toutes dispositions utiles, en liaison avec
+le président de ces instances et le médecin responsable de l'information médicale, afin de préserver la confidentialité des
+données médicales nominatives. Ces dispositions concernent notamment l'étendue, les modalités d'attribution et de contrôle
+des autorisations d'accès ainsi que l'enregistrement des accès.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°94-666 du 27 juillet 1994 - art. 1 () JORF 5 août 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L715-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6113-6 (M)
+	  - Code de la santé publique - art. R6113-6 (V)
+
+
+###### Article R710-5-7
+
+Les personnes soignées dans l'établissement sont informées par le livre d'accueil ou un autre document écrit :
+
+1° Que des données les concernant font l'objet d'un traitement automatisé dans les conditions fixées par la loi n° 78-17 du 6
+janvier 1978 ;
+
+2° Que ces données sont transmises au médecin responsable de l'information médicale dans l'établissement et sont protégées
+par le secret médical ;
+
+3° Qu'elles peuvent, par l'intermédiaire d'un médecin désigné par elles à cet effet, exercer leur droit d'accès et de
+rectification et que ce droit s'exerce auprès du médecin responsable de l'information médicale dans l'établissement, par
+l'intermédiaire du praticien responsable de la structure médicale dans laquelle ils ont reçu des soins ou du praticien ayant
+constitué leur dossier ;
+
+4° Qu'elles ont le droit de s'opposer pour des raisons légitimes au recueil et au traitement de données nominatives les
+concernant, dans les conditions fixées à l'article 26 de la loi n° 78-17 du 6 janvier 1978.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°94-666 du 27 juillet 1994 - art. 1 () JORF 5 août 1994
+
+	**Cité par**:
+
+	  - Arrêté du 7 janvier 1997 - art. 2 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6113-7 (M)
+	  - Code de la santé publique - art. R6113-7 (V)
+
+	**Cite**:
+
+	  - Loi n°78-17 du 6 janvier 1978 - art. 26 (M)
+
+
+###### Article R710-5-8
+
+Le médecin responsable de l'information médicale transmet à la commission ou à la conférence médicale et au directeur de
+l'établissement les informations nécessaires à l'analyse de l'activité, tant en ce qui concerne l'établissement dans son
+ensemble que chacune des structures médicales ou ce qui en tient lieu. Ces informations sont transmises systématiquement ou à
+la demande. Elles consistent en statistiques agrégées ou en données par patient, constituées de telle sorte que les personnes
+soignées ne puissent être identifiées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°94-666 du 27 juillet 1994 - art. 1 () JORF 5 août 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6113-8 (M)
+	  - Code de la santé publique - art. R6113-8 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R710-5-10 (Ab)
+
+
+###### Article R710-5-9
+
+Les instances compétentes de l'établissement définissent, après avis de la commission médicale ou de la conférence médicale,
+les modalités de mise en oeuvre du recueil, du traitement, de la validation et de la transmission interne des données
+médicales définies au 1° de l'article R. 710-5-2 ou recueillies à l'initiative de l'établissement, et notamment les
+obligations des praticiens concernés quant à la transmission et au contrôle de la qualité des données ainsi que leur droit au
+retour d'informations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°94-666 du 27 juillet 1994 - art. 1 () JORF 5 août 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6113-9 (M)
+	  - Code de la santé publique - art. R6113-9 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R710-5-2 (Ab)
+
+
+###### Article R710-5-10
+
+Sur la base et dans la limite des données fournies par les praticiens et transmises par le médecin responsable de
+l'information médicale dans les conditions fixées à l'article R. 710-5-8, le directeur de l'établissement adresse aux
+services centraux ou déconcentrés des ministères chargés de la sécurité sociale et de la santé et aux organismes d'assurance
+maladie des statistiques de caractère non nominatif sous une forme et selon des modalités qui sont fixées par un arrêté des
+ministres chargés de la santé et de la sécurité sociale, pris après avis de la commission des systèmes d'information des
+établissements de santé.
+
+La commission médicale d'établissement ou la conférence médicale reçoivent préalablement communication de ces statistiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°94-666 du 27 juillet 1994 - art. 1 () JORF 5 août 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6113-10 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R710-5-11 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R710-5-8 (Ab)
+
+
+###### Article R710-5-11
+
+Chaque établissement de santé a accès, sur la demande de son représentant qualifié, aux informations le concernant, issues
+des données qu'il a transmises en application de l'article R. 710-5-10, qui sont détenues par les services centraux ou
+déconcentrés des ministères chargés de la sécurité sociale et de la santé et les organismes d'assurance maladie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°96-1039 1996-11-29 annexe JORF 3 décembre 1996
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6113-11 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la santé publique - art. R710-17-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R710-5-10 (M)
 
 
 #### Chapitre 1 : Missions et obligations des établissements de santé
