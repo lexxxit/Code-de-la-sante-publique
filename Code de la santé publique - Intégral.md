@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1980-12-24
+Version Consolidée au 1981-02-03
 
 # Partie législative ancienne
 
@@ -10511,19 +10511,21 @@ précédent, les cas où elles peuvent être retirées, et les obligations auxqu
 	  - Loi n°1838-06-30 ART. 6
 
 
-##### PARAGRAPHE 3 : DISPOSITIONS COMMUNES *AUX ETABLISSEMENTS PUBLICS ET PRIVES*
+##### Paragraphe 3 : Dispositions relatives au contrôle.
 
 ###### Article L332
 
 Le préfet [*autorité compétente*] et les personnes spécialement déléguées à cet effet par lui ou par le ministre de la Santé
 publique et de la Population, le président du tribunal, le procureur de la République, le juge du tribunal d'instance, le
-maire de la commune, sont chargés de visiter les établissements publics et privés consacrés aux aliénés.
+maire de la commune, sont chargés de visiter les établissements publics et privés consacrés aux aliénés ou accueillant des
+malades soignés pour troubles mentaux [*asiles*].
 
 Ils recevront les réclamations des personnes qui y sont placées, et prendront, à leur égard, tous renseignements propres à
 faire connaître leur position.
 
-Les établissements privés seront visités, à des jours indéterminés, une fois au moins chaque trimestre [*périodicité*], par
-le procureur de la République. Les établissements publics le seront de la même manière une fois au moins par semestre.
+Les établissements visés au premier alinéa sont visités, à des jours indéterminés, une fois au moins chaque trimestre
+[*périodicité*], par le procureur de la République. En outre, ces établissements sont visités, une fois par année, par les
+autres autorités visées au même alinéa. Il en est rendu compte aux autorités compétentes.
 
 **Liens relatifs à cet article**
 
@@ -10531,10 +10533,6 @@ le procureur de la République. Les établissements publics le seront de la mêm
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 4
 
 	**Modifié par**:
 
@@ -11368,19 +11366,18 @@ préfet, et approuvées par le ministre.
 
 ###### Article L351
 
-Toute personne placée ou retenue dans l'un des établissements [*de soins*] visés au chapitre II, son tuteur si elle est
-mineure, son tuteur ou curateur, si, majeure, elle a été mise en tutelle ou en curatelle, son conjoint, tout parent, allié ou
-ami, et éventuellement le curateur à la personne, désigné en vertu de l'article suivant [*requérant*], pourront, à quelque
-époque que ce soit, se pourvoir devant le tribunal du lieu de la situation de l'établissement [*ressort*], qui, après les
-vérifications nécessaires, ordonnera, s'il y a lieu, la sortie immédiate.
+Toute personne placée ou retenue dans quelque établissement que ce soit, public ou privé, consacré aux aliénés ou accueillant
+des malades soignés pour troubles mentaux, son tuteur si elle est mineure, son tuteur ou curateur, si, majeure, elle a été
+mise en tutelle ou en curatelle, son conjoint, tout parent, allié ou ami, et éventuellement le curateur à la personne,
+désigné en vertu de l'article suivant [*requérant*], pourront, à quelque époque que ce soit, se pourvoir par simple requête
+devant le président du tribunal de grande instance du lieu de la situation de l'établissement qui, statuant en la forme des
+référés après débat contradictoire et après les vérifications nécessaires, ordonnera, s'il y a lieu, la sortie immédiate.
 
-Les personnes qui auront demandé le placement et le procureur de la République, d'office, pourront se pourvoir aux mêmes
+Les personnes qui auront demandé le placement et le procureur de la république, d'office, pourront se pourvoir aux mêmes
 fins.
 
-La décision sera rendue, sur simple requête, en chambre du conseil et sans délai ; elle ne sera point motivée.
-
-La requête, le jugement et les autres actes auxquels la réclamation pourrait donner lieu, seront visés pour timbre et
-enregistrés en débet.
+La requête, le jugement et les autres actes auxquels la réclamation pourrait donner lieu, sera visés pour timbre et
+enregistrés en débat.
 
 Aucune requête, aucune réclamation adressée, soit à l'autorité judiciaire, soit à l'autorité administrative, ne pourront être
 supprimées ou retenues par des chefs d'établissements, sous les peines portées à l'article L. 355 ci-après.
@@ -11394,7 +11391,7 @@ supprimées ou retenues par des chefs d'établissements, sous les peines portée
 
 	**Modifié par**:
 
-	  - Loi n°68-5 du 3 janvier 1968 - art. 6 () JORF 4 janvier 1968
+	  - Loi n°81-82 du 2 février 1981 - art. 74 () JORF 3 FEVRIER 1981
 
 	**Nouveaux textes**:
 
@@ -11406,10 +11403,6 @@ supprimées ou retenues par des chefs d'établissements, sous les peines portée
 	  - Code de la santé publique - art. L352 (Ab)
 	  - Code de la santé publique - art. L354 (M)
 	  - Code de la santé publique - art. L355 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 29
 
 
 ###### Article L352
@@ -11582,6 +11575,124 @@ l'Intérieur. Ils ne pourront être modifiés que dans les mêmes formes.
 	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
 
 
+##### Section 3 : Dispositions applicables à certains établissements accueillant des malades atteints de troubles mentaux.
+
+###### Article L353-2
+
+Toute personne soignée dans un établissement, public ou privé, accueillant des malades atteints de troubles mentaux, à
+l'exclusion des établissements visés aux paragraphes I et II de la section II du chapitre II du titre IV du livre III du
+présent code, dispose du droit :
+
+- d'être informée à son admission de ses droits et devoirs ;
+
+- de disposer à son gré de la liberté d'émettre ou de recevoir des communications téléphoniques ou du courrier personnel ;
+
+- de recevoir des visites ;
+
+- de refuser tout traitement et de prendre conseil d'un médecin de son choix pour en décider ;
+
+- de disposer de sa liberté de mouvement à l'intérieur de l'établissement, sous réserve du respect du règlement intérieur de
+celui-ci ;
+
+- de pratiquer la religion de son choix sans discrimination.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 74 () JORF 3 FEVRIER 1981
+
+	**Abrogé par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L353-3 (Ab)
+	  - Code de la santé publique - art. L353-4 (Ab)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L355 : DISPOSITIONS PENALES
+
+
+###### Article L353-3
+
+Les malades admis dans les établissements définis à l'article L. 353-2 ne peuvent se voir imposer des conditions de séjour
+différentes de celles qui sont réservées aux autres personnes admises dans ces établissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 74 () JORF 3 FEVRIER 1981
+
+	**Abrogé par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L353-2 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L355 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L355 : DISPOSITIONS PENALES
+
+
+###### Article L353-4
+
+Dans les établissements visés à l'article L. 353-2, lorsqu'un malade est atteint d'un trouble lui retirant tout contrôle de
+son comportement, il peut être transféré pour une durée ne pouvant dépasser quarante-huit heures dans l'un des établissements
+visés aux paragraphes I et II de la section II du chapitre II du titre IV du livre III du présent code.
+
+La demande de transfert doit être accompagnée d'un certificat médical décrivant les symptômes qui l'ont rendu nécessaire. A
+l'issue de ce délai, les dispositions de l'article L. 333 du présent code sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 74 () JORF 3 FEVRIER 1981
+
+	**Abrogé par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L333 (M)
+	  - Code de la santé publique - art. L353-2 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L355 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L355 : DISPOSITIONS PENALES
+
+
 #### Chapitre 5 : Dispositions pénales.
 
 ###### Article L354
@@ -11615,11 +11726,12 @@ trouvera dans les cas énoncés aux articles L. 338 et 339.
 
 ###### Article L355
 
-Les contraventions aux dispositions des articles L. 330, 333, 336, 337, du 2ème alinéa de l'article L. 338, des articles L.
-340, 342, 345, 346 et du dernier alinéa de l'article L. 351, et aux règlements pris en vertu de l'article L. 331 ci-dessus
-qui seront commises par les chefs, directeurs ou préposés responsables des établissements publics ou privés d'aliénés, par
-les médecins employés dans ces établissements, seront punies d'un emprisonnement de cinq jours à un an et d'une amende de 180
-F à 20.000 F ou de l'une ou l'autre de ces peines *sanctions*.
+Les contraventions aux dispositions des articles L. 330, L. 333, L. 336, L. 337, du 2ème alinéa de l'article L. 338, des
+articles L. 340, L. 342, L. 345, L. 346, du dernier alinéa de l'article L. 351 et des articles L. 353-2, L. 353-3 et L.
+353-4, et aux règlements pris en vertu de l'article L. 331 ci-dessus qui seront commises par les chefs, directeurs ou
+préposés responsables des établissements publics ou privés d'aliénés, par les médecins employés dans ces établissements,
+seront punies d'un emprisonnement de cinq jours à un an [*durée*] et d'une amende de 180 F à 20.000 F [*montant*] ou de l'une
+de ces peines.
 
 **Liens relatifs à cet article**
 
@@ -11631,9 +11743,13 @@ F à 20.000 F ou de l'une ou l'autre de ces peines *sanctions*.
 	**Cité par**:
 
 	  - Décret n°73-364 du 12 mars 1973 - art. 16 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 22 (Ab)
 	  - Décret n°95-589 du 6 mai 1995 - art. 9 (M)
 	  - Code de la santé publique - art. L351 (M)
-	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 22 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 74 () JORF 3 FEVRIER 1981
 
 	**Nouveaux textes**:
 
@@ -11651,15 +11767,14 @@ F à 20.000 F ou de l'une ou l'autre de ces peines *sanctions*.
 	  - Code de la santé publique - art. L333 (M)
 	  - Code de la santé publique - art. L336 (M)
 	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L338 (M)
 	  - Code de la santé publique - art. L340 (M)
 	  - Code de la santé publique - art. L342 (M)
 	  - Code de la santé publique - art. L345 (M)
 	  - Code de la santé publique - art. L346 (M)
-	  - Code de la santé publique L330, L333, L336, L337, L338 AL. 2, L340, L342, L345, L346, L351, L331
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 41
+	  - Code de la santé publique - art. L353-2 (Ab)
+	  - Code de la santé publique - art. L353-3 (Ab)
+	  - Code de la santé publique - art. L353-4 (Ab)
 
 
 ### TITRE 5 : TRAITEMENT DES ALCOOLIQUES DANGEREUX POUR AUTRUI.
@@ -28694,18 +28809,19 @@ le juge d'instruction. Tout procès-verbal dressé pour un autre objet sera frap
 
 ###### Article L627-1
 
-Dans les hypothèses prévues à l'article L. 627, le délai de garde à vue est celui prévu aux premier et second alinéas de
-l'article 63 du Code de procédure pénale.
+Dans les hypothèses prévues à l'article L. 627 [*opérations relatives aux stupéfiants*], le délai de garde à vue est celui
+prévu aux premier et second alinéas de l'article 63 du code de procédure pénale.
 
-Toutefois, le procureur de la République, dans les cas visés aux articles 63 et 77 du Code de procédure pénale et le juge
+Toutefois, le procureur de la République, dans les cas visés aux articles 63 et 77 du code de procédure pénale et le juge
 d'instruction, dans le cas prévu à l'article 154 du même code, peuvent, par une autorisation écrite, la prolonger pour une
 durée de quarante-huit heures.
 
 Une deuxième prolongation peut être accordée dans les mêmes conditions pour une durée supplémentaire de vingt-quatre heures.
 
-Dès le début de la garde à vue, le procureur de la République doit désigner un médecin expert qui examinera toutes les vingt-
-quatre heures la personne gardée à vue et délivrera après chaque examen un certificat médical motivé qui sera versé au
-dossier.
+Dès le début de la garde à vue, le procureur de la République ou le juge d'instruction doit désigner un médecin expert qui
+examine toutes les vingt-quatre heures la personne gardée à vue et délivre après chaque examen un certificat médical motivé
+qui est versé au dossier. La personne retenue est avisée du droit de demander d'autres examens médicaux par l'officier de
+police judiciaire. Mention de cet avis est faite au procès-verbal. Ces examens médicaux sont de droit.
 
 D'autres examens médicaux pourront être demandés par la personne retenue. Ces examens médicaux seront de droit.
 
@@ -28716,9 +28832,13 @@ D'autres examens médicaux pourront être demandés par la personne retenue. Ces
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+	  - Loi n°81-82 du 2 février 1981 - art. 39 () JORF 3 FEVRIER 1981
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 223 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 	**Cite**:
 
