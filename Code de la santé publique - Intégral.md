@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1977-06-23
+Version Consolidée au 1977-07-10
 
 # Partie législative ancienne
 
@@ -24020,6 +24020,41 @@ tarif départemental, fixé par arrêté du préfet sur proposition de l'inspect
 	**Cite**:
 
 	  - Code de la santé publique - art. L601 (M)
+
+
+###### Article L593-1
+
+Les pharmaciens et les personnes légalement autorisées à les seconder pour la délivrance des médicaments dans une officine de
+pharmacie doivent porter un insigne indiquant leur qualité [*obligation*] ; les caractéristiques de cet insigne ainsi que les
+conditions selon lesquelles le public est informé de sa signification, sont fixées par arrêté du ministre chargé de la santé.
+
+Toute personne portant, contrairement aux dispositions de l'alinéa précédent, un insigne ne correspondant pas à sa qualité
+sera passible des sanctions prévues au premier alinéa de l'article 259 du code pénal.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1978-10-19 JORF 24 octobre : INSIGNE
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°77-745 1977-07-08 art. 6 JORF 10 juillet 1977
+
+	**Cite**:
+
+	  - Code pénal 259
 
 
 ##### Section 5 : Délivrance des médicaments par les médecins
