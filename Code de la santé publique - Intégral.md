@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1984-03-04
+Version Consolidée au 1984-04-28
 
 # Partie législative ancienne
 
@@ -47233,8 +47233,9 @@ en limitant, le cas échéant, cette interdiction aux seuls lots de fabrication 
 
 ###### Article R5140
 
-Les décisions prévues aux articles R. 5135 à R. 5139, à l'exclusion des mesures de suspension, sont prises par le ministre
-chargé de la santé après avis de la commission constituée à cet effet.
+Les décisions mentionnées aux articles R. 5135, R. 5136, R. 5136-1 R. 5137 et R. 5139, à l'exclusion des mesures de
+suspension, sont prises par le ministre chargé de la santé après avis de la commission constituée à cet effet [*autorité
+compétente*].
 
 Elles ne peuvent faire l'objet d'un recours contentieux qu'après l'exercice d'un recours gracieux, qui lui-même doit être
 soumis pour avis à la commission ci-dessus mentionnée.
@@ -47250,15 +47251,6 @@ Ces décisions sont immédiatement communiquées au comité des spécialités ph
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 NOVEMBRE 1972
-
-	**Modifié par**:
-
-	  - Décret n°78-181 1978-02-09 ART. 1 JORF 22 FEVRIER 1978
-	  - Décret n°78-988 1978-09-20 ART. 15 JORF 6 OCTOBRE 1978
 
 	**Cité par**:
 
@@ -47291,6 +47283,10 @@ Ces décisions sont immédiatement communiquées au comité des spécialités ph
 	  - Code de la santé publique - art. R5208 (Ab)
 	  - Code de la sécurité sociale. - art. R163-17 (V)
 
+	**Modifié par**:
+
+	  - Décret n°84-309 1984-04-26 ART. 1 JORF 28 AVRIL 1984
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5121-50 (V)
@@ -47306,26 +47302,36 @@ Ces décisions sont immédiatement communiquées au comité des spécialités ph
 
 ###### Article R5141
 
-La commission mentionnée à l'article R. 5140 comprend [*composition*], outre le directeur de la pharmacie et du médicament ou
-son représentant, le directeur général de l'institut national de la santé et de la recherche médicale ou son représentant et
-le directeur général du laboratoire national de la santé ou son représentant, membres de droit :
+La commission mentionnée à l'article R. 5140 comprend [*composition*]:
 
-Un médecin choisi sur une liste de trois noms proposés par le conseil national de l'ordre des médecins ;
+1° Quatre [*nombre*] membres de droit :
 
-Un pharmacien choisi sur une liste de trois noms proposés par le conseil national de l'ordre des pharmaciens ;
+Le directeur de la pharmacie et du médicament ou son représentant    Le directeur général de l'Institut national de la santé
+et de la recherche médicale ou son représentant ;
 
-Un médecin choisi sur une liste de trois noms proposés par l'académie nationale de médecine ;
+Le directeur général du Laboratoire national de la santé ou son représentant ;
 
-Un pharmacien choisi sur une liste de trois noms proposés par l'académie de pharmacie ;
+Un membre de la mission scientifique de la direction de la pharmacie et du médicament.
 
-Huit personnalités choisies en raison de leur compétence scientifique.
+2° Vingt-quatre membres nommés par le ministre chargé de la santé pour une durée de trois ans [*durée du mandat*].
 
-Douze suppléants sont désignés dans les mêmes conditions que les membres titulaires.
+Un médecin choisi sur une liste de deux noms proposés par l'Académie nationale de médecine ;
 
-Les membres autres que les membres de droit sont nommés pour quatre ans [*durée du mandat*] par arrêté du ministre chargé de
-la santé selon les modalités prévues à l'article R. 5141-1. Le renouvellement des mandats qui doit avoir lieu par moitié tous
-les deux ans est opéré dans les conditions fixées à l'article R. 5141-2. Lors de chaque renouvellement partiel, le ministre
-de la santé désigne un président et un vice-président choisis au sein de la commission.
+Un pharmacien choisi sur une liste de deux noms proposés par l'Académie nationale de pharmacie ;
+
+Vingt-deux personnalités choisies en raison de leur compétence scientifique dans le domaine de la chimie analytique, de la
+pharmacie galénique, de la toxicologie expérimentale, de la pharmacologie expérimentale, de la pharmacologie clinique, de la
+pathologie et de et de la thérapeutique.
+
+Vingt-quatre suppléants sont désignés dans les mêmes conditions que les membres titulaires. Ils remplacent [*attributions*]
+ces derniers soit en cas d'empêchement, soit s'il se produit une vacance en cours de mandat.
+
+Le président et le vice-président sont désignés par le ministre chargé de la santé parmi les membres de la commission.
+
+En cas d'absence du président et du vice-président, le ministre de la santé nomme un président de séance.
+
+La commission a la faculté d'entendre toute personne qualifiée et notamment des représentants des fabricants de produits
+pharmaceutiques, des organisations de consommateurs et de la mutualité française.
 
 **Liens relatifs à cet article**
 
@@ -47334,19 +47340,15 @@ de la santé désigne un président et un vice-président choisis au sein de la 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
-
-	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 NOVEMBRE 1972
-
-	**Modifié par**:
-
-	  - Décret n°78-181 1978-02-09 ART. 2 JORF 22 FEVRIER 1978
-
 	**Cité par**:
 
 	  - Décret n°78-181 du 9 février 1978 - art. 3 (V)
 	  - Arrêté du 7 août 1991 - art. 1 (V)
 	  - Code de la santé publique - art. R5266-12 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°84-309 1984-04-26 ART. 2 JORF 28 AVRIL 1984
 
 	**Liens**:
 
@@ -47355,23 +47357,15 @@ de la santé désigne un président et un vice-président choisis au sein de la 
 	**Cite**:
 
 	  - Code de la santé publique - art. R5140 (M)
-	  - Code de la santé publique R5140, R5141-1, R5141-2
 
 
 ###### Article R5141-1
 
-En vue d'assurer le renouvellement par moitié tous les deux ans des membres nommés de la commission mentionnée à l'article R.
-5140, ceux-ci sont répartis en deux groupes comprenant [*composition*]:
+La durée totale des mandats successifs que peuvent exercer en qualité tant de titulaire que de suppléant les membres de la
+commission mentionnée à l'article R. 5140 ne peut excéder six ans.
 
-Groupe I - Le médecin proposé par le conseil national de l'ordre des médecins, le pharmacien proposé par l'académie de
-pharmacie et quatre membres tirés au sort parmi les huit personnalités choisies en raison de leur compétence, ainsi que le
-suppléant de chacun d'eux.
-
-Groupe II - Les autres membres nommés de la commission et leurs suppléants.
-
-En cas de vacance survenant au cours du mandat, le mandat du suppléant appelé à remplacer un membre titulaire ou celui d'un
-membre nouveau appelé à remplacer un suppléant prennent fin à la même date que le mandat des membres appartenant au même
-groupe que le membre remplacé.
+En cas de vacance survenant au cours d'un mandat, le mandat du suppléant appelé à remplacer un membre titulaire ou celui d'un
+membre nouveau appelé à remplacer un suppléant prennent fin à la même date que le mandat du membre remplacé.
 
 **Liens relatifs à cet article**
 
@@ -47380,9 +47374,9 @@ groupe que le membre remplacé.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-181 1978-02-09 ART. 2 JORF 22 FEVRIER 1978
+	  - Décret n°84-309 1984-04-26 ART. 3 JORF 28 AVRIL 1984
 
 	**Cite**:
 
@@ -47391,8 +47385,8 @@ groupe que le membre remplacé.
 
 ###### Article R5141-2
 
-La durée [*maximum*] totale des mandats successifs que peuvent exercer en qualité tant de titulaire que de suppléant les
-membres de la commission mentionnée à l'article R. 5140 ne peut excéder huit ans.
+Les membres de la commission mentionnée à l'article R. 5140 ne peuvent être ni salariés d'un établissement de préparation de
+produits pharmaceutiques, ni avoir un intérêt financier direct ou indirect dans un tel établissement [*incompatibilité*].
 
 **Liens relatifs à cet article**
 
@@ -47401,9 +47395,9 @@ membres de la commission mentionnée à l'article R. 5140 ne peut excéder huit 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°78-181 1978-02-09 ART. 2 JORF 22 FEVRIER 1978
+	  - Décret n°84-309 1984-04-26 ART. 4 JORF 28 AVRIL 1984
 
 	**Cite**:
 
