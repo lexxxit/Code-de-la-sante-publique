@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-12-30
+Version Consolidée au 1992-12-31
 
 # Partie législative ancienne
 
@@ -67458,8 +67458,6 @@ supérieure à 500 curies, et émettant un rayonnement d'énergie supérieur à 
 
 12. Appareil de destruction transpariétale des calculs ;
 
-13. Réseau informatisé de transmission et d'archivage de l'imagerie médicale.
-
 Sont considérés comme équipements matériels lourds au sens de l'article L. 712-19 les éléments dont l'adjonction ou la
 juxtaposition conduit à réaliser l'un des appareillages mentionnés ci-dessus.
 
@@ -67483,7 +67481,7 @@ III. - Les activités de soins définies à l'article L. 712-2 (2°, b) énumér
 
 10. Traitement de l'insuffisance rénale chronique ;
 
-11. Activités cliniques de procréation médicalement assistée et diagnostic prénatal ;
+11. Activités de procréation médicalement assistée et diagnostic prénatal ;
 
 12. Réadaptation fonctionnelle.
 
@@ -67493,10 +67491,6 @@ III. - Les activités de soins définies à l'article L. 712-2 (2°, b) énumér
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 	**Cité par**:
 
@@ -67563,6 +67557,10 @@ III. - Les activités de soins définies à l'article L. 712-2 (2°, b) énumér
 	  - Code de la santé publique - art. R716-1 (Ab)
 	  - Code de la santé publique - art. R716-5 (Ab)
 	  - Code de la sécurité sociale. - art. R332-4 (T)
+
+	**Modifié par**:
+
+	  - Décret n°92-1439 du 30 décembre 1992 - art. 1 () JORF 31 décembre 1992
 
 	**Cite**:
 
