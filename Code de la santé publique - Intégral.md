@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1980-07-13
+Version Consolidée au 1980-12-24
 
 # Partie législative ancienne
 
@@ -12247,6 +12247,178 @@ appelés, dans l'exercice de leurs fonctions, à exercer la médecine ou l'art d
 	  - TXT_ASSOCIE: Code de la santé publique L357 : DEROGATION POUR CERTAINS ETRANGERS
 
 
+###### Article L356-1
+
+Le médecin ou le praticien de l'art dentaire ressortissant d'un des Etats membres de la Communauté économique européenne qui
+est établi et exerce légalement les activités de médecin dans un Etat membre autre que la France [*à l'étranger*] peut
+exécuter en France des actes de sa profession sans être inscrit à un tableau de l'ordre des médecins ou des chirurgiens
+dentistes. L'exécution de ces actes est toutefois subordonnée à une déclaration préalable [*condition d'exercice*] dont les
+modalités sont fixées par un décret en Conseil d'Etat. Si l'urgence ne permet pas de faire cette déclaration préalablement à
+l'acte, elle doit être faite postérieurement dans un délai maximum de quinze jours.
+
+La déclaration est accompagnée d'une attestation de l'autorité compétente de l'Etat membre certifiant que l'intéressé possède
+les diplômes, certificats ou autres titres requis et qu'il exerce légalement ls activités de médecin ou de praticien de l'art
+dentaire dans l'Etat membre où il est établi. Elle est également accompagnée d'une déclaration sur l'honneur attestant
+qu'aucune instance pouvant entraîner l'interdiction temporaire ou définitive de l'exercice de la médecine ou de l'art
+dentaire dans l'Etat d'origine ou de provenance n'est en cours à son encontre [*document*].
+
+Le médecin ou le praticien de l'art dentaire prestataire de services est tenu [*obligation*] de respecter les règles
+professionnelles en vigueur dans l'Etat où il effectue sa prestation et soumis à la juridiction disciplinaire de l'ordre des
+médecins ou de l'ordre des chirurgiens dentistes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°76-1288 1976-12-31 ART. 2 JORF 1ER JANVIER 1977
+
+	**Modifié par**:
+
+	  - Loi n°80-1040 1980-12-23 ART. 1 JORF 24 DECEMBRE 1980
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°86-122 du 23 janvier 1986
+	  - TXT_SOURCE: Décret n°86-122 du 23 janvier 1986 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°86-122 du 23 janvier 1986 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°86-122 du 23 janvier 1986 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°86-122 du 23 janvier 1986 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°86-122 du 23 janvier 1986 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°86-122 du 23 janvier 1986 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°86-122 du 23 janvier 1986 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°86-122 du 23 janvier 1986 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°86-122 du 23 janvier 1986 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°86-122 du 23 janvier 1986 - art. 1 (Ab)
+	  - Décret n°86-122 du 23 janvier 1986 - art. 3 (Ab)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+	  - Code de déontologie des chirurgiens-dentistes - art. 1 (Ab)
+	  - Code de déontologie des médecins. - art. 1 (Ab)
+	  - Code de déontologie des médecins. - art. 55 (Ab)
+	  - Code de déontologie des sages-femmes. - art. 1 (Ab)
+	  - Code de déontologie médicale - art. 1 (Ab)
+	  - Code de la santé publique - art. L372 (Ab)
+	  - Code de la santé publique - art. L373 (Ab)
+	  - Code de la santé publique - art. L374 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4112-7 (V)
+
+
+###### Article L356-2
+
+Les diplômes, certificats et titres exigés en application du 1° de l'article L. 356 sont :
+
+1° Pour l'exercice de la profession de médecin :
+
+- soit le diplôme français d'Etat de docteur en médecine ;
+
+- soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté économique européenne [*étranger*], un diplôme,
+certificat ou autre titre de médecin délivré par l'un des ces Etats et figurant sur une liste établie conformément aux
+obligations communautaires, par arrêté conjoint du ministre de la santé et du ministre chargé des universités ou tout autre
+diplôme, certificat ou autre titre de médecin délivré par l'un des Etats membres avant le 20 décembre 1976, à la condition
+qu'il soit accompagné d'une attestation de cet Etat certifiant que le titulaire du diplôme, certificat ou titre, s'est
+consacré de façon effective et licite aux activités de médecin pendant au moins trois années consécutives [*durée*] au cours
+des cinq années précédant la délivrance de l'attestation ;
+
+2° Pour l'exercice de la profession de chirurgien-dentiste :
+
+- soit le diplôme français d'Etat de docteur en chirurgie dentaire ;
+
+- soit le diplôme français d'Etat de chirurgien-dentiste ;
+
+- soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté économique européenne, un diplôme, certificat ou
+autre titre de praticien de l'art dentaire délivré par l'un de ces Etats conformément aux obligations communautaires et
+figurant sur une liste établie par arrêté conjoint du ministre chargé de la santé et du ministre chargé des universités ou
+tout autre diplôme, certificat ou autre titre de praticien de l'art dentaire délivré par l'un des Etats membres avant le 28
+janvier 1980, à la condition qu'il soit accompagné d'une attestation de cet Etat certifiant que le titulaire de diplôme,
+certificat ou titre, s'est consacré de façon effective et licite aux activités de praticien de l'art dentaire pendant au
+moins trois années consécutives au cours des cinq années précédant la délivrance de l'attestation.
+
+3° Pour l'exercice de la profession de sage-femme, le diplôme français d'Etat de sage-femme.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1977-02-16 JORF 13 MARS : LISTE
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997
+
+	**Cité par**:
+
+	  - Décret n°48-1671 du 26 octobre 1948 - art. 1 (Ab)
+	  - Décret n°59-878 du 18 juillet 1959 - art. 1 (Ab)
+	  - Décret n°59-984 du 12 août 1959 - art. 1 (Ab)
+	  - Décret n°64-1264 du 17 décembre 1964 - art. 1 (Ab)
+	  - Arrêté du 18 juin 1981 - art. 2 (V)
+	  - Décret n°84-135 du 24 février 1984 - art. 26-2 (M)
+	  - Décret n°84-135 du 24 février 1984 - art. 26-3 (V)
+	  - Décret n°87-788 du 28 septembre 1987 - art. 2-1 (M)
+	  - Arrêté du 30 août 1988 - art. 6 (V)
+	  - Décret n°88-903 du 30 août 1988 - art. 1 (Ab)
+	  - Arrêté du 13 septembre 1988 - art. 5 (V)
+	  - Arrêté du 6 mars 1989 - art. 5 (Ab)
+	  - Arrêté du 5 juin 1989 - art. 6 (V)
+	  - Décret n°89-611 du 1 septembre 1989 - art. 2 (V)
+	  - Décret n°90-92 du 24 janvier 1990 - art. 5 (V)
+	  - Décret n°90-393 du 2 mai 1990 - art. 10 (Ab)
+	  - Arrêté du 12 décembre 1990 - art. 1 (V)
+	  - Décret n°91-1025 du 7 octobre 1991 - art. 3 (V)
+	  - Décret n°92-785 du 6 août 1992 - art. 9 (Ab)
+	  - Décret n°92-855 du 28 août 1992 - art. 4 (V)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 32 (Ab)
+	  - Arrêté du 26 octobre 1992 - art. 2 (M)
+	  - Loi n°95-116 du 4 février 1995 - art. 3 (Ab)
+	  - Décret n°95-568 du 6 mai 1995 - art. 4 (Ab)
+	  - Arrêté du 10 mai 1995 - art. 5 (Ab)
+	  - Décret n°96-182 du 7 mars 1996 - art. 16 (Ab)
+	  - Arrêté du 17 septembre 1997 - art. 1 (V)
+	  - Décret n°98-365 du 13 mai 1998 - art. 5 (Ab)
+	  - Loi n°98-535 du 1 juillet 1998 - art. 28 (V)
+	  - Décret n°98-906 du 8 octobre 1998 - art. 6 (Ab)
+	  - Décret n°98-918 du 12 octobre 1998 - art. 2 (Ab)
+	  - Décret n°98-918 du 12 octobre 1998 - art. 9 (Ab)
+	  - Décret n°98-947 du 22 octobre 1998 - art. 3 (V)
+	  - Arrêté du 14 décembre 1998 - art. 3 (M)
+	  - Décret n°98-1127 du 14 décembre 1998 - art. 13 (Ab)
+	  - Loi n°99-641 du 27 juillet 1999 - art. 60 (M)
+	  - Arrêté du 13 février 2007 - art. 10 (V)
+	  - Arrêté du 6 février 1981 - art. 1 (Ab)
+	  - Arrêté du 7 décembre 1984 - art. 1 (M)
+	  - Arrêté du 7 décembre 1984 - art. Annexe II (Ab)
+	  - Code de déontologie médicale - art. 81 (Ab)
+	  - Code de la santé publique - art. L356 (Ab)
+	  - Code de la santé publique - art. L372 (Ab)
+	  - Code de la santé publique - art. L373 (Ab)
+	  - Code de la santé publique - art. L374 (Ab)
+	  - Code de la santé publique - art. L469-3 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°76-1288 1976-12-31 ART. 2 JORF 1ER JANVIER 1977
+
+	**Modifié par**:
+
+	  - Loi n°80-1040 1980-12-23 ART. 2 JORF 24 DECEMBRE 1980
+
+	**Cite**:
+
+	  - Code de la santé publique L356 AL. 1
+
+
 ###### Article L357
 
 Par dérogation aux dispositions des 1° et 2° de l'article L. 356 et sous réserve des dispositions transitoires prévues à
@@ -12993,6 +13165,34 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L4141-2 (V)
+
+
+###### Article L368-1
+
+Tout chirurgien-dentiste non titulaire du diplôme français d'Etat de docteur en chirurgie dentaire ou du diplôme français
+d'Etat de chirurgien-dentiste est tenu, dans tous les cas où il fait état de son titre ou de sa qualité de praticien de l'art
+dentaire, de faire figurer le lieu et l'établissement universitaire où il a obtenu le diplôme, titre ou certificat lui
+permettant d'exercer l'art dentaire [*mentions obligatoires*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Code de déontologie des chirurgiens-dentistes - art. 14 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4111-5 (V)
 
 
 ##### Paragraphe 4 : Règles propres à l'exercice de la profession de sage-femme
