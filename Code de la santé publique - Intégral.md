@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-01-19
+Version Consolidée au 1994-01-26
 
 # Partie législative ancienne
 
@@ -73261,6 +73261,918 @@ homologué et ne pouvant être ni utilisé, ni mis sur le marché".
 	  - Code de la santé publique - art. R5274 (Ab)
 
 
+## Livre 6 : Utilisation thérapeutique de produits d'origine humaine
+
+### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés
+
+#### Section 1 : Hémovigilance
+
+##### Sous-section 1 : Dispositions générales
+
+###### Article R666-12-1
+
+L'hémovigilance [*définition*] est un élément de la sécurité transfusionnelle. Elle comporte, pour toute unité préparée d'un
+produit sanguin labile :
+
+a) Le signalement de tout effet inattendu ou indésirable lié ou susceptible d'être lié à l'usage thérapeutique de ce
+produit ;
+
+b) Le recueil, la conservation et l'accessibilité des informations relatives à son prélèvement, à sa préparation, à son
+utilisation ainsi qu'aux effets mentionnés au a ci-dessus ;
+
+c) L'évaluation et l'exploitation de ces informations en vue de prévenir la survenance de tout effet inattendu ou indésirable
+résultant de l'utilisation thérapeutique des produits sanguins labiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-16 (Ab)
+
+
+###### Article R666-12-2
+
+L'Agence française du sang assure [*organisme compétent*] la mise en oeuvre de l'hémovigilance. Elle en définit [*rôle*] les
+orientations, anime et coordonne les actions des différents intervenants et veille au respect des procédures de surveillance
+organisées par la présente section. Elle prend, le cas échéant, les mesures appropriées en vue d'assurer la sécurité
+transfusionnelle ou saisit les autorités compétentes.
+
+Pour l'exercice de cette mission, l'Agence française du sang :
+
+a) Est informée, dans les conditions prévues aux articles R. 666-12-25 et R. 666-12-26, de tout effet inattendu ou
+indésirable résultant de l'utilisation thérapeutique d'un produit sanguin labile ;
+
+b) Est destinataire, dans les conditions prévues à la présente section, des informations recueillies au cours des phases de
+préparation, de conservation et d'utilisation des produits sanguins labiles ;
+
+c) Procède ou fait procéder par une personne morale de droit public agissant sous son contrôle à des enquêtes
+épidémiologiques et à des études relatives aux conditions d'emploi des produits sanguins labiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-17 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R666-12-21 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R666-12-25 (M)
+	  - Code de la santé publique - art. R666-12-26 (M)
+
+
+###### Article R666-12-3
+
+L'Agence française du sang et l'Agence du médicament s'informent mutuellement de tout incident transfusionnel lié ou
+susceptible d'être lié à l'administration d'un produit sanguin labile ou d'un produit sanguin stable, et dont la cause
+réside, ou est susceptible de résider, dans la qualité du sang prélevé dont est issu le produit transfusé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-18 (V)
+
+
+##### Sous-section 2 : Dispositions générales
+
+###### Article R666-12-4
+
+L'Agence française du sang transmet au ministre chargé de la santé les informations de nature épidémiologique qu'elle
+recueille dans l'exercice de sa mission d'hémovigilance et dont la liste est fixée par arrêté du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-19 (M)
+
+
+##### Sous-section 2 : Modalités de distribution des produits sanguins labiles
+
+###### Article R666-12-5
+
+Chaque établissement de santé public ou privé doit choisir un établissement de transfusion sanguine unique pour assurer son
+approvisionnement en produits sanguins labiles. Il communique le nom de cet établissement au préfet de région.
+
+Chaque établissement de transfusion sanguine doit faire connaître à l'Agence française du sang les établissements de santé
+dont il assure l'approvisionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Cité par**:
+
+	  - Arrêté du 8 décembre 1994 - art. 2 (V)
+	  - Code de la santé publique - art. R666-12-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-20 (T)
+
+
+###### Article R666-12-6
+
+Lorsqu'il n'assure pas la préparation d'un produit sanguin labile ou s'il n'en dispose pas en quantité suffisante,
+l'établissement de transfusion sanguine distributeur s'approvisionne auprès d'un ou de plusieurs autres établissements de
+transfusion sanguine.
+
+Sauf cas d'urgence, un établissement de transfusion sanguine ne peut [*interdiction*] céder à un autre établissement de
+transfusion sanguine que les produits sanguins labiles dont il a lui-même assuré la préparation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R666-12-7 (M)
+
+
+###### Article R666-12-7
+
+Les choix d'établissements fournisseurs auxquels il est procédé en application des articles R. 666-12-5 et R. 666-12-6
+doivent être compatibles avec les dispositions du ou des schémas d'organisation de la transfusion sanguine dont relèvent les
+établissements de santé et les établissements de transfusion sanguine concernés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R666-12-27 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R666-12-5 (M)
+	  - Code de la santé publique - art. R666-12-6 (M)
+
+
+###### Article R666-12-8
+
+La cession de produits sanguins labiles entre établissements de santé ne peut intervenir qu'à titre exceptionnel et ne peut
+s'effectuer qu'entre établissements de santé ayant le même établissement de transfusion sanguine distributeur. Ce dernier est
+informé de la cession.
+
+Les produits qui ont fait l'objet d'une telle cession ne peuvent être ultérieurement cédés à un autre établissement de santé.
+
+Le ministre chargé de la santé peut, par arrêté pris après avis du président de l'Agence française du sang, interdire ou
+limiter les cessions de produits sanguins labiles entre établissements de santé ou au sein d'un groupe déterminé
+d'établissements de santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Cité par**:
+
+	  - Arrêté du 8 décembre 1994 - art. Annexe I (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-21 (M)
+
+
+###### Article R666-12-9
+
+Lorsqu'un dépôt de produits sanguins est autorisé dans un établissement de santé en application de l'article L. 666-10, une
+convention doit être passée entre l'établissement de santé dépositaire et son établissement de transfusion sanguine
+distributeur pour organiser la maintenance du dépôt et la surveillance des produits entreposés.
+
+Un arrêté du ministre chargé de la santé, pris après avis du président de l'Agence française du sang, fixe les clauses
+obligatoires que doivent comporter ces conventions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Cité par**:
+
+	  - Décret n°95-565 du 6 mai 1995 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-10 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-22 (M)
+
+
+###### Article R666-12-10
+
+Un arrêté du ministre chargé de la santé pris après avis du président de l'Agence française du sang fixe les conditions dans
+lesquelles les dispositions de la présente sous-section sont applicables aux structures mentionnées au deuxième alinéa de
+l'article L. 716-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L716-3 (M)
+
+
+##### Sous-section 3 : Rôle des établissements de transfusion sanguine distributeurs
+
+###### Article R666-12-11
+
+I.  Chaque établissement de transfusion sanguine est tenu de recueillir et de conserver, pour chaque unité de produit sanguin
+labile dont il assure la préparation, les informations suivantes :
+
+a) L'identification du don de sang ou de composants du sang dont est issue l'unité et l'identification du donneur ;
+
+b) Les résultats des analyses biologiques et des tests de dépistage auxquels il a été procédé sur le don ;
+
+c) L'identification de l'établissement de transfusion sanguine destinataire de l'unité préparée, lorsque celle-ci a été cédée
+à un autre établissement de transfusion sanguine ;
+
+d) L'identification de l'établissement de santé destinataire de l'unité préparée et les circonstances de la cession ainsi
+que, en cas de cession de l'unité entre établissements de santé, les circonstances de la seconde cession et l'identification
+de l'établissement de santé finalement destinataire ;
+
+e) L'identification du prescripteur et l'identification du patient auquel a été administrée l'unité ou, le cas échéant, la
+date de destruction de l'unité ou de sa restitution à l'établissement de transfusion sanguine.
+
+II.  En outre, à la demande de l'Agence française du sang, l'établissement de transfusion recueille et conserve toutes les
+informations nécessaires à l'hémovigilance auxquelles il a accès et qui portent sur :
+
+a) Les transfusions autologues auxquelles l'établissement a pris part ;
+
+b) Les examens prétransfusionnels et, le cas échéant, post-transfusionnels pratiqués sur le patient ;
+
+c) La conservation, aux fins d'analyses ultérieures, d'échantillons biologiques prélevés sur le don du sang.
+
+III.  Les établissements de santé font parvenir à leur établissement de transfusion sanguine distributeur les informations
+relatives aux d et e du I et au b du II ci-dessus.
+
+Des directives techniques de l'Agence française du sang peuvent préciser le contenu des informations mentionnées au présent
+article et fixer les modalités de leur recueil par l'établissement de transfusion ou de leur transmission par les
+établissements de santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R666-12-12 (Ab)
+	  - Code de la santé publique - art. R666-12-14 (Ab)
+
+
+###### Article R666-12-12
+
+Dans chaque établissement de transfusion sanguine, un correspondant d'hémovigilance est chargé d'assurer, pour le compte de
+l'établissement :
+
+a) Le recueil et la conservation des informations mentionnées à l'article R. 666-12-11 en veillant à la qualité et à la
+fiabilité de ces informations ;
+
+b) Le signalement, dans les conditions et selon les modalités prévues à l'article R. 666-12-24, de tout effet inattendu ou
+indésirable dû, ou susceptible d'être dû, à l'administration d'un produit sanguin labile et dont il aurait eu à connaître ;
+
+c) La communication à l'Agence française du sang et au coordonnateur régional de l'hémovigilance mentionné à l'article R.
+666-12-20 des informations qu'ils sollicitent en application de l'article R. 666-12-21 ;
+
+d) L'information des établissements de santé sur l'usage des produits sanguins labiles distribués par son établissement et la
+transmission à ces établissements des informations mentionnées au premier alinéa du III de l'article R. 666-12-13 ;
+
+e) Le signalement à l'Agence française du sang et au coordonnateur régional de l'hémovigilance de toute difficulté
+susceptible de compromettre la sécurité transfusionnelle ;
+
+f) Les investigations à entreprendre en cas d'urgence sur des effets transfusionnels inattendus ou indésirables. Dans ce cas,
+il informe sans délai le coordonnateur régional, qui décide de la poursuite ou de l'interruption de ces investigations, et
+l'Agence française du sang.
+
+Le correspondant d'hémovigilance de l'établissement de transfusion sanguine est désigné par le chef d'établissement et doit
+être un médecin ou un pharmacien. Des conditions particulières de qualification et de formation de ce correspondant peuvent
+être imposées par arrêté du ministre chargé de la santé, pris après avis du président de l'Agence française du sang.
+
+Le nom du correspondant est communiqué par l'établissement à l'Agence française du sang et au ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-26 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R666-12-11 (M)
+	  - Code de la santé publique - art. R666-12-13 (M)
+	  - Code de la santé publique - art. R666-12-24 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R666-12-20 (Ab)
+	  - Code de la santé publique - art. R666-12-21 (Ab)
+
+
+##### Sous-section 4 : Rôle des établissements de santé
+
+###### Article R666-12-13
+
+I.  Chaque établissement de santé, public ou privé, est tenu [*obligation*] de recueillir et de conserver, pour chaque unité
+de produit sanguin labile qui lui est distribuée, les informations suivantes :
+
+a) L'identification de l'unité préparée selon la codification adoptée par l'établissement de transfusion sanguine
+distributeur ;
+
+b) L'identification de l'établissement préparateur, pour les unités préparées par un établissement de transfusion sanguine
+distinct de l'établissement de transfusion distributeur ;
+
+c) Les circonstances du transport et de la conservation de l'unité ainsi que l'identification du prescripteur et celle de la
+personne responsable de l'administration du produit sanguin ;
+
+d) L'identification du patient auquel a été administré l'unité et les circonstances de cette administration, ou, le cas
+échéant, la date à laquelle l'unité a été détruite ou restituée à l'établissement de transfusion sanguine distributeur ;
+
+e) Le cas échéant, l'identification de l'établissement de santé auquel a été cédée l'unité ainsi que la date et les
+circonstances de la cession ;
+
+f) Tout effet inattendu ou indésirable lié, ou susceptible d'être lié, à l'administration de l'unité.
+
+II.  En outre, à la demande de l'Agence française du sang, l'établissement recueille et conserve toutes les informations
+relatives à l'hémovigilance auxquelles il a accès et qui portent sur :
+
+a) Les transfusions autologues pré- et peropératoires pratiquées dans l'établissement ;
+
+b) Les examens prétransfusionnels et, le cas échéant, post-transfusionnels pratiqués sur le patient ;
+
+c) L'administration, dans le cadre d'un même traitement, d'un produit sanguin stable et d'un produit sanguin labile ;
+
+d) La conservation, aux fins d'analyses ultérieures, d'échantillons biologiques prélevés sur le patient.
+
+III.  L'établissement de transfusion sanguine distributeur fait parvenir à l'établissement de santé les informations
+relatives aux a et b du I et, le cas échéant, au b du II ci-dessus.
+
+Des directives techniques de l'Agence française du sang peuvent préciser le contenu des informations mentionnées au présent
+article et fixer les modalités de leur recueil par l'établissement de santé ou de leur transmission par l'établissement de
+transfusion sanguine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R666-12-12 (Ab)
+	  - Code de la santé publique - art. R666-12-14 (Ab)
+
+
+###### Article R666-12-14
+
+Au sein de chaque établissement de santé, public ou privé, un correspondant d'hémovigilance est chargé d'assurer, pour le
+compte de l'établissement :
+
+a) Le signalement, dans les conditions et selon les modalités prévues à l'article R. 666-12-24, de tout effet inattendu ou
+indésirable dû, ou susceptible d'être dû, à l'administration d'un produit sanguin labile ;
+
+b) Le recueil et la conservation des informations mentionnées à l'article R. 666-12-13, en veillant à la qualité et à la
+fiabilité de ces informations ;
+
+c) La communication à l'Agence française du sang et au coordonnateur régional de l'hémovigilance des informations qu'ils
+sollicitent, en application de l'article R. 666-12-21 ;
+
+d) La transmission à l'établissement de transfusion sanguine distributeur des informations mentionnées au premier alinéa du
+III de l'article R. 666-12-11 ;
+
+e) Le signalement à l'Agence française du sang et au coordonnateur régional de l'hémovigilance de toute difficulté
+susceptible de compromettre la sécurité transfusionnelle ;
+
+f) Les investigations à entreprendre en cas d'urgence sur des effets transfusionnels inattendus ou indésirables. Dans ce cas,
+il informe sans délai le coordonnateur régional, qui décide de la poursuite ou de l'interruption de ces investigations, et
+l'Agence française du sang.
+
+Le correspondant de l'hémovigilance de l'établissement de santé doit être un médecin. Toutefois, le ministre chargé de la
+santé peut, par arrêté pris après avis du président de l'Agence française du sang, fixer les conditions dans lesquelles un
+établissement de santé peut avoir un pharmacien comme correspondant d'hémovigilance.
+
+Des conditions particulières de qualification et de formation peuvent être imposées aux correspondants de certains
+établissements par arrêté du ministre chargé de la santé, pris après avis du président de l'Agence française du sang.
+
+Le correspondant d'hémovigilance est désigné par le directeur de l'établissement. Dans les établissements publics de santé,
+il est désigné après avis de la commission médicale d'établissement.
+
+Le nom du correspondant est communiqué par l'établissement au préfet de région et à l'Agence française du sang.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 10 mai 1995
+	  - TXT_SOURCE: Arrêté du 10 mai 1995 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-30 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R666-12-11 (M)
+	  - Code de la santé publique - art. R666-12-13 (M)
+	  - Code de la santé publique - art. R666-12-24 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R666-12-20 (Ab)
+	  - Code de la santé publique - art. R666-12-21 (Ab)
+
+
+###### Article R666-12-15
+
+Dans chaque établissement public de santé, un comité de sécurité transfusionnelle et d'hémovigilance réunit le directeur de
+cet établissement et celui de l'établissement de transfusion sanguine distributeur ou leurs représentants, les correspondants
+d'hémovigilance de ces deux établissements et des représentants des personnels médicaux, soignants, médico-techniques et
+administratifs de l'établissement public de santé. Doivent être notamment représentés les principaux services prescripteurs
+de transfusion sanguine de cet établissement.
+
+Un règlement intérieur fixe les modalités de composition, d'organisation et de fonctionnement du comité de sécurité
+transfusionnelle et d'hémovigilance d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Cité par**:
+
+	  - Arrêté du 24 février 1994 - art. 1 (V)
+	  - Code de la santé publique - art. R713-2-22 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-31 (Ab)
+
+
+###### Article R666-12-16
+
+Le comité de sécurité transfusionnelle et d'hémovigilance d'établissement a pour mission [*rôle, compétence*] de contribuer
+par ses études et ses propositions à l'amélioration de la sécurité des patients qui y sont transfusés.
+
+Il veille à la mise en oeuvre des règles et procédures d'hémovigilance prévues par la présente section. Il est notamment
+chargé de la coordination des actions d'hémovigilance entreprises au sein de l'établissement de santé.
+
+A ce titre :
+
+a) Il s'assure auprès des services responsables de la présence dans le dossier médical mentionné à l'article R. 710-2-1 des
+documents relatifs aux actes transfusionnels et, le cas échéant, de la copie de la fiche d'incident transfusionnel mentionnée
+au deuxième alinéa de l'article R. 666-12-24 ;
+
+b) Il est saisi de toute question relative à la collaboration des correspondants d'hémovigilance de l'établissement de
+transfusion sanguine et de l'établissement de santé, et plus généralement de toute question portant sur les circuits de
+transmission des informations, en vue d'améliorer l'efficacité de l'hémovigilance ;
+
+c) Il se tient informé des conditions de fonctionnement des dépôts de sang ;
+
+d) Il est averti des incidents transfusionnels inattendus ou indésirables, conçoit toute mesure destinée à y remédier ;
+
+e) Il présente à la commission médicale d'établissement un programme de formation en sécurité transfusionnelle destiné aux
+personnels concernés ;
+
+f) Il remet à la commission médicale d'établissement un rapport annuel d'activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-32 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R666-12-24 (M)
+	  - Code de la santé publique - art. R710-2-1 (M)
+
+
+###### Article R666-12-17
+
+Le comité de sécurité transfusionnelle et d'hémovigilance d'établissement se réunit au moins trois fois par an.
+
+Le coordonnateur régional, s'il le souhaite, assiste de droit aux séances du comité et peut y être entendu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-33 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5144-24 (Ab)
+
+
+###### Article R666-12-18
+
+L'Agence française du sang, le coordonnateur régional et le préfet du département sont destinataires des comptes rendus,
+rapports et autres documents intéressant l'hémovigilance élaborés par le comité de sécurité transfusionnelle et
+d'hémovigilance d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-34 (V)
+
+
+###### Article R666-12-19
+
+Le comité peut saisir le coordonnateur régional et l'Agence française du sang de toute question relative à la mise en oeuvre
+des règles d'hémovigilance dans l'établissement de santé. Il peut demander au coordonnateur régional de faire procéder à
+toute investigation sur les circonstances d'un incident transfusionnel inattendu ou indésirable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-35 (V)
+
+
+##### Sous-section 5 : Les coordonnateurs régionaux de l'hémovigilance
+
+###### Article R666-12-20
+
+Dans chaque région, un coordonnateur de l'hémovigilance placé auprès du directeur régional des affaires sanitaires et
+sociales est chargé [*compétences*] :
+
+a) De suivre la mise en oeuvre par les établissements de santé et de transfusion sanguine de la région des dispositions de la
+présente section ainsi que, le cas échéant, des directives techniques de l'Agence française du sang et des actions
+entreprises par les comités de sécurité transfusionnelle et d'hémovigilance des établissements ;
+
+b) D'entretenir des relations directes avec chacun des correspondants d'hémovigilance de la région, de veiller avec eux à la
+qualité et à la fiabilité des informations recueillies en application des articles R. 666-12-12 et R. 666-12-14 et de se
+tenir informé de toute difficulté que les correspondants rencontreraient dans l'exercice de leur mission ;
+
+c) D'informer régulièrement le préfet de région et l'Agence française du sang de son activité, de les saisir sans délai de
+toute difficulté susceptible de compromettre la sécurité transfusionnelle et de saisir également le ministre chargé de la
+santé si une telle difficulté trouve son origine au sein d'un établissement de santé ;
+
+d) De proposer, le cas échéant, à l'Agence française du sang, sous couvert du préfet de région, l'adoption de toute mesure
+susceptible d'améliorer la qualité, la fiabilité et la cohérence du dispositif d'hémovigilance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-36 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R666-12-12 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R666-12-14 (M)
+
+
+###### Article R666-12-21
+
+A la demande de l'Agence française du sang ou du préfet de région, ou de sa propore initiative, le coordonnateur régional de
+l'hémovigilance se fait communiquer par le ou les correspondants d'hémovigilance compétents toute information que les
+établissements de transfusion sanguine ou de santé recueillent et détiennent en application des articles R. 666-12-12 et R.
+666-12-14.
+
+Dans les mêmes conditions et à partir de ces informations, le coordonnateur procède ou fait procéder par les correspondants
+d'hémovigilance à toute recherche utile à l'hémovigilance et concernant notamment :
+
+a) L'identification de toute unité de produit sanguin labile préparée à partir d'un don ou d'un donneur déterminé, ou
+l'identification du don ou du donneur qui est à l'origine de la préparation d'une unité déterminée ;
+
+b) L'identification de toutes les unités administrées à un patient déterminé ou la recherche de tous effets inattendus ou
+indésirables liés, ou susceptibles d'être liés, à l'administration d'une unité ou d'un type de produit sanguin déterminé.
+
+Les résultats des investigations mentionnées aux alinéas précédents sont transmis par le coordonnateur régional au préfet de
+région, à l'Agence française du sang et, le cas échéant, à la personne morale visée au c de l'article R. 666-12-2.
+
+Une directive technique de l'Agence française du sang peut fixer les modalités des échanges d'information, liés à ces
+investigations, entre les établissements et le coordonnateur, d'une part, entre le coordonnateur et l'agence, d'autre part.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-37 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R666-12-12 (Ab)
+	  - Code de la santé publique - art. R666-12-14 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R666-12-2 (M)
+
+
+###### Article R666-12-22
+
+Lorsque cela est nécessaire dans l'intérêt de l'hémovigilance, le coordonnateur régional de l'hémovigilance transmet à un
+autre coordonnateur régional une information dont il est détenteur. Il en informe l'Agence française du sang.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-38 (V)
+
+
+###### Article R666-12-23
+
+Le coordonnateur régional de l'hémovigilance est un médecin praticien hospitalier ou possédant des qualifications
+équivalentes, doté d'une expérience en matière de transfusion sanguine. Il est nommé pour une durée de trois ans renouvelable
+par arrêté du ministre chargé de la santé. Cet arrêté est pris sur proposition du président de l'Agence française du sang et
+après avis du préfet de région.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-39 (V)
+
+
+##### Sous-section 6 : Déclaration d'incident transfusionnel
+
+###### Article R666-12-24
+
+Tout médecin, pharmacien, chirurgien-dentiste, sage-femme, infirmière ou infirmier qui a connaissance de l'administration
+d'un produit sanguin labile à un de ses patients et qui constate un effet inattendu ou indésirable dû, ou susceptible d'être
+dû à ce produit, [*obligation*] doit le signaler sans délai au correspondant d'hémovigilance de l'établissement dans lequel a
+été administré le produit. A défaut, il le signale à tout correspondant d'hémovigilance d'un établissement de transfusion
+sanguine ou de santé, qui transmet cette information au correspondant d'hémovigilance compétent.
+
+Le correspondant d'hémovigilance de l'établissement dans lequel a eu lieu l'administration du produit en cause procède aux
+investigations et examens appropriés dans le service concerné. Il informe le correspondant de l'établissement de transfusion
+sanguine distributeur et rédige, en concertation avec lui, une fiche d'incident transfusionnel dont copie est versée au
+dossier médical du patient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-40 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R666-12-12 (Ab)
+	  - Code de la santé publique - art. R666-12-14 (Ab)
+	  - Code de la santé publique - art. R666-12-16 (Ab)
+	  - Code de la santé publique - art. R710-2-1 (M)
+	  - Code de la santé publique - art. R710-2-2 (Ab)
+	  - Code de la santé publique - art. R721-1 (Ab)
+
+
+###### Article R666-12-25
+
+L'Agence française du sang, le coordonnateur régional de l'hémovigilance et le préfet du département où survient l'incident
+sont destinataires des fiches d'incident transfusionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-41 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R666-12-2 (Ab)
+
+
+###### Article R666-12-26
+
+Une directive technique de l'Agence française du sang fixe la forme et le contenu des fiches d'incident transfusionnel et les
+modalités de leur transmission. Cette directive peut définir les cas et situations dans lesquels il n'y a pas lieu de
+transmettre la fiche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 1 () JORF 26 janvier 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1221-42 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R666-12-2 (Ab)
+
+
 ## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires
 
 ### Titre 1 : Etablissements de santé
@@ -73293,7 +74205,10 @@ f) Le ou les comptes rendus opératoires ou d'accouchement ;
 
 g) Les prescriptions d'ordre thérapeutique ;
 
-h) Lorsqu'il existe, le dossier de soins infirmiers.
+h) Lorsqu'il existe, le dossier de soins infirmiers ;
+
+i) La mention des actes transfusionnels pratiqués sur le patient et, le cas échéant, copie de la fiche d'incident
+transfusionnel mentionnée au deuxième alinéa de l'article R. 666-12-24.
 
 II. - Les documents établis à la fin de chaque séjour hospitalier, à savoir :
 
@@ -73310,9 +74225,9 @@ c) Le cas échéant, la fiche de synthèse contenue dans le dossier de soins inf
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
+	  - Décret n°94-68 du 24 janvier 1994 - art. 2 () JORF 26 janvier 1994
 
 	**Cité par**:
 
@@ -73323,6 +74238,10 @@ c) Le cas échéant, la fiche de synthèse contenue dans le dossier de soins inf
 	  - Code de la santé publique - art. R666-12-16 (Ab)
 	  - Code de la santé publique - art. R710-2-2 (M)
 	  - Code de la santé publique - art. R710-2-6 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R666-12-24 (M)
 
 
 ###### Article R710-2-2
@@ -73494,6 +74413,24 @@ du dossier médical conformément aux règles définies ci-dessus.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R1112-7 (M)
+
+
+###### Article R710-2-7-1
+
+Au cours de son séjour hospitalier, le patient auquel a été administré un produit sanguin labile en est informé par écrit.
+L'information est communiquée, pour les mineurs, aux titulaires de l'autorité parentale et, pour les incapables, à la
+personne qui exerce la tutelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°94-68 du 24 janvier 1994 - art. 3 () JORF 26 janvier 1994
 
 
 ###### Article R710-2-8
