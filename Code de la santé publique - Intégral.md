@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-03-21
+Version Consolidée au 1993-03-27
 
 # Partie législative ancienne
 
@@ -78239,9 +78239,9 @@ d'assurance maladie.
 
 ###### Article R714-3-30
 
-Les documents mentionnés aux articles R. 714-3-28 et R. 714-3-29 sont tenus à la disposition des directeurs régionaux des
-affaires sanitaires et sociales, du directeur régional de la sécurité sociale des Antilles-Guyane et du directeur
-départemental de la sécurité sociale de la Réunion.
+Les actes et documents mentionnés aux articles R. 714-3-28, R. 714-3-29 et R. 714-3-46 sont tenus à la disposition des
+directeurs régionaux des affaires sanitaires et sociales, du directeur régional de la sécurité sociale des Antilles-Guyane et
+du directeur départemental de la sécurité sociale de la Réunion.
 
 **Liens relatifs à cet article**
 
@@ -78250,9 +78250,13 @@ départemental de la sécurité sociale de la Réunion.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+	  - Décret n°93-510 du 24 mars 1993 - art. 1 () JORF 27 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°97-1248 1997-12-29 art. 1 12° JORF 30 décembre 1997
 
 	**Cité par**:
 
@@ -78267,6 +78271,7 @@ départemental de la sécurité sociale de la Réunion.
 
 	  - Code de la santé publique - art. R714-3-28 (M)
 	  - Code de la santé publique - art. R714-3-29 (M)
+	  - Code de la santé publique - art. R714-3-46 (M)
 
 
 ###### Article R714-3-31
@@ -78361,7 +78366,10 @@ les tarifs de prestations, et arrête le montant de la dotation globale avant le
 rapportent.
 
 Les décisions, modificatives mentionnées au quatrième alinéa de l'article R. 714-3-7 sont approuvées dans les mêmes
-conditions et délais, sans préjudice des dispositions prévues au dernier alinéa de l'article R. 714-3-31.
+conditions et délais, sans préjudice des dispositions prévues au dernier alinéa de l'article R. 714-3-31. Lorsque ces
+décisions modificatives comportent des propositions de modification du montant de la dotation globale et des tarifs de
+prestations, l'autorité administrative doit se prononcer par arrêté soit en modifiant soit en confirmant ce montant et ces
+tarifs.
 
 Les décisions modificatives qui n'ont aucune incidence sur le montant de chacun des groupes fonctionnels précédemment
 approuvé sont exécutoires à compter de la date de leur transmission à l'autorité administrative, sans préjudice de
@@ -78374,9 +78382,13 @@ l'application des dispositions de l'article L. 714-8.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
+	  - Décret n°93-510 du 24 mars 1993 - art. 2 () JORF 27 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°97-1248 1997-12-29 art. 1 13° JORF 30 décembre 1997
 
 	**Cité par**:
 
@@ -78501,22 +78513,32 @@ En outre, cet arrêté est inséré au recueil des actes administratifs de la pr
 ###### Article R714-3-37
 
 Les décisions modificatives mentionnées à l'article R. 714-3-7 peuvent entraîner une révision des tarifs de prestations et du
-montant de la dotation globale dans les cas suivants :
+montant de la dotation globale à l'occasion :
 
-1° A l'occasion d'une modification importante et imprévisible des conditions économiques, appréciée par rapport à celles
-ayant servi de base au niveau national, au calcul du taux d'évolution des dépenses hospitalières fixé dans les conditions
-prévues par l'article L. 714-7 ;
+1° D'une modification importante et imprévisible des conditions économiques, appréciée par rapport à celles ayant servi de
+base, au niveau national, au calcul du taux d'évolution des dépenses hospitalières fixé dans les conditions prévues par
+l'article L. 714-7 ;
 
-2° A l'occasion d'une modification importante de l'activité médicale, appréciée et évaluée selon des critères médicaux et
-économiques au moyen notamment du système d'information médicalisée de l'établissement et compatible avec les objectifs du
-schéma d'organisation sanitaire prévu à l'article L. 712-3.
+2° D'une modification des charges d'exploitation résultant de l'application de dispositions législatives ou réglementaires ou
+de décisions administratives dont l'incidence n'aurait pas été prévue au dernier budget approuvé ;
 
-Les dépenses autorisées sur les comptes de charges, dont la liste est fixée par arrêté des ministres chargés du budget, de la
-santé et de la sécurité sociale, font, alors, l'objet d'une majoration ou d'une minoration.
+3° D'une modification importante de l'activité médicale, appréciée et évaluée selon des critères médicaux et économiques au
+moyen notamment du système d'informations médicalisées de l'établissement et compatible avec les objectifs du schéma
+d'organisation sanitaire prévu à l'article L. 712-3 ;
+
+4° D'événements imprévisibles de nature à entraîner un accroissement important des charges d'exploitation.
+
+Les décisions modificatives présentées dans ce cadre sont approuvées dans les conditions définies au deuxième alinéa de
+l'article R. 714-3-33.
 
 Lorsqu'il n'a pas été possible de procéder en temps utile à la révision des tarifs de prestations qu'imposait la décision
 modificative, la charge indûment supportée par la dotation globale est prise en compte pour le calcul des tarifs de
 prestations et la fixation du montant de la dotation globale de l'exercice suivant.
+
+Lorsqu'il n'a pas été possible de procéder en temps utile à la révision simultanée de la dotation globale et des tarifs de
+prestations qu'imposait la décision modificative, la charge correspondant aux autorisations de dépenses supplémentaires est
+prise en compte pour le calcul des tarifs de prestations et la fixation du montant de la dotation globale de l'exercice
+suivant.
 
 **Liens relatifs à cet article**
 
@@ -78525,10 +78547,6 @@ prestations et la fixation du montant de la dotation globale de l'exercice suiva
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
-
 	**Cité par**:
 
 	  - Décret n°92-776 du 31 juillet 1992 - art. 10 (Ab)
@@ -78536,10 +78554,19 @@ prestations et la fixation du montant de la dotation globale de l'exercice suiva
 	  - Code de la santé publique - art. R714-3-31 (Ab)
 	  - Code de la santé publique - art. R715-7-1 (M)
 
+	**Modifié par**:
+
+	  - Décret n°93-510 du 24 mars 1993 - art. 3 () JORF 27 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°97-1248 1997-12-29 art. 1 17° JORF 30 décembre 1997
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L712-3 (M)
 	  - Code de la santé publique - art. L714-7 (M)
+	  - Code de la santé publique - art. R714-3-33 (M)
 	  - Code de la santé publique - art. R714-3-7 (M)
 
 
@@ -78899,37 +78926,36 @@ auquel ils se rapportent, après avoir délibéré sur le compte administratif p
 général et des budgets annexes.
 
 Le compte administratif et ses documents annexes, ainsi que le bilan et le compte de résultat se rapportant à l'exercice clos
-sont transmis, dans un délai de huit jours, à l'autorité administrative mentionnée à l'article R. 714-3-27 et à la caisse
-régionale d'assurance maladie, qui les tient à la disposition des autres organismes responsables de la gestion des régimes
-d'assurance maladie.
+sont transmis, dans un délai de huit jours, à l'autorité administrative mentionnée à l'article R. 714-3-27, à la caisse
+chargée du versement de la dotation globale ainsi qu'à la caisse régionale d'assurance maladie qui les tient à la disposition
+des autres organismes responsables de la gestion des régimes d'assurance maladie.
 
 Aucune décision modificative au titre de l'exercice en cours ne peut être prise avant cette transmission, sauf accord exprès
 de l'autorité administrative.
 
 **Nota:**
 
-[*Nota : Décret 92-776 du 31 juillet 1992 art. 10 II : les dates limites mentionnées à l'article R714-3-46, cinquième alinéa
-seront applicables ou prises en compte suivant les modalités et le calendrier fixés par arrêté des ministres chargés du
-budget et de la santé.*]
+[*Nota - Arrêté du 11 août 1994 art. 1 : date d'entrée en vigueur.*]
 
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1994-08-11 art. 1
+	  - TXT_SOURCE: Arrêté du 8 avril 1994
+	  - TXT_SOURCE: Arrêté du 8 avril 1994 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 8 avril 1994 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 8 avril 1994 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 8 avril 1994 - art. 4 (V)
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-776 du 31 juillet 1992 - art. 1 () JORF 8 août 1992
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 8 avril 1994
-	  - TXT_SOURCE: Arrêté du 8 avril 1994 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 8 avril 1994 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 8 avril 1994 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 8 avril 1994 - art. 4 (V)
+	  - Décret n°93-510 du 24 mars 1993 - art. 4 () JORF 27 mars 1993
 
 	**Cité par**:
 
@@ -84582,6 +84608,10 @@ personnels ne sont prises en compte que dans la limite de celles applicables aux
 établissements publics de santé possédant les mêmes qualifications et la même ancienneté, sous réserve des dispositions
 réglementaires spécifiques applicables à certaines catégories de personnel médical des établissements de santé privés.
 
+La rémunération représentative de l'activité médicale des praticiens mentionnée à la dernière phrase de l'article R. 715-6-10
+constitue une charge d'exploitation. Elle ne fait pas partie des exceptions visées au deuxième alinéa de l'article R.
+714-3-10.
+
 Les loyers ne sont pris en compte que dans la limite de la valeur locative réelle des immeubles pris à bail.
 
 L'autorité administrative tient compte des prestations fournies par le siège social, lorsque celui-ci est distinct de
@@ -84602,13 +84632,15 @@ conditions visées aux 1° à 3° du premier alinéa de l'article R. 715-7-6.
 	**Cite**:
 
 	  - Loi n°75-535 du 30 juin 1975 - art. 16 (M)
+	  - Code de la santé publique - art. R714-3-10 (M)
 	  - Code de la santé publique - art. R714-3-27 (M)
+	  - Code de la santé publique - art. R715-6-10 (Ab)
 	  - Code de la santé publique - art. R715-7-6 (M)
-	  - Code de la santé publique R714-3-19 à R714-3-26, R714-3-27, R715-7-6
+	  - Code de la santé publique R714-3-19 à R714-3-26, R714-3-27, R715-6-10, R714-3-10, R715-7-6
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-776 du 31 juillet 1992 - art. 2 () JORF 8 août 1992
+	  - Décret n°93-510 du 24 mars 1993 - art. 5 () JORF 27 mars 1993
 
 	**Nouveaux textes**:
 
@@ -87630,8 +87662,8 @@ s'il est inférieur à cette prévision, la différence est ajoutée à ce forfa
 
 Les établissements privés à but non lucratif ne participant pas à l'exécution du service public et habilités à recevoir des
 bénéficiaires de l'aide sociale sont soumis, pour ce qui concerne leur activité de soins de longue durée, aux dispositions de
-la présente sous-section, à l'exception de celles relatives au forfait annuel global de soins et sans préjudice des
-dispositions budgétaires et comptables qui leur sont applicables.
+la présente section, à l'exception de celles relatives au forfait annuel global de soins et sans préjudice des dispositions
+budgétaires et comptables qui leur sont applicables.
 
 **Liens relatifs à cet article**
 
@@ -87640,9 +87672,13 @@ dispositions budgétaires et comptables qui leur sont applicables.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-776 du 31 juillet 1992 - art. 3 () JORF 8 août 1992
+	  - Décret n°93-510 du 24 mars 1993 - art. 6 () JORF 27 mars 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
 
 
 ##### Section 5 : Dispositions diverses
