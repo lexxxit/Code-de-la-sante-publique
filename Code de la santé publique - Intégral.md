@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1986-01-07
+Version Consolidée au 1986-01-08
 
 # Partie législative ancienne
 
@@ -11,11 +11,28 @@ Version Consolidée au 1986-01-07
 
 ###### Article L1
 
-Dans tous les départements, le préfet [*autorité compétente*] est tenu, afin de protéger la santé publique, d'établir un
-règlement sanitaire applicable à toutes les communes du département.
+Sans préjudice de l'application de législations spéciales et des pouvoirs reconnus aux autorités locales, des décrets en
+Conseil d'Etat, pris après consultation du Conseil supérieur d'hygiène publique de France, fixent les règles générales
+d'hygiène et toutes autres mesures propres à préserver la santé de l'homme, notamment en matière :
 
-Ce règlement est établi sur la proposition du directeur départemental de la santé et après avis du conseil départemental
-d'hygiène.
+- de prévention des maladies transmissibles ;
+
+- de salubrité des habitations, des agglomérations et de tous les milieux de vie de l'homme ;
+
+- d'alimentation en eau destinée à la consommation humaine ;
+
+- d'exercice d'activités non soumises à la législation sur les installations classées pour la protection de l'environnement ;
+
+- d'évacuation, de traitement, d'élimination et d'utilisation des eaux usées et des déchets ;
+
+- de lutte contre les bruits de voisinage et la pollution atmosphérique d'origine domestique ;
+
+- de préparation, distribution, transport et conservation des denrées alimentaires.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -34,6 +51,10 @@ d'hygiène.
 	  - Arrêté du 23 novembre 1979 - art. 1 (V)
 	  - Code de la santé publique - art. L17 (Ab)
 	  - Code de la santé publique - art. L2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 67 () JORF 8 janvier 1986
 
 	**Liens**:
 
@@ -210,33 +231,30 @@ d'hygiène.
 	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 97 (V)
 	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 98 (V)
 	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 99 (V)
-	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+	  - SPEC_APPLI: Code de la santé publique l51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L1111-2 (Ab)
+	  - Code de la santé publique - art. L1111-3 (T)
+	  - Code de la santé publique - art. L1111-4 (T)
 	  - Code de la santé publique - art. L1311-1 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1935-10-30
-	  - Loi n°1902-02-15 art. 1
 
 
 ###### Article L2
 
-Le règlement sanitaire détermine [*contenu*] :
+Les décrets mentionnés à l'article L. 1er peuvent être complétés par des arrêtés du représentant de l'Etat dans le
+département ou par des arrêtés du maire ayant pour objet d'édicter des dispositions particulières en vue d'assurer la
+protection de la santé publique dans le département ou la commune.
 
-1. Les précautions à prendre par les maires, notamment en exécution de l'article 97 de la loi du 5 avril 1884 sur
-l'organisation municipale [*article L. 131-2 du Code des Communes*] et des dispositions du titre III du livre II du Code
-rural, pour prévenir ou faire cesser les maladies [*des animaux*] transmissibles et spécialement les mesures propres à
-assurer la protection des denrées alimentaires mises en vente, la désinfection ou la destruction des objets à l'usage des
-malades ou qui ont été souillés par eux, et généralement des objets quelconques pouvant servir de véhicule à la contagion ;
+**Nota:**
 
-2. Les prescriptions destinées à assurer la salubrité des maisons et de leurs dépendances, des voies privées closes ou non à
-leurs extrémités, des logements loués en garni et des autres agglomérations quelle qu'en soit la nature ;
-
-3. Les prescriptions relatives à l'alimentation en eau potable et à la surveillance des puits, à l'évacuation des matières
-usées et aux conditions auxquelles doivent satisfaire les fosses d'aisances.
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -247,7 +265,7 @@ usées et aux conditions auxquelles doivent satisfaire les fosses d'aisances.
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Décret n°73-502 1973-05-21 ART. 3 : DISPOSITIONS PENALES
+	  - TXT_ASSOCIE: Décret n°73-502 1973-05-21 art. 3 : dispositions pénales
 	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. ANNEXE ART. 125 (V)
 	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. ANNEXE ART. 130 (V)
 	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. ANNEXE ART. 152 (V)
@@ -301,62 +319,21 @@ usées et aux conditions auxquelles doivent satisfaire les fosses d'aisances.
 	  - Arrêté du 6 mai 1996 - art. 16 (Ab)
 	  - Code de la santé publique - art. L17 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°86-17 du 6 janvier 1986 - art. 67 () JORF 8 janvier 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - CODE DES COMMUNES. - art. L131-2 (M)
-	  - Code rural 214 A 252
-	  - Loi n°1884-04-05 ART. 97
+	  - Code de la santé publique - art. L1 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1311-2 (V)
-
-	**Anciens textes**:
-
-	  - Décret n°1935-10-30
-	  - Loi n°1902-02-15 ART. 1
-
-
-###### Article L3
-
-Les dispositions des articles L. 1er et 2 ne font pas obstacle au droit du maire [*autorité compétente*] de prendre, après
-avis du conseil municipal, tous arrêtés ayant pour objet telles dispositions particulières qu'il jugera utiles dans sa
-commune, en vue d'assurer la protection de la santé publique, sans préjudice des droits conférés au préfet par l'article 99
-de la loi du 5 avril 1884 [*article L. 131-13 du Code des Communes*]. Ces arrêtés sont approuvés par le préfet, après avis du
-conseil départemental d'hygiène.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°73-502 1973-05-21 ART. 3 : DISPOSITIONS PENALES
-	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
-
-	**Cité par**:
-
-	  - Décret n°73-502 du 21 mai 1973 - art. 3 (Ab)
-	  - Décret n°2003-462 du 21 mai 2003 - art. 7 (V)
-	  - Code de la santé publique - art. L17 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-	**Cite**:
-
-	  - CODE DES COMMUNES. - art. L131-13 (M)
-	  - Code de la santé publique L1 ET L2
-	  - Loi n°1884-04-05 ART. 99
-
-	**Anciens textes**:
-
-	  - Décret n°1935-10-30
-	  - Loi n°1902-02-15 ART. 1, ART. 2
 
 
 ###### Article L4
@@ -35096,224 +35073,6 @@ ne peuvent faire l'objet d'un compte rendu écrit.
 
 ### Chapitre 1 : Services administratifs locaux
 
-#### Section 1 : Service départemental de la santé
-
-##### Paragraphe 1 : Dispositions générales.
-
-###### Article L766
-
-Un service de la santé publique est obligatoire dans chaque département. Une délibération du conseil général en réglemente
-les détails et le budget sauf en ce qui concerne le personnel d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°70-415 du 8 mai 1970 - art. 16 () JORF 17 mai date d'entrée en vigueur 1er juillet 1970
-
-	**Cité par**:
-
-	  - Décret n°96-720 du 13 août 1996 - art. 3 (V)
-	  - Loi n°99-477 du 9 juin 1999 - art. 13 (Ab)
-	  - Code de la santé publique - art. R712-83 (Ab)
-	  - Code de la santé publique - art. R766-1 (M)
-	  - Code de la sécurité sociale. - art. R183-9 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1902-02-15 ART. 19
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1411-1 (M)
-
-
-###### Article L767
-
-La compétence du service départemental de la santé s'étend à toutes les questions se rattachant à la protection de la santé
-publique et à l'hygiène sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°70-415 du 8 mai 1970 - art. 16 () JORF 17 mai date d'entrée en vigueur 1er juillet 1970
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-	**Cité par**:
-
-	  - Décret n°96-720 du 13 août 1996 - art. 3 (V)
-	  - Loi n°98-657 du 29 juillet 1998 - art. 71 (Ab)
-	  - Décret n°98-1216 du 29 décembre 1998 - art. 3 (V)
-	  - Arrêté du 8 janvier 1999 - art. 4 (V)
-	  - Code de la santé publique - art. Annexe aux articles R710-17-1 à R710-17-9 (Ab)
-	  - Code de la santé publique - art. L710-16-1 (Ab)
-	  - Code de la santé publique - art. L710-16-2 (Ab)
-	  - Code de la santé publique - art. L710-24 (Ab)
-	  - Code de la santé publique - art. L722-3 (Ab)
-	  - Code de la santé publique - art. L724-3 (Ab)
-	  - Code de la santé publique - art. R767-1 (Ab)
-	  - Code de la sécurité sociale. - art. D325-4 (V)
-	  - Code de la sécurité sociale. - art. L325-2 (V)
-	  - Code de la sécurité sociale. - art. R183-9 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté du 8 janvier 1999
-	  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 1 (V)
-	  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 10 (V)
-	  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 11 (V)
-	  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 12 (V)
-	  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 2 (V)
-	  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 3 (V)
-	  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 4 (V)
-	  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 5 (V)
-	  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 6 (V)
-	  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 7 (V)
-	  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 8 (V)
-	  - TXT_ASSOCIE: Arrêté du 8 janvier 1999 - art. 9 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1411-3 (M)
-
-	**Anciens textes**:
-
-	  - Décret n°1935-10-30 ART. 1
-
-
-###### Article L768
-
-Dans chaque département le conseil général après avis du conseil d'hygiène départemental, délibère sur l'organisation du
-service de la santé publique dans le département, notamment sur la composition, le mode de fonctionnement, la publication des
-travaux et les dépenses du conseil départemental d'hygiène.
-
-A défaut par le conseil général de statuer, il y est pourvu par un décret en forme de règlement d'administration publique.
-
-**Nota:**
-
-Nota : Décret 621 1980-07-31 ART. 2 : Dans les textes réglementaires en vigueur à la date de publication du présent décret,
-tout renvoi à un règlement d'administration publique ou à un décret en forme de règlement d'administration publique est
-remplacé par un renvoi à un décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°70-415 du 8 mai 1970 - art. 13 () JORF 17 mai 1970 date d'entrée en vigueur 1ER JUILLET
-
-	**Anciens textes**:
-
-	  - Loi n°1902-02-15 ART. 20
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-
-##### Paragraphe 2 : Dispositions spéciales au département de la Seine.
-
-###### Article L771
-
-Les maires des communes autres que Paris exercent les attributions sanitaires sous l'autorité soit du préfet de Paris soit du
-préfet de police, suivant les distinctions faites dans les deux articles précédents [*autorités compétentes*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°70-415 du 8 mai 1970 - art. 16 () JORF 17 mai 1970 date d'entrée en vigueur 1ER JUILLET
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L769 (Ab)
-	  - Code de la santé publique L769, L770 : ABROGES
-
-	**Anciens textes**:
-
-	  - Loi n°1902-02-15 ART. 24
-
-
-#### Section 2 : Service communal d'hygiène et de santé.
-
-###### Article L773
-
-Les bureaux municipaux d'hygiène sont placés sous le contrôle du directeur départemental et des inspecteurs départementaux de
-la santé [*autorités compétentes*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-10-30 ART. 2
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-
-###### Article L774
-
-Les communes ou fractions de communes qui ne sont pas le siège d'un bureau d'hygiène peuvent être groupées par décret pour la
-constitution d'un bureau d'hygiène intercommunal placé sous l'autorité directe du préfet.
-
-Les attributions du bureau d'hygiène d'une commune peuvent être étendues par décret à d'autres communes ne formant avec la
-première qu'une seule et même agglomération.
-
-Les décrets prévus aux alinéas précédents sont pris après avis du conseil départemental d'hygiène.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1935-10-30 ART. 3
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-
 #### SECTION 2 : BUREAU MUNICIPAL D'HYGIENE.
 
 ###### Article L772
@@ -35363,61 +35122,58 @@ reçoivent la dotation générale de décentralisation correspondante dans les c
 
 ###### Article L775
 
-Des règlements d'administration publique déterminent les modalités d'application du présent chapitre et notamment les
-conditions d'organisation et de fonctionnement des bureaux d'hygiène ainsi que les attributions des directeurs départementaux
-de la santé, inspecteurs départementaux de la santé, et directeurs des bureaux d'hygiène.
+Des décrets en Conseil d'Etat déterminent les modalités d'application de l'article L. 772 et fixent notamment les conditions
+requises pour exercer les fonctions de directeur d'un service d'hygiène et de santé communal ou intercommunal.
 
-A défaut par les villes d'organiser les bureaux d'hygiène il y sera pourvu par des décrets en forme de règlements
-d'administration publique.
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 54 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 55.*]
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Loi n°86-17 du 6 janvier 1986 - art. 69 () JORF 8 janvier 1986
 
 	**Cité par**:
 
 	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 54 (Ab)
 	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 55 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1422-2 (V)
+
 	**Cite**:
 
-	  - Code de la santé publique L766 à L775
-
-	**Anciens textes**:
-
-	  - Loi n°1902-02-15 ART. 26
+	  - Code de la santé publique - art. L772 (M)
 
 
 ### CHAPITRE 2 : CONSEILS ET COMMISSIONS
 
-#### SECTION 1 : CONSEILS D'HYGIENE DEPARTEMENTAUX ET COMMISSIONS SANITAIRES.
+#### Section 1 : Conseils départementaux d'hygiène et commissions sanitaires
 
 ###### Article L776
 
-Le conseil d'hygiène départemental se compose de dix membres au moins et de quinze au plus [*nombre*]. Il comprend
-nécessairement deux conseillers généraux, élus par leurs collègues, trois médecins dont un de l'armée de terre ou de mer, un
-pharmacien, l'ingénieur en chef, un architecte et un vétérinaire.
+Le conseil départemental d'hygiène est consulté sur toutes les questions intéressant la santé publique et la protection
+sanitaire de l'environnement. Il comprend des représentants de l'Etat, des collectivités territoriales, des usagers et des
+personnalités compétentes.
 
-Le préfet préside le conseil qui nomme dans son sein, pour deux ans [*durée*], un vice-président et un secrétaire chargé de
-rédiger les délibérations du conseil.
+Il est présidé par le représentant de l'Etat dans le département.
 
-Les membres des conseils d'hygiène, à l'exception des conseillers généraux qui sont élus par leurs collègues, sont nommés par
-le préfet pour quatre ans [*durée du mandat*] et renouvelés par moitié tous les deux ans. Les membres sortants peuvent être
-renommés.
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
 
-Les conseils départementaux d'hygiène ne peuvent donner leur avis sur les objets qui leur sont soumis en vertu du présent
-code que si les deux tiers au moins de leurs membres sont présents [*quorum*]. Ils peuvent recourir à toutes mesures
-d'instruction qu'ils jugent convenables.
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 54 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 56.*]
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
 	**Cité par**:
 
@@ -35428,70 +35184,16 @@ d'instruction qu'ils jugent convenables.
 
 	**Modifié par**:
 
-	  - Décret n°70-415 du 8 mai 1970 - art. 16 () JORF 17 mai 1970 date d'entrée en vigueur 1ER JUILLET
+	  - Loi n°86-17 du 6 janvier 1986 - art. 70 () JORF 8 janvier 1986
 
-	**Anciens textes**:
+	**Abrogé par**:
 
-	  - Loi n°1902-02-15 ART. 20
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L1416-1 (M)
 	  - Code de la santé publique - art. L1416-1 (V)
-
-
-###### Article L778
-
-La composition des assemblées sanitaires départementales et locales peut être modifiée par décret.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°70-415 du 8 mai 1970 - art. 14 () JORF 17 mai 1970 date d'entrée en vigueur 1ER JUILLET
-
-	**Anciens textes**:
-
-	  - Loi n°1902-02-15 ART. 25 bis
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-
-###### Article L779
-
-Les conseils d'hygiène départementaux [*compétence*] doivent être consultés sur les objets énumérés à l'article 9 du décret
-du 18 décembre 1948 sur l'alimentation en eau potable des agglomérations, sur la statistique démographique et la géographie
-médicale, sur les règlements sanitaires et généralement sur toutes les questions intéressant la santé publique dans les
-limites de leurs circonscriptions respectives.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Décret n°1948-12-18 ART. 9
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Décret n°70-415 du 8 mai 1970 - art. 15 () JORF 17 mai 1970 date d'entrée en vigueur 1ER JUILLET
-
-	**Anciens textes**:
-
-	  - Loi n°1902-02-15 ART. 21
-
-	**Abrogé par**:
-
-	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
 
 
 #### Section 3 : Conseil permanent d'hygiène sociale.
