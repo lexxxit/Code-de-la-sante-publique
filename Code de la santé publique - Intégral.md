@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1960-07-29
+Version Consolidée au 1960-11-27
 
 # Partie législative ancienne
 
@@ -7945,144 +7945,6 @@ l'article 21 de l'ordonnance, s'applique à la collectivité territoriale de May
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-##### Paragraphe 2 : Dispositions particulières aux personnes se livrant à la prostitution.
-
-###### Article L263
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3812-10 (M)
-
-
-###### Article L264
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3812-11 (M)
-
-
-###### Article L265
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3812-12 (M)
-
-
-###### Article L266
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3812-13 (M)
-
-
-###### Article L267
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L268
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L269
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L270
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L271
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L272
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
 ##### Paragraphe 3 : Dispositions particulières aux détenus.
 
 ###### Article L273
@@ -8191,18 +8053,6 @@ provoquer immédiatement.
 
 	  - Code de la santé publique - art. L259 (Ab)
 	  - Code de la santé publique - art. L278 (Ab)
-
-
-###### Article L276
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 ###### Article L277
@@ -8503,42 +8353,6 @@ Les modalités d'application des dispositions des articles L. 254 à L. 262 et L
 
 ##### Section 6 : Dispositions pénales.
 
-###### Article L286
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L287
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L288
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
 ###### Article L289
 
 Toute fausse déclaration, faite de mauvaise foi, qui tendrait à signaler aux autorités sanitaires, par quelque moyen que ce
@@ -8567,18 +8381,6 @@ peines de la dénonciation calomnieuse.
 	**Cite**:
 
 	  - Code de la santé publique - art. L261 (Ab)
-
-
-###### Article L291
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 ###### Article L293
