@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1968-05-16
+Version Consolidée au 1968-07-01
 
 # Partie législative ancienne
 
@@ -8632,6 +8632,47 @@ mentale fonctionnant dans le cadre des services départementaux d'hygiène socia
 	  - TXT_ASSOCIE: Code de la santé publique L353 : CHARGE FINANCIERE
 
 
+###### Article L326-1
+
+Le médecin qui constate que la personne à laquelle il donne ses soins a besoin, pour l'une des causes prévues à l'article 490
+du Code civil [*altérations des facultés mentales dues à la maladie, l'infirmité ou l'affaiblissement dû à l'âge*], d'être
+protégée dans les actes de la vie civile peut en faire la déclaration au procureur de la République. Cette déclaration a pour
+effet de placer le malade sous la sauvegarde de justice si elle est accompagnée de l'avis conforme d'un médecin spécialiste.
+
+Lorsqu'une personne est soignée dans un établissement public ou dans l'un des établissements privés figurant sur une liste
+établie par arrêté du ministre des Affaires sociales, le médecin est tenu, s'il constate qu'elle se trouve dans la situation
+prévue à l'alinéa précédent, d'en faire la déclaration au procureur de la République. Cette déclaration a pour effet de
+placer le malade sous la sauvegarde de justice.
+
+Le directeur de l'action sanitaire et sociale doit être informé par le procureur de la mise sous sauvegarde.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 9 () JORF 4 janvier 1968
+
+	**Cite**:
+
+	  - Code civil - art. 490 (AbD)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-65-4 (Ab)
+	  - Code de la santé publique - art. L332-2 (Ab)
+	  - Code de procédure pénale - art. 256 (V)
+	  - Nouveau code de procédure civile - art. 1236 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-1 (V)
+
+
 #### CHAPITRE 2 : ETABLISSEMENTS DE SOINS
 
 ##### SECTION 1 : ORGANISATION GENERALE.
@@ -9759,6 +9800,61 @@ Ce curateur ne pourra être choisi parmi les héritiers présomptifs de la perso
 	**Anciens textes**:
 
 	  - Loi n°1838-06-30 ART. 38
+
+
+###### Article L352-1
+
+Il peut être constitué, suivant les cas, et conformément aux articles 492 et 508 du Code civil, une tutelle ou une curatelle
+pour la personne placée dans un des établissements [*de soins*] visés au présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 9 () JORF 4 janvier 1968
+
+	**Abrogé par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+
+	**Cite**:
+
+	  - Code civil - art. 492 (AbD)
+	  - Code civil - art. 508 (AbD)
+
+
+###### Article L352-2
+
+La personne placée dans un établissement de soins conserve le domicile qui était le sien avant le placement aussi longtemps
+que ce domicile reste à sa disposition. Néanmoins, les significations qui y auront été faites pourront, suivant les
+circonstances, être annulées par les tribunaux.
+
+Si une tutelle a été constituée, les significations seront faites au tuteur ; s'il y a curatelle, elles devront être faites à
+la fois à la personne protégée et à son curateur.
+
+Les fonctions de juge des tutelles peuvent être exercées par un juge appartenant au tribunal d'instance dans le ressort
+duquel la personne sous tutelle ou curatelle est hospitalisée, lors même que celle-ci a conservé son domicile dans un ressort
+différent de celui du lieu de traitement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 9 () JORF 4 janvier 1968
+
+	**Abrogé par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
 
 
 #### CHAPITRE 4 : DISPOSITIONS DIVERSES
