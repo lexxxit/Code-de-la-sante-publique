@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1977-09-30
+Version Consolidée au 1977-12-24
 
 # Partie législative ancienne
 
@@ -6041,6 +6041,89 @@ enfants fréquentant les écoles maternelles, après accord avec le ministre de 
 	**Abrogé par**:
 
 	  - Loi n°89-899 du 18 décembre 1989 - art. 9 () JORF 19 décembre 1989
+
+
+#### Chapitre 8 : Dispositions relatives aux départements d'outre-mer.
+
+###### Article L190
+
+Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, les femmes qui n'ont pas le droit à
+une prestation familiale à la naissance bénéficient d'une prime versée après chacun des examens prénataux et après l'examen
+post-natal institués en application de l'article L. 159. Un décret détermine les modalités de versement et le montant de
+cette prime, qui évolue comme le montant des allocations familiales versées aux salariés du régime général dans les
+départements visés ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°56-907 1956-09-10
+	  - Ordonnance 45-2407 1945-10-18 ART. 6
+	  - Décret n°64-782 1964-07-30 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°53-1001 1953-10-05 jorf 7 octobre 1953
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1411 1977-12-23 ART. 2 : ENTREE EN VIGUEUR AU PLUS TARD LE 1ER juillet 1978
+	  - TXT_ASSOCIE: Code de la santé publique L190-1 : FINANCEMENT
+
+	**Modifié par**:
+
+	  - Loi n°77-1411 1977-12-23 art. 1 jorf 24 décembre 1977
+
+	**Cité par**:
+
+	  - Décret n°78-397 du 17 mars 1978 - art. 1 (Ab)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 61 (V)
+	  - Code de la santé publique - art. L190-1 (Ab)
+	  - Code de la sécurité sociale. - art. L755-32 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L159 (Ab)
+
+
+###### Article L190-1
+
+Les dépenses résultant de l'attribution de la prime instituée par l'article L. 190 font partie des dépenses obligatoires de
+protection maternelle et infantile auxquelles sont applicables les dispositions de l'article L. 185 [*budget*].
+
+Les organismes de sécurité sociale débiteurs des prestations familiales des différents régimes remboursent aux départements
+le montant des primes versées à leurs ressortissants [*charge*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 13 (Ab)
+	  - Loi n°96-609 du 5 juillet 1996 - art. 61 (V)
+	  - Code de la sécurité sociale. - art. L755-32 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°77-1411 1977-12-23 ART. 2 : ENTREE EN VIGUEUR AU PLUS TARD LE 1ER juillet 1978
+
+	**Créé par**:
+
+	  - Loi n°77-1411 1977-12-23 art. 1 JORF 24 décembre 1977
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L185 (M)
+	  - Code de la santé publique - art. L190 (M)
 
 
 ### Titre 2 : Santé scolaire et universitaire.
