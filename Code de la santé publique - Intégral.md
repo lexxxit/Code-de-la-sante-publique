@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1985-11-21
+Version Consolidée au 1985-12-05
 
 # Partie législative ancienne
 
@@ -40780,114 +40780,6 @@ décembre 1974 : ratification ; Décret n° 77-41 du 11 janvier 1977, J.O. 19 ja
 
 #### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien
 
-##### Section 1 : Pharmacopée
-
-##### Paragraphe 1 : Pharmacopée
-
-###### Article R5002
-
-La commission nationale de la Pharmacopée est chargée de préparer, sous l'autorité du ministre chargé de la santé publique,
-la rédaction de la Pharmacopée.
-
-Cette commission se compose de trente-sept membres :
-
-Un professeur en exercice d'une unité d'enseignement et de recherche de pharmacie désigné par le ministre chargé de la santé
-publique, président ;
-
-Deux professeurs en exercice appartenant l'un à une unité d'enseignement et de recherche de médecine, l'autre à une unité
-d'enseignement et de recherche de pharmacie, désignés par le ministre chargé de la santé publique, vice-présidents ;
-
-Le chef du service central de la pharmacie et des médicaments, secrétaire général ;
-
-Un professeur en exercice d'une unité d'enseignement et de recherche de pharmacie, désigné par le ministre chargé de la santé
-publique, secrétaire technique ;
-
-Le pharmacien inspecteur de la santé, chargé des questions de Pharmacopée, formulaire et recherche appliquée au service
-central de la pharmacie et des médicaments, secrétaire technique adjoint ;
-
-Le président du conseil national de l'Ordre des pharmaciens ;
-
-Trente membres nommés par le ministre chargé de la santé publique, dont quinze pharmaciens ou personnalités qualifiées, et,
-sur présentation du ministre de l'éducation nationale, quinze professeurs ou maîtres de conférences agrégés de l'enseignement
-supérieur en exercice lors de leur désignation.
-
-La commission ne peut valablement délibérer que si douze au moins de ses membres sont présents.
-
-La commission est renouvelable, tous les trois ans, et tous les mandats prennent fin à la date du renouvellement.
-
-Elle élabore un règlement intérieur prévoyant, notamment, la constitution de sous-commissions, de groupes de travail et d'un
-conseil restreint.
-
-Le ministre chargé de la santé publique peut nommer, pour une durée maximale de trois ans, des membres correspondants, qui
-peuvent être appelés à participer aux travaux et aux séances des sous-commissions et groupes de travail.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Modifié par**:
-
-	  - Décret n°73-295 1973-03-09 art. 1 JORF 17 mars 1973
-	  - Décret n°63-844 1963-08-06 art. 1 JORF 17 août 1963
-
-	**Cité par**:
-
-	  - Arrêté du 7 août 1991 - art. 1 (V)
-	  - Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
-	  - Décret n°2003-633 du 2 juillet 2003 - art. 2 (Ab)
-	  - Code de la santé publique - art. R5002-1 (Ab)
-	  - Code de la santé publique - art. R5006 (M)
-	  - Code de la santé publique - art. R5089-15 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R5112-6 (Ab)
-	  - Code de la santé publique - art. R5112-8 (V)
-	  - Code de la santé publique - art. R5112-9 (Ab)
-
-
-###### Article R5005
-
-Tout pharmacien propriétaire ou gérant d'une officine définie à l'article L. 568 ou d'une pharmacie mentionnée aux articles
-L. 577 et L. 577 bis du code de la santé publique, tout médecin bénéficiaire de l'autorisation prévue à l'article L. 594,
-tout établissement mentionné à l'article L. 596, ainsi que toute personne physique ou morale autorisée à préparer des
-produits mentionnés à l'article L. 513 du même code, est tenu de posséder au moins un exemplaire de la Pharmacopée et de ses
-suppléments dès la date fixée par l'arrêté ministériel prévu à l'article R. 5003.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Modifié par**:
-
-	  - Décret n°73-295 1973-03-09 art. 1 JORF 17 mars 1973
-	  - Décret n°63-844 1963-08-06 art. 1 JORF 17 août 1963
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L513 (M)
-	  - Code de la santé publique - art. L568 (M)
-	  - Code de la santé publique - art. L577 (Ab)
-	  - Code de la santé publique - art. L594 (Ab)
-	  - Code de la santé publique - art. L596 (M)
-	  - Code de la santé publique - art. R5003 (M)
-	  - Code de la santé publique L513, L568, L577, L577 bis, L594, L596, R5003
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R5006-1 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R5112-3 (Ab)
-
-
 ##### Section 1 : Pharmacopée et formulaire
 
 ##### Paragraphe 1 : Pharmacopée
@@ -40942,6 +40834,134 @@ dernière d'entre elles.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5112-1 (M)
+
+
+###### Article R5002
+
+La commission nationale de la Pharmacopée est chargée de préparer, sous l'autorité du ministre chargé de la santé publique,
+la rédaction de la Pharmacopée.
+
+Cette commission se compose de trente-sept membres :
+
+1° Dix membres de droit :
+
+- le directeur de la pharmacie et du médicament au ministère chargé de santé publique ou son représentant ;
+
+- le directeur de l'Institut national de la santé et de la recherche médicale ou son représentant ;
+
+- le directeur général du Laboratoire national de la santé ou son représentant ;
+
+- le directeur de la recherche au ministère de l'éducation nationale ou son représentant ;
+
+- le directeur général de la concurrence, de la consommation et de la répression des fraudes au ministère de l'économie, des
+finances et du budget, ou son représentant ;
+
+- le président de la mission scientifique et technique au ministère chargé de la recherche ou son représentant ;
+
+- le président du Conseil national de l'ordre des pharmaciens ou son représentant ;
+
+- le représentant de l'union des industries chimiques ou son représentant ;
+
+- le président du conseil de direction de l'Office national interprofessionnel des plantes à parfum, aromatiques et
+médicinales ou son représentant ;
+
+- le président du syndicat national de l'industrie pharmaceutique ou son représentant.
+
+2° Vingt-sept membres nommés par le ministre chargé de la santé pour une durée de trois ans :
+
+- un membre de la mission scientifique de la direction de la pharmacie et du médicament au ministère chargé de la santé ;
+
+- vingt-six personnalités choisies en raison de leur compétence scientifique ou technique, dont six au moins sur proposition
+du ministre chargé des universités.
+
+Vingt-sept suppléants sont désignés dans les mêmes conditions que les titulaires. Ils remplacent ces derniers soit en cas
+d'empêchement, soit s'il se produit une vacance en cours de mandat.
+
+Le président et le vice-président sont désignés par le ministre chargé de la santé parmi les membres de la commission.
+
+En cas d'absence du président et du vice-président, le ministre chargé de la santé nomme un président de séance.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°85-1276 1985-12-03 art. 1 JORF 5 décembre 1985
+
+	**Cité par**:
+
+	  - Arrêté du 7 août 1991 - art. 1 (V)
+	  - Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
+	  - Décret n°2003-633 du 2 juillet 2003 - art. 2 (Ab)
+	  - Code de la santé publique - art. R5002-1 (Ab)
+	  - Code de la santé publique - art. R5006 (M)
+	  - Code de la santé publique - art. R5089-15 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5112-6 (Ab)
+	  - Code de la santé publique - art. R5112-8 (V)
+	  - Code de la santé publique - art. R5112-9 (Ab)
+
+
+###### Article R5002-1
+
+La durée totale des mandats successifs que peuvent exercer en qualité tant de titulaire que de suppléant les membres prévus
+au 2° de l'article R. 5002 ne peut excéder six ans.
+
+En cas de vacance survenant au cours d'un mandat, le mandat du suppléant appelé à remplacer un membre titulaire ou celui d'un
+nouveau membre appelé à remplacer un suppléant prennent fin à la même date que le mandat du membre remplacé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-1276 1985-12-03 art. 2 JORF 5 décembre 1985
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5002 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5112-9 (Ab)
+	  - Code de la santé publique R5112-9
+
+
+###### Article R5002-2
+
+La commission peut faire appel à des rapporteurs et à des experts extérieurs à la commission et qu'elle choisit sur une liste
+établie par arrêté du ministre chargé de la santé.
+
+Elle peut constituer des sous-commissions et des groupes de travail pour la préparation de ses délibérations.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-1276 1985-12-03 art. 2 JORF 5 décembre 1985
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5112-11 (Ab)
+
+
+###### Article R5002-3
+
+Le secrétariat de la commission est assuré par la direction de la pharmacie et du médicament.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-1276 1985-12-03 art. 2 JORF 5 décembre 1985
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5112-13 (Ab)
 
 
 ###### Article R5003
@@ -41002,6 +41022,44 @@ formules et aux caractéristiques imposées par la Pharmacopée.
 	**Cité par**:
 
 	  - Code de la santé publique - art. R5006-1 (M)
+
+
+###### Article R5005
+
+Tout pharmacien propriétaire ou gérant d'une officine définie à l'article L. 568 ou d'une pharmacie mentionnée aux articles
+L. 577 et L. 577 bis, tout médecin bénéficiaire de l'autorisation prévue à l'article L. 594, tout établissement mentionné à
+l'article L. 596 et, le cas échéant, chacune de ses succursales, ainsi que toute personne physique autorisée à préparer des
+produits mentionnés à l'article L. 513, est tenu de posséder au moins un exemplaire de la Pharmacopée et de ses suppléments
+dès la date fixée par l'arrêté ministériel prévu à l'article R. 5003.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L513 (M)
+	  - Code de la santé publique - art. L568 (M)
+	  - Code de la santé publique - art. L577 (Ab)
+	  - Code de la santé publique - art. L594 (Ab)
+	  - Code de la santé publique - art. L596 (M)
+	  - Code de la santé publique - art. R5003 (M)
+	  - Code de la santé publique L513, L568, L577, L577 bis, L594, L596, R5003
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5006-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5112-3 (Ab)
+	  - Code de la santé publique R5112-3
+
+	**Modifié par**:
+
+	  - Décret n°85-1297 1985-12-03 art. 3 JORF 5 décembre 1985
 
 
 ##### Paragraphe 2 : Formulaire
