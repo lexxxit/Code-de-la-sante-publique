@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1958-10-26
+Version Consolidée au 1958-12-12
 
 # Partie législative ancienne
 
@@ -24026,239 +24026,7 @@ Les pharmaciens résidents sont nommés par le ministre de la santé publique et
 	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
 
 
-##### Section 2 : Attributions.
-
-###### Article L687
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L688
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-#### Chapitre 3 : Personnel
-
-##### Section 1 : Personnel administratif et personnel secondaire.
-
-###### Article L689
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L690
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L691
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L692
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-##### Section 2 : Médecins et pharmaciens.
-
-###### Article L693
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-#### Chapitre 4 : Dons et legs.
-
-###### Article L694
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L695
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L697
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L698
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-#### Chapitre 5 : Prix de journée
-
-##### Section 1 : Mode de fixation.
-
-###### Article L699
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L700
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L701
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L702
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L703
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-##### Section 2 : Révision en cours d'exercice.
-
-###### Article L704
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
 #### Chapitre 6 : Autres dispositions financières.
-
-###### Article L705
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
 
 ##### Section 1 : Marchés.
 
@@ -24300,18 +24068,6 @@ Les dispositions du présent article ne font pas obstacle à l'application des d
 
 
 ##### Section 2 : Recouvrement des recettes.
-
-###### Article L707
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
 
 ###### Article L708
 
@@ -24375,102 +24131,6 @@ Le présent article n'est pas applicable aux militaires et marins soignés dans 
 	**Anciens textes**:
 
 	  - Loi n°41-5060 1941-12-21 ART. 21
-
-
-#### Chapitre 7 : Création, transformation et suppression des hôpitaux et hospices
-
-##### Section 1 : Création et suppression.
-
-###### Article L710
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L711
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L712
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Arrêté du 13 novembre 1998 - art. Annexe III (V)
-
-
-##### Section 2 : Affectation et transformation.
-
-###### Article L713
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L714
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L715
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-##### Section 3 : Commission nationale de l'organisation hospitalière.
-
-###### Article L716
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 #### Chapitre 8 : Dispositions spéciales relatives à l'admission des militaires dans les hôpitaux civils.
@@ -24625,18 +24285,6 @@ Les conditions d'application du présent chapitre sont déterminées par décret
 
 #### Chapitre 9 : Dispositions diverses.
 
-###### Article L723
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
 ###### Article L724
 
 Les précédentes dispositions ne portent pas atteinte aux droits des communes sur les lits des hospices et hôpitaux d'une
@@ -24657,18 +24305,6 @@ particuliers qui doivent être respectés.
 	**Anciens textes**:
 
 	  - Loi n°41-5060 1941-12-21 ART. 36
-
-
-###### Article L725
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 #### Chapitre 10 : Régimes hospitaliers spéciaux
@@ -25506,6 +25142,41 @@ septembre 1919, 26 mars 1927, 4 août 1927, 2 juillet 1935, du décret du 25 jui
 #### CHAPITRE 2 : COMMISSIONS ADMINISTRATIVES
 
 ##### SECTION 1 : COMPOSITION ET FONCTIONNEMENT.
+
+###### Article L680
+
+Les hôpitaux peuvent être autorisés, dans les limites et conditions prévues par décret en conseil d'Etat :
+
+1° A créer et faire fonctionner des cliniques ouvertes, dans lesquelles les malades, blessés ou femmes en couches admis à
+titre payant sont libres de faire appel aux médecins, chirurgiens, spécialistes de leur choix ainsi qu'aux sages-femmes
+n'appartenant pas au personnel titulaire de l'établissement ;
+
+2° A réserver des lits pour la clientèle personnelle des médecins, chirurgiens, spécialistes de l'établissement lorsque ceux-
+ci lui consacrent toute leur activité professionnelle et à permettre à ces praticiens de recevoir en consultation des malades
+qui leur sont adressés personnellement [*clientèle privée*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1198 1958-12-11 ART. 1 JORF 12 décembre
+
+	**Cité par**:
+
+	  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
+	  - Loi n°82-916 du 28 octobre 1982 - art. 1 (V)
+	  - Loi n°87-39 du 27 janvier 1987 - art. 24 (V)
+	  - Code de la santé publique - art. L686 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L714-36 (M)
+
 
 ###### Article L685
 
