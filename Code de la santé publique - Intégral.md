@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-08-27
+Version Consolidée au 1992-09-03
 
 # Partie législative ancienne
 
@@ -47919,7 +47919,8 @@ motifs énumérés à l'article 378 du code de procédure civile.
 
 ###### Article R*5015-1
 
-Les dispositions de la présente section s'imposent à tous les pharmaciens inscrits à l'un des tableaux de l'Ordre.
+Les dispositions de la présente section s'imposent à tous les pharmaciens et sociétés d'exercice libéral inscrits à l'un des
+tableaux de l'ordre.
 
 Les infractions à ces dispositions relèvent de la juridiction disciplinaire de l'ordre, sans préjudice des poursuites pénales
 qu'elles seraient susceptibles d'entraîner.
@@ -47945,6 +47946,11 @@ que sur la demande ou avec l'accord des autorités administratives dont ils rel�
 	**Cité par**:
 
 	  - Décret n°69-505 du 24 mai 1969 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 1 () JORF 3 septembre 1992
+	  - Décret n°92-909 du 28 août 1992 - art. 6 () JORF 3 septembre 1992
 
 	**Nouveaux textes**:
 
@@ -49403,20 +49409,21 @@ compétent.
 	  - Code de la santé publique - art. R4235-64 (V)
 
 
-##### Section 1 bis : Composition du dossier d'inscription au tableau
+##### Section 1 bis : Inscription au tableau
 
 ###### Article R5014-1
 
-Tout pharmacien qui sollicite son inscription au tableau de l'Ordre des pharmaciens en vue d'exercer la profession doit
-adresser sa demande par lettre recommandée avec demande d'avis de réception :
+Tout pharmacien ou société d'exercice libéral qui sollicite son inscription au tableau de l'Ordre des pharmaciens en vue
+d'exercer la profession doit adresser sa demande par lettre recommandée avec demande d'avis de réception :
 
-1° Pour les pharmaciens titulaires d'une officine, au président du conseil régional de l'Ordre de la région dans laquelle il
-veut exercer ;
+1° Pour les pharmaciens ou sociétés d'exercice libéral titulaires d'une officine, au président du conseil régional de l'Ordre
+de la région dans laquelle il veut exercer ;
 
 2° Pour les autres catégories de pharmaciens, au président du conseil central de la section dont relève leur activité en
 application des dispositions de l'article L. 521 ;
 
-3° Pour les pharmaciens exerçant leur art dans les départements et les territoires d'outre-mer, à leur délégation locale.
+3° Pour les pharmaciens ou sociétés d'exercice libéral exerçant leur art dans les départements et les territoires d'outre-
+mer, à leur délégation locale.
 
 **Liens relatifs à cet article**
 
@@ -49425,9 +49432,14 @@ application des dispositions de l'article L. 521 ;
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-138 1989-02-27 art. 1 JORF 3 mars 1989
+	  - Décret n°92-909 du 28 août 1992 - art. 1 () JORF 3 septembre 1992
+	  - Décret n°92-909 du 28 août 1992 - art. 2 () JORF 3 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 	**Cite**:
 
@@ -49445,7 +49457,7 @@ application des dispositions de l'article L. 521 ;
 
 ###### Article R5014-2
 
-Dans tous les cas mentionnés à l'article R. 5014-1 la demande est accompagnée des pièces suivantes :
+Pour tous les pharmaciens mentionnés à l'article R. 5014-1 la demande est accompagnée des pièces suivantes :
 
 1° Un extrait d'acte de naissance ou une fiche d'état civil datant de moins de trois mois ;
 
@@ -49486,9 +49498,14 @@ d'enregistrement, soit une déclaration sur l'honneur du demandeur certifiant qu
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-138 1989-02-27 art. 1 JORF 3 mars 1989
+	  - Décret n°92-909 du 28 août 1992 - art. 1 () JORF 3 septembre 1992
+	  - Décret n°92-909 du 28 août 1992 - art. 3 () JORF 3 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 	**Cite**:
 
@@ -49528,7 +49545,16 @@ comportant désignation du pharmacien responsable, ou responsable intérimaire, 
 
 4° Lorsqu'elle est présentée en vue d'exercer une autre activité professionnelle de pharmacien :
 
-- de toutes pièces précisant la nature, les conditions et modalités d'exercice de ladite activité.
+- de toutes pièces précisant la nature, les conditions et modalités d'exercice de ladite activité ;
+
+5° Lorsqu'elle vise à l'inscription d'une société d'exercice libéral, outre les pièces mentionnées au 1° :
+
+a) De la copie des statuts de la société et de son règlement intérieur ;
+
+b) De la liste des associés, mentionnant, pour chacun d'eux, sa qualité de professionnel en exercice ou la catégorie de
+personnes au titre de laquelle il est associé ;
+
+c) De l'indication de la répartition du capital entre les associés.
 
 **Liens relatifs à cet article**
 
@@ -49537,9 +49563,10 @@ comportant désignation du pharmacien responsable, ou responsable intérimaire, 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°89-138 1989-02-27 art. 1 JORF 3 mars 1989
+	  - Décret n°92-909 du 28 août 1992 - art. 1 () JORF 3 septembre 1992
+	  - Décret n°92-909 du 28 août 1992 - art. 4 () JORF 3 septembre 1992
 
 	**Cite**:
 
@@ -49550,6 +49577,40 @@ comportant désignation du pharmacien responsable, ou responsable intérimaire, 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R4222-3 (V)
+
+
+###### Article R5014-4
+
+Les sociétés d'exercice libéral exploitant une officine de pharmacie font l'objet d'une inscription en annexe du tableau
+mentionné aux articles L. 524 et L. 532, accompagnée du nom et, le cas échéant, de la dénomination sociale des associés qui
+les composent.
+
+Cette inscription ne dispense pas les pharmaciens exerçant dans la société de leur inscription personnelle audit tableau.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 1 () JORF 3 septembre 1992
+	  - Décret n°92-909 du 28 août 1992 - art. 5 () JORF 3 septembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L524 (Ab)
+	  - Code de la santé publique - art. L532 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4222-4 (V)
 
 
 #### Chapitre 4 : Réglementation de la publicité
@@ -52081,6 +52142,376 @@ Le silence gardé par le préfet à l'expiration du délai de trois mois équiva
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5125-13 (V)
+
+
+###### Article R5090-1
+
+Les dispositions des articles R. 5090-2 à R. 5090-11 régissent les sociétés constituées en application du titre Ier de la loi
+n° 90-1258 du 31 décembre 1990 et dont l'objet social est l'exercice en commun de la profession de pharmacien d'officine. Ces
+sociétés portent la dénomination de sociétés d'exercice libéral de pharmaciens d'officine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 7 () JORF 3 septembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-14 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique R5090-2 à R5090-11
+	  - Loi n°90-1258 1990-12-31
+
+
+###### Article R5090-2
+
+La société d'exercice libéral de pharmaciens d'officine est constituée sous la condition suspensive de son inscription au
+tableau de l'ordre dans les conditions prévues aux articles R. 5014-1 et suivants.
+
+**Nota:**
+
+[*Nota - Code de la santé publique R5090-12 - Les dispositions du présent livre sont applicables dans les territoires
+d'outre-mer et dans la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 7 () JORF 3 septembre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5014-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-15 (V)
+
+
+###### Article R5090-3
+
+Une société d'exercice libéral ne peut exploiter plus d'une officine de pharmacie.
+
+**Nota:**
+
+[*Nota - Code de la santé publique R5090-12 - Les dispositions du présent livre sont applicables dans les territoires
+d'outre-mer et dans la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 7 () JORF 3 septembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-16 (V)
+
+
+###### Article R5090-4
+
+Sous réserve des dispositions de l'article R. 5090, un pharmacien associé au sein d'une société d'exercice libéral exploitant
+une officine de pharmacie ne peut exercer sa profession qu'au sein de cette société.
+
+**Nota:**
+
+[*Nota - Code de la santé publique R5090-12 - Les dispositions du présent livre sont applicables dans les territoires
+d'outre-mer et dans la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 7 () JORF 3 septembre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5090 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-17 (V)
+
+
+###### Article R5090-5
+
+Une personne physique mentionnée au 1° du deuxième alinéa de l'article 5 de la loi du 31 décembre 1990 précitée ne peut
+détenir des parts ou actions que dans deux sociétés d'exercice libéral autres que celle où elle exerce.
+
+Une société d'exercice libéral exploitant une officine de pharmacie ne peut détenir de parts ou actions que dans deux autres
+sociétés d'exercice libéral exploitant une officine de pharmacie.
+
+**Nota:**
+
+[*Nota - Code de la santé publique R5090-12 - Les dispositions du présent livre sont applicables dans les territoires
+d'outre-mer et dans la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 7 () JORF 3 septembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-18 (V)
+
+	**Cite**:
+
+	  - Loi n°90-1258 1990-12-31 art. 5
+
+
+###### Article R5090-6
+
+Est interdite la détention, directe ou indirecte, de parts ou d'actions représentant tout ou partie du capital social d'une
+société d'exercice libéral exploitant une officine de pharmacie par toute personne physique ou morale exerçant une profession
+libérale de santé autre que celle de pharmacien d'officine.
+
+**Nota:**
+
+[*Nota - Code de la santé publique R5090-12 - Les dispositions du présent livre sont applicables dans les territoires
+d'outre-mer et dans la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 7 () JORF 3 septembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-19 (V)
+
+
+###### Article R5090-7
+
+Tout associé exerçant au sein d'une société d'exercice libéral peut, à la condition d'en informer la société par lettre
+recommandée avec demande d'avis de réception, cesser cette activité professionnelle. Le délai fixé à cet effet par les
+statuts ne peut excéder six mois à compter de la notification de cessation d'activité L'associé doit aviser de sa décision le
+conseil de l'ordre compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 7 () JORF 3 septembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-20 (V)
+
+
+###### Article R5090-8
+
+Sous réserve des dispositions de l'article R. 5090-11, l'exclusion d'un associé d'une société d'exercice libéral exploitant
+une officine peut être décidée, lorsqu'il contrevient aux règles de fonctionnement de la société, par les autres associés
+statuant à la majorité renforcée prévue par les statuts, calculée en excluant les associés ayant fait l'objet d'une sanction
+pour les mêmes faits ou pour des faits connexes, l'unanimité des autres associés exerçant au sein de la société et habilités
+à se prononcer en l'espèce devant être recueillie.
+
+Aucune décision d'exclusion ne peut être prise si l'associé n'a pas été régulièrement convoqué à l'assemblée générale, quinze
+jours au moins avant la date prévue et par lettre recommandée avec demande d'avis de réception, et s'il n'a pas été mis à
+même de présenter sa défense sur les faits précis qui lui sont reprochés.
+
+Toute décision d'exclusion peut être contestée devant le tribunal de grande instance du lieu du siège social.
+
+Les parts ou actions de l'associé exclu sont soit achetées par un acquéreur agréé par les associés subsistants, soit achetées
+par la société qui doit alors réduire son capital.
+
+A défaut d'accord sur le prix de cession des titres ou sur leur valeur de rachat, il est recouru à la procédure de l'article
+1843-4 du code civil.
+
+**Nota:**
+
+[*Nota - Code de la santé publique R5090-12 - Les dispositions du présent livre sont applicables dans les territoires
+d'outre-mer et dans la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 7 () JORF 3 septembre 1992
+
+	**Cite**:
+
+	  - Code civil - art. 1843-4 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5090-11 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-21 (V)
+
+
+###### Article R5090-9
+
+Les actes et documents destinés aux tiers, notamment les lettres, factures, annonces et publications diverses, émanant d'une
+société d'exercice libéral exploitant une officine de pharmacie doivent indiquer la dénomination sociale, précédée ou suivie
+immédiatement, selon le cas :
+
+- soit de la mention "Société d'exercice libéral à responsabilité limitée" ou de la mention "SELARL" ;
+
+- soit de la mention "Société d'exercice libéral à forme anonyme" ou de la mention "SELAFA" ;
+
+- soit de la mention "Société d'exercice libéral en commandite par actions" ou de la mention "SELCA",
+
+ainsi que de l'énonciation du montant de son capital social, de son siège social et de la mention de son inscription au
+tableau de l'ordre.
+
+**Nota:**
+
+[*Nota - Code de la santé publique R5090-12 - Les dispositions du présent livre sont applicables dans les territoires
+d'outre-mer et dans la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 7 () JORF 3 septembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-22 (V)
+
+
+###### Article R5090-10
+
+La société d'exercice libéral est soumise aux dispositions disciplinaires applicables à la profession de pharmacien. Elle ne
+peut faire l'objet de poursuites disciplinaires indépendamment de celles qui seraient intentées contre un ou plusieurs
+associés exerçant leurs fonctions en son sein.
+
+**Nota:**
+
+[*Nota - Code de la santé publique R5090-12 - Les dispositions du présent livre sont applicables dans les territoires
+d'outre-mer et dans la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 7 () JORF 3 septembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-23 (V)
+
+
+###### Article R5090-11
+
+L'associé faisant l'objet d'une sanction disciplinaire d'interdiction définitive d'exercer la pharmacie perd l'ensemble de
+ses droits d'associé, la valeur de ses parts lui étant remboursée sur la base d'une valeur déterminée conformément aux
+dispositions de l'article 1843-4 du code civil.
+
+Il en va de même, sur décision prise dans les conditions prévues à l'article R. 5090-8, d'une interdiction temporaire
+prononcée pour une durée de plus d'un an.
+
+Dans le cas où l'interdiction temporaire est prononcée pour une durée au plus égale à un an, l'associé conserve pendant ce
+temps sa qualité d'associé avec tous les droits et obligations qui en découlent, à l'exclusion de la rémunération liée à
+l'exercice de son activité professionnelle.
+
+**Nota:**
+
+[*Nota - Code de la santé publique R5090-12 - Les dispositions du présent livre sont applicables dans les territoires
+d'outre-mer et dans la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 7 () JORF 3 septembre 1992
+
+	**Cite**:
+
+	  - Code civil - art. 1843-4 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5090-8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-24 (V)
+
+
+###### Article R5090-12
+
+Les dispositions du présent livre relatives aux sociétés d'exercice libéral de pharmaciens d'officine sont applicables dans
+les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-909 du 28 août 1992 - art. 7 () JORF 3 septembre 1992
+
+	**Cité par**:
+
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 4 (V)
 
 
 ##### Paragraphe 6 : Produits officinaux divisés
