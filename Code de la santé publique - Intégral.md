@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1982-02-16
+Version Consolidée au 1982-04-02
 
 # Partie législative ancienne
 
@@ -34689,19 +34689,171 @@ La commission administrative, le conseil municipal, le conseil général ou le c
 emplois permanents dont les titulaires sont soumis au présent statut par délibération soumise, après avis des directeurs
 départementaux de la santé et de la population et de l'aide sociale, à l'approbation du préfet.
 
-Les agents peuvent, sur leur demande et dans les cas et conditions déterminés par décret en Conseil d'Etat, être autorisés,
+Les agents peuvent, sur leur demande et dans les cas et conditions déterminés par décret en conseil d'Etat, être autorisés,
 compte tenu des nécessités de fonctionnement du service, à exercer leurs fonctions à temps partiel.
 
+Ce service ne peut être inférieur au mi-temps [*durée minimum du temps partiel*]. A l'issue de la période de travail à temps
+partiel, les agents sont admis de plein droit à occuper à temps plein leur emploi ou à défaut un autre emploi conforme à leur
+statut. Pour la détermination des droits à avancement, à promotion et à formation, les périodes de travail à temps partiel
+sont assimilées à des périodes à temps plein.
+
+**Nota:**
+
+[*Nota : Ordonnance 82-296 du 31 mars 1982 ART. 12 : Les dispositions du dernier alinéa de l'article L. 792 du code de la
+santé publique sont applicables aux agents stagiaires et aux agents non titulaires des établissements mentionnés audit
+article. Arrêté du 10 décembre 1984 fixant pour l'année 1984 les taux de responsabilite attribuée aux personnels de direction
+des établissements énumérés à l'article L. 792 du présent code.*]
+
 **Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1984-12-10
+	  - TXT_ASSOCIE: Décret n°70-1329 du 31 décembre 1970 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 10 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 11 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 12 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 13 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 14 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 15 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 16 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 17 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 18 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 4 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 5 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 6 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 7 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 8 (Ab)
+	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 11 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 12 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 13 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 14 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 15 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 16 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 17 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 18 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 19 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 20 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 21 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 22 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 23 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 24 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 25 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 26 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 27 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 28 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 29 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 9 (V)
+	  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980
+	  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980 - art. 1 (V)
+	  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980 - art. 2 (V)
+	  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980 - art. 3 (V)
+	  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980 - art. 4 (V)
+	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980
+	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 4 (Ab)
+	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 5 (Ab)
+	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 6 (Ab)
+	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 7 (Ab)
+	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 8 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 4 février 1981
+	  - TXT_ASSOCIE: Arrêté du 4 février 1981 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 4 février 1981 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 4 février 1981 - art. 3 (V)
+	  - SPEC_APPLI: Ordonnance n°82-296 du 31 mars 1982 - art. 12 (V)
+	  - TXT_ASSOCIE: Arrêté du 14 octobre 1982
+	  - TXT_ASSOCIE: Arrêté du 14 octobre 1982 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 14 octobre 1982 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°83-862 du 23 septembre 1983
+	  - TXT_SOURCE: Décret n°83-862 du 23 septembre 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°83-862 du 23 septembre 1983 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983
+	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 16 juillet 1984
+	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 23 octobre 1984
+	  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 5 (V)
+	  - TXT_ASSOCIE: Arrêté du 10 décembre 1984
+	  - TXT_ASSOCIE: Arrêté du 10 décembre 1984 - art. 1 (P)
+	  - TXT_ASSOCIE: Décret n°85-946 du 16 août 1985
+	  - TXT_ASSOCIE: Décret n°85-946 du 16 août 1985 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 10 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 11 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 12 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 13 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 14 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 15 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 16 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 4 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 5 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 6 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 7 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 8 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 9 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 1 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 10 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 11 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 12 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 13 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 2 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 3 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 4 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 5 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 6 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 7 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 8 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 9 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 9 juin 1981
+	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 4 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 5 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 6 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 7 (Ab)
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Anciens textes**:
-
-	  - Décret n°55-683 1955-05-20 ART. 1
 
 	**Cité par**:
 
@@ -34847,151 +34999,13 @@ compte tenu des nécessités de fonctionnement du service, à exercer leurs fonc
 
 	  - Loi n°70-1318 1970-12-31
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°70-1329 du 31 décembre 1970 - art. 3 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 1 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 10 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 11 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 12 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 13 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 14 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 15 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 16 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 17 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 18 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 2 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 3 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 4 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 5 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 6 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 7 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 8 (Ab)
-	  - TXT_ASSOCIE: Décret n°78-517 du 30 mars 1978 - art. 9 (Ab)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 10 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 11 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 12 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 13 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 14 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 15 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 16 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 17 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 18 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 19 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 20 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 21 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 22 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 23 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 24 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 25 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 26 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 27 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 28 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 29 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 5 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 6 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 7 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 8 (V)
-	  - TXT_SOURCE: Décret n°80-793 du 1 octobre 1980 - art. 9 (V)
-	  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980
-	  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980 - art. 1 (V)
-	  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980 - art. 2 (V)
-	  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980 - art. 3 (V)
-	  - TXT_ASSOCIE: Décret n°80-966 du 2 décembre 1980 - art. 4 (V)
-	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980
-	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 1 (Ab)
-	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 2 (Ab)
-	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 3 (Ab)
-	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 4 (Ab)
-	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 5 (Ab)
-	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 6 (Ab)
-	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 7 (Ab)
-	  - TXT_ASSOCIE: Décret n°80-967 du 2 décembre 1980 - art. 8 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 4 février 1981
-	  - TXT_ASSOCIE: Arrêté du 4 février 1981 - art. 1 (V)
-	  - TXT_ASSOCIE: Arrêté du 4 février 1981 - art. 2 (V)
-	  - TXT_ASSOCIE: Arrêté du 4 février 1981 - art. 3 (V)
-	  - TXT_ASSOCIE: Arrêté du 14 octobre 1982
-	  - TXT_ASSOCIE: Arrêté du 14 octobre 1982 - art. 1 (V)
-	  - TXT_ASSOCIE: Arrêté du 14 octobre 1982 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°83-862 du 23 septembre 1983
-	  - TXT_SOURCE: Décret n°83-862 du 23 septembre 1983 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°83-862 du 23 septembre 1983 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983
-	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 1 (V)
-	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 2 (V)
-	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 3 (V)
-	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 4 (V)
-	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 5 (V)
-	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 6 (V)
-	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 7 (V)
-	  - TXT_SOURCE: Décret n°83-863 du 23 septembre 1983 - art. 8 (V)
-	  - TXT_SOURCE: Arrêté du 16 juillet 1984
-	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 5 (V)
-	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 6 (V)
-	  - TXT_SOURCE: Arrêté du 16 juillet 1984 - art. 7 (V)
-	  - TXT_SOURCE: Arrêté du 23 octobre 1984
-	  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 23 octobre 1984 - art. 5 (V)
-	  - TXT_ASSOCIE: Arrêté du 10 décembre 1984
-	  - TXT_ASSOCIE: Arrêté du 10 décembre 1984 - art. 1 (P)
-	  - TXT_ASSOCIE: Décret n°85-946 du 16 août 1985
-	  - TXT_ASSOCIE: Décret n°85-946 du 16 août 1985 - art. 2 (V)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 1 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 10 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 11 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 12 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 13 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 14 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 15 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 16 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 2 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 3 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 4 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 5 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 6 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 7 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 8 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. 9 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 1 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 10 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 11 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 12 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 13 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 2 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 3 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 4 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 5 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 6 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 7 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 8 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 2 mai 1977 - art. Annexe 9 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 9 juin 1981
-	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 1 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 2 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 3 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 4 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 5 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 6 (Ab)
-	  - TXT_ASSOCIE: Arrêté du 9 juin 1981 - art. 7 (Ab)
-
 	**Modifié par**:
 
-	  - Loi n°74-873 1974-10-22 art. 1 et art. 2 JORF 23 octobre 1974
+	  - Ordonnance 82-296 1982-03-31 ART. 11 JORF 2 AVRIL 1982
+
+	**Abrogé par**:
+
+	  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
 
 
 ###### Article L793
