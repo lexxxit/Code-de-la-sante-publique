@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1989-03-03
+Version Consolidée au 1989-03-08
 
 # Partie législative ancienne
 
@@ -43339,9 +43339,20 @@ deux lits. Dans les autres établissements chaque lit compte pour une unité.
 
 ###### Article R5091-4
 
-Le contrat de gérance conclu pour l'application des articles R. 5091 à R. 5091-2 doit être établi conformément à un des
-contrats types fixés par arrêté du ministre de la santé publique et de la sécurité sociale, après avis du conseil national de
-l'ordre des pharmaciens et du conseil supérieur de la pharmacie.
+Dans les établissements et organismes de soins privés, le pharmacien gérant est un salarié lié à l'organisme ou à
+l'établissement propriétaire de la pharmacie par un contrat de gérance qui doit être conforme à un contrat type fixé par
+arrêté du ministre chargé de la santé après avis du Conseil national de l'ordre des pharmaciens.
+
+Ce contrat type détermine notamment :
+
+1° Le temps de présence du pharmacien gérant ;
+
+2° Les obligations de service du pharmacien gérant et les conditions de son remplacement en cas d'absence ;
+
+3° Les éléments et les conditions d'évolution de la rémunération du pharmacien gérant ;
+
+4° Les conditions dans lesquelles sont mis à la disposition du pharmacien gérant le personnel ainsi que les locaux,
+équipements et aménagements nécessaires à la bonne marche du service.
 
 **Liens relatifs à cet article**
 
@@ -43350,9 +43361,9 @@ l'ordre des pharmaciens et du conseil supérieur de la pharmacie.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°70-977 1970-10-26 art. 1 JORF 27 octobre 1970
+	  - Décret n°89-149 1989-03-06 art. 1 JORF 8 mars 1989
 
 	**Liens**:
 
@@ -43365,10 +43376,6 @@ l'ordre des pharmaciens et du conseil supérieur de la pharmacie.
 
 	  - Arrêté du 6 mars 1989 - art. 1 (V)
 	  - Code de la santé publique - art. R5091-7 (Ab)
-
-	**Cite**:
-
-	  - Code de la santé publique R5091 à R5091-2
 
 
 ###### Article R5091-5
