@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1990-06-30
+Version Consolidée au 1990-07-14
 
 # Partie législative ancienne
 
@@ -12383,42 +12383,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 	  - Code de la santé publique - art. L351 (M)
 
 
-#### Chapitre 3 : Modes de placement dans les établissements de soins
-
-##### Section 3 : Dispositions communes *au placement volontaire ou d'office*.
-
-###### Article L352
-
-Sur la demande de l'intéressé, de l'un de ses parents, de l'époux ou de l'épouse, d'un ami, ou sur la provocation d'office du
-procureur de la République, le tribunal pourra nommer en chambre du conseil, par jugement non susceptible d'appel, en outre
-de l'administrateur provisoire, un curateur à la personne de tout individu non interdit placé dans un établissement
-d'aliénés, lequel devra veiller [*attributions*] : 1° à ce que ses revenus soient employés à adoucir son sort et à accélérer
-sa guérison ; 2° à ce que ledit individu soit rendu au libre exercice de ses droits aussitôt que sa situation le permettra.
-
-Ce curateur ne pourra être choisi parmi les héritiers présomptifs de la personne placée dans un établissement d'aliénés
-[*incompatibilité*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3214-1 (T)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L348 (M)
-	  - Code de la santé publique - art. L351 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1838-06-30 ART. 38
-
-
 #### Chapitre 3 : Modes d'hospitalisation sans consentement dans les établissements
 
 ##### Section 1 : Hospitalisation sur demande d'un tiers.
@@ -13410,40 +13374,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L3221-6 (V)
 	  - Code de la santé publique - art. L3222-6 (V)
 	  - Code de la santé publique - art. L3223-3 (V)
-
-
-#### CHAPITRE 4 : DISPOSITIONS DIVERSES
-
-##### SECTION 1 : DISPOSITIONS FINANCIERES.
-
-###### Article L353
-
-Les dépenses exposées en application de l'article L. 326 sont à la charge de l'Etat sans préjudice de la participation des
-régimes d'assurance maladie aux dépenses de soins [*dépistage et prophylaxie des maladies mentales et de l'alcoolisme*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Loi n°83-663 du 22 juillet 1983 - art. 49 () JORF 23 JUILLET 1983
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L3214-2 (T)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L326 (M)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L339 (M)
-	  - Code de la santé publique - art. L354 (Ab)
 
 
 ### Titre 5 : Lutte contre l'alcoolisme.
@@ -32061,11 +31991,11 @@ procédure de la comparution immédiate, le tribunal peut ordonner une enquête 
 
 ###### Article L627-4
 
-En cas d'inculpation du chef de l'une des infractions mentionnées aux premier et deuxième alinéas de l'article L. 627 et afin
-de garantir le paiement des amendes encourues, des frais de justice et de la confiscation prévue à l'article L. 629, le
-président du tribunal de grande instance [*magistrat compétent*], sur requête du ministère public, pourra ordonner, aux frais
-avancés du Trésor et selon les modalités prévues par le code de procédure civile, des mesures conservatoires sur les biens de
-la personne inculpée.
+En cas d'inculpation du chef de l'une des infractions prévues par les premier, deuxième et troisième alinéas de l'article L.
+627 et afin de garantir le paiement des amendes encourues, des frais de justice et de la confiscation prévue à l'article L.
+629, le président du tribunal de grande instance [*magistrat compétent*], sur requête du ministère public, pourra ordonner,
+aux frais avancés du Trésor et selon les modalités prévues par le code de procédure civile, des mesures conservatoires sur
+les biens de la personne inculpée.
 
 La condamnation vaut validation des saisies conservatoires et permet l'inscription définitive des sûretés.
 
@@ -32074,9 +32004,13 @@ ordonnées. Il en est de même en cas d'extinction de l'action publique.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°87-1157 du 31 décembre 1987 - art. 4 () JORF 5 janvier 1988
+	  - Loi n°90-614 du 12 juillet 1990 - art. 20 () JORF 14 juillet 1990
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 223 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 	**Cite**:
 
