@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1991-05-11
+Version Consolidée au 1991-05-16
 
 # Partie législative ancienne
 
@@ -40783,6 +40783,252 @@ d'une communication complémentaire adressée au ministre dans la forme prévue 
 	**Cite**:
 
 	  - Code de la santé publique - art. R2036 (M)
+
+
+### Titre 7 : Assurance des promoteurs de recherches biomédicales
+
+###### Article R2047
+
+Les contrats d'assurance garantissant, dans les conditions prévues à l'article L. 209-7 du code de la santé publique, les
+conséquences pécuniaires de la responsabilité civile du promoteur et celle de tout intervenant ne peuvent pas déroger aux
+dispositions définies ci-dessous, sauf dans un sens plus favorable à l'intérêt des victimes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L209-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1121-2 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R2048 (Ab)
+	  - Code de la santé publique - art. R2049 (Ab)
+	  - Code de la santé publique - art. R2050 (Ab)
+	  - Code de la santé publique - art. R2052 (Ab)
+	  - Code de la santé publique - art. R2053 (Ab)
+
+
+###### Article R2048
+
+Les contrats mentionnés à l'article R. 2047 ne peuvent prévoir de clauses excluant de la garantie les dommages subis par les
+victimes que dans les cas suivants :
+
+1° Les recherches biomédicales n'ont pas lieu dans les conditions prévues au premier tiret de l'article L. 209-3 du code de
+la santé publique ;
+
+2° Le consentement des personnes qui se prêtent à la recherche biomédicale n'est pas recueilli dans les conditions prévues
+aux articles L. 209-9 ou L. 209-10 du code de la santé publique ;
+
+3° La recherche est réalisée sans que l'avis du comité consultatif prévu à l'article L. 209-12 ait été obtenu ;
+
+4° Les prescriptions du quatrième alinéa de l'article L. 209-12 ne sont pas respectées ;
+
+5° Les dispositions de l'article L. 209-18 ne sont pas respectées ;
+
+6° La recherche a lieu en dépit d'une décision d'interdiction ou de suspension prise par le ministre en application du
+dernier alinéa de l'article L. 209-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L209-10 (M)
+	  - Code de la santé publique - art. L209-12 (M)
+	  - Code de la santé publique - art. L209-18 (M)
+	  - Code de la santé publique - art. L209-3 (M)
+	  - Code de la santé publique - art. L209-9 (M)
+	  - Code de la santé publique - art. R2047 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1121-3 (M)
+
+
+###### Article R2049
+
+Les contrats mentionnés à l'article R. 2047 ne peuvent pas stipuler des garanties d'un montant inférieur à :
+
+1° 5 millions de francs par victime ;
+
+2° 30 millions de francs par protocole de recherche ;
+
+3° 50 millions de francs pour l'ensemble des réclamations présentées pendant une année d'assurance au titre de plusieurs
+protocoles de recherche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1121-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R2047 (M)
+
+
+###### Article R2050
+
+Les contrats mentionnés à l'article R. 2047 peuvent prévoir une franchise par victime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1121-5 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R2047 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R2051 (Ab)
+
+
+###### Article R2051
+
+L'assureur ne peut pas opposer à la victime :
+
+1° Le fait que la recherche a été réalisée alors que le consentement n'avait pas été donné dans les conditions prévues aux
+articles L. 209-9 ou L. 209-10 du code de la santé publique ou avait été retiré ;
+
+2° La franchise prévue à l'article R. 2050 ;
+
+3° La réduction proportionnelle de l'indemnité (prévue à l'article L. 113-9 du code des assurances) ;
+
+4° La déchéance du contrat.
+
+Toutefois, il peut exercer une action en remboursement des sommes versées à la victime et payées au lieu et place de
+l'assuré.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L209-10 (M)
+	  - Code de la santé publique - art. L209-9 (M)
+	  - Code de la santé publique - art. R2050 (Ab)
+	  - Code des assurances - art. L113-9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1121-6 (V)
+
+
+###### Article R2052
+
+Les contrats mentionnés à l'article R. 2047 prévoient que, quelle que soit la date de résiliation, l'assureur prend en charge
+les réclamations adressées à l'assuré par les victimes pendant la durée de la recherche biomédicale entreprise et jusqu'à
+l'expiration d'une période de dix ans suivant la fin de cette recherche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R2047 (M)
+
+
+###### Article R2053
+
+La souscription des contrats mentionnés à l'article R. 2047 est justifiée par la production d'une attestation délivrée par
+l'assureur qui vaut présomption de garantie.
+
+Ces documents doivent nécessairement comporter les mentions suivantes :
+
+1° Les références aux dispositions législatives et réglementaires applicables ;
+
+2° La raison sociale de l'entreprise d'assurance ;
+
+3° Le numéro du contrat d'assurance ;
+
+4° La dénomination et l'adresse du souscripteur du contrat ;
+
+5° La dénomination précise de la recherche couverte par l'assurance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°91-440 du 14 mai 1991 - art. 1 () JORF 16 mai 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1121-7 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R2047 (M)
 
 
 ## Livre 5 : Pharmacie
