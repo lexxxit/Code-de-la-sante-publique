@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1979-11-15
+Version Consolidée au 1980-01-01
 
 # Partie législative ancienne
 
@@ -4572,36 +4572,6 @@ laboratoire, sérologiques ou autres, jugés utiles.
 	**Abrogé par**:
 
 	  - Loi n°89-899 du 18 décembre 1989 - art. 3 () JORF 19 décembre 1989
-
-
-###### Article L161-1
-
-Lorsque la sauvegarde de la vie de la mère gravement menacée exige soit une intervention chirurgicale, soit l'emploi d'une
-thérapeutique susceptible d'entraîner l'interruption de la grossesse, le médecin traitant ou le chirurgien devront
-obligatoirement prendre l'avis de deux médecins consultants, dont l'un pris sur la liste des experts près le tribunal de
-grande instance, qui, après examen et discussion, attesteront que la vie de la mère ne peut être sauvegardée qu'au moyen
-d'une telle intervention thérapeutique. Un des exemplaires de la consultation sera remis à la malade, les deux autres
-conservés par les deux médecins consultants.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-17 1975-01-17 ART. 2 : SUSPENSION DE L'ARTICLE L161-1
-
-	**Cité par**:
-
-	  - Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
-	  - Loi n°79-1204 du 31 décembre 1979 - art. 10 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°79-1204 du 31 décembre 1979 - art. 10 (V) JORF 1ER JANVIER 1980
 
 
 ##### Section 2 : Visites à domicile.
@@ -28639,23 +28609,6 @@ ou en ayant tiré profit, si le délit a été commis par toute autre voie.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2221-1 (Ab)
-
-
-###### Article L650
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
-	  - Loi n°79-1204 du 31 décembre 1979 - art. 10 (V)
 
 
 #### Chapitre 6 : Thermomètres médicaux.
