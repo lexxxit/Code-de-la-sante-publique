@@ -1,0 +1,24459 @@
+# Code de la santé publique  
+Version Consolidée au 1953-10-07
+
+# Partie législative ancienne
+
+## LIVRE 1 : PROTECTION GENERALE DE LA SANTE PUBLIQUE
+
+### TITRE 1 : MESURES SANITAIRES GENERALES
+
+#### CHAPITRE 1 : REGLEMENTS SANITAIRES.
+
+###### Article L1
+
+Dans tous les départements, le préfet [*autorité compétente*] est tenu, afin de protéger la santé publique, d'établir un
+règlement sanitaire applicable à toutes les communes du département.
+
+Ce règlement est établi sur la proposition du directeur départemental de la santé et après avis du conseil départemental
+d'hygiène.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°73-502 du 21 mai 1973 - art. 3 (Ab)
+	  - Arrêté du 1 octobre 1990 - art. 10 (V)
+	  - Décret n°95-408 du 18 avril 1995 - art. 2 (Ab)
+	  - Décret n°97-1133 du 8 décembre 1997 - art. 3 (Ab)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 7 (V)
+	  - Arrêté du 23 novembre 1979 - art. 1 (V)
+	  - Code de la santé publique - art. L17 (Ab)
+	  - Code de la santé publique - art. L2 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 5 mai 1988
+	  - TXT_SOURCE: Arrêté du 5 mai 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 5 mai 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°88-523 du 5 mai 1988
+	  - TXT_SOURCE: Décret n°88-523 du 5 mai 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°88-523 du 5 mai 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°88-523 du 5 mai 1988 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°88-523 du 5 mai 1988 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. ANNEXE ART. 125 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. ANNEXE ART. 130 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. ANNEXE ART. 152 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 1 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 10 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 100 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 101 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 102 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 103 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 104 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 105 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 106 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 107 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 108 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 109 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 11 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 110 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 111 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 112 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 113 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 114 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 115 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 116 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 116 bis (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 117 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 118 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 119 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 12 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 120 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 121 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 122 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 123 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 123 bis (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 124 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 126 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 127 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 128 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 129 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 13 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 131 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 132 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 133 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 134 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 135 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 136 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 137 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 138 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 139 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 14 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 140 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 141 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 142 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 143 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 144 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 145 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 146 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 147 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 148 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 149 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 15 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 150 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 151 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 153 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 154 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 155 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 156 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 16 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 17 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 18 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 19 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 19 bis (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 2 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 20 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 21 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 22 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 23 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 24 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 25 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 26 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 27 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 28 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 29 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 3 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 30 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 31 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 32, ART. 33 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 34 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 35 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 36 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 37 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 38 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 39 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 4 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 40 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 41 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 41 bis (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 41 ter (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 42 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 43 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 44 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 44 bis. (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 44 ter (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 45 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 46 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 47 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 48 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 49 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 5 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 50 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 51 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 52 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 53 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 53 bis. (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 54 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 55 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 56 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 57 (M)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 58 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 59 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 6 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 60 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 61 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 62 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 63 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 64 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 65 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 66 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 67 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 68 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 69 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 7 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 70 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 71 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 71 bis (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 72 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 73 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 74 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 75 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 76 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 77 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 78 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 79 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 8 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 80 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 81 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 82 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 83 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 84 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 85 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 86 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 87 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 88 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 89 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 9 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 90 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 91 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 92 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 93 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 94 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 95 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 96 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 97 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 98 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 99 (V)
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1311-1 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30
+	  - Loi n°1902-02-15 art. 1
+
+
+###### Article L2
+
+Le règlement sanitaire détermine [*contenu*] :
+
+1. Les précautions à prendre par les maires, notamment en exécution de l'article 97 de la loi du 5 avril 1884 sur
+l'organisation municipale [*article L. 131-2 du Code des Communes*] et des dispositions du titre III du livre II du Code
+rural, pour prévenir ou faire cesser les maladies [*des animaux*] transmissibles et spécialement les mesures propres à
+assurer la protection des denrées alimentaires mises en vente, la désinfection ou la destruction des objets à l'usage des
+malades ou qui ont été souillés par eux, et généralement des objets quelconques pouvant servir de véhicule à la contagion ;
+
+2. Les prescriptions destinées à assurer la salubrité des maisons et de leurs dépendances, des voies privées closes ou non à
+leurs extrémités, des logements loués en garni et des autres agglomérations quelle qu'en soit la nature ;
+
+3. Les prescriptions relatives à l'alimentation en eau potable et à la surveillance des puits, à l'évacuation des matières
+usées et aux conditions auxquelles doivent satisfaire les fosses d'aisances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 1973-05-21 ART. 3 : DISPOSITIONS PENALES
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. ANNEXE ART. 125 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. ANNEXE ART. 130 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. ANNEXE ART. 152 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 10 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 114 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 116 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 117 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 124 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 127 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 129 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 13 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 132 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 133 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 135 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 136 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 140 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 141 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 142 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 145 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 146 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 148 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 149 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 20 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 22 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 26 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 28 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 3 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 30 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 40 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 49 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 52 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 53 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 53 bis. (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 54 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 55 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 6 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 64 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 7 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 70 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 78 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 8 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 87 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 91 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 98 (V)
+	  - TXT_SOURCE: Arrêté du 23 novembre 1979 - art. Annexe ART. 99 (V)
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Cité par**:
+
+	  - Décret n°73-502 du 21 mai 1973 - art. 3 (Ab)
+	  - Arrêté du 6 mai 1996 - art. 16 (Ab)
+	  - Code de la santé publique - art. L17 (Ab)
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L131-2 (M)
+	  - Code rural 214 A 252
+	  - Loi n°1884-04-05 ART. 97
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1311-2 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30
+	  - Loi n°1902-02-15 ART. 1
+
+
+###### Article L3
+
+Les dispositions des articles L. 1er et 2 ne font pas obstacle au droit du maire [*autorité compétente*] de prendre, après
+avis du conseil municipal, tous arrêtés ayant pour objet telles dispositions particulières qu'il jugera utiles dans sa
+commune, en vue d'assurer la protection de la santé publique, sans préjudice des droits conférés au préfet par l'article 99
+de la loi du 5 avril 1884 [*article L. 131-13 du Code des Communes*]. Ces arrêtés sont approuvés par le préfet, après avis du
+conseil départemental d'hygiène.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 1973-05-21 ART. 3 : DISPOSITIONS PENALES
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Cité par**:
+
+	  - Décret n°73-502 du 21 mai 1973 - art. 3 (Ab)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 7 (V)
+	  - Code de la santé publique - art. L17 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+
+	**Cite**:
+
+	  - CODE DES COMMUNES. - art. L131-13 (M)
+	  - Code de la santé publique L1 ET L2
+	  - Loi n°1884-04-05 ART. 99
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30
+	  - Loi n°1902-02-15 ART. 1, ART. 2
+
+
+###### Article L4
+
+Dans le cas où plusieurs communes auraient fait connaître leur volonté de s'associer, conformément aux dispositions du titre
+8 de la loi du 5 avril 1884 modifiée [*article L. 163-1 et suivants du Code des Communes*], pour l'exécution des mesures
+sanitaires, elles pourront adopter les mêmes règlements qui leur seront rendus applicables suivant les formes prévues par
+ladite loi.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 1973-05-21 art. 3 : dispositions pénales
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Cité par**:
+
+	  - Décret n°73-502 du 21 mai 1973 - art. 3 (Ab)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 7 (V)
+	  - Code de la santé publique - art. L17 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code des communes L163-1 ET S.
+	  - Loi n°1884-04-05 TITRE 8
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1311-3 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30
+	  - Loi n°1902-02-15 art. 2
+
+
+#### Chapitre 2 : Lutte contre les épidémies
+
+##### Section 1 : Vaccination contre certaines maladies transmissibles.
+
+###### Article L5
+
+La vaccination antivariolique est obligatoire. Elle doit être renouvelée. Les parents ou tuteurs sont tenus personnellement
+de l'exécution de ladite mesure.
+
+Un décret en Conseil d'Etat rendu après avis de l'Académie nationale de médecine et du Conseil supérieur d'hygiène publique
+de France, fixe les mesures nécessitées par l'application de l'alinéa précédent.
+
+En cas de guerre, de calamité publique, d'épidémie ou de menace d'épidémie, la vaccination ou la revaccination antivariolique
+peut être rendue obligatoire par décret ou par arrêtés préfectoraux pour toute personne, quel que soit son âge.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°65-213 du 19 mars 1965 - art. 5 (Ab)
+	  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - Loi n°79-520 du 2 juillet 1979 - art. 1 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°72-1045 1972-11-16 ART. 1 JORF 21 novembre 1972
+	  - Décret n°66-618 1966-08-12 ART. 1 JORF 19 août 1966
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 1973-05-21 art. 2 : dispositions pénales
+	  - SPEC_APPLI: Code de la santé publique L51 : non applicable aux ateliers et manufactures
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3111-8 (Ab)
+	  - Code de la santé publique - art. L3111-8 (V)
+	  - Code de la santé publique - art. L3821-5 (Ab)
+	  - Code de la santé publique - art. L3821-5 (V)
+	  - Code de la santé publique - art. R3116-6 (V)
+	  - Code de la santé publique - art. R3116-8 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 6
+	  - Loi n°1915-09-07
+
+
+###### Article L6
+
+La vaccination antidiphtérique par l'anatoxine est obligatoire. Les parents ou tuteurs sont tenus personnellement de
+l'exécution de ladite mesure, dont justification [*obligatoire*] devra être fournie lors de l'admission dans toute école,
+garderie, colonie de vacances ou autre collectivité d'enfants [*condition de forme*].
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°66-618 1966-08-12 art. 1 JORF 19 août 1966
+
+	**Cité par**:
+
+	  - Décret n°65-213 du 19 mars 1965 - art. 5 (Ab)
+	  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - Code de la santé publique - art. L7 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 1973-05-21 ART. 2 : DISPOSITIONS PENALES
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+	  - TXT_ASSOCIE: Décret n°66-612 1966-08-12 ART. 3 : AGE
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3111-1 (M)
+	  - Code de la santé publique - art. L3111-1 (V)
+	  - Code de la santé publique - art. R3116-2 (V)
+	  - Code de la santé publique - art. R3116-8 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 6 BIS
+	  - Loi n°1938-06-25
+	  - Loi n°48-1317 1948-09-07
+
+
+###### Article L7
+
+La vaccination antitétanique par l'anatoxine est obligatoire et doit être pratiquée en même temps et dans les mêmes
+conditions que la vaccination antidiphtérique prescrite à l'article L. 6 ci-dessus.
+
+Un décret pris sur le rapport du ministre de la Santé publique et de la Population détermine les conditions dans lesquelles
+sont pratiquées la vaccination antidiphtérique et la vaccination antitétanique.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°65-213 du 19 mars 1965 - art. 5 (Ab)
+	  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3111-2 (M)
+	  - Code de la santé publique - art. L3111-2 (V)
+	  - Code de la santé publique - art. L3821-2 (V)
+	  - Code de la santé publique - art. R3116-2 (V)
+	  - Code de la santé publique - art. R3116-8 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L6 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 6 TER
+	  - Loi n°1940-11-24 ART. 1
+
+
+###### Article L8
+
+Le ministre de la Santé publique et de la Population [*autorité compétente*] peut instituer par arrêté l'obligation de la
+vaccination antityphoparatyphoïdique pour tous les sujets de dix à trente ans [*âge*] résidant dans les zones de territoires
+menacées par une épidémie de fièvres typhoparatyphoïdes.
+
+En même temps que la vaccination antityphoparatyphoïdique, la vaccination antidiphtérique et antitétanique est pratiquée au
+moyen d'un vaccin associé chez tous les sujets visés à l'alinéa précédent qui ne peuvent établir, par la production de leur
+carnet de vaccination, qu'ils ont déjà bénéficié d'une ou de l'autre de ces vaccinations.
+
+Les vaccinations prescrites par le présent article sont pratiquées dans les conditions qui sont déterminées par décret.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 51 : dispositions applicables aux ateliers et manufactures.*]
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Cité par**:
+
+	  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - Code de la santé publique - art. L51 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3111-6 (M)
+	  - Code de la santé publique - art. L3111-6 (V)
+	  - Code de la santé publique - art. L3821-4 (Ab)
+	  - Code de la santé publique - art. L3821-4 (V)
+	  - Code de la santé publique - art. R3116-6 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1940-11-25 ART. 2, 3, 4
+
+
+###### Article L9
+
+Le ministre de la Santé publique et de la Population [*autorité compétente*] peut instituer, par arrêté, l'obligation de la
+vaccination contre le typhus exanthématique pour tous les sujets de dix à cinquante ans et pour toutes catégories de
+personnes qui résident dans une région contaminée ou qui, du fait de leur profession, se trouvent particulièrement menacées.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 51 : dispositions applicables aux ateliers et manufactures.*]    [*Nota - Ordonnance
+90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-497 1945-03-27 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Cité par**:
+
+	  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - Code de la santé publique - art. L51 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3111-7 (Ab)
+	  - Code de la santé publique - art. L3111-7 (V)
+	  - Code de la santé publique - art. L3821-4 (Ab)
+	  - Code de la santé publique - art. L3821-4 (V)
+	  - Code de la santé publique - art. R1312-1 (T)
+	  - Code de la santé publique - art. R1312-1 (V)
+	  - Code de la santé publique - art. R3116-6 (V)
+
+
+###### Article L10
+
+Toute personne qui exerce, dans un établissement ou organisme public ou privé de prévention ou de soins appartenant aux
+catégories dont la liste est établie par arrêté conjoint du ministre de la santé publique et de la population et du ministre
+du travail, une activité professionnelle l'exposant à des risques de contamination, doit être immunisée contre la variole,
+les fièvres typhoïde et paratyphoïde A et B, la diphtérie, le tétanos et la poliomyélite [*vaccinations obligatoires*].
+
+Les conditions de cette immunisation sont fixées par arrêté du ministre de la Santé publique et de la Population pris après
+consultation du Conseil supérieur d'hygiène publique et compte tenu, en particulier, des contre-indications médicales.
+
+Les dépenses entraînées par ces vaccinations sont à la charge des établissements ou organismes employeurs.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 51 : dispositions applicables aux ateliers et manufactures.*]    [*Nota - Ordonnance
+90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1363 1948-08-27 ART. 1 ET 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°64-643 1964-07-01 art. 2 JORF 2 juillet 1964
+
+	**Cité par**:
+
+	  - Décret n°72-162 du 21 février 1972 - art. Annexe art. 30 (Ab)
+	  - Décret n°73-502 du 21 mai 1973 - art. 1 (Ab)
+	  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - Arrêté du 28 janvier 1974 - art. 28 (V)
+	  - Loi n°79-520 du 2 juillet 1979 - art. 1 (Ab)
+	  - Arrêté du 27 novembre 1979 - art. 1 (V)
+	  - Arrêté du 30 août 1988 - art. 10 (V)
+	  - Arrêté du 13 septembre 1988 - art. 9 (V)
+	  - Arrêté du 12 décembre 1990 - art. 9 bis (V)
+	  - Arrêté du 6 février 1991 - art. 1 (Ab)
+	  - Arrêté du 6 février 1991 - art. 5 (Ab)
+	  - Arrêté du 6 février 1991 - art. 7 (Ab)
+	  - Arrêté du 23 août 1991 - art. 1 (Ab)
+	  - Arrêté du 18 mars 1992 - art. 15 (VT)
+	  - Arrêté du 27 septembre 1994 - art. 8 (M)
+	  - Arrêté du 4 janvier 1995 - art. Annexe (V)
+	  - Arrêté du 18 août 1995 - art. 6 (V)
+	  - Arrêté du 10 janvier 1996 - art. 6 (V)
+	  - Arrêté du 26 avril 1999 - art. 1 (Ab)
+	  - Arrêté du 26 avril 1999 - art. 7 (Ab)
+	  - Arrêté du 6 mai 2000 - art. 8 (V)
+	  - Arrêté du 9 janvier 2001 - art. ANNEXE 3 (V)
+	  - Arrêté du 6 mars 2007 - art. 7 (Ab)
+	  - Arrêté du 17 août 1984 - art. 12 (Ab)
+	  - Arrêté du 17 août 1984 - art. 2 (Ab)
+	  - Arrêté du 17 août 1984 - art. 7 (Ab)
+	  - Arrêté du 25 février 1977 - art. 31 (V)
+	  - Arrêté du 26 avril 1973 - art. 6 (Ab)
+	  - Arrêté du 28 juillet 1965 - art. 13 (Ab)
+	  - Arrêté du 28 juillet 1965 - art. 2 (Ab)
+	  - Arrêté du 28 juillet 1965 - art. 8 (Ab)
+	  - Code de la santé publique - art. L51 (Ab)
+	  - Code du travail - art. R231-65-1 (VT)
+	  - Code pénal - art. R131-28 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+	  - TXT_ASSOCIE: Arrêté du 6 février 1991
+	  - TXT_ASSOCIE: Arrêté du 6 février 1991 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 6 février 1991 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 6 février 1991 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 6 février 1991 - art. 4 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 6 février 1991 - art. 5 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 6 février 1991 - art. 6 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 6 février 1991 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 23 août 1991
+	  - TXT_SOURCE: Arrêté du 23 août 1991 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 23 août 1991 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 23 août 1991 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 avril 1999
+	  - TXT_SOURCE: Arrêté du 26 avril 1999 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 avril 1999 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 avril 1999 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 avril 1999 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 avril 1999 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 avril 1999 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 26 avril 1999 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 août 1984
+	  - TXT_SOURCE: Arrêté du 17 août 1984 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 août 1984 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 août 1984 - art. 11 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 août 1984 - art. 12 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 août 1984 - art. 13 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 août 1984 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 août 1984 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 août 1984 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 août 1984 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 août 1984 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 août 1984 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 août 1984 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 août 1984 - art. 9 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 10 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 11 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 12 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 13 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 14 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3111-4 (V)
+
+
+##### Section 2 : Autres mesures destinées à prévenir la propagation de certaines maladies transmissibles
+
+##### Paragraphe 1 : Déclaration à l'autorité sanitaire.
+
+###### Article L11
+
+La liste des maladies auxquelles sont applicables les dispositions du présent paragraphe concernant la déclaration des
+maladies contagieuses est dressée par décret pris sur le rapport du ministre de la Santé publique et de la Population, après
+avis de l'Académie nationale de médecine et du Conseil supérieur d'hygiène publique de France. Elle peut être révisée dans la
+même forme.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°60-95 du 29 janvier 1960 - art. 1 (Ab)
+	  - Décret n°86-770 du 10 juin 1986 - art. 1 (Ab)
+	  - Décret n°90-740 du 14 août 1990 - art. 1 (V)
+	  - Décret n°99-363 du 6 mai 1999 - art. 2 (Ab)
+	  - Décret n°2005-840 du 20 juillet 2005 - art. 6 (V)
+	  - Code de la santé publique - art. D11-1 (Ab)
+	  - Code de la santé publique - art. L12 (Ab)
+	  - Code de la santé publique - art. L14 (Ab)
+	  - Code de la santé publique - art. R11-1 (Ab)
+	  - Code de la santé publique - art. R11-3 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°86-770 du 10 juin 1986
+	  - TXT_SOURCE: Décret n°86-770 du 10 juin 1986 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°86-770 du 10 juin 1986 - art. 2 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+	  - TXT_SOURCE: Décret n°96-838 du 19 septembre 1996
+	  - TXT_SOURCE: Décret n°98-169 du 13 mars 1998
+	  - TXT_SOURCE: Décret n°99-362 du 6 mai 1999
+	  - TXT_SOURCE: Décret n°99-362 du 6 mai 1999 - art. 2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3113-1 (V)
+
+
+###### Article L12
+
+La déclaration à l'autorité sanitaire de tout cas de l'une des maladies déterminées dans les conditions prévues à l'article
+L. 11 ci-dessus est obligatoire, d'une part pour tout docteur en médecine qui en a constaté l'existence, d'autre part pour le
+principal occupant, chef de famille ou d'établissement des locaux où se trouve le malade et, à son défaut, dans l'ordre ci-
+après : pour le conjoint, l'ascendant le plus proche du malade ou toute autre personne résidant avec lui ou lui donnant des
+soins.
+
+Les causes de tout décès dû à l'une des maladies figurant sur la liste prévue à l'article L. 11 ci-dessus doivent être
+déclarées à l'autorité sanitaire dans les conditions prévues à l'alinéa précédent du présent article.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 ART. 1 ET 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°60-95 du 29 janvier 1960 - art. 1 (Ab)
+	  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - Décret n°86-770 du 10 juin 1986 - art. 1 (Ab)
+	  - Code de la santé publique - art. L13 (Ab)
+	  - Code de la santé publique - art. L48 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L11 (M)
+
+
+###### Article L13
+
+Un décret fixe les formes et conditions dans lesquelles doivent être faites les déclarations prévues à l'article L. 12 ci-
+dessus.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°60-95 du 29 janvier 1960 - art. 1 (Ab)
+	  - Décret n°86-770 du 10 juin 1986 - art. 1 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 4 () JORF 2 juillet 1998
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L12 (Ab)
+
+
+##### Paragraphe 2 : Mesures de désinfection.
+
+###### Article L14
+
+La désinfection est obligatoire pour tous les cas de maladies [*contagieuses*] prévues à l'article L. 11 ; les procédés de
+désinfection doivent être approuvés par le ministre de la Santé publique et de la Population, après avis du Conseil supérieur
+d'hygiène publique de France.
+
+Les mesures de désinfection sont mises à exécution, dans les villes de 20.000 habitants [*nombre*] et au-dessus, par les
+soins de l'autorité municipale suivant des arrêtés du maire approuvés par le préfet, et, dans les communes de moins de 20.000
+habitants, par les soins d'un service départemental.
+
+Les communes de moins de vingt mille habitants qui, facultativement, ont créé un bureau d'hygiène, peuvent être
+exceptionnellement autorisées par le ministre de la santé publique et de la population, après avis du conseil supérieur
+d'hygiène publique de France, à avoir un service autonome de désinfection. 
+
+Un décret en Conseil d'Etat détermine les conditions d'organisation et de fonctionnement du service de désinfection. 
+
+A défaut par les villes et les départements d'organiser les services de la désinfection et d'en assurer le fonctionnement, il
+y est pourvu par des décrets en forme de décret en Conseil d'Etat.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions du premier alinéa applicables à la collectivité territoriale
+de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°60-95 du 29 janvier 1960 - art. 1 (Ab)
+	  - Décret n°67-743 du 30 août 1967 - art. 1 (Ab)
+	  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - Décret n°86-770 du 10 juin 1986 - art. 1 (Ab)
+	  - Ordonnance no 90-570 du 25 juin 1990 portant exten - art. 1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
+	  - Code de la santé publique - art. L48 (Ab)
+	  - Code de la santé publique - art. L793-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°67-743 du 30 août 1967
+	  - TXT_SOURCE: Décret n°67-743 du 30 août 1967 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°67-743 du 30 août 1967 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°67-743 du 30 août 1967 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°67-743 du 30 août 1967 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°67-743 du 30 août 1967 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°67-743 du 30 août 1967 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°67-743 du 30 août 1967 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°67-743 du 30 août 1967 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°67-743 du 30 août 1967 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°67-743 du 30 août 1967 - art. 9 (Ab)
+	  - TXT_ASSOCIE: Décret n°73-502 1973-05-21 art. 2 : dispositions penales
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+	  - SPEC_APPLI: Code de la santé publique L51 : non applicable aux ateliers et manufactures
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L11 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3114-1 (M)
+	  - Code de la santé publique - art. L3114-6 (T)
+	  - Code de la santé publique - art. L3821-8 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 7, ART. 33, ART. 26
+	  - Loi n°1913-07-16
+
+
+###### Article L15
+
+Les dispositions de la loi du 28 octobre 1943 et des décrets et arrêtés ultérieurs, pris conformément aux dispositions de
+ladite loi, sont applicables aux appareils de désinfection.
+
+Un décret en Conseil d'Etat, pris après avis du Conseil supérieur d'hygiène publique de France, détermine les conditions que
+ces appareils doivent remplir au point de vue de l'efficacité des opérations à y effectuer.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+	  - SPEC_APPLI: Code de la santé publique L51 : non applicable aux ateliers et manufactures
+
+	**Cité par**:
+
+	  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3114-2 (V)
+	  - Code de la santé publique - art. L3114-6 (T)
+	  - Code de la santé publique - art. L3821-8 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 7
+
+	**Cite**:
+
+	  - loi 1943-10-28
+
+
+###### Article L16
+
+L'emploi des gaz toxiques figurant sur une liste de prohibition fixée par arrêté du ministre de la Santé publique et de la
+Population pris sur avis du Conseil supérieur d'hygiène publique, dans la destruction des insectes et des rats dans les
+locaux à usage d'habitation ou autre, ou dans la désinfection desdits locaux, est interdit.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 51 : dispositions applicables aux ateliers et manufactures.*]    [*Nota - Ordonnance
+90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°49-1531 1949-12-01 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°58-1303 1958-12-23 ART. 16 : CONTRAVENTIONS
+	  - TXT_ASSOCIE: Décret n°73-502 1973-05-21 ART. 2 : DISPOSITIONS PENALES
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Cité par**:
+
+	  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - Code de la santé publique - art. L51 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3114-3 (V)
+
+
+##### Section 3 : Mesures exceptionnelles en cas d'épidémie.
+
+###### Article L17
+
+En cas d'urgence, c'est-à-dire en cas d'épidémie ou d'un autre danger imminent pour la santé publique, le préfet [*autorité
+compétente*] peut ordonner l'exécution immédiate, tous droits réservés, des mesures prescrites par les règlements sanitaires
+prévus au chapitre Ier du présent titre.
+
+L'urgence doit être constatée par un arrêté du maire [*nature du texte*], et, à son défaut, par un arrêté du préfet, que cet
+arrêté spécial s'applique à une ou plusieurs personnes ou qu'il s'applique à tous les habitants de la commune.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Cité par**:
+
+	  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 106 (V)
+	  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
+	  - Code de la santé publique - art. R32-7 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L1 (M)
+	  - Code de la santé publique - art. L2 (M)
+	  - Code de la santé publique - art. L3 (Ab)
+	  - Code de la santé publique - art. L4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1311-4 (M)
+	  - Code de la santé publique - art. L1523-4 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 3
+
+
+###### Article L18
+
+Lorsqu'une épidémie menace tout ou partie du territoire ou s'y développe et que les moyens de défense locaux sont reconnus
+insuffisants, un décret [*nature du texte*] détermine, après avis du Conseil supérieur d'hygiène publique de France, les
+mesures propres à empêcher la propagation de cette épidémie. Il règle les attributions, la composition et le ressort des
+autorités et administrations chargées de l'exécution de ces mesures et leur délègue, pour un temps déterminé, le pouvoir de
+les exécuter. Les frais d'exécution de ces mesures, en personnel et en matériel, sont à la charge de l'Etat. les décrets et
+actes administratifs qui prescrivent l'application de ces mesures sont exécutoires dans les vingt-quatre heures à partir de
+leur publication au Journal officiel [*délai*].
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Cité par**:
+
+	  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3114-4 (Ab)
+	  - Code de la santé publique - art. R3116-7 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 8
+
+
+#### Chapitre 4 : Salubrité des immeubles
+
+###### Article L26
+
+Lorsqu'un immeuble, bâti ou non, attenant ou non à la voie publique, constitue soit par lui-même, soit par les conditions
+dans lesquelles il est occupé, un danger pour la santé des occupants ou des voisins, le préfet [*autorité compétente*], saisi
+par un rapport motivé du directeur départemental de la santé ou de son représentant, le directeur du service municipal chargé
+de l'hygiène de l'habitation concluant à l'insalubrité de tout ou partie de l'habitation, est tenu [*obligation*] dans le
+mois d'inviter le conseil départemental d'hygiène ou la commission des logements insalubres à Paris, dans la Seine, à donner
+son avis dans le délai de deux mois :
+
+1. Sur la réalité et les causes de l'insalubrité ;
+
+2. Sur les mesures propres à y remédier.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 7 () JORF 17 mai 1970
+	  - Loi n°57-248 1957-02-28 art. 1 JORF 1er mars 1957
+
+	**Cité par**:
+
+	  - Décret n°99-897 du 22 octobre 1999 - art. 21 (Ab)
+	  - Code de la voirie routière - art. L171-12 (V)
+	  - Loi n°1930-05-15 du 15 mai 1930 - art. 1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-26 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Anciens textes**:
+
+	  - Décret n°1938-05-24 art. 1
+	  - Loi n°1902-02-15 art. 12
+	  - Loi n°41-5335 1941-12-23
+
+
+###### Article L27
+
+Le rapport du directeur départemental de la santé ou de son représentant, contresigné par le préfet, est déposé au
+secrétariat général de la préfecture, à la disposition des intéressés. Dans le département de la Seine, ce rapport est déposé
+au bureau d'hygiène de l'habitation relevant de la préfecture de la Seine [*lieu*].
+
+Les propriétaires, usufruitiers, usagers et occupants sont avisés, au moins huit jours d'avance, à la diligence du préfet et
+par lettre recommandée [*condition de forme*], de la réunion du conseil départemental d'hygiène ou de la commission
+compétente en tenant lieu et ils produisent, dans ce délai, leurs observations.
+
+Ils doivent, s'ils en font la demande, être entendus par le conseil départemental d'hygiène ou la commission en tenant lieu,
+en personne ou par mandataire, et ils sont appelés aux visites et constatations des lieux.
+
+En cas d'avis contraire aux conclusions du rapport du directeur départemental de la santé ou de son représentant, cet avis
+est transmis au ministre chargé de la Santé publique, qui saisit le Conseil supérieur d'hygiène publique de France
+[*recours*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1938-05-24 art. 1
+	  - Loi n°1902-02-15 art. 12
+	  - Loi n°41-5335 1941-12-23
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-27 (M)
+	  - Code de la santé publique - art. L1331-32 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Modifié par**:
+
+	  - Loi n°57-248 1957-02-28 art. 2 JORF 1er mars 1957
+
+
+###### Article L28
+
+Si l'avis du conseil départemental d'hygiène ou de la commission qui en tient lieu ou, éventuellement, celui du conseil
+supérieur d'hygiène publique de France conclut à la réalité de l'insalubrité et à l'impossibilité d'y remédier, le préfet est
+tenu, dans le délai d'un mois, par arrêté [*mentions obligatoires*] :
+
+De prononcer l'interdiction définitive d'habiter en précisant, sur l'avis du conseil départemental d'hygiène ou de la
+commission qui en tient lieu ou, éventuellement, sur celui du conseil supérieur d'hygiène publique de France, si cette
+interdiction est immédiate ou applicable au départ des occupants ;
+
+De prescrire toutes mesures appropriées pour mettre les locaux situés dans l'immeuble hors d'état d'être habitables au fur et
+à mesure de leur évacuation et du relogement décent des occupants.
+
+Il peut, le cas échéant, ordonner la démolition de l'immeuble.
+
+L'arrêté du préfet précise le délai d'exécution de ces mesures.
+
+Dans le cas où il aurait été conclu à la possibilité de remédier à l'insalubrité, le préfet est tenu, dans le délai d'un
+mois, de prescrire par arrêté les mesures appropriées indiquées, ainsi que leur délai d'exécution, par l'avis du conseil
+départemental d'hygiène ou de la commission qui en tient lieu ou, éventuellement, par celui du Conseil supérieur d'hygiène ;
+le préfet pourra prononcer l'interdiction temporaire d'habiter. Cette interdiction d'habiter prendra fin dès la constatation
+de l'exécution de ces mesures par le maire ou l'autorité sanitaire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1938-05-24 art. 1
+	  - Loi n°1902-02-15 art. 12
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°57-248 1957-02-28 art. 3 JORF 1er mars 1957
+	  - Loi n°70-612 du 10 juillet 1970 - art. 1 () JORF 12 juillet 1970
+
+	**Cité par**:
+
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 10 (V)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 14 (M)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 16 (Ab)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 18 (M)
+	  - Arrêté du 5 juillet 1982 - art. 6 (V)
+	  - Arrêté du 30 décembre 1987 - art. 3 (V)
+	  - Arrêté du 29 avril 1993 - art. 4 (Ab)
+	  - Code de l'urbanisme - art. L430-3 (M)
+	  - Code de l'urbanisme - art. R*430-27 (Ab)
+	  - Code de la construction et de l'habitation. - art. R523-1 (Ab)
+	  - Code de la santé publique - art. L30 (Ab)
+	  - Code de la santé publique - art. L42 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-28 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
+###### Article L29
+
+texte supprimé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L32
+
+Lorsque, par suite de l'application des articles du présent chapitre, il y aura lieu à résiliation des baux, cette
+résiliation n'emportera, en faveur des locataires, aucun dommage-intérêt.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-31 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique L26 A L32
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 art. 17
+	  - Loi n°1915-06-17 art. 3
+
+
+#### Chapitre 5 : Salubrité des agglomérations
+
+##### Section 1 : Evacuation des eaux usées.
+
+###### Article L35-7
+
+texte abrogé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+##### Section 2 : Des ilôts insalubres
+
+###### Article L37
+
+L'insalubrité signalée par un avis du bureau d'hygiène ou du conseil départemental d'hygiène et, le cas échéant, par le
+comité de patronage des habitations à loyer modéré, est dénoncée par une délibération du conseil municipal appuyée sur un
+plan parcellaire des immeubles avec l'indication des noms des propriétaires tels qu'ils figurent à la matrice des rôles ainsi
+que, le cas échéant, sur un projet d'aménagement [*document obligatoire*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 51 : dispositions applicables aux ateliers et manufactures.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°55-560 1955-05-20 art. 27 JORF 21 mai 1955
+	  - Décret n°70-415 du 8 mai 1970 - art. 8 () JORF 17 mai 1970
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-18 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 art. 18
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L38
+
+Si le préfet [*autorité compétente*] prend en considération la délibération du conseil municipal, il saisit d'urgence de
+cette délibération le conseil départemental d'hygiène et l'invite à délibérer dans le délai qu'il lui impartit, sur
+l'insalubrité des immeubles. Le conseil départemental choisit dans son sein des rapporteurs qui, après avoir entendu les
+intéressés ou les avoir dûment appelés à produire leurs observations, présentent leurs conclusions. Le conseil départemental
+d'hygiène en délibère et déclare, pour chaque immeuble, s'il est salubre, totalement insalubre, ou partiellement insalubre.
+Dans le cas d'insalubrité et lorsqu'il est possible d'y remédier, il établit la liste des travaux nécessaires à cet effet.
+Lorsqu'il est impossible d'y remédier, le préfet prescrit les mesures appropriées pour mettre les locaux hors d'état d'être
+habités. La même délibération désigne les commerçants ou industriels et tous autres occupants dont les conditions
+d'exploitation ou d'occupation créent, de leur fait, une cause spéciale d'insalubrité [*procédure*].
+
+Le préfet pourra, le cas échéant, adjoindre au conseil départemental [*composition*], à titre de rapporteurs ayant voix
+consultative, des personnes particulièrement qualifiées.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 51 : dispositions applicables aux ateliers et manufactures.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°55-560 1955-05-20 art. 27 JORF 21 mai 1955
+	  - Loi n°70-612 du 10 juillet 1970 - art. 5 () JORF 12 juillet 1970
+
+	**Cité par**:
+
+	  - Loi n°70-612 du 10 juillet 1970 - art. 13 (M)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 14 (M)
+	  - Loi n°70-612 du 10 juillet 1970 - art. 18 (M)
+	  - Arrêté du 5 juillet 1982 - art. 6 (V)
+	  - Code de l'urbanisme - art. R*123-19 (M)
+	  - Code de la construction et de l'habitation. - art. L522-2 (V)
+	  - Code de la construction et de l'habitation. - art. R523-1 (Ab)
+	  - Code de la santé publique - art. L40 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-19 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 art. 18
+
+
+###### Article L39
+
+Le préfet notifie, par lettre recommandée, un extrait de la délibération du conseil départemental à chaque intéressé ; à
+partir de cette notification, dans tout immeuble déclaré totalement insalubre, le propriétaire ou le locataire principal ne
+devra ni renouveler un bail, ni relouer des locaux vacants [*interdiction*]. Il en sera de même pour les locaux insalubres
+dans un immeuble déclaré partiellement insalubre.
+
+Dans un délai de dix jours à dater de cette notification, tout intéressé pourra former un recours auprès du ministre de la
+Santé publique et de la Population, lequel statuera d'urgence après un avis du Conseil supérieur d'hygiène publique de
+France, qui interviendra dans un délai maximum de deux mois.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 51 : dispositions applicables aux ateliers et manufactures.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-20 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L40 (Ab)
+	  - Code de la santé publique - art. L45 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L45 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L45 : dispositions pénales
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 art. 18
+
+
+###### Article L40
+
+La délibération du conseil départemental, modifiée, le cas échéant, conformément à la décision du ministre de la Santé
+publique et de la Population, sera alors approuvée par un arrêté préfectoral dont un extrait sera notifié, par lettre
+recommandée, aux intéressés qui auront formé le recours prévu à l'article précédent [*procédure*].
+
+Si les travaux et mesures mentionnés à l'article L. 38 n'ont pas été exécutés dans le délai imparti par l'arrêté, le maire
+ou, à défaut, le préfet saisit le juge des référés qui autorise l'exécution d'office des travaux aux frais des propriétaires
+[*charge*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 51 : dispositions applicables aux ateliers et manufactures.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°70-612 du 10 juillet 1970 - art. 6 () JORF 12 juillet 1970
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la construction et de l'habitation. - art. R523-1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
+	  - Code de la santé publique - art. L41 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-21 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L38 (Ab)
+	  - Code de la santé publique - art. L39 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L41 : MODE DE RECOUVREMENT
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 art. 18
+
+
+#### CHAPITRE 7 : DISPOSITIONS DIVERSES
+
+##### Section 2 : Champ d'application du présent titre
+
+###### Article L51
+
+Le présent titre, à l'exception des articles L. 8, 9, 10, 16 et 36 à 43 ci-dessus, n'est pas applicable aux ateliers et
+manufactures [*installations classées*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L10 (M)
+	  - Code de la santé publique - art. L16 (M)
+	  - Code de la santé publique - art. L8 (Ab)
+	  - Code de la santé publique - art. L9 (Ab)
+	  - Code de la santé publique L8, L9, L10, L16, L36 A L43
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1311-5 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L35-5 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L49 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 art. 32
+
+
+### Titre 2 : Contrôle sanitaire aux frontières.
+
+###### Article L55
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°2000-55 du 19 janvier 2000 - art. 2 (Ab)
+	  - Décret n°2000-55 du 19 janvier 2000 - art. 3 (Ab)
+	  - Code de la sécurité sociale. - art. D615-1 (Ab)
+	  - Code de la sécurité sociale. - art. L321-1 (M)
+	  - Code de la sécurité sociale. - art. L615-14 (M)
+	  - Code de la sécurité sociale. - art. R322-1 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1411-2 (M)
+
+
+###### Article L56
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L57
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°76-1004 du 4 novembre 1976 - art. 23 (Ab)
+
+
+###### Article L58
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L59
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L60
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 27 septembre 1982 - art. 3 (M)
+
+
+###### Article L61
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L62
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L63
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L64
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L65
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L66
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L67
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L68
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L69
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L70
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L71
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L72
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L73
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L74
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L75
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L76
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L77
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L78
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L79
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L90
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L91
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L92
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L93
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L94
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L95
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L96
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L97
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L98
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L99
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L100
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L101
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L102
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L103
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L104
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L105
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L106
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L107
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L108
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L109
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L110
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L111
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L112
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L113
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L114
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L115
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L116
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°1949-12-01. du 1 décembre 1949 - art. 1 (T)
+
+
+###### Article L117
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L118
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L119
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L120
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L121
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L122
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L123
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L124
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L125
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L126
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L127
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L128
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L129
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L130
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L131
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L132
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L133
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+
+
+###### Article L134
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L135
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L136
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L137
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L138
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L139
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+### Titre 3 : Mesures d'hygiène particulières
+
+#### Chapitre unique
+
+##### Section 2 : Dispositions spéciales à certaines boissons
+
+###### Article L141
+
+La fabrication, la détention en vue de la vente, la mise en vente et la vente de toute boisson, visée au paragraphe 1er de
+l'article 1er de la loi du 24 septembre 1941, dans la préparation de laquelle interviennent des plantes, parties de plantes,
+extraits végétaux ou tout autre produit d'origine végétale, sont réglementées dans les conditions prévues à l'article ci-
+après.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 5 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°50-1013 du 22 août 1950 - art. 1 (V)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L142 (Ab)
+	  - Loi n°1941-09-24 art. 1
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3322-11 (M)
+	  - Code de la santé publique - art. L3322-11 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L144 : dispositions pénales
+
+	**Cité par**:
+
+	  - Code des débits de boissons et des mesures contre  - art. L8 (Ab)
+
+
+###### Article L142
+
+Des décrets en Conseil d'Etat pris sur le rapport du ministre de la santé publique et de la population, après avis du conseil
+supérieur d'hygiène publique de France et de l'académie nationale de médecine, déterminent les conditions d'application de la
+présente section. Ils établissent la liste des substances [*plantes ou extraits végétaux*] visées à l'article L. 141, les
+conditions de leur emploi et leur teneur maximum en produits actifs.
+
+Il ne peut être en rien dérogé par ces textes aux dispositions établies par les décrets en Conseil d'Etat pris en application
+des articles L. 214-1, L. 215-4 et L. 215-1 du code de la consommation.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 5 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+[*Nota : Loi 93-949 du 26 juillet 1993 art. 4 : les références à la loi du 1er août 1905 sont remplaçées par les références
+au code de la consommation correspondantes.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°50-1013 du 22 août 1950 - art. 2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°93-949 1993-07-26 art. 4
+	  - TXT_ASSOCIE: Code de la santé publique L144 : dispositions penales
+	  - TXT_ASSOCIE: Code des débits de boissons L1, L8
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la consommation - art. L214-1 (M)
+	  - Code de la consommation - art. L215-1 (M)
+	  - Code de la consommation - art. L215-4 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L141 (Ab)
+	  - Code des débits de boissons et des mesures contre  - art. L8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3322-11 (M)
+	  - Code de la santé publique - art. L3322-11 (V)
+
+
+## Livre Ier : Protection générale de la santé publique
+
+### Titre II : Contrôle sanitaire aux frontières.
+
+###### Article L80
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L81
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L82
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L83
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L84
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L85
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L86
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L87
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L88
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L89
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+## Livre 2 : Protection sanitaire de la famille et de l'enfance
+
+### Titre 1 : Protection maternelle et infantile.
+
+#### Chapitre 1 : Organisation administrative
+
+##### Section 1 : Institutions.
+
+###### Article L148
+
+La circonscription est pourvue d'un centre de protection maternelle et infantile et comprend autant de consultations de
+nourrissons et de consultations prénatales que l'exigent les besoins de la population. Les consultations de nourrissons et
+les consultations prénatales doivent, en principe, correspondre, chacune respectivement à 8.000 habitants [*nombre*] et
+20.000 habitants. Des consultations d'enfants du second âge doivent être également prévues dans toutes les circonscriptions.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 2 AL. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°72-180 du 7 mars 1972 - art. 2 (V)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 8 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 66 (Ab)
+	  - Code de la santé publique - art. L149 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2112-1 (V)
+
+
+###### Article L150
+
+Tout département doit être rattaché à un ou plusieurs centres de placement surveillés relevant du service de la protection
+maternelle et infantile qui exerce sur eux le contrôle sanitaire et social prévu par le présent titre.
+
+Lorsque la circonscription d'un de ces centres s'étend à plusieurs départements qui ont coopéré à sa création, le
+fonctionnement en est surveillé par le service de la protection maternelle et infantile du département où le centre est
+installé [*organisme compétent*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2720 du 2 novembre 1945 - art. 29, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab) JORF 24 juillet 1962
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
+	  - Décret n°92-784 du 6 août 1992 - art. 7 (Ab)
+	  - Décret n°92-785 du 6 août 1992 - art. 1 (Ab)
+	  - Décret n°92-785 du 6 août 1992 - art. 14 (Ab)
+	  - Arrêté du 7 juillet 1957 - art. 71 (VD)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2112-4 (V)
+
+
+##### Section 2 : Direction et coordination.
+
+###### Article L151
+
+Dans chaque département le service de la protection maternelle et infantile, au point de vue médico-social et administratif,
+est confié au directeur départemental de la Santé [*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 2 ET ART. 29
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2112-5 (V)
+
+
+###### Article L152
+
+Une assistante sociale-chef [*autorité compétente*] seconde le médecin chargé du service départemental de la protection
+maternelle et infantile, pour tout ce qui concerne le travail et la discipline du personnel des assistantes sociales
+concourant à l'application du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 2
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2112-6 (V)
+
+
+###### Article L153
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
+	  - Décret n°92-143 du 14 février 1992 - art. 1 (Ab)
+	  - Arrêté du 7 mai 1992 - art. 2 (Ab)
+	  - Arrêté du 7 mars 1997 - art. Unique (VD)
+	  - Code de la santé publique - art. L149 (Ab)
+	  - Code de la santé publique - art. L186 (Ab)
+	  - Code de la sécurité sociale. - art. L321-1 (M)
+	  - Code de la sécurité sociale. - art. L615-14 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 7 mai 1992
+	  - TXT_SOURCE: Arrêté du 7 mai 1992 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 7 mai 1992 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 7 mai 1992 - art. 3 (Ab)
+	  - SPEC_APPLI: Code de la sécurité sociale. - art. L321-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2121-1 (V)
+
+
+##### Section 3 : Dispositions spéciales du département de la Seine.
+
+###### Article L154
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°78-397 du 17 mars 1978 - art. 2 (Ab)
+	  - Décret n°92-143 du 14 février 1992 - art. 2 (Ab)
+	  - Code de la santé publique - art. L155 (Ab)
+	  - Code de la santé publique - art. L186 (Ab)
+	  - Code de la santé publique - art. L190 (Ab)
+	  - Code de la sécurité sociale. - art. D615-4 (Ab)
+	  - Code de la sécurité sociale. - art. L331-2 (M)
+	  - Code de la sécurité sociale. - art. L534-1 (Ab)
+	  - Code de la sécurité sociale. - art. R534-2 (Ab)
+	  - Code de la sécurité sociale. - art. R534-4 (Ab)
+	  - Code du service national - art. R*233-1 (V)
+	  - Code du travail - art. L122-25-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2122-1 (V)
+	  - Code de la santé publique - art. L2421-2 (V)
+
+
+#### Chapitre 2 : Du certificat prénuptial.
+
+###### Article L155
+
+Au cours de l'examen [*médical précédant le mariage*] prévu par le 2ème alinéa de l'article 63 du Code civil, l'attention du
+médecin doit se porter particulièrement sur les affections contagieuses ou chroniques susceptibles d'avoir des conséquences
+dangereuses pour le conjoint ou la descendance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Arrêté du 16 novembre 1990 - art. 1 (Ab)
+	  - Code de la santé publique - art. L149 (Ab)
+
+	**Cite**:
+
+	  - Code civil 63 AL. 2
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2122-2 (V)
+
+
+###### Article L156
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L186 (Ab)
+	  - Code de la sécurité sociale. - art. D615-4 (Ab)
+	  - Code de la sécurité sociale. - art. L331-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2122-3 (V)
+
+
+###### Article L157
+
+Un modèle de certificat prénuptial est établi par arrêté du ministre de la Santé publique et de la Population.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2122-4 (V)
+
+
+###### Article L158
+
+Les frais résultant de l'examen médical avant le mariage sont couverts [*charge financière*] :
+
+1° Par les caisses de sécurité sociale en ce qui concerne leurs affiliés et dans la mesure de leurs tarifs de
+responsabilité ;
+
+2° Par le service de l'aide médicale pour ceux qui bénéficient de ce mode d'assistance.
+
+Ces frais restent à la charge des intéressés eux-mêmes lorsqu'ils ne sont ni assurés sociaux, ni bénéficiaires de l'aide
+médicale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 10
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 12 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 3 () JORF 19 décembre 1989
+
+
+#### Chapitre 3 : Protection des futurs parents
+
+##### Section 1 : Examens médicaux.
+
+###### Article L159
+
+Toute femme enceinte doit, pour bénéficier des allocations de toute nature versées par l'Etat, par les collectivités
+publiques ou les établissements publics, par les caisses de sécurité sociale, suivre les conseils d'hygiène et de prophylaxie
+qui lui sont donnés par l'assistante sociale.
+
+Elle doit, en outre, dans les conditions fixées par arrêté du ministre de la Santé publique et de la Population, après avis
+de l'Académie nationale de médecine, faire l'objet d'au moins trois [*nombre*] examens au cours de sa grossesse, et d'un
+examen postnatal [*obligatoires*] dans les huit semaines qui suivent l'accouchement [*délai*].
+
+Le premier examen, qui se place avant la fin du troisième mois, est à la fois obstétrical et général ; il doit être effectué,
+ainsi que l'examen postnatal, par un médecin.
+
+Ces examens sont pratiqués :
+
+a) Soit par un médecin au choix de l'intéressé ;
+
+b) Soit par un médecin d'un centre de protection maternelle et infantile ;
+
+c) Soit par un médecin inscrit au service de l'aide médicale pour les bénéficiaires de ce mode d'assistance.
+
+Les frais d'examen sont répartis conformément aux règlements et lois en vigueur, notamment suivant les dispositions des
+articles 190 et 191 du Code de la famille et de l'aide sociale et suivant la législation sur les assurances sociales [*charge
+financière*].
+
+Un décret détermine, pour chacune des administrations intéressées, les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2720 du 2 novembre 1945 - art. 11, v. init.
+	  - Loi n°48-836 1948-05-17
+
+	**Cité par**:
+
+	  - Décret n°45-0179 du 29 décembre 1945 - art. 50 (Ab)
+	  - Décret n°46-2880 du 10 décembre 1946 - art. 26 (Ab)
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 42 (Ab)
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
+	  - Décret n°62-840 du 19 juillet 1962 - art. 7 (Ab)
+	  - Décret n°68-1009 du 19 novembre 1968 - art. 6 (Ab)
+	  - Arrêté du 27 août 1971 - art. 1 (V)
+	  - Décret n°77-663 du 27 juin 1977 - art. 3 (M)
+	  - Décret n°78-397 du 17 mars 1978 - art. 2 (M)
+	  - Décret n°82-1247 du 31 décembre 1982 - art. 4 (Ab)
+	  - Décret n°85-475 du 26 avril 1985 - art. 4 (Ab)
+	  - Décret n°85-475 du 26 avril 1985 - art. 6 (Ab)
+	  - Code de la santé publique - art. L190 (M)
+	  - Code de la sécurité sociale. - art. D615-4 (M)
+	  - Code de la sécurité sociale. - art. D615-8 (M)
+	  - Code de la sécurité sociale. - art. D722-15-4 (Ab)
+	  - Code de la sécurité sociale. - art. L531-2 (M)
+	  - Code de la sécurité sociale. - art. L534-1 (M)
+	  - Code de la sécurité sociale. - art. R531-4 (MMN)
+	  - Code de la sécurité sociale. - art. R531-6 (Ab)
+	  - Code de la sécurité sociale. - art. R534-2 (M)
+	  - Code de la sécurité sociale. - art. R534-4 (M)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab) JORF 24 juillet 1962
+
+	**Abrogé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 3 () JORF 19 décembre 1989
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale 190 ET 191
+
+
+###### Article L160
+
+Chaque fois que l'examen de la mère ou les antécédents familiaux le rendent nécessaire, il est également procédé, autant que
+possible au centre de protection maternelle et infantile, à un examen général du père accompagné de tous les examens de
+laboratoire, sérologiques ou autres, jugés utiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 13
+
+	**Cité par**:
+
+	  - Arrêté du 27 août 1971 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 3 () JORF 19 décembre 1989
+
+
+###### Article L161
+
+texte abrogé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
+
+
+##### Section 2 : Visites à domicile.
+
+###### Article L162
+
+Les assistantes sociales visitent à domicile les femmes enceintes dont l'état sanitaire ou la situation matérielle ou morale
+nécessite une protection particulière.
+
+Afin de permettre cette surveillance, les directeurs départementaux de la santé doivent être tenus informés, dans les
+conditions fixées par arrêté interministériel, par les organismes et services chargés du versement des prestations
+d'assurances maternité et des prestations familiales dans les divers régimes, des déclarations de grossesse que ceux-ci
+reçoivent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 14
+
+	**Modifié par**:
+
+	  - Loi n°64-677 1964-07-06 art. 1 JORF 8 juillet 1964
+
+	**Abrogé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 3 () JORF 19 décembre 1989
+
+
+#### Chapitre 4 : Protection des enfants
+
+##### Section 1 : Carnet de santé.
+
+###### Article L163
+
+Tout enfant est pourvu d'un carnet de santé délivré gratuitement par le maire lors de la déclaration de la naissance. Les
+enfants présentés dans les consultations de nourrissons et dans les centres de protection maternelle et infantile, s'ils
+n'ont pas encore reçu ce carnet, en sont pourvus par les soins de ces organismes.
+
+Un arrêté du ministre de la Santé publique et de la Population détermine la forme et le mode d'utilisation de ce carnet où
+seront mentionnés obligatoirement les résultats de ces examens préventifs prescrits par le présent titre et où seront
+également notées, au fur et à mesure, toutes les consultations importantes concernant la santé de l'enfant.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 19
+
+	**Cité par**:
+
+	  - Décret n°50-1225 du 21 septembre 1950 - art. 40 (M)
+	  - Décret n°62-840 du 19 juillet 1962 - art. 12 (Ab)
+	  - Décret n°73-267 du 2 mars 1973 - art. 1 (Ab)
+	  - Décret n°73-267 du 2 mars 1973 - art. 3 (Ab)
+	  - Arrêté du 2 mars 1995 - art. 1 (V)
+	  - Loi n°99-223 du 23 mars 1999 - art. 5 (Ab)
+	  - Code de la santé publique - art. L149 (Ab)
+	  - Code de la sécurité sociale. - art. L162-1-5 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 2 mars 1995
+	  - TXT_SOURCE: Arrêté du 2 mars 1995 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 2 mars 1995 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 2 mars 1995 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 2 mars 1995 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 2 mars 1995 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 2 mars 1995 - art. 6 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2132-1 (M)
+	  - Code de la santé publique - art. L2421-3 (V)
+
+
+##### Section 2 : Surveillance sanitaire et sociale.
+
+###### Article L164
+
+Jusqu'au début de l'obligation scolaire, tous les enfants sont l'objet d'une surveillance sanitaire préventive et, le cas
+échéant, d'une surveillance sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°64-677 1964-07-06 ART. 2 JORF 8 juillet 1964
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab) JORF 24 juillet 1962
+	  - Décret n°64-931 1964-09-03 ART. 1 JORF 10 septembre 1964
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2720 du 2 novembre 1945 - art. 15, v. init.
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
+	  - Décret n°62-840 du 19 juillet 1962 - art. 8 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 181-4 (Ab)
+	  - Code de la santé publique - art. L149 (Ab)
+	  - Code de la santé publique - art. L163 (Ab)
+	  - Code de la santé publique - art. L164-1 (P)
+	  - Code de la santé publique - art. L166 (Ab)
+	  - Code de la santé publique - art. L186 (Ab)
+	  - Code de la sécurité sociale. - art. D615-4 (Ab)
+	  - Code de la sécurité sociale. - art. L331-2 (M)
+	  - Code de la sécurité sociale. - art. L534-2 (Ab)
+	  - Code de la sécurité sociale. - art. L534-3 (Ab)
+	  - Code de la sécurité sociale. - art. L552-2 (M)
+	  - Code de la sécurité sociale. - art. R534-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2132-2 (V)
+
+
+###### Article L165
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2132-3 (V)
+
+
+###### Article L166
+
+Chaque fois qu'il est constaté, soit à la consultation de nourrissons, soit à l'occasion de la visite à domicile, que la
+santé de l'enfant est déficiente, l'assistante sociale doit engager la famille ou la personne à laquelle incombe la garde de
+l'enfant, à faire appel à un médecin et, le cas échéant, faire appuyer son avis par un médecin agréé par le service de la
+protection de l'enfance.
+
+De même, si la santé de l'enfant est compromise par l'absence de soins convenables, par de mauvais traitements ou de mauvais
+exemples, l'assistante sociale en rend compte simultanément et sans délai au médecin chef du centre de protection maternelle
+et infantile de la circonscription intéressée et au directeur départemental de la Santé [*autorités compétentes*]. Ce dernier
+provoque d'urgence toutes les mesures appropriées en vue de sauvegarder la santé ou la vie de l'enfant et, notamment, fait
+constater l'état de ce dernier par un médecin agréé par le service de protection de la maternité ou de l'enfance.
+
+**Nota:**
+
+[*Nota - Décret 62-840 du 19 juillet 1962 : ces obligations incombent aussi aux puéricultrices.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 17
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°62-840 1962-07-19
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 10 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 26-4 (Ab)
+	  - Code de la santé publique - art. L168 (Ab)
+	  - Code de la santé publique - art. L187 (Ab)
+
+
+###### Article L167
+
+Si un enfant tombe malade chez une nourrice ou une gardienne et que les parents n'aient pas pris de mesures nécessaires pour
+qu'il reçoive les soins médicaux, la nourrice ou la gardienne, après avoir appelé le médecin pour la première visite, en
+informe le maire qui prononce l'admission d'urgence à l'aide médicale sauf recours contre les parents et, éventuellement, le
+bureau des nourrices.
+
+Si l'enfant placé chez une nourrice ou une gardienne ne paraît pas recevoir tous les soins matériels ou moraux nécessaires,
+le directeur départemental de la Santé [*autorité compétente*] peut, après mise en demeure adressée aux parents, prononcer le
+retrait de l'enfant de chez la nourrice ou la gardienne et le placer provisoirement chez une autre personne. Il en réfère
+ensuite au préfet qui statue en ce qui concerne le placement définitif de l'enfant et le retrait du certificat de la nourrice
+prévu à l'article 170 ci-après. Il peut interdire, le cas échéant, à cette dernière, de recevoir de nouveaux enfants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 18
+
+	**Abrogé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 5 () JORF 19 décembre 1989
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L170 (Ab)
+
+
+###### Article L168
+
+Si le médecin appelé par l'assistante sociale dans les conditions prévues à l'article L. 166 [*santé déficiente ou mauvais
+traitements*] reconnaît, soit chez la nourrice, soit chez l'enfant, les symptômes d'une maladie susceptible d'être transmise
+[*contagieuse*], l'allaitement au sein peut être supprimé par décision du directeur départemental de la Santé, qui en avise
+immédiatement les parents.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 26
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 5 () JORF 19 décembre 1989
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L166 (M)
+
+
+##### Section 3 : Placement de l'enfant en nourrice ou en garde
+
+##### Paragraphe 1 : Conditions exigées des nourrices ou gardiennes.
+
+###### Article L169
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
+	  - Décret n°62-840 du 19 juillet 1962 - art. 11 (Ab)
+	  - Décret n°72-532 du 29 juin 1972 - art. 4 (V)
+	  - Décret n°78-474 du 29 mars 1978 - art. 9 (Ab)
+	  - Arrêté du 5 novembre 1975 - art. 19 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°77-505 1977-05-17 art. 5 JORF 18 mai 1977
+
+
+###### Article L170
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L167 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°77-505 1977-05-17 art. 5 JORF 18 mai 1977
+
+
+##### Paragraphe 2 : Déclarations obligatoires en cas de placement de l'enfant en nourrice ou en garde.
+
+###### Article L171
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L172
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°77-505 1977-05-17 art. 5 JORF 18 mai 1977
+
+
+###### Article L173
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°77-505 1977-05-17 art. 5 JORF 18 mai 1977
+
+
+###### Article L174
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+##### Paragraphe 3 : Salaire des nourrices ou gardiennes.
+
+###### Article L175
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°77-505 1977-05-17 art. 5 JORF 18 mai 1977
+
+
+#### Chapitre 5 : Du contrôle de certains établissements
+
+##### Section 1 : Etablissements d'hospitalisation recevant des femmes enceintes.
+
+###### Article L176
+
+Nul ne peut ouvrir ou diriger [*interdiction*] un établissement d'hospitalisation privé recevant habituellement à titre
+onéreux ou gratuit, et en nombre quelconque, des femmes en état réel, apparent ou présumé de grossesse, sans avoir obtenu
+l'autorisation préalable du préfet [*condition préalable*]. 
+
+Un décret en Conseil d'Etat fixe les conditions d'ouverture et de fonctionnement que devront remplir les établissements visés
+à l'alinéa précédent.
+
+Toute personne qui ouvre ou dirige sans autorisation un des établissements visés au présent article ou qui néglige de se
+conformer aux conditions de l'autorisation, est punie d'une amende de 3.600 F à 30.000 F [*montant*] ; l'établissement
+pourra, en outre, être fermé ; en cas de récidive dans les trois ans, le coupable sera puni, en outre, d'un emprisonnement de
+six jours à deux ans [*durée*], le tout sans préjudice des peines plus fortes encourues notamment du fait des crimes et
+délits par les articles 317, 345 à 351 du Code pénal et par les articles L. 647 et suivants du présent Code.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1939-07-29
+	  - Loi n°51-144 1951-02-11
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 11 () JORF 17 mai 1970
+	  - Loi n°75-17 du 17 janvier 1975 - art. 7 () JORF 18 janvier 1975
+
+	**Cité par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 55 (Ab)
+	  - Décret n°72-162 du 21 février 1972 - art. 1 (Ab)
+	  - Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+	  - Décret n°75-750 du 7 août 1975 - art. 2 (Ab)
+	  - Décret n°90-740 du 14 août 1990 - art. 6 (V)
+	  - Arrêté du 10 septembre 1992 - art. 7 (V)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+	  - CODE PENAL - art. 317 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 44 (M)
+	  - Code de la santé publique - art. L162-12 (Ab)
+	  - Code de la santé publique - art. L162-2 (Ab)
+	  - Code de la santé publique - art. L177 (Ab)
+	  - Code de la santé publique - art. L178 (Ab)
+	  - Code de la santé publique - art. L178-1 (Ab)
+	  - Code de la santé publique - art. L179 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°75-750 du 7 août 1975 - art. 9 (Ab)
+	  - TXT_SOURCE: Arrêté du 24 septembre 1975 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°80-632 du 5 août 1980
+	  - TXT_SOURCE: Décret n°80-632 du 5 août 1980 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°80-632 du 5 août 1980 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Code pénal 317, 345 A 351
+	  - Code de la santé publique L647 ET S.
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2322-1 (M)
+	  - Code de la santé publique - art. L2322-7 (Ab)
+
+
+###### Article L177
+
+Les établissements visés à l'article L. 176, autorisés ou non, sont soumis à la surveillance préfectorale exercée par le
+directeur départemental de la Santé ou par son adjoint et les commissaires de police [*autorités compétentes*]. Ces
+fonctionnaires peuvent pénétrer à toute heure, de jour et de nuit, dans les établissements susvisés et procéder à toutes
+investigations, constatations et enquêtes par eux jugées utiles [*droit de circulation*].
+
+Quiconque fait obstacle aux inspections prévues à l'alinéa précédent sera puni de six jours à six mois d'emprisonnement
+[*durée*] et d'une amende de 1.800 F à 20.000 F [*montant*]. La fermeture de l'établissement peut, en outre, être prononcée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°72-162 du 21 février 1972 - art. 1 (Ab)
+	  - Loi n°79-1140 du 29 décembre 1979 - art. 10 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 44 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L176 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1939-07-29 ART. 94
+
+
+###### Article L178
+
+Le préfet [*autorité compétente*] peut, sur rapport du médecin inspecteur départemental de la santé, prononcer le retrait de
+l'autorisation prévue à l'article L. 176 [*sanction*] si l'établissement cesse de remplir les conditions fixées par le décret
+prévu audit article ou s'il contrevient aux dispositions des articles L. 162-6, 2ème alinéa, et L. 162-9 à L. 162-11
+[*relatives à l'interruption de la grossesse*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°72-162 du 21 février 1972 - art. 1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 44 (M)
+
+	**Modifié par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 7 () JORF 18 janvier 1975
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L162-10 (M)
+	  - Code de la santé publique - art. L162-11 (M)
+	  - Code de la santé publique - art. L162-9 (M)
+	  - Code de la santé publique - art. L176 (M)
+	  - Code de la santé publique L162-6 AL. 2, L162-9, L162-10, L162-11, L176
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2322-3 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°1939-07-29 ART. 95
+
+
+###### Article L179
+
+Toute publicité de caractère commercial, sous quelque forme que ce soit, concernant ouvertement ou d'une manière déguisée la
+grossesse ou l'accouchement est interdite, sauf en faveur des établissements autorisés dans les conditions de l'article L.
+176 de la présente section, ainsi que dans les publications exclusivement réservées au corps médical.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°72-162 du 21 février 1972 - art. 1 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 44 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L176 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2322-5 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°1939-07-29 ART. 96
+
+
+##### Section 2 : Etablissements concourant à la protection, à la garde ou au placement des enfants du premier et du second âge.
+
+###### Article L180
+
+Le contrôle du directeur départemental de la Santé, au point de vue médical et technique, et celui des inspecteurs principaux
+des directions départementales de la Population, au point de vue administratif et financier s'exerce sur tous les
+établissements ainsi que sur les particuliers qui concourent à la protection, à la garde ou au placement des enfants du
+premier et du second âge.
+
+Les établissements et services publics et privés ou les particuliers visés au premier alinéa du présent article ne peuvent
+exercer leur activité sans une autorisation [*obligatoire*] délivrée par le préfet, après avis du directeur départemental de
+la santé.
+
+Toute décision de refus doit être motivée.
+
+Le directeur départemental de la Santé a qualité pour faire vérifier à tout moment l'état de santé des personnes qui, en
+exerçant soit pour leur propre compte, soit au service d'autrui l'une des activités visées ci-dessus, se trouvent en contact
+avec des enfants [*contrôle de l'encadrement*].
+
+Si les examens qu'il aura prescrits, dans les conditions fixées par arrêté du ministre de la Santé publique et de la
+Population [*autorité compétente*] relèvent que les personnes examinées sont atteintes d'une affection contagieuse, les
+malades ainsi dépistés devront interrompre leur activité [*interdiction*] jusqu'à la disparition complète des risques de
+contagion.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 31
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°64-677 1964-07-06 art. 5 I ET II JORF 8 juillet 1964
+
+	**Cité par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 17 (V)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 9 (Ab)
+	  - Arrêté du 12 août 1952 - art. 26 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 199 quater D (M)
+	  - Code de la santé publique - art. L181 (Ab)
+	  - Code de la santé publique - art. L182 (Ab)
+	  - Code de la santé publique - art. L183 (Ab)
+	  - Code de la santé publique - art. R215-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2324-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L181 : SANCTIONS
+
+
+#### Chapitre 6 : Financement.
+
+###### Article L182
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 10 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2324-3 (V)
+
+
+###### Article L183
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2326-4 (V)
+
+
+###### Article L184
+
+Le préfet [*autorité compétente*], sur proposition du directeur départemental de la santé, arrête les prévisions de recettes
+et les dépenses du service et provoque l'inscription des crédits au budget départemental.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 45
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°83-663 du 22 juillet 1983 - art. 50 () JORF 23 JUILLET 1983
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2323-1 (V)
+
+
+###### Article L186
+
+Le contrôle financier est effectué par le directeur départemental de la Population et de l'Entraide sociale [*autorité
+compétente*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°92-785 du 6 août 1992 - art. 17 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 11 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2112-7 (V)
+
+
+#### Chapitre 7 : Dispositions diverses.
+
+###### Article L187
+
+L'article 378 du Code pénal relatif au secret professionnel est applicable à toute personne appelée à collaborer à la
+protection de la maternité et de la première enfance, notamment aux assistantes sociales et aux nourrices et gardiennes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2720 du 2 novembre 1945 - art. 47, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code pénal 378
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2112-8 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. L174-13 (V)
+
+
+###### Article L188
+
+Les préfets adressent chaque année [*périodicité*] au ministre de la Santé publique et de la Population un rapport sur le
+fonctionnement du service de la protection maternelle et infantile.
+
+Le ministre de la Santé publique et de la Population publie tous les cinq ans au Journal officiel un rapport sur l'exécution
+du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 48
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2112-9 (V)
+
+
+###### Article L189
+
+Des décrets fixent les conditions d'application du présent titre, notamment en ce qui concerne la surveillance sanitaire des
+enfants fréquentant les écoles maternelles, après accord avec le ministre de l'Education nationale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2720 1945-11-02 ART. 49
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 73 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique L146 A L190-1
+
+	**Abrogé par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 9 () JORF 19 décembre 1989
+
+
+### Titre 2 : Santé scolaire et universitaire.
+
+###### Article L191
+
+Au cours de leur sixième année [*âge*], les enfants sont obligatoirement soumis à une visite médicale. Cette visite, à
+laquelle les parents ou tuteurs sont tenus, sur convocation administrative, de présenter les enfants, ne donne pas lieu à
+contribution pécuniaire de la part des familles [*frais*].
+
+Des examens périodiques sont ensuite effectués pendant tout le cours de la scolarité et la surveillance sanitaire des élèves
+est exercée avec le concours d'un service social.
+
+Des décrets pris en Conseil d'Etat fixent la participation des familles et des collectivités publiques aux dépenses
+occasionnées par les examens médicaux périodiques des élèves des divers ordres d'enseignement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2407 1945-10-18 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°88-520 du 3 mai 1988 - art. 1 (Ab)
+	  - Décret n°88-520 du 3 mai 1988 - art. 11 (Ab)
+	  - Décret n°88-520 du 3 mai 1988 - art. 2 (Ab)
+	  - Décret n°88-520 du 3 mai 1988 - art. 3 (Ab)
+	  - Code de la santé publique - art. L151 (Ab)
+	  - Code de la santé publique - art. L193 (Ab)
+	  - Code de la santé publique - art. L194 (Ab)
+	  - Code de la santé publique - art. L197 (Ab)
+	  - Code de la santé publique - art. L198 (Ab)
+	  - Code de la santé publique - art. L198-1 (Ab)
+	  - Code de la santé publique - art. L215 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. L541-1 (V)
+	  - Code de l'éducation - art. L831-3 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L197 : SANCTIONS
+
+
+###### Article L192
+
+Tous les membres du personnel des établissements d'enseignement et d'éducation, publics ou privés et toutes les personnes se
+trouvant en contact habituel avec les élèves dans l'enceinte desdits établissements, sont obligatoirement soumis, et au moins
+tous les deux ans [*périodicité*] à un examen médical de dépistage des maladies contagieuses.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2407 1945-10-18 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. L541-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L193 (Ab)
+	  - Code de la santé publique - art. L197 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L197 : SANCTIONS
+
+
+###### Article L193
+
+Dans chaque chef-lieu de département et d'arrondissement, dans chaque commune de plus de 5.000 habitants [*nombre*] et dans
+les communes désignées par arrêté ministériel, un ou plusieurs centres médico-sociaux scolaires sont organisés pour les
+visites [*médicales*] et examens prescrits aux articles 191 et 192 ci-dessus [*lieu*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2407 1945-10-18 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. L541-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L191 (M)
+	  - Code de la santé publique - art. L192 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L194 (Ab)
+
+
+###### Article L194
+
+Le contrôle médical des activités physiques et sportives scolaires et universitaires est assuré dans les conditions définies
+aux articles 191 et 193 du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2407 1945-10-18 ART. 10
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. L541-4 (V)
+	  - Code de l'éducation - art. L831-2 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L191 (M)
+	  - Code de la santé publique - art. L193 (M)
+
+
+###### Article L195
+
+Il est établi un casier sanitaire des locaux et dépendances de tous les établissements d'enseignement et d'éducation tant
+publics que privés [*renseignements*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2407 1945-10-18 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+
+###### Article L196
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L198
+
+Des décrets déterminent les modalités d'application du présent titre, et notamment les conditions d'organisation et de
+fonctionnement du service médical et du service social concernant la population scolaire. Ceux qui touchent à des questions
+de doctrine médicale seront pris après avis de l'académie nationale de médecine.
+
+Des décrets déterminent également les sanctions disciplinaires applicables aux étudiants et élèves de l'enseignement
+supérieur en cas d'infraction aux dispositions de l'article 191 ci-dessus [*examens médicaux périodiques obligatoires*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2407 1945-10-18 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. L541-5 (V)
+	  - Code de l'éducation - art. L831-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L191 (M)
+
+
+## Livre 3 : Lutte contre les fléaux sociaux
+
+### Titre 1 : Lutte contre la tuberculose
+
+###### Article L214
+
+La lutte contre la tuberculose comprend :
+
+1° La prophylaxie assurée par :
+
+a) La vaccination par le B.C.G. ;
+
+b) Les dispensaires antituberculeux ;
+
+c) Les placements familiaux surveillés.
+
+2° Le traitement des malades dans des établissements spécialisés :
+
+a) Les centres départementaux de phtisiologie ;
+
+b) Les établissements de cure et de prophylaxie.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 14 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 15.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Code de la famille et de l'aide sociale. - art. 124-2 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 15 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 art. 1
+
+
+#### Chapitre 1 : Prophylaxie
+
+##### Section 1 : Vaccination par le B.C.G. et dispositions pénales.
+
+###### Article L215
+
+Sont soumises à la vaccination obligatoire par le vaccin antituberculeux B.C.G., sauf contre-indications médicales reconnues
+dans les conditions fixées par décret en Conseil d'Etat prévu à l'article L. 217-3 ci-après, les personnes comprises dans les
+catégories de la population ci-après : 
+
+1° Les enfants du premier âge et du deuxième âge placés en maisons maternelles, crèches, pouponnières ou en nourrice ;
+
+2° Les enfants vivant dans un foyer où vit également un tuberculeux recevant, à ce titre, des prestations des collectivités
+publiques ou des organismes de sécurité sociale ; 
+
+3° Les enfants d'âge scolaire fréquentant les établissements d'enseignement et d'éducation de tous ordres, visés par le titre
+II du livre II du présent code ;
+
+4° Les étudiants se préparant au certificat de physique-chimie-biologie, les étudiants en médecine et en art dentaire, les
+élèves des écoles d'infirmiers, d'infirmières, d'assistants, d'assistantes sociales ou de sages-femmes ;
+
+4° bis Les étudiants ou élèves des divers ordres d'enseignement autres que ceux mentionnés au 4° ci-dessus, qui sont inscrits
+dans un des établissements, écoles ou classes, définis par l'article 566 du Code de la sécurité sociale.
+
+5° Les personnels des établissements hospitaliers publics et privés ;
+
+6° Les personnels des administrations publiques ;
+
+7° Les militaires des armées de terre, de mer et de l'air ;
+
+8° Les personnels des entreprises industrielles et commerciales et, particulièrement, les personnes travaillant dans un
+milieu insalubre ou qui manipulent des denrées alimentaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°50-7 1950-01-05 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°64-417 du 5 mai 1964 - art. 1 (Ab)
+	  - Décret n°64-417 du 5 mai 1964 - art. 2 (Ab)
+	  - Arrêté du 27 novembre 1979 - art. 1 (V)
+	  - Arrêté du 12 décembre 1990 - art. 9 bis (V)
+	  - Arrêté du 30 mars 1992 - art. Annexe 1 (V)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 16 (Ab)
+	  - Arrêté du 10 janvier 1996 - art. 6 (V)
+	  - Code de la santé publique - art. L216 (Ab)
+	  - Code de la santé publique - art. L217-1 (Ab)
+	  - Code de la santé publique - art. L217-2 (Ab)
+	  - Code du travail - art. R231-65-1 (VT)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L217-3 (Ab)
+	  - Code de la santé publique L217-3, L191 A L198
+	  - Code de la sécurité sociale L566
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3112-1 (V)
+	  - Code de la santé publique - art. L3821-6 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L216 : exception
+	  - SPEC_APPLI: Décret n°64-415 1964-05-05 : date d'application fixée au 1er janvier 1964 en ce qui concerne les personnels visés aux 6° et 8° du présent article
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1359 1958-12-27 art. 1 JORF 30 décembre 1958
+
+
+###### Article L216
+
+Les personnes visées à l'article L. 215 ci-dessus ne sont soumises à la vaccination que si elles présentent des réactions
+tuberculiniques négatives. Toutefois, les nouveau-nés peuvent être vaccinés sans que cette condition soit remplie.
+
+Les personnes âgées de plus de vingt-cinq ans ne sont pas soumises à la vaccination obligatoire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 14 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°50-7 1950-01-05 art. 2
+	  - Code de la santé publique - art. L217 (T)
+	  - Code de la santé publique - art. L247 (T)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 30 mars 1992 - art. Annexe 1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L215 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3112-2 (V)
+	  - Code de la santé publique - art. L3821-6 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+
+###### Article L217
+
+Des centres de vaccination sont organisés par le ministre de la Santé publique et de la Population.
+
+La vaccination dispensée dans ces centres est gratuite.
+
+Les assujettis à la vaccination conservent la faculté de se faire vacciner à leurs frais en dehors des centres prévus par le
+premier alinéa du présent article.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 14 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 17.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°50-7 1950-01-05 ART. 3
+	  - Code de la santé publique - art. L218 (T)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L216 (Ab)
+	  - Code de la santé publique - art. L3116-4 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L217-3 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 17 (Ab)
+
+	**Transféré par**:
+
+	  - Loi n°94-43 1994-01-19 art. 1 III JORF 19 janvier 1994
+
+
+###### Article L218
+
+Sera puni des sanctions prévues à l'article 471 du Code pénal quiconque refuse de se soumettre ou de soumettre ceux dont il a
+la garde ou la tutelle, aux prescriptions des articles de la présente section ou qui en aura entravé l'exécution.
+
+En cas de récidive, les sanctions applicables seront celles prévues par l'article 475 du même code.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 14 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°50-7 1950-01-05 art. 5
+	  - Code de la santé publique - art. L219 (T)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code pénal 471, 475, (R26, R30)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L217 (Ab)
+	  - Code de la santé publique - art. L217 (T)
+	  - Code de la santé publique - art. L3112-4 (Ab)
+
+	**Transféré par**:
+
+	  - Loi n°94-43 1994-01-19 art. 1 III JORF 19 janvier 1994
+
+
+##### Section 2 : Dispensaires antituberculeux
+
+###### Article L219
+
+Les dispensaires antituberculeux [*mission*] sont destinés à assurer dans le cadre du département la prophylaxie
+individuelle, familiale et collective de la tuberculose.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 14 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 19.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 19 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L218 (Ab)
+	  - Code de la santé publique - art. L218 (T)
+	  - Code de la santé publique - art. L3112-3 (V)
+
+	**Transféré par**:
+
+	  - Loi n°94-43 1994-01-19 art. 1 III JORF 19 janvier 1994
+
+
+###### Article L220
+
+Le préfet [*autorité compétente*] dresse la liste et fixe la circonscription des dispensaires antituberculeux de son
+département.
+
+Cette liste ne devient définitive qu'après décision du ministre de la Santé publique et de la Population prise sur avis de la
+commission de la tuberculose du conseil permanent d'hygiène sociale.
+
+Les organismes ne figurant pas sur cette liste ne peuvent prendre ou conserver le titre de dispensaire antituberculeux ou
+toute autre appellation de nature à créer une confusion avec les dispensaires inscrits [*condition d'attribution*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°95-43 du 10 janvier 1995
+	  - TXT_SOURCE: Décret n°95-43 du 10 janvier 1995 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°95-43 du 10 janvier 1995 - art. 2 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°95-43 du 10 janvier 1995 - art. 1 (Ab)
+	  - Décret n°95-43 du 10 janvier 1995 - art. 2 (Ab)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+	  - Code de la santé publique - art. L249 (Ab)
+	  - Code de la santé publique - art. R5115-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3112-5 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+
+###### Article L221
+
+Les dispensaires antituberculeux sont organisés dans chaque département par décision spéciale du ministre de la Santé
+publique et de la Population [*autorité compétente*] et relèvent du service départemental d'hygiène sociale. Ce service gère
+les dispensaires départementaux et passe avec les collectivités publiques ou privées et les particuliers dont dépendent les
+autres dispensaires, les conventions nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 4
+
+
+###### Article L222
+
+L'organisation du service médical et du service social des dispensaires antituberculeux doit correspondre aux besoins du
+service. Les assistantes sociales affectées à ces organismes doivent être titulaires du diplôme d'Etat [*condition*],
+accordées à titre transitoire par le ministre de la Santé publique et de la Population.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 5
+
+
+###### Article L223
+
+Les réinsufflations de pneumothorax artificiel peuvent être effectuées par les dispensaires dans les conditions fixées par
+arrêté du ministre de la Santé publique et de la Population. Elles ne donnent lieu à aucune redevance pour les bénéficiaires
+de l'aide médicale [*gratuité*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 6
+
+
+###### Article L224
+
+En cas de fermeture définitive ou de disparition d'un dispensaire, les ressources spécialement affectées à ce dispensaire
+seront dévolues à un ou plusieurs dispensaires existants, sauf revendications légitimes.
+
+Lorsqu'il s'agit d'un dispensaire créé par une société de secours mutuels, la dissolution est opérée conformément à la
+législation et à la réglementation applicables à la société gestionnaire et à ses statuts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 7
+
+
+##### Section 3 : Placements familiaux surveillés.
+
+###### Article L225
+
+Un arrêté du ministre de la Santé publique et de la Population détermine les conditions dans lesquelles s'exerce la
+surveillance des enfants qui, pour être soustraits à la contamination, sont l'objet de placements familiaux surveillés.
+
+Les dispositions de l'article 10 de l'ordonnance du 31 octobre 1945 sont applicables à ceux de ces enfants qui ont été placés
+à la demande du médecin phtisiologue départemental.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Cite**:
+
+	  - Ordonnance 1945-10-31 ART. 10
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2575 du 31 octobre 1945 - art. 15, v. init.
+
+
+#### Chapitre 2 : Traitement
+
+##### Section 1 : Centres départementaux de phtisiologie.
+
+###### Article L226
+
+Tout hôpital du chef-lieu du département doit comporter [*obligation*] un centre de phtisiologie. Ce centre doit être doté de
+l'outillage nécessaire pour pratiquer les traitements médicaux et, éventuellement, chirurgicaux, et comprendre des lits
+d'hospitalisation dont le nombre maximum est fixé, sur la proposition du médecin phtisiologue départemental, par le ministre
+de la Santé publique et de la Population, après avis du médecin consultant régional de phtisiologie et de la commission de la
+tuberculose.
+
+L'organisation de chaque centre et son emplacement urbain ou suburbain seront fixés par le ministre de la Santé publique et
+de la Population dans les formes prévues ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L243 (Ab)
+	  - Code de la santé publique - art. L253 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2575 du 31 octobre 1945 - art. 19, v. init.
+
+
+###### Article L227
+
+A titre transitoire et jusqu'à une date qui sera fixée par décret, les hôpitaux et hospices pourront être tenus
+d'hospitaliser, dans des salles spéciales, des malades atteints de tuberculose désignés par le médecin phtisiologue
+[*obligation*].
+
+Les salles ainsi spécialisées dans les hôpitaux et hospices seront placées sous le contrôle médical d'un médecin des services
+antituberculeux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°74-27 du 14 janvier 1974 - art. 37 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 20
+
+
+##### Section 2 : Etablissements de cure
+
+##### Paragraphe 1 : Dispositions générales.
+
+###### Article L228
+
+Des décrets pris sur le rapport du ministre de la Santé publique et de la Population fixeront, en fonction de la mortalité
+tuberculeuse, le nombre de lits de sanatorium, de préventorium et d'aérium que chaque département est tenu d'avoir à sa
+disposition pour le traitement de ses malades.
+
+Ces disponibilités sont constituées, d'une part, par les lits existants dans les établissements dont le département est
+propriétaire et, d'autre part, par ceux dont il pourra disposer en vertu de conventions passées avec les collectivités
+intéressées. Ces conventions seront soumises à l'approbation du ministre de la Santé publique et de la Population.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 17
+
+
+###### Article L229
+
+Les sanatoriums, préventoriums et aériums se répartissent en trois catégories :
+
+1° Les sanatoriums, préventoriums et aériums publics gérés par l'Etat, les départements, les communes ou les établissements
+publics ;
+
+2° Les sanatoriums, préventoriums et aériums gérés par les associations reconnues d'utilité publique, les sociétés de secours
+mutuels et les organismes d'assurances sociales qui, par décision du ministre de la Santé publique et de la Population, ont
+été assimilés aux sanatoriums, préventoriums et aériums publics, et se trouvent, de ce fait, soumis aux dispositions
+applicables à cette catégorie d'établissements ;
+
+3° Les sanatoriums, préventoriums et aériums privés, gérés soit par les collectivités privées, en dehors des conditions
+prévues au paragraphe précédent, soit par des particuliers. Ces établissements ne peuvent être ouverts sans une autorisation
+délivrée par le ministre de la Santé publique et de la Population [*condition préalable*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 18
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°61-607 du 14 juin 1961 - art. 2 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+
+###### Article L230
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°46-1834 du 20 août 1946 - art. 7 (Ab)
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
+
+
+##### Paragraphe 2 : Sanatoriums.
+
+###### Article L231
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L250 (Ab)
+
+
+###### Article L232
+
+Tout sanatorium doit être en mesure d'assurer un service social, soit par une assistante sociale dépendant directement de
+l'établissement, soit avec le concours d'une assistante mise partiellement à sa disposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 9
+
+
+##### Paragraphe 3 : Etablissements de postcure.
+
+###### Article L233
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+##### Paragraphe 4 : Préventoriums
+
+###### Article L234
+
+Les préventoriums sont des établissements organisés pour l'application de la cure hygiéno-diététique comprenant, avec
+l'aération continue, une cure de repos associée à l'entraînement physique et intellectuel, en régime d'internat, sous une
+surveillance médicale constante. 
+
+Ils sont destinés à recevoir des enfants, des adolescents ou des adultes des deux sexes : 
+
+1° Présentant une réaction tuberculinique positive et convalescents de primo-infection tuberculeuse récente, accompagnée
+d'une atteinte de l'état général, ou d'une manifestation localisée d'adénopathie médiastine, notamment des convalescents de
+pleurésie sérofibrineuse, d'érythème noueux ; 
+
+2° Présentant des adénopathies périphériques ou des tuberculoses externes non suppurées ne relevant pas d'un traitement
+chirurgical ou orthopédique. 
+
+Les sujets atteints d'affections prévues aux deux alinéas précédents ne peuvent être admis qu'après disparition de la fièvre,
+des symptômes d'évolutivité et lorsqu'ils ne sont pas contagieux   .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 13
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L250 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+
+##### Paragraphe 5 : Aériums
+
+###### Article L235
+
+Les aériums    sont des établissements affectés aux enfants qui sont exposés à la tuberculose, mais qui ne relèvent pas du
+préventorium. 
+
+Ces enfants appartiennent à une des catégories suivantes : 
+
+1° Enfants relevant d'une affection médicale ou chirurgicale entraînant une longue convalescence ; 
+
+2° Enfants dont l'état général est atteint ; 
+
+3° Enfants devant être soustraits à la contamination et séparés du milieu familial.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L250 (Ab)
+	  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 14
+
+
+##### Section 3 : Mode de placement.
+
+###### Article L236
+
+Un bureau central ayant pour objet de faciliter le placement des tuberculeux dans les établissements de cure sera organisé
+par le Comité national de défense contre la tuberculose, avec des ressources et suivant des modalités fixées par convention
+entre ledit comité et le ministre de la Santé publique et de la Population.
+
+Le bureau central rassemblera et tiendra à jour, pour les besoins des médecins phtisiologues départementaux, une
+documentation complète sur l'équipement antituberculeux, notamment sur le nombre de lits disponibles dans les sanatoriums,
+préventoriums, aériums publics, assimilés et privés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2575 du 31 octobre 1945 - art. 21, v. init.
+
+
+###### Article L237
+
+Pour les personnes de toutes catégories examinées préalablement par un dispensaire, le choix de l'établissement de cure est
+fait par le médecin phtisiologue départemental qui décide également l'envoi dans l'établissement désigné [*autorité
+compétente*].
+
+Aussitôt la décision prise, le transport du malade est assuré par les soins du service départemental d'hygiène sociale dans
+le ressort duquel se trouve la résidence du tuberculeux. Le préfet du département de la résidence prononce sans délai
+l'admission au bénéfice des dispositions de l'article 10 de l'ordonnance du 31 octobre 1945. La décision est éventuellement
+soumise à la ratification de la commission cantonale d'assistance [*commission d'admission*].
+
+Jusqu'à l'intervention de la décision relative à l'imputation de la dépense, le payement du prix de journée et des frais de
+transport est assuré par le département de la résidence, sauf recouvrement ultérieur soit sur le département du domicile de
+secours, soit sur l'Etat, soit sur les collectivités publiques ou privées, ou les particuliers tenus à l'obligation
+alimentaire envers les malades, soit sur ces derniers eux-mêmes ou leurs répondants [*charge financière*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°74-27 du 14 janvier 1974 - art. 37 (Ab)
+	  - Code des pensions militaires d'invalidité et des v - art. D69 (M)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Cite**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 10
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 11
+
+
+##### Section 4 : Prix de journée.
+
+###### Article L238
+
+Les prix de journée des sanatoriums, préventoriums et aériums publics ou assimilés sont fixés, pour les malades de toutes
+catégories, selon la réglementation en vigueur dans les établissements publics hospitaliers. Toutefois, sont comprises dans
+les éléments du prix de journée des sanatoriums, préventoriums et aériums publics ou assimilés [*calcul, montant*], les
+rémunérations allouées à tout médecin, chirurgien et spécialiste sous les réserves qui sont fixées par un décret en Conseil
+d'Etat en ce qui concerne les honoraires dus aux médecins, chirurgiens et spécialistes venus de l'extérieur pour soins donnés
+aux malades payants non assurés sociaux soignés dans les établissements privés non assimilés.
+
+La décision portant fixation du prix de journée est prise par le préfet du département siège de l'établissement. Toutefois,
+s'il s'agit d'un sanatorium, préventorium ou aérium qui appartient soit exclusivement, soit en copropriété à un ou plusieurs
+départements, la décision n'intervient qu'après avis du préfet des départements propriétaires ou copropriétaires. Ces
+derniers peuvent, dans un délai d'un mois à dater de la notification, adresser au ministre de la Santé publique et de la
+Population un recours qui sera jugé par la section permanente du Conseil supérieur de l'aide sociale.
+
+Le même recours peut être introduit par les caisses de la sécurité sociale qui y auront un intérêt direct.
+
+Les dispositions du présent article sont également applicables [*champ d'application*] aux établissements privés non
+assimilés recevant des malades bénéficiant de l'aide médicale ou des assurés sociaux. Toutefois, pourront être
+exceptionnellement soustraits à cette réglementation, par décision, conjointe du ministre de la Santé publique et de la
+Population et du ministre du Travail et de la Sécurité sociale, les établissements privés non assimilés remplissant les
+conditions de confort particulier qui seront fixées par arrêté concerté du ministre de la Santé publique et de la Population
+et du ministre du Travail et de la Sécurité sociale.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 16
+	  - Loi n°53-59 du 3 février 1953 - art. 3, v. init.
+
+	**Cité par**:
+
+	  - Décret n°46-1834 du 20 août 1946 - art. 8 (Ab)
+	  - Décret n°76-456 du 21 mai 1976 - art. 15 (Ab)
+	  - Code de la santé publique - art. L203 (Ab)
+	  - Code de la sécurité sociale. - art. L162-25 (Ab)
+	  - Loi n°83-25 du 19 janvier 1983 - art. 15 (V)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-25 1983-01-19 art. 15 : dispositions non applicables aux établissements publics et aux établissements privés admis à participer à l'exécution du service public hospitalier
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+
+##### Section 5 : Stations de cure pour tuberculeux.
+
+###### Article L239
+
+Les stations climatiques visées à l'article 1er de la loi du 24 septembre 1919 sont subdivisées en stations climatiques de
+cure pour tuberculeux et en stations climatiques de villégiature.
+
+Le décret prévu par la loi précitée, afin d'arrêter la liste de ces stations, doit être pris après avis de l'académie
+nationale de médecine [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°62-1286 1962-10-29 art. 2 JORF 3 novembre 1962
+
+	**Cité par**:
+
+	  - Décret n°96-775 du 5 septembre 1996 - art. 2 (Ab)
+
+	**Cite**:
+
+	  - Loi n°1919-09-24 ART. 1
+
+	**Anciens textes**:
+
+	  - Loi n°1936-08-28 ART. 4
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+
+###### Article L240
+
+Dans les stations de cure pour tuberculeux, le règlement sanitaire type, dit modèle C, doit être appliqué, notamment en ce
+qui concerne les mesures et règles générales de salubrité qu'il prescrit. Ces stations doivent comporter un bureau d'hygiène
+tel qu'il est prévu par l'article L. 772 ci-après du présent code, quitte pour la commune à utiliser les installations
+locales existantes et leur matériel pour la désinfection des crachoirs, linge, literie et logements.
+
+Dans les hôtels, pensions de famille ou villas meublées, le bureau d'hygiène doit procéder à des inscriptions
+[*obligatoires*] fréquentes et s'assurer de la salubrité rigoureuse des locaux.
+
+Toute location en meublé au domicile de l'habitant, ayant ou recevant des enfants mineurs, doit faire l'objet d'une
+déclaration [*obligatoire*] au bureau d'hygiène dans un délai de deux jours. Le bureau d'hygiène est tenu, dans le même
+délai, de s'assurer que le ou les occupants des locaux loués ne sont pas des malades pouvant contaminer ces mineurs.
+
+Toute infraction aux arrêtés municipaux concernant la prophylaxie, commise par les hôtels, pensions, maisons de cure, peut
+entraîner la fermeture de ces établissements pendant une période de un à trois mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L772 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1936-08-28 ART. 5
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+
+###### Article L241
+
+Dans les stations climatiques de villégiature, aucun sanatorium ne peut être créé sans que le conseil municipal soit
+favorable à cette création [*condition d'ouverture : accord*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°1936-08-28 ART. 6
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+
+#### Chapitre 3 : Organisation administrative et financière de la lutte contre la tuberculose
+
+##### Section 1 : Organisation médico-technique.
+
+###### Article L242
+
+Les médecins des services antituberculeux comprennent des médecins phtisiologues départementaux et des médecins chargés du
+service des dispensaires antituberculeux et des établissements de cure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 27
+
+
+###### Article L243
+
+Le médecin phtisiologue départemental [*attributions*] assure, sous l'autorité du médecin inspecteur de la santé :
+
+1° L'organisation du dépistage systématique de la tuberculose quelle que soit la collectivité ou l'institution qui en a pris
+l'initiative ;
+
+2° Le contrôle technique de tous les organismes participant à la lutte contre la tuberculose, quelles que soient les
+collectivités publiques ou privées dont dépendent ces organismes :
+
+3° La direction du centre départemental de phtisiologie visé à l'article L. 226, sous réserve des dérogations prévues par
+décret, notamment en ce qui concerne les villes de Faculté et les grands centres urbains.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 28
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L226 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+
+###### Article L244
+
+Une assistante sociale spécialisée coordonne dans chaque département l'activité de toutes les assistantes sociales concourant
+directement ou indirectement à la lutte antituberculeuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 29
+
+
+###### Article L245
+
+Dans chaque région sanitaire, le soin d'orienter et de coordonner la lutte antituberculeuse est confié à une personnalité
+médicale qui reçoit le titre de "médecin consultant régional de phtisiologie" et qui peut être assisté d'un adjoint.
+
+La mission de ce médecin est d'ordre exclusivement technique. Il rend compte de son activité à l'inspecteur divisionnaire de
+la santé.
+
+En ce qui concerne les formes extrapulmonaires de la tuberculose, le ministre de la Santé publique et de la Population peut
+confier une mission analogue à des spécialistes dont le nombre et le rayon d'action varient selon les besoins.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 31
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L253 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+
+###### Article L246
+
+Le poste de médecin phtisiologue départemental et celui d'assistante sociale spécialisée ne peuvent être créés qu'après une
+décision spéciale du ministre de la Santé publique et de la Population [*condition préalable, compétence*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 32
+
+
+##### SECTION 2 : DISPOSITIONS FINANCIERES.
+
+###### Article L248
+
+Les sanatoriums, les préventoriums et aériums publics ou assimilés peuvent obtenir une subvention de l'Etat jusqu'à
+concurrence de 25 p. 100 [*pourcentage*] au maximum du montant des dépenses d'établissement, d'agrandissement, d'installation
+et d'outillage.
+
+Pour les dispensaires, le taux de la subvention sera de 75 p. 100 au maximum. L'attribution de la subvention est toujours
+subordonnée à l'approbation préalable des emplacements, plans et devis par le ministre de la Santé publique et de la
+Population [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 22
+	  - Loi n°47-580 du 30 mars 1947 - art. 31, v. init.
+
+
+###### Article L249
+
+Les départements, communes et autres collectivités qui sont dans l'obligation de recourir à l'emprunt pour la création,
+l'agrandissement ou l'aménagement d'un sanatorium, d'un préventorium ou d'un aérium public ou assimilé, bénéficient des
+facilités de crédit prévues par la législation en vigueur pour la construction des habitations à loyer modéré.
+
+Les mêmes facilités sont accordées aux dispensaires figurant sur la liste prévue à l'article L. 220 ci-dessus.
+
+Le montant cumulé des subventions et des avances accordées ne pourra, en aucun cas, dépasser [*maximum*] 90 p. 100
+[*pourcentage*] du montant des dépenses.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L220 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 23
+	  - Loi n°47-580 du 30 mars 1947 - art. 31, v. init.
+
+
+##### Section 3 : Surveillance administrative des organismes antituberculeux.
+
+###### Article L251
+
+Le préfet [*autorité compétente*] peut ordonner la fermeture temporaire ou définitive de tous dispensaires ou de tous
+établissements de cure qui ne se conformeraient pas aux dispositions du présent titre [*sanction*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 26
+
+
+##### Section 4 : Comités antituberculeux
+
+###### Article L252
+
+Un comité antituberculeux d'entraide et d'éducation sanitaire [*attributions*] régi par la loi du 1er juillet 1901 et dont la
+création est provoquée, le cas échéant, par le préfet, assure dans chaque département, sous le contrôle du médecin
+phtisiologue départemental ;
+
+1° L'aide aux tuberculeux ou à leur famille, indépendamment de l'application des lois sociales ;
+
+2° L'organisation de la propagande sanitaire antituberculeuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Loi n°1901-07-01
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2575 du 31 octobre 1945 - art. 30, v. init.
+
+
+#### Chapitre 4 : Modalités d'application.
+
+###### Article L253
+
+Des décrets pris sur le rapport du ministre de la Santé publique et de la Population et, s'il y a lieu, des autres ministres
+intéressés, déterminent les modalités d'application du présent titre, notamment en ce qui concerne :
+
+1° L'obtention du titre de "médecin des services antituberculeux" ;
+
+2° La désignation et la mission des médecins consultants régionaux de phtisiologie et des spécialistes visés à l'article L.
+245 ci-dessus ;
+
+3° Le recrutement ou l'agrément du médecin phtisiologue départemental et des médecins des dispensaires et des établissements
+de cure de toutes catégories ;
+
+4° Les conditions dans lesquelles il peut être fait appel, notamment pour les interventions chirurgicales, à des praticiens
+non pourvus du titre de médecin des services antituberculeux ;
+
+5° Les conditions techniques et hygiéniques d'installation et de fonctionnement des dispensaires et des établissements de
+cure, postcure et réadaptation ainsi que les conditions dans lesquelles s'exerce la surveillance de l'autorité publique sur
+ces divers établissements ;
+
+6° Les mesures visant spécialement les établissements affectés au traitement des tuberculeux extra-pulmonaires ;
+
+7° L'article L. 226 ci-dessus relatif à la création des centres de phtisiologie.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2575 1945-10-31 ART. 33
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L226 (Ab)
+	  - Code de la santé publique - art. L245 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
+
+
+### Titre 2 : Lutte contre les maladies vénériennes.
+
+###### Article L254
+
+On entend par maladie vénérienne   , pour l'application du présent titre : la syphilis, la gonococcie, la chancrelle et la
+maladie de Nicolas-Favre.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 : le présent article du code de la santé publique, tel que modifié par
+l'article 21 de l'ordonnance, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3812-1 (M)
+
+
+#### Chapitre 1 : Prophylaxie
+
+##### Section 1 : Caractère obligatoire du traitement des maladies vénériennes
+
+###### Article L255
+
+Toute personne atteinte d'accidents vénériens contagieux est tenue de se faire examiner et traiter [*obligation*] par un
+médecin jusqu'à disparition de la contagiosité.
+
+Toute femme enceinte susceptible de transmettre la syphilis au foetus soit directement, soit du fait d'une syphilis reconnue
+du procréateur, est astreinte à la même obligation.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 : le présent article du code de la santé publique, tel que modifié par
+l'article 21 de l'ordonnance, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L256 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3812-2 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 art. 2 ET 3
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 art. 1 JORF 27 novembre 1960
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L256
+
+Tout médecin, lorsqu'il diagnostique ou traite une maladie vénérienne contagieuse ou susceptible de le devenir, doit
+[*obligation*] :
+
+1° Prévenir le patient du genre de maladie dont il est atteint ;
+
+2° Lui indiquer les dangers de contamination qui résultent de cette maladie ;
+
+3° L'avertir des devoirs que lui imposent notamment l'article L.  255 ainsi que les articles L. 277, L. 279 et L. 290.
+
+S'il s'agit d'un mineur ou de tout autre incapable, l'avertissement est donné, au jugement du médecin, soit à l'intéressé,
+soit aux parents ou au tiers responsable.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 : le présent article du code de la santé publique, tel que modifié par
+l'article 21 de l'ordonnance, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 art. 1 JORF 27 novembre 1960
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°60-1248 1960-11-25 : SANCTIONS
+	  - TXT_ASSOCIE: Code de la santé publique - art. L292 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L255 (Ab)
+	  - Code de la santé publique - art. L277 (Ab)
+	  - Code de la santé publique - art. L279 (Ab)
+	  - Code de la santé publique - art. L290 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L292 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3812-3 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 4
+
+
+##### Section 2 : Déclaration des maladies vénériennes.
+
+###### Article L257
+
+La déclaration des maladies vénériennes est obligatoire et, suivant les cas précisés aux articles suivants, se fait sous
+forme de déclaration simple ou de déclaration nominale.
+
+La déclaration simple comporte le diagnostic sans mention du nom du malade [*anonymat*].
+
+La déclaration nominale comporte à la fois le diagnostic et le nom du malade [*mentions*].
+
+Ces déclarations sont faites à l'autorité sanitaire par le médecin dans des conditions fixées par décret.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 : le présent article du code de la santé publique, tel que modifié par
+l'article 21 de l'ordonnance, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3812-4 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 5
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L258
+
+Est obligatoire la déclaration simple de tout cas de maladie vénérienne en période contagieuse, qu'il s'agisse d'accidents
+diagnostiqués pour la première fois ou d'un cas de maladie vénérienne déjà déclaré par un autre médecin ou, enfin, de la
+récidive contagieuse d'une maladie qui a déjà fait antérieurement l'objet d'une déclaration simple.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 : le présent article du code de la santé publique, tel que modifié par
+l'article 21 de l'ordonnance, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°60-1248 1960-11-25 : SANCTIONS
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L262 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3812-5 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 6
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L259
+
+La déclaration nominale des maladies vénériennes en période contagieuse est obligatoire lorsque le malade se refuse à
+entreprendre ou à poursuivre le traitement.
+
+En outre, le médecin doit effectuer cette déclaration nominale s'il estime que le malade fait courir un risque grave de
+contagion à un ou plusieurs tiers [*obligation*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 : le présent article du code de la santé publique, tel que modifié par
+l'article 21 de l'ordonnance, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°60-1248 1960-11-25 : SANCTIONS
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L262 (Ab)
+	  - Code de la santé publique - art. L274 (Ab)
+	  - Code de la santé publique - art. L275 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3812-6 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 7
+
+
+###### Article L260
+
+L'autorité sanitaire compétente pour recevoir les déclarations et prendre les mesures prévues par le présent titre est
+représentée dans chaque département soit par le directeur départemental de la santé, soit par un médecin inspecteur de la
+santé ou un docteur en médecine chargé d'un des services anti-vénériens du département désigné par le directeur départemental
+de la santé.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 : le présent article du code de la santé publique, tel que modifié par
+l'article 21 de l'ordonnance, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 21
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3812-7 (M)
+
+
+##### Section 3 : Dépistage et surveillance sanitaire des agents de contamination ou des personnes présumées telles
+
+##### Paragraphe 1 : Dispositions générales.
+
+###### Article L261
+
+Tout individu contre lequel existent des présomptions précises, graves et concordantes d'avoir communiqué à une ou plusieurs
+personnes une maladie vénérienne peut se voir enjoindre, par décision motivée de l'autorité sanitaire, de fournir dans le
+délai prescrit par elle un certificat médical attestant qu'il est ou non atteint d'accidents vénériens présentant un danger
+de contagion.
+
+Au cas où les nécessités du diagnostic le justifient, un nouveau certificat peut être exigé dans les mêmes conditions.
+
+Si l'autorité sanitaire estime qu'il y a contradiction entre le certificat médical ainsi fourni et les résultats de l'enquête
+épidémiologique, elle peut exiger un examen médical pratiqué soit par un médecin vénéréologue agréé dans des conditions
+fixées par décret, soit par un médecin exerçant dans un dispensaire ou un service antivénérien agréé conformément aux
+dispositions du chapitre II du présent titre et porté sur une liste arrêtée par le préfet.
+
+Si la personne présumée malade ne présente pas [*non*] le certificat dans le délai prescrit, elle pourra être contrainte par
+la force publique, à la requête de l'autorité sanitaire compétente, de subir un examen médical.
+
+Si les certificats ou examens ci-dessus visés révèlent l'existence d'une maladie vénérienne, le malade peut se voir notifier
+l'avertissement [*obligation de se faire traiter*] prévu à l'article L.  275 et être soumis aux dispositions de cet article.
+
+Au cas où le diagnostic demeurerait douteux, l'autorité sanitaire peut exiger des examens supplémentaires.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 : le présent article du code de la santé publique, tel que modifié par
+l'article 21 de l'ordonnance, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1086 1948-07-08 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°60-1248 1960-11-25 : SANCTIONS
+	  - TXT_ASSOCIE: Code de la santé publique L284 : FINANCEMENT
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L275 (Ab)
+	  - Code de la santé publique L275, L294 A L311
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L277 (Ab)
+	  - Code de la santé publique - art. L284 (Ab)
+	  - Code de la santé publique - art. L289 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3812-8 (M)
+
+
+###### Article L262
+
+Lorsqu'un médecin diagnostique un cas de maladie vénérienne, et s'il a pu obtenir du malade des renseignements permettant de
+retrouver la personne contaminatrice, il doit, avec le consentement du malade, transmettre ces renseignements au médecin chef
+des services antivénériens du département.
+
+A défaut de ce consentement, ou si le médecin n'a pu obtenir aucun renseignement sur l'agent contaminateur, il invite le
+malade à se mettre en rapport avec un service social spécialisé.
+
+Si le médecin peut examiner lui-même la personne présumée contaminatrice, il procède, le cas échéant, aux déclarations
+[*obligatoires*] prévues aux articles L. 258 ou L. 259.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 : le présent article du code de la santé publique, tel que modifié par
+l'article 21 de l'ordonnance, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L258 (Ab)
+	  - Code de la santé publique - art. L259 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3812-9 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 8
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+##### Paragraphe 2 : Dispositions particulières aux personnes se livrant à la prostitution.
+
+###### Article L263
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3812-10 (M)
+
+
+###### Article L264
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3812-11 (M)
+
+
+###### Article L265
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3812-12 (M)
+
+
+###### Article L266
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3812-13 (M)
+
+
+###### Article L267
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L268
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L269
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L270
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L271
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L272
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+##### Paragraphe 3 : Dispositions particulières aux détenus.
+
+###### Article L273
+
+L'examen et le traitement prévus par les dispositions en vigueur relatives à la prophylaxie des maladies vénériennes sont
+obligatoires pour tous les détenus. Les prévenus ne sont soumis à cette obligation que si l'autorité sanitaire et
+l'administration pénitentiaire les considèrent, en raison de présomptions graves, précises et concordantes, comme atteints
+d'une maladie vénérienne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-1584 1945-07-18
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. D393 (M)
+
+
+##### Section 4 : Modalités du traitement
+
+##### Période contagieuse.
+
+###### Article L274
+
+Toutes les fois que le médecin qui fait la déclaration nominale [*de maladie vénérienne*] prévue à l'article L. 259 estime
+nécessaire l'hospitalisation d'urgence prévue à l'article L. 277, il doit le mentionner sur cette déclaration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L259 (Ab)
+	  - Code de la santé publique - art. L277 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 7
+
+
+###### Article L275
+
+Tout malade dont le nom a été signalé à l'autorité sanitaire par application de l'article L. 259 et qui, en période
+contagieuse, se refuse à entreprendre ou à poursuivre le traitement reçoit de cette autorité un avertissement lui enjoignant
+d'avoir à se faire traiter immédiatement et régulièrement et d'en faire la preuve.
+
+Cette preuve est fournie par la présentation de certificats médicaux [*documents*] à l'autorité sanitaire, aux dates fixées
+par celle-ci. Si le malade ne procure pas cette preuve, il est hospitalisé d'office suivant les modalités prévues à l'article
+L. 278.
+
+Si la déclaration nominale mentionne la nécessité d'une hospitalisation d'urgence du malade, l'autorité sanitaire peut la
+provoquer immédiatement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Cité par**:
+
+	  - Décret n°74-27 du 14 janvier 1974 - art. 33 (Ab)
+	  - Code de la santé publique - art. L261 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 9
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L259 (Ab)
+	  - Code de la santé publique - art. L278 (Ab)
+
+
+###### Article L276
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L277
+
+Tout malade [*obligation*] dont le nom est signalé à l'autorité sanitaire, en application de l'article L. 261, est invité à
+renoncer immédiatement, et pendant la durée des accidents contagieux, à l'exercice de sa profession si celui-ci comporte un
+danger de contamination.
+
+Dans le cas où le malade ne donne pas suite à cette invitation, l'hospitalisation est provoquée suivant les modalités prévues
+à l'article L. 278.
+
+En cas d'urgence et à la demande du médecin, l'autorité sanitaire est dispensée de la formalité prévue au premier alinéa du
+présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L256 (Ab)
+	  - Code de la santé publique - art. L274 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L261 (Ab)
+	  - Code de la santé publique - art. L278 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 10
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L278
+
+Toute personne hospitalisée d'office par application des dispositions de la présente section entre à son choix :
+
+Soit, à ses frais, dans une clinique privée, agréée par l'autorité sanitaire ;
+
+Soit, dans les conditions fixées par l'article L. 283, dans un hôpital public.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 12
+	  - Loi n°48-1086 1948-07-08 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Cité par**:
+
+	  - Décret n°74-27 du 14 janvier 1974 - art. 33 (Ab)
+	  - Code de la santé publique - art. L275 (Ab)
+	  - Code de la santé publique - art. L277 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L283 (M)
+
+
+###### Article L279
+
+Aucune personne hospitalisée d'office ne peut quitter l'hôpital ou la clinique, même pour la plus courte absence, sans
+l'autorisation écrite [*de sortie*] du médecin chef de service [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°60-1248 1960-11-25 : SANCTIONS
+	  - TXT_ASSOCIE: Code de la santé publique - art. L292 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L256 (Ab)
+	  - Code de la santé publique - art. L292 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 15
+
+
+###### Article L280
+
+L'hospitalisation peut avoir lieu à la demande du directeur départemental de la santé dans le service hospitalier désigné par
+lui, sans que l'identité du malade soit précisée [*anonymat*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1086 1948-07-08 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Cité par**:
+
+	  - Décret n°74-27 du 14 janvier 1974 - art. 33 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L281
+
+Si l'autorité sanitaire juge indispensable de prolonger la surveillance médicale d'un malade hospitalisé d'office par
+application de la présente section, elle peut désigner le dispensaire, le service ou, à défaut, le médecin qui sera chargé de
+cette surveillance et qui aura à en préciser les modalités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L292 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L292 (Ab)
+	  - TXT_ASSOCIE: Décret n°1960-11-25 : SANCTIONS
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 16
+
+
+##### Section 5 : Dispositions diverses.
+
+###### Article L282
+
+Toute publicité de caractère commercial, sous quelque forme que ce soit, concernant ouvertement ou d'une manière déguisée la
+prophylaxie et le traitement des maladies vénériennes est interdite, sauf dans les publications exclusivement réservées au
+corps médical.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 20
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Abrogé par**:
+
+	  - Loi n°87-39 du 27 janvier 1987 - art. 21 () JORF 28 janvier 1987
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L293 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L293 : SANCTIONS
+
+
+##### PARAGRAPHE 2 : DISPOSITIONS FINANCIERES.
+
+###### Article L283
+
+Tout malade hospitalisé d'office par arrêté du préfet sur proposition de l'autorité sanitaire, en application des
+dispositions de la présente section, bénéficie de plein droit de l'aide médicale totale.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1086 1948-07-08 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Cité par**:
+
+	  - Décret n°74-27 du 14 janvier 1974 - art. 33 (Ab)
+	  - Code de la santé publique - art. L278 (Ab)
+
+
+###### Article L284
+
+Les dépenses occasionnées par l'application de l'article L. 261 [*examen médical*] sont financées dans les mêmes conditions
+que celles relatives au fonctionnement des services antivénériens [*charge*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1086 1948-07-08 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L261 (Ab)
+
+
+##### PARAGRAPHE 3 : MODALITES D'APPLICATION.
+
+###### Article L284-1
+
+Les modalités d'application des dispositions des articles L. 254 à L. 262 et L. 274 à L. 292 sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique L254 A L262, L274 A L292
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 22
+	  - Loi n°48-1086 1948-07-08 ART. 10
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+
+##### Section 6 : Dispositions pénales.
+
+###### Article L286
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L287
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L288
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L289
+
+Toute fausse déclaration, faite de mauvaise foi, qui tendrait à signaler aux autorités sanitaires, par quelque moyen que ce
+soit, directement ou indirectement, une personne comme agent de contamination au sens de l'article L. 261, est punie des
+peines de la dénonciation calomnieuse.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1086 1948-07-08 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L261 (Ab)
+
+
+###### Article L291
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L293
+
+Toute infraction aux dispositions de l'article L. 282 [*publicité commerciale*] est passible d'une amende de 2.000 F à 20.000
+F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 ART. 1 JORF 27 novembre 1960
+
+	**Abrogé par**:
+
+	  - Loi n°87-39 du 27 janvier 1987 - art. 21 () JORF 28 janvier 1987
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L282 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L292 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L292 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 ART. 20
+
+
+#### Chapitre 2 : Organisation médico-administrative de la lutte antivénérienne.
+
+###### Article L294
+
+L'organisation de la lutte antivénérienne comprend : des dispensaires antivénériens, des services d'hospitalisation des
+maladies vénériennes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+##### Section 1 : Dispensaires antivénériens.
+
+###### Article L295
+
+Les dispensaires antivénériens sont destinés [*mission*] à assurer dans le cadre du département la prophylaxie et le
+traitement ambulatoire des maladies vénériennes.
+
+Ces dispensaires sont ouverts gratuitement [*frais*] à tous les consultants, ou spécialisés à certaines catégories de
+consultants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°88-61 du 18 janvier 1988 - art. 1 (M)
+	  - Code de la santé publique - art. R5115-1 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1423-2 (M)
+	  - Code de la santé publique - art. L1423-2 (V)
+
+
+###### Article L296
+
+Les dispensaires antivénériens se répartissent en trois catégories :
+
+1° Les dispensaires antivénériens publics gérés par l'Etat, les départements, les communes ou les établissements publics ;
+
+2° Les dispensaires gérés par les associations reconnues d'utilité publique, par les sociétés mutualistes, les organismes de
+sécurité sociale et les caisses d'assurances sociales agricoles qui, par décision du ministre de la Santé publique et de la
+Population, sont assimilés aux dispensaires publics et se trouvent, de ce fait, soumis aux dispositions applicables à ces
+organismes ;
+
+3° Les dispensaires privés gérés soit par des organismes privés en dehors des conditions prévues au paragraphe précédent,
+soit par des particuliers.
+
+Ces dispensaires ne peuvent être ouverts sans l'agrément préalable [*condition*] du préfet [*autorité compétente*], donné au
+proposition du directeur départemental de la Santé, après avis du médecin consultant régional de vénéréologie.
+
+Les décisions du préfet seront soumises, pour approbation, au ministre de la Santé publique et de la Population.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°88-61 du 18 janvier 1988 - art. 1 (Ab)
+	  - Code de la santé publique - art. L305 (Ab)
+	  - Code de la santé publique - art. L307 (Ab)
+	  - Code de la santé publique - art. L311 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L297
+
+Dans chaque département, le préfet établit, sur proposition du directeur départemental de la Santé, après délibération du
+conseil général, la liste des dispensaires antivénériens, fixe leur circonscription et leur spécialisation éventuelle.
+Cependant, les dispensaires ne pourront refuser l'examen et les soins à des malades ne ressortissant pas à leur
+circonscription.
+
+Ces dispositions ne deviennent définitives qu'après décision du ministre de la Santé publique et de la Population prise après
+avis de la commission des maladies vénériennes du Conseil permanent d'hygiène sociale.
+
+Les organismes ne figurant pas sur cette liste ne peuvent prendre ou conserver le titre de dispensaire antivénérien ou toute
+autre appellation susceptible de créer une confusion avec les dispensaires inscrits sur la liste [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L298
+
+Les dispensaires antivénériens relèvent, sous l'autorité du directeur départemental de la Santé, du service départemental
+d'hygiène sociale. Ce service administre les dispensaires départementaux et assure l'exécution des conventions passées par le
+département avec les collectivités publiques ou privées ou les particuliers dont dépendent les autres dispensaires.
+
+Les conditions d'installation, d'organisation et de fonctionnement des dispensaires antivénériens, ainsi que les modalités
+suivant lesquelles certains de ces dispensaires sont autorisés à coopérer avec les médecins praticiens en vue du traitement
+des malades ruraux, sont fixées par arrêté du ministre de la Santé publique et de la Population. Un arrêté des ministres de
+la Santé publique et de la Population, des Finances et des Affaires économiques, du Travail et de la Sécurité sociale et de
+l'Agriculture fixe les modalités de la participation financière des organismes intéressés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L299
+
+Les dispensaires fonctionnent sous réserve d'un équipement technique suffisant, dont la nomenclature sera établie par les
+soins du ministre de la Santé publique et de la Population.
+
+De la même façon, un corps de personnel médico-social compétent et suffisant est défini par un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L300
+
+Le préfet peut ordonner la fermeture temporaire [*sanction*] et proposer la fermeture définitive de tout dispensaire
+antivénérien qui ne se conformerait pas aux dispositions de la présente section. La fermeture définitive est prononcée par
+décision du ministre de la Santé publique et de la Population, qui statuera au plus tard dans le mois qui suit la proposition
+préfectorale [*délai*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 17
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L301
+
+Les dispensaires antivénériens peuvent obtenir une subvention de l'Etat jusqu'à concurrence de 50 p. 100 [*pourcentage*] au
+maximum du montant des dépenses d'établissement, d'agrandissement, d'aménagement, d'installation et d'outillage.
+
+L'attribution de cette subvention est toujours subordonnée à l'approbation préalable des emplacements, plans et devis, par le
+ministre de la Santé publique et de la Population [*conditions*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 12
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L305 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L305 : CHAMP D'APPLICATION
+
+
+###### Article L302
+
+Les départements, communes et autres collectivités qui seront dans l'obligation de recourir à l'emprunt pour la création,
+l'agrandissement ou l'aménagement d'un dispensaire antivénérien bénéficieront des facilités de crédit prévues par la
+législation en vigueur pour la construction des habitations à loyer modéré.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 13
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L305 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L305 : CHAMP D'APPLICATION
+
+
+###### Article L303
+
+Les caisses de sécurité sociale et les caisses d'assurances sociales agricoles participent aux dépenses des dispensaires
+antivénériens en fonction des avantages particuliers concédés par ceux-ci auxdites caisses et compte tenu du nombre total des
+malades qui les fréquentent et de la proportion des assurés sociaux du régime général et du régime agricole par rapport à la
+population totale de la circonscription du dispensaire.
+
+La nature et l'importance de ces avantages particuliers et de la contribution financière des caisses de sécurité sociale et
+des caisses d'assurances agricoles sont fixées par conventions passées entre les dispensaires antivénériens et les caisses
+intéressées.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 14
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L305 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L305 : CHAMP D'APPLICATION
+
+
+###### Article L305
+
+Les dispositions financières prévues dans les articles L. 301, L. 302, L. 303 et L. 304 du présent chapitre ne peuvent être
+appliquées qu'aux dispensaires publics et assimilés visés aux paragraphes 1° et 2° de l'article 296, à l'exclusion des
+dispensaires privés mentionnés au paragraphe 3° du même article. Toutefois, des subventions pourront toujours être attribuées
+aux dispensaires privés présentant un intérêt public.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 16
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L296 (Ab)
+	  - Code de la santé publique - art. L301 (Ab)
+	  - Code de la santé publique - art. L302 (Ab)
+	  - Code de la santé publique - art. L303 (Ab)
+	  - Code de la santé publique - art. L304 (M)
+
+
+##### Section 2 : Services hospitaliers de vénérologie.
+
+###### Article L306
+
+Tout département doit avoir au moins un hôpital [*nombre obligatoire*] comprenant un service hospitalier destiné aux
+personnes atteintes de maladies vénériennes et situé, en principe, au chef-lieu du département. Ce service doit comporter une
+salle spéciale qui peut être réservée à certaines catégories de malades.
+
+Le nombre de lits de ce service est fixé par le préfet sur proposition du directeur départemental de la Santé, après avis du
+médecin consultant régional de vénéréologie. Les décisions du préfet seront soumises, pour approbation, au ministre de la
+Santé publique et de la Population.
+
+En dehors de l'hôpital possédant le service visé ci-dessus, les hôpitaux et hospices pourront être tenus, à la demande de
+l'autorité sanitaire, d'hospitaliser autant que possible, dans les salles spéciales, des malades atteints ou suspects de
+maladies vénériennes.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°74-27 du 14 janvier 1974 - art. 33 (Ab)
+	  - Code de la santé publique - art. L308 (Ab)
+	  - Code de la santé publique - art. L311 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+##### Section 3 : Direction et coordination de la lutte antivénérienne
+
+###### Article L307
+
+Le service de lutte antivénérienne a le caractère d'un service départemental placé sous l'autorité du directeur départemental
+de la santé [*nature juridique*].
+
+Il comprend [*composition*] :
+
+1° Un médecin chef ;
+
+2° Des médecins de dispensaires antivénériens ;
+
+3° Une ou plusieurs assistantes sociales spécialisées.
+
+Le médecin chef est nommé par le préfet, sur proposition du directeur départemental de la santé, après avis du médecin
+consultant régional de vénéréologie.
+
+Les médecins de dispensaires sont désignés par le préfet pour les dispensaires prévus au 1° de l'article L. 296 du présent
+code. Ils sont agréés par le préfet dans les cas prévus aux 2° et 3°.
+
+Le médecin chef et les médecins de dispensaires doivent justifier de la détention du certificat d'études spéciales de
+dermato-vénéréologie ou de titres au moins équivalents [*diplômes obligatoires*].
+
+**Nota:**
+
+[*Nota : dispositions réglementaires.*]
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°62-39 1962-01-16 art. 1 JORF 17 janvier 1962
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L296 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L308
+
+Le médecin chef du service départemental de lutte antivénérienne est chargé, sous l'autorité du directeur départemental de la
+Santé [*attributions*] : 
+
+1° De l'organisation générale de la lutte antivénérienne dans le département ;
+
+2° Du contrôle des dispensaires antivénériens du département, quelles que soient les collectivités publiques ou privées dont
+dépendent ces organismes ou les catégories des sujets auxquels ils s'adressent et de la direction des services hospitaliers
+de vénéréologie visés à l'article L. 306, sous réserve de dérogations qui sont déterminées par les décrets en Conseil d'Etat
+prévus à l'article L. 311 ci-après, notamment en ce qui concerne les villes de Faculté, certains ports et les villes où
+stationnent d'importantes garnisons [*militaires*], dont la liste sera établie par décrets.
+
+Le médecin chef du service départemental de lutte antivénérienne assure le service d'un ou plusieurs dispensaires. Des
+arrêtés signés par les ministres de la Santé publique et de la Population, de l'Intérieur et des Finances, déterminent les
+départements dans lesquels il pourra être fait exception à cette règle.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L306 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L311 (Ab)
+
+
+###### Article L309
+
+Une des assistantes sociales spécialisées [*attribution*] d'un des dispensaires antivénériens du département sera, en outre,
+chargée par le directeur départemental de la Santé de coordonner, sous l'autorité du médecin chef du service départemental,
+l'activité de toutes les assistantes sociales polyvalentes concourant directement ou indirectement à la lutte antivénérienne.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 10
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L310
+
+Une personnalité médicale qui reçoit le titre de médecin consultant régional de vénéréologie est chargée de conseiller au
+point de vue technique les directeurs départementaux de la Santé d'un groupe déterminé de départements, pour tout ce qui
+concerne l'orientation, la coordination et le contrôle des services de lutte antivénérienne.
+
+La mission de ce médecin est d'ordre exclusivement technique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 11
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+##### Section 4 : Modalités d'application.
+
+###### Article L311
+
+Des décrets en Conseil d'Etat, pris sur le rapport du ministre de la Santé publique et de la Population et des ministres
+intéressés, déterminent les modalités d'application du présent chapitre, notamment en ce qui concerne :
+
+1° La désignation et les attributions de médecins consultants régionaux de vénéréologie ; 
+
+2° (abrogé)
+
+3° Les conditions techniques et hygiéniques d'installation et de fonctionnement des dispensaires antivénériens, ainsi que les
+conditions dans lesquelles s'exerce la surveillance de l'autorité publique sur ces divers établissements et, d'une manière
+générale, les modalités d'application de l'article L. 296 ;
+
+4° Les conditions d'aménagement et de fonctionnement des services hospitaliers de vénéréologie visés à l'article L. 306,
+ainsi que les dérogations prévues par l'article L. 308, paragraphe 2°, et toutes autres mesures nécessaires pour la
+sauvegarde absolue du secret professionnel.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1290 1948-08-18 ART. 18
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°62-39 1962-01-16 art. 2 JORF 17 janvier 1962
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L296 (Ab)
+	  - Code de la santé publique - art. L306 (Ab)
+	  - Code de la santé publique - art. L308 (Ab)
+
+
+### Titre 3 : Lutte contre le cancer
+
+#### Chapitre unique : Centres de lutte contre le cancer
+
+##### Section 1 : Rôle et statut.
+
+###### Article L312
+
+Les centres de lutte contre le cancer ont pour objet :
+
+1° Le dépistage, l'examen, l'hospitalisation et le traitement des malades ;
+
+2° La surveillance prolongée des résultats thérapeutiques, l'établissement et la tenue à jour des dossiers médicaux,
+l'organisation d'une action médico-sociale ;
+
+3° Les recherches sur l'étiologie, la prophylaxie et la thérapeutique du cancer.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2221 1945-10-01 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L314 (Ab)
+	  - Code de la santé publique - art. L318 (Ab)
+	  - Code de la santé publique - art. L324 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6162-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L324 : DISPOSITIONS BUDGETAIRES
+
+
+###### Article L313
+
+Ces établissements ont la personnalité civile. Ils peuvent recevoir des libéralités testamentaires ou entre vifs dans les
+conditions fixées par l'article 5 de la loi du 4 février 1901 et l'article 1143 du Code général des impôts.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1143
+	  - Loi n°1901-02-04 ART. 5
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2221 1945-10-01 ART. 1
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6162-2 (M)
+	  - Code de la santé publique - art. L6162-2 (V)
+
+
+###### Article L314
+
+Les centres de lutte contre le cancer sont agréés [*obligation*] par le ministre de la Santé publique et de la Population
+[*autorités compétentes*].
+
+Aucun centre ne peut être agréé s'il n'exerce au moins les deux modes d'activité définis aux alinéas 1er et 2 de l'article L.
+312 ci-dessus [*condition*].
+
+Les dispositions du présent chapitre s'appliquent aux centres ainsi agréés.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2221 1945-10-01 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L312 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6162-3 (M)
+	  - Code de la santé publique - art. L6162-3 (V)
+
+
+##### Section 2 : Organisation.
+
+###### Article L316
+
+Chaque centre doit comprendre au moins un service de chirurgie et un service de radiologie (roentgenthérapie et
+curiethérapie) dirigés chacun par un spécialiste. De plus, un médecin spécialiste en cancérologie, un oto-rhino-
+laryngologiste et un anatomo-pathologiste doivent être attachés au centre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2221 1945-10-01 ART. 5
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6162-4 (M)
+	  - Code de la santé publique - art. L6162-4 (V)
+
+
+###### Article L317
+
+L'orientation technique du centre est déterminée par un comité technique présidé par le directeur du centre et qui comprend
+les chefs de services et les spécialistes attachés au centre. Le comité élabore chaque année un rapport sur l'activité
+technique du centre. Ce rapport est adressé au ministre de la Santé publique et de la Population.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2221 1945-10-01 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L321 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6162-5 (M)
+	  - Code de la santé publique - art. L6162-5 (V)
+
+
+###### Article L318
+
+Les conventions que les centres de lutte contre le cancer peuvent, à l'occasion des activités définies à l'article L. 312 ci-
+dessus ou pour contribuer à l'enseignement, être appelés à conclure soit avec des établissements hospitaliers, soit avec des
+universités, soit avec toutes autres institutions publiques ou privées ou avec les particuliers, doivent être approuvées
+[*conditions*] par le ministre de la Santé publique et de la Population [*autorité compétente*].
+
+Les règlements intérieurs élaborés par le conseil d'administration sont soumis à la même approbation.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2221 1945-10-01 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L312 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L322 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6162-6 (M)
+	  - Code de la santé publique - art. L6162-6 (V)
+
+
+###### Article L319
+
+Les conventions passées entre les centres de lutte contre le cancer et les établissements hospitaliers doivent fixer le
+nombre et l'emplacement des lits en permanence à la disposition des centres en vue de l'hospitalisation des malades, pendant
+ou après leur traitement curatif. 
+
+Elles doivent également préciser la répartition des locaux et, d'une façon générale, prévoir toutes les mesures utiles pour
+faciliter aux services du centre, soit le traitement curatif soit le traitement palliatif. 
+
+L'admission des malades dans les locaux hospitaliers qui font l'objet des conventions visées au précédent alinéa, est
+prononcée, à moins de stipulation contraire, par le directeur du centre ou son préposé    .
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2221 1945-10-01 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6162-7 (M)
+	  - Code de la santé publique - art. L6162-7 (V)
+
+
+###### Article L320
+
+La centralisation des renseignements médicaux recueillis par les centres est assurée par l'Institut national d'hygiène,
+suivant les modalités fixées par le ministre de la Santé publique et de la Population.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2221 1945-10-01 ART. 12
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6162-8 (M)
+	  - Code de la santé publique - art. L6162-8 (V)
+
+
+##### Section 3 : Conseil d'administration.
+
+###### Article L321
+
+Chaque centre est géré par un conseil d'administration composé de douze membres [*nombre*].
+
+Font obligatoirement partie du conseil, le préfet, le directeur départemental de la Santé du département dans lequel le
+centre a son siège, le doyen ou le directeur et un professeur de la Faculté ou de l'Ecole de médecine dans le ressort
+desquels le centre a son siège, un délégué des caisses de sécurité sociale, un représentant de l'administration hospitalière
+avec laquelle le centre a passé contrat, le directeur du centre et deux membres du comité technique prévu à l'article L. 317
+ci-dessus.
+
+Les membres de droit énumérés au précédent alinéa désignent les trois autres membres à la majorité des voix. Les désignations
+ainsi faites sont soumises à l'agrément du ministre de la Santé publique et de la Population.
+
+La présidence du conseil d'administration appartient au préfet, la vice-présidence au directeur départemental de la Santé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2221 1945-10-01 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°63-380 du 8 avril 1963 - art. 2 (Ab)
+	  - Code de la sécurité sociale. - art. D412-79 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L317 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6162-9 (M)
+	  - Code de la santé publique - art. L6162-9 (V)
+
+
+##### Section 4 : Personnel médical et administratif.
+
+###### Article L323
+
+Les directeurs des centres de lutte contre le cancer sont désignés par le ministre de la Santé publique et de la Population,
+après avis du conseil d'administration du centre et de la commission du cancer du conseil permanent d'hygiène sociale.
+
+Sauf dérogation expresse accordée par le ministre de la Santé publique et de la Population, après avis de la commission du
+cancer du conseil permanent d'hygiène sociale, les fonctions de directeur et de chef de service sont incompatibles avec
+celles de chef d'un service d'hospitalisation ne dépendant pas du centre.
+
+Les conditions de recrutement du personnel médical et du personnel administratif, leur mode de rémunération et,
+éventuellement, leur statut, sont précisés par arrêté du ministre de la Santé publique et de la Population et du ministre des
+Finances.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2221 1945-10-01 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Arrêté du 5 juin 1989 - art. 2 (V)
+	  - Décret n°95-569 du 6 mai 1995 - art. 8 (Ab)
+	  - Code de la santé publique - art. L322 (Ab)
+	  - Code de la santé publique - art. R715-6-10 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6162-11 (M)
+	  - Code de la santé publique - art. L6162-11 (V)
+
+
+##### Section 5 : Dispositions diverses
+
+##### Paragraphe 1 : Dispositions financières.
+
+###### Article L324
+
+Les recettes et les dépenses propres à chacun des trois modes d'activité énumérés à l'article L. 312 ci-dessus doivent faire
+l'objet d'une section distincte dans le budget du centre.
+
+Un arrêté concerté du ministre des Finances et du ministre de la Santé publique et de la Population détermine les règles
+applicables à la gestion financière du centre, à son contrôle et à la désignation du trésorier.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2221 1945-10-01 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L312 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L322 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6162-12 (Ab)
+
+
+##### Paragraphe 2 : Modalités d'application.
+
+###### Article L325
+
+Des décrets déterminent, s'il y a lieu, les modalités ou dérogations nécessaires pour adapter les dispositions du présent
+chapitre aux conditions particulières de fonctionnement de l'Institut du cancer, de la fondation Curie et des services
+anticancéreux relevant de l'assistance publique dans les villes où cette administration est régie par un statut spécial.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2221 1945-10-01 ART. 13
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6162-13 (Ab)
+
+
+### TITRE 4 : LUTTE CONTRE LES MALADIES MENTALES
+
+#### CHAPITRE 2 : ETABLISSEMENTS DE SOINS
+
+##### Section 2 : Diverses catégories d'établissements
+
+##### Paragraphe 1 : Etablissements publics.
+
+###### Article L327
+
+Les établissements publics consacrés aux aliénés sont placés sous la direction de l'autorité publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-6 (VD)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 5
+
+
+###### Article L328
+
+Pour les établissements publics et les établissements privés faisant fonction d'établissements publics, consacrés en tout ou
+partie au service des aliénés, il est établi, par arrêté du ministre de la santé publique et de la population, en ce qui
+concerne ledit service, un réglement intérieur type ou, le cas échéant, des règlements intérieurs types.
+
+Les règlements intérieurs sont, dans les dispositions relatives à ces services, soumis à l'approbation du préfet
+[*conditions*]. Toutefois, ceux qui comportent des modifications aux prescriptions du règlement type sont approuvés par le
+ministre de la santé publique [*autorité compétente*], sauf lorsque lesdites modifications ont le caractère de modifications
+de pure forme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°86-602 du 14 mars 1986 - art. 12 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-7 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 7
+
+
+##### Paragraphe 2 : Etablissements privés.
+
+###### Article L329
+
+Les établissements privés consacrés aux aliénés sont placés sous la surveillance de l'autorité publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-8 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 3
+
+
+###### Article L330
+
+Nul ne peut diriger ni former un établissement privé consacré aux aliénés sans l'autorisation du Gouvernement [*condition*].
+
+Les établissements privés consacrés au traitement d'autres maladies ne peuvent recevoir les personnes atteintes d'aliénation
+mentale [*interdiction*], à moins qu'elles ne soient placées dans un local entièrement séparé.
+
+Ces établissements doivent être, à cet effet, spécialement autorisés par le Gouvernement, et sont soumis, en ce qui concerne
+les aliénés, à toutes les obligations prescrites par le présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-9 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L331 (M)
+	  - Code de la santé publique - art. L339 (Ab)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 2
+
+
+###### Article L331
+
+Des décrets en Conseil d'Etat déterminent les conditions auxquelles sont accordées les autorisations énoncées en l'article
+précédent, les cas où elles peuvent être retirées, et les obligations auxquelles sont soumis les établissements autorisés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°91-981 du 25 septembre 1991 - art. 6 (Ab)
+	  - CODE DE PROCEDURE PENALE - art. D398 (V)
+	  - Code de la santé publique - art. D712-65-4 (Ab)
+	  - Code de la santé publique - art. L330 (Ab)
+	  - Code de la santé publique - art. L332 (Ab)
+	  - Code de la santé publique - art. L332-3 (Ab)
+	  - Code de la santé publique - art. L332-4 (Ab)
+	  - Code de la santé publique - art. L333 (Ab)
+	  - Code de la santé publique - art. L338 (Ab)
+	  - Code de la santé publique - art. L339 (Ab)
+	  - Code de la santé publique - art. L342 (Ab)
+	  - Code de la santé publique - art. L352 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (Ab)
+	  - Code de la santé publique - art. L355 (M)
+	  - Code de la santé publique - art. R711-19 (Ab)
+	  - Code de la santé publique - art. R712-77 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3222-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L355 : sanctions
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 6
+
+
+##### PARAGRAPHE 3 : DISPOSITIONS COMMUNES *AUX ETABLISSEMENTS PUBLICS ET PRIVES*
+
+###### Article L332
+
+Le préfet [*autorité compétente*] et les personnes spécialement déléguées à cet effet par lui ou par le ministre de la Santé
+publique et de la Population, le président du tribunal, le procureur de la République, le juge du tribunal d'instance, le
+maire de la commune, sont chargés de visiter les établissements publics et privés consacrés aux aliénés.
+
+Ils recevront les réclamations des personnes qui y sont placées, et prendront, à leur égard, tous renseignements propres à
+faire connaître leur position.
+
+Les établissements privés seront visités, à des jours indéterminés, une fois au moins chaque trimestre [*périodicité*], par
+le procureur de la République. Les établissements publics le seront de la même manière une fois au moins par semestre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 4
+
+	**Modifié par**:
+
+	  - Loi n°81-82 du 2 février 1981 - art. 73 () JORF 3 FEVRIER 1981
+
+	**Cité par**:
+
+	  - Arrêté du 14 octobre 1986 - art. 10 (V)
+	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L354 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3222-2 (V)
+
+
+#### Chapitre 3 : Modes de placement dans les établissements de soins
+
+##### Section 1 : Placement volontaire.
+
+###### Article L333
+
+Les chefs ou préposés responsables des établissements publics et les directeurs des établissements privés et consacrés aux
+aliénés ne peuvent recevoir [*interdiction*] une personne atteinte d'aliénation mentale s'il ne leur est remis [*documents
+obligatoires*] :
+
+1° Une demande d'admission contenant les nom, profession, âge et domicile, tant de la personne qui la forme que de celle dont
+le placement est réclamé, et l'indication du degré de parenté ou, à défaut, de la nature des relations qui existent entre
+elles [*mentions*].
+
+La demande sera écrite et signée par celui qui la formera et, s'il ne sait pas écrire, elle sera reçue par le maire ou le
+commissaire de police, qui en donnera acte.
+
+Les chefs, préposés ou directeurs, doivent s'assurer sous leur responsabilité de l'individualité de la personne qui aura
+formé la demande, lorsque cette demande n'aura pas été reçue par le maire ou le commissaire de police.
+
+Si la demande d'admission est formée par le tuteur d'un interdit, il devra fournir à l'appui un extrait du jugement
+d'interdiction ;
+
+2° Un certificat de médecin constatant l'état mental de la personne à placer, et indiquant les particularités de sa maladie
+et la nécessité de faire traiter la personne désignée dans un établissement d'aliénés, et de l'y tenir renfermée.
+
+Ce certificat ne pourra être admis, s'il a été délivré plus de quinze jours avant sa remise au chef ou directeur [*délai de
+validité*] ; s'il est signé d'un médecin attaché à l'établissement, ou si le médecin signataire est parent ou allié, au
+second degré inclusivement, des chefs ou propriétaires de l'établissement, ou de la personne qui fera effectuer le placement
+[*condition de forme*].
+
+En cas d'urgence, les chefs des établissements publics pourront se dispenser d'exiger le certificat du médecin ;
+
+3° Le passeport ou toute autre pièce propre à constater l'individualité de la personne à placer.
+
+Il sera fait mention de toutes les pièces produites dans un bulletin d'entrée, qui sera renvoyé, dans les vingt-quatre
+heures, avec un certificat du médecin de l'établissement, et la copie de celui ci-dessus mentionné au préfet ou au sous-
+préfet dans les communes chefs-lieux de département ou d'arrondissement, et aux maires dans les autres communes. Le sous-
+préfet, ou le maire, en fera immédiatement l'envoi au préfet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 12 (V) JORF 17 mai 1970
+
+	**Cité par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 12 (V)
+	  - Arrêté du 26 février 1992 - art. 2 (V)
+	  - Code de la santé publique - art. L209-5 (Ab)
+	  - Code de la santé publique - art. L332 (Ab)
+	  - Code de la santé publique - art. L333-1 (Ab)
+	  - Code de la santé publique - art. L334 (Ab)
+	  - Code de la santé publique - art. L336 (M)
+	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L338 (Ab)
+	  - Code de la santé publique - art. L340 (M)
+	  - Code de la santé publique - art. L353-4 (Ab)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 8
+
+
+###### Article L334
+
+Si le placement est fait dans un établissement privé, le préfet, dans les trois jours de la réception du bulletin [*délai*],
+charge un ou plusieurs hommes de l'art de visiter la personne désignée dans ce bulletin, à l'effet de constater son état
+mental et d'en faire rapport sur-le-champ [*contrôle*]. Il peut leur adjoindre telle autre personne qu'il désignera.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-4 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L341 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 9
+
+
+###### Article L335
+
+Dans le même délai [*que l'article L. 336*], le préfet notifie administrativement les nom, profession et domicile, tant de la
+personne placée que de celle qui aura demandé le placement, et les causes du placement : 1° au procureur de la République de
+l'arrondissement du domicile de la personne placée ; 2° au procureur de la République de l'arrondissement de la situation de
+l'établissement. Ces dispositions sont communes aux établissements publics et privés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-5 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L338 (Ab)
+	  - Code de la santé publique - art. L340 (Ab)
+	  - Code de la santé publique - art. L347 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 10
+
+
+###### Article L336
+
+Quinze jours après le placement d'une personne dans un établissement public ou privé, il sera adressé au préfet, conformément
+au dernier paragraphe de l'article L. 333, un nouveau certificat du médecin de l'établissement ; ce certificat confirmera ou
+rectifiera, s'il y a lieu, les observations contenues dans le premier certificat, en indiquant le retour plus ou moins
+fréquent des accès ou des actes de démence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L333 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 11
+
+
+###### Article L337
+
+Il y aura, dans chaque établissement, un registre coté et paraphé par le maire, sur lequel seront immédiatement inscrits les
+nom, profession, âge et domicile des personnes placées dans les établissements, la mention du jugement d'interdiction, s'il a
+été prononcé, et le nom de leur tuteur ; la date de leur placement, les nom, profession et demeure de la personne, parente ou
+non parente, qui l'aura demandé. Seront également transcrits sur ce registre : 1° le certificat du médecin, joint à la
+demande d'admission ; 2° ceux que le médecin de l'établissement devra adresser à l'autorité, conformément aux articles L. 333
+et 336 ci-dessus.
+
+Le médecin sera tenu de consigner sur ce registre, au moins tous les mois [*périodicité*], les changements survenus dans
+l'état mental de chaque malade. Ce registre constatera également les sorties et les décès.
+
+Ce registre sera soumis aux personnes qui, d'après l'article L. 332, ont le droit de visiter l'établissement lorsqu'elles se
+présenteront pour en faire la visite [*information*] ; après l'avoir terminée, elles apposeront sur le registre leur visa,
+leur signature et leurs observations, s'il y a lieu.
+
+**Nota:**
+
+Dans sa décision n° 2011-202 QPC du 2 décembre 2011 (NOR : CSCX11322870S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article L. 337 du code de la santé publique, dans sa rédaction antérieure à la loi n° 90-527 du 27 juin
+1990. La déclaration d'inconstitutionnalité prend effet à compter de la publication de la présente décision dans les
+conditions fixées par son considérant 16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-7 (VT)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L332 (M)
+	  - Code de la santé publique - art. L333 (M)
+	  - Code de la santé publique - art. L336 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L338 (Ab)
+	  - Code de la santé publique - art. L339 (M)
+	  - Code de la santé publique - art. L341 (Ab)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L348 (M)
+	  - Code de la santé publique - art. L352 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (Ab)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 12
+
+
+###### Article L338
+
+Toute personne placée dans un établissement d'aliénés cessera d'y être retenue aussitôt que les médecins de l'établissement
+auront déclaré, sur le registre énoncé en l'article précédent, que la guérison est obtenue.
+
+S'il s'agit d'un mineur ou d'un interdit, il sera donné immédiatement avis de la déclaration des médecins aux personnes
+auxquelles il devra être remis, et au procureur de la République.
+
+**Nota:**
+
+Dans sa décision n° 2011-202 QPC du 2 décembre 2011 (NOR : CSCX11322870S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article L. 338 du code de la santé publique, dans sa rédaction antérieure à la loi n° 90-527 du 27 juin
+1990. La déclaration d'inconstitutionnalité prend effet à compter de la publication de la présente décision dans les
+conditions fixées par son considérant 16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-8 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L337 (Ab)
+	  - Code de la santé publique - art. L341 (Ab)
+	  - Code de la santé publique - art. L352 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (M)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 13
+
+
+###### Article L339
+
+Avant même que les médecins aient déclaré la guérison, toute personne placée dans un établissement d'aliénés cessera
+également d'y être retenue, dès que la sortie sera requise par l'une des personnes ci-après désignées, savoir :
+
+1° Le curateur nommé en exécution de l'article L. 353 ci-après ;
+
+2° L'époux ou l'épouse ;
+
+3° S'il n'y a pas d'époux ou d'épouse, les ascendants ;
+
+4° S'il n'y a pas d'ascendants, les descendants ;
+
+5° La personne qui aura signé la demande d'admission, à moins qu'un parent n'ait déclaré s'opposer à ce qu'elle use de cette
+faculté sans l'assentiment du conseil de famille ;
+
+6° Toute personne à ce autorisée par le conseil de famille.
+
+S'il résulte d'une opposition notifiée au chef de l'établissement par un ayant droit qu'il y a dissentiment, soit entre les
+ascendants, soit entre les descendants, le conseil de famille prononcera.
+
+Néanmoins, si le médecin de l'établissement est d'avis que l'état mental du malade pourrait compromettre l'ordre public ou la
+sûreté des personnes, il en sera donné préalablement connaissance au maire, qui pourra ordonner immédiatement un sursis
+provisoire à la sortie à la charge d'en référer, dans les vingt-quatre heures, au préfet. Ce sursis provisoire cessera de
+plein droit à l'expiration de la quinzaine [*délai*], si le préfet n'a pas, dans ce délai, donné d'ordres contraires,
+conformément à l'article L. 346 ci-après. L'ordre du maire sera transcrit sur le registre tenu en exécution de l'article L.
+337 ci-dessus.
+
+En cas de minorité, la sortie ne pourra être requise par les père et mère qui ne se trouvent pas dans l'un des cas prévus à
+l'article 373 du Code civil ; à leur défaut, elle le sera par le tuteur. S'il y a dissentiment entre les père et mère, le
+tribunal prononcera. S'ils sont divorcés ou séparés de corps, le droit de requérir la sortie est exercé par celui à qui la
+garde de l'enfant a été confiée.
+
+**Nota:**
+
+Dans sa décision n° 2011-202 QPC du 2 décembre 2011 (NOR : CSCX11322870S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article L. 339 du code de la santé publique, dans sa rédaction antérieure à la loi n° 90-527 du 27 juin
+1990. La déclaration d'inconstitutionnalité prend effet à compter de la publication de la présente décision dans les
+conditions fixées par son considérant 16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 6 () JORF 4 janvier 1968
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°91-981 du 25 septembre 1991 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°91-981 du 25 septembre 1991 - art. 9 (Ab)
+	  - Code de la santé publique - art. L340 (Ab)
+	  - Code de la santé publique - art. L352 (Ab)
+	  - Code de la santé publique - art. L354 (M)
+
+	**Cite**:
+
+	  - Code civil - art. 373 (M)
+	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L346 (M)
+	  - Code de la santé publique - art. L353 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-9 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 14
+
+
+###### Article L340
+
+Dans les vingt-quatre heures de la sortie, les chefs, préposés ou directeurs en donneront avis, aux fonctionnaires désignés
+dans le dernier paragraphe de l'article L. 333, et leur feront connaître le nom et la résidence des personnes qui auront
+retiré le malade, son état mental au moment de la sortie, et, autant que possible, l'indication du lieu où il aura été
+conduit.
+
+**Nota:**
+
+Dans sa décision n° 2011-202 QPC du 2 décembre 2011 (NOR : CSCX11322870S), le Conseil constitutionnel a déclaré contraire à
+la Constitution l'article L. 340 du code de la santé publique, dans sa rédaction antérieure à la loi n° 90-527 du 27 juin
+1990. La déclaration d'inconstitutionnalité prend effet à compter de la publication de la présente décision dans les
+conditions fixées par son considérant 16.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-10 (VT)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L333 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 15
+
+
+###### Article L341
+
+Le préfet pourra toujours ordonner la sortie immédiate des personnes placées volontairement dans les établissements
+d'aliénés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°91-981 du 25 septembre 1991 - art. 6 (Ab)
+	  - Code de la santé publique - art. L332-2 (Ab)
+	  - Code de la santé publique - art. L332-4 (Ab)
+	  - Code de la santé publique - art. L338 (Ab)
+	  - Code de la santé publique - art. L342 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3212-11 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 16
+
+
+###### Article L342
+
+Le mineur ne pourra être remis qu'à ceux sous l'autorité desquels il est placé par la loi, à moins qu'il n'en soit autrement
+ordonné par le tribunal, à la requête du procureur de la République, sur avis du médecin traitant de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 7 () JORF 4 janvier 1968
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - CODE DE PROCEDURE PENALE - art. D398 (V)
+	  - Code de la santé publique - art. L209-5 (Ab)
+	  - Code de la santé publique - art. L332 (Ab)
+	  - Code de la santé publique - art. L339 (Ab)
+	  - Code de la santé publique - art. L343 (Ab)
+	  - Code de la santé publique - art. L348 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (Ab)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 17
+
+
+##### Section 2 : Placement d'office.
+
+###### Article L343
+
+A Paris, le préfet de police [*autorité compétente*], et, dans les départements, les préfets ordonneront d'office le
+placement, dans un établissement d'aliénés, de toute personne interdite ou non interdite, dont l'état d'aliénation
+compromettrait l'ordre public ou la sûreté des personnes.
+
+Les ordres des préfets seront motivés et devront énoncer les circonstances qui les auront rendus nécessaires. Ces ordres,
+ainsi que ceux qui seront donnés conformément aux articles L. 344, 345, 346 et 348, seront inscrits sur un registre semblable
+à celui qui est prescrit par l'article L. 337 ci-dessus, dont toutes les dispositions seront applicables aux individus placés
+d'office.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 2 (V)
+	  - Arrêté du 22 novembre 1991 - art. 1 (V)
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+	  - Code de la santé publique - art. L332 (Ab)
+	  - Code de la santé publique - art. L332-4 (Ab)
+	  - Code de la santé publique - art. L342 (Ab)
+	  - Code de la santé publique - art. L347 (M)
+	  - Code de la santé publique - art. L349 (M)
+	  - Code de la santé publique - art. L354 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-2 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L344 (M)
+	  - Code de la santé publique - art. L345 (M)
+	  - Code de la santé publique - art. L346 (M)
+	  - Code de la santé publique - art. L348 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 18
+
+
+###### Article L344
+
+En cas de danger imminent, attesté par le certificat d'un médecin ou par la notoriété publique, les commissaires de police à
+Paris, et les maires dans les autres communes, ordonneront, à l'égard des personnes atteintes d'aliénation mentale, toutes
+les mesures provisoires nécessaires, à la charge d'en référer dans les vingt-quatre heures au préfet, qui statuera sans
+délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L347 (M)
+	  - Code de la santé publique - art. L349 (M)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L354 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-3 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 19
+
+
+###### Article L345
+
+Les chefs, directeurs ou préposés responsables des établissements seront tenus d'adresser aux préfets, dans le premier mois
+de chaque semestre, un rapport rédigé par le médecin de l'établissement sur l'état de chaque personne qui y sera retenue, sur
+la nature de sa maladie et les résultats du traitement.
+
+Le préfet prononcera sur chacune individuellement, ordonnera sa maintenue dans l'établissement ou sa sortie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+	  - Arrêté du 14 octobre 1986 - art. 16 (V)
+	  - Code de la santé publique - art. L342 (Ab)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L347 (M)
+	  - Code de la santé publique - art. L348 (M)
+	  - Code de la santé publique - art. L352 (Ab)
+	  - Code de la santé publique - art. L354 (M)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-4 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 20
+
+
+###### Article L346
+
+A l'égard des personnes dont le placement aura été volontaire, et dans le cas où leur état mental pourrait compromettre
+l'ordre public ou la sûreté des personnes, le préfet [*autorité compétente*] pourra, dans les formes tracées par le 2ème
+alinéa de l'article L. 343, décerner un ordre spécial, à l'effet d'empêcher qu'elles ne sortent de l'établissement sans son
+autorisation, si ce n'est pour être placées dans un autre établissement.
+
+Les chefs, directeurs ou préposés responsables seront tenus de se conformer à cet ordre [*obligation*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+	  - Code de la santé publique - art. L339 (M)
+	  - Code de la santé publique - art. L342 (Ab)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L347 (M)
+	  - Code de la santé publique - art. L352 (Ab)
+	  - Code de la santé publique - art. L353 (Ab)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-5 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L353 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L355 : SANCTIONS
+
+	**Cite**:
+
+	  - Code de la santé publique L343 AL. 2
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 21
+
+
+###### Article L347
+
+Les procureurs de la République seront informés de tous les ordres donnés en vertu des articles L. 343, 344, 345 et 346 ci-
+dessus.
+
+Ces ordres seront notifiés au maire du domicile des personnes soumises au placement, qui en donnera immédiatement avis aux
+familles.
+
+Il en sera rendu compte au ministre de l'Intérieur. Les diverses notifications prescrites par le présent article seront
+faites dans les formes et délais énoncés en l'article L. 335 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+	  - Code de la santé publique - art. L339 (Ab)
+	  - Code de la santé publique - art. L342 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-6 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L335 (M)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L344 (M)
+	  - Code de la santé publique - art. L345 (M)
+	  - Code de la santé publique - art. L346 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 22
+
+
+###### Article L348
+
+Si dans l'intervalle qui s'écoulera entre les rapports ordonnés par l'article L. 345, les médecins déclarent, sur le registre
+tenu en exécution de l'article L. 337, que la sortie peut être ordonnée, les chefs, directeurs ou préposés responsables des
+établissements, seront tenus, sous peine d'être poursuivis conformément à l'article L. 352 ci-après, d'en référer
+[*obligation*] aussitôt au préfet, qui statuera sans délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+	  - Arrêté du 14 octobre 1986 - art. 16 (V)
+	  - Code de la santé publique - art. L342 (Ab)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L348-1 (Ab)
+	  - Code de la santé publique - art. L354 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-7 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L345 (M)
+	  - Code de la santé publique - art. L352 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 23
+
+
+###### Article L349
+
+Les hospices et hôpitaux civils seront tenus [*obligation*] de recevoir provisoirement les personnes qui leur seront
+adressées en vertu des articles L. 343 et 344, jusqu'à ce qu'elles soient dirigées sur l'établissement spécial destiné à les
+recevoir, aux termes de l'article L. 326, ou pendant le trajet qu'elles feront pour s'y rendre.
+
+Dans toutes les communes où il existe des hospices ou hôpitaux, les aliénés ne pourront être déposés ailleurs que dans ces
+hospices ou hôpitaux.
+
+Dans les lieux où il n'en existe pas, les maires devront pourvoir à leur logement, soit dans une hôtellerie, soit dans un
+local loué à cet effet.
+
+Dans aucun cas, les aliénés ne peuvent être ni conduits avec les condamnés ou les prévenus, ni déposés dans une prison
+[*interdiction*].
+
+Ces dispositions sont applicables à tous les aliénés dirigés par l'administration sur un établissement public ou privé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°91-981 du 25 septembre 1991 - art. 8 (Ab)
+	  - Arrêté du 14 décembre 1986 - art. 3 (V)
+	  - Arrêté du 14 octobre 1986 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3213-9 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L326 (M)
+	  - Code de la santé publique - art. L343 (M)
+	  - Code de la santé publique - art. L344 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 24
+
+
+##### Section 3 : Dispositions communes *au placement volontaire ou d'office*.
+
+###### Article L350
+
+Les aliénés dont le placement aura été ordonné par le préfet, et dont les familles n'auront pas demandé l'admission dans un
+établissement privé, seront conduits dans l'établissement appartenant au département [*lieu*], ou avec lequel il aura traité.
+
+Les aliénés dont l'état mental ne compromettrait point l'ordre public ou la sûreté des personnes y seront également admis,
+dans les formes, dans les circonstances et aux conditions qui seront réglées par le conseil général, sur la proposition du
+préfet, et approuvées par le ministre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-11 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L341 (Ab)
+	  - Code de la santé publique - art. L342 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 25
+
+
+###### Article L351
+
+Toute personne placée ou retenue dans l'un des établissements [*de soins*] visés au chapitre II, son tuteur si elle est
+mineure, son tuteur ou curateur, si, majeure, elle a été mise en tutelle ou en curatelle, son conjoint, tout parent, allié ou
+ami, et éventuellement le curateur à la personne, désigné en vertu de l'article suivant [*requérant*], pourront, à quelque
+époque que ce soit, se pourvoir devant le tribunal du lieu de la situation de l'établissement [*ressort*], qui, après les
+vérifications nécessaires, ordonnera, s'il y a lieu, la sortie immédiate.
+
+Les personnes qui auront demandé le placement et le procureur de la République, d'office, pourront se pourvoir aux mêmes
+fins.
+
+La décision sera rendue, sur simple requête, en chambre du conseil et sans délai ; elle ne sera point motivée.
+
+La requête, le jugement et les autres actes auxquels la réclamation pourrait donner lieu, seront visés pour timbre et
+enregistrés en débet.
+
+Aucune requête, aucune réclamation adressée, soit à l'autorité judiciaire, soit à l'autorité administrative, ne pourront être
+supprimées ou retenues par des chefs d'établissements, sous les peines portées à l'article L. 355 ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 6 () JORF 4 janvier 1968
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-12 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L332-4 (Ab)
+	  - Code de la santé publique - art. L352 (Ab)
+	  - Code de la santé publique - art. L354 (M)
+	  - Code de la santé publique - art. L355 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 29
+
+
+###### Article L352
+
+Sur la demande de l'intéressé, de l'un de ses parents, de l'époux ou de l'épouse, d'un ami, ou sur la provocation d'office du
+procureur de la République, le tribunal pourra nommer en chambre du conseil, par jugement non susceptible d'appel, en outre
+de l'administrateur provisoire, un curateur à la personne de tout individu non interdit placé dans un établissement
+d'aliénés, lequel devra veiller [*attributions*] : 1° à ce que ses revenus soient employés à adoucir son sort et à accélérer
+sa guérison ; 2° à ce que ledit individu soit rendu au libre exercice de ses droits aussitôt que sa situation le permettra.
+
+Ce curateur ne pourra être choisi parmi les héritiers présomptifs de la personne placée dans un établissement d'aliénés
+[*incompatibilité*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3214-1 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L348 (M)
+	  - Code de la santé publique - art. L351 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 38
+
+
+#### Chapitre 5 : Dispositions pénales.
+
+###### Article L354
+
+Les chefs, directeurs ou préposés responsables [*interdiction*] ne pourront, sous les peines portées par l'article 120 du
+Code pénal, retenir une personne placée dans un établissement d'aliénés, dès que sa sortie aura été ordonnée par le préfet,
+aux termes des articles L. 341, 345 et 348, ou par le tribunal, aux termes de l'article L. 351, ni lorsque cette personne se
+trouvera dans les cas énoncés aux articles L. 338 et 339.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code pénal 120
+	  - Code de la santé publique - art. L338 (M)
+	  - Code de la santé publique - art. L339 (M)
+	  - Code de la santé publique - art. L341 (M)
+	  - Code de la santé publique - art. L345 (M)
+	  - Code de la santé publique - art. L348 (M)
+	  - Code de la santé publique - art. L351 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 30
+
+
+###### Article L355
+
+Les contraventions aux dispositions des articles L. 330, 333, 336, 337, du 2ème alinéa de l'article L. 338, des articles L.
+340, 342, 345, 346 et du dernier alinéa de l'article L. 351, et aux règlements pris en vertu de l'article L. 331 ci-dessus
+qui seront commises par les chefs, directeurs ou préposés responsables des établissements publics ou privés d'aliénés, par
+les médecins employés dans ces établissements, seront punies d'un emprisonnement de cinq jours à un an et d'une amende de 180
+F à 20.000 F ou de l'une ou l'autre de ces peines *sanctions*.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°73-364 du 12 mars 1973 - art. 16 (Ab)
+	  - Décret n°95-589 du 6 mai 1995 - art. 9 (M)
+	  - Code de la santé publique - art. L351 (M)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 22 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3211-13 (V)
+	  - Code de la santé publique - art. L3212-12 (V)
+	  - Code de la santé publique - art. L3213-10 (V)
+	  - Code de la santé publique - art. L3221-6 (V)
+	  - Code de la santé publique - art. L3222-6 (V)
+	  - Code de la santé publique - art. L3223-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L330 (M)
+	  - Code de la santé publique - art. L331 (M)
+	  - Code de la santé publique - art. L333 (M)
+	  - Code de la santé publique - art. L336 (M)
+	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L340 (M)
+	  - Code de la santé publique - art. L342 (M)
+	  - Code de la santé publique - art. L345 (M)
+	  - Code de la santé publique - art. L346 (M)
+	  - Code de la santé publique L330, L333, L336, L337, L338 AL. 2, L340, L342, L345, L346, L351, L331
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 41
+
+
+## LIVRE 4 : PROFESSIONS MEDICALES ET AUXILIAIRES MEDICAUX
+
+### TITRE 1 : PROFESSIONS DE MEDECIN, DE CHIRURGIEN DENTISTE ET DE SAGE-FEMME
+
+#### CHAPITRE 1 : EXERCICE DE LA PROFESSION
+
+##### SECTION 1 : CONDITIONS AUXQUELLES EST SUBORDONNE L'EXERCICE DE LA PROFESSION.
+
+###### Article L357
+
+Par dérogation aux dispositions des 1° et 2° de l'article L. 356 et sous réserve des dispositions transitoires prévues à
+l'article L. 360 ci-après, les médecins et chirurgiens-dentistes étrangers exerçant légalement leur profession en France à la
+date du 3 septembre 1939 et les sages-femmes étrangères exerçant légalement leur profession en France au 24 septembre 1945
+sont autorisés à continuer la pratique de leur art.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°76-1288 1976-12-31 art. 3 JORF 1ER janvier 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - TXT_ASSOCIE: Code de la santé publique - art. L356 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L360 (Ab)
+	  - Code de la santé publique L356 AL. 1 ET AL. 2, L360
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L372 (Ab)
+	  - Code de la santé publique - art. L373 (Ab)
+	  - Code de la santé publique - art. L374 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4111-6 (V)
+
+
+###### Article L358
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles :
+
+1° Les étudiants de nationalité étrangère peuvent s'inscrire dans les unités d'enseignement et de recherche de médecine ou de
+chirurgie dentaire en vue de l'obtention du diplôme d'Etat ;
+
+2° Les titulaires d'un diplôme étranger de médecin ou de chirurgien-dentiste permettant d'exercer dans le pays de délivrance,
+les titulaires d'un diplôme français d'université afférent à ces disciplines et les titulaires d'un diplôme étranger de sage-
+femme peuvent postuler les diplômes français d'Etat correspondants.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-661 1972-07-13 art. 3 JORF 14 juillet 1972
+	  - Loi n°78-731 du 12 juillet 1978 - art. 10 () JORF 13 juillet 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°84-177 du 2 mars 1984
+	  - TXT_SOURCE: Décret n°84-177 du 2 mars 1984 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°84-177 du 2 mars 1984 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°84-177 du 2 mars 1984 - art. 11 (V)
+	  - TXT_SOURCE: Décret n°84-177 du 2 mars 1984 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°84-177 du 2 mars 1984 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°84-177 du 2 mars 1984 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°84-177 du 2 mars 1984 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°84-177 du 2 mars 1984 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°84-177 du 2 mars 1984 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°84-177 du 2 mars 1984 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°84-177 du 2 mars 1984 - art. 9 (V)
+	  - TXT_SOURCE: Décret n°98-509 du 17 juin 1998
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Cité par**:
+
+	  - Décret n°97-1189 du 19 décembre 1997 - art. Annexe (V)
+	  - Décret n°2014-1275 du 23 octobre 2014 - art. (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de l'éducation - art. L631-2 (V)
+	  - Code de la santé publique - art. L4131-6 (M)
+
+
+###### Article L359
+
+Les étudiants en médecine français ou ressortissant de l'un des états membres de la communauté économique européenne
+[*condition de nationalité*] reçus au concours de l'internat des centres hospitaliers régionaux faisant partie d'un centre
+hospitalier et universitaire et les étudiants en médecine français ou ressortissants de l'un des états membres de la
+communauté économique européenne ayant achevé en France avec succès le deuxième cycle des études médicales peuvent être
+autorisés à exercer la médecine soit en temps d'épidémie, soit à titre de remplaçant d'un docteur en médecine, soit, en cas
+d'afflux exceptionnel de population dans une région déterminée, comme adjoint d'un docteur en médecine.
+
+Par dérogation aux dispositions ci-dessus, les étudiants en médecine français ou ressortissants de l'un des Etats membres de
+la communauté économique européenne ayant validé en France la totalité des enseignements théoriques afférents à la deuxième
+partie du deuxième cycle des études médicales peuvent être autorisés à effectuer des remplacements pendant leur congé
+[*payé*] annuel.
+
+Les autorisations visées aux alinéas ci-dessus sont délivrées par le préfet [*autorité compétente*], après avis favorable du
+conseil départemental de l'ordre, et limitées à trois mois [*durée*] ; elles sont renouvelables dans les mêmes conditions.
+
+Lorsque les besoins de la santé publique l'exigent, le ministre chargé de la santé publique [*autorité compétente*] peut, par
+arrêté pris, sauf en cas d'extrême urgence, après avis des conseils de l'ordre intéressés, habiliter les préfets à autoriser,
+dans les conditions prévues à l'alinéa précédent, l'exercice de la médecine par :
+
+Tout ou partie des étudiants remplissant les conditions fixées au premier alinéa du présent article ;
+
+Tout ou partie des étudiants qui remplissent les conditions suivantes :
+
+1° En ce qui concerne l'enseignement théorique, avoir été admis en troisième année d'études de la deuxième partie du deuxième
+cycle dans les unités d'enseignement et de recherche de médecine où l'enseignement théorique est organisé par ensembles
+annuels ou semestriels, ou bien avoir obtenu les deux tiers des certificats de la deuxième partie du deuxième cycle ;
+
+2° En ce qui concerne la formation clinique, avoir accompli valablement les obligations d'activité hospitalière correspondant
+à la deuxième année de la deuxième partie du deuxième cycle ;
+
+L'arrêté ci-dessus prévu fixe le délai pendant lequel il est applicable.
+
+Peuvent être autorisés par le préfet, après avis du conseil départemental de l'ordre, à exercer l'art dentaire, soit à titre
+de remplaçant, soit comme adjoint d'un chirurgien dentiste :
+
+1° Pour les seules périodes de vacances universitaires et dans la limite de deux années consécutives [*durée*], les étudiants
+en chirurgie dentaire français ou ressortissants de l'un des états membres de la communauté économique européenne ayant
+accompli en France leur quatrième année d'études odontologiques, celle-ci étant validée ; dans ce cas, l'avis du directeur de
+l'unité d'enseignement et de recherche d'otontologie doit avoir été recueilli par le conseil de l'ordre ;
+
+2° Les étudiants en chirurgie dentaire français ou ressortissants de l'un des états membres de la communauté économique
+européenne ayant satisfait en France à l'examen de cinquième année, pendant l'année qui suit cet examen, ce délai pouvant
+être prorogé d'une durée égale à celle du service national accompli par les intéressés à la suite dudit examen. Le bénéfice
+de l'autorisation préfectorale est prolongé après la soutenance de thèse jusqu'à ce qu'il soit statué sur leur demande
+d'inscription au tableau de l'ordre, si la demande est faite dans le mois de cette soutenance.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°55-346 1955-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Loi n°57-18 du 9 janvier 1957 - art. 3 (V)
+	  - Décret n°75-1344 du 30 décembre 1975 - art. 7 (Ab)
+	  - Arrêté du 6 mars 1989 - art. 5 (Ab)
+	  - Décret n°94-120 du 4 février 1994 - art. 1 (Ab)
+	  - Décret n°94-120 du 4 février 1994 - art. 4 (Ab)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+	  - Code de déontologie des chirurgiens-dentistes - art. 1 (Ab)
+	  - Code de déontologie des chirurgiens-dentistes - art. 68 (Ab)
+	  - Code de déontologie des médecins. - art. 60 (Ab)
+	  - Code de déontologie médicale - art. 65 (Ab)
+	  - Code de la santé publique - art. L372 (Ab)
+	  - Code de la santé publique - art. L373 (Ab)
+	  - Code de la sécurité sociale. - art. L722-1 (M)
+	  - Code des débits de boissons et des mesures contre  - art. R*18 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°58-350 1958-04-04 art. 1 JORF 5 avril 1958
+	  - Loi n°72-660 1972-07-13 art. 2 JORF 14 juillet 1972
+	  - Loi n°75-1282 1975-12-30 art. 1 JORF 31 décembre 1975
+	  - Loi n°80-1040 1980-12-23 art. 3 et art. 4 JORF 24 décembre 1980
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°94-120 du 4 février 1994
+	  - TXT_SOURCE: Décret n°94-120 du 4 février 1994 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°94-120 du 4 février 1994 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°94-120 du 4 février 1994 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°94-120 du 4 février 1994 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°94-120 du 4 février 1994 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°94-120 du 4 février 1994 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°94-120 du 4 février 1994 - art. ANNEXE (Ab)
+	  - TXT_SOURCE: Décret n°98-168 du 13 mars 1998
+
+
+###### Article L360
+
+Les dispositions de la présente section ne portent pas atteinte aux dispositions transitoires contenues dans l'ordonnance n°
+45-1748 du 6 août 1945 relative à l'exercice de la médecine par des médecins étrangers.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-1748 1945-08-06
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L357 (Ab)
+	  - Code de la santé publique - art. L372 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4131-3 (V)
+
+	**Modifié par**:
+
+	  - Loi n°55-19 1955-01-04 art. 2 JORF 7 janvier 1955
+
+
+##### Section 2 : Règles d'exercice de la profession
+
+##### Paragraphe 1 : Règles communes *à l'exercice de la profession de médecin, chirurgien-dentiste ou sage-femme*
+
+###### Article L361
+
+Les médecins, les chirurgiens-dentistes et les sages-femmes sont tenus, dans le mois [*délai*] de leur établissement, de
+faire enregistrer [*formalité obligatoire*] sans frais leur diplôme à la préfecture ou sous-préfecture et au greffe du
+tribunal de grande instance [*lieu*]. En cas de changement d'établissement, il doit être procédé à un nouvel enregistrement
+du titre.
+
+Il en est de même dans le cas du praticien qui, ayant interrompu depuis deux ans [*durée*] l'exercice de sa profession,
+désire reprendre cet exercice.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L379 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4113-1 (M)
+	  - Code de la santé publique - art. L4113-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 4 JORF 14 juillet 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L362
+
+Il est établi, chaque année, dans les départements   , par les soins des préfets, des listes distinctes des médecins, des
+chirurgiens-dentistes et des sages-femmes, portant pour chacun d'eux les nom, prénoms, la résidence professionnelle, la date
+et la provenance du diplôme, la date d'inscription au tableau de l'Ordre des médecins, des chirurgiens-dentistes ou des
+sages-femmes. 
+
+Cette dernière mention n'est portée ni pour les médecins du cadre actif du service de santé des armées de terre, de mer et de
+l'air, ni pour les médecins fonctionnaires n'ayant pas de clientèle privée. 
+
+Ces listes sont, chaque année, insérées au recueil des textes administratifs de la préfecture et affichées chaque année, au
+mois de janvier, dans toutes les communes du département. Des copies certifiées conformes sont transmises au ministère de la
+Santé publique et de la Population, au conseil national de l'Ordre et au conseil régional intéressé.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 2 : le présent article est applicable dans les départements d'outre-mer et les
+collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon sous réserve des adaptations prévues aux articles L466
+et suivants.
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4113-2 (M)
+	  - Code de la santé publique - art. L4113-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L412 (Ab)
+	  - Code de la santé publique - art. L469-4 (Ab)
+	  - Code de la santé publique - art. L472-2 (Ab)
+
+
+###### Article L363
+
+Il est interdit d'exercer la médecine, l'art dentaire ou la pratique des accouchements sous un pseudonyme.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Code de déontologie médicale - art. 75 (Ab)
+	  - Code de la santé publique - art. L376 (M)
+	  - Code de la santé publique - art. L376-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L376-1 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L376 : DISPOSITIONS PENALES
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4113-3 (V)
+	  - Code de la santé publique - art. L4163-5 (V)
+
+
+###### Article L364
+
+Les médecins, les chirurgiens-dentistes et sages-femmes ayant droit d'exercer en France ne peuvent donner des consultations
+[*interdiction*] dans les locaux ou les dépendances des locaux commerciaux [*lieu*] où sont vendus les appareils qu'ils
+prescrivent ou qu'ils utilisent.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L376-1 : sanction pénale.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - TXT_ASSOCIE: Code de la santé publique - art. L376-1 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L376 : DISPOSITIONS PENALES
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L376 (M)
+	  - Code de la santé publique - art. L376-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4113-4 (V)
+	  - Code de la santé publique - art. L4163-6 (V)
+
+
+###### Article L365
+
+Il est interdit à toute personne ne remplissant pas les conditions requises pour l'exercice de la profession de recevoir, en
+vertu d'une convention, la totalité ou une quote-part des honoraires ou des bénéfices provenant de l'activité professionnelle
+d'un médecin ou d'un chirurgien dentiste.
+
+En outre, certaines conventions entre pharmaciens et membres des professions médicales sont interdites par les articles L.
+549 et L. 550.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 ART. 13
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Code de déontologie des chirurgiens-dentistes - art. 7 (Ab)
+	  - Code de la santé publique - art. L376 (M)
+	  - Code de la santé publique - art. L376-1 (Ab)
+	  - Code de la santé publique - art. L376-2 (Ab)
+	  - Code de la santé publique - art. L472-16 (Ab)
+	  - Code de la santé publique - art. L472-3 (Ab)
+	  - Code de la santé publique - art. L510-9-2 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L376-1 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L510-9-4 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L376 : DISPOSITIONS PENALES
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4113-5 (V)
+	  - Code de la santé publique - art. L4163-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L549 (Ab)
+	  - Code de la santé publique - art. L550 (Ab)
+
+
+###### Article L366
+
+Un code de déontologie, propre à chacune des professions de médecin, chirurgien-dentiste et sage-femme, préparé par le
+conseil national de l'Ordre intéressé et soumis au Conseil d'Etat, est édicté sous la forme d'un décret en Conseil d'Etat.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 ART. 66
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L374 (Ab)
+	  - Code de la santé publique - art. L382 (Ab)
+	  - Code de la santé publique - art. L409 (Ab)
+	  - Code de la santé publique - art. L462 (Ab)
+	  - Code de la santé publique - art. L799 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4127-1 (V)
+
+
+##### Paragraphe 2 : Règles propres à l'exercice de la profession de médecin
+
+###### Article L367
+
+Tout médecin est tenu [*obligation*] de déférer aux réquisitions de l'autorité publique.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 16
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - TXT_ASSOCIE: Code de la santé publique L379 : DISPOSITIONS PENALES
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L379 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4163-7 (M)
+	  - Code de la santé publique - art. L4163-7 (V)
+
+
+##### Paragraphe 3 : Règles propres à l'exercice de la profession de chirurgien-dentiste
+
+###### Article L368
+
+Les chirurgiens dentistes peuvent prescrire tous les médicaments nécessaires à l'exercice de l'art dentaire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°71-1026 du 24 décembre 1971 - art. 3 () JORF 25 décembre 1971
+
+	**Cité par**:
+
+	  - Arrêté du 9 août 1991 - art. 2 (Ab)
+	  - Code de la santé publique - art. R5172 (M)
+	  - Code de la santé publique - art. R5173 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4141-2 (V)
+
+
+##### Paragraphe 4 : Règles propres à l'exercice de la profession de sage-femme
+
+###### Article L371
+
+Les sages-femmes sont autorisées à pratiquer les vaccinations et revaccinations antivarioliques et les soins prescrits ou
+conseillés par un médecin.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 4
+	  - Loi n°50-920 1950-08-09
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L374 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4151-2 (M)
+
+
+##### Section 3 : Exercice illégal des professions de médecin, de chirurgien-dentiste et de sage-femme
+
+###### Article L372
+
+Exerce illégalement la médecine [*interdiction*] :
+
+1° Toute personne qui prend part habituellement ou par direction suivie, même en présence d'un médecin, à l'établissement
+d'un diagnostic ou au traitement de maladies ou d'affections chirurgicales, congénitales ou acquises, réelles ou supposées,
+par actes personnels, consultations verbales ou écrites ou par tous autres procédés quels qu'ils soient, ou pratique l'un des
+actes professionnels prévus dans une nomenclature fixée par arrêté du ministre de la Santé publique pris après avis de
+l'Académie nationale de médecine, sans être titulaire d'un diplôme, certificat ou autre titre mentionné à l'article L. 356-2
+et exigé pour l'exercice de la profession de médecin, ou sans être bénéficiaire des dispositions spéciales visées aux
+articles L. 356, L. 357, L. 357-1, L. 359 et L. 360 ;
+
+2° Toute personne qui se livre aux activités définies au 1er ci-dessus sans satisfaire à la condition [*de nationalité*]
+posée au 2° de l'article L. 356 du présent titre compte tenu, le cas échéant, des exceptions apportées à celle-ci par le
+présent code et notamment par ses articles L. 357 et L. 357-1 ;
+
+3° Toute personne qui, munie d'un titre régulier, sort des attributions que la loi lui confère, notamment en prêtant son
+concours aux personnes visées aux paragraphes précédents, à l'effet de les soustraire aux prescriptions du présent titre ;
+
+4° Toute personne titulaire d'un diplôme, certificat ou tout autre titre de médecin qui exerce la médecine sans être inscrite
+à un tableau de l'Ordre des médecins institué conformément au chapitre II du présent titre ou pendant la durée de la peine
+d'interdiction temporaire prévue à l'article L. 423 à l'exception des personnes visées à l'article L. 356, dernier alinéa, du
+présent titre ;
+
+5° Tout médecin mentionné à l'article L. 356-1 du présent code qui exécute des actes professionnels sans remplir les
+conditions ou satisfaire aux obligations prévues audit article.
+
+Les dispositions du présent article ne s'appliquent pas [*non*] aux étudiants en médecine ni aux sages-femmes, ni aux
+infirmiers ou gardes-malades qui agissent comme aides d'un docteur en médecine ou que celui-ci place auprès de ses malades,
+ni aux personnes qui accomplissent dans les conditions prévues par décret en Conseil d'Etat pris après avis de l'académie
+nationale de médecine les actes professionnels dont la liste est établie par ce même décret.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 33.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 2 : le présent article est applicable dans les départements d'outre-mer et les
+collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon sous réserve des adaptations prévues aux articles L466
+et suivants.
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1962-01-06
+	  - TXT_SOURCE: Décret n°83-766 du 24 août 1983
+	  - TXT_SOURCE: Décret n°83-766 du 24 août 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988 - art. 4 (Ab)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 2, art. 3 : conditions d'application
+	  - SPEC_APPLI: Ordonnance n°2000-189 du 2 mars 2000 - art. 2 ()
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2184 du 24 septembre 1945 - art. 8, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 6 janvier 1962 - art. 2 (V)
+	  - Arrêté du 6 avril 1988 - art. ANNEXE (V)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 33 (Ab)
+	  - Arrêté du 9 décembre 1992 - art. ANNEXE (V)
+	  - Décret n°93-221 du 16 février 1993 - art. 3 (Ab)
+	  - Loi n°95-116 du 4 février 1995 - art. 3 (M)
+	  - Décret n°96-879 du 8 octobre 1996
+	  - Loi n°99-641 du 27 juillet 1999 - art. 60 (M)
+	  - Code de la santé publique - art. L374 (M)
+	  - Code de la santé publique - art. L469-7 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°72-661 1972-07-13 art. 4 JORF 14 juillet 1972
+	  - Loi n°76-1288 1976-12-31 art. 6 JORF 1er janvier 1977
+	  - Loi n°78-615 1978-05-31 art. 4 JORF 1er juin 1978
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L356 (M)
+	  - Code de la santé publique - art. L356-1 (M)
+	  - Code de la santé publique - art. L356-2 (M)
+	  - Code de la santé publique - art. L357 (Ab)
+	  - Code de la santé publique - art. L357-1 (Ab)
+	  - Code de la santé publique - art. L359 (M)
+	  - Code de la santé publique - art. L360 (Ab)
+	  - Code de la santé publique - art. L423 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4161-1 (M)
+	  - Code de la santé publique - art. L4161-1 (V)
+
+
+###### Article L373
+
+La pratique de l'art dentaire comporte le diagnostic et le traitement des maladies de la bouche, des dents et des
+maxillaires, congénitales ou acquises, réelles ou supposées, dans les conditions prévues par le Code de déontologie des
+chirurgiens-dentistes. 
+
+Exerce illégalement l'art dentaire : 
+
+1° Toute personne qui prend part habituellement ou par direction suivie, même en présence d'un praticien, à la pratique de
+l'art dentaire, par consultation, acte personnel ou tous autres procédés, quels qu'ils soient, notamment prothétiques ; 
+
+Sans être titulaire d'un diplôme, certificat ou autre titre mentionné à l'article L. 356-2 et exigé pour l'exercice de la
+profession de médecin ou de chirurgien-dentiste, alors qu'elle n'est pas régulièrement dispensée de la possession de l'un de
+ces diplômes, certificats ou titres par application du présent code ; 
+
+Ou sans remplir les autres conditions fixées à l'article L. 356, compte tenu, le cas échéant, des exceptions apportées à
+celles-ci par le présent code et, notamment, par son article L. 357, ainsi que par l'article 8 de la loi n° 71-1026 du 24
+décembre 1971 ; 
+
+2° Toute personne qui, munie d'un titre régulier, sort des attributions que la loi lui confère, notamment en prêtant son
+concours aux personnes mentionnées au 1er ci-dessus, à l'effet de les soustraire aux prescriptions du présent titre ; 
+
+3° Tout médecin, tout chirurgien dentiste qui exerce l'art dentaire tel qu'il est défini au présent article pendant la durée
+d'une peine d'interdiction temporaire prononcée en application des articles L. 423 et L. 442 ; 
+
+4° Tout médecin ou tout praticien de l'art dentaire                mentionné à l'article L. 356-1 du présent code qui exécute
+des actes professionnels sans remplir les conditions ou satisfaire aux obligations prévues à cet article. 
+
+Les dispositions du présent article ne s'appliquent pas aux étudiants en art dentaire visés au dernier alinéa de l'article L.
+359.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 2 : le présent article est applicable dans les départements d'outre-mer et les
+collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon sous réserve des adaptations prévues aux articles L466
+et suivants.
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°71-1026 du 24 décembre 1971 - art. 8, v. init.
+	  - Code de la santé publique - art. L356 (M)
+	  - Code de la santé publique - art. L356-1 (M)
+	  - Code de la santé publique - art. L356-2 (M)
+	  - Code de la santé publique - art. L357 (Ab)
+	  - Code de la santé publique - art. L359 (M)
+	  - Code de la santé publique - art. L423 (M)
+	  - Code de la santé publique - art. L442 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°72-661 1972-07-13 art. 5 JORF 14 juillet 1972
+	  - Loi n°76-1288 1976-12-31 art. 7 JORF 1ER janvier 1977
+	  - Loi n°80-1040 1980-12-23 art. 6 JORF 24 décembre 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 2, art. 3 : conditions d'application
+	  - SPEC_APPLI: Ordonnance n°2000-189 du 2 mars 2000 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4141-1 (M)
+	  - Code de la santé publique - art. L4161-2 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L469-8 (Ab)
+	  - Code de la santé publique - art. L472-19 (Ab)
+	  - Code de la santé publique - art. L472-7 (Ab)
+
+
+##### SECTION 4 : DISPOSITIONS PENALES.
+
+###### Article L377
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L378
+
+L'usurpation du titre de docteur en médecine ou en chirurgie dentaire ou du titre de sage-femme ainsi que l'usurpation de
+tout autre titre donnant accès en France à l'exercice de la profession de médecin, de chirurgien dentiste ou de sage-femme
+sont punies des peines prévues à l'article 259 du code pénal.
+
+Est considéré comme ayant usurpé [*définition*] le titre français de docteur en médecine ou en chirurgie dentaire quiconque,
+se livrant à l'exercice de la médecine ou de la chirurgie dentaire sans être titulaire du diplôme français d'Etat de docteur
+en médecine ou en chirurgie dentaire, fait précéder ou suivre son nom du titre de docteur sans en indiquer la nature ou sans
+préciser qu'il s'agit d'un titre étranger ou d'un diplôme français d'université [*mentions obligatoires*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°71-1026 du 24 décembre 1971 - art. 5 () JORF 25 décembre 1971
+	  - Loi n°76-1288 1976-12-31 art. 9 JORF 1ER janvier 1977
+
+	**Cité par**:
+
+	  - Loi n°71-1026 du 24 décembre 1971 - art. 8 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Code de la santé publique - art. L469-9 (Ab)
+	  - Code de la santé publique - art. L472-21 (Ab)
+	  - Code de la santé publique - art. L472-9 (Ab)
+
+	**Cite**:
+
+	  - Code pénal 259
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4162-1 (V)
+	  - Code de la santé publique - art. L4162-2 (Ab)
+
+
+#### Chapitre 2 : Organisation de la profession de médecin
+
+##### Section 1 : Ordre national des médecins
+
+###### Article L381
+
+Il est institué un Ordre national des médecins groupant obligatoirement tous les médecins habilités à exercer leur art en
+France [*affiliation*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-661 1972-07-13 art. 7 JORF 14 juillet 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4121-1 (V)
+
+
+###### Article L382
+
+L'Ordre des médecins [*mission*] veille au maintien des principes de moralité, de probité et de dévouement indispensables à
+l'exercice de la médecine et à l'observation, par tous ses membres, des devoirs professionnels, ainsi que des règles édictées
+par le Code de déontologie prévu à l'article L. 366 du présent titre.
+
+Il assure la défense de l'honneur et de l'indépendance de la profession médicale.
+
+Il peut organiser toutes oeuvres d'entraide et de retraite au bénéfice de ses membres et de leurs ayants droit.
+
+Il accomplit sa mission par l'intermédiaire des conseils départementaux, des conseils régionaux et du conseil national de
+l'Ordre.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 431 : APPLICATION A L'ORDRE NATIONAL DES CHIRURGIENS DENTISTES, L. 445 : APPLICATION A
+L'ORDRE NATIONAL DES SAGES-FEMMES.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 6 JORF 14 juillet 1972
+
+	**Cité par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 3 (Ab)
+	  - Loi n°99-641 du 27 juillet 1999 - art. 60 (M)
+	  - Code de la santé publique - art. L394 (Ab)
+	  - Code de la santé publique - art. L409 (Ab)
+	  - Code de la santé publique - art. L431 (Ab)
+	  - Code de la santé publique - art. L445 (Ab)
+	  - Code de la santé publique - art. L462 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - TXT_ASSOCIE: Code de la santé publique - art. L431 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L445 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L366 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4121-2 (M)
+
+
+##### Section 2 : Conseils de l'Ordre des médecins
+
+##### Paragraphe 1 : Conseils départementaux *de l'Ordre des médecins*
+
+###### Article L383
+
+Il existe dans chaque département un conseil départemental de l'Ordre des médecins.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2184 du 24 septembre 1945 - art. 25, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L412 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4132-11 (M)
+	  - Code de la santé publique - art. L4132-11 (V)
+
+
+###### Article L384
+
+Le conseil départemental est composé d'un nombre de membres qui est fixé par voie réglementaire compte tenu du nombre des
+médecins inscrits au dernier tableau qui a été publié.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°59-388 1959-03-04 art. 1 JORF 10 mars 1959
+	  - Décret n°67-894 du 12 octobre 1967 - art. 2 (Ab) JORF 13 octobre 1967
+	  - Loi n°72-660 1972-07-13 art. 7, art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4132-11 (M)
+	  - Code de la santé publique - art. L4132-11 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L385
+
+Les membres du conseil départemental de l'Ordre sont élus par l'assemblée générale des médecins inscrits au tableau.
+
+L'assemblée générale appelée à élire les conseils départementaux de l'Ordre ou à procéder au remplacement des membres desdits
+conseils dont le mandat vient à expiration est convoquée par les soins des présidents des conseils départementaux de l'Ordre
+en exercice et, en cas d'empêchement, par les soins du conseil national de l'Ordre, les frais restant à la charge du conseil
+départemental intéressé.
+
+Une convocation individuelle est adressée, à cet effet, à tous les praticiens du département exerçant à poste fixe et
+inscrits au tableau de l'Ordre, au moins deux mois avant la date fixée pour les élections [*délai*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 433 : DISPOSITIONS APPLICABLES AUX CHIRURGIENS DENTISTES. L. 447 : DISPOSITIONS
+APPLICABLES AUX SAGES-FEMMES.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 26 ET art. 28
+	  - Loi n°51-443 1951-04-19 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L433 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L447 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-3 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L433 (Ab)
+	  - Code de la santé publique - art. L447 (Ab)
+
+
+###### Article L386
+
+L'élection est faite à la majorité [*condition*] des membres présents ou ayant voté par correspondance.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 433 : DISPOSITIONS APPLICABLES AUX CHIRURGIENS DENTISTES. L. 447 : DISPOSITIONS
+APPLICABLES AUX SAGES-FEMMES.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 26
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L433 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L447 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-4 (Ab)
+	  - Code de la santé publique - art. L4123-4 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L433 (Ab)
+	  - Code de la santé publique - art. L447 (Ab)
+
+
+###### Article L387
+
+Sont seuls éligibles, sous réserve des dispositions de l'article L. 423 ci-dessous, les praticiens de nationalité française
+qui, âgés de trente ans révolus, sont inscrits à l'ordre depuis au moins trois ans [*durée d'ancienneté*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 433 : DISPOSITIONS APPLICABLES AUX CHIRURGIENS DENTISTES. L. 447 : DISPOSITIONS
+APPLICABLES AUX SAGES-FEMMES.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 2 : le présent article est applicable dans les départements d'outre-mer et les
+collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon sous réserve des adaptations prévues aux articles L466
+et suivants.
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 8 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L433 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L447 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L398 (Ab)
+	  - Code de la santé publique - art. L433 (Ab)
+	  - Code de la santé publique - art. L447 (Ab)
+	  - Code de la santé publique - art. L448-2 (Ab)
+	  - Code de la santé publique - art. L466 (Ab)
+	  - Code de la santé publique - art. L468 (Ab)
+	  - Code de la santé publique - art. L469-11 (Ab)
+	  - Code de la santé publique - art. L472-11 (Ab)
+	  - Code de la santé publique - art. L472-6 (Ab)
+	  - Code de la santé publique - art. L491-3 (Ab)
+	  - Code de la santé publique - art. L496-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-5 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L423 (M)
+
+
+###### Article L388
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+	  - Code de la santé publique - art. L433 (Ab)
+
+
+###### Article L389
+
+Le conseil de l'Ordre élit son président tous les deux ans [*périodicité, date*] après renouvellement du tiers du conseil.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 433 : DISPOSITIONS APPLICABLES AUX CHIRURGIENS DENTISTES. L. 447 : DISPOSITIONS
+APPLICABLES AUX SAGES-FEMMES.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 26
+
+	**Cité par**:
+
+	  - Loi n°91-558 du 17 juin 1991 - art. 1 (V)
+	  - Code de la santé publique - art. L433 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 1 (V)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L433 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L447 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-6 (V)
+
+
+###### Article L390
+
+Des membres suppléants, également renouvelables par tiers tous les deux ans [*périodicité*], sont élus dans les mêmes
+conditions que les membres titulaires et au cours du même scrutin.
+
+Le nombre des membres suppléants est fixé par voie réglementaire.
+
+Ces membres suppléants remplacent les membres titulaires qui viennent à cesser leurs fonctions pour une cause quelconque
+avant la fin de leur mandat. Dans ce cas, la durée de fonctions des membres suppléants est celle qui restait à courir jusqu'à
+la date à laquelle aurait expiré le mandat de ceux qu'ils remplacent.
+
+Les membres suppléants sont rééligibles.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 433 : DISPOSITIONS APPLICABLES AUX CHIRURGIENS DENTISTES. L. 447 : DISPOSITIONS
+APPLICABLES AUX SAGES-FEMMES.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°67-894 du 12 octobre 1967 - art. 1 (Ab) JORF 13 octobre 1967
+	  - Loi n°72-660 1972-07-13 art. 9, art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+	  - Décret n°59-388 1959-03-04 art. 2 JORF 10 mars 1959
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 1 (V)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L433 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L447 (M)
+
+	**Cité par**:
+
+	  - Loi n°91-558 du 17 juin 1991 - art. 1 (V)
+	  - Code de la santé publique - art. L433 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-8 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L391
+
+Lorsque les membres suppléants ne sont pas en nombre suffisant pour permettre le remplacement des membres titulaires qui ont
+cessé leurs fonctions pour quelque cause que ce soit, il est procédé à des élections complémentaires dans les deux mois
+[*délai*] suivant l'ouverture de la première ou de la seconde vacance qui n'a pu être comblée par l'appel à un membre
+suppléant. Les membres ainsi élus restent en fonctions jusqu'à la date à laquelle aurait expiré le mandat de ceux qu'ils
+remplacent [*durée du mandat*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 433 : DISPOSITIONS APPLICABLES AUX CHIRURGIENS DENTISTES. L. 447 : DISPOSITIONS
+APPLICABLES AUX SAGES-FEMMES.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 10 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L433 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L447 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-9 (M)
+	  - Code de la santé publique - art. L4123-9 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L433 (Ab)
+
+
+###### Article L392
+
+Lorsque, par leur fait, les membres d'un conseil départemental mettent celui-ci dans l'impossibilité de fonctionner, le
+préfet [*autorité compétente*], sur proposition du conseil national de l'ordre, nomme une délégation de trois à cinq membres
+suivant l'importance numérique du conseil défaillant. Cette délégation assure [*transitoirement*] les fonctions du conseil
+départemental jusqu'à l'élection d'un nouveau conseil.
+
+En cas de démission de la majorité des membres de cette délégation, celle-ci est dissoute de plein droit et le conseil
+national organise de nouvelles élections dans les deux mois suivant la dernière démission [*délai*]. Jusqu'à l'entrée en
+fonctions d'un nouveau conseil départemental l'inscription au tableau de l'ordre est en ce cas prononcée par le conseil
+national de l'ordre, suivant la procédure prévue au présent code, après avis du médecin inspecteur départemental de la santé.
+Toutes les autres attributions du conseil départemental sont alors dévolues au conseil national.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 433 : DISPOSITIONS APPLICABLES AUX CHIRURGIENS DENTISTES. L. 447 : DISPOSITIONS
+APPLICABLES AUX SAGES-FEMMES.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 11 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+	  - Décret n°59-388 1959-03-04 art. 3 JORF 10 mars 1959
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L433 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L447 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-10 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L433 (Ab)
+	  - Code de la santé publique - art. L468-3 (Ab)
+	  - Code de la santé publique - art. L469-15 (Ab)
+	  - Code de la santé publique - art. L472-14 (Ab)
+
+
+###### Article L393
+
+Après chaque élection, le procès-verbal de l'élection est notifié sans délai au conseil régional, au Conseil national, au
+préfet, au ministre de la Santé publique et de la Population [*autorités compétentes*].
+
+Les élections peuvent être déférées au conseil régional par les médecins ayant droit de vote et par le préfet dans le délai
+de quinze jours. Ce délai court, pour les médecins, du jour de l'élection et, pour le préfet, de la date à laquelle le
+procès-verbal de l'élection lui a été notifié [*point de départ*].
+
+La décision du conseil régional peut être frappée d'appel [*recours*] devant la section disciplinaire du Conseil national
+[*compétence*] dans le délai de trente jours.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 433 : DISPOSITIONS APPLICABLES AUX CHIRURGIENS DENTISTES. L. 447 : DISPOSITIONS
+APPLICABLES AUX SAGES-FEMMES.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 29
+	  - Loi n°51-443 1951-04-19 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L433 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L447 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-11 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L433 (Ab)
+
+
+###### Article L394
+
+Le conseil départemental de l'Ordre exerce, dans le cadre départemental et sous le contrôle du Conseil national, les
+attributions générales de l'Ordre des médecins, énumérées à l'article L. 382 ci-dessus.
+
+Il statue sur les inscriptions au tableau.
+
+Il autorise le président de l'Ordre à ester en justice, à accepter tous dons et legs à l'Ordre, à transiger ou compromettre,
+à consentir toutes aliénations ou hypothèques et à contracter tous emprunts.
+
+En aucun cas, il n'a à connaître des actes, des attitudes, des opinions politiques ou religieuses des membres de l'Ordre
+[*non discrimination*].
+
+Il peut créer avec les autres conseils départementaux et sous le contrôle du Conseil national de l'Ordre des organismes de
+coordination.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 433 : DISPOSITIONS APPLICABLES AUX CHIRURGIENS DENTISTES. L. 447 : DISPOSITIONS
+APPLICABLES AUX SAGES-FEMMES.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 30
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L433 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L447 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L382 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-1 (M)
+	  - Code de la santé publique - art. L4123-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L433 (Ab)
+
+
+###### Article L395
+
+Le conseil départemental n'a pas de pouvoir disciplinaire. Au cas où des plaintes sont portées devant lui contre les
+médecins, il les transmet au conseil régional avec un avis motivé [*compétence*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 433 : DISPOSITIONS APPLICABLES AUX CHIRURGIENS DENTISTES. L. 447 : DISPOSITIONS
+APPLICABLES AUX SAGES-FEMMES.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-2 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L433 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L447 (M)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L433 (Ab)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 31
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L396
+
+Le président [*autorité compétente*] représente l'Ordre dans tous les actes de la vie civile. Il peut déléguer tout ou partie
+de ses attributions à un ou plusieurs membres du conseil.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 433 : DISPOSITIONS APPLICABLES AUX CHIRURGIENS DENTISTES. L. 447 : DISPOSITIONS
+APPLICABLES AUX SAGES-FEMMES.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 32
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L433 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L447 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-7 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L433 (Ab)
+
+
+###### Article L397
+
+Les délibérations du conseil départemental de l'Ordre ne sont pas publiques [*non*].
+
+En cas de partage égal de voix, le président a voix prépondérante.
+
+Le directeur départemental de la Santé assiste aux séances du conseil départemental, avec voix consultative.
+
+Le conseil départemental peut se faire assister d'un conseiller juridique.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 433 : DISPOSITIONS APPLICABLES AUX CHIRURGIENS DENTISTES. L. 447 : DISPOSITIONS
+APPLICABLES AUX SAGES-FEMMES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 ART. 26 ET ART. 30
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L433 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L447 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-12 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L433 (Ab)
+
+
+##### Paragraphe 2 : Conseils régionaux *de l'Ordre des médecins*
+
+###### Article L398
+
+Sous réserve des dispositions figurant à l'article L. 400 ci-après, le conseil régional de l'ordre des médecins comprend
+[*composition*] neuf [*nombre*] membres titulaires et neuf membres suppléants sauf en ce qui concerne le conseil de la région
+Rhône-Alpes qui comprend onze membres titulaires et onze membres suppléants.
+
+Les membres du conseil régional sont élus par les conseils départementaux parmi les personnes de nationalité française qui
+remplissent les conditions [*d'éligibilité*] fixées à l'article L. 387.
+
+Chaque conseil départemental élit au moins un membre ; les sièges restants sont répartis par le conseil national de l'ordre
+compte tenu du nombre des praticiens inscrits au tableau de chaque département.
+
+Les membres du conseil régional sont élus pour neuf ans [*durée du mandat*] et renouvelables, tous les trois ans par tiers
+lorsque le conseil est composé de neuf membres, et par fraction de trois ou quatre membres lorsqu'il est composé de onze
+membres. Les membres sortants sont rééligibles.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 12 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+	**Cité par**:
+
+	  - Loi n°91-558 du 17 juin 1991 - art. 2 (V)
+	  - Code de la santé publique - art. L437 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 2 (V)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L387 (Ab)
+	  - Code de la santé publique - art. L400 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4132-7 (M)
+
+
+###### Article L401
+
+Les fonctions de président du conseil départemental, de président de conseil régional et de secrétaire général d'un de ces
+conseils, lorsque cette dernière fonction existe, ne sont pas compatibles [*non*] entre elles.
+
+Sous réserve de ce qui est dit aux alinéas ci-après, les membres du conseil régional élisent parmi eux un président.
+
+Chacune des chambres du conseil régional de Paris élit un président parmi ses membres.
+
+Chacun de ces présidents assure alternativement la présidence du conseil régional de la région parisienne pendant une durée
+d'un an et demi.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 437 : ALINEAS 1 ET 2 APPLICABLES AU CONSEIL REGIONAL DE L'ORDRE DES CHIRURGIENS
+DENTISTES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 15 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - TXT_ASSOCIE: Code de la santé publique - art. L437 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4132-10 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L437 (Ab)
+	  - Code de la santé publique - art. L491-7 (Ab)
+	  - Code de la santé publique - art. L496-7 (Ab)
+
+
+###### Article L402
+
+Sont adjoints au conseil [*composition*] avec voix consultative :
+
+Un conseiller juridique qui peut être, au gré du conseil, soit un magistrat honoraire désigné par le premier président de la
+cour d'appel, soit un président honoraire de conseil de préfecture ou un conseiller de préfecture honoraire désigné par le
+président du conseil de préfecture interdépartemental, soit un avocat inscrit au barreau ;
+
+Le directeur départemental de la santé, représentant le ministre de la Santé publique et de la Population ;
+
+Un professeur de la Faculté, ou, à défaut, de l'Ecole de médecine de la région, désigné par le ministre de l'Education
+nationale ;
+
+Le médecin-conseil régional des assurances sociales, représentant le ministre du Travail et de la Sécurité sociale, pour les
+affaires relevant de l'application des lois sur la sécurité sociale.
+
+Un représentant des médecins salariés, désigné par le président du tribunal administratif, sera adjoint à chaque conseil
+régional, avec voix consultative, si ce conseil ne comprend aucun médecin de cette catégorie.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°51-443 1951-04-19 art. 5
+	  - Ordonnance n°45-2184 du 24 septembre 1945 - art. 33, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 16, art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4132-9 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L491-7 (Ab)
+
+
+###### Article L403
+
+Les attributions du conseil régional sont définies aux articles L. 415, 417 et suivants ci-après.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L415 (Ab)
+	  - Code de la santé publique L415, L417 ET S.
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L491-7 (Ab)
+
+
+##### Paragraphe 3 : Conseil national *de l'Ordre des médecins*
+
+###### Article L404
+
+Le conseil national de l'ordre des médecins comprend [*composition*] trente-huit [*nombre*] membres selon la décomposition
+suivante :
+
+1° Trente-deux membres élus pour six ans [*durée du mandat*] par les conseils départementaux.
+
+Ces membres sont répartis comme suit :
+
+a) Un membre par ressort territorial de chaque conseil régional métropolitain ;
+
+b) Neuf membres supplémentaires pour le ressort territorial du conseil régional de la région parisienne, répartis entre les
+départements de cette région selon des modalités fixées par arrêté du ministre chargé de la santé publique, compte tenu du
+nombre des médecins inscrits aux derniers tableaux qui ont été publiés pour ces départements ;
+
+c) Deux membres supplémentaires pour le ressort territorial de deux conseils régionaux désignés par arrêté du ministre chargé
+de la santé publique, compte tenu du nombre des médecins inscrits aux derniers tableaux publiés pour l'ensemble des
+départements métropolitains.
+
+2° Deux membres représentant, l'un les départements de la Guadeloupe, de la Martinique et de la Guyane, et l'autre le
+département de la Réunion.
+
+Outre ces deux membres titulaires sont désignés, dans les mêmes conditions que ceux-ci, deux suppléants qui sont
+obligatoirement élus parmi les médecins exerçant régulièrement en métropole.
+
+L'élection de ces membres titulaires et suppléants est opérée conformément aux règles fixées au 1° du présent article.
+
+3° Un membre de l'académie nationale de médecine qui est désigné par ses collègues.
+
+4° Trois membres élus par les autres membres du conseil national et n'appartenant pas à la région parisienne.
+
+**Nota:**
+
+[*Nota : Arrêté du 2 mars 1973 JORF 11 MARS : REGION PARISIENNE.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1973-03-02
+	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 2 (V)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 17 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+	  - Décret n°59-388 1959-03-04 art. 4 JORF 10 mars 1959
+
+	**Cité par**:
+
+	  - Loi n°91-558 du 17 juin 1991 - art. 2 (V)
+	  - Loi n°91-558 du 17 juin 1991 - art. 3 (V)
+	  - Arrêté du 28 juillet 2009 - art. 3 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4132-1 (M)
+	  - Code de la santé publique - art. L4411-2 (M)
+	  - Code de la santé publique - art. L4441-1 (M)
+
+
+###### Article L405
+
+Le Conseil national est renouvelable par tiers tous les deux ans [*périodicité*].
+
+Il élit son président tous les deux ans ; le président et les conseillers sont rééligibles.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 40
+
+	**Cité par**:
+
+	  - Loi n°91-558 du 17 juin 1991 - art. 2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 2 (V)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4132-2 (V)
+
+
+###### Article L406
+
+Sont adjoints au Conseil national [*composition*] avec voix consultative trois [*nombre*] médecins représentant les ministres
+de la Santé publique et de la Population, de l'Education nationale et du Travail.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4132-3 (M)
+	  - Code de la santé publique - art. L4132-3 (V)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 40
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L408
+
+A sa première réunion et à la première réunion qui suit chaque renouvellement, le Conseil national élit en son sein huit
+[*nombre*] membres qui constituent, avec le conseiller d'Etat désigné conformément à l'article précédent et sous sa
+présidence, une section disciplinaire [*composition*]. Les membres sortants sont rééligibles.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 41
+
+	**Cité par**:
+
+	  - Décret n°48-1671 du 26 octobre 1948 - art. 21 (Ab)
+	  - Code de la santé publique - art. L491-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L407 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4132-5 (M)
+
+
+###### Article L409
+
+Le Conseil national de l'Ordre remplit sur le plan national la mission définie à l'article L. 382 du présent titre, notamment
+il veille à l'observation, par tous les membres de l'Ordre, des devoirs professionnels et des règles édictées par le code de
+déontologie prévu à l'article L. 366. Il étudie les questions ou projets qui lui sont soumis par le ministre de la Santé
+publique et de la Population.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 431 : APPLICATION A L'ORDRE NATIONAL DES CHIRURGIENS DENTISTES. L. 445 : APPLICATION A
+L'ORDRE NATIONAL DES SAGES-FEMMES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 42
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - TXT_ASSOCIE: Code de la santé publique - art. L431 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L445 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de déontologie médicale - art. 1 (Ab)
+	  - Code de la santé publique - art. L431 (Ab)
+	  - Code de la santé publique - art. L445 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L366 (Ab)
+	  - Code de la santé publique - art. L382 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4122-1 (M)
+
+
+##### Section 3 : Inscription aux tableaux départementaux de l'Ordre
+
+###### Article L414
+
+Le conseil départemental de l'Ordre statue sur la demande d'inscription au tableau dans un délai maximum de trois mois à
+compter de la réception de la demande, accompagnée d'un dossier complet.
+
+En ce qui concerne les ressortissants des Etats membres de la Communauté économique européenne autres que la France
+[*étrangers*], lorsqu'il y a lieu de consulter un Etat membre sur l'existence de faits graves et précis commis hors de France
+et susceptibles d'avoir des conséquences sur l'inscription au tableau, le délai fixé à l'alinéa 1er est suspendu par la
+demande de consultation jusqu'à la réception de la réponse de l'Etat consulté si celle-ci intervient dans un délai de trois
+mois. Si la réponse n'est pas parvenue dans ce délai, la suspension prend fin à l'expiration dudit délai. L'intéressé en est
+avisé.
+
+En ce qui concerne les personnes autres que celles mentionnées aux alinéas précédents, le délai prévu à l'alinéa 1er est
+porté à six mois lorsqu'il y a lieu de procéder à une enquête hors de la France métropolitaine. L'intéressé en est avisé.
+
+Dans la semaine qui suit la décision du conseil, celle-ci est notifiée par lettre recommandée à l'intéressé. En cas de refus
+d'inscription, la décision doit être motivée.
+
+Chaque inscription au tableau est notifiée sans délai au préfet du département, au procureur de la République et au Conseil
+national de l'Ordre.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 453 : APPLICATION AUX SAGES-FEMMES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 22
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°76-1288 1976-12-31 art. 11 JORF 1er janvier 1977
+
+	**Cité par**:
+
+	  - Décret n°77-636 du 14 juin 1977 - art. 6 (Ab)
+	  - Décret n°78-906 du 24 août 1978 - art. 5 (Ab)
+	  - Décret n°92-739 du 29 juillet 1992 - art. 6 (Ab)
+	  - Décret n°92-740 du 29 juillet 1992 - art. 5 (Ab)
+	  - Décret n°94-680 du 3 août 1994 - art. 6 (Ab)
+	  - Code de la santé publique - art. L441 (Ab)
+	  - Code de la santé publique - art. L453 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4112-3 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L453 (Ab)
+
+
+###### Article L415
+
+Les décisions du conseil départemental rendues sur les demandes d'inscription au tableau peuvent être frappées d'appel devant
+le conseil régional, par le médecin demandeur, s'il s'agit d'un refus d'inscription, par le Conseil national s'il s'agit
+d'une décision d'inscription [*recours*]. A l'expiration du délai imparti pour statuer au conseil départemental, le silence
+gardé par celui-ci constitue une décision implicite de rejet susceptible de recours.
+
+Les décisions du conseil régional en matière d'inscription au tableau sont notifiées sans délai au président du conseil
+départemental qui les notifie lui-même dans les dix jours au médecin qui en a été l'objet. Elles sont également notifiées
+sans délai au préfet du département, au procureur de la République et au Conseil national de l'Ordre. Elles peuvent être
+frappées d'appel devant la section disciplinaire du Conseil national par le médecin intéressé, le conseil départemental ou le
+Conseil national.
+
+Le délai d'appel tant devant le conseil régional que devant la section disciplinaire du Conseil national est de trente jours
+à compter, soit de la notification de la décision expresse frappée d'appel, soit du jour où est acquise la décision implicite
+de rejet du conseil départemental [*point de départ*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 453 : APPLICATION AUX SAGES-FEMMES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 23
+
+	**Cité par**:
+
+	  - Décret n°48-1671 du 26 octobre 1948 - art. 5 (Ab)
+	  - Décret n°77-636 du 14 juin 1977 - art. 41 (Ab)
+	  - Décret n°77-636 du 14 juin 1977 - art. 8 (Ab)
+	  - Décret n°77-636 du 14 juin 1977 - art. 9 (Ab)
+	  - Décret n°78-906 du 24 août 1978 - art. 40 (Ab)
+	  - Décret n°78-906 du 24 août 1978 - art. 8 (Ab)
+	  - Décret n°92-739 du 29 juillet 1992 - art. 8 (Ab)
+	  - Décret n°92-740 du 29 juillet 1992 - art. 7 (Ab)
+	  - Décret n°94-680 du 3 août 1994 - art. 8 (Ab)
+	  - Code de la santé publique - art. L403 (Ab)
+	  - Code de la santé publique - art. L441 (Ab)
+	  - Code de la santé publique - art. L453 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°76-1288 1976-12-31 art. 12 JORF 1er janvier 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L453 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4112-4 (M)
+
+
+###### Article L416
+
+L'inscription à un tableau de l'Ordre rend licite l'exercice de la médecine sur tout le territoire national.
+
+En cas de transfert de la résidence professionnelle hors du département où il est inscrit, l'intéressé doit, au moment de ce
+transfert, demander son inscription au tableau de l'Ordre du département de la nouvelle résidence [*condition*].
+
+Lorsque la demande ci-dessus mentionnée a été présentée, le médecin peut provisoirement exercer dans le département de sa
+nouvelle résidence jusqu'à ce que le conseil départemental ait statué sur ladite demande par une décision explicite.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 441 : APPLICATION AUX CHIRURGIENS DENTISTES, L. 453 : APPLICATION AUX SAGES-FEMMES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 24
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°59-878 du 18 juillet 1959 - art. 2 (Ab)
+	  - Décret n°59-984 du 12 août 1959 - art. 2 (Ab)
+	  - Décret n°64-1264 du 17 décembre 1964 - art. 2 (Ab)
+	  - Code de la santé publique - art. L441 (Ab)
+	  - Code de la santé publique - art. L453 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 21 JORF 14 juillet 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L441 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L453 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4112-5 (V)
+	  - Code de la santé publique - art. L4411-5 (M)
+	  - Code de la santé publique - art. L4421-7 (V)
+
+
+##### Section 4 : Discipline
+
+###### Article L417
+
+Le conseil régional [*attributions*] exerce, au sein de l'Ordre des médecins, la compétence disciplinaire en première
+instance.
+
+Le conseil régional peut être saisi par le Conseil national ou par les conseils départementaux de l'Ordre ou les syndicats de
+médecins de son ressort, qu'ils agissent de leur propre initiative ou à la suite de plaintes. Il peut également être saisi
+par le ministre de la Santé publique et de la Population, par le directeur départemental de la Santé, par le préfet, par le
+procureur de la République ou par un médecin inscrit au tableau de l'Ordre [*requérant*].
+
+Le conseil régional doit statuer dans les six mois du dépôt de la plainte [*délai*]. A défaut, le conseil national peut
+transmettre la plainte à un autre conseil régional qu'il désigne.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L.442 : DISPOSITIONS APPLICABLES AUX CONSEILS REGIONAUX DE L'ORDRE DES DENTISTES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+Nota : Ordonnance 2000-190 2000-03-02 art. 1 : le présent article est applicable aux chambres de discipline de l'ordre des
+médecins de la Polynésie française et de la Nouvelle-Calédonie sous réserve des adaptations prévues à l'article L471-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°51-443 1951-04-19 art. 5
+	  - Ordonnance 45-2184 1945-09-24 art. 33, art. 34
+	  - Ordonnance n°45-2184 du 24 septembre 1945 - art. 33, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 22 JORF 14 juillet 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-190 2000-03-02 art. 1 : conditions d'application
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L442 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4124-1 (M)
+	  - Code de la santé publique - art. L4441-5 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L462 (Ab)
+	  - Code de la santé publique - art. L471 (M)
+	  - Code de la santé publique - art. L471-2 (Ab)
+	  - Code de la santé publique - art. L471-5 (Ab)
+	  - Code de la santé publique - art. L761-8 (Ab)
+
+
+###### Article L418
+
+Les médecins chargés d'un service public et inscrits au tableau de l'Ordre ne peuvent être traduits devant le conseil
+régional, à l'occasion des actes de leur fonction publique, que par le ministre de la Santé publique et de la Population, le
+directeur départemental de la Santé ou le procureur de la République [*autorités compétentes, requérant*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 442 : DISPOSITIONS APPLICABLES AUX CONSEILS REGIONAUX DE L'ORDRE DES DENTISTES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+Nota : Ordonnance 2000-190 2000-03-02 art. 1 : le présent article est applicable aux chambres de discipline de l'ordre des
+médecins de la Polynésie française et de la Nouvelle-Calédonie sous réserve des adaptations prévues à l'article L471-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 35
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-190 2000-03-02 art. 1 : conditions d'application
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L442 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Arrêté du 18 janvier 2008 - art. 15 (V)
+	  - Arrêté du 18 janvier 2008 - art. 6 (V)
+	  - Code de la santé publique - art. L471 (M)
+	  - Code de la santé publique - art. L471-5 (Ab)
+	  - Code de la santé publique - art. L667-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4124-2 (M)
+	  - Code de la santé publique - art. L4441-6 (M)
+
+
+###### Article L419
+
+Le conseil régional peut, soit sur la demande des parties, soit d'office, ordonner une enquête sur les faits dont la
+constatation lui paraîtrait utile à l'instruction de l'affaire. 
+
+La décision qui ordonne l'enquête indique les faits sur lesquels elle doit porter et décide, suivant le cas, si elle aura
+lieu devant le conseil ou devant un membre du conseil qui se transportera sur les lieux    .
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 442 : DISPOSITIONS APPLICABLES AUX CONSEILS REGIONAUX DE L'ORDRE DES DENTISTES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 36
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L442 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4124-3 (M)
+
+
+###### Article L420
+
+Aucune peine disciplinaire ne peut être prononcée [*interdiction*] sans que le médecin en cause ait été entendu ou appelé à
+comparaître dans un délai de huitaine. Si le médecin est domicilié en dehors de la circonscription de l'Ordre où il exerce sa
+profession, les délais de comparution et de notification prévus par le présent article et les articles suivants seront fixés
+conformément aux articles 73 et 1033 du Code de procédure civile [*art. 640 et s. du nouveau Code de procédure civile*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 442 : DISPOSITIONS APPLICABLES AUX CONSEILS REGIONAUX DE L'ORDRE DES DENTISTES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+Nota : Ordonnance 2000-190 2000-03-02 art. 1 : le présent article est applicable aux chambres de discipline de l'ordre des
+médecins de la Polynésie française et de la Nouvelle-Calédonie sous réserve des adaptations prévues à l'article L471-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 37
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-190 2000-03-02 art. 1 : conditions d'application
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L442 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de procédure civile 73, 1033
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4126-1 (M)
+	  - Code de la santé publique - art. L4126-1 (V)
+	  - Code de la santé publique - art. L4441-8 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L459 (Ab)
+	  - Code de la santé publique - art. L471-2 (Ab)
+	  - Code de la santé publique - art. L471-9 (Ab)
+
+
+###### Article L421
+
+Le médecin mis en cause peut se faire assister d'un défenseur, médecin ou avocat inscrit au barreau. Il peut exercer devant
+le conseil régional de même que devant le Conseil national le droit de récusation dans les conditions des articles 378 et
+suivants du Code de procédure civile [*articles 341 à 355 du nouveau Code de procédure civile*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 442 : DISPOSITIONS APPLICABLES AUX CONSEILS REGIONAUX DE L'ORDRE DES DENTISTES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+Nota : Ordonnance 2000-190 2000-03-02 art. 1 : le présent article est applicable aux chambres de discipline de l'ordre des
+médecins de la Polynésie française et de la Nouvelle-Calédonie sous réserve des adaptations prévues à l'article L471-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 37
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-190 2000-03-02 art. 1 : conditions d'application
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L442 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de procédure civile 378
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4126-2 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L459 (Ab)
+	  - Code de la santé publique - art. L471-2 (Ab)
+	  - Code de la santé publique - art. L471-9 (Ab)
+
+
+###### Article L422
+
+Le conseil régional tient un registre de ses délibérations.
+
+A la suite de chaque séance, un procès-verbal est établi ; il est approuvé et signé par les membres du conseil. Des procès-
+verbaux d'interrogatoire ou d'audition doivent être également établis, s'il y a lieu, et signés par les personnes interrogées
+[*conditions de forme*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 442 : DISPOSITIONS APPLICABLES AUX CONSEILS REGIONAUX DE L'ORDRE DES DENTISTES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 37
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L442 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4124-4 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L459 (Ab)
+
+
+###### Article L423
+
+Les peines disciplinaires que le conseil régional peut appliquer sont les suivantes [*énumération*] :
+
+L'avertissement.
+
+Le blâme.
+
+L'interdiction temporaire ou permanente d'exercer une, plusieurs ou la totalité des fonctions médicales, conférées ou
+rétribuées par l'Etat, les départements, les communes, les établissements publics, les établissements reconnus d'utilité
+publique ou des fonctions médicales accomplies en application des lois sociales.
+
+L'interdiction temporaire d'exercer la médecine, cette interdiction ne pouvant excéder trois années [*durée maximum*].
+
+La radiation du tableau de l'Ordre.
+
+Les deux premières de ces peines comportent, en outre, la privation du droit de faire partie du conseil départemental, du
+conseil régional ou du Conseil national de l'Ordre pendant une durée de trois ans ; les suivantes la privation de ce droit à
+titre définitif. Le médecin radié ne peut se faire inscrire à un autre tableau de l'Ordre. La décision qui l'a frappé est
+portée à la connaissance des autres conseils départementaux et du Conseil national dès qu'elle est devenue définitive
+[*publicité*].
+
+**Nota:**
+
+*Nota : Code de la santé publique L. 442 : DISPOSITIONS APPLICABLES AUX CONSEILS REGIONAUX DE L'ORDRE DES DENTISTES.
+
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 36
+
+	**Cité par**:
+
+	  - Décret n°48-1671 du 26 octobre 1948 - art. 17 (Ab)
+	  - Décret n°48-1671 du 26 octobre 1948 - art. 28 (Ab)
+	  - Décret n°93-1302 du 14 décembre 1993 - art. 5 (Ab)
+	  - Décret n°97-44 du 21 janvier 1997 - art. 1 (Ab)
+	  - Décret n°97-492 du 16 mai 1997 - art. 1 (Ab)
+	  - Code de la santé publique - art. L372 (Ab)
+	  - Code de la santé publique - art. L373 (Ab)
+	  - Code de la santé publique - art. L374 (Ab)
+	  - Code de la santé publique - art. L387 (Ab)
+	  - Code de la santé publique - art. L459 (Ab)
+	  - Code de la santé publique - art. L462 (Ab)
+	  - Code de la santé publique - art. L463 (Ab)
+	  - Code de la santé publique - art. L471 (Ab)
+	  - Code de la santé publique - art. L471-11 (Ab)
+	  - Code de la santé publique - art. L471-2 (Ab)
+	  - Code de la santé publique - art. L471-9 (Ab)
+	  - Code de la santé publique - art. L472-22 (Ab)
+	  - Code de la santé publique - art. L761-8 (Ab)
+	  - Code de la santé publique - art. R355-35 (Ab)
+	  - Code de la sécurité sociale. - art. L145-2 (M)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4124-6 (M)
+	  - Code de la santé publique - art. L4411-17 (M)
+	  - Code de la santé publique - art. L4421-13 (M)
+	  - Code de la santé publique - art. L4431-9 (M)
+	  - Code de la santé publique - art. L4441-10 (M)
+	  - Code de la santé publique - art. L4441-7 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L442 (Ab)
+
+
+###### Article L424
+
+Le praticien frappé d'une sanction disciplinaire est tenu au payement des frais [*de procédure*] résultant de l'action
+engagée devant la juridiction professionnelle [*charge*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 442 : DISPOSITIONS APPLICABLES AUX CONSEILS REGIONAUX DE L'ORDRE DES DENTISTES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 36
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L442 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4126-3 (M)
+	  - Code de la santé publique - art. L4126-3 (V)
+
+
+###### Article L425
+
+Les décisions du conseil régional doivent être motivées [*obligation*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 442 : DISPOSITIONS APPLICABLES AUX CONSEILS REGIONAUX DE L'ORDRE DES DENTISTES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°77-455 1977-04-28 art. 1 JORF 30 avril 1977
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4124-7 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L442 (Ab)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Anciens textes**:
+
+	  - Loi n°51-443 1951-04-19 art. 6
+	  - Ordonnance 45-2184 1945-09-24 art. 38
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L426
+
+Si la décision a été rendue sans que le médecin mis en cause ait comparu [*non*] ou se soit fait représenter, celui-ci peut
+faire opposition dans le délai de cinq jours à compter de la notification faite à sa personne, par lettre recommandée avec
+accusé de réception. Lorsque la notification n'a pas été faite à sa personne, le délai est de trente jours à partir de la
+notification à sa résidence professionnelle et par ministère d'huissier. L'opposition est reçue par simple déclaration au
+secrétariat du conseil qui en donne récépissé [*condition de forme*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 442 : DISPOSITIONS APPLICABLES AUX CONSEILS REGIONAUX DE L'ORDRE DES DENTISTES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 39
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L442 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4126-4 (M)
+	  - Code de la santé publique - art. L4126-4 (V)
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. R145-21 (V)
+
+
+###### Article L427
+
+L'exercice de l'action disciplinaire ne met obstacle :
+
+1° Ni aux poursuites que le ministère public ou les particuliers peuvent intenter devant les tribunaux répressifs dans les
+termes du droit commun ;
+
+2° Ni aux actions civiles en réparation d'un délit ou d'un quasi-délit ;
+
+3° Ni à l'action disciplinaire devant l'administration dont dépend le médecin fonctionnaire ;
+
+4° Ni aux instances qui peuvent être engagées contre les médecins en raison des abus qui leur seraient reprochés dans leur
+participation aux soins médicaux prévus par les lois sociales [*indépendance des poursuites*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 443 : APPLICATION AUX CHIRURGIENS DENTISTES, L. 456 : APPLICATION AUX SAGES-FEMMES, L.
+482-1 : APPLICATION AUX INFIRMIERS ET INFIRMIERES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+Nota : Ordonnance 2000-190 2000-03-02 art. 1 : le présent article est applicable aux chambres de discipline de l'ordre des
+médecins de la Polynésie française et de la Nouvelle-Calédonie sous réserve des adaptations prévues à l'article L471-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2184 du 24 septembre 1945 - art. 45, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°84-135 du 24 février 1984 - art. 24-1 (M)
+	  - Code de la santé publique - art. L443 (Ab)
+	  - Code de la santé publique - art. L456 (Ab)
+	  - Code de la santé publique - art. L471-2 (Ab)
+	  - Code de la santé publique - art. L482-1 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-190 2000-03-02 art. 1 : conditions d'application
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L443 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L456 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L482-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4126-5 (V)
+	  - Code de la santé publique - art. L4441-9 (V)
+
+
+###### Article L428
+
+Après qu'un intervalle de trois ans au moins [*délai*] se sera écoulé depuis une décision définitive de radiation du tableau,
+le médecin frappé de cette peine pourra être relevé de l'incapacité en résultant par une décision du conseil régional qui a
+prononcé la sanction. La demande sera formée par une requête adressée au président du conseil départemental de l'Ordre
+intéressé [*autorité compétente*].
+
+Lorsque la demande aura été rejetée après examen au fond, elle ne pourra être représentée qu'après un nouveau délai de trois
+années.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 443 : APPLICATION AUX CHIRURGIENS DENTISTES, L. 456 : APPLICATION AUX SAGES-FEMMES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+Nota : Ordonnance 2000-190 2000-03-02 art. 1 : le présent article est applicable aux chambres de discipline de l'ordre des
+médecins de la Polynésie française et de la Nouvelle-Calédonie sous réserve des adaptations prévues à l'article L471-2.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 46
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°97-44 du 21 janvier 1997 - art. 10 (Ab)
+	  - Décret n°97-492 du 16 mai 1997 - art. 9 (Ab)
+	  - Code de la santé publique - art. L411 (Ab)
+	  - Code de la santé publique - art. L443 (Ab)
+	  - Code de la santé publique - art. L456 (Ab)
+	  - Code de la santé publique - art. L471-2 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-190 2000-03-02 art. 1 : conditions d'application
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L443 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L456 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4124-8 (M)
+	  - Code de la santé publique - art. L4441-11 (V)
+
+
+#### Chapitre 3 : Organisation de la profession dentaire
+
+##### Section 1 : Ordre national des chirurgiens-dentistes
+
+###### Article L429
+
+Il est institué un Ordre national des chirurgiens-dentistes groupant obligatoirement tous les docteurs en chirurgie dentaire
+et tous les chirurgiens-dentistes habilités à exercer [*affiliation*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°71-1026 du 24 décembre 1971 - art. 6 () JORF 25 décembre 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4121-1 (V)
+
+
+###### Article L430
+
+Les praticiens munis à la fois de l'un des diplômes, certificats ou titres exigés pour l'exercice de la profession de
+médecin, en application du 1° de l'article L. 356, et de l'un des diplômes, certificats ou titres exigés pour l'exercice de
+la profession de chirurgien-dentiste, en application du 1° de l'article L. 356, peuvent se faire inscrire, à leur choix, à
+l'Ordre des médecins ou à l'Ordre des chirurgiens-dentistes. Dans ce dernier cas, leur pratique doit se limiter à l'art
+dentaire et ils n'ont pas le droit d'exercer la médecine [*non cumul*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 47
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°80-1040 1980-12-23 art. 7 JORF 24 décembre 1980
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4141-5 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique L356 1°
+
+
+###### Article L431
+
+L'Ordre national des chirurgiens-dentistes possède, en ce qui concerne les chirurgiens-dentistes, les attributions de l'Ordre
+national des médecins énumérées aux articles L. 382, L. 409 et L. 410 ci-dessus.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 47
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - TXT_ASSOCIE: Code de la santé publique - art. L382 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L409 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L410 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L382 (Ab)
+	  - Code de la santé publique - art. L409 (Ab)
+	  - Code de la santé publique - art. L410 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4121-2 (M)
+
+
+##### Section 2 : Conseils de l'Ordre des chirurgiens-dentistes
+
+##### Paragraphe 1 : Des conseils départementaux
+
+###### Article L432
+
+Il existe dans chaque département [*lieu*], un conseil départemental de l'Ordre des chirurgiens-dentistes. Ce conseil est
+constitué de membres en nombre variable, selon le nombre de chirurgiens-dentistes inscrits au tableau [*composition*]. Ce
+nombre est de sept si le nombre des chirurgiens-dentistes inscrits est égal ou inférieur à cinquante et de dix si le nombre
+est supérieur à cinquante.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°73-91 du 19 janvier 1973 - art. 2 (Ab)
+	  - Code de la santé publique - art. L467 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4142-6 (M)
+	  - Code de la santé publique - art. L4142-6 (V)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 49
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L433
+
+Les dispositions des articles L. 385 à L. 397 sont applicables aux chirurgiens dentistes.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°71-1026 du 24 décembre 1971 - art. 7 () JORF 25 décembre 1971
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L385 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L386 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L387 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L389 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L390 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L391 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L392 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L393 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L394 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L395 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L396 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L397 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L385 (Ab)
+	  - Code de la santé publique - art. L386 (Ab)
+	  - Code de la santé publique - art. L387 (Ab)
+	  - Code de la santé publique - art. L388 (Ab)
+	  - Code de la santé publique - art. L389 (Ab)
+	  - Code de la santé publique - art. L390 (Ab)
+	  - Code de la santé publique - art. L391 (Ab)
+	  - Code de la santé publique - art. L392 (Ab)
+	  - Code de la santé publique - art. L393 (Ab)
+	  - Code de la santé publique - art. L394 (Ab)
+	  - Code de la santé publique - art. L395 (Ab)
+	  - Code de la santé publique - art. L396 (Ab)
+	  - Code de la santé publique - art. L397 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-1 (M)
+	  - Code de la santé publique - art. L4123-1 (V)
+
+
+###### Article L434
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L435
+
+Deux fois par an au moins [*périodicité*], le conseil départemental des médecins et le conseil départemental des chirurgiens-
+dentistes se réunissent pour étudier les questions intéressant les deux professions.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 51
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-13 (V)
+
+
+##### Paragraphe 2 : Conseils régionaux
+
+###### Article L436
+
+La juridiction [*compétente*] de première instance de l'Ordre des chirurgiens-dentistes est constituée par le conseil
+régional des chirurgiens-dentistes.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 52
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 24 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4124-1 (M)
+
+
+###### Article L437
+
+Le conseil régional des chirurgiens-dentistes est composé de neuf [*nombre*] membres titulaires et de neuf membres suppléants
+élus par les conseils départementaux, dans les conditions fixées à l'article L. 398.
+
+Toutefois, le conseil régional de l'ordre des chirurgiens-dentistes de la région parisienne comprend treize membres
+titulaires et treize membres suppléants.
+
+Les dispositions de l'article L. 399 et celles des alinéas 1er et 2 de l'article L. 401 sont applicables au conseil régional
+de l'Ordre des chirurgiens-dentistes.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 25, art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+	  - Décret n°59-388 1959-03-04 art. 6 JORF 10 mars 1959
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - TXT_ASSOCIE: Code de la santé publique - art. L399 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L401 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L398 (Ab)
+	  - Code de la santé publique - art. L399 (Ab)
+	  - Code de la santé publique - art. L401 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4142-4 (M)
+
+
+###### Article L438
+
+Sont adjoints avec voix consultative au conseil régional [*composition*] :
+
+Au choix du conseil, soit un magistrat honoraire désigné par le premier président de la cour d'appel, soit un président
+honoraire ou un conseiller honoraire désigné par le président du tribunal administratif, soit un avocat inscrit au barreau ;
+
+Le médecin inspecteur régional de la santé ;
+
+Un professeur d'une unité d'enseignement et de recherches d'odontologie désigné par le ministre chargé des universités ;
+
+Un praticien conseil désigné par le médecin conseil régional auprès de la caisse régionale d'assurance maladie des
+travailleurs salariés pour les affaires relevant de l'application des lois sur la sécurité sociale.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 52
+
+	**Modifié par**:
+
+	  - Loi n°75-1282 1975-12-30 art. 2 JORF 31 décembre 1975
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4142-5 (M)
+
+
+##### Paragraphe 3 : Conseil national de l'Ordre
+
+###### Article L439
+
+Le conseil national de l'Ordre national des chirurgiens dentistes comprend dix-huit membres selon la décomposition suivante :
+
+1° Quatorze membres élus pour six ans par les conseils  départementaux.
+
+Ces membres sont répartis comme suit :
+
+a) Un membre pour chacun des onze secteurs que détermine un arrêté du ministre chargé de la santé publique sur la base du
+ressort territorial des conseils régionaux métropolitains ;
+
+b) Trois membres supplémentaires pour le ressort territorial du conseil régional de la région parisienne ; ces trois membres
+sont répartis entre les départements de cette région par un arrêté du ministre chargé de la santé publique, compte tenu du
+nombre de praticiens inscrits aux derniers tableaux qui ont été publiés pour ces départements.
+
+Ces membres sont renouvelables tous les deux ans par deux fractions de cinq membres et une troisième fraction de quatre
+membres.
+
+2° Deux membres représentant, l'un les départements de la Guadeloupe, de la Martinique et de la Guyane, l'autre le
+département de la Réunion.
+
+Outre ces deux membres titulaires sont élus deux membres suppléants obligatoirement pris parmi les chirurgiens dentistes
+exerçant régulièrement en métropole.
+
+L'élection de ces membres est opérée selon les dispositions du 1° du présent article. Toutefois, à défaut de conseil
+départemental, le corps électoral est constitué par les praticiens eux-mêmes.
+
+3° Deux membres élus par les autres membres du conseil et renouvelables après chacun des renouvellements partiels dudit
+conseil.
+
+Le conseil national élit son président et son bureau tous les deux ans.
+
+Le président et les conseillers sont rééligibles.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1973-03-02 JORF 11 MARS : DETERMINATION DES SECTEURS
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 26, art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+	  - Décret n°59-388 1959-03-04 art. 7 JORF 10 mars 1959
+	  - Décret n°65-1070 1965-12-06 art. 1 JORF 10 décembre 1965
+
+	**Cité par**:
+
+	  - Loi n°96-452 du 28 mai 1996 - art. 15 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4142-1 (V)
+	  - Code de la santé publique - art. L4441-12 (M)
+
+
+###### Article L440
+
+Le conseil a, à l'égard des chirurgiens-dentistes, les mêmes attributions générales que le conseil national de l'Ordre des
+médecins vis-à-vis de ces derniers.
+
+Le conseil national de l'Ordre des chirurgiens-dentistes élit dans son sein, à la première séance qui suit chaque
+renouvellement, six membres [*nombre*] titulaires et trois membres suppléants qui constituent, avec le conseiller d'Etat
+prévu à l'article L. 439-1 et sous la présidence de celui-ci, une section disciplinaire [*composition*].
+
+Les membres sortants sont rééligibles.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°48-1671 du 26 octobre 1948 - art. 21 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 28 JORF 14 juillet 1972
+	  - Décret n°59-388 1959-03-04 art. 8 JORF 10 mars 1959
+	  - Décret n°65-1070 1965-12-06 art. 2 JORF 10 décembre 1965
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4122-1 (M)
+	  - Code de la santé publique - art. L4142-3 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L439-1 (Ab)
+
+
+##### Section 3 : Inscription aux tableaux départementaux de l'Ordre et discipline
+
+###### Article L441
+
+Dans chaque département, il est établi un tableau de l'Ordre des chirurgiens-dentistes, selon les modalités prévues aux
+articles L. 412 à 416 ci-dessus pour l'établissement du tableau de l'Ordre des médecins.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 48
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°59-984 du 12 août 1959 - art. 2 (Ab)
+	  - Décret n°78-906 du 24 août 1978 - art. 40 (Ab)
+	  - Décret n°78-906 du 24 août 1978 - art. 5 (Ab)
+	  - Décret n°78-906 du 24 août 1978 - art. 8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4112-1 (M)
+	  - Code de la santé publique - art. L4112-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L412 (M)
+	  - Code de la santé publique - art. L413 (Ab)
+	  - Code de la santé publique - art. L414 (M)
+	  - Code de la santé publique - art. L415 (Ab)
+	  - Code de la santé publique - art. L416 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L416 (Ab)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L442
+
+Les dispositions prévues aux articles L. 417 à 426 [*discipline professionnelle*] du présent titre pour les conseils de
+l'Ordre des médecins sont applicables aux conseils régionaux de l'Ordre des dentistes.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 52
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L417 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L418 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L419 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L420 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L421 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L422 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L423 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L424 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L425 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L426 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L373 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4126-1 (M)
+	  - Code de la santé publique - art. L4126-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique L417 A L426
+
+
+###### Article L443
+
+Les dispositions des articles L. 427 et L. 428 sont applicables aux chirurgiens-dentistes.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 54
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L427 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L428 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4124-8 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L427 (Ab)
+	  - Code de la santé publique - art. L428 (Ab)
+
+
+#### Chapitre 4 : Organisation de la profession de sage-femme
+
+##### Section 1 : Ordre national des sages-femmes
+
+###### Article L444
+
+L'Ordre national des sages-femmes groupe obligatoirement toutes les sages-femmes habilitées à exercer leur profession en
+France [*affiliation*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2184 du 24 septembre 1945 - art. 55, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°72-661 1972-07-13 art. 8 JORF 14 juillet 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4121-1 (V)
+
+
+###### Article L445
+
+L'Ordre national des sages-femmes possède, en ce qui concerne les sages-femmes, les attributions de l'Ordre des médecins,
+énumérées aux articles L. 382, L. 409 et L. 410 ci-dessus.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L382 (Ab)
+	  - Code de la santé publique - art. L409 (Ab)
+	  - Code de la santé publique - art. L410 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L382 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L409 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L410 (Ab)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4121-2 (M)
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2184 du 24 septembre 1945 - art. 55, v. init.
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+##### Section 2 : Conseils de l'Ordre des sages-femmes
+
+##### Paragraphe 1 : Conseils départementaux
+
+###### Article L446
+
+Dans chaque département, il est institué un conseil départemental de l'Ordre des sages-femmes. Il possède, en ce qui concerne
+la profession de sage-femme, les mêmes attributions que le conseil départemental de l'Ordre des médecins en ce qui concerne
+les médecins.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-1 (M)
+	  - Code de la santé publique - art. L4123-1 (V)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 56
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L447
+
+Les règles fixées pour les médecins aux articles L. 385 à L. 387 et L. 390 à L. 397 ci-dessus sont applicables aux sages-
+femmes.
+
+Le conseil départemental de l'Ordre des sages-femmes est présidé par un médecin accoucheur nommé pour deux ans [*durée du
+mandat*] par le conseil départemental de l'Ordre des médecins.
+
+Le directeur départemental de la Santé assiste, avec voix consultative, au conseil départemental.
+
+**Nota:**
+
+[*Nota : Le conseil départemental de l'ordre des sages-femmes est composé de six membres élus en assemblée générale pour six
+ans et renouvelables par tiers tous les deux ans.
+
+Décret 67-893 du 12 octobre 1967 : Dispositions réglementaires.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 56
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°67-893 1967-10-12 art. 1, art. 3 JORF 13 octobre 1967
+	  - Loi n°72-660 1972-07-13 art. 29 JORF 14 juillet 1972
+
+	**Cité par**:
+
+	  - Loi n°91-558 du 17 juin 1991 - art. 4 (V)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 4 (V)
+	  - SPEC_APPLI: Code de la santé publique - art. L385 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L386 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L387 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L389 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L390 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L391 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L392 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L393 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L394 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L395 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L396 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L397 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L385 (Ab)
+	  - Code de la santé publique - art. L386 (Ab)
+	  - Code de la santé publique - art. L387 (Ab)
+	  - Code de la santé publique L385, L386, L387, L390 A L397
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-1 (V)
+
+
+###### Article L448
+
+Les deux conseils départementaux des médecins et des sages-femmes peuvent tenir des réunions communes sous la présidence du
+président du conseil départemental de l'Ordre des médecins.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 57
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-14 (V)
+
+
+##### Paragraphe 2 : Conseil national
+
+###### Article L449
+
+Le conseil national de l'Ordre des sages-femmes est composé de quatre [*nombre*] docteurs en médecine spécialisés en
+obstétrique qui sont désignés par le conseil national de l'Ordre des médecins en dehors de son sein et de cinq sages-femmes
+élues par les conseils départementaux regroupés en cinq secteurs par arrêté du ministre chargé de la santé publique, compte
+tenu du ressort territorial des conseils régionaux métropolitains de l'Ordre des médecins.
+
+Le mandat des membres du conseil national de l'Ordre des sages-femmes est de six ans [*durée*]. Ses membres sont rééligibles.
+
+Le conseil est renouvelé tous les deux ans [*périodicité*] par tiers ; pour ce renouvellement, les membres du conseil sont
+répartis en trois groupes comprenant :
+
+Le premier et le deuxième groupe : un médecin et deux sages-femmes ;
+
+Le troisième groupe : deux médecins et une sage-femme.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1973-04-18 JORF 29 AVRIL : DETERMINATION DES SECTEURS
+	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 6 (V)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°91-558 du 17 juin 1991 - art. 6 (V)
+	  - Code de la santé publique - art. L448-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4152-1 (V)
+	  - Code de la santé publique - art. L4441-15 (M)
+
+	**Modifié par**:
+
+	  - Décret n°58-1340 1958-12-20 art. 1 JORF 27 décembre 1958
+	  - Décret n°72-660 1972-07-13 art. 30 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+
+###### Article L450
+
+Sont adjoints au Conseil national des sages-femmes [*composition*], avec voix consultative, trois [*nombre*] médecins
+représentant les ministres de la Santé publique et de la Population, de l'Education nationale et du Travail et de la Sécurité
+sociale.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 60
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4152-3 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L491-4 (Ab)
+
+
+###### Article L451
+
+Le Conseil national nomme son président chaque année [*périodicité*]. Ce président est obligatoirement médecin.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 60
+
+	**Cité par**:
+
+	  - Loi n°91-558 du 17 juin 1991 - art. 6 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 6 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4152-4 (V)
+
+
+###### Article L452
+
+Le conseil national des sages-femmes a, en ce qui concerne les sages-femmes, les mêmes attributions générales que le conseil
+national de l'Ordre des médecins vis-à-vis des médecins. Le conseil peut tenir séances avec le conseil national des médecins
+pour l'examen des questions communes aux deux professions.
+
+**Nota:**
+
+[*Nota : Décret 58-1340 du 20 décembre 1958 : DISPOSITIONS REGLEMENTAIRES*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4122-1 (M)
+	  - Code de la santé publique - art. L4122-4 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L491-4 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°58-1340 1958-12-20 art. 2 JORF 27 décembre 1958
+
+
+##### Section 3 : Inscription au tableau et discipline
+
+###### Article L453
+
+Les règles d'inscription au tableau de l'Ordre fixées pour les médecins aux articles L. 412 à 416 ci-dessus sont applicables
+aux sages-femmes.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 56
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°64-1264 du 17 décembre 1964 - art. 2 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L412 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L413 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L414 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L415 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L416 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4112-1 (M)
+	  - Code de la santé publique - art. L4112-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L412 (M)
+	  - Code de la santé publique - art. L413 (Ab)
+	  - Code de la santé publique - art. L414 (M)
+	  - Code de la santé publique - art. L415 (Ab)
+	  - Code de la santé publique - art. L416 (M)
+
+
+###### Article L454
+
+Les sages-femmes relèvent, en matière disciplinaire, de la compétence du conseil régional de l'Ordre des médecins dans le
+ressort duquel elles exercent [*organisme*].
+
+Dans ce cas, quatre [*nombre*] membres du conseil régional de l'Ordre des médecins sont remplacés par quatre sages-femmes,
+sauf en ce qui concerne le conseil régional de la région Rhône-Alpes, dans lequel cinq médecins sont remplacés par cinq
+sages-femmes [*composition*].
+
+En ce qui concerne le conseil régional de la région parisienne, six médecins de chacune de ses deux chambres sont remplacés
+par six sages-femmes.
+
+Ces sages-femmes sont élues par les conseils départementaux de l'Ordre des sages-femmes du ressort territorial du conseil
+régional des médecins parmi les personnes de nationalité française âgées de trente ans au moins [*âge minimum*] et qui
+remplissent les conditions exigées pour l'exercice de la profession. Elles sont élues pour neuf ans [*durée du mandat*] et
+renouvelables tous les trois ans [*périodicité*] à raison d'une sage-femme pour chacun des deux premiers renouvellements et
+de deux pour le dernier lorsque le conseil régional de l'Ordre des médecins est composé de neuf membres, à raison d'une sage-
+femme pour le premier renouvellement et de deux sages-femmes pour chacun des deux derniers renouvellements lorsque le conseil
+régional de l'Ordre des médecins est composé de onze membres et à raison de quatre sages-femmes pour chacun des trois
+renouvellements lorsque le conseil régional de l'Ordre des médecins est composé de vingt-six membres. L'ordre de
+renouvellement est fixé par tirage au sort.
+
+Des sages-femmes suppléantes en nombre égal à celui des titulaires (4, 5 ou 12 suivant le cas) sont élues dans les mêmes
+conditions que les sages-femmes titulaires et au cours du même scrutin. Le mandat de ces sages-femmes est renouvelable comme
+celui des membres titulaires.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°58-1340 1958-12-20 art. 3 JORF 27 décembre 1958
+	  - Décret n°61-736 1961-06-30 art. 1 JORF 14 juillet 1961
+	  - Loi n°72-660 1972-07-13 art. 32, art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+	**Cité par**:
+
+	  - Loi n°91-558 du 17 juin 1991 - art. 5 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1651 (M)
+	  - Code de la santé publique - art. L374 (Ab)
+	  - Code de la santé publique - art. L454-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
+
+
+###### Article L455
+
+Il peut être fait appel des décisions d'un conseil régional de l'Ordre des médecins devant la section disciplinaire du
+conseil national de l'Ordre des médecins [*organisme compétent, recours*] qui est alors complétée par deux sages-femmes élues
+dans son sein par le conseil national de l'Ordre des sages-femmes lors de chacun des renouvellements partiels
+[*composition*].
+
+Le mandat des intéressés est renouvelable.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°58-1340 1958-12-20 art. 4 JORF 27 décembre 1958
+	  - Loi n°72-660 1972-07-13 art. 34 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+	**Cité par**:
+
+	  - Décret n°48-1671 du 26 octobre 1948 - art. 21 (Ab)
+	  - Décret n°48-1671 du 26 octobre 1948 - art. 24 (Ab)
+	  - Loi n°91-558 du 17 juin 1991 - art. 5 (V)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
+
+
+###### Article L456
+
+Les dispositions des articles L. 427 et L. 428 sont applicables aux sages-femmes.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 62
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L427 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L428 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4124-8 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L427 (Ab)
+	  - Code de la santé publique - art. L428 (Ab)
+
+
+#### Chapitre 5 : Dispositions communes à l'organisation des professions de médecin, de chirurgien-dentiste et de sage-femme
+
+###### Article L457
+
+Tous les conseils de l'Ordre sont dotés de la personnalité civile.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 64
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4125-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L471 (M)
+
+
+###### Article L458
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L459
+
+Lorsqu'un médecin ou chirurgien-dentiste ou une sage-femme aura été condamné par une juridiction pénale pour tout autre fait
+qu'un crime ou délit politique, le conseil régional de l'Ordre pourra prononcer, s'il y a lieu, à son égard, dans les
+conditions des articles L. 420 à 422 ci-dessus, une des sanctions prévues à l'article L. 423 ci-dessus.
+
+En vue d'assurer l'application des dispositions du précédent alinéa, l'autorité judiciaire avisera obligatoirement et sans
+délai le Conseil national de l'Ordre intéressé de toute condamnation, devenue définitive, de l'un des praticiens visés ci-
+dessus, y compris les condamnations prononcées à l'étranger [*information*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 17
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4126-6 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L420 (Ab)
+	  - Code de la santé publique - art. L421 (Ab)
+	  - Code de la santé publique - art. L422 (Ab)
+	  - Code de la santé publique - art. L423 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L471 (M)
+
+
+###### Article L460
+
+Dans le cas d'infirmité ou d'état pathologique rendant dangereux l'exercice de la profession, le conseil régional peut
+décider la suspension temporaire du droit d'exercer.
+
+Celle-ci, qui est prononcée pour une période déterminée, pourra, s'il y a lieu, être renouvelée. Elle ne peut être ordonnée
+que sur un rapport motivé adressé au conseil régional, établi par trois [*nombre*] médecins experts spécialisés, désignés
+l'un par l'intéressé ou sa famille, le deuxième par le conseil départemental et le troisième par les deux premiers. En cas de
+carence de l'intéressé ou de sa famille, la désignation du premier expert sera faite à la demande du conseil régional par le
+président du tribunal de grande instance.
+
+Le conseil régional peut être saisi soit par le conseil départemental, soit par le conseil national, soit par le préfet ou le
+directeur départemental de la santé. L'expertise prévue à l'alinéa précédent doit être effectuée au plus tard dans le délai
+de deux mois à compter de la saisine du conseil régional. Appel de la décision du conseil régional peut être fait devant la
+section disciplinaire par le médecin intéressé et par les autorités ci-dessus indiquées, dans les dix jours de la
+notification de la décision [*délai*]. L'appel n'a pas d'effet suspensif. Si le conseil régional n'a pas statué dans le délai
+de trois mois à compter de la demande dont il est saisi, l'affaire est portée devant la section disciplinaire du conseil
+national de l'Ordre.
+
+Le conseil régional et, le cas échéant, la section disciplinaire peuvent subordonner la reprise de l'activité professionnelle
+à la constatation de l'aptitude de l'intéressé par une nouvelle expertise, effectuée, à la diligence du conseil
+départemental, dans les conditions ci-dessus prévues, dans le mois [*délai*] qui précède l'expiration de la période de
+suspension. Si cette expertise est défavorable au praticien, celui-ci peut saisir le conseil régional et en appel la section
+disciplinaire [*recours*].
+
+**Nota:**
+
+[*Nota : Décret 59-388 du 4 mars 1959 : DISPOSITIONS REGLEMENTAIRES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°48-1671 du 26 octobre 1948 - art. 22 (V)
+	  - Code de la santé publique - art. R355-35 (Ab)
+	  - Code de la santé publique - art. R355-37 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I sous réserve art. 5 1° JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4124-3 (V)
+
+	**Modifié par**:
+
+	  - Décret n°59-388 1959-03-04 art. 9 JORF 10 mars 1959
+
+
+###### Article L461
+
+Tout conseiller départemental, régional ou national de l'Ordre qui, sans motif valable, n'a pas siégé durant trois séances
+[*nombre*] consécutives peut, sur proposition du conseil intéressé, être déclaré démissionnaire par le Conseil national
+[*absence, sanction*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4125-3 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L471 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°51-443 1951-04-19 art. 10
+	  - Ordonnance 45-2184 1945-09-24 art. 63 Bis
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+
+###### Article L463
+
+L'absence de communication [*non*] ou la communication mensongère exposera son auteur aux sanctions prévues à l'article L.
+423. Le conseil de l'Ordre pourra d'autre part refuser d'inscrire au tableau des candidats qui auront contracté des
+engagements incompatibles avec les règles de la profession ou susceptibles de priver le praticien de l'indépendance
+professionnelle nécessaire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 68
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°77-636 du 14 juin 1977 - art. 7 (Ab)
+	  - Décret n°78-906 du 24 août 1978 - art. 6 (Ab)
+	  - Décret n°92-739 du 29 juillet 1992 - art. 4 (Ab)
+	  - Décret n°92-740 du 29 juillet 1992 - art. 3 (Ab)
+	  - Décret n°94-680 du 3 août 1994 - art. 4 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4113-11 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L423 (M)
+
+
+###### Article L464
+
+Les médecins et chirurgiens-dentistes visés à l'alinéa 1er de l'article L. 462 pourront soumettre au conseil de l'Ordre les
+projets des contrats visés aux alinéas 1er et 2 du même texte. Le conseil de l'Ordre devra faire connaître ses observations
+dans le délai d'un mois.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 69
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4113-12 (M)
+	  - Code de la santé publique - art. L4113-12 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique L462 AL. 1 ET AL. 2
+
+
+###### Article L465
+
+I. - Lorsque le ressort territorial des conseils départementaux ou régionaux est modifié, les conseils nationaux des Ordres
+intéressés font procéder à l'élection de nouveaux conseils. Ces élections doivent avoir lieu à l'époque normalement prévue
+pour le premier renouvellement partiel qui suit la publication du texte modifiant le ressort territorial desdits conseils
+[*date*].
+
+Afin de permettre le renouvellement par tiers des nouveaux conseils, un tirage au sort détermine ceux des membres dont le
+mandat viendra à expiration respectivement dans les délais de trois, six ou neuf ans.
+
+II. - Dans le même cas, il est procédé à de nouvelles élections pour la désignation, au sein des conseils nationaux
+intéressés, des représentants des conseils départementaux affectés par la modification prévue au I ci-dessus. Il est, en
+outre, procédé à de nouvelles élections pour la désignation, au sein de ces mêmes conseils, des membres prévus à l'article L.
+404 (4°) et à l'article L. 439 (3°).
+
+Ces élections doivent avoir lieu à l'époque normalement prévue pour le premier renouvellement partiel suivant la publication
+du texte modifiant le ressort territorial des conseils départementaux ou régionaux. Dès leur élection, les membres
+nouvellement élus sont répartis par tirage au sort dans chacune des fractions renouvelables du conseil national.
+
+III. - Les conseils départementaux, régionaux et nationaux en fonctions au moment des élections prévues aux I et II ci-dessus
+restent en place jusqu'à l'entrée en fonctions des nouveaux conseils.
+
+IV. - Dans le cas où le ressort des conseils départementaux ou régionaux est modifié, chaque conseil national règle le
+transfert aux nouveaux conseils du patrimoine des anciens conseils.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 38 JORF 14 juillet 1972
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4125-4 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L471 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique L404 4/, L439 3/
+
+
+#### Chapitre 6 : Mesures d'adaptation pour les départements d'outre-mer.
+
+###### Article L466
+
+Pour l'application des dispositions du présent titre dans les départements d'outre-mer, il est tenu compte des adaptations
+figurant aux articles suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 39 JORF 14 juillet 1972
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-5 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique L356 A L470
+
+
+###### Article L467
+
+Un conseil départemental de l'ordre des chirurgiens-dentistes ne sera constitué dans le département de la Guyane que lorsque
+le nombre des chirurgiens-dentistes remplissant les conditions d'éligibilité prévues par le présent code sera le double de
+l'effectif minimal prévu pour les conseils départementaux par l'article L. 432. Jusqu'à ce qu'il en soit ainsi, l'inscription
+au tableau de l'ordre des chirurgiens-dentistes de la Guyane est prononcée par le préfet [*autorité compétente*], après avis
+du médecin inspecteur départemental de la santé. Sous réserve du cas prévu à la fin du 2° de l'article L.  439, toutes les
+autres attributions du conseil départemental sont dévolues à une délégation de trois membres désignés par le préfet sur
+proposition du conseil national de l'ordre des chirurgiens-dentistes.
+
+Les dispositions qui précèdent sont également applicables aux sages-femmes exerçant en Guyane, sous réserve du cas prévu à la
+dernière phrase de l'article L. 449-1, jusqu'à ce que le nombre de celles qui remplissent les conditions d'éligibilité fixées
+par le présent code soit le double de l'effectif minimal prévu pour les conseils départementaux de leur ordre.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 34.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 40 JORF 14 juillet 1972
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4124-9 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L432 (Ab)
+	  - Code de la santé publique - art. L449-1 (M)
+	  - Code de la santé publique L432, L439 2°, L449-1
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L469 (M)
+
+
+###### Article L469
+
+Par dérogation à la règle figurant à l'alinéa 1er de l'article L.  437, jusqu'à la constitution d'un conseil départemental de
+l'ordre des chirurgiens-dentistes pour la Guyane, la délégation prévue à l'article L. 467 désigne un représentant titulaire
+et un représentant suppléant au conseil régional compétent pour les départements de la Guadeloupe, de la Martinique et de la
+Guyane.
+
+La règle qui précède est applicable, par dérogation à l'article L.  454 (alinéa 4) à la représentation des sages-femmes de la
+Guyane au conseil régional de l'ordre des médecins compétent, à leur égard.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 34.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 42 ET art. 49 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4411-1 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L467 (M)
+	  - Code de la santé publique L467, L454 AL. 4, L437 AL. 1
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R726-3 (Ab)
+
+
+###### Article L470
+
+Les médecins et les sages-femmes de la Réunion sont soumis à la compétence disciplinaire du conseil régional de l'ordre des
+médecins de la région parisienne [*organisme*]. Les chirurgiens-dentistes de la Réunion sont soumis à la compétence
+disciplinaire du conseil régional de l'ordre des chirurgiens-dentistes de la région parisienne.
+
+Les membres du conseil départemental de l'ordre des médecins, du conseil départemental de l'ordre des chirurgiens-dentistes
+et du conseil départemental de l'ordre des sages-femmes de la Réunion participeront respectivement à l'élection des délégués
+des conseils départementaux de Paris aux conseils régionaux de la région parisienne [*électeurs*].
+
+Nonobstant les dispositions de l'article L. 400 ci-dessus, lorsqu'ils statuent sur une matière disciplinaire intéressant un
+médecin, une sage-femme ou un chirurgien-dentiste de la Réunion, les conseils régionaux des médecins et chirurgiens-dentistes
+de la région parisienne [*composition*] s'adjoindront un médecin ou un chirurgien-dentiste ou une sage-femme exerçant à la
+Réunion et désigné par le conseil départemental intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 43 JORF 14 juillet 1972
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2000-189 du 2 mars 2000 - art. 2 () JORF 5 mars 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L400 (Ab)
+
+
+###### Article L471
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°72-660 1972-07-13 art. 44 JORF 14 juillet 1972
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4441-2 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L471-4 (Ab)
+	  - Code de la santé publique - art. L471-7 (Ab)
+
+
+###### Article L472
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°72-660 1972-07-13 art. 44 JORF 14 juillet 1972
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L439 (Ab)
+	  - Code de la santé publique - art. L449 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4421-1 (M)
+	  - Code de la santé publique - art. L4424-1 (V)
+
+
+### TITRE 1 : PROFESSIONS DE SAGE-FEMME
+
+#### CHAPITRE 1 : EXERCICE DE LA PROFESSION
+
+##### SECTION 2 : REGLES D'EXERCICE DE LA PROFESSION
+
+##### PARAGRAPHE 4 : REGLES PROPRES A L'EXERCICE DE LA PROFESSION DE SAGE-FEMME.
+
+###### Article L369
+
+Les sages-femmes ne peuvent employer que les instruments dont la liste est fixée par leur code de déontologie.
+
+En cas d'accouchement dystocique ou de suites de couches pathologiques, elles doivent [*obligation*] faire appeler un docteur
+en médecine.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L374 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4151-3 (V)
+
+
+###### Article L370
+
+Les sages-femmes ne peuvent prescrire que les médicaments figurant sur une liste fixée par un arrêté du ministre de la Santé
+publique et de la Population pris après avis de l'Académie nationale de médecine.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1971-10-04 : LISTE DES MEDICAMENTS
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 10 octobre 1989
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Code de déontologie des sages-femmes. - art. 12 (Ab)
+	  - Code de déontologie des sages-femmes. - art. 24 (Ab)
+	  - Code de la santé publique - art. L374 (Ab)
+	  - Code de la santé publique - art. R5193 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4151-4 (V)
+
+
+### TITRE 1 : PROFESSION DE MEDECIN
+
+#### CHAPITRE 2 : ORGANISATION DE LA PROFESSION DE MEDECIN
+
+##### SECTION 2 : CONSEILS DE L'ORDRE DES MEDECINS
+
+##### PARAGRAPHE 3 : CONSEIL NATIONAL *DE L'ORDRE DES MEDECINS*.
+
+###### Article L407
+
+Le Conseil national est assisté par un conseiller d'Etat nommé, en même temps qu'un conseiller d'Etat suppléant, par le garde
+des sceaux, ministre de la Justice, avec voix délibérative.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 ART. 41
+
+	**Cité par**:
+
+	  - Décret n°48-1671 du 26 octobre 1948 - art. 21 (Ab)
+	  - Code de la santé publique - art. L408 (Ab)
+	  - Code de la santé publique - art. L491-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4132-4 (M)
+
+
+###### Article L411
+
+La section disciplinaire du conseil national [*compétence*] est saisie des appels des décisions des conseils régionaux en
+matière de discipline, d'élection au conseil de l'ordre, d'inscription au tableau et de suspension temporaire du droit
+d'exercer en cas d'infirmité ou d'état pathologique rendant dangereux l'exercice de la médecine.
+
+L'appel est formé par une déclaration au secrétariat du conseil national [*condition de forme*]. Cette déclaration doit être
+faite par le ministre, le préfet, le procureur de la République, le directeur départemental de la santé, le conseil
+départemental de l'Ordre intéressé ou le syndicat des médecins ou par le médecin intéressé, dans les trente jours de la
+notification [*délai d'appel*].
+
+L'appel a un effet suspensif, sauf en matière d'inscription au tableau. Toutefois, lorsque la réinscription au tableau est
+demandée par application des dispositions de l'article L. 428, l'appel a également un effet suspensif.
+
+Les décisions rendues par la section disciplinaire du conseil national ne sont susceptibles de recours que devant le Conseil
+d'Etat dans les conditions du droit commun.
+
+**Nota:**
+
+[*Nota : Décret 59-388 1959-03-04 : LES PARAGRAPHES 2, 3 ET 4 SONT DES DISPOSITIONS REGLEMENTAIRES.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 20 JORF 14 juillet 1972
+	  - Décret n°59-388 1959-03-04 art. 5 JORF 10 mars 1959
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L428 (Ab)
+
+
+##### SECTION 3 : INSCRIPTION AUX TABLEAUX DEPARTEMENTAUX DE L'ORDRE.
+
+###### Article L412
+
+Les médecins qui exercent dans un département sont inscrits, dans les formes indiquées ci-après, sur un tableau établi et
+tenu à jour par le conseil départemental de l'Ordre visé à l'article L. 383 du présent titre. Ce tableau est déposé à la
+préfecture ainsi qu'au parquet du tribunal [*lieu*]. Dans le courant du mois de janvier de chaque année, il est publié
+conformément à l'article 362 ci-dessus.
+
+Nul ne peut être inscrit sur ce tableau [*interdiction*] s'il ne remplit pas les conditions requises par le présent titre.
+
+Un médecin ne peut être inscrit que sur un seul tableau qui est celui du département où se trouve sa résidence
+professionnelle sauf dérogation prévue par le code de déontologie.
+
+Un médecin inscrit ou enregistré en qualité de médecin dans un Etat étranger ne peut être inscrit à un tableau de l'Ordre des
+médecins [*non cumul*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 453 : APPLICATION AUX SAGES-FEMMES.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2184 du 24 septembre 1945 - art. 20, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°76-1288 1976-12-31 ART. 10 JORF 1ER janvier 1977
+
+	**Cité par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 3 (M)
+	  - Code de la santé publique - art. L413 (Ab)
+	  - Code de la santé publique - art. L441 (Ab)
+	  - Code de la santé publique - art. L453 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L362 (Ab)
+	  - Code de la santé publique - art. L383 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4112-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L453 (Ab)
+
+
+### Titre 2 : Profession d'infirmier ou d'infirmière
+
+#### Chapitre 1 : Conditions auxquelles est subordonné l'exercice de la profession
+
+###### Article L473
+
+Est considérée comme exerçant la profession d'infirmière ou d'infirmier    toute personne qui, en fonction des diplômes qui
+l'y habilitent, donne habituellement des soins infirmiers sur prescription ou conseil médical, ou bien en application du rôle
+propre qui lui est dévolu. 
+
+En outre, l'infirmière ou l'infirmier participe à différentes actions, notamment en matière de prévention, d'éducation de la
+santé et de formation ou d'encadrement.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°78-615 1978-05-31 art. 1 JORF 1er juin 1978
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°81-539 du 12 mai 1981
+	  - TXT_SOURCE: Décret n°81-539 du 12 mai 1981 - art. 1 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°93-221 du 16 février 1993 - art. 1 (Ab)
+	  - Décret n°93-221 du 16 février 1993 - art. 3 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-1 (M)
+	  - Code de la santé publique - art. L4311-1 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°46-630 1946-04-08 art. 4
+
+
+###### Article L474
+
+Nul ne peut exercer la profession d'infirmier ou d'infirmière s'il n'est muni d'un diplôme, certificat ou autre titre
+mentionné à l'article L. 474-1 [*condition*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 476-1, L. 477 :
+
+DEROGATION.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°71-1112 du 31 décembre 1971 - art. 2 (Ab)
+	  - Arrêté du 13 septembre 1988 - art. 28 (Ab)
+	  - Arrêté du 30 mars 1992 - art. 28 (V)
+	  - Loi n°99-641 du 27 juillet 1999 - art. 38 (Ab)
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 60 (M)
+	  - Arrêté du 16 juillet 1980 - art. 1 (M)
+	  - Code de la santé publique - art. L474-1 (Ab)
+	  - Code de la santé publique - art. L476-1 (Ab)
+	  - Code de la santé publique - art. L477 (Ab)
+	  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 27 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°80-527 1980-07-12 art. 1 JORF 13 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-2 (V)
+	  - Code de la santé publique - art. L4423-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L476-1 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L477 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°46-630 1946-04-08 art. 3
+
+
+###### Article L475
+
+Pour l'obtention du diplôme d'Etat d'infirmier ou d'infirmière, les candidats ne peuvent être admis à subir les examens que
+s'ils ont accompli leur scolarité dans une école autorisée par le ministre de la Santé publique et de la Population
+[*condition*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-7 (M)
+	  - Code de la santé publique - art. L4311-7 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°43-372 1943-07-15 art. 3
+
+	**Modifié par**:
+
+	  - Loi n°78-615 1978-05-31 art. 2 JORF 1er juin 1978
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L476
+
+La direction des écoles préparant au diplôme d'Etat ne doit être confiée qu'à des personnes agréées par le ministre de la
+Santé publique et de la Population, après avis du conseil supérieur des professions paramédicales - commission des
+infirmières et infirmiers [*condition*]. Cet agrément peut être retiré dans les mêmes formes, en cas d'incapacité ou de faute
+grave [*sanction*].
+
+Les dispositions du présent article ne sont pas applicables aux personnels régis par le livre IX du présent code.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique, à l'exception du second alinéa, à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°70-1319 du 31 décembre 1970 - art. 1 () JORF 3 janvier 1971
+	  - Loi n°78-615 1978-05-31 art. 3 JORF 1er juin 1978
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-8 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique L792 A L896
+
+	**Anciens textes**:
+
+	  - Loi n°43-372 1943-07-15 art. 4
+
+
+###### Article L477
+
+Par dérogation aux dispositions de l'article L. 474 ci-dessus, l'exercice de la profession d'infirmière ou d'infirmier est
+permis soit en qualité d'auxiliaire polyvalent, soit pour un ou plusieurs établissements ou pour un mode d'activité déterminé
+[*condition*] :
+
+1° Aux personnes pourvues de certificats, titres ou attestations dont la liste et les conditions de validité sont fixées par
+arrêté du ministre de la santé publique et de la population. Toutefois, les certificats, titres ou attestations délivrés dans
+un Etat non membre de la Communauté économique européenne [*étranger*] ne peuvent permettre l'exercice de la profession
+d'infirmier ou d'infirmière que dans la mesure où le diplôme d'Etat français ouvre lui-même l'exercice de celle-ci dans cet
+Etat [*condition de réciprocité, équivalence*]. Cette dernière disposition n'est applicable ni aux personnes ayant le statut
+de réfugié politique, ni aux personnes exerçant légalement en France la profession d'infirmier ou d'infirmière à la date de
+la publication de la loi n° 80-527 du 12 juillet 1980.
+
+2° Aux élèves préparant le diplôme d'Etat pendant la durée de leur scolarité, mais seulement dans les établissements ou
+services agréés pour l'accomplissement des stages.
+
+La date et les modalités de la cessation des régimes dérogatoires visés dans le présent article seront fixées par décret pris
+sur le rapport du ministre de la Santé publique et de la Population.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 37.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°71-1112 du 31 décembre 1971 - art. 2 (Ab)
+	  - Arrêté du 30 août 1988 - art. 6 (V)
+	  - Décret n°88-903 du 30 août 1988 - art. 1 (Ab)
+	  - Arrêté du 13 septembre 1988 - art. 28 (Ab)
+	  - Arrêté du 13 septembre 1988 - art. 31 (M)
+	  - Arrêté du 13 septembre 1988 - art. 5 (V)
+	  - Arrêté du 12 décembre 1990 - art. 1 (V)
+	  - Arrêté du 30 mars 1992 - art. 28 (V)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 37 (Ab)
+	  - Arrêté du 14 janvier 1993 - art. 1 (Ab)
+	  - Arrêté du 22 juillet 1994 - art. 51 (Ab)
+	  - Arrêté du 2 mai 1996 - art. 1 (V)
+	  - Arrêté du 16 décembre 1998 - art. 1 (V)
+	  - Code de la santé publique - art. R668-11 (Ab)
+	  - Code de la santé publique - art. R668-15 (Ab)
+	  - Code de la santé publique - art. R668-8 (Ab)
+	  - Code de la santé publique - art. R668-9 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 24 mars 1980
+	  - TXT_SOURCE: Arrêté du 24 mars 1980 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 16 décembre 1998
+	  - TXT_ASSOCIE: Arrêté du 16 décembre 1998 - art. 1 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L474 (Ab)
+
+	**Cite**:
+
+	  - Loi n°80-527 1980-07-12
+	  - Code de la santé publique - art. L474 (M)
+
+	**Modifié par**:
+
+	  - Loi n°80-527 1980-07-12 art. 3 JORF 13 juillet 1980
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-12 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°46-630 1946-04-08 art. 5
+
+
+#### Chapitre 2 : Règles d'exercice de la profession et dispositions pénales.
+
+###### Article L478
+
+Un infirmier ou une infirmière ne peut exercer sa profession, sous réserve des dispositions de l'article L. 479 et à
+l'exception des infirmiers et infirmières militaires, que s'il est inscrit sur une liste dressée par le préfet du département
+de sa résidence professionnelle [*condition*]. L'inscription mentionne la ou les catégories professionnelles dans lesquelles
+l'infirmier ou l'infirmière exerce (infirmiers exerçant à titre libéral, infirmiers salariés du secteur public, infirmiers
+salariés du secteur privé, infirmiers de secteur psychiatrique).
+
+En cas de transfert de la résidence professionnelle dans un autre département, l'infirmier ou l'infirmière doit demander le
+transfert de son inscription dans un délai de trois mois à compter du transfert de résidence, faute de quoi il est radié
+d'office.
+
+Un infirmier ou une infirmière ne peut être inscrit que sur une seule liste départementale. Cette inscription ne limite pas
+géographiquement les possibilités d'exercice.
+
+L'infirmier ou l'infirmière qui est inscrit ou enregistré dans un Etat étranger pour l'exercice de sa profession ne peut être
+inscrit sur une liste départementale [*interdiction*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°46-630 1946-04-08 ART. 6
+
+	**Modifié par**:
+
+	  - Loi n°80-527 1980-07-12 ART. 4 JORF 13 juillet 1980
+
+	**Cité par**:
+
+	  - Décret n°95-1113 du 16 octobre 1995 - art. 1 (Ab)
+	  - Code de la santé publique - art. L479 (Ab)
+	  - Code de la santé publique - art. L480 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-15 (M)
+
+
+###### Article L479
+
+L'infirmier ou l'infirmière ressortissant d'un des Etats membres de la Communauté économique européenne [*étranger*] qui est
+établi et exerce légalement les activités d'infirmier responsable des soins généraux dans un Etat membre autre que la France,
+peut exécuter en France des actes professionnels sans avoir procédé à l'inscription prévue par l'article L. 478.
+
+L'exécution de ces actes est toutefois subordonnée à une déclaration préalable dont les modalités sont fixées par un décret
+en Conseil d'Etat [*condition d'exercice*]. Si l'urgence ne permet pas de faire cette déclaration préalablement à l'acte,
+elle doit être faite postérieurement dans un délai maximum de quinze jours.
+
+La déclaration est accompagnée d'une attestation de l'autorité compétente de l'Etat membre certifiant que l'intéressé possède
+les diplômes, certificats ou autres titres requis et qu'il exerce légalement les activités d'infirmier responsable des soins
+généraux dans l'Etat membre ou il est établi. Elle est également accompagnée d'une déclaration sur l'honneur attestant
+qu'aucune instance pouvant entraîner l'interdiction temporaire ou définitive de l'exercice de l'activité de l'infirmier
+responsable des soins dans l'Etat d'origine ou de provenance n'est en cours à son encontre [*documents*].
+
+L'infirmier ou l'infirmière prestataire de services est soumis aux dispositions des articles L. 482 et L. 482-1
+[*discipline*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°80-527 1980-07-12 ART. 4 JORF 13 juillet 1980
+
+	**Cité par**:
+
+	  - Décret n°95-1113 du 16 octobre 1995 - art. 1 (Ab)
+	  - Code de la santé publique - art. L478 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-22 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L482 (Ab)
+	  - Code de la santé publique - art. L482-1 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°46-630 1946-04-08 ART. 7
+
+
+###### Article L480
+
+Les infirmiers ou infirmières inscrits sur la liste mentionnée à l'article L. 478 peuvent porter l'insigne respectif conforme
+au modèle établi par le ministre de la Santé publique et de la Population, et dont l'usage leur est exclusivement réservé. Il
+leur est délivré, en outre, une carte professionnelle dont le modèle est également établi par le ministre de la Santé
+publique et de la Population.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 39.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°46-630 1946-04-08 art. 8
+
+	**Modifié par**:
+
+	  - Loi n°80-527 1980-07-12 art. 5 JORF 13 juillet 1980
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 39 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4311-23 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L478 (M)
+
+
+###### Article L481
+
+Les infirmières ou infirmiers [*obligation*] et les élèves des écoles préparant à l'exercice de la profession sont tenus au
+secret professionnel dans les conditions et sous les réserves énoncées à l'article 378 du Code pénal.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code pénal 378
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4314-3 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°46-630 1946-04-08 art. 9
+
+
+###### Article L483
+
+L'interdiction temporaire ou définitive d'exercer la profession d'infirmière ou d'infirmier peut être prononcée par les cours
+ou tribunaux accessoirement à toute peine soit criminelle, soit correctionnelle, à l'exception toutefois, dans ce dernier
+cas, des peines ne comportant qu'une amende.
+
+Les personnes contre lesquelles a été prononcée l'interdiction temporaire ou définitive d'exercer tombent sous le coup des
+peines prévues au premier alinéa de l'article L. 483-1 ci-dessous lorsqu'elles continuent à exercer leur profession.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°79-949 du 9 novembre 1979 - art. 33 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°46-630 1946-04-08 art. 11
+
+	**Modifié par**:
+
+	  - Loi n°80-527 1980-07-12 art. 7 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4314-7 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L483-1 (M)
+
+
+###### Article L484
+
+Les groupements professionnels régulièrement constitués d'infirmiers ou d'infirmières sont habilités à exercer des poursuites
+devant la juridiction pénale en raison d'infractions relatives à l'exercice de la profession d'infirmier ou d'infirmière,
+sans préjudice de la faculté de se porter partie civile dans toute poursuite intentée par le ministère public.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°46-630 1946-04-08 art. 12
+
+	**Modifié par**:
+
+	  - Loi n°80-527 1980-07-12 art. 9 JORF 13 juillet 1980
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4314-1 (V)
+
+
+###### Article L485
+
+Des décrets pris sur le rapport du ou des ministres intéressés déterminent les mesures propres à assurer l'application des
+dispositions du présent titre.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 35 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°46-630 1946-04-08 art. 14
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+### Titre 3 : Professions de masseur-kinésithérapeute et de pédicure
+
+#### Chapitre 1 : Masseur-kinésithérapeute
+
+###### Article L488
+
+Il est créé un diplôme d'Etat de masseur-kinésithérapeute qui sera délivré après des études préparatoires et des épreuves
+dont la durée et le programme sont fixés par décret pris sur le rapport du ministre de la Santé publique et de la Population.
+Des modalités particulières sont prévues pour permettre aux candidats aveugles de s'y préparer et de s'y présenter dans des
+conditions équivalentes à celles des voyants. Des modalités particulières pour la délivrance du diplôme - comportant
+notamment la faculté de se présenter aux épreuves un nombre de fois plus élevé que les autres candidats - sont également
+instituées au profit des grands infirmes titulaires de la carte d'invalidité prévue par l'article 173 du code de la famille
+et de l'aide sociale.
+
+Ce diplôme est délivré par équivalence aux personnes qui justifient, soit de la possession de l'un des brevets ou diplômes
+d'Etat d'infirmier masseur ou d'infirmier masseur aveugle, délivrés en application du décret du 27 juin 1922 ou du décret du
+18 février 1938, soit de la possession du brevet d'Etat de masseur médical par le décret du 9 février 1944, soit de la
+possession de l'autorisation définitive d'exercer le massage médical, délivré en application de l'article 8 de la loi du 15
+janvier 1943.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique, à l'exception de la dernière phrase du premier alinéa, à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1922-06-27
+	  - Décret n°1938-02-18
+	  - Décret n°1944-02-09
+	  - Loi n°1943-01-15 art. 8
+	  - Code de la famille et de l'aide sociale. - art. 173 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°46-857 1946-04-30 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°73-1128 du 21 décembre 1973 - art. 19 (V) JORF 23 décembre 1973
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 41 (Ab)
+	  - Décret n°97-44 du 21 janvier 1997 - art. 14 (Ab)
+	  - Arrêté du 17 septembre 1997 - art. 1 (V)
+	  - Code de la santé publique - art. L487 (Ab)
+	  - Code de la santé publique - art. L489 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-3 (V)
+
+
+###### Article L489
+
+Seules les personnes munies du diplôme d'Etat de masseur-kinésithérapeute institué par l'article L. 488 du Code de la santé
+publique [*condition d'exercice*] peuvent porter les titres de masseur-kinésithérapeute, de gymnaste médical ou de masseur,
+accompagnés ou non d'un qualificatif. Les qualificatifs et leurs conditions d'attribution sont fixés par arrêté du ministre
+de la santé publique et de la population.
+
+**Nota:**
+
+[*Nota : Décret 60-665 du 4 juillet 1960 : ABROGE ET REMPLACE PAR DES DISPOSITIONS REGLEMENTAIRES.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-8 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L488 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°60-665 1960-07-04 art. 1 JORF 9 juillet 1960
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 41 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L490
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-22 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L491-2 (Ab)
+
+
+###### Article L491
+
+Les personnes qui ont fait la preuve qu'elles exerçaient le massage médical ou la gymnastique médicale depuis trois années
+[*durée*] au 1er mai 1946 et qui ont reçu une autorisation peuvent continuer définitivement leur activité suivant les
+modalités fixées pour chacune d'elles par l'arrêté du ministre de la Santé publique et de la Population.
+
+Mention de leur autorisation est portée sur un registre spécial déposé à la préfecture.
+
+Un décret en Conseil d'Etat, pris après avis du conseil supérieur du thermalisme et de la commission compétente du conseil
+supérieur des professions paramédicales, détermine les actes de massage et de gymnastique médicale que sont autorisées à
+pratiquer, au sein de l'établissement thermal national d'Aix-les-Bains, les personnes titulaires de l'examen de fin d'études
+ou du diplôme délivré par l'école des techniques thermales d'Aix-les-Bains et obtenus avant le 31 décembre 1982.
+
+La réorganisation des structures de l'établissement thermal national d'Aix-les-Bains tiendra compte des droits acquis et des
+perspectives de carrière des anciens élèves de l'école des techniques thermales ayant achevé leurs études avant le 31
+décembre 1982.
+
+Peuvent en outre obtenir l'autorisation d'exercer le massage médical ou la gymnastique médicale ou l'une ou l'autre de ces
+activités, les personnes qui justifieront de l'exercice de leur profession dans les départements de la Guadeloupe, de la
+Guyane, de la Martinique et de la Réunion pendant trois années au moins avant la publication de la loi n° 65-497 du 29 juin
+1965.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1947-04-30 JORF 6 MAI
+
+	**Anciens textes**:
+
+	  - Loi n°46-857 1946-04-30 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Loi n°65-497 1965-06-29
+
+	**Modifié par**:
+
+	  - Loi n°65-497 1965-06-29 art. 2 JORF 30 juin 1965
+	  - Loi n°80-527 1980-07-12 art. 11 JORF 13 juillet 1980
+
+	**Cité par**:
+
+	  - Décret n°75-557 du 2 juillet 1975 - art. 1 (M)
+	  - Décret n°91-1009 du 2 octobre 1991 - art. 1 (Ab)
+	  - Décret n°97-44 du 21 janvier 1997 - art. 14 (Ab)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+	  - Code de la santé publique - art. L487 (Ab)
+	  - Code de la santé publique - art. L510-9-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-5 (V)
+	  - Code de la santé publique - art. L4321-6 (M)
+	  - Code de la santé publique - art. L4321-7 (Ab)
+
+
+#### Chapitre 2 : Pédicure-podologue.
+
+###### Article L495
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+#### Chapitre 3 : Dispositions communes et dispositions pénales
+
+###### Article L498
+
+Dans chaque département et pour chacune des deux professions visées par le présent titre, le préfet 
+
+dresse annuellement   la liste des personnes qui exercent régulièrement cette profession en indiquant la date et la nature
+des diplômes ou autorisations dont elles sont effectivement pourvues. 
+
+Cette liste est insérée au recueil des actes administratifs de la préfecture. Elle est remise au directeur départemental de
+la santé qui la tient à la disposition des intéressés. Une copie certifiée est adressée au ministre de la Santé publique et
+de la Population.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°46-857 1946-04-30 art. 12
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-11 (M)
+
+
+### TITRE 3 : PROFESSION DE MASSEUR-KINESITHERAPEUTE
+
+#### CHAPITRE 1 : MASSEUR-KINESITHERAPEUTE.
+
+###### Article L487
+
+Réserve faite des dérogations prévues à l'article L. 491, nul ne peut exercer la profession de masseur-kinésithérapeute,
+c'est-à-dire pratiquer le massage et la gymnastique médicale, s'il n'est Français et muni du diplôme d'Etat de masseur-
+kinésithérapeute institué par l'article L. 488 du présent titre [*condition*]. Lorsqu'ils agissent dans un but thérapeutique,
+les masseurs-kinésithérapeutes ne peuvent pratiquer leur art que sur ordonnance médicale [*obligation*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°46-857 1946-04-30 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°86-1195 du 21 novembre 1986 - art. 1 (Ab)
+	  - Décret n°91-1009 du 2 octobre 1991 - art. 1 (Ab)
+	  - Décret n°92-785 du 6 août 1992 - art. 12 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 41 (Ab)
+	  - Décret n°96-879 du 8 octobre 1996
+	  - Décret n°97-44 du 21 janvier 1997 - art. 23 (Ab)
+	  - Code de la santé publique - art. L510-9-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L488 (Ab)
+	  - Code de la santé publique - art. L491 (Ab)
+
+
+### TITRE 3 : PROFESSION DE PEDICURE
+
+#### CHAPITRE 2 : PEDICURE.
+
+###### Article L493
+
+Seuls les pédicures ont qualité pour traiter directement les affections épidermiques (couches cornées) et unguéales du pied,
+à l'exclusion de toute intervention provoquant l'effusion de sang [*fonction*].
+
+Ils ont également seuls qualité pour pratiquer les soins d'hygiène, confectionner et appliquer les semelles destinées à
+soulager les affections épidermiques.
+
+Sur ordonnance et sous contrôle médical, les pédicures peuvent traiter les cas pathologiques de leur domaine (hygromas,
+onyxis, etc., soins pré et postopératoires).
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°46-857 1946-04-30 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 6 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°85-631 du 19 juin 1985 - art. 1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4322-1 (V)
+
+
+###### Article L494
+
+Il est créé un diplôme d'Etat de pédicure qui sera délivré après des études préparatoires et des épreuves dont la durée et le
+programme sont fixés par décret pris sur le rapport du ministre de la Santé publique et de la Population.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°46-857 1946-04-30 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°91-1012 du 2 octobre 1991 - art. 1 (Ab)
+	  - Décret n°97-492 du 16 mai 1997 - art. 12 (Ab)
+	  - Arrêté du 17 septembre 1997 - art. 1 (V)
+	  - Code de la santé publique - art. L492 (Ab)
+	  - Code de la santé publique - art. L510-8 bis (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4322-3 (V)
+
+
+### Titre 4 : Profession d'opticien-lunetier
+
+#### Règles de la profession et dispositions pénales
+
+###### Article L505
+
+Nul ne peut exercer [*interdiction*] la profession d'opticien-lunetier détaillant s'il n'est pourvu du brevet professionnel
+d'opticien-lunetier, du diplôme d'élève breveté des écoles nationales professionnelles, section d'optique-lunetterie, du
+certificat d'études de l'Ecole des métiers d'optique ou de tout autre titre désigné par arrêté du ministre de l'Education
+nationale, du ministre du Commerce, du ministre de la Santé publique et de la Population et du ministre des Affaires
+économiques [*condition*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 506, L. 506-1 :
+
+DEROGATION.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°87-853 du 15 octobre 1987 - art. 3 (Ab)
+	  - Décret n°91-1012 du 2 octobre 1991 - art. 1 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 41 (Ab)
+	  - Code de la santé publique - art. L506 (Ab)
+	  - Code de la santé publique - art. L506-1 (Ab)
+	  - Code de la santé publique - art. L510 (Ab)
+	  - Code de la santé publique - art. L510-8 bis (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4363-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L506 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L506-1 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°44-279 1944-06-05 art. 1
+
+
+###### Article L506
+
+A titre transitoire et par dérogation aux dispositions de l'article L. 505 ci-dessus, les personnes qui justifieront avoir
+exercé, avant le 5 juin 1944, la profession d'opticien-lunetier détaillant, soit à titre de chef d'entreprise, soit à titre
+de directeur effectif ou de gérant, et occupé l'un de ces postes pendant deux ans au moins [*durée*] avant cette date, ainsi
+que les personnes âgées de vingt-cinq ans au moins qui justifieront avoir exercé pendant cinq années au moins avant le 1er
+janvier 1952 une activité professionnelle d'opticien-lunetier, pourront exercer cette profession sans être munies des titres
+désignés à l'article L. 505, sous réserve que les justifications produites soient reconnues exactes par l'une des commissions
+prévues à l'article L. 507 ci-après [*conditions*].
+
+L'interruption de l'activité professionnelle résultant de la mobilisation, de la captivité, de la déportation, du service du
+travail obligatoire ou d'une mesure privative de liberté visée au paragraphe 4° de l'article 2 de l'ordonnance du 3 mars
+1945, entrera en ligne de compte pour le calcul de la durée d'exercice de la profession prévue au 1er alinéa. Il en sera de
+même lorsque les intéressés auront été sinistrés de guerre ou réfractaires au service du travail obligatoire.
+
+Le bénéfice des dispositions prévues à l'article L. 506 du Code de la santé publique ne peut être accordé qu'aux personnes
+qui ont adressé, par lettre recommandée avec accusé de réception, au préfet de leur résidence professionnelle, avant le 18
+novembre 1953, une déclaration accompagnée de tous documents justificatifs et précisant leur état civil, la date et le lieu
+de leur installation ainsi que les conditions dans lesquelles elles exerçaient ou avaient exercé.
+
+Toutefois, durant les trois mois qui suivront la publication du présent texte, les personnes qui ne sont susceptibles de
+bénéficier des dispositions du premier alinéa de l'article L. 506 du Code de la santé publique qu'en incorporant dans les
+cinq ans d'exercice professionnel requis une activité se situant entre le 1er janvier 1950 et le 1er janvier 1952, et qui
+n'auraient pas déposé dans le délai prescrit la demande prévue au premier alinéa du présent article pourront, dans les formes
+fixées audit alinéa, en saisir les préfets intéressés [*recours*] (1).
+
+(1) : Les alinéas 3 et 4 sont des dispositions réglementaires.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-1232 1952-11-17 ART. 2
+	  - Loi n°44-279 1944-06-05 ART. 2
+	  - Loi n°53-1091 1953-11-05
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4362-5 (M)
+	  - Code de la santé publique - art. L4362-5 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L505 (Ab)
+	  - TXT_SOURCE: Loi n°63-558 du 10 juin 1963
+	  - TXT_SOURCE: Loi n°63-558 du 10 juin 1963 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L505 (M)
+	  - Code de la santé publique - art. L506 (Ab)
+	  - Code de la santé publique - art. L507 (Ab)
+	  - Ordonnance 1945-03-03 ART. 2
+
+	**Cité par**:
+
+	  - Loi n°63-558 du 10 juin 1963 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L507
+
+Dans le délai maximum d'un an à dater du 17 novembre 1952, un arrêté du ministre de la Santé publique et de la Population
+fixera la composition, le siège, le ressort et les conditions de fonctionnement de commissions chargées de se prononcer sur
+la validité des justifications énumérées à l'article L. 506 ci-dessus.
+
+La composition, le siège, le ressort et les conditions de fonctionnement des commissions chargées, pour les départements de
+la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, de se prononcer sur la validité des justifications énumérées
+à l'article L. 506-1 du Code de la santé publique, seront fixés par un arrêté du ministre de la Santé publique et de la
+Population.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-1232 1952-11-17 ART. 2
+	  - Loi n°44-279 1944-06-05 ART. 2 BIS
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°65-497 1965-06-29 art. 5 JORF 30 juin 1965
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4362-5 (M)
+	  - Code de la santé publique - art. L4362-8 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L506 (Ab)
+	  - Code de la santé publique - art. L506-1 (Ab)
+
+
+###### Article L508
+
+Les établissements commerciaux dont l'objet principal est l'optique-lunetterie, leurs succursales et les rayons d'optique-
+lunetterie des magasins ne pourront être dirigés ou gérés que par une personne remplissant les conditions requises pour
+l'exercice de la profession d'opticien-lunetier.
+
+Le colportage des verres correcteurs d'amétropie est interdit.
+
+Aucun verre correcteur ne pourra être délivré à une personne âgée de moins de 16 ans [*jeune*] sans ordonnance médicale
+[*interdiction*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°44-279 1944-06-05 art. 3
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 41 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4362-9 (M)
+	  - Code de la santé publique - art. L4362-9 (V)
+	  - Code de la santé publique - art. L4363-4 (V)
+
+
+## Livre 5 : Pharmacie
+
+### Titre 1 : Dispositions générales
+
+#### Chapitre 1 : Conditions générales d'exercice de la profession de pharmacien
+
+###### Article L511
+
+On entend par médicament [*définition*] toute substance ou composition présentée comme possédant des propriétés curatives ou
+préventives à l'égard des maladies humaines ou animales, ainsi que tout produit pouvant être administré à l'homme ou à
+l'animal, en vue d'établir un diagnostic médical ou de restaurer, corriger ou modifier leurs fonctions organiques.
+
+Sont notamment considérés comme des médicaments :
+
+Les produits [*cosmétiques et d'hygiène corporelle*] visés à l'article L. 658-1 du présent livre :
+
+Contenant une substance ayant une action thérapeutique au sens de l'alinéa 1er ci-dessus ;
+
+Ou contenant des substances vénéneuses à des doses et concentrations supérieures à celles fixées par la liste prévue par
+l'article L. 658-5 du présent livre ou ne figurant pas sur cette même liste ;
+
+Les produits diététiques qui renferment dans leur composition des substances chimiques ou biologiques ne constituant pas
+elles-mêmes des aliments, mais dont la présence confère à ces produits, soit des propriétés spéciales recherchées en
+thérapeutique diététique, soit des propriétés de repas d'épreuve.
+
+Les produits utilisés pour la désinfection des locaux et pour la prothèse dentaire ne sont pas considérés comme des
+médicaments.
+
+Les médicaments vétérinaires sont soumis aux dispositions du chapitre III du titre II du présent livre.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance n°59-250 du 4 février 1959 - art. 6 () JORF 8 février 1959
+	  - Ordonnance 67-827 1967-09-23 art. 1 JORF 28 septembre 1967
+	  - Loi n°75-409 1975-05-29 art. 1 JORF 30 mai 1975
+	  - Loi n°75-604 1975-07-10 art. 1 JORF 11 juillet 1975
+
+	**Cité par**:
+
+	  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 24 (Ab)
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 17 (Ab)
+	  - Arrêté du 20 septembre 1993 - art. 2 (V)
+	  - Arrêté du 20 avril 1994 - art. 15 (V)
+	  - Arrêté du 7 août 1997 - art. 1 (V)
+	  - Arrêté du 7 août 1997 - art. 3 (V)
+	  - CODE GENERAL DES IMPOTS ANNEXE 4, CGIAN4. - art. 53 (P)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 348 (M)
+	  - Code de la santé publique - art. Annexe I aux articles R665-1 à R665-47 (M)
+	  - Code de la santé publique - art. Annexe IX aux articles R665-1 à R665-47 (M)
+	  - Code de la santé publique - art. L512 (Ab)
+	  - Code de la santé publique - art. L562-1 (M)
+	  - Code de la santé publique - art. L567-9 (Ab)
+	  - Code de la santé publique - art. L568 (M)
+	  - Code de la santé publique - art. L590 (M)
+	  - Code de la santé publique - art. L596 (M)
+	  - Code de la santé publique - art. L606 (Ab)
+	  - Code de la santé publique - art. L607 (Ab)
+	  - Code de la santé publique - art. L608 (Ab)
+	  - Code de la santé publique - art. L660 (Ab)
+	  - Code de la santé publique - art. R145-5-2 (Ab)
+	  - Code de la santé publique - art. R145-7 (T)
+	  - Code de la santé publique - art. R5106 (M)
+	  - Code de la santé publique - art. R5113-2 (M)
+	  - Code de la santé publique - art. R5153-10 (Ab)
+	  - Code de la santé publique - art. R5190 (Ab)
+	  - Code de la santé publique - art. R5266-1 (Ab)
+	  - Code de la santé publique - art. R665-3 (M)
+	  - Code de la santé publique - art. R665-4 (M)
+	  - Code de la santé publique - art. R665-53 (M)
+	  - Code de la santé publique - art. R665-60 (Ab)
+	  - Code du travail - art. R231-52-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5111-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L658-1 (M)
+	  - Code de la santé publique - art. L658-5 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L512
+
+Sont réservées aux pharmaciens, sauf les dérogations prévues aux articles L. 594, L. 596, L. 597, L. 660 et L. 662 du présent
+livre [*compétence*] :
+
+1° La préparation des médicaments destinés à l'usage de la médecine humaine ;
+
+2° La préparation des objets de pansements et de tous articles présentés comme conformes à la pharmacopée, la préparation des
+insecticides et acaricides destinés à être appliqués sur l'homme, la préparation des produits destinés à l'entretien ou
+l'application des lentilles oculaires de contact ainsi que la préparation des produits et réactifs conditionnés en vue de la
+vente au public et qui, sans être visés à l'article L. 511 ci-dessus, sont cependant destinés au diagnostic médical ou à
+celui de la grossesse ;
+
+3° La vente en gros, la vente au détail et toute délivrance au public des mêmes produits et objets ;
+
+4° La vente des plantes médicinales inscrites à la pharmacopée sous réserve des dérogations établies par décret.
+
+La fabrication et la vente en gros des drogues simples et des substances chimiques destinées à la pharmacie sont libres à
+condition que ces produits ne soient jamais délivrés directement aux consommateurs pour l'usage pharmaceutique et sous
+réserve des règlements particuliers concernant certains d'entre eux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance n°59-250 du 4 février 1959 - art. 6 () JORF 8 FEVRIER 1959
+	  - Ordonnance 67-827 1967-09-23 ART. 7 JORF 28 SEPTEMBRE 1967
+	  - Loi n°78-699 1978-07-06 ART. 1 JORF 7 JUILLET 1978
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°60-679 1960-07-04 : DEROGATIONS RELATIVES AUX PLANTES MEDICINALES
+	  - TXT_SOURCE: Arrêté du 28 avril 1988
+	  - TXT_SOURCE: Arrêté du 28 avril 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 avril 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 avril 1988 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 juin 1988
+	  - TXT_SOURCE: Arrêté du 9 juin 1988 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 9 juin 1988 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1992
+	  - TXT_SOURCE: Arrêté du 9 mars 1992 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1992 - art. 2 (V)
+	  - TXT_ASSOCIE: Décret n°95-862 du 25 juillet 1995
+
+	**Cité par**:
+
+	  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 24 (Ab)
+	  - Décret n°86-778 du 23 juin 1986 - art. 1 (Ab)
+	  - Arrêté du 28 avril 1988 - art. 1 (Ab)
+	  - Arrêté du 28 avril 1988 - art. 2 (Ab)
+	  - Arrêté du 9 juin 1988 - art. 1 (V)
+	  - Arrêté du 9 juin 1988 - art. 2 (V)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 43 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 49 (Ab)
+	  - Loi n°93-5 du 4 janvier 1993 - art. 19 (Ab)
+	  - Décret n°96-351 du 19 avril 1996 - art. 1 (Ab)
+	  - Décret n°99-930 du 10 novembre 1999 - art. 4 (Ab)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+	  - Code de la santé publique - art. L512-1 (Ab)
+	  - Code de la santé publique - art. L512-2 (Ab)
+	  - Code de la santé publique - art. L518 (Ab)
+	  - Code de la santé publique - art. L562 (M)
+	  - Code de la santé publique - art. L564-1 (T)
+	  - Code de la santé publique - art. L567-2 (Ab)
+	  - Code de la santé publique - art. L567-9 (Ab)
+	  - Code de la santé publique - art. L568 (Ab)
+	  - Code de la santé publique - art. L589 (Ab)
+	  - Code de la santé publique - art. L590 (Ab)
+	  - Code de la santé publique - art. L595-2 (Ab)
+	  - Code de la santé publique - art. L595-5 (Ab)
+	  - Code de la santé publique - art. L595-6 (Ab)
+	  - Code de la santé publique - art. L595-9-1 (Ab)
+	  - Code de la santé publique - art. L596 (Ab)
+	  - Code de la santé publique - art. L596-3 (Ab)
+	  - Code de la santé publique - art. L597 (Ab)
+	  - Code de la santé publique - art. L598 (M)
+	  - Code de la santé publique - art. L761-14-1 (Ab)
+	  - Code de la santé publique - art. R2018-1 (M)
+	  - Code de la santé publique - art. R2032 (M)
+	  - Code de la santé publique - art. R2033 (Ab)
+	  - Code de la santé publique - art. R5001 (M)
+	  - Code de la santé publique - art. R5104-2 (Ab)
+	  - Code de la santé publique - art. R5104-3 (Ab)
+	  - Code de la santé publique - art. R5104-4 (Ab)
+	  - Code de la santé publique - art. R5104-6 (Ab)
+	  - Code de la santé publique - art. R5106 (Ab)
+	  - Code de la santé publique - art. R5106-1 (Ab)
+	  - Code de la santé publique - art. R5108 (M)
+	  - Code de la santé publique - art. R5113-2 (M)
+	  - Code de la santé publique - art. R5115-1 (M)
+	  - Code de la santé publique - art. R5115-10 (Ab)
+	  - Code de la santé publique - art. R5115-11 (Ab)
+	  - Code de la santé publique - art. R5115-13 (Ab)
+	  - Code de la santé publique - art. R5115-14 (Ab)
+	  - Code de la santé publique - art. R5115-4 (Ab)
+	  - Code de la santé publique - art. R5115-6 (Ab)
+	  - Code de la santé publique - art. R5115-8 (Ab)
+	  - Code de la santé publique - art. R5115-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4211-1 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L511 (M)
+	  - Code de la santé publique - art. L594 (Ab)
+	  - Code de la santé publique - art. L660 (Ab)
+	  - Code de la santé publique - art. L662 (Ab)
+
+
+###### Article L513
+
+La préparation et la délivrance des vaccins, sérums et allergènes, lorsqu'ils sont préparés spécialement pour un seul
+individu, peuvent être effectuées par toute personne ayant obtenu une autorisation du ministre chargé de la santé publique,
+après avis de l'Académie nationale de médecine [*compétence*].
+
+Un décret précisera les conditions dans lesquelles sont accordées lesdites autorisations.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance n°59-250 du 4 février 1959 - art. 4 () JORF 8 février 1959
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°60-548 du 7 juin 1960
+	  - TXT_SOURCE: Décret n°60-548 du 7 juin 1960 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°60-548 du 7 juin 1960 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°60-548 du 7 juin 1960 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°60-548 du 7 juin 1960 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°60-548 du 7 juin 1960 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°60-548 du 7 juin 1960 - art. 6 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Cité par**:
+
+	  - Décret n°60-548 du 7 juin 1960 - art. 1 (Ab)
+	  - Arrêté du 27 janvier 1998 - art. 1 (V)
+	  - Loi n°98-535 du 1 juillet 1998 - art. 24 (V)
+	  - Code de la santé publique - art. L567-4 (M)
+	  - Code de la santé publique - art. L761 (Ab)
+	  - Code de la santé publique - art. R5005 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4211-6 (V)
+	  - Code de la santé publique - art. L4212-3 (V)
+
+
+###### Article L514
+
+Nul ne peut exercer la profession de pharmacien [*interdiction*], s'il n'offre toutes garanties de moralité professionnelle
+et s'il ne réunit les conditions suivantes :
+
+a) Etre titulaire du diplôme français d'Etat de docteur en pharmacie ou du diplôme français d'Etat de pharmacien. Ce diplôme
+doit être enregistré sans frais à la préfecture ;
+
+b) Etre de nationalité française, citoyen andorran, ressortissant de l'un des Etats membres de la Communauté économique
+européenne ou ressortissant d'un pays dans lequel les Français peuvent exercer la pharmacie lorsqu'ils sont titulaires du
+diplôme qui en ouvre l'exercice aux nationaux de ce pays [*étrangers, condition de réciprocité*] ;
+
+c) Etre inscrit à l'Ordre des pharmaciens.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-1014 1945-05-23
+	  - Loi n°1898-04-19 ART. 2
+	  - Loi n°41-3890 1941-09-11 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°81-291 du 30 mars 1981 - art. 10 (Ab)
+	  - Décret n°87-788 du 28 septembre 1987 - art. 2 (M)
+	  - Décret n°87-788 du 28 septembre 1987 - art. 2-1 (M)
+	  - Décret n°87-788 du 28 septembre 1987 - art. 5 (Ab)
+	  - Arrêté du 5 juin 1989 - art. 6 (V)
+	  - Décret n°90-393 du 2 mai 1990 - art. 10 (Ab)
+	  - Arrêté du 9 avril 1991 - art. 2 (V)
+	  - Arrêté du 9 août 1991 - art. 1 (Ab)
+	  - Décret n°92-867 du 28 août 1992 - art. 4 (V)
+	  - Arrêté du 26 octobre 1992 - art. 2 (M)
+	  - Décret n°92-1432 du 30 décembre 1992 - art. 19 (V)
+	  - Décret n°92-1432 du 30 décembre 1992 - art. 27 (Ab)
+	  - Décret n°92-1432 du 30 décembre 1992 - art. 5 (V)
+	  - Arrêté du 15 février 1993 - art. 3 (Ab)
+	  - Décret n°93-701 du 27 mars 1993 - art. 3 (M)
+	  - Loi n°95-116 du 4 février 1995 - art. 4 (Ab)
+	  - Décret n°95-568 du 6 mai 1995 - art. 4 (Ab)
+	  - Décret n°95-569 du 6 mai 1995 - art. 2 (V)
+	  - Décret n°95-569 du 6 mai 1995 - art. 3 (V)
+	  - Décret n°95-569 du 6 mai 1995 - art. 4 (V)
+	  - Arrêté du 10 mai 1995 - art. 5 (Ab)
+	  - Décret n°96-182 du 7 mars 1996 - art. 16 (Ab)
+	  - Décret n°96-182 du 7 mars 1996 - art. 56 (Ab)
+	  - Décret n°96-182 du 7 mars 1996 - art. 8 (Ab)
+	  - Arrêté du 9 septembre 1996 - art. 1 (Ab)
+	  - Arrêté du 9 septembre 1996 - art. 2 (Ab)
+	  - Arrêté du 17 septembre 1997 - art. 1 (V)
+	  - Décret n°98-365 du 13 mai 1998 - art. 5 (Ab)
+	  - Décret n°98-385 du 18 mai 1998 - art. 21 (Ab)
+	  - Décret n°98-385 du 18 mai 1998 - art. 8 (M)
+	  - Décret n°98-906 du 8 octobre 1998 - art. 6 (Ab)
+	  - Décret n°98-918 du 12 octobre 1998 - art. 2 (Ab)
+	  - Décret n°98-918 du 12 octobre 1998 - art. 9 (Ab)
+	  - Décret n°99-517 du 25 juin 1999 - art. 2 (M)
+	  - Décret n°99-517 du 25 juin 1999 - art. 4 (M)
+	  - Décret n°99-517 du 25 juin 1999 - art. 5 (Ab)
+	  - Loi n°99-641 du 27 juillet 1999 - art. 61 (M)
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 58 (V)
+	  - Code de la santé publique - art. L514-1 (MMN)
+	  - Code de la santé publique - art. L559 (Ab)
+	  - Code de la santé publique - art. L574 (Ab)
+	  - Code de la santé publique - art. L575 (Ab)
+	  - Code de la santé publique - art. L590 (Ab)
+	  - Code de la santé publique - art. R5014-2 (Ab)
+	  - Code de la santé publique - art. R5091-5 (Ab)
+	  - Code de la santé publique - art. R5100 (Ab)
+	  - Code de la santé publique - art. R5112-4 (Ab)
+	  - Code de la santé publique - art. R5112-5 (Ab)
+	  - Code de la santé publique - art. R5114-1 (M)
+	  - Code de la santé publique - art. R5114-2 (M)
+	  - Code de la santé publique - art. R5146-10 (Ab)
+	  - Code de la santé publique - art. R5146-14 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 10 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 11 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 2 (M)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 4 (M)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 5 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 6 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 7 (M)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 8 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 9 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L515
+
+Sont assimilés au diplôme de pharmacien délivré par l'Etat pour l'exercice de la pharmacie dans les départements du Haut-Rhin
+du Bas-Rhin et de la Moselle les diplômes validés par le Gouvernement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-1976 1945-09-01 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4221-3 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L516
+
+Dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion, les titulaires du diplôme
+dit de pharmacien local peuvent continuer à exercer, leur vie durant, dans les mêmes conditions que les pharmaciens pourvus
+du diplôme d'Etat, sous réserve qu'ils restent dans le même établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°48-504 1948-03-24 ART. 1
+	  - Décret n°48-1738 1948-11-15
+	  - Loi n°41-3890 1941-09-11 ART. 2 BIS
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4221-15 (Ab)
+	  - Code de la santé publique - art. L4221-15 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L518
+
+Sans préjudice des dispositions des articles L. 517 et 566 et hors le cas prévu à l'article L. 567, sont punies d'une amende
+de 360 F à 15.000 F (1) [*montant*] et, en cas de récidive, d'une amende de 1.800 F à 16.000 F (2) et d'un emprisonnement de
+six jours à trois mois [*durée*] ou de l'une de ces deux peines seulement, toutes infractions aux dispositions des chapitres
+1er, IV et V du titre Ier, des chapitres Ier, II et de la section III du chapitre IV du titre II, des chapitres Ier et II du
+titre IV du présent livre, à l'exception des articles L. 512 et 581 à 588.
+
+Sont punies des mêmes peines les infractions aux dispositions des décrets en Conseil d'Etat prévus aux articles L. 600 et L.
+605.
+
+(1) Amende applicable depuis le 1er octobre 1985.
+
+(2) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-401 1952-04-14 art. 13
+	  - Loi n°41-3890 1941-09-11 art. 63
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance n°59-250 du 4 février 1959 - art. 3 () JORF 8 février 1959
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4212-1 (V)
+	  - Code de la santé publique - art. L4212-2 (V)
+	  - Code de la santé publique - art. L4212-3 (V)
+	  - Code de la santé publique - art. L4212-4 (V)
+	  - Code de la santé publique - art. L4212-5 (V)
+	  - Code de la santé publique - art. L4212-6 (Ab)
+	  - Code de la santé publique - art. L4212-7 (V)
+	  - Code de la santé publique - art. L4212-8 (V)
+	  - Code de la santé publique - art. L5421-1 (V)
+	  - Code de la santé publique - art. L5421-2 (V)
+	  - Code de la santé publique - art. L5421-3 (V)
+	  - Code de la santé publique - art. L5421-4 (V)
+	  - Code de la santé publique - art. L5421-5 (V)
+	  - Code de la santé publique - art. L5421-6 (V)
+	  - Code de la santé publique - art. L5421-7 (V)
+	  - Code de la santé publique - art. L5422-15 (VT)
+	  - Code de la santé publique - art. L5422-16 (VT)
+	  - Code de la santé publique - art. L5422-17 (V)
+	  - Code de la santé publique - art. L5422-7 (VT)
+	  - Code de la santé publique - art. L5423-1 (V)
+	  - Code de la santé publique - art. L5423-2 (V)
+	  - Code de la santé publique - art. L5423-3 (V)
+	  - Code de la santé publique - art. L5423-4 (V)
+	  - Code de la santé publique - art. L5423-5 (V)
+	  - Code de la santé publique - art. L5423-6 (V)
+	  - Code de la santé publique - art. L5423-7 (V)
+	  - Code de la santé publique - art. L5424-1 (V)
+	  - Code de la santé publique - art. L5424-10 (V)
+	  - Code de la santé publique - art. L5424-11 (VT)
+	  - Code de la santé publique - art. L5424-13 (V)
+	  - Code de la santé publique - art. L5424-14 (V)
+	  - Code de la santé publique - art. L5424-15 (VT)
+	  - Code de la santé publique - art. L5424-16 (VT)
+	  - Code de la santé publique - art. L5424-17 (VT)
+	  - Code de la santé publique - art. L5424-19 (V)
+	  - Code de la santé publique - art. L5424-2 (V)
+	  - Code de la santé publique - art. L5424-3 (V)
+	  - Code de la santé publique - art. L5424-4 (V)
+	  - Code de la santé publique - art. L5424-5 (VT)
+	  - Code de la santé publique - art. L5424-6 (V)
+	  - Code de la santé publique - art. L5424-7 (VT)
+	  - Code de la santé publique - art. L5424-8 (VT)
+	  - Code de la santé publique - art. L5424-9 (V)
+	  - Code de la santé publique - art. L5436-1 (Ab)
+	  - Code de la santé publique - art. L5436-3 (Ab)
+	  - Code de la santé publique - art. L5441-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L512 (M)
+	  - Code de la santé publique - art. L517 (Ab)
+	  - Code de la santé publique - art. L566 (M)
+	  - Code de la santé publique - art. L567 (M)
+	  - Code de la santé publique - art. L581 (Ab)
+	  - Code de la santé publique - art. L582 (Ab)
+	  - Code de la santé publique - art. L583 (M)
+	  - Code de la santé publique - art. L584 (Ab)
+	  - Code de la santé publique - art. L585 (Ab)
+	  - Code de la santé publique - art. L586 (M)
+	  - Code de la santé publique - art. L587 (Ab)
+	  - Code de la santé publique - art. L588 (Ab)
+	  - Code de la santé publique - art. L600 (M)
+	  - Code de la santé publique - art. L605 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L514 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L552 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L572 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L575 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L596 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L598 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L602 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L519 (Ab)
+
+
+###### Article L519
+
+Le tribunal pourra en outre et dans tous les cas visés aux articles L. 517 et L. 518 précédents ordonner la fermeture
+temporaire ou définitive de l'établissement.
+
+Lorsque l'autorité judiciaire aura été saisie d'une poursuite par application des mêmes articles, le préfet pourra prononcer
+la fermeture provisoire de l'établissement.
+
+Dans l'un et l'autre cas, s'il s'agit d'une officine, son titulaire sera tenu de présenter un remplaçant au conseil régional
+de l'Ordre qui, à défaut de présentation, en désignera un d'office.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4212-8 (V)
+	  - Code de la santé publique - art. L4223-3 (M)
+	  - Code de la santé publique - art. L4223-3 (V)
+	  - Code de la santé publique - art. L5421-7 (V)
+	  - Code de la santé publique - art. L5423-7 (M)
+	  - Code de la santé publique - art. L5423-7 (V)
+	  - Code de la santé publique - art. L5424-19 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L517 (Ab)
+	  - Code de la santé publique - art. L518 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R*5013 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 64
+
+
+#### Chapitre 2 : De l'Ordre national des pharmaciens
+
+###### Article L520
+
+Un Ordre national des pharmaciens [*composition*] groupe les pharmaciens habilités à exercer leur art dans les départements
+français, les territoires d'outre-mer, le Togo et le Cameroun. A sa tête est placé un Conseil national de l'Ordre des
+pharmaciens dont le siège est à Paris [*lieu*].
+
+L'Ordre national des pharmaciens a pour objet :
+
+1° D'assurer le respect des devoirs professionnels ;
+
+2° D'assurer la défense de l'honneur et de l'indépendance de la profession.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01 art. 1
+	  - Ordonnance n°45-919 du 5 mai 1945 - art. 1, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°99-641 du 27 juillet 1999 - art. 61 (M)
+
+
+###### Article L521
+
+L'ordre national des pharmaciens comporte sept [*nombre*] sections [*organisation*].
+
+Les sections A, B, C, D et G comprennent les pharmaciens autres que ceux qui exercent leur art dans les départements et
+territoires d'outre-mer. Ils sont répartis entre elles [*composition*] :
+
+Section A - Pharmaciens titulaires d'une officine ;
+
+Section B - Pharmaciens propriétaires, gérants, administrateurs des établissements qui se livrent à la fabrication des
+produits pharmaceutiques spécialisés ;
+
+Section C - Pharmaciens droguistes et répartiteurs ;
+
+Section D - Pharmaciens des établissements hospitaliers, pharmaciens mutualistes, pharmaciens salariés et généralement tous
+pharmaciens autres que ceux qui exercent leur art dans les départements et territoires d'outre-mer et non susceptibles de
+faire partie de l'une des sections A, B, C et G, à l'exception des pharmaciens visés à l'article L. 541 ;
+
+Section G - Pharmaciens directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale publics et privés.
+
+Les sections E et F comprennent les pharmaciens exerçant leur art dans les départements et territoires d'outre-mer. Ils sont
+répartis entre elles :
+
+Section E - Ensemble des pharmaciens exerçant leur art dans les départements d'outre-mer, à l'exception des pharmaciens visés
+à l'article L. 541 ;
+
+Section F - Ensemble des pharmaciens exerçant leur art dans les territoires d'outre-mer, à l'exception des pharmaciens visés
+à l'article L. 541.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°77-470 1977-05-03 art. 2 JORF 5 mai 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4232-1 (M)
+	  - Code de la santé publique - art. L4232-1 (V)
+	  - Code de la santé publique - art. L4412-4 (M)
+	  - Code de la santé publique - art. L4422-1 (M)
+	  - Code de la santé publique - art. L4422-13 (M)
+	  - Code de la santé publique - art. L4422-8 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L541 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5014-1 (Ab)
+
+
+###### Article L522
+
+Chacune de ces sections est administrée par un conseil central, dont le siège est à Paris [*lieu*], composé de membres nommés
+et de membres élus, selon les modalités prévues au présent chapitre, dont le mandat a une durée de quatre ans.
+
+Sous réserve des dispositions spéciales aux sections E et F, sont éligibles au conseil central de chaque section les
+pharmaciens qui sont inscrits au tableau de cette section et qui exercent depuis au moins cinq ans [*condition*].
+
+Le conseil central nomme parmi ses membres un bureau composé d'un président, d'un vice-président et de deux membres. Ce
+bureau est élu pour deux ans [*durée du mandat*]. Le conseil central est renouvelable par moitié, tous les deux ans.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01
+	  - Ordonnance 45-919 1945-05-05 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4232-2 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L523
+
+Dans chaque région sanitaire, (y compris l'Algérie), un conseil régional des pharmaciens exerce à l'égard des pharmaciens
+d'officine les attributions définies aux articles L. 524 à 527 ci-après.
+
+Le conseil régional est composé de :
+
+Deux professeurs, maîtres de conférences, professeurs agrégés ou professeurs suppléants des Facultés de pharmacie ou des
+Facultés mixtes de médecine et de pharmacie ou d'Ecoles de médecine ou de pharmacie, pharmaciens diplômés, nommés pour quatre
+ans par le recteur de l'Académie dont dépend le chef-lieu de la région sanitaire, après avis des conseils de Faculté ou
+d'école ;
+
+Un inspecteur de la pharmacie représentant, à titre consultatif, le médecin inspecteur divisionnaire de la santé ;
+
+Des pharmaciens élus pour quatre ans [*durée*] par les pharmaciens d'officine de chaque département, à raison d'un [*nombre*]
+délégué pour les départements comportant moins de cinquante et un pharmaciens d'officine, deux pour ceux comportant de
+cinquante et un à cent cinquante pharmaciens d'officine, trois pour ceux de plus de cent cinquante pharmaciens d'officine et
+six pour le département de la Seine.
+
+Le président est élu pour deux ans par les membres du conseil. Il est rééligible. Il représente le conseil régional de
+l'Ordre des pharmaciens dans tous les actes de la vie civile. Il peut déléguer tout ou partie de ses attributions à un ou
+plusieurs membres du conseil. Le conseil est renouvelable par moitié tous les deux ans.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4232-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L524 (Ab)
+	  - Code de la santé publique - art. L525 (M)
+	  - Code de la santé publique - art. L526 (M)
+	  - Code de la santé publique - art. L527 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L536 (M)
+
+
+###### Article L524
+
+Dans chaque région sanitaire, les pharmaciens qui tiennent une officine ouverte sont inscrits sur un tableau établi et tenu à
+jour par le conseil régional de l'Ordre des pharmaciens d'officine [*obligation*]. Ce tableau est affiché aux directions
+départementales de la Santé et déposé chaque année dans les préfectures et aux parquets des tribunaux de la région
+[*information, lieu*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4222-1 (M)
+	  - Code de la santé publique - art. L4222-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L523 (Ab)
+	  - Code de la santé publique - art. L536 (M)
+	  - Code de la santé publique - art. R5014-4 (Ab)
+
+
+###### Article L525
+
+Les demandes d'inscription au tableau sont adressées par les intéressés au conseil régional de l'Ordre [*compétence*]. Elles
+sont accompagnées des pièces suivantes [*documents*] :
+
+Une copie de l'acte de naissance ;
+
+Un extrait du casier judiciaire ;
+
+Une copie certifiée conforme du diplôme ;
+
+Un certificat de radiation d'inscription s'il y a lieu ;
+
+Une copie du projet de l'acte d'achat ou un acte de propriété de l'officine.
+
+Le conseil régional doit statuer sur les inscriptions dans un délai maximum de deux mois à compter de la réception de la
+demande. Après avoir examiné les titres et qualités du demandeur, il accorde l'inscription au tableau ou la refuse par
+décision motivée écrite si les garanties de moralité professionnelle et les conditions prévues par la loi ne sont pas
+remplies.
+
+Signification par lettre recommandée à l'intéressé est faite dans la semaine qui suit le délai imparti au conseil [*condition
+de forme*].
+
+Le délai de deux mois peut être prolongé par décision motivée si un supplément d'instruction paraît nécessaire. En ce cas le
+demandeur doit être avisé.
+
+Si aucune décision n'est intervenue dans le délai de deux mois à compter du dépôt de la demande, sauf le cas prévu à l'alinéa
+précédent, l'inscription a lieu de droit à l'expiration dudit délai, sur demande de l'intéressé [*accord tacite*].
+
+Toute inscription ou tout refus d'inscription au tableau peut faire l'objet d'un appel devant le conseil national de l'Ordre
+des pharmaciens [*recours*].
+
+En cas de cessation de l'activité professionnelle ou de changement du siège de l'établissement [*modification*], une
+déclaration est adressée dans les quinze jours au conseil régional qui radie l'inscription au tableau s'il y a lieu.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 ART. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4222-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L523 (Ab)
+	  - Code de la santé publique - art. L536 (M)
+
+
+###### Article L526
+
+Le conseil régional [*mission*] assure le respect des règles professionnelles propres à la pharmacie d'officine.
+
+Il délibère sur les affaires soumises à son examen par son président, par le directeur départemental de la santé, par le
+conseil central de la section A, par les syndicats pharmaceutiques régionaux et par tous les pharmaciens inscrits à l'Ordre
+dans la région.
+
+Il règle tous les rapports dans le cadre professionnel entre les pharmaciens agréés comme maîtres de stage et les étudiants
+stagiaires.
+
+Le conseil régional peut demander à l'inspecteur divisionnaire de la santé de faire effectuer des enquêtes par les
+inspecteurs de la pharmacie. Il est saisi du résultat de ces enquêtes.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4232-5 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L523 (Ab)
+	  - Code de la santé publique - art. L536 (M)
+	  - Code de la santé publique - art. L761-8 (Ab)
+
+
+###### Article L527
+
+Constitué en chambre de discipline, le conseil régional est présidé par un magistrat désigné par le premier président de la
+cour d'appel ou, à défaut, par le président du tribunal du siège du conseil.
+
+Les praticiens appelés à comparaître devant la chambre de discipline peuvent se faire assister par un confrère de leur choix
+ou par un avocat inscrit au barreau.
+
+Le conseil régional ne peut statuer que si la majorité des membres en exercice assistent à la séance. Si le quorum n'est pas
+atteint, le président procède à une nouvelle convocation des membres du conseil ; quel que soit le nombre de ceux-ci présents
+à la nouvelle réunion, les décisions qui sont prises sont valables. En cas de partage égal des voix, celle du président est
+prépondérante.
+
+Le conseil régional prononce, s'il y a lieu, l'une des peines suivantes :
+
+1° La réprimande ;
+
+2° Le blâme avec inscription au dossier.
+
+Il prononce également les peines ci-après et demande au préfet, par l'intermédiaire du directeur départemental de la santé,
+d'en assurer l'exécution ;
+
+1° L'interdiction temporaire ou définitive de servir une ou la totalité des fournitures faites, à quelque titre que ce soit,
+aux établissements publics ou reconnus d'utilité publique, aux communes, aux départements ou à l'Etat ;
+
+2° L'interdiction, pour une durée maximum de cinq ans, d'exercer la pharmacie ;
+
+3° L'interdiction définitive d'exercer la pharmacie.
+
+Les deux dernières sanctions comportent l'interdiction définitive de faire partie d'un conseil de l'Ordre.
+
+Les sanctions prononcées en exécution du présent article sont susceptibles d'appel devant le Conseil national de l'Ordre des
+pharmaciens dans le mois qui suit la notification de la décision [*délai, recours*]. L'appel est suspensif ; il peut être
+formé par le ministre de la Santé publique, par le conseil central de la section A et par tous les intéressés.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 art. 10
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°85-772 1985-07-25 art. 17 : Les sanctions prévues à l'article L.  527 ne sont pas applicables aux infractions aux arrêtés prévus à l'article L. 548 du présent code
+
+	**Cité par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 17 (Ab)
+	  - Code de la santé publique - art. L523 (Ab)
+	  - Code de la santé publique - art. L536 (M)
+	  - Code de la santé publique - art. L761-8 (Ab)
+	  - Code de la santé publique - art. R5022 (Ab)
+	  - Code de la santé publique - art. R5101 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4443-5 (V)
+
+
+###### Article L528
+
+Le conseil central des pharmaciens d'officine, gérant de la section A de l'Ordre des pharmaciens, comprend [*composition*] :
+
+1° Les présidents des conseils régionaux ;
+
+2° Huit pharmaciens d'officine destinés à assurer un supplément de représentation en faveur des régions comportant le plus
+grand nombre d'officines. Ces pharmaciens sont élus à raison de deux [*nombre*] membres pour la région de Paris et un membre
+pour chacune des six régions comportant le plus grand nombre de pharmaciens d'officine en dehors de la région parisienne ;
+
+3° Un pharmacien d'officine destiné à représenter les pharmaciens d'officine des départements d'Alger, Constantine et Oran ;
+
+4° Le président du conseil des pharmaciens de la Sarre.
+
+Il se réunit au moins deux fois par an [*périodicité*].
+
+Il établit [*attributions*] et tient à jour le tableau national des pharmaciens d'officine.
+
+Il coordonne l'action des conseils régionaux et transmet leurs voeux et leurs décisions au Conseil national de l'Ordre des
+pharmaciens.
+
+Il peut proposer toutes mesures intéressant la moralité et la déontologie professionnelles.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 art. 11
+	  - Loi n°46-629 1946-04-08
+	  - Décret n°50-1606 1950-12-28 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4232-3 (V)
+	  - Code de la santé publique - art. L4232-4 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L529
+
+Le conseil central des fabricants de produits spécialisés, gérant de la section B de l'Ordre des pharmaciens, est composé de
+treize [*nombre*] membres désignés ou élus pour quatre ans [*durée*] par tous les pharmaciens inscrits sur le tableau de la
+section B de l'Ordre.
+
+Ce conseil central comprend :
+
+Deux professeurs ou maîtres de conférences des Facultés de pharmacie, pharmaciens, nommés par le ministre de la Santé
+publique sur la proposition du ministre de l'Education nationale ;
+
+Un inspecteur de la pharmacie représentant, à titre consultatif, le ministre de la Santé publique ;
+
+Huit pharmaciens fabricants de produits spécialisés, élus ;
+
+Deux pharmaciens d'officine fabricants de produits spécialisés, élus.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-919 du 5 mai 1945 - art. 12, v. init.
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4232-7 (V)
+
+
+###### Article L530
+
+Le conseil central des droguistes et répartiteurs de produits pharmaceutiques, gérant de la section C de l'Ordre des
+pharmaciens, est composé de huit [*nombre*] membres, nommés ou élus pour quatre ans [*durée*], par tous les pharmaciens
+inscrits sur le tableau de la section C de l'Ordre.
+
+Ce conseil central comprend :
+
+Un professeur ou maître de conférences des Facultés de pharmacie, pharmacien, nommé par le ministre de la Santé publique sur
+la proposition du ministre de l'Education nationale ;
+
+Un inspecteur de la pharmacie, représentant, à titre consultatif, le ministre de la Santé publique ;
+
+Cinq pharmaciens droguistes ou répartiteurs de produits pharmaceutiques, élus ;
+
+Un pharmacien d'officine ayant accessoirement une activité de droguiste ou de répartiteur, élu.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 art. 13
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4232-8 (M)
+	  - Code de la santé publique - art. L4232-8 (V)
+
+
+###### Article L531
+
+Le conseil central gérant la section D de l'Ordre des pharmaciens est composé de dix [*nombre*] membres, nommés ou élus pour
+quatre ans [*durée*] par tous les pharmaciens inscrits sur le tableau de la section D de l'Ordre.
+
+Ce conseil central comprend :
+
+Un professeur ou maître de conférences des Facultés de pharmacie, pharmacien, nommé par le ministre de la Santé publique sur
+la proposition du ministre de l'Education nationale ;
+
+Un inspecteur de la pharmacie représentant, à titre consultatif, le ministre de la Santé publique ;
+
+Deux pharmaciens d'hôpitaux, hospices ou asiles, élus ;
+
+Un pharmacien mutualiste, élu ;
+
+Cinq pharmaciens salariés dont au moins un représentant de l'industrie, un de la droguerie et un de la pharmacie de détail,
+élus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 ART. 14
+
+	**Modifié par**:
+
+	  - Décret n°77-470 1977-05-03 art. 3 JORF 5 mai 1977
+
+
+###### Article L532
+
+Dans chaque département d'outre-mer ou territoire, les pharmaciens inscrits dans les sections E et F nomment, par voie
+d'élection, un ou plusieurs délégués chargés de les représenter auprès du préfet du département ou du gouverneur du
+territoire.
+
+Le nombre des délégués à élire dans chaque département ou territoire est défini par arrêté pris, pour les départements, par
+le ministre de la Santé publique et de la Population et, pour les territoires d'outre-mer, le Togo et le Cameroun, par le
+ministre de la France d'outre-mer.
+
+Ces délégués [*attribution*] se tiennent en liaison avec le conseil central de la section E ou de la section F et avec le
+Conseil national de l'Ordre.
+
+Ils établissent et tiennent à jour un tableau des pharmaciens exerçant une activité professionnelle dans les circonscriptions
+qu'ils représentent. Chacun de ces tableaux est affiché à la direction chargée de la santé publique de chaque département ou
+territoire intéressé et déposé chaque année à la préfecture ou au siège du Gouvernement ainsi qu'aux parquets des tribunaux
+du département ou territoire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°70-158 du 26 février 1970 - art. 15 (Ab)
+	  - Arrêté du 9 mai 1989 - art. 7 (V)
+	  - Arrêté du 3 mai 1946 - art. 18 bis (Ab)
+	  - Code de la santé publique - art. L535 (Ab)
+	  - Code de la santé publique - art. R5014-4 (Ab)
+	  - Code de la sécurité sociale. - art. R611-87 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4232-11 (M)
+	  - Code de la santé publique - art. L4232-11 (V)
+	  - Code de la santé publique - art. L4412-6 (M)
+	  - Code de la santé publique - art. L4422-9 (M)
+
+
+###### Article L533
+
+Les demandes d'inscription sont adressées par les intéressés à leur délégation locale. Celle-ci les fait parvenir après
+instruction dans le délai de deux mois au conseil central de la section E ou de la section F.
+
+Des arrêtés du ministre de la Santé publique et de la Population, pour chaque département et du ministre de la France
+d'outre-mer, pour chaque territoire, détermineront la liste des pièces qui devront être jointes à toute demande
+d'inscription.
+
+Le conseil central de la section E et le conseil central de la section F doivent statuer sur les demandes d'inscription dans
+un délai maximum de trois mois à compter de la réception de la demande. Après avoir examiné les titres et qualités du
+demandeur, ils accordent l'inscription au tableau ou la refusent par décision motivée si les garanties de moralité
+professionnelle et les conditions prévues par la loi ne sont pas remplies : signification par lettre recommandée est faite
+dans la semaine qui suit le délai imparti au conseil. Le délai de trois mois peut être prolongé par décision motivée si un
+supplément d'instruction paraît nécessaire sans que cette prolongation puisse excéder un an ; dans ce cas le demandeur sera
+avisé.
+
+Si aucune décision n'est intervenue à l'expiration des délais impartis, l'inscription est de droit à la demande de
+l'intéressé [*accord tacite*].
+
+Toute inscription ou tout refus d'inscription peut faire l'objet d'un appel devant le Conseil national de l'Ordre des
+pharmaciens [*recours*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4232-12 (V)
+	  - Code de la santé publique - art. L4412-7 (M)
+	  - Code de la santé publique - art. L4422-10 (M)
+
+
+###### Article L534
+
+Les pharmaciens inscrits dans les sections E et F élisent pour quatre ans [*durée*] un représentant par sous-section. Ce
+représentant siège en permanence au conseil central de la section qui l'a élu. Il peut être choisi parmi les pharmaciens
+exerçant leur profession sur le territoire de la France métropolitaine [*condition*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 9 mai 1989 - art. 7 (V)
+	  - Code de la santé publique - art. L535 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4232-13 (V)
+	  - Code de la santé publique - art. L4422-11 (M)
+
+
+###### Article L535
+
+Le conseil central de la section E et le conseil central de la section F sont composés par les délégués locaux prévus à
+l'article L.  532 et par les représentants prévus à l'article L. 534. Ils sont complétés, suivant la nature de chaque affaire
+portée à leur examen, par les membres du conseil central de la section A, B, C, D ou G normalement compétente en matière
+métropolitaine pour les affaires de même nature.
+
+L'instruction des affaires est faite par les délégués locaux qui prennent toutes dispositions pour que leurs rapports
+parviennent au siège du conseil central de la section E ou à celui du conseil central de la section F quinze jours pleins
+avant chaque réunion [*délai*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°77-470 1977-05-03 art. 4 JORF 5 mai 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4232-14 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L532 (Ab)
+	  - Code de la santé publique - art. L534 (Ab)
+
+
+###### Article L536
+
+Les conseils centraux des sections B, C, D, E, F et G de l'Ordre national des pharmaciens possèdent, chacun en ce qui le
+concerne, les droits et attributions à la fois des conseils régionaux et du conseil central de la section A. Ils exercent ces
+attributions dans les conditions prévues aux articles L. 523 à 527.
+
+Lorsque le conseil central d'une des sections B, C, D, E, F et G se réunit en chambre de discipline, celle-ci est présidée
+par un magistrat de l'ordre judiciaire, en activité ou honoraire, désigné par le premier président de la cour d'appel.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°75-626 du 11 juillet 1975 - art. 3 (Ab)
+	  - Loi n°95-116 du 4 février 1995 - art. 4 (Ab)
+	  - Code de la santé publique - art. R5022 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°77-470 1977-05-03 art. 4 JORF 5 mai 1977
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L523 (Ab)
+	  - Code de la santé publique - art. L524 (Ab)
+	  - Code de la santé publique - art. L525 (M)
+	  - Code de la santé publique - art. L526 (M)
+	  - Code de la santé publique - art. L527 (M)
+
+
+###### Article L537
+
+Le Conseil national de l'Ordre des pharmaciens est composé de :
+
+Trois [*nombre*] professeurs ou maîtres de conférences des Facultés de pharmacie ou des Facultés mixtes de médecine et de
+pharmacie ou d'Ecoles de médecine ou de pharmacie, pharmaciens, nommés par le ministre de la Santé publique et de la
+Population, sur proposition du ministre de l'Education nationale ;
+
+Le chef du service central de la pharmacie ou un inspecteur de la pharmacie représentant le ministre de la Santé publique et
+de la Population ;
+
+Un pharmacien du service de santé représentant le ministre de la France d'outre-mer ;
+
+Huit pharmaciens d'officine dont un appartenant obligatoirement à la région de Paris, inscrits au tableau de la section A,
+élus ;
+
+Quatre pharmaciens fabricants de produits pharmaceutiques spécialisés, inscrits au tableau de la section B, élus ;
+
+Deux pharmaciens, droguistes ou répartiteurs inscrits au tableau de la section C, élus ;
+
+Trois pharmaciens inscrits au tableau de la section D, élus ;
+
+Un pharmacien inscrit au tableau d'une des sections de l'Ordre représentant les pharmaciens des sous-sections de la section
+E ;
+
+Un pharmacien inscrit au tableau d'une des sections de l'Ordre représentant les pharmaciens des sous-sections de la section
+F ;
+
+Trois pharmaciens directeurs ou directeurs adjoints de laboratoires d'analyses de biologie médicale publics et privés
+inscrits au tableau de la section G, élus ;
+
+Deux pharmaciens membres de l'Académie de pharmacie, proposés, après élection, à la nomination du ministre de la Santé
+publique et de la Population ;
+
+Les pharmaciens fonctionnaires représentant le ministre de la Santé publique et de la Population et le ministre de la France
+d'outre-mer assistent à toutes les délibérations, mais seulement avec voix consultative.
+
+L'élection des membres du Conseil national de l'Ordre siégeant au titre des sections A, B, C, D et G, est effectuée au second
+degré par les membres des conseils centraux correspondants.
+
+L'élection de chacun des membres du Conseil national de l'Ordre représentant les pharmaciens des sections E et F est
+effectuée au second degré, respectivement par l'ensemble des délégués locaux des sous-sections des départements d'outre-mer,
+et par l'ensemble des délégués locaux des sous-sections des territoires d'outre-mer, du Togo et du Cameroun.
+
+La durée du mandat des membres élus du Conseil national de l'Ordre est de quatre ans.
+
+Les pharmaciens membres du Conseil national de l'Ordre ne peuvent pas faire partie des autres conseils de l'Ordre [*non
+cumul*].
+
+Le Conseil national élit un bureau composé d'un président, d'un vice-président, et de quatre conseillers, dont deux
+pharmaciens d'officine.
+
+Il institue une section permanente comprenant le président et le vice-président du bureau et un représentant de chaque
+section de l'Ordre. La section permanente [*attribution*] est chargée de régler les questions urgentes dans l'intervalle des
+sessions. Les membres du bureau et de la section permanente sont élus pour deux ans [*durée*]. Leur mandat est renouvelable.
+Les décisions prises par la section permanente font l'objet d'un rapport à la séance suivante du Conseil national.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°77-470 1977-05-03 art. 4 ET art. 6 JORF 5 mai 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4231-4 (M)
+	  - Code de la santé publique - art. L4231-5 (V)
+	  - Code de la santé publique - art. L4422-7 (M)
+
+
+###### Article L538
+
+Le conseil national de l'Ordre des pharmaciens [*mission*] est le défenseur de la légalité et de la moralité professionnelle.
+
+Il coordonne l'action des conseils centraux des sections de l'Ordre et joue un rôle d'arbitrage entre les différentes
+branches de la profession.
+
+Il se réunit au moins quatre fois par an [*périodicité*].
+
+Il délibère sur les affaires soumises à son examen par le ministre de la santé publique et de la Population et par les
+conseils centraux.
+
+Il accueille toutes les communications et suggestions des conseils centraux et leur donne les suites qui concilient au mieux
+les intérêts normaux de la profession et les intérêts supérieurs de la santé publique.
+
+Il est qualifié pour représenter, dans son domaine d'activité, la pharmacie auprès des autorités publiques et auprès des
+organismes d'assistance.
+
+Il peut s'occuper sur le plan national de toutes les questions d'entraide et de solidarité professionnelle (sinistres,
+retraites).
+
+Il peut, devant toutes les juridictions, exercer tous les droits réservés à la partie civile relativement aux faits portant
+un préjudice direct ou indirect à l'intérêt collectif de la profession pharmaceutique.
+
+Le Conseil national de l'Ordre des pharmaciens [*juridiction compétente*] statue en appel sur les décisions des conseils
+régionaux de la section A et celles des conseils centraux des sections B, C, D, E, F et G en matière d'inscription et de
+sanctions disciplinaires dans le délai de trois mois à dater du jour où l'appel a été formé [*recours*].
+
+Il confirme, annule ou modifie les sanctions décidées en première instance.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°66-796 1966-10-27 art. 1 JORF 28 octobre 1966
+	  - Décret n°77-470 1977-05-03 art. 4 JORF 5 mai 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4222-5 (M)
+	  - Code de la santé publique - art. L4231-2 (M)
+	  - Code de la santé publique - art. L4234-7 (M)
+
+
+###### Article L539
+
+Le Conseil national [*composition*] est assisté par un conseiller d'Etat, nommé, en même temps qu'un suppléant, par le garde
+des Sceaux, ministre de la Justice. Ce conseiller a voix délibérative.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 art. 18
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4231-6 (V)
+
+
+###### Article L540
+
+Les décisions administratives du Conseil national de l'Ordre sont susceptibles de recours devant la juridiction
+administrative compétente, et les décisions juridictionnelles du même conseil peuvent être portées devant le Conseil d'Etat
+par la voie du recours en cassation. Le ministre de la Santé publique et de la Population et le ministre de la France
+d'outre-mer assureront, chacun en ce qui le concerne, l'exécution des décisions disciplinaires.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4231-3 (V)
+	  - Code de la santé publique - art. L4234-8 (M)
+	  - Code de la santé publique - art. L4412-8 (M)
+	  - Code de la santé publique - art. L4422-17 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L541
+
+Les inspecteurs de la pharmacie, les pharmaciens fonctionnaires ou assimilés du ministère de la Santé publique, les
+pharmaciens fonctionnaires ou assimilés du ministère de l'Education nationale, n'exerçant pas par ailleurs d'activité
+pharmaceutique, et les pharmaciens appartenant au cadre actif du service de santé des armées de terre, de mer et de l'air, ne
+sont inscrits sur aucun tableau de l'Ordre [*non*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 art. 20
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 9 avril 1991 - art. 2 (V)
+	  - Décret n°92-1432 du 30 décembre 1992 - art. 11 (V)
+	  - Code de la santé publique - art. L521 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4222-7 (V)
+
+
+###### Article L542
+
+Un pharmacien peut, sur une demande adressée au Conseil national, être relevé après un délai de cinq ans de l'incapacité
+résultant d'une condamnation ayant entraîné la radiation définitive du tableau : le Conseil national [*juridiction
+compétente*] instruit l'affaire, qui fait l'objet d'une proposition au ministre de la Santé publique.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 art. 21
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4234-9 (M)
+	  - Code de la santé publique - art. L4234-9 (V)
+	  - Code de la santé publique - art. L4422-18 (Ab)
+
+
+###### Article L543
+
+Sauf s'il appartient à la section E ou à la section F, un pharmacien ayant des activités pharmaceutiques différentes peut
+être inscrit sur le tableau de plusieurs sections de l'Ordre [*pluralité*]. En cas de faute professionnelle, il est jugé en
+première instance par la section compétente dont relève la faute commise.
+
+S'il y a conflit de compétence, le Conseil national de l'Ordre des pharmaciens ou sa section permanente fixe la section
+compétente.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4222-8 (V)
+	  - Code de la santé publique - art. L4234-1 (V)
+
+
+###### Article L544
+
+Le pharmacien inculpé peut exercer devant les conseils de l'Ordre le droit de récusation dans les conditions prévues à
+l'article 378 du Code de procédure civile [*nouveau code : art. 341 à 355*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 art. 23
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code de procédure civile 378, 341 A 355
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4234-2 (V)
+
+
+###### Article L545
+
+Il y a incompatibilité entre les fonctions de membre d'un des conseils de l'Ordre et celles de membre d'un des conseils
+d'administration d'un syndicat pharmaceutique.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 art. 24
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4233-2 (M)
+	  - Code de la santé publique - art. L4233-2 (V)
+
+
+###### Article L546
+
+Les différents conseils de l'Ordre national des pharmaciens sont dotés de la personnalité civile.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-919 1945-05-05 art. 25
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4233-1 (M)
+	  - Code de la santé publique - art. L4233-1 (V)
+
+
+###### Article L547
+
+Des arrêtés du ministre chargé de la santé pour les sections A, B, C, D, E, ou du ministre chargé des territoires d'outre-mer
+pour la section F fixent les modalités et les dates d'élection et de nomination aux différents conseils de l'ordre des
+pharmaciens. Un arrêté du ministre chargé de la santé fixe les dates d'élection ainsi que les modalités et les dates de
+nomination au conseil central de la section G. Un décret fixe les modalités d'élection au conseil central de la section G.
+
+Les élections comportent, sauf les dispositions propres à la représentation des pharmaciens des sections E et F, la
+désignation de suppléants en nombre égal à la moitié du nombre des titulaires.
+
+Les représentants aux conseils de l'ordre des sections et diverses catégories de pharmaciens sont élus par des professionnels
+de ces mêmes sections et catégories.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°77-470 1977-05-03 art. 7 JORF 5 mai 1977
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4233-3 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L548
+
+Les frais d'installation et de fonctionnement des différents conseils de l'Ordre ainsi que les indemnités de déplacement et
+de présence des membres des conseils sont répartis entre l'ensemble des pharmaciens inscrits dans les tableaux par les soins
+du Conseil national.
+
+Les frais de déplacement des délégués locaux des pharmaciens des sections E et F se rendant dans la métropole à l'occasion de
+la réunion du conseil central de ces sections sont à la charge de l'ensemble des pharmaciens de la section dans le ressort de
+laquelle ils exercent. Des arrêtés conjoints du ministre de la Santé publique et de la Population, du ministre de la France
+d'outre-mer, du ministre des Finances et du ministre du Budget fixeront les modalités du recouvrement du montant des divers
+frais et indemnités.
+
+Chacun des conseils de l'Ordre désigne un trésorier dont les fonctions sont incompatibles avec celles de fonctionnaire ou
+assimilé.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°53-662 1953-08-01 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 17 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4233-4 (M)
+	  - Code de la santé publique - art. L4233-4 (V)
+
+
+#### Chapitre 3 : Prohibition de certaines conventions entre pharmaciens et membres de certaines professions
+
+###### Article L549
+
+Sauf les cas visés par les articles L. 569, L. 594 et L. 607 du présent livre, est interdit le fait, pour quiconque exerce
+l'une des professions médicales visées au titre I du livre IV du présent code, de recevoir, sous quelque forme que ce soit,
+d'une façon directe ou indirecte, des intérêts ou ristournes proportionnels ou non au nombre des unités prescrites ou
+vendues, qu'il s'agisse de médicaments, d'appareils orthopédiques ou autres, de quelque nature qu'ils soient.
+
+Sont interdits la formation et le fonctionnement de sociétés dont le but manifeste est la recherche des intérêts ou
+ristournes définis ci-dessus, et revenant aux individus eux-mêmes ou au groupe constitué à cet effet, ainsi que l'exercice
+pour le même objet de la profession de pharmacien et de celles de médecin, de chirurgien-dentiste ou de sage-femme.
+
+Est également interdite la vente de médicaments réservés d'une manière exclusive, et sous quelque forme que ce soit, aux
+médecins bénéficiaires de l'autorisation prévue à l'article L. 594.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L365 (Ab)
+	  - Code de la santé publique - art. L376-2 (Ab)
+	  - Code de la santé publique - art. L510-9-2 (Ab)
+	  - Code de la santé publique - art. L550 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4113-8 (V)
+	  - Code de la santé publique - art. L4113-8 (VT)
+	  - Code de la santé publique - art. L4163-4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L510-9-4 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L550 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L550 : DISPOSITIONS PENALES
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L569 (M)
+	  - Code de la santé publique - art. L594 (Ab)
+	  - Code de la santé publique - art. L607 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1938-06-17 art. 1 AL. 1, AL. 2 ET AL. 3
+
+
+#### CHAPITRE 4 : REGLEMENTATION DE LA PUBLICITE.
+
+###### Article L551
+
+La publicité concernant les médicaments et les établissements pharmaceutiques n'est autorisée que dans les conditions fixées
+par un décret en Conseil d'Etat.
+
+La publicité ou la propagande, sous quelque forme que ce soit, en faveur des produits autres que les médicaments
+régulièrement autorisés en vertu de l'article L. 601 du présent code, présentés comme favorisant le diagnostic, la prévention
+ou le traitement des maladies, des affections relevant de la pathologie chirurgicale et des dérèglements physiologiques, le
+diagnostic ou la modification de l'état physique ou physiologique, la restauration, la correction ou la modification des
+fonctions organiques, est soumise aux dispositions prévues à l'alinéa 1er du présent article et au décret pris pour son
+application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance n°59-250 du 4 février 1959 - art. 7 () JORF 8 février 1959
+	  - Loi n°72-7 1972-01-03 art. 1 JORF 5 janvier 1972
+	  - Loi n°78-23 1978-01-10 art. 42 I JORF 11 janvier 1978
+
+	**Cité par**:
+
+	  - Loi n°67-1176 du 28 décembre 1967 - art. 5 (Ab)
+	  - Décret n°75-65 du 24 janvier 1975 - art. 5 (Ab)
+	  - Décret n°81-574 du 15 mai 1981 - art. 5 (Ab)
+	  - Arrêté du 13 mars 1997 - art. 2 (V)
+	  - Code de la santé publique - art. L551-1 (Ab)
+	  - Code de la santé publique - art. L552 (M)
+	  - Code de la santé publique - art. L556 (M)
+	  - Code de la santé publique - art. L564 (M)
+	  - Code de la santé publique - art. L567-2 (M)
+	  - Code de la santé publique - art. R5045 (M)
+	  - Code de la santé publique - art. R5045-1 (Ab)
+	  - Code de la santé publique - art. R5045-2 (P)
+	  - Code de la santé publique - art. R5047 (M)
+	  - Code de la santé publique - art. R5047-4 (Ab)
+	  - Code de la santé publique - art. R5050 (M)
+	  - Code de la santé publique - art. R5050-1 (M)
+	  - Code de la santé publique - art. R5050-2 (M)
+	  - Code de la santé publique - art. R5052-1 (M)
+	  - Code de la santé publique - art. R5054-2 (Ab)
+	  - Code de la santé publique - art. R5197 (M)
+	  - Code de la sécurité sociale. - art. R163-2 (V)
+	  - Code de la sécurité sociale. - art. R163-4 (M)
+	  - Code de la sécurité sociale. - art. R163-7 (V)
+	  - Décret n°91-827 du 29 août 1991 - art. 7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5122-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L556 (M)
+	  - TXT_ASSOCIE: Code de la santé publique L556, L518 : DISPOSITIONS PENALES
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+
+
+###### Article L553
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L635 (Ab)
+
+
+###### Article L554
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L555
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+#### Chapitre 5 : De l'inspection de la pharmacie
+
+###### Article L557
+
+L'inspection de la pharmacie est exercée sous l'autorité du ministre de la Santé publique par des inspecteurs de la pharmacie
+[*autorités compétentes*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5127-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5057 (Ab)
+	  - Code de la santé publique - art. R5059 (M)
+	  - Code de la santé publique - art. R5195 (M)
+	  - Code de la santé publique - art. R5228 (M)
+	  - Code de la santé publique - art. R793-17 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 49
+
+
+###### Article L558
+
+Les inspecteurs de la pharmacie sont répartis dans les régions sanitaires, compte tenu du nombre des pharmaciens exerçant
+dans la région. Ils sont tenus au secret professionnel dans les conditions prévues à l'article 378 du Code pénal. Ils prêtent
+serment devant le tribunal de grande instance de leur résidence [*juridiction compétente*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 ART. 50
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 45 (Ab)
+	  - Code de la santé publique - art. R5089-18 (Ab)
+
+	**Cite**:
+
+	  - Code pénal 378
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5127-4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L559
+
+Les inspecteurs de la pharmacie doivent être munis du diplôme d'Etat de pharmacien [*obligation, condition d'exercice*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 51
+
+
+###### Article L560
+
+Les inspecteurs de la pharmacie ne peuvent exercer aucune autre activité professionnelle, sauf si elle s'exerce exclusivement
+dans un établissement hospitalier [*cumul*]. Toutefois, ils peuvent appartenir au corps enseignant des Facultés ou Ecoles de
+pharmacie ou des Facultés mixtes de médecine et de pharmacie.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5127-5 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5091-2 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 51
+
+
+###### Article L561
+
+Les frais de toute nature résultant du fonctionnement de l'inspection de la pharmacie sont à la charge de l'Etat.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 58
+	  - Ordonnance 45-1014 1945-05-23 art. 11
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L562
+
+Les inspecteurs de la pharmacie [*attributions*] contrôlent dans les officines, les établissements pharmaceutiques, les
+dépôts de médicaments en quelques mains qu'ils soient, l'exécution de toutes les prescriptions des lois et règlements qui se
+rapportent à l'exercice de la pharmacie.
+
+Ils constituent pour chaque établissement industriel ou commercial, fonctionnant sous la responsabilité d'un ou plusieurs
+pharmaciens, un dossier d'inspection dont la composition est fixée par arrêté ministériel et qui est déposé au siège de
+l'inspection divisionnaire de la santé [*lieu*].
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1943-06-01 JORF 27 JUIN : COMPOSITION DU DOSSIER D'INSPECTION
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5127-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L562-1 (Ab)
+	  - Code de la santé publique - art. L564 (M)
+	  - Code de la santé publique - art. L676-5 (Ab)
+	  - Code de la santé publique - art. L793-10 (Ab)
+	  - Code de la santé publique - art. R5059 (Ab)
+	  - Code de la santé publique - art. R5062 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 ART. 53
+
+
+###### Article L563
+
+Les inspecteurs de la pharmacie [*attributions*] signalent les infractions aux règles professionnelles constatées dans
+l'exercice de la pharmacie, font les enquêtes prescrites par les directeurs départementaux de la santé ou demandées par les
+présidents des conseils centraux et des conseils régionaux de l'Ordre des pharmaciens.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5127-3 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L567-11 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 54
+
+
+###### Article L565
+
+Les inspecteurs de la pharmacie [*incompétence*] doivent se faire suppléer par leurs collègues pour le contrôle des
+pharmacies ou des établissements exploités par des titulaires dont ils seraient parents ou alliés jusqu'au quatrième degré
+inclusivement. Il leur est interdit, tant qu'ils exercent leurs fonctions et dans un délai de cinq ans suivant la cessation
+de celles-ci, d'avoir des intérêts directs ou indirects dans les officines, laboratoires et établissements pharmaceutiques
+soumis à leur surveillance.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5127-6 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L567-10 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L567-10 (Ab)
+	  - Code de la santé publique - art. L667-9 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 56
+
+
+###### Article L566
+
+Les conditions de nomination des inspecteurs de la pharmacie, les attributions qui leur sont dévolues ainsi que le mode de
+leur rémunération sont fixés par le ministre de la Santé publique [*autorité compétente*] pour la Guadeloupe, la Guyane
+française, la Martinique et la Réunion.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°48-504 1948-03-24
+	  - Loi n°41-3890 1941-09-11 art. 49
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L518 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L567
+
+Quiconque fait obstacle à l'exercice des fonctions de l'inspecteur de la pharmacie [*entrave*] est passible des peines
+prévues aux articles 1er, 5 et 7 de la loi du 1er août 1905, sans préjudice des peines prévues par les articles 209 et
+suivants du Code pénal.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code pénal 209 ET S.
+	  - Loi n°1905-08-01 art. 1, art. 5, art. 7
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L518 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 57
+
+
+### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie
+
+#### Chapitre 1 : Conditions de l'exercice de la pharmacie d'officine
+
+##### Section 1 : Des officines de pharmacie
+
+###### Article L568
+
+On entend par officine [*définition*] l'établissement affecté à l'exécution des ordonnances magistrales, à la préparation des
+médicaments inscrits au codex [*pharmacopée*] et à la vente au détail des produits visés à l'article L. 511.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°99-740 du 25 août 1999 - art. 1 (Ab)
+	  - Code de la santé publique - art. R5001 (M)
+	  - Code de la santé publique - art. R5005 (Ab)
+	  - Code de la santé publique - art. R5009 (M)
+	  - Code de la santé publique - art. R5056 (Ab)
+	  - Code de la santé publique - art. R5189 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L511 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique R5001 : PHARMACOPEE
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 19
+
+
+###### Article L569
+
+L'exploitation d'une officine est incompatible avec l'exercice d'une autre profession, notamment avec celle de médecin,
+vétérinaire, sage-femme, dentiste, même si l'intéressé est pourvu des diplômes correspondants. Toutefois, les médecins
+diplômés avant le 31 décembre 1952, les vétérinaires et les dentistes diplômés avant le 31 juillet 1950, les sages-femmes
+diplômées avant le 31 juillet 1948 sont admis à exercer leur art, concurremment avec la pharmacie, s'ils ont obtenu le
+diplôme de pharmacien avant le 31 juillet 1950, à condition qu'ils aient été inscrits régulièrement avant le 11 septembre
+1941 à l'école dentaire ou à l'école des sages-femmes, au stage en pharmacie ou en vue de l'obtention du certificat d'études
+de physique, chimie, biologie, ou en quatrième année de pharmacie pour les médecins ayant utilisé le diplôme de pharmacien
+comme équivalent du certificat d'études de P.C.B. [*dispositions transitoires*].
+
+Les intéressés devront en outre établir qu'ils ont été empêchés de poursuivre leurs études parce qu'ils étaient mobilisés,
+prisonniers, réfractaires au service du travail obligatoire ou déportés, ou parce qu'ils appartenaient à une organisation de
+résistance. Le présent alinéa fera l'objet de mesures d'exécution prises sur le rapport du ministre de la Santé publique et
+de la Population dans des conditions qui seront fixées par les règlements d'administration publique publiés pour
+l'application du présent livre.
+
+Les pharmaciens ne peuvent faire dans leur officine le commerce de marchandises autres que celles figurant sur une liste
+arrêtée par le ministre de la Santé publique, sur proposition du Conseil national de l'Ordre des pharmaciens.
+
+Les pharmaciens doivent tenir, dans leur officine, les drogues simples, les produits chimiques et les préparations stables
+décrites par le codex français. Les médicaments officinaux instables doivent pouvoir être préparés en cas de besoin. Ces
+substances doivent présenter les caractéristiques indiquées au codex.
+
+Les pharmaciens ne peuvent vendre aucun remède secret [*interdiction*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1943-12-08 : LISTE DES MARCHANDISES
+	  - TXT_SOURCE: Arrêté du 19 mars 1990
+	  - TXT_SOURCE: Arrêté du 19 mars 1990 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 19 mars 1990 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5424-6 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L549 (Ab)
+	  - Code de la santé publique - art. R*5015-51 (M)
+	  - Code de la santé publique - art. R5001 (M)
+	  - Code de la santé publique - art. R5009 (M)
+	  - Code de la santé publique - art. R5053-3 (Ab)
+	  - Code de la santé publique - art. R5090 (Ab)
+	  - Code de la santé publique - art. R5098-1 (Ab)
+	  - Code de la sécurité sociale. - art. R163-1 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 20
+
+
+###### Article L570
+
+Toute ouverture d'une nouvelle officine, tout transfert d'une officine d'un lieu dans un autre sont subordonnés à l'octroi
+d'une licence délivrée par le préfet sur la proposition de l'inspecteur divisionnaire de la santé après avis du conseil
+régional de l'Ordre des pharmaciens [*condition d'exercice*].
+
+Cette licence [*mention obligatoire*] fixe l'emplacement où l'officine sera exploitée [*lieu*].
+
+L'officine dont la création a été autorisée doit être effectivement ouverte au public au plus tard à l'issue d'un délai d'un
+an, qui court à partir du jour où la licence a été délivrée, sauf prolongation en cas de force majeure.
+
+La licence accordée par application des dispositions qui précèdent ne peut être cédée par son titulaire indépendamment du
+fonds de commerce auquel elle se rapporte [*cession*]. De plus, et sauf le cas de force majeure constatée par le ministre de
+la Santé publique et de la Population sur avis du préfet et du conseil supérieur de la pharmacie, une officine ne peut être
+cédée avant l'expiration d'un délai de cinq ans, qui court à partir du jour de son ouverture.
+
+Tout refus de licence doit faire l'objet d'une décision motivée. Il peut en être fait appel au ministre de la Santé publique
+qui statue après avis du conseil régional [*recours*]. Lors de la fermeture définitive de l'officine, la licence doit être
+remise à la préfecture par son dernier titulaire ou par ses héritiers.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-1014 1945-05-23 ART. 4
+	  - Loi n°41-3890 1941-09-11 ART. 21
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°75-1226 1975-12-26 ART. 1 JORF 27 décembre 1975
+	  - Décret n°55-685 1955-05-20 ART. 2 JORF 22 mai 1955
+
+	**Cité par**:
+
+	  - Loi n°87-575 du 24 juillet 1987 - art. 7 (V)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 47 (Ab)
+	  - Loi n°99-641 du 27 juillet 1999 - art. 65 (V)
+	  - Décret n°2000-259 du 21 mars 2000 - art. 3 (Ab)
+	  - Code de la santé publique - art. L577 (Ab)
+	  - Code de la santé publique - art. L577 Bis (T)
+	  - Code de la santé publique - art. L578 (Ab)
+	  - Code de la santé publique - art. R5014-3 (Ab)
+	  - Code de la santé publique - art. R5089-11 (Ab)
+	  - Code de la santé publique - art. R5089-4 (Ab)
+	  - Code de la santé publique - art. R5089-5 (Ab)
+	  - Code de la santé publique - art. R5089-6 (Ab)
+	  - Code de la santé publique - art. R5089-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5424-1 (V)
+	  - Code de la santé publique - art. L5511-5 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L571
+
+Aucune création d'officine ne peut être accordée dans les villes où la licence a déjà été délivrée à [*numérus clausus*] :
+
+Une officine pour 3.000 [*nombre*] habitants dans les villes d'une population de 30.000 habitants et au-dessus ;
+
+Une officine pour 2.500 habitants dans les villes d'une population égale ou supérieure à 5.000 habitants et inférieure à
+30.000 habitants.
+
+Dans les communes d'une population inférieure à 5.000 habitants, il ne peut être délivré qu'une licence par tranche entière
+de 2.000 habitants recensés dans les limites de la commune.
+
+Une création d'officine peut toutefois être accordée dans une commune dépourvue d'officine et d'une population inférieure à
+2.000 habitants lorsqu'il sera justifié que cette commune constitue, pour la population des localités avoisinantes, un centre
+d'approvisionnement, sous réserve que l'officine à créer et les officines voisines déjà existantes puissent être assurées
+chacune d'un minimum de 2.000 habitants à desservir.
+
+La population dont il est tenu compte pour l'application de l'article L. 571 du Code de la santé publique est la population
+municipale totale, telle qu'elle est définie par le décret ayant ordonné le dernier dénombrement général de la population
+[*dispositions réglementaires*].
+
+Si les besoins de la population l'exigent, des dérogations à ces règles peuvent être accordées [*autorisations
+dérogatoires*]. Les dérogations visées à l'article L. 571 du Code de la santé publique peuvent être accordées par le préfet
+[*autorité compétente*] sur la proposition du chef du service régional de l'action sanitaire et sociale, après avis du
+pharmacien inspecteur régional de la santé, du conseil régional de l'ordre des pharmaciens et des syndicats professionnels
+[*dernière phrase : dispositions réglementaires*].
+
+Dans tous les cas, le préfet peut imposer une distance minimum entre deux officines.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-1014 1945-05-23 ART. 5
+	  - Loi n°41-3890 1941-09-11 ART. 37
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 26 (Ab)
+	  - Arrêté du 22 juin 1992 - art. 3 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 47 (Ab)
+	  - Loi n°99-641 du 27 juillet 1999 - art. 65 (V)
+	  - Décret n°2000-259 du 21 mars 2000 - art. 4 (Ab)
+	  - Arrêté du 22 avril 1986
+	  - Arrêté du 22 avril 1986 - art. 1 (V)
+	  - Code de la santé publique - art. L570 (Ab)
+	  - Code de la santé publique - art. L571 (M)
+	  - Code de la santé publique - art. L571-1 (Ab)
+	  - Code de la santé publique - art. L572 (Ab)
+	  - Code de la santé publique - art. L577 (Ab)
+	  - Code de la santé publique - art. L577 Bis (T)
+	  - Code de la santé publique - art. L578 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 22 avril 1986
+	  - TXT_SOURCE: Arrêté du 5 mars 1986
+	  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 2 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L571-1 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+	  - SPEC_APPLI: Décret n°65-1128 1965-12-22 : REMPLACE DEUX PARAGRAPHES PAR DES DISPOSITIONS REGLEMENTAIRES
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-11 (V)
+	  - Code de la santé publique - art. L5511-6 (M)
+
+	**Modifié par**:
+
+	  - Décret n°65-1128 1965-12-22 art. 1 JORF 24 décembre 1965
+	  - Loi n°57-220 1957-02-25 art. 1 II JORF 26 février 1957
+
+
+###### Article L572
+
+Par dérogation aux dispositions de l'article L. 571 aucune création ne peut être accordée dans les départements du Haut-Rhin,
+du Bas-Rhin et de la Moselle dans les villes où une licence a déjà été délivrée à une officine pour 5.000 habitants
+[*nombre*].
+
+Toutefois, une création d'officine peut être accordée dans une commune dépourvue d'officine et d'une population inférieure à
+5.000 habitants lorsqu'il sera justifié que cette commune constitue, pour les populations des localités avoisinantes, un
+centre d'approvisionnement, sous réserve que l'officine à créer et les officines voisines déjà existantes puissent être
+assurées chacune d'un minimum de 5.000 habitants à desservir.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-1976 1945-09-01 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°99-641 du 27 juillet 1999 - art. 65 (V)
+	  - Code de la santé publique - art. L570 (Ab)
+	  - Code de la santé publique - art. L571-1 (Ab)
+	  - Code de la santé publique - art. L577 (Ab)
+	  - Code de la santé publique - art. L577 Bis (T)
+	  - Code de la santé publique - art. L578 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 5 mars 1986
+	  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 2 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L571-1 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-14 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L571 (M)
+
+	**Modifié par**:
+
+	  - Loi n°57-220 1957-02-25 art. 2 JORF 26 février 1957
+
+
+###### Article L573
+
+De même, pour chacun des départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion, le
+ministre de la Santé publique [*autorité compétente*] fixe les conditions dans lesquelles les créations d'officines peuvent
+être autorisées par le préfet après avis du conseil central de la section E de l'Ordre national des pharmaciens.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°48-504 1948-03-24
+	  - Loi n°41-3890 1941-09-11 art. 37
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°92-1279 du 8 décembre 1992 - art. 28 (V)
+	  - Loi n°99-641 du 27 juillet 1999 - art. 65 (V)
+	  - Code de la santé publique - art. L570 (Ab)
+	  - Code de la santé publique - art. L571-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-15 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L571-1 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L574
+
+Tout pharmacien se proposant d'exploiter une officine doit en faire la déclaration préalable à la préfecture [*lieu*], où
+elle sera enregistrée [*condition d'exercice*].
+
+Doivent être jointes à cette déclaration les justifications propres à établir que son auteur remplit les conditions exigées
+par les articles L. 514 et 575 du présent livre.
+
+Si l'une ou plusieurs de ces conditions font défaut, le préfet [*autorité compétente*], après avis du conseil régional de
+l'Ordre des pharmaciens et sur la proposition de l'inspecteur divisionnaire de la santé, doit refuser l'enregistrement par
+une décision motivée.
+
+En cas de réclamation, il est statué par le ministre de la Santé publique après avis du conseil régional [*recours*].
+
+Si aucune décision n'est intervenue dans le délai de deux mois à compter du dépôt de la déclaration, l'enregistrement de
+celle-ci est de droit à l'expiration dudit délai [*accord tacite*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-1014 1945-05-23 art. 3 ET art. 4
+	  - Loi n°41-3890 1941-09-11 art. 22
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 22 février 1990 - art. 1 (V)
+	  - Code de la santé publique - art. R5014-3 (Ab)
+	  - Code de la santé publique - art. R5171 (Ab)
+	  - Code de la santé publique - art. R5184 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-16 (M)
+	  - Code de la santé publique - art. L5125-16 (V)
+	  - Code de la santé publique - art. L5424-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L514 (M)
+	  - Code de la santé publique - art. L575 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L575
+
+Le pharmacien doit être propriétaire de l'officine dont il est titulaire [*condition d'exercice*].
+
+Les pharmaciens sont autorisés à constituer entre eux une société en nom collectif en vue de l'exploitation d'une officine.
+
+Les pharmaciens sont également autorisés à constituer entre eux une société à responsabilité limitée en vue de l'exploitation
+d'une officine, à la condition que cette société ne soit propriétaire que d'une seule officine, quel que soit le nombre de
+pharmaciens associés, et que la gérance de l'officine soit assurée par un ou plusieurs des pharmaciens associés.
+
+Les gérants et les associés sont responsables à l'égard des tiers dans les limites fixées à l'article 1er de la loi du 7 mars
+1925 [*loi 1966-07-24*].
+
+Aucune limite n'est apportée à la responsabilité délictuelle et quasi délictuelle des gérants, qui sont obligatoirement
+garantis contre tous les risques professionnels.
+
+Tous les pharmaciens associés sont tenus aux obligations de l'article L. 514 du présent livre. En conséquence, tous leurs
+diplômes étant enregistrés pour l'exploitation de l'officine, ils ne peuvent exercer aucune autre activité pharmaceutique
+[*non cumul*].
+
+Un pharmacien ne peut être propriétaire ou copropriétaire que d'une seule [*nombre*] officine.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 577 : DEROGATION.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°48-1087 1948-07-08
+	  - Loi n°41-3890 1941-09-11 art. 23
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°75-1226 1975-12-26 art. 2 JORF 27 décembre 1975
+
+	**Cité par**:
+
+	  - Arrêté du 16 décembre 1988 - art. 5 (V)
+	  - Arrêté du 1 août 1991 - art. 5 (V)
+	  - Code de la santé publique - art. L574 (Ab)
+	  - Code de la santé publique - art. L577 (Ab)
+	  - Code de la santé publique - art. L577 Bis (T)
+	  - Code de la santé publique - art. L578 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-17 (V)
+	  - Code de la santé publique - art. L5424-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L514 (M)
+	  - Loi n°1925-03-07 art. 1
+	  - Loi n°1966-07-24 art. 49, art. 14
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L577 : DEROGATION
+
+
+###### Article L576
+
+Aucune convention relative à la propriété d'une officine n'est valable si elle n'a été constatée par écrit [*condition de
+forme*]. Une copie de la convention doit être déposée au conseil régional de l'Ordre des pharmaciens et au siège de
+l'inspection divisionnaire de la Santé [*lieu*].
+
+Est nulle et de nul effet toute stipulation destinée à établir que la propriété ou la copropriété d'une officine appartient à
+une personne non diplômée.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-18 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 24
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L577
+
+Par dérogation à l'alinéa 1er de l'article L. 575 du présent code, tous les organismes publics ou privés où sont traités les
+malades peuvent être propriétaires d'une pharmacie.
+
+L'ouverture de celle-ci est subordonnée à l'octroi d'une licence [*condition*] délivrée par le préfet [*autorité compétente*]
+
+suivant la procédure prévue à l'alinéa 1er de l'article L. 570.
+
+La gérance en est assurée par un pharmacien sous la surveillance et la responsabilité duquel se fait la distribution des
+médicaments.
+
+Un décret en Conseil d'Etat détermine les règles applicables à la gérance desdites pharmacies ainsi qu'à la distribution
+directe de médicaments par le corps médical des organismes mentionnés au premier alinéa, dans certains cas, aux malades
+relevant de l'aide sociale.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance 67-707 1967-08-21 art. 1 JORF 22 août 1967
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-698 1968-07-31 : RATIFIE L'ORDONNANCE 707 DU 21 AOUT 1967
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 11 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 12 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 13 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 14 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 15 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 16 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 17 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 18 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 19 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 20 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 9 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L575 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L578 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Cité par**:
+
+	  - Décret n°72-318 du 24 avril 1972 - art. 6-2 (Ab)
+	  - Arrêté du 6 mars 1989 - art. Annexe (V)
+	  - Arrêté du 9 août 1991 - art. 1 (Ab)
+	  - Arrêté du 10 septembre 1992 - art. 7 (V)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 43 (Ab)
+	  - Loi n°92-1279 du 8 décembre 1992 - art. 7 (V)
+	  - Arrêté du 31 mars 1999 - art. 22 (V)
+	  - Code de la santé publique - art. L577 Ter (Ab)
+	  - Code de la santé publique - art. L578 (Ab)
+	  - Code de la santé publique - art. L588-1 (Ab)
+	  - Code de la santé publique - art. R5005 (Ab)
+	  - Code de la santé publique - art. R5009 (M)
+	  - Code de la santé publique - art. R5056 (Ab)
+	  - Code de la santé publique - art. R5089-1 (Ab)
+	  - Code de la santé publique - art. R5089-8 (Ab)
+	  - Code de la santé publique - art. R5091 (Ab)
+	  - Code de la santé publique - art. R5100 (Ab)
+	  - Code de la santé publique - art. R5171 (M)
+	  - Code de la santé publique - art. R5176 (M)
+	  - Code de la santé publique - art. R5184 (M)
+	  - Code de la santé publique - art. R5203 (M)
+	  - Code de la santé publique - art. R723-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°92-1279 du 8 décembre 1992 - art. 7 (V) JORF 11 décembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-19 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. L577 Bis (T)
+
+	**Cite**:
+
+	  - Code de la santé publique L570 AL. 1, L575 AL. 1
+
+
+###### Article L578
+
+Sauf cas de nécessité urgente, l'activité des pharmacies [*appartenant à un organisme public ou privé de soins*] prévue à
+l'article L. 577 est limitée à l'usage particulier intérieur de l'établissement hospitalier dont elles relèvent.
+
+Toutefois, le préfet, après avis du chef de service régional de l'action sanitaire et sociale, peut autoriser un
+établissement hospitalier public à assurer, par l'intermédiaire de la pharmacie dont il est propriétaire, l'approvisionnement
+en médicaments d'autres pharmacies d'établissements d'hospitalisation publics ou d'établissements d'hospitalisation privés
+assurant l'exécution du service public hospitalier dans les conditions prévues à l'article 41 de la loi n° 70-1318 du 31
+décembre 1970.
+
+Exceptionnellement, en cas de nécessité, le préfet [*autorité compétente*], après avis du chef de service régional, de
+l'action sanitaire et sociale, peut autoriser, pour une période déterminée, les établissements hospitaliers publics à vendre
+des médicaments au prix du tarif pharmaceutique lorsqu'il n'y a pas d'autres sources de distribution possible.
+
+**Nota:**
+
+[*Nota : Loi 91-748 du 31 juillet 1991 art. 33 : dans les dispositions législatives, les mots "établissements publics de
+santé" sont substitués aux mots "établissements d'hospitalisation publics" et les mots "établissements de santé privés" sont
+substitués aux mots "établissements d'hospitalisation privés".
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°70-1318 1970-12-31 art. 29 JORF 3 janvier 1971
+
+	**Cite**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 41 (M)
+	  - Code de la santé publique - art. L577 (Ab)
+
+	**Cité par**:
+
+	  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 24 (Ab)
+	  - Loi n°92-1279 du 8 décembre 1992 - art. 7 (V)
+	  - Loi n°99-641 du 27 juillet 1999 - art. 65 (V)
+	  - Code de la santé publique - art. L570 (Ab)
+	  - Code de la santé publique - art. L572 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°92-1279 du 8 décembre 1992 - art. 7 (V) JORF 11 décembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-32 (V)
+	  - Code de la santé publique - art. L5424-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L577 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+##### Section 2 : Exercice personnel de la profession
+
+###### Article L579
+
+Le pharmacien titulaire d'une officine doit exercer personnellement sa profession [*condition*].
+
+En toutes circonstances, les médicaments doivent être préparés par un pharmacien, ou sous la surveillance directe d'un
+pharmacien.
+
+Un arrêté du ministre de la Santé publique fixe, après avis du Conseil national de l'Ordre des pharmaciens, le nombre des
+pharmaciens dont les titulaires d'officine doivent se faire assister en raison de l'importance de leur chiffre d'affaires.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-1014 1945-05-23 art. 4
+	  - Loi n°41-3890 1941-09-11 art. 27
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-20 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5008 (M)
+	  - Code de la santé publique - art. R5099 (Ab)
+	  - Code de la santé publique - art. R5103 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L580
+
+Une officine ne peut rester ouverte en l'absence de son titulaire que si celui-ci s'est fait régulièrement remplacer
+[*condition*]. 
+
+La durée légale d'un remplacement ne peut, en aucun cas, dépasser un an. Toutefois, dans le cas de service national ou de
+rappel sous les drapeaux, ce délai est prolongé jusqu'à la cessation de cet empêchement. 
+
+Après le décès d'un pharmacien, le délai pendant lequel son conjoint ou ses héritiers peuvent maintenir une officine ouverte
+en la faisant gérer par un pharmacien autorisé à cet effet par le préfet [*autorité compétente*] ne peut excéder deux ans.
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles le remplacement doit être assuré, soit par des pharmaciens,
+soit par des étudiants en pharmacie justifiant d'un minimum de scolarité.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°75-1226 1975-12-26 art. 4 JORF 27 décembre 1975
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-21 (V)
+	  - Code de la santé publique - art. L5125-32 (M)
+	  - Code de la santé publique - art. L5125-32 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L589 (Ab)
+	  - Code de la santé publique - art. R5008 (M)
+	  - Code de la santé publique - art. R5015-1 (Ab)
+	  - Code de la santé publique - art. R5028 (M)
+	  - Code de la santé publique - art. R5100 (Ab)
+	  - Code de la santé publique - art. R5101 (Ab)
+	  - Code de la santé publique - art. R5104 (Ab)
+	  - Code de la sécurité sociale. - art. L162-16-3 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+	  - SPEC_APPLI: Décret n°64-968 1964-09-11 art. 1 : MODIFIA L'ARTICLE L580 ET FUT ANNULE PAR Conseil d'Etat 1969-12-12
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 28
+
+
+##### Section 3 : Des préparateurs en pharmacie
+
+###### Article L581
+
+Tout pharmacien est autorisé à se faire aider dans son officine par un ou plusieurs préparateurs en pharmacie [*personnel*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4241-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L518 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°46-1182 1946-05-24 art. 1
+
+
+###### Article L582
+
+Est qualifiée préparateur en pharmacie toute personne titulaire du brevet professionnel institué à la présente section      .
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°64-748 du 17 juillet 1964 - art. 4 (Ab)
+	  - Décret n°68-97 du 10 janvier 1968 - art. 4 (V)
+	  - Décret n°71-1149 du 17 décembre 1971 - art. 22 (V)
+	  - Décret n°71-1149 du 17 décembre 1971 - art. 23 (V)
+	  - Décret n°71-1149 du 17 décembre 1971 - art. 4 (V)
+	  - Décret n°89-613 du 1 septembre 1989 - art. 3 (M)
+	  - Décret n°89-613 du 1 septembre 1989 - art. 44 (M)
+	  - Arrêté du 10 septembre 1997 - art. 1 (V)
+	  - Décret n°99-516 du 23 juin 1999 - art. 1 (M)
+	  - Décret n°99-516 du 23 juin 1999 - art. 4 (M)
+	  - Décret n°99-516 du 23 juin 1999 - art. 9 (Ab)
+	  - Arrêté du 14 avril 1965 - art. 2 (V)
+	  - Code de la santé publique - art. L518 (Ab)
+	  - Code de la santé publique - art. L582-1 (Ab)
+	  - Code de la santé publique - art. L586 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°77-745 1977-07-08 art. 1 JORF 10 juillet 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4241-4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L586 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L587 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L586, L587, L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°46-1182 1946-05-24 art. 2
+
+
+###### Article L583
+
+Les conditions de délivrance du brevet professionnel de préparateur en pharmacie sont fixées par décret, pris après avis
+d'une commission composée paritairement de représentants des pharmaciens, des préparateurs en pharmacie et de
+l'administration.
+
+La composition de cette commission est définie par arrêté ministériel. Ses membres sont nommés sur proposition du conseil
+supérieur de la pharmacie en ce qui concerne les pharmaciens et sur proposition des organisations syndicales les plus
+représentatives des préparateurs en ce qui les concerne.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1978-02-03 JORF NC 11 février MODIFIE PAR Arrêté 1978-03-28 :
+	  - TXT_ASSOCIE: COMPOSITION DE LA COMMISSION
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 1 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 10 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 2 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 3 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 4 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 5 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 6 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 7 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 8 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 9 (M)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°77-745 1977-07-08 art. 2 JORF 10 juillet 1977
+
+	**Cité par**:
+
+	  - Décret n°79-554 du 3 juillet 1979 - art. 1 (Ab)
+	  - Décret n°79-554 du 3 juillet 1979 - art. 6 (Ab)
+	  - Arrêté du 7 août 1991 - art. 1 (V)
+	  - Décret n°97-508 du 22 mai 1997 - art. 1 (M)
+	  - Décret n°99-740 du 25 août 1999 - art. 1 (Ab)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+	  - Code de la santé publique - art. L518 (Ab)
+	  - Code de la santé publique - art. L582-1 (Ab)
+	  - Code de la santé publique - art. L582-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4241-5 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°46-1182 1946-05-24 art. 3
+
+
+###### Article L584
+
+Les préparateurs en pharmacie [*fonction*] sont seuls autorisés à seconder le titulaire de l'officine et les pharmaciens qui
+l'assistent dans la préparation et la délivrance au public des médicaments destinés à la médecine humaine et à la médecine
+vétérinaire.
+
+Ils assument leurs tâches sous la responsabilité et le contrôle effectif d'un pharmacien, leur responsabilité pénale
+demeurant engagée.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 588 : DEROGATION EN FAVEUR DES ETUDIANTS.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°77-745 1977-07-08 art. 3 JORF 10 juillet 1977
+
+	**Cité par**:
+
+	  - Décret n°89-613 du 1 septembre 1989 - art. 2 (M)
+	  - Décret n°99-516 du 23 juin 1999 - art. 3 (M)
+	  - Code de la santé publique - art. L518 (Ab)
+	  - Code de la santé publique - art. L587 (Ab)
+	  - Code de la santé publique - art. L588 (Ab)
+	  - Code de la santé publique - art. L663 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4241-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L588 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°46-1182 1946-05-24 art. 4
+
+
+###### Article L585
+
+Les préparateurs en pharmacie ne peuvent, en aucun cas, se substituer à la personne du pharmacien quant aux prérogatives
+attachées au diplôme de pharmacien et quant à la propriété des officines.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4241-3 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L518 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°46-1182 1946-05-24 art. 5
+
+
+###### Article L586
+
+Sous réserve des dispositions de l'article L. 663 ci-après, nul, s'il ne répond aux conditions fixées à l'article L. 582 du
+présent titre [*brevet professionnel*], ne peut se qualifier préparateur en pharmacie ni, notamment sur le plan
+professionnel, user des droits et prérogatives attachés à cette qualité, sous peine de sanctions prévues à l'article 259 du
+code pénal. En cas de récidive, la peine sera doublée.
+
+Les dispositions du présent article ne sont applicables [*non*] ni aux étudiants en pharmacie, qui peuvent être employés dans
+une pharmacie aux conditions [*d'exercice*] prévues à l'article L. 588, ni aux personnes titulaires du diplôme de pharmacien,
+ni aux personnes habilitées à exercer l'emploi de préparateur en pharmacie en vertu des dispositions transitoires prévues à
+l'article 8 de la loi n° 46-1182 du 24 mai 1946.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°77-745 1977-07-08 art. 4 JORF 10 juillet 1977
+
+	**Cite**:
+
+	  - Code pénal 259
+	  - Code de la santé publique - art. L582 (Ab)
+	  - Code de la santé publique - art. L588 (Ab)
+	  - Code de la santé publique - art. L663 (Ab)
+	  - Loi n°46-1182 1946-05-24 art. 8
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4242-1 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L518 (Ab)
+	  - Code de la santé publique - art. L587 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L582 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°46-1182 1946-05-24 art. 6
+
+
+###### Article L587
+
+Tout pharmacien qui aura employé, même occasionnellement, aux opérations prévues à l'article L. 584 [*préparation et
+délivrance des médicaments*] une personne ne satisfaisant pas aux conditions [*d'exercice*] fixées par la présente section
+[*brevet professionnel*] sera passible des peines prévues à l'article L. 586.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4242-2 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L518 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L582 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L584 (Ab)
+	  - Code de la santé publique - art. L586 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°46-1182 1946-05-24 art. 7
+
+
+###### Article L588
+
+Par dérogation à l'article L. 584, les étudiants en pharmacie régulièrement inscrits en troisième année d'études dans une
+unité d'enseignement et de recherches de sciences pharmaceutiques sont autorisés, dans un but de perfectionnement, à
+exécuter, en dehors des heures de travaux universitaires, les opérations mentionnées audit article sous réserve qu'ils aient
+effectué préalablement le stage officinal prévu par les dispositions en vigueur [*condition d'exercice*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°77-745 1977-07-08 art. 5 JORF 10 juillet 1977
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4241-10 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L518 (Ab)
+	  - Code de la santé publique - art. L586 (Ab)
+	  - Code de la santé publique - art. R5104-5 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L584 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L584 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°46-1182 1946-05-24 art. 9
+
+
+##### Section 4 : Règles générales de la pharmacie d'officine
+
+###### Article L589
+
+Il est interdit aux pharmaciens ou à leurs préposés de solliciter des commandes auprès du public [*démarchage*].
+
+Toute commande livrée en dehors de l'officine ne peut être remise qu'en paquet scellé portant le nom et l'adresse du client
+[*obligation*].
+
+Il est, en outre, interdit aux pharmaciens de recevoir des commandes de médicaments par l'entremise habituelle de courtiers
+et de se livrer au trafic et à la distribution à domicile de médicaments dont la commande leur serait ainsi parvenue
+[*colportage*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-25 (V)
+	  - Code de la santé publique - art. L5125-32 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5009 (M)
+	  - Code de la santé publique - art. R5104-1 (Ab)
+	  - Code de la santé publique - art. R5104-4 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 31
+
+
+###### Article L590
+
+Est interdite la vente au public de tous médicaments, produits et accessoires visés à l'article L. 511 du présent livre par
+l'intermédiaire de maisons de commission, de groupements d'achats ou d'établissements possédés ou administrés par des
+personnes non munies du diplôme de pharmacien.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L511 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-26 (V)
+	  - Code de la santé publique - art. L5424-8 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 32
+
+
+###### Article L591
+
+Tout débit, étalage ou distribution de médicaments est interdit sur la voie publique, dans les foires ou marchés, à toute
+personne, même munie du diplôme de pharmacien.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-27 (V)
+	  - Code de la santé publique - art. L5424-9 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 ART. 33
+
+
+###### Article L592
+
+Est interdite toute convention d'après laquelle un pharmacien assure à un médecin praticien, à un chirurgien-dentiste ou à
+une sage-femme un bénéfice d'une nature quelconque sur la vente des produits pharmaceutiques, médicamenteux ou hygiéniques
+que ceux-ci peuvent prescrire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-28 (V)
+	  - Code de la santé publique - art. L5424-10 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 34
+
+
+###### Article L593
+
+Les médicaments spécialisés mentionnés à l'article L. 601 du présent code ne peuvent être vendus à un prix supérieur à celui
+qui résulte de la réglementation des prix [*interdiction*].
+
+Les autres médicaments et produits dont la vente est réservée aux pharmaciens ne peuvent être vendus à un prix supérieur à
+celui qui résulte du tarif pharmaceutique national. Ce tarif est fixé par arrêté conjoint du ministre des Affaires sociales
+et du ministre de l'Economie et des Finances.
+
+Les pharmacies gérées par des organismes à but non lucratif appliquent obligatoirement sur le prix limite prévu aux alinéas
+précédents un abattement dont le taux minimum est fixé par arrêté conjoint du ministre des Affaires sociales et du ministre
+de l'Economie et des Finances. La même disposition s'applique aux établissements de soins privés, à but lucratif,
+propriétaires d'une pharmacie, pour les médicaments non inclus dans le prix de journée.
+
+Dans les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion, les produits et
+médicaments dont la vente est réservée aux pharmacies ne peuvent être vendus à un prix supérieur à celui qui résulte d'un
+tarif départemental, fixé par arrêté du préfet sur proposition de l'inspecteur de la pharmacie.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1969-12-30 JORF 7 janvier ET Arrêté 1975-08-05 JORF 24 AOUT :
+	  - SPEC_APPLI: Loi n°68-698 1968-07-31 : RATIFIE L'ORDONNANCE 707 DU 21 AOUT 1967
+	  - TXT_SOURCE: Arrêté du 4 août 1987
+	  - TXT_SOURCE: Arrêté du 4 août 1987 - art. 2 (M)
+	  - TXT_SOURCE: Arrêté du 4 août 1987 - art. 3 (M)
+	  - TXT_SOURCE: Arrêté du 4 août 1987 - art. 4 (V)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+	  - TXT_ASSOCIE: TAUX MINIMUM D'ABATTEMENT
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 67-707 1967-08-21 art. 2 JORF 22 août 1967
+	  - Loi n°79-1129 1979-12-28 art. 28 JORF 29 décembre 1979
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 47 (Ab)
+	  - Code de la sécurité sociale. - art. L162-16 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5123-1 (V)
+	  - Code de la santé publique - art. L5511-3 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+
+
+##### Section 5 : Délivrance des médicaments par les médecins
+
+###### Article L594
+
+Les docteurs en médecine établis dans les agglomérations où il n'y a pas de pharmacien ayant une officine ouverte au public
+peuvent être autorisés par le préfet [*autorité compétente*], après avis de l'inspecteur divisionnaire de la santé, à avoir
+chez eux un dépôt de médicaments et à délivrer, aux personnes auxquelles ils donnent leurs soins, les médicaments simples et
+composés inscrits sur une liste établie par le ministre de la Santé publique après avis du Conseil national de l'Ordre des
+médecins et du Conseil national de l'Ordre des pharmaciens.
+
+Cette autorisation mentionne [*obligatoirement*] les localités dans lesquelles la délivrance des médicaments au domicile du
+malade, par le médecin, est également autorisée. Elle est retirée dès la création d'une officine ouverte au public dans les
+communes intéressées.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1961-07-28 : LISTE DES MEDICAMENTS
+	  - TXT_SOURCE: Arrêté du 28 juillet 1961
+	  - TXT_SOURCE: Arrêté du 28 juillet 1961 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 juillet 1961 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°71-1026 1971-12-24 art. 9 JORF 25 décembre 1971
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Arrêté du 28 juillet 1961 - art. 1 (Ab)
+	  - Code de la santé publique - art. L512 (M)
+	  - Code de la santé publique - art. L549 (Ab)
+	  - Code de la santé publique - art. R5005 (Ab)
+	  - Code de la santé publique - art. R5056 (Ab)
+	  - Code de la santé publique - art. R5059 (M)
+	  - Code de la santé publique - art. R5104-7 (Ab)
+	  - Code de la santé publique - art. R5171 (Ab)
+	  - Code de la santé publique - art. R5184 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4211-3 (M)
+	  - Code de la santé publique - art. L4211-3 (V)
+	  - Code de la santé publique - art. L4212-1 (V)
+	  - Code de la santé publique - art. L4422-5 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 29
+
+
+###### Article L595
+
+Les docteurs en médecine bénéficiant de cette autorisation [*d'avoir un dépôt de médicaments*] sont soumis à toutes les
+obligations résultant pour les pharmaciens des lois et règlements.
+
+Ils ne peuvent, en aucun cas, avoir une officine ouverte au public [*interdiction*]. Ils doivent ne délivrer que les
+médicaments prescrits par eux au cours de leur consultation [*condition d'exercice*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4211-3 (M)
+	  - Code de la santé publique - art. L4211-3 (V)
+	  - Code de la santé publique - art. L4212-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 30
+
+
+#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques
+
+##### Section 1 : Des établissements de préparation et de vente en gros
+
+###### Article L596
+
+Tout établissement de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets visés aux
+articles L. 511 et L. 512 doit être la propriété [*obligation*]
+
+d'un pharmacien ou d'une société à la gestion ou à la direction générale de laquelle participe un pharmacien dans les
+conditions fixées par décret en Conseil d'Etat. Dans l'un et l'autre cas, ce pharmacien est personnellement responsable de
+l'application des règles édictées dans l'intérêt de la santé publique, sans préjudice, le cas échéant, de la responsabilité
+solidaire de la société.
+
+Le pharmacien responsable d'un établissement de préparation doit, en outre, justifier d'une expérience pratique dont la durée
+et les modalités sont définies par voie réglementaire [*condition d'exercice*].
+
+Lorsqu'un établissement comprend une ou plusieurs succursales, la direction technique de chacune d'elles doit être assurée
+par un pharmacien assistant ; celui-ci est responsable de l'application dans la succursale des règles édictées dans l'intérêt
+de la santé publique solidairement avec le pharmacien responsable de l'établissement.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 597 : DEROGATION.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance n°59-250 du 4 février 1959 - art. 1 () JORF 8 février 1959
+	  - Ordonnance 67-827 1967-09-23 art. 8 JORF 28 septembre 1967
+	  - Loi n°76-1288 1976-12-31 art. 13 JORF 1er janvier 1977
+	  - Loi n°78-699 1978-07-06 art. 3 JORF 7 juillet 1978
+	  - Décret n°55-685 1955-05-20 art. 3 JORF 22 mai 1955
+
+	**Cité par**:
+
+	  - Décret n°69-104 du 3 février 1969 - art. 2 (Ab)
+	  - Arrêté du 17 juillet 1987 - art. 26 (M)
+	  - Arrêté du 20 janvier 1992 - art. 1 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 46 (Ab)
+	  - Loi n°92-1279 du 8 décembre 1992 - art. 26 (Ab)
+	  - Arrêté du 17 janvier 1995 - art. 1 (Ab)
+	  - Arrêté du 10 mai 1995 - art. 1 (V)
+	  - Ordonnance n°96-51 du 24 janvier 1996 - art. 12 (V)
+	  - Décret n°97-529 du 26 mai 1997 - art. 1 (Ab)
+	  - Décret n°97-529 du 26 mai 1997 - art. 4 (Ab)
+	  - Loi n°99-223 du 23 mars 1999 - art. 4 (Ab)
+	  - Loi n°99-1140 du 29 décembre 1999 - art. 30 (V)
+	  - Code de la santé publique - art. L512 (M)
+	  - Code de la santé publique - art. L596-1 (Ab)
+	  - Code de la santé publique - art. L596-3 (Ab)
+	  - Code de la santé publique - art. L597 (Ab)
+	  - Code de la santé publique - art. L598 (M)
+	  - Code de la santé publique - art. L599 (M)
+	  - Code de la santé publique - art. L600 (M)
+	  - Code de la santé publique - art. L670-2 (Ab)
+	  - Code de la santé publique - art. R5005 (Ab)
+	  - Code de la santé publique - art. R5009 (M)
+	  - Code de la santé publique - art. R5012 (M)
+	  - Code de la santé publique - art. R5015-68 (Ab)
+	  - Code de la santé publique - art. R5056 (M)
+	  - Code de la santé publique - art. R5105 (Ab)
+	  - Code de la santé publique - art. R5106 (Ab)
+	  - Code de la santé publique - art. R5106-1 (Ab)
+	  - Code de la santé publique - art. R5107 (M)
+	  - Code de la santé publique - art. R5107-1 (P)
+	  - Code de la santé publique - art. R5108 (Ab)
+	  - Code de la santé publique - art. R5112-3 (Ab)
+	  - Code de la santé publique - art. R5113 (Ab)
+	  - Code de la santé publique - art. R5115-1 (Ab)
+	  - Code de la santé publique - art. R5115-17 (Ab)
+	  - Code de la santé publique - art. R5115-6 (M)
+	  - Code de la santé publique - art. R5115-9 (M)
+	  - Code de la santé publique - art. R5116 (P)
+	  - Code de la santé publique - art. R5171 (M)
+	  - Code de la santé publique - art. R5196 (Ab)
+	  - Code de la santé publique - art. R5219 (Ab)
+	  - Code de la santé publique - art. R791-4-2 (Ab)
+	  - Code de la santé publique - art. R791-4-4 (Ab)
+	  - Code de la santé publique - art. R791-4-5 (Ab)
+	  - Code de la santé publique - art. R791-4-6 (Ab)
+	  - Code de la sécurité sociale. - art. L138-1 (V)
+	  - Code de la sécurité sociale. - art. L138-10 (VD)
+	  - Code de la sécurité sociale. - art. L138-11 (V)
+	  - Code de la sécurité sociale. - art. L138-12 (V)
+	  - Code de la sécurité sociale. - art. L138-13 (V)
+	  - Code de la sécurité sociale. - art. L138-14 (Ab)
+	  - Code de la sécurité sociale. - art. L138-15 (M)
+	  - Code de la sécurité sociale. - art. L138-16 (V)
+	  - Code de la sécurité sociale. - art. L138-17 (VT)
+	  - Code de la sécurité sociale. - art. L138-18 (VT)
+	  - Code de la sécurité sociale. - art. L138-19 (VT)
+	  - Code de la sécurité sociale. - art. L138-2 (V)
+	  - Code de la sécurité sociale. - art. L138-3 (Ab)
+	  - Code de la sécurité sociale. - art. L138-4 (M)
+	  - Code de la sécurité sociale. - art. L138-5 (Ab)
+	  - Code de la sécurité sociale. - art. L138-6 (Ab)
+	  - Code de la sécurité sociale. - art. L138-7 (V)
+	  - Code de la sécurité sociale. - art. L138-8 (V)
+	  - Code de la sécurité sociale. - art. L138-9 (V)
+	  - Code de la sécurité sociale. - art. L245-1 (V)
+	  - Code de la sécurité sociale. - art. L245-6-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L511 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5124-18 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L597
+
+Par dérogation aux dispositions de l'article précédent et à celles de l'article L. 512, l'institut Pasteur demeure habilité à
+assurer, conformément à ses statuts, la préparation et la distribution des virus atténués ou non, sérums thérapeutiques,
+toxines modifiées ou non, et en général des divers produits d'origine microbienne non chimiquement définis pouvant servir,
+sous une forme quelconque, au diagnostic, à la prophylaxie ou à la thérapeutique, ainsi que les allergènes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance n°59-250 du 4 février 1959 - art. 1 () JORF 8 février 1959
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L512 (M)
+	  - Code de la santé publique - art. R5184 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5124-10 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L596 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L596 (M)
+
+
+###### Article L598
+
+L'ouverture des établissements visés à l'article L. 596 est subordonnée à l'octroi d'une autorisation qui peut être supprimée
+en cas d'infraction aux dispositions du présent chapitre ou des règlements pris pour son application [*condition*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance n°59-250 du 4 février 1959 - art. 1 () JORF 8 février 1959
+
+	**Cité par**:
+
+	  - Décret n°69-104 du 3 février 1969 - art. 1 (Ab)
+	  - Décret n°69-104 du 3 février 1969 - art. 2 (Ab)
+	  - Loi n°92-1279 du 8 décembre 1992 - art. 26 (Ab)
+	  - Décret n°94-193 du 7 mars 1994 - art. 1 (Ab)
+	  - Décret n°95-106 du 31 janvier 1995 - art. 6 (V)
+	  - Arrêté du 18 novembre 1996 - art. 3 (V)
+	  - Décret n°96-1061 du 5 décembre 1996 - art. 7 (V)
+	  - Arrêté du 10 décembre 1996 - art. 2 (V)
+	  - Décret n°97-529 du 26 mai 1997 - art. 1 (Ab)
+	  - Décret n°97-529 du 26 mai 1997 - art. 3 (Ab)
+	  - Décret n°97-529 du 26 mai 1997 - art. 4 (Ab)
+	  - Décret n°97-529 du 26 mai 1997 - art. 8 (Ab)
+	  - Décret n°98-79 du 11 février 1998 - art. 11 (Ab)
+	  - Code de la santé publique - art. L600 (M)
+	  - Code de la santé publique - art. L603 (Ab)
+	  - Code de la santé publique - art. R5056 (Ab)
+	  - Code de la santé publique - art. R5108 (Ab)
+	  - Code de la santé publique - art. R5110 (Ab)
+	  - Code de la santé publique - art. R5111-2 (Ab)
+	  - Code de la santé publique - art. R5112-3 (M)
+	  - Code de la santé publique - art. R5142-16 (M)
+	  - Code de la santé publique - art. R5184 (Ab)
+	  - Code de la santé publique - art. R5234 (Ab)
+	  - Code de la santé publique - art. R5234-1 (Ab)
+	  - Code de la santé publique - art. R672-13 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5124-18 (M)
+	  - Code de la santé publique - art. L5124-3 (V)
+	  - Code de la santé publique - art. L5423-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L596 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L599
+
+Sous réserve des dispositions d'application fixées par les décrets prévus à l'article L. 600 ci-après, les pharmaciens
+responsables des établissements visés à l'article L. 596 doivent exercer personnellement leur profession [*condition*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance n°59-250 du 4 février 1959 - art. 1 () JORF 8 février 1959
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5124-18 (M)
+	  - Code de la santé publique - art. L5124-4 (V)
+	  - Code de la santé publique - art. L5423-5 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L596 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L600 (M)
+	  - Code de la santé publique - art. R5008 (M)
+	  - Code de la santé publique - art. R5028 (M)
+	  - Code de la santé publique - art. R5112-8 (Ab)
+	  - Code de la santé publique - art. R5112-9 (Ab)
+	  - Code de la santé publique - art. R5114 (Ab)
+	  - Code de la santé publique - art. R5114-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L600
+
+Des décrets pris en Conseil d'Etat précisent les conditions d'application des articles L. 596, L. 598 et L. 599 et
+notamment :
+
+1° Les conditions auxquelles est subordonnée l'ouverture des établissements visés à l'article L. 596 ;
+
+2° Les conditions dans lesquelles les pharmaciens responsables des établissements visés à l'article L. 596 doivent se faire
+assister par d'autres pharmaciens et celles dans lesquelles ils peuvent se faire remplacer par d'autres pharmaciens ;
+
+3° Les conditions générales de fabrication et de vente en gros des produits pharmaceutiques.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance n°59-250 du 4 février 1959 - art. 1 () JORF 8 février 1959
+
+	**Cité par**:
+
+	  - Arrêté du 10 mai 1995 - art. 1 (M)
+	  - Code de la santé publique - art. L518 (Ab)
+	  - Code de la santé publique - art. L596-1 (Ab)
+	  - Code de la santé publique - art. L603 (Ab)
+	  - Code de la santé publique - art. R5008 (M)
+	  - Code de la santé publique - art. R5056 (M)
+	  - Code de la santé publique - art. R5115-2 (M)
+	  - Code de la santé publique - art. R5115-9 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L596 (M)
+	  - Code de la santé publique - art. L598 (M)
+	  - Code de la santé publique - art. L599 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+##### Section 2 : Des médicaments spécialisés
+
+###### Article L601
+
+On entend par spécialité pharmaceutique [*définition*] tout médicament préparé à l'avance, présenté sous un conditionnement
+particulier et caractérisé par une dénomination spéciale.
+
+Aucune spécialité ne peut être débitée à titre gratuit ou onéreux si elle n'a reçu, au préalable, une autorisation de mise
+sur le marché [*condition de vente*] délivrée par le ministre des Affaires sociales [*autorité compétente*].
+
+Cette autorisation peut être assortie de conditions adéquates. Elle n'est accordée que lorsque le fabricant justifie :
+
+1° Qu'il a fait procéder à la vérification de l'innocuité du produit dans des conditions normales d'emploi et de son intérêt
+thérapeutique, ainsi qu'à son analyse qualitative et quantitative ;
+
+2° Qu'il dispose effectivement d'une méthode de fabrication et de procédés de contrôle de nature à garantir la qualité du
+produit au stade de la fabrication en série.
+
+Cette autorisation est délivrée pour une durée de cinq ans ;
+
+elle est ensuite renouvelable par période quinquennale.
+
+Elle peut être suspendue ou supprimée par le ministre des Affaires sociales.
+
+L'accomplissement des formalités prévues au présent article n'a pas pour effet d'exonérer le fabricant ou, s'il est distinct,
+le titulaire de l'autorisation de mise sur le marché de la responsabilité que l'un ou l'autre peut encourir dans les
+conditions du droit commun en raison de la fabrication ou de la mise sur le marché d'une spécialité.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°1912-04-15 du 15 avril 1912 - art. 15-1 (V)
+	  - Décret n°45-0179 du 29 décembre 1945 - art. 13 ter (V)
+	  - Arrêté du 19 mars 1965 - art. 2 (V)
+	  - Décret n°67-441 du 5 juin 1967 - art. 2 (Ab)
+	  - Loi n°68-1 du 2 janvier 1968 - art. 3 bis (Ab)
+	  - Décret n°69-104 du 3 février 1969 - art. 2 (Ab)
+	  - Décret n°82-639 du 22 juillet 1982 - art. ANNEXE (V)
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 17 (Ab)
+	  - Décret n°93-1322 du 20 décembre 1993 - art. 1 (Ab)
+	  - Décret n°94-19 du 5 janvier 1994 - art. 23 (Ab)
+	  - Décret n°94-1030 du 2 décembre 1994 - art. 9 (Ab)
+	  - Décret n°95-1172 du 6 novembre 1995 - art. 18 (T)
+	  - Décret n°96-531 du 14 juin 1996 - art. 4 (Ab)
+	  - Décret n°96-653 du 16 juillet 1996 - art. 1 (Ab)
+	  - Arrêté du 9 décembre 1996 - art. 1 (V)
+	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
+	  - Décret n°97-529 du 26 mai 1997 - art. 2 (Ab)
+	  - Décret n°97-529 du 26 mai 1997 - art. 8 (Ab)
+	  - Décret n°99-338 du 3 mai 1999 - art. 2 (Ab)
+	  - Arrêté du 10 août 1981 - art. 1 (Ab)
+	  - Arrêté du 10 août 1981 - art. 2 (Ab)
+	  - Arrêté du 15 septembre 1955 - art. 1 (V)
+	  - Arrêté du 20 décembre 1993 - art. 1 (Ab)
+	  - Arrêté du 20 décembre 1993 - art. 2 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 278 quater (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 279 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 281 octies (M)
+	  - Code de la propriété intellectuelle - art. L611-3 (V)
+	  - Code de la santé publique - art. L551 (M)
+	  - Code de la santé publique - art. L551-2 (Ab)
+	  - Code de la santé publique - art. L567-4 (M)
+	  - Code de la santé publique - art. L593 (Ab)
+	  - Code de la santé publique - art. L596-3 (Ab)
+	  - Code de la santé publique - art. L601-2 (Ab)
+	  - Code de la santé publique - art. L601-3 (Ab)
+	  - Code de la santé publique - art. L603 (Ab)
+	  - Code de la santé publique - art. L604 (Ab)
+	  - Code de la santé publique - art. L605 (Ab)
+	  - Code de la santé publique - art. L618 (Ab)
+	  - Code de la santé publique - art. L625 (Ab)
+	  - Code de la santé publique - art. L637 (Ab)
+	  - Code de la santé publique - art. L665 (Ab)
+	  - Code de la santé publique - art. L670-4 (Ab)
+	  - Code de la santé publique - art. R5050 (M)
+	  - Code de la santé publique - art. R5052-1 (M)
+	  - Code de la santé publique - art. R5093 (Ab)
+	  - Code de la santé publique - art. R5106 (Ab)
+	  - Code de la santé publique - art. R5115-1 (M)
+	  - Code de la santé publique - art. R5115-6 (Ab)
+	  - Code de la santé publique - art. R5115-7 (Ab)
+	  - Code de la santé publique - art. R5117 (M)
+	  - Code de la santé publique - art. R5142-12 (M)
+	  - Code de la santé publique - art. R5143 (Ab)
+	  - Code de la santé publique - art. R5144-1 (M)
+	  - Code de la santé publique - art. R5144-3 (Ab)
+	  - Code de la santé publique - art. R5146-32 (M)
+	  - Code de la santé publique - art. R5201 (Ab)
+	  - Code de la santé publique - art. R5229-2 (Ab)
+	  - Code de la santé publique - art. R5234 (Ab)
+	  - Code de la santé publique - art. R5234-3 (Ab)
+	  - Code de la santé publique - art. R5240 (Ab)
+	  - Code de la santé publique - art. R5273 (Ab)
+	  - Code de la santé publique - art. R673-25 (Ab)
+	  - Code de la sécurité sociale. - art. L162-17 (VD)
+	  - Code de la sécurité sociale. - art. R163-2 (M)
+	  - Code de la sécurité sociale. - art. R163-7 (M)
+	  - Code général des impôts, CGI. - art. 281 nonies (V)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance n°59-250 du 4 février 1959 - art. 2 () JORF 8 février 1959
+	  - Ordonnance 67-827 1967-09-23 art. 2 JORF 28 septembre 1967
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 4 août 1987
+	  - TXT_SOURCE: Arrêté du 4 août 1987 - art. 2 (M)
+	  - TXT_SOURCE: Arrêté du 4 août 1987 - art. 3 (M)
+	  - TXT_SOURCE: Arrêté du 4 août 1987 - art. 4 (V)
+	  - TXT_ASSOCIE: Arrêté du 9 septembre 1992
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5121-20 (M)
+	  - Code de la santé publique - art. L5121-9 (V)
+	  - Code de la santé publique - art. L5421-2 (V)
+
+
+###### Article L602
+
+Toute demande d'autorisation de mise sur le marché doit être accompagnée du versement d'un droit fixe dont le montant sera
+fixé par décret.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance n°59-250 du 4 février 1959 - art. 2 () JORF 8 février 1959
+	  - Loi n°77-1467 1977-12-30 art. 97 JORF 31 décembre 1977
+
+	**Cité par**:
+
+	  - Décret n°72-642 du 3 juillet 1972 - art. 1 (Ab)
+	  - Décret n°93-1322 du 20 décembre 1993 - art. 1 (Ab)
+	  - Décret n°93-1322 du 20 décembre 1993 - art. 2 (Ab)
+	  - Décret n°96-653 du 16 juillet 1996 - art. 1 (Ab)
+	  - Décret n°96-653 du 16 juillet 1996 - art. 3 (Ab)
+	  - Décret n°2004-651 du 2 juillet 2004 - art. 3 (Ab)
+	  - Code de la santé publique - art. L567-7 (Ab)
+	  - Code de la santé publique - art. L605 (M)
+	  - Code de la santé publique - art. L658-11 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°93-1322 du 20 décembre 1993
+	  - TXT_SOURCE: Décret n°93-1322 du 20 décembre 1993 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°93-1322 du 20 décembre 1993 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°96-653 du 16 juillet 1996
+	  - TXT_SOURCE: Décret n°96-653 du 16 juillet 1996 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°96-653 du 16 juillet 1996 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°96-653 du 16 juillet 1996 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5121-16 (M)
+
+
+###### Article L604
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°68-1 du 2 janvier 1968 - art. 72 (Ab)
+	  - Code de la santé publique - art. L605 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5124-5 (V)
+	  - Code de la santé publique - art. L5421-4 (V)
+
+
+#### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurité sociale
+
+##### Section 1 : Agrément pour les collectivités publiques.
+
+###### Article L618
+
+L'achat, la fourniture, la prise en charge et l'utilisation par les collectivités publiques des médicaments [*spécialisés et
+vétérinaires*] définis aux articles L. 601, 605 et 606 ci-dessus sont limités dans les conditions prévues ci-dessous aux
+produits agréés dont la liste est établie par le ministre de la Santé publique.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1960-11-28 MODIFIE PAR Arrêté 1974-05-06 : LISTE DES PRODUITS AGREES
+	  - TXT_SOURCE: Décret n°82-253 du 16 mars 1982
+	  - TXT_SOURCE: Décret n°82-253 du 16 mars 1982 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°82-253 du 16 mars 1982 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°99-554 du 2 juillet 1999
+	  - TXT_SOURCE: Décret n°99-554 du 2 juillet 1999 - art. 1 ()
+	  - TXT_SOURCE: Décret n°99-554 du 2 juillet 1999 - art. 2 ()
+	  - TXT_SOURCE: Décret n°99-554 du 2 juillet 1999 - art. 3 ()
+	  - TXT_SOURCE: Décret n°99-554 du 2 juillet 1999 - art. 4 ()
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2340 1945-10-13 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°58-1202 du 11 décembre 1958 - art. 37-2 (Ab)
+	  - Décret n°82-253 du 16 mars 1982 - art. 1 (Ab)
+	  - Décret n°92-1257 du 3 décembre 1992 - art. 10 (V)
+	  - Ordonnance n°96-51 du 24 janvier 1996 - art. 12 (M)
+	  - Arrêté du 26 avril 1999 - art. 2 (V)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+	  - Arrêté du 20 décembre 1993 - art. 1 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 281 octies (M)
+	  - Code de la santé publique - art. L621 (Ab)
+	  - Code de la santé publique - art. R5047 (Ab)
+	  - Code de la santé publique - art. R5047-3 (M)
+	  - Code de la santé publique - art. R5240 (Ab)
+	  - Code de la sécurité sociale. - art. L162-1-7 (M)
+	  - Code de la sécurité sociale. - art. L162-17-1 (V)
+	  - Code de la sécurité sociale. - art. L162-17-2 (V)
+	  - Code de la sécurité sociale. - art. R161-42 (V)
+	  - Code de la sécurité sociale. - art. R162-32 (Ab)
+	  - Code de la sécurité sociale. - art. R163-10 (T)
+	  - Code de la sécurité sociale. - art. R163-12 (M)
+	  - Code de la sécurité sociale. - art. R163-14 (M)
+	  - Code de la sécurité sociale. - art. R163-15 (T)
+	  - Code de la sécurité sociale. - art. R163-16 (M)
+	  - Code de la sécurité sociale. - art. R163-18 (M)
+	  - Code de la sécurité sociale. - art. R163-2 (M)
+	  - Code de la sécurité sociale. - art. R163-21 (M)
+	  - Code de la sécurité sociale. - art. R163-6 (M)
+	  - Code de la sécurité sociale. - art. R163-7 (M)
+	  - Code de la sécurité sociale. - art. R163-8 (M)
+	  - Code de la sécurité sociale. - art. R163-9 (M)
+	  - Code général des impôts, CGI. - art. 281 nonies (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5123-2 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. L605 (M)
+	  - Code de la santé publique - art. L606 (Ab)
+
+
+###### Article L619
+
+Cette liste [*de produits agréés*] est proposée par une commission dont la composition est fixée par décret pris sur le
+rapport du ministre de la Santé publique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2340 1945-10-13 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°67-441 1967-06-05 : COMPOSITION DE LA COMMISSION
+	  - TXT_SOURCE: Décret n°82-253 du 16 mars 1982
+	  - TXT_SOURCE: Décret n°82-253 du 16 mars 1982 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°82-253 du 16 mars 1982 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L620 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°67-441 du 5 juin 1967 - art. 15 (Ab)
+	  - Décret n°82-253 du 16 mars 1982 - art. 2 (Ab)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 281 octies (M)
+	  - Code de la sécurité sociale. - art. R163-18 (V)
+	  - Code général des impôts, CGI. - art. 281 nonies (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5123-3 (M)
+
+
+###### Article L620
+
+Peuvent en outre être entendus à titre consultatif par la commission les personnalités médicales ou pharmaceutiques ainsi que
+les représentants qualifiés des organismes ou services en cause dont la commission désirerait avoir l'avis [*composition*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2340 1945-10-13 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5123-3 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L619 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L621 (Ab)
+
+
+###### Article L621
+
+La liste des produits agréés peut comprendre plusieurs catégories correspondant chacune à une ou plusieurs catégories
+d'utilisateurs visés à l'article ci-dessus.
+
+Un arrêté du ministre de la Santé publique, du ministre de la Défense nationale et du ministre des Anciens combattants fixe
+les modalités de leur classification.
+
+Les modalités d'inscription sur la liste prévue à l'article L. 618 sont fixées par un règlement intérieur de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2340 1945-10-13 ART. 4 ET ART. 6
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5123-4 (M)
+	  - Code de la santé publique - art. L5123-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L618 (M)
+	  - Code de la santé publique - art. L620 (Ab)
+
+
+###### Article L622
+
+Seuls les produits spécialisés agréés dans les catégories correspondantes peuvent être :
+
+1° Achetés et utilisés, sauf en cas d'urgence, par les établissements hospitaliers civils et militaires ;
+
+2° Achetés et utilisés par les collectivités locales publiques et les organismes de toute nature dont les ressources
+proviennent en tout ou partie des subventions des collectivités publiques ;
+
+3° Fournis gratuitement aux bénéficiaires de l'article 115 du Code des pensions militaires d'invalidité et des victimes de la
+guerre ;
+
+4° Fournis gratuitement aux bénéficiaires de l'assistance médicale gratuite ;
+
+5° Fournis aux ouvriers des établissements militaires en application des règlements sur la situation du personnel civil
+d'exploitation de ces établissements.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2340 1945-10-13 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5123-6 (V)
+
+	**Cite**:
+
+	  - Code des pensions militaires d'invalidité et des victimes de la guerre 115
+
+
+##### Section 2 : Agrément pour les institutions de la sécurité sociale.
+
+###### Article L623
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°45-0179 du 29 décembre 1945 - art. 13 bis (Ab)
+	  - Décret n°45-0179 du 29 décembre 1945 - art. 13 ter (V)
+	  - Code de la santé publique - art. L662-1 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L624
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L662-1 (Ab)
+
+
+##### Section 3 : Dispositions communes.
+
+###### Article L625
+
+Les médicaments [*spécialisés*] mentionnés à l'article L. 601 du présent livre, achetés, fournis, pris en charge et utilisés
+par les collectivités publiques et par les organismes de sécurité sociale doivent comporter sur leur conditionnement, à
+l'exclusion des spécialités pharmaceutiques présentées sous un conditionnement réservé aux hôpitaux, une vignette portant la
+dénomination du produit et le prix prévu à l'alinéa 1er de l'article L. 593 [*obligation*].
+
+Il est interdit d'apposer une vignette sur le conditionnement des spécialités pharmaceutiques ne figurant pas sur la liste
+des médicaments remboursables aux assurés sociaux.
+
+La vignette de tout produit délivré sans prescription médicale ainsi que celle de tout produit fourni à un établissement de
+soins, et inclus dans le prix de journée de cet établissement, doivent être obligatoirement estampillées par le pharmacien.
+Cet estampillage a pour effet de supprimer la possibilité de remboursement concernant le médicament.
+
+La vignette doit répondre aux caractéristiques qui sont fixées par décret en vue de permettre le contrôle de l'utilisation du
+produit par l'usager.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 67-707 1967-08-21 art. 2 JORF 22 août 1967
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-698 1968-07-31 : RATIFIE L'ORDONNANCE 707 DU 21 AOUT 1967
+	  - SPEC_APPLI: Loi n°99-641 1999-07-27 art. 72 7° : date d'entrée en vigueur
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Cité par**:
+
+	  - Arrêté du 2 novembre 1995 - art. 1 (V)
+	  - Arrêté du 21 février 1996 - art. 1 (V)
+	  - Code de la santé publique - art. R5144-26 (Ab)
+	  - Code de la santé publique - art. R5147 (Ab)
+	  - Code de la santé publique - art. R5147 bis (Ab)
+	  - Code de la sécurité sociale. - art. R161-50 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°99-641 du 27 juillet 1999 - art. 39 () JORF 28 juillet 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique L593 AL. 1, L601
+
+
+### Titre 3 : Restrictions au commerce de certaines substances ou de certains objets
+
+#### Chapitre 1 : Substances vénéneuses.
+
+###### Article L627
+
+Seront punis d'un emprisonnement de deux ans à dix ans et d'une amende de 5.000 F à 50.000.000 F, ou de l'une de ces deux
+peines seulement, ceux qui auront contrevenu aux dispositions des règlements d'administration publique prévus à l'article
+précédent et concernant les substances ou plantes vénéneuses classées comme stupéfiants par voie réglementaire. Lorsque le
+délit aura consisté dans l'importation, la fabrication, ou l'exportation illicite desdites substances ou plantes, la peine
+d'emprisonnement sera de dix à vingt ans.
+
+La tentative d'une des infractions réprimées par l'alinéa précédent sera punie comme le délit consommé. Il en sera de même de
+l'association ou de l'entente en vue de commettre ces infractions.
+
+Les peines prévues aux deux alinéas précédents pourront être prononcées alors même que les divers actes qui constituent les
+éléments de l'infraction auront été accomplis dans des pays différents [*à l'étranger*].
+
+Seront également punis d'un emprisonnement de deux à dix ans et d'une amende de 5.000 F à 50.000.000 F, ou de l'une de ces
+deux peines seulement :
+
+1° Ceux qui auront facilité à autrui l'usage desdites substances ou plantes, à titre onéreux ou à titre gratuit, soit en
+procurant dans ce but un local, soit par tout autre moyen ;
+
+2° Ceux qui, au moyen d'ordonnances fictives ou d'ordonnances de complaisance, se seront fait délivrer ou auront tenté de se
+faire délivrer lesdites substances ou plantes ;
+
+3° Ceux qui, connaissant le caractère fictif ou de complaisance de ces ordonnances, auront, sur la présentation qui leur en
+aura été faite, délivré lesdites substances ou plantes.
+
+Lorsque l'usage desdites substances ou plantes aura été facilité à un ou des mineurs de moins de vingt et un ans [*dix-huit
+ans*] ou lorsque ces substances ou plantes leur auront été délivrées dans les conditions prévues au 3° ci-dessus, la peine
+d'emprisonnement sera de cinq à dix ans.
+
+Les tribunaux pourront, en outre, dans tous les cas prévus aux alinéas précédents, prononcer la peine de l'interdiction des
+droits civiques pendant une durée de cinq à dix ans.
+
+Ils pourront prononcer l'interdiction de séjour, pendant une durée de deux ans au moins et de cinq ans au plus, contre tout
+individu condamné en vertu du présent article. Ils pourront également prononcer le retrait du passeport ainsi que, pour une
+durée de trois ans au plus, la suspension du permis de conduire.
+
+Les dispositions de l'article 59 (alinéa 2) du Code de procédure pénale sont applicables aux locaux où l'on usera en société
+de stupéfiants et à ceux où seront fabriquées, transformées ou entreposées illicitement lesdites substances ou plantes.
+
+Les visites, perquisitions et saisies ne pourront se faire que pour la recherche et la constatation des délits prévus au
+présent article. Elles devront être précédées d'une autorisation écrite [*condition de forme*] du procureur de la République
+lorsqu'il s'agira de les effectuer dans une maison d'habitation ou un appartement, à moins qu'elles ne soient ordonnées par
+le juge d'instruction. Tout procès-verbal dressé pour un autre objet sera frappé de nullité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+
+	**Cité par**:
+
+	  - Loi n°84-46 du 24 janvier 1984 - art. 13 (Ab)
+	  - Loi n°84-610 du 16 juillet 1984 - art. 43 (Ab)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 29 (V)
+	  - Loi n°89-432 du 28 juin 1989 - art. 14 (M)
+	  - Arrêté du 22 février 1990 - art. 1 (Ab)
+	  - Loi n°90-614 du 12 juillet 1990 - art. 10 (M)
+	  - Loi n°90-614 du 12 juillet 1990 - art. 22 (M)
+	  - Loi n°90-614 du 12 juillet 1990 - art. 3 (M)
+	  - Loi n°90-614 du 12 juillet 1990 - art. 5 (M)
+	  - Loi n°90-614 du 12 juillet 1990 - art. 6 (M)
+	  - Loi n°90-614 du 12 juillet 1990 - art. 9 (M)
+	  - Loi n°90-1010 du 14 novembre 1990 - art. 13 (M)
+	  - Arrêté du 7 août 1991 - art. 1 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+	  - Décret n°2004-470 du 25 mai 2004 - art. 13 (V)
+	  - CODE DE PROCEDURE PENALE - art. 705 (M)
+	  - CODE DE PROCEDURE PENALE - art. 720-2 (M)
+	  - CODE PENAL - art. 44 (M)
+	  - Code de la santé publique - art. L627-1 (Ab)
+	  - Code de la santé publique - art. L627-4 (Ab)
+	  - Code de la santé publique - art. L627-5 (Ab)
+	  - Code de la santé publique - art. L627-6 (Ab)
+	  - Code de la santé publique - art. L627-7 (Ab)
+	  - Code de la santé publique - art. L629 (M)
+	  - Code de la santé publique - art. L629-1 (M)
+	  - Code de la santé publique - art. L629-2 (M)
+	  - Code de la santé publique - art. L630 (M)
+	  - Code de la santé publique - art. L630-1 (Ab)
+	  - Code de la santé publique - art. L630-3 (Ab)
+	  - Code des assurances - art. L322-2 (M)
+	  - Code des postes et des communications électronique - art. L31 (M)
+	  - Code du travail - art. L351-4 (M)
+	  - Code du travail - art. L351-6 (MMN)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 59 (M)
+	  - Code de la santé publique - art. L626 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L629 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L629-1 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L630 (M)
+	  - TXT_ASSOCIE: Code de la santé publique L627-1 : GARDE A VUE
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5132-7 (V)
+	  - Code de la santé publique - art. L5132-8 (V)
+
+
+###### Article L629
+
+Dans tous les cas prévus par les articles L. 627 et L. 628 [*opérations ou usage illicite de stupéfiants*], les tribunaux
+devront ordonner la confiscation des substances ou plantes saisies. Cette confiscation ne pourra toutefois être prononcée
+lorsque le délit aura été constaté dans une officine pharmaceutique si le délinquant n'est que le gérant responsable, à moins
+que le propriétaire de l'officine n'ait fait acte de complicité ou que la détention de ces substances ou plantes ne soit
+illicite.
+
+Dans les cas prévus au premier alinéa et au 3° du quatrième alinéa de l'article L. 627, les tribunaux pourront interdire au
+condamné l'exercice de la profession à l'occasion de laquelle le délit aura été commis pendant un délai qui ne pourra excéder
+cinq ans [*délai de prescription*].
+
+Dans les cas prévus au premier alinéa de l'article L. 627, la confiscation des matériels et installations ayant servi à la
+fabrication et au transport des substances ou plantes devra être ordonnée.
+
+Dans les cas prévus au 1° du quatrième alinéa de l'article L. 627, les tribunaux pourront ordonner la confiscation des
+ustensiles, matériels et meubles dont les lieux seront garnis et décorés, ainsi que l'interdiction pour le délinquant,
+pendant un délai qui ne pourra excéder cinq ans, d'exercer la profession sous le couvert de laquelle le délit aura été
+perpétré.
+
+Quiconque contreviendra à l'interdiction de l'exercice de sa profession prononcée en vertu des alinéas 2 et 4 du présent
+article sera puni d'un emprisonnement de six mois au moins et de deux ans au plus, et d'une amende de 3.600 F au moins et de
+60.000 F au plus, ou de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+
+	**Cité par**:
+
+	  - Loi n°90-1010 du 14 novembre 1990 - art. 13 (M)
+	  - Code de la santé publique - art. L48-1 (Ab)
+	  - Code de la santé publique - art. L627-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3421-2 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L627 (M)
+	  - Code de la santé publique - art. L628 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L627 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L628 (Ab)
+
+
+###### Article L630
+
+Sans préjudice des dispositions de l'article 60 du Code pénal, seront punis d'un emprisonnement de un an à cinq ans [*durée*]
+et d'une amende de 5.000 F à 500.000 F [*montant*], ou de l'une de ces deux peines seulement, ceux qui, par un moyen
+quelconque, auront provoqué à l'un des délits prévus et réprimés par les articles L. 627 et L. 628, alors même que cette
+provocation n'aurait pas été suivie d'effet, ou qui les auront présentés sous un jour favorable.
+
+Seront punis des mêmes peines ceux qui, par un moyen quelconque, auront provoqué, alors même que cette provocation n'aurait
+pas été suivie d'effet, à l'usage de substances présentées comme ayant les effets de substances ou plantes stupéfiantes
+[*incitation*].
+
+En cas de provocation au moyen de l'écrit, même introduit de l'étranger, de la parole ou de l'image, même si celles-ci ont
+été émises de l'étranger, pourvu qu'elles aient été perçues en France, les poursuites prévues aux alinéas précédents seront
+exercées contre les personnes énumérées à l'article 285 du Code pénal, dans les conditions fixées par cet article, si le
+délit a été commis par la voie de la presse, et contre les personnes reconnues responsables de l'émission, ou, à leur défaut,
+les chefs d'établissements, directeurs ou gérants des entreprises [*responsabilité*] ayant procédé à la diffusion ou en ayant
+tiré profit, si le délit a été commis par toute autre voie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+
+	**Cité par**:
+
+	  - Loi n°84-610 du 16 juillet 1984 - art. 43 (Ab)
+	  - Code de la santé publique - art. L630-1 (Ab)
+	  - Code de la santé publique - art. L630-3 (Ab)
+	  - Code de la santé publique - art. R5185 (M)
+
+	**Cite**:
+
+	  - Code pénal 285, 60
+	  - Code de la santé publique - art. L627 (M)
+	  - Code de la santé publique - art. L628 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3421-4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L627 (M)
+	  - TXT_ASSOCIE: Code de la santé publique L630-1 : DISPOSITIONS PENALES RELATIVES AUX ETRANGERS
+
+
+#### Chapitre 2 : Radio-éléments artificiels
+
+###### Article L631
+
+Est considéré comme radio-élément artificiel    tout radio-élément obtenu par synthèse ou fission nucléaire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-844 1952-07-19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1333-3 (T)
+
+	**Cité par**:
+
+	  - Code des douanes - art. 38 (M)
+
+
+###### Article L632
+
+La préparation, l'importation, l'exportation de radio-éléments artificiels, sous quelque forme que ce soit, ne peuvent être
+effectuées que par le commissariat à l'énergie atomique ou les personnes physiques ou morales spécialement autorisées à cet
+effet [*autorités compétentes*], après avis de la commission prévue à l'article L. 633.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-844 1952-07-19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°94-853 du 22 septembre 1994 - art. 30 (Ab)
+	  - Code de la santé publique - art. L639 (Ab)
+	  - Code de la santé publique - art. L640 (Ab)
+	  - Code de la santé publique - art. R5234 (Ab)
+	  - Code de la santé publique - art. R5235 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1333-5 (T)
+	  - Code de la santé publique - art. L1336-6 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L633 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L639 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L639 : DISPOSITIONS PENALES
+
+
+###### Article L633
+
+Une commission interministérielle est chargée de donner son avis sur les questions relatives aux radio-éléments artificiels.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-844 1952-07-19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°76-435 du 18 mai 1976
+	  - TXT_SOURCE: Décret n°76-435 du 18 mai 1976 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1333-4 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L632 (Ab)
+	  - Code de la santé publique - art. L640 (Ab)
+	  - Code de la santé publique - art. R5230 (Ab)
+	  - Code de la santé publique - art. R5234 (Ab)
+	  - Code de la santé publique - art. R5235 (Ab)
+
+
+###### Article L634
+
+Les détenteurs de radio-éléments artificiels ou de produits en contenant ne pourront les utiliser que dans les conditions qui
+leur auront été fixées au moment de l'attribution.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-844 1952-07-19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1333-6 (T)
+	  - Code de la santé publique - art. L1336-6 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L639 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L639 : DISPOSITIONS PENALES
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L639 (Ab)
+
+
+###### Article L635
+
+Toute publicité relative à l'emploi de radio-éléments artificiels ou de produits en contenant, dans la médecine humaine ou
+vétérinaire, est interdite, sauf auprès des médecins, des vétérinaires et des pharmaciens, et sous réserve des dispositions
+de l'article L.  553.
+
+Toute autre publicité ne peut être faite qu'après autorisation du ou des ministres intéressés [*autorités compétentes*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-844 1952-07-19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1333-7 (T)
+	  - Code de la santé publique - art. L1336-7 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L553 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L639 (Ab)
+	  - Code de la santé publique - art. L640 (Ab)
+	  - Code de la santé publique - art. R5233 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L639 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L639 : DISPOSITIONS PENALES
+
+
+###### Article L636
+
+L'addition de radio-éléments artificiels ou de produits en contenant aux aliments, aux produits hygiéniques, aux produits
+dits de beauté, tels qu'ils sont définis par un arrêté du ministre de la santé publique et de la population, est interdite.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-844 1952-07-19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1333-8 (T)
+	  - Code de la santé publique - art. L1336-6 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L639 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L639 : DISPOSITIONS PENALES
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L639 (Ab)
+
+
+###### Article L637
+
+Par dérogation aux dispositions de l'article L. 601, l'autorisation de mise sur le marché des spécialités pharmaceutiques
+contenant des radio-éléments artificiels ne pourra être donnée que sous le nom commun ou la dénomination scientifique du ou
+des radio-éléments entrant dans la composition desdites spécialités.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-844 1952-07-19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1333-9 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+
+
+###### Article L638
+
+Les bénéficiaires des autorisations prévues par le présent chapitre ou par les règlements d'administration publique pris pour
+son application restent soumis, le cas échéant, à la réglementation spéciale aux substances vénéneuses.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-844 1952-07-19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1333-10 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique L631 A L640
+
+
+###### Article L640
+
+Des décrets en Conseil d'Etat détermineront les conditions d'application du présent chapitre, et notamment :
+
+1° Les dispositions applicables à la détention, la vente, la distribution au commerce, sous quelque forme que ce soit, des
+radio-éléments artificiels ou des produits en contenant ; 
+
+2° La composition, la compétence et les conditions de fonctionnement de la commission prévue à l'article L. 633, ainsi que
+les conditions selon lesquelles seront délivrées les autorisations prévues aux articles L. 632 et 635 ; 
+
+3° Les conditions d'utilisation des radio-éléments artificiels ou des produits les contenant ; 
+
+4° Les conditions dans lesquelles se fera l'étalonnage des radio-éléments artificiels et celui des appareils destinés à la
+détention et à la mesure des rayonnements émis par eux.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-844 1952-07-19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1333-12 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L632 (Ab)
+	  - Code de la santé publique - art. L633 (Ab)
+	  - Code de la santé publique - art. L635 (Ab)
+
+
+#### Chapitre 3 : Essences pouvant servir à la fabrication des boissons alcooliques
+
+###### Article L641
+
+Il est interdit à tout producteur ou fabricant d'essences pouvant servir à la fabrication des boissons alcooliques, telles
+que les essences d'anis, de badiane, de fenouil, d'hysope, ainsi qu'aux producteurs ou fabricants d'anéthol, de procéder à la
+vente ou à l'offre, à titre gratuit, desdits produits à toutes personnes autres que les fabricants de boissons ayant qualité
+d'entrepositaires vis-à-vis de l'Administration des contributions indirectes, les pharmaciens, les parfumeurs, les fabricants
+de produits alimentaires ou industriels et les négociants exportateurs directs [*habilitation*].
+
+La revente de ces produits en nature sur le marché intérieur est interdite à toutes ces catégories à l'exception des
+pharmaciens qui ne peuvent les délivrer que sur ordonnance médicale et doivent inscrire les prescriptions qui les concernent
+sur leur registre d'ordonnances [*obligation*].
+
+Sans préjudice des interdictions visées à l'article 1768 [*nouvel article 1817*] du Code général des impôts, des décrets pris
+en conseil des ministres fixeront les conditions dans lesquelles les essences visées à l'alinéa 1er du présent article ainsi
+que les essences d'absinthe et produits assimilés ou susceptibles de les suppléer, pourront, sous quelque forme que ce soit,
+être importés, fabriqués, mis en circulation, détenus ou vendus. Ils ne pourront être mis en vente dans les territoires
+d'outre-mer [*interdiction*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1768, 1817
+
+	**Anciens textes**:
+
+	  - Loi n°51-640 1951-05-24 art. 9
+	  - Loi n°52-4 du 3 janvier 1952 - art. 6, v. init.
+	  - Loi n°41-4113 1941-09-24 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3322-5 (V)
+	  - Code de la santé publique - art. L3822-3 (V)
+	  - Code de la santé publique - art. L3832-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L642 (Ab)
+	  - Code des débits de boissons et des mesures contre  - art. L7 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L642 (M)
+	  - TXT_ASSOCIE: Code de la santé publique L642, L642-1 : DISPOSITIONS PENALES
+
+
+###### Article L642
+
+Tout producteur ou fabricant d'essences ou d'anéthol pouvant servir à la fabrication de boissons alcooliques qui aura vendu
+ou offert, à titre gratuit, lesdites essences à toutes autres personnes que celles autorisées par l'article L. 461 [*L. 641*]
+sera puni d'une amende de 3.000 F à 20.000 F [*montant*].
+
+Toute personne autorisée par l'article L. 641 à acheter lesdits produits, qui les aura revendus sur le marché intérieur,
+contrairement aux dispositions dudit article, sera passible d'une amende de 300 F à 15.000 F. 
+
+Tout pharmacien qui aura délivré lesdits produits sans ordonnance médicale sera passible d'une amende de 1.500 F à 15.000 F. 
+
+En cas de récidive, le minimum et le maximum des peines prévues par le présent article seront portés au double.
+
+Dans tous les cas, les délinquants pourront être privés des droits [*civiques, civils et de famille*] mentionnés à l'article
+42 du Code pénal pendant un an au moins et cinq ans au plus [*durée*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code pénal 42
+	  - Code de la santé publique - art. L641 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L641 (Ab)
+
+	**Cité par**:
+
+	  - Code des débits de boissons et des mesures contre  - art. L7 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°41-4113 1941-09-24 art. 20 ET art. 25
+
+
+#### Chapitre 4 : Médicaments antivénériens.
+
+###### Article L643
+
+Les médicaments spécifiques vendus au public ou utilisés par les services publics pour le traitement des vénériens, ne
+peuvent être vendus au public ou utilisés par les services publics que s'ils sont identiques à ceux qui sont agréés par le
+ministre de la Santé publique sur présentation de l'Académie nationale de médecine et après avis des services compétents de
+contrôle [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°92-1279 du 8 décembre 1992 - art. 25 (V) JORF 11 décembre 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L644 (Ab)
+	  - Code de la santé publique - art. R5239 (Ab)
+	  - Code de la santé publique - art. R5240 (Ab)
+	  - Code de la santé publique - art. R5241 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L644 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Décret n°1939-11-29 ART. 20
+
+
+###### Article L644
+
+Toute infraction à la disposition de l'article L. 643 précédent sera punie des peines prévues par la loi du 1er août 1905
+contre ceux qui exposent, mettent en vente ou vendent des substances médicamenteuses falsifiées.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L643 (Ab)
+	  - Loi n°1905-08-01
+
+	**Anciens textes**:
+
+	  - Décret n°1939-11-29 ART. 20
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°92-1279 du 8 décembre 1992 - art. 25 (V) JORF 11 décembre 1992
+
+
+#### Chapitre 5 : Abortifs
+
+##### Provocation à l'avortement.
+
+###### Article L645
+
+Il est interdit à toutes personnes d'exposer, d'offrir, de faire offrir, de vendre, de mettre en vente, de faire vendre, de
+distribuer, de faire distribuer, de quelque manière que ce soit, les remèdes et substances, sondes intra-utérines et autres
+objets analogues, susceptibles de provoquer ou de favoriser l'avortement, dont la liste est établie par un décret en Conseil
+d'Etat.
+
+Toutefois, les pharmaciens [*compétence*] peuvent vendre les remèdes, substances et objets ci-dessus spécifiés, mais
+seulement sur prescription médicale qui doit être transcrite sur un registre coté et paraphé par le maire ou le commissaire
+de police [*condition de délivrance*].
+
+Le décret en Conseil d'Etat prévu à l'alinéa 1er du présent article précise les modalités de réglementation de la vente des
+remèdes, substances, objets et appareils mentionnés au premier alinéa dudit article.
+
+Il est interdit aux fabricants et négociants en appareils gynécologiques de vendre lesdits appareils à des personnes
+n'appartenant pas au corps médical ou ne faisant pas elles-mêmes profession comme commerçants patentés de vendre des
+appareils chirurgicaux.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°67-1176 du 28 décembre 1967 - art. 1 (V) JORF 29 décembre 1967
+
+	**Cité par**:
+
+	  - Loi n°81-736 du 4 août 1981 - art. 2 (V)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 2 (V)
+	  - Code de la santé publique - art. L646 (Ab)
+	  - Code de la santé publique - art. R5242 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+	  - TXT_ASSOCIE: Code de la santé publique L646 : Dispositions pénales
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5135-1 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1939-07-29 ART. 91
+
+
+###### Article L647
+
+Sans préjudice des dispositions de l'article 60 du Code pénal, seront punis d'un emprisonnement de deux mois à deux ans  et
+d'une amende de 2.000 à 30.000 F ou de l'une de ces deux peines seulement, ceux qui, par un moyen quelconque, auront provoqué
+à l'interruption de grossesse, même licite, alors même que cette provocation n'aurait pas été suivie d'effet.
+
+Seront punis des mêmes peines ceux qui, par un moyen quelconque, sauf dans les publications réservées aux médecins et aux
+pharmaciens, auront fait de la propagande ou de la publicité directe ou indirecte concernant soit les établissements dans
+lesquels sont pratiquées les interruptions de grossesse, soit les médicaments, produits et objets ou méthodes destinés à
+procurer ou présentés comme de nature à procurer une interruption de grossesse. 
+
+En cas de provocation, de propagande ou de publicité au moyen de l'écrit, même introduit de l'étranger, de la parole ou de
+l'image, même si celles-ci ont été émises de l'étranger, pourvu qu'elles aient été perçues en France, les poursuites prévues
+aux alinéas précédents seront exercées contre les personnes énumérées à l'article 285 du Code pénal, dans les conditions
+fixées par cet article, si le délit a été commis par la voie de la presse, et contre les personnes reconnues responsables de
+l'émission ou, à leur défaut, les chefs d'établissement, directeurs ou gérants des entreprises ayant procédé à la diffusion
+ou en ayant tiré profit, si le délit a été commis par toute autre voie.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-346 du 3 avril 1958 - art. 1 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1920-07-31 ART. 1 ET ART. 2
+
+	**Modifié par**:
+
+	  - Loi n°67-1176 du 28 décembre 1967 - art. 1 (V) JORF 29 décembre 1967
+
+	**Cité par**:
+
+	  - Décret n°75-353 du 13 mai 1975 - art. 2 (Ab)
+	  - Loi n°81-736 du 4 août 1981 - art. 2 (V)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 2 (V)
+	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+	  - TXT_ASSOCIE: Code de la santé publique L650 : DISPOSITIONS PENALES
+
+	**Cite**:
+
+	  - Code pénal 60, 285
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2221-1 (Ab)
+
+
+###### Article L648
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 1 (V)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 4 (M)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 5 (Ab)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 6 (M)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 6 bis (Ab)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 7 (Ab)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 8 (Ab)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Ordonnance no 90-570 du 25 juin 1990 portant exten - art. 4 (Ab)
+	  - Décret n°90-740 du 14 août 1990 - art. 4 (V)
+	  - Rapport - art. 4 (V)
+	  - Rapport au Président de la République relatif à l' - art. 4 (V)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+	  - Code de la santé publique - art. L149 (Ab)
+	  - Code de la santé publique - art. L793-4 (Ab)
+
+
+###### Article L649
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 1 (V)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 4 (M)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 5 (Ab)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 6 (M)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 6 bis (Ab)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 7 (Ab)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 8 (Ab)
+	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Ordonnance no 90-570 du 25 juin 1990 portant exten - art. 4 (Ab)
+	  - Décret n°90-740 du 14 août 1990 - art. 4 (V)
+	  - Rapport - art. 4 (V)
+	  - Rapport au Président de la République relatif à l' - art. 4 (V)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+	  - Code de la santé publique - art. L149 (Ab)
+	  - Code de la santé publique - art. L793-4 (Ab)
+
+
+###### Article L650
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
+	  - Loi n°79-1204 du 31 décembre 1979 - art. 10 (V)
+
+
+#### Chapitre 6 : Thermomètres médicaux.
+
+###### Article L651
+
+Aucun thermomètre médical ne peut être livré, mis en vente, ou vendu, sans avoir été soumis à une vérification préalable   . 
+
+Chaque instrument doit porter le nom du constructeur et être, après vérification, muni d'un signe constatant
+l'accomplissement de cette formalité et la date à laquelle elle a été accomplie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre 1985
+
+	**Cité par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V)
+	  - Code de la santé publique - art. L652 (Ab)
+	  - Code de la santé publique - art. L654 (Ab)
+	  - Code de la santé publique - art. L655 (Ab)
+	  - Code de la santé publique - art. R5243 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L654 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L654, L655 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°1918-08-14 ART. 1
+
+
+###### Article L652
+
+Les conditions requises des thermomètres médicaux, le mode de vérification et le contrôle auxquels ils sont soumis, et, d'une
+manière générale, toutes les mesures nécessaires pour l'application des dispositions de l'article précédent sont déterminés
+par un règlement d'administration publique.
+
+**Nota:**
+
+Nota : Décret 621 1980-07-31 ART. 2 : Dans les textes réglementaires en vigueur à la date de publication du présent décret,
+tout renvoi à un règlement d'administration publique ou à un décret en forme de règlement d'administration publique est
+remplacé par un renvoi à un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°78-1240 du 29 décembre 1978 - art. 9 () JORF 30 décembre date d'entrée en vigueur 1ER janvier 1979
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre 1985
+
+	**Cité par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V)
+	  - Code de la santé publique - art. L654 (Ab)
+	  - Code de la santé publique - art. R5243 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L651 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L654 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L654, L656 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°1918-08-14 ART. 2
+	  - Ordonnance 45-2529 1945-10-26 ART. 1
+
+
+###### Article L653
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L656 (Ab)
+	  - Code de la santé publique - art. R5243 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L656 (Ab)
+
+
+###### Article L654
+
+Les contraventions aux dispositions de l'article L. 651 et du règlement d'administration publique prévu à l'article L. 652
+sont punies des peines portées à l'article 479 du Code pénal [*article R. 34*]. L'appareil sera saisi et confisqué. En cas de
+récidive réalisée dans les conditions prévues à l'article 485 du même Code pénal [*article 474*], la peine sera de 600 F à
+1200 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V) JORF 29 décembre 1985
+
+	**Cité par**:
+
+	  - Décret n°85-1396 du 26 décembre 1985 - art. 9 (V)
+	  - Code de la santé publique - art. L655 (M)
+	  - Code de la santé publique - art. R5243 (Ab)
+
+	**Cite**:
+
+	  - Code pénal R34, 474
+	  - Code de la santé publique - art. L651 (Ab)
+	  - Code de la santé publique - art. L652 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L651 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L652 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1918-08-14 ART. 3
+
+
+###### Article L655
+
+Indépendamment des contraventions visées à l'article précédent, lorsqu'un thermomètre, mis en vente ou vendu sans les signes
+de contrôle prévus à l'article L. 651, aura été reconnu inexact à plus de deux dixièmes de degré, le vendeur ou détenteur
+responsable sera passible, en cas de mauvaise foi constatée, des peines prévues par l'article 1er de la loi du 1er août 1905
+et, dans le cas contraire, des peines prévues par l'article 13 de la même loi.
+
+Les mêmes peines seront applicables au vendeur ou détenteur responsable dans le cas où l'appareil livré ou mis en vente avec
+les signes du contrôle prévu à l'article 651 aura été reconnu inexact à plus de deux dixièmes de degré, à moins qu'aucune
+négligence ne lui soit personnellement imputable.
+
+Dans le cas d'apposition d'une fausse marque sur un appareil, les articles 142 et 143 du Code pénal seront applicables. En
+toute circonstance, les appareils reconnus inexacts seront saisis et confisqués.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code pénal 142, 143
+	  - Code de la santé publique - art. L651 (Ab)
+	  - Code de la santé publique - art. L654 (Ab)
+	  - Loi n°1905-08-01 ART. 1, ART. 13
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5243 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1918-08-14 ART. 4
+
+
+#### Chapitre 7 : Biberons à tube et tétines
+
+###### Article L657
+
+Sont interdites la fabrication, la vente, la mise en vente, l'exposition et l'importation : 
+
+1° Des biberons à tube ;
+
+2° Des tétines et sucettes ne répondant pas aux conditions établies par un décret en Conseil d'Etat pris sur le rapport du
+ministre de la santé publique et de la population et sur avis du Conseil supérieur d'hygiène publique. Ce décret fixe les
+caractéristiques des produits qui peuvent être employés, ainsi que les indications spéciales que les objets visés doivent
+porter avec la marque du fabricant ou du commerçant.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°1910-04-06 art. 1
+	  - Loi n°1917-02-26
+	  - Loi n°52-420 1952-04-19
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5221-2 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L658 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L658 : DISPOSITIONS PENALES
+
+
+### Titre 4 : Dispositions diverses et dispositions transitoires
+
+#### Chapitre 1 : Exercice de la profession d'herboriste
+
+###### Article L659
+
+S'ils sont Français [*condition de nationalité*], les herboristes diplômés à la date de publication de la loi du 11 septembre
+1941 ont le droit d'exercer leur vie durant [*durée*].
+
+Les herboristes diplômés peuvent détenir pour la vente et vendre pour l'usage médical les plantes ou parties de plantes
+médicinales, indigènes ou acclimatées, à l'exception de celles qui figurent dans les tableaux des substances vénéneuses
+visées à l'article L. 626 [*habilitation*].
+
+Ces plantes ou parties de plantes ne peuvent, en aucun cas, être délivrées au public sous forme de mélange préparé à
+l'avance ; toutefois, des autorisations concernant le mélange de certaines plantes médicinales déterminées peuvent être
+accordées par le ministre de la Santé publique.
+
+La vente au public des plantes médicinales mélangées ou non est rigoureusement interdite dans tous les lieux publics, dans
+les maisons privées et dans les magasins autres que les officines de pharmacie et herboristeries.
+
+Les herboristes diplômés sont astreints, dans l'exercice de leur profession, aux mêmes règles que celles qui régissent les
+pharmaciens pour la vente des produits qui les concernent.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1943-04-07 MODIFIE PAR Arrêté 1959-01-27 : MELANGES AUTORISES
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 49 (Ab)
+	  - Code de la santé publique - art. L660 (Ab)
+	  - Code de la santé publique - art. R5056 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4211-7 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L626 (M)
+	  - Loi n°1941-09-11
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 59
+
+
+###### Article L660
+
+Par dérogation aux dispositions de l'article L. 511 et de l'article L. 659 précédent, les droguistes de nationalité française
+établis à leur compte et sous leur nom au 1er septembre 1939 [*date*] dans un des départements du Haut-Rhin, du Bas-Rhin et
+de la Moselle peuvent leur vie durant exercer la profession d'herboriste et débiter à ce titre au détail les produits que les
+herboristes sont autorisés à vendre, à condition d'avoir fourni les justifications stipulées à l'article 2 de l'ordonnance du
+1er septembre 1945.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-1976 1945-09-01 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L511 (M)
+	  - Code de la santé publique - art. L659 (Ab)
+	  - Ordonnance 1945-09-01 ART. 2
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L512 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+#### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie dans les départements de la Guadeloupe, de la Guyane francaise, de la Martinique et de la Réunion.
+
+###### Article L661
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 4 JORF 30 mai 1975
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5268 (Ab)
+
+
+###### Article L662
+
+A titre transitoire et exclusivement personnel, pour les départements de la Guadeloupe, de la Guyane française, de la
+Martinique et de la Réunion, les non-pharmaciens qui ont été spécialement autorisés avant le 25 mars 1948 [*date*], peuvent,
+leur vie durant, avoir des médicaments en dépôt aux conditions suivantes :
+
+Ces non-pharmaciens ne peuvent en aucun cas acquérir, détenir et débiter à qui ce soit, à titre gratuit ou onéreux, que des
+médicaments préparés, divisés et conditionnés à l'avance ne renfermant aucune substance visée à l'article L. 626 du présent
+code et figurant sur les listes déjà autorisées.
+
+Il leur est interdit d'avoir une part quelconque dans la préparation, la division ou le conditionnement desdits médicaments.
+
+Il leur est également interdit d'exécuter toute préparation magistrale ou toute prescription médicale, même si elles
+mentionnent des substances non visées à l'article L. 626, et plus généralement de se livrer à aucun acte pharmaceutique.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°48-504 1948-03-24 ART. 1
+	  - Loi n°41-3890 1941-09-11 ART. 32
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4211-8 (Ab)
+	  - Code de la santé publique - art. L4211-8 (V)
+	  - Code de la santé publique - art. L4212-6 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L512 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L626 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+#### Chapitre 3 : Dispositions transitoires pour l'exercice de la profession de préparateur en pharmacie
+
+###### Article L664
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+#### Chapitre 4 : Autorisation de mise sur le marché des spécialités anciennes
+
+###### Article L665
+
+L'autorisation de mise sur le marché prévue à l'article L. 601 est accordée à la spécialité débitée antérieurement au 11
+septembre 1941 [*date*], lorsque le comité technique constate qu'elle n'est pas susceptible de nuire à la santé morale et
+physique de la population, de quelque manière que ce soit et à condition que la demande en ait été présentée dans les six
+mois à partir de ladite date [*délai*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°46-1154 1946-05-22 ART. 3
+	  - Loi n°41-3890 1941-09-11 ART. 44
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5272 (M)
+
+
+## Livre 6 : Utilisation thérapeutique de produits d'origine humaine
+
+### Chapitre unique : Utilisation thérapeutique du sang humain, de son plasma et de leurs dérivés
+
+###### Article L666
+
+Le sang humain, son plasma et leurs dérivés, dont la liste est fixée par décret, ne peuvent être utilisés que sous contrôle
+médical et à des fins strictement thérapeutiques médico-chirurgicales *condition*.
+
+Toutefois, ces dispositions ne sont pas applicables aux sérums antimicrobiens ou antitoxiques, d'origine humaine.
+
+**Nota:**
+
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 278 quater (M)
+	  - Code général des impôts, CGI. - art. 281 nonies (V)
+	  - Décret n°88-1270 du 28 décembre 1988 - art. 1 (Ab)
+	  - Décret n°91-1185 du 18 novembre 1991 - art. 1 (Ab)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 279 (M)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 281 octies (M)
+	  - Code de la santé publique - art. L671 (P)
+	  - Code de la santé publique - art. L675 (P)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°1972-11-15 : LISTE DES PRODUITS SANGUINS D'ORIGINE HUMAINE A USAGE THERAPEUTIQUE
+	  - TXT_SOURCE: Décret n°88-1270 du 28 décembre 1988
+	  - TXT_SOURCE: Décret n°88-1270 du 28 décembre 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°88-1270 du 28 décembre 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°88-1270 du 28 décembre 1988 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°88-1270 du 28 décembre 1988 - art. 4 (Ab)
+	  - TXT_ASSOCIE: Décret n°91-1185 du 18 novembre 1991
+	  - TXT_ASSOCIE: Décret n°91-1185 du 18 novembre 1991 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Décret n°91-1185 du 18 novembre 1991 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Décret n°91-1185 du 18 novembre 1991 - art. 3 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°52-854 1952-07-21 art. 1
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+
+#### Section 1 : Préparation, conservation et distribution des produits sanguins
+
+###### Article L667
+
+Le sang humain ne peut être prélevé que par un docteur en médecine ou sous sa direction et sa responsabilité.
+
+La préparation de sang humain, de son plasma et de leurs dérivés, ne peut être effectuée que par un docteur en médecine ou
+par un pharmacien *compétence*, ou sous leur direction et leur responsabilité, uniquement dans les établissements agréés par
+le ministre de la Santé publique et de la Population, après avis d'une commission consultative de la transfusion sanguine,
+dont la composition est fixée par un arrêté du même ministre. L'arrêté portant retrait de l'agrément est pris dans les mêmes
+formes ;
+
+il doit être motivé.
+
+Les caractéristiques du sang humain ne peuvent être modifiées avant le prélèvement que par un docteur en médecine opérant
+uniquement dans les établissements prévus à l'alinéa précédent.
+
+Cette modification ne peut être faite qu'avec le consentement écrit *condition de forme* du donneur volontaire, ce dernier
+ayant été préalablement averti par écrit trois jours à l'avance des risques qu'il court *délai*.
+
+Les organismes dont relèvent les établissements ci-dessus visés assument, même sans faute, la responsabilité des risques
+courus par les donneurs en fonction des opérations visées aux alinéas 3 et 4 ci-dessus et doivent contracter une assurance
+couvrant, sans limitation de somme, la responsabilité de ces établissements du fait de ces risques. Cette assurance doit
+comporter des garanties au moins égales à celles qui seront définies par un arrêté pris conjointement par le ministre de la
+santé publique et de la population et le ministre des finances et des affaires économiques.
+
+Les litiges auxquels peut donner lieu l'application de l'alinéa précédent sont soumis aux tribunaux judiciaires *juridiction
+compétente*.
+
+**Nota:**
+
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1977-07-11 JORF 24 juillet
+	  - TXT_ASSOCIE: Décret n°54-65 1954-01-16 : RELATIF A LA CREATION ET AU CONTROLE DES ETABLISSEMENTS DE TRANSFUSION SANGUINE
+	  - TXT_SOURCE: Arrêté du 18 décembre 1987
+	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 8 (V)
+	  - TXT_ASSOCIE: Arrêté du 29 juillet 1992
+	  - TXT_ASSOCIE: Arrêté du 29 juillet 1992 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 29 juillet 1992 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 29 juillet 1992 - art. Annexe (V)
+	  - TXT_ASSOCIE: Arrêté du 29 juillet 1992 - art. Annexe 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 29 juillet 1992 - art. Annexe 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 novembre 1992
+	  - TXT_ASSOCIE: Arrêté du 2 novembre 1992 - art. Annexe (V)
+	  - TXT_ASSOCIE: Arrêté du 2 novembre 1992 - art. Unique (V)
+	  - TXT_ASSOCIE: Code de la santé publique L675-1 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°52-854 1952-07-21 art. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°74-431 du 14 mai 1974 - art. 10 (Ab)
+	  - Arrêté du 18 décembre 1987 - art. 1 (V)
+	  - Arrêté du 2 novembre 1992 - art. Unique (V)
+	  - Arrêté du 3 novembre 1986 - art. 12 (Ab)
+	  - Code de la santé publique - art. L675 (P)
+	  - Code de la santé publique - art. R5184 (M)
+
+
+###### Article L668
+
+Le sang humain, son plasma et leurs dérivés sont déposés soit dans les établissements autorisés à les préparer, soit dans les
+établissements de soins désignés par le ministre de la santé publique et de la population *lieu*. Ils restent sous la
+surveillance d'un médecin ou d'un pharmacien.
+
+Toutefois, les produits dont la stabilité est assurée peuvent être déposés dans les officines de pharmacie. La liste de ces
+produits, les conditions de leur dépôt et de leur conservation, sont fixées par arrêté du ministre de la santé publique et de
+la population.
+
+**Nota:**
+
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-854 1952-07-21 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°88-976 du 13 octobre 1988 - art. 13 (V)
+	  - Code de la santé publique - art. L675 (P)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 24 novembre 1986
+	  - TXT_SOURCE: Arrêté du 24 novembre 1986 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 24 novembre 1986 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 24 novembre 1986 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 24 novembre 1986 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 24 novembre 1986 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 24 novembre 1986 - art. 6 (V)
+
+
+###### Article L669
+
+Le ministre de la Santé publique et de la Population [*autorité compétente*] peut, par arrêté, réglementer la délivrance des
+substances mentionnées à l'article précédent. Cette délivrance ne peut être faite que sur ordonnance médicale.
+
+**Nota:**
+
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-854 1952-07-21 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L675 (P)
+
+
+###### Article L670
+
+Le contrôle de la préparation, de la conservation et de la qualité de ces substances, ainsi que de leur détention et de leur
+délivrance pourra être exercé à tout moment par des personnes qualifiées, désignées par arrêté du ministre de la Santé
+publique et de la Population.
+
+**Nota:**
+
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-854 1952-07-21 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L672 (P)
+	  - Code de la santé publique - art. L675 (P)
+
+
+#### Section 2 : Dispositions diverses
+
+##### Paragraphe 1 : Interdiction de la publicité
+
+###### Article L671
+
+Est interdite toute publicité concernant la distribution des substances visées à l'article L. 666 ci-dessus, à l'exception de
+celle destinée à la seule information médicale ou à signaler l'emplacement des dépôts.
+
+**Nota:**
+
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-854 1952-07-21 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666 (P)
+
+
+##### Paragraphe 2 : Dispositions financières
+
+###### Article L672
+
+Les frais de contrôle visés à l'article L. 670 ci-dessus seront à la charge de l'Etat et imputés au budget du ministère de la
+Santé publique et de la Population.
+
+**Nota:**
+
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-854 1952-07-21 art. 4
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L670 (P)
+
+
+###### Article L673
+
+Les prix des opérations concernant le sang humain, son plasma et leurs dérivés, tant au stade de la préparation et du dépôt
+qu'à celui de leur délivrance, à titre onéreux, sont fixés par arrêté du ministre de la Santé publique et de la Population de
+façon à exclure tout profit.
+
+**Nota:**
+
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1976-08-20 : TARIF DE CESSION DES PRODUITS SANGUINS
+	  - TXT_SOURCE: Arrêté du 9 mars 1989
+	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 7 (V)
+	  - TXT_ASSOCIE: Code de la santé publique L674 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°52-854 1952-07-21 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L674 (P)
+
+
+##### Paragraphe 3 : Dispositions pénales
+
+###### Article L674
+
+Toute infraction aux arrêtés visés à l'article L. 673 ci-dessus est punie d'un emprisonnement de trois mois à un an [*durée*]
+et d'une amende de 360 F à 30.000 F [*montant*] ou de l'une de ces deux peines seulement.
+
+**Nota:**
+
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-854 1952-07-21 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L673 (P)
+
+
+###### Article L675
+
+Les dispositions prévues par la loi du 1er août 1905 en ce qui concerne la falsification des substances médicamenteuses, la
+détention, la mise en vente ou la vente de substances médicamenteuses falsifiées, sont applicables à la préparation, la
+détention et la délivrance, à titre gratuit ou onéreux, du sang humain, de son plasma et de leurs dérivés effectuées en
+infraction aux dispositions des articles L. 666 à 670 ci-dessus.
+
+**Nota:**
+
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-854 1952-07-21 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666 (P)
+	  - Code de la santé publique - art. L667 (P)
+	  - Code de la santé publique - art. L668 (P)
+	  - Code de la santé publique - art. L669 (P)
+	  - Code de la santé publique - art. L670 (P)
+	  - Loi n°1905-08-01
+
+
+###### Article L676
+
+Les autres infractions aux dispositions du présent chapitre et aux règlements d'administration publique pris pour son
+application seront punies d'une amende de 1.300 F à 3.000 F *1* *montant*.
+
+**Nota:**
+
+*Nota - (1) taux résultant de la loi 89-469 du 10 juillet 1989.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-854 1952-07-21 art. 8
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique L666 à L677
+
+
+##### Paragraphe 4 : Modalités d'application
+
+###### Article L677
+
+Des règlements d'administration publique déterminent les modalités d'application du présent chapitre.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-854 1952-07-21 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1263-1 (T)
+
+
+## Livre 7 : Hôpitaux et hospices publics, thermo-climatisme, laboratoires
+
+### Titre 1 : Hôpitaux et hospices publics
+
+#### Chapitre 1 : Nature et rôle des hôpitaux et hospices publics.
+
+###### Article L678
+
+Les hôpitaux et hospices publics constituent des établissements publics communaux, intercommunaux, départementaux,
+interdépartementaux ou nationaux.
+
+Les hôpitaux pourvoient aux examens de médecine préventive et de diagnostic, au traitement avec ou sans hospitalisation des
+malades, blessés, convalescents et femmes enceintes, y compris, notamment, le cas échéant, leur réadaptation fonctionnelle,
+ainsi qu'à l'isolement prophylactique. Ils peuvent également comprendre un ou plusieurs services d'hospice.
+
+Les hospices pourvoient à l'hébergement des vieillards, infirmes et incurables et leur assurent, le cas échéant, les soins
+nécessaires. Lorsqu'ils ne reçoivent que des vieillards, ces établissements sont dénommés maisons de retraite.
+
+Les hôpitaux, maternités et hospices fonctionnant actuellement comme des services non personnalisés de collectivités
+publiques seront, dans l'année qui suivra la promulgation de la présente ordonnance, par décret, érigés en établissement
+public ou rattachés à un établissement public déjà existant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°61-607 du 14 juin 1961 - art. 2 (Ab)
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
+	  - Loi n°75-535 du 30 juin 1975 - art. 31 (Ab)
+	  - Code de la santé publique - art. L686 (Ab)
+	  - Code de la santé publique - art. L706-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-535 1975-06-30 ART. 32 : JUSQU'A LEUR TRANSFORMATION CONFORMEMENT AUX DISPOSITIONS DE L'ART. 23 LES HOSPICES EXISTANT A LA DATE DE PROMULGATION DE LA LOI DU 30 JUIN 1975 DEMEURENT SOUMIS AUX DISPOSITIONS APPLICABLES A CETTE DATE
+
+	**Abrogé par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+
+
+#### Chapitre 2 : Commissions administratives
+
+##### Section 1 : Composition et fonctionnement.
+
+###### Article L681
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°59-957 du 3 août 1959
+	  - TXT_SOURCE: Décret n°59-957 du 3 août 1959 - art. 6-1 (Ab)
+	  - TXT_SOURCE: Décret n°59-957 du 3 août 1959 - art. 7 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
+
+
+###### Article L682
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
+
+
+###### Article L683
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 27 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 28 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 29 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
+
+
+###### Article L684
+
+Les pharmaciens résidents sont nommés par le ministre de la santé publique et de la population [*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1198 1958-12-11 ART. 1 JORF 12 décembre
+
+	**Cité par**:
+
+	  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
+	  - Code de la santé publique - art. L686 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972
+	  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 11 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 12 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 13 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 14 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 15 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 16 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 17 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 18 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 19 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 20 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+
+
+##### Section 2 : Attributions.
+
+###### Article L687
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L688
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+#### Chapitre 3 : Personnel
+
+##### Section 1 : Personnel administratif et personnel secondaire.
+
+###### Article L689
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L690
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L691
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L692
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+##### Section 2 : Médecins et pharmaciens.
+
+###### Article L693
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+#### Chapitre 4 : Dons et legs.
+
+###### Article L694
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L695
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L697
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L698
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+#### Chapitre 5 : Prix de journée
+
+##### Section 1 : Mode de fixation.
+
+###### Article L699
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L700
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L701
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L702
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L703
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+##### Section 2 : Révision en cours d'exercice.
+
+###### Article L704
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+#### Chapitre 6 : Autres dispositions financières.
+
+###### Article L705
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+##### Section 2 : Recouvrement des recettes.
+
+###### Article L707
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L708
+
+Les hôpitaux et hospices peuvent toujours exercer leurs recours, s'il y a lieu, contre les hospitalisés, contre leurs
+débiteurs et contre les personnes désignées par les articles 205, 206, 207 et 212 du Code civil [*action directe*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code civil - art. 205 (V)
+	  - Code civil - art. 206 (V)
+	  - Code civil - art. 207 (V)
+	  - Code civil - art. 212 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L686 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L714-38 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°41-5060 1941-12-21 ART. 5
+
+
+###### Article L709
+
+Les effets mobiliers, apportés par les personnes décédées dans les hôpitaux et hospices après y avoir été traitées
+gratuitement, appartiennent auxdits hôpitaux et hospices à l'exclusion des héritiers et du domaine en cas de déshérence.
+
+Les héritiers et légataires des personnes dont le traitement et l'entretien ont été acquittés de quelque manière que ce soit,
+peuvent exercer leurs droits sur tous les effets apportés dans les hôpitaux et hospices par lesdites personnes malades ou
+valides ; dans le cas de déshérence, les mêmes effets appartiennent aux hôpitaux et hospices.
+
+Le présent article n'est pas applicable aux militaires et marins soignés dans les hôpitaux et hospices.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°74-27 du 14 janvier 1974 - art. 75 (Ab)
+	  - Code de la santé publique - art. L686 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L714-39 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°41-5060 1941-12-21 ART. 21
+
+
+#### Chapitre 7 : Création, transformation et suppression des hôpitaux et hospices
+
+##### Section 1 : Création et suppression.
+
+###### Article L710
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L711
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L712
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 13 novembre 1998 - art. Annexe III (V)
+
+
+##### Section 2 : Affectation et transformation.
+
+###### Article L713
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L714
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L715
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+##### Section 3 : Commission nationale de l'organisation hospitalière.
+
+###### Article L716
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+#### Chapitre 8 : Dispositions spéciales relatives à l'admission des militaires dans les hôpitaux civils.
+
+###### Article L717
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab) JORF 16 mai 1974
+
+	**Cité par**:
+
+	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab)
+
+
+###### Article L718
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab) JORF 16 mai 1974
+
+	**Cité par**:
+
+	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab)
+
+
+###### Article L719
+
+Les obligations imposées aux hospices civils ne peuvent, dans aucun cas, porter préjudice au service des fondations et de
+l'assistance publique.
+
+L'Etat doit à ces établissements une allocation égale aux frais qui leur incombent par suite du traitement des malades
+militaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Arrêté du 16 février 1988 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L714-40 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1877-07-07 ART. 5
+
+
+###### Article L720
+
+La dépense des travaux de construction ou d'appropriation, reconnus nécessaires pour l'établissement, dans les hospices
+civils des services hospitaliers des garnisons est exclusivement à la charge de l'Etat. Nul travail ne pourra être exécuté
+sans l'assentiment de la commission administrative de l'hôpital et du conseil municipal de la ville, et sans l'accord
+préalable des ministres de la défense nationale et de la santé publique et de la population.
+
+Toutefois, les traités particuliers conclus avec les communes qui ont pris envers l'Etat l'engagement d'assurer le traitement
+des malades militaires dans les hôpitaux civils demeurent exécutoires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Arrêté du 16 février 1988 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L714-41 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1877-07-07 ART. 6
+
+
+###### Article L721
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab) JORF 16 mai 1974
+
+	**Cité par**:
+
+	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab)
+
+
+###### Article L722
+
+Les conditions d'application du présent chapitre sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab) JORF 12 MAI
+
+	**Cité par**:
+
+	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab)
+	  - Ordonnance n°82-296 du 31 mars 1982
+	  - Code de la santé publique - art. R32-12 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+
+	**Anciens textes**:
+
+	  - Loi n°1877-07-07 ART. 8
+
+
+#### Chapitre 9 : Dispositions diverses.
+
+###### Article L723
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L724
+
+Les précédentes dispositions ne portent pas atteinte aux droits des communes sur les lits des hospices et hôpitaux d'une
+autre commune, ni aux droits quelconques résultant des fondations faites par les départements, les communes ou les
+particuliers qui doivent être respectés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L714-42 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°41-5060 1941-12-21 ART. 36
+
+
+###### Article L725
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+#### Chapitre 10 : Régimes hospitaliers spéciaux
+
+##### Section 1 : Administration générale de l'Assistance publique à Paris.
+
+###### Article L726
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°64-707 du 10 juillet 1964 - art. 7 (V) JORF 12 juillet 1964
+
+	**Cité par**:
+
+	  - Loi n°64-707 du 10 juillet 1964 - art. 7 (V)
+
+
+###### Article L727
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°61-778 1961-07-22 art. 1 JORF 27 juillet 1961
+
+
+###### Article L728
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°61-778 1961-07-22 art. 1 JORF 27 juillet 1961
+
+
+###### Article L729
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°61-778 1961-07-22 art. 1 JORF 27 juillet 1961
+
+
+###### Article L730
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°61-778 1961-07-22 art. 1 JORF 27 juillet 1961
+
+
+###### Article L731
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L732
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°64-707 du 10 juillet 1964 - art. 7 (V) JORF 12 juillet 1964
+
+	**Cité par**:
+
+	  - Loi n°64-707 du 10 juillet 1964 - art. 7 (V)
+
+
+##### Section 2 : Hospices civils de Lyon.
+
+###### Article L733
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
+
+	**Cité par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
+
+
+##### Section 3 : Assistance publique de Marseille.
+
+###### Article L734
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
+
+	**Cité par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
+
+
+##### Section 4 : Hospices civils de Strasbourg.
+
+###### Article L734-1
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°58-1373 du 30 décembre 1958 - art. 9 (Ab) JORF 31 décembre 1958
+
+	**Cité par**:
+
+	  - Ordonnance n°58-1373 du 30 décembre 1958 - art. 9 (Ab)
+
+
+### Titre 1er bis : Mesures générales relatives à l'équipement sanitaire.
+
+###### Article L734-2
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°60-939 du 5 septembre 1960 - art. 3 (Ab)
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
+
+
+###### Article L734-3
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
+
+	**Cité par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
+	  - Décret n°72-923 du 28 septembre 1972 - art. 32 (Ab)
+
+
+###### Article L734-4
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
+
+	**Cité par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
+
+
+###### Article L734-5
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
+
+	**Cité par**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
+
+
+### Titre 2 : Thermo-climatisme
+
+#### Chapitre 1 : Sources d'eaux minérales
+
+##### Section 1 : De la déclaration d'intérêt public des sources, des servitudes et des droits qui en résultent.
+
+###### Article L735
+
+Les sources d'eaux minérales peuvent être déclarées d'intérêt public, après enquête, par décret pris en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1322-13 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L736 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 1
+
+
+###### Article L736
+
+Un périmètre de protection peut être assigné, par décret pris dans les formes établies à l'article précédent, à une source
+déclarée d'intérêt public.
+
+Ce périmètre peut être modifié si de nouvelles circonstances en font reconnaître la nécessité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°93-743 du 29 mars 1993 - art. 2 (M)
+	  - Code de l'urbanisme - art. R*126-1, Annexe (M)
+	  - Code de la santé publique - art. L743 (Ab)
+	  - Code de la santé publique - art. L744 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1322-13 (V)
+	  - Code de la santé publique - art. L1322-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L735 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 2
+
+
+###### Article L737
+
+Aucun sondage, aucun travail souterrain ne peuvent être pratiqués dans le périmètre de protection d'une source d'eau minérale
+déclarée d'intérêt public, sans autorisation préalable.
+
+A l'égard des fouilles, tranchées pour extraction de matériaux ou tout autre objet, fondations de maisons, caves ou autres
+travaux à ciel ouvert, le décret qui fixe le périmètre de protection peut exceptionnellement imposer aux propriétaires
+l'obligation de faire, au moins un mois à l'avance [*délai*], une déclaration au préfet qui en délivre récépissé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1322-4 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L738 (Ab)
+	  - Code de la santé publique - art. L743 (Ab)
+	  - Code de la santé publique - art. L744 (Ab)
+	  - Code de la santé publique - art. L747 (Ab)
+	  - Code de la santé publique - art. L751 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L747 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 3
+
+
+###### Article L738
+
+Les travaux [*sondages, fouilles, tranchées, fondations*] énoncés à l'article précédent et entrepris, soit en vertu d'une
+autorisation régulière, soit après une déclaration préalable, peuvent, sur la demande du propriétaire de la source, être
+interdits par le préfet, si leur résultat constaté est d'altérer ou de diminuer la source. Le propriétaire du terrain est
+préalablement entendu.
+
+L'arrêté du préfet est exécutoire par provision, sauf recours au tribunal administratif et au Conseil d'Etat par la voie
+contentieuse [*juridictions compétentes*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1322-5 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L737 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L743 (Ab)
+	  - Code de la santé publique - art. L744 (Ab)
+	  - Code de la santé publique - art. L747 (Ab)
+	  - Code de la santé publique - art. L751 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L747 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 4
+
+
+###### Article L739
+
+Lorsque, à raison de sondages ou de travaux souterrains entrepris en dehors du périmètre et jugés de nature à altérer ou
+diminuer une source minérale déclarée d'intérêt public, l'extension du périmètre paraît nécessaire, le préfet [*autorité
+compétente*] peut, sur la demande du propriétaire de la source, ordonner provisoirement la suspension des travaux.
+
+Les travaux peuvent être repris si, dans le délai de six mois, il n'a pas été statué sur l'extension du périmètre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1322-6 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L740 (Ab)
+	  - Code de la santé publique - art. L743 (Ab)
+	  - Code de la santé publique - art. L744 (Ab)
+	  - Code de la santé publique - art. L747 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L747 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 5
+
+
+###### Article L740
+
+Les dispositions de l'article précédent s'appliquent à une source minérale déclarée d'intérêt public, à laquelle aucun
+périmètre n'a été assigné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1322-7 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L739 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L743 (Ab)
+	  - Code de la santé publique - art. L744 (Ab)
+	  - Code de la santé publique - art. L747 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L747 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 6
+
+
+###### Article L742
+
+Le propriétaire d'une source d'eau minérale déclarée d'intérêt public peut exécuter, sur son terrain, tous les travaux de
+captage et d'aménagement nécessaires pour la conservation, la conduite et la distribution de cette source, un mois après la
+communication faite de ses projets au préfet.
+
+En cas d'opposition par le préfet, le propriétaire ne peut commencer ou continuer les travaux qu'après autorisation du
+ministre de la Santé publique et de la Population.
+
+A défaut de cette décision dans le délai de trois mois, le propriétaire peut exécuter les travaux [*accord tacite*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1322-9 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 8
+
+
+###### Article L743
+
+L'occupation d'un terrain compris dans le périmètre de protection pour l'exécution des travaux [*de captage et d'aménagement
+de la source*] prévus par l'article L. 741 ne peut avoir lieu qu'en vertu d'un arrêté du préfet qui en fixe la durée.
+
+Lorsque l'occupation d'un terrain compris dans le périmètre prive le propriétaire de la jouissance du revenu au-delà du temps
+d'une année [*durée*] ou lorsque après les travaux le terrain n'est plus propre à l'usage auquel il était employé, le
+propriétaire dudit terrain peut exiger du propriétaire de la source l'acquisition du terrain occupé ou dénaturé. Dans ce cas,
+l'indemnité est réglée suivant les formes prescrites par les décrets des 8 août et 30 octobre 1935. Dans aucun cas,
+l'expropriation ne peut être provoquée par le propriétaire de la source.
+
+**Liens relatifs à cet article**
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1322-10 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L741 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L741 (M)
+	  - Décret n°1935-08-08
+	  - Décret n°1935-10-30
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L744 (M)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 9
+
+
+###### Article L744
+
+Les dommages dus par suite de suspension, interdiction ou destruction de travaux [*dans le périmètre de protection*] dans les
+cas prévus aux articles L. 738, 739 et 740 ci-dessus ainsi que ceux dus à raison de travaux exécutés en vertu des articles L.
+741 et 743 sont à la charge du propriétaire de la source. L'indemnité est réglée à l'amiable ou par les tribunaux.
+
+Dans les cas prévus par les articles L. 738, 739 et 740 ci-dessus, l'indemnité due par le propriétaire de la source ne peut
+excéder le montant des pertes matérielles qu'a éprouvées le propriétaire du terrain et le prix des travaux devenus inutiles,
+augmenté de la somme nécessaire pour le rétablissement des lieux dans leur état primitif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1322-11 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L738 (M)
+	  - Code de la santé publique - art. L739 (M)
+	  - Code de la santé publique - art. L740 (M)
+	  - Code de la santé publique - art. L741 (M)
+	  - Code de la santé publique - art. L743 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L745 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 16
+
+
+###### Article L745
+
+Les décisions concernant l'exécution ou la destruction des travaux sur le terrain d'autrui ne peuvent être exécutées qu'après
+le dépôt d'un cautionnement [*obligatoire*] dont l'importance est fixée par le tribunal et qui sert de garantie au payement
+de l'indemnité dans les cas énumérés en l'article précédent.
+
+L'Etat, pour les sources dont il est propriétaire, est dispensé du cautionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1322-12 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L744 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 11
+
+
+###### Article L746
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 58-997 1958-10-23 art. 56 JORF 24 octobre 1958
+
+
+##### Section 2 : Dispositions pénales.
+
+###### Article L747
+
+L'exécution, sans autorisation ou sans déclaration préalable, dans le périmètre de protection, de l'un des travaux mentionnés
+dans l'article L. 737 ci-dessus, la reprise des travaux interdits ou suspendus administrativement en vertu des articles L.
+738, 739 et 740, sont punies d'une amende de 5.000 F à 10.000 F [*montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L737 (M)
+	  - Code de la santé publique - art. L738 (M)
+	  - Code de la santé publique - art. L739 (M)
+	  - Code de la santé publique - art. L740 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L749 (Ab)
+	  - Code de la santé publique - art. L750 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1324-3 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 13
+
+
+###### Article L748
+
+Les infractions aux règlements d'administration publique prévues au dernier alinéa de l'article L. 751 du présent chapitre
+sont punies d'une amende de 1.300 F à 3.000 F [*1*] [*montant*].
+
+**Nota:**
+
+[*Nota - (1) taux résultant de la loi 89-469 du 10 juillet 1989.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L749 (Ab)
+	  - Code de la santé publique - art. L750 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L751 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1324-4 (V)
+	  - Code de la santé publique - art. R1324-6 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 14
+
+
+###### Article L749
+
+Les infractions prévues par les dispositions du présent chapitre sont constatées, concurremment, par les officiers de police
+judiciaire, les ingénieurs des mines et les agents sous leurs ordres ayant droit de verbaliser [*autorités compétentes*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1324-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L747 (M)
+	  - Code de la santé publique - art. L748 (M)
+	  - Code de la santé publique - art. L750 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L749 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 15
+
+
+###### Article L750
+
+Les procès-verbaux dressés en vertu des articles L. 747 et 748 ci-dessus sont visés pour timbre.
+
+Les procès-verbaux dressés par des ingénieurs des travaux publics ou agents de surveillance assermentés doivent, à peine de
+nullité, être affirmés dans les trois jours [*délai*] devant le juge du tribunal d'instance ou le maire, soit du lieu du
+délit, soit de la résidence de l'agent [*condition de forme*].
+
+Lesdits procès-verbaux font foi jusqu'à preuve contraire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1324-2 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L747 (M)
+	  - Code de la santé publique - art. L748 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L749 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 16
+
+
+##### Section 3 : Modalités d'application.
+
+###### Article L751
+
+Des règlements d'administration publique déterminent :
+
+Les formes et les conditions de la déclaration d'intérêt public, de la fixation du périmètre de protection, de l'autorisation
+mentionnée à l'article L. 737 et de la constatation mentionnée à l'article L. 738 ci-dessus ;
+
+L'organisation de la surveillance des sources et des établissements d'eaux minérales naturelles.
+
+Les conditions générales d'ordre, de police et de salubrité auxquelles tous les établissements d'eaux minérales naturelles
+doivent satisfaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°57-404 1957-03-28 : POLICE ET SURVEILLANCE DES EAUX MINERALES
+
+	**Cité par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 21 (M)
+	  - Décret n°93-1324 du 20 décembre 1993 - art. 1 (Ab)
+	  - Décret n°97-1185 du 19 décembre 1997 - art. Annexe (VT)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+	  - Code de la santé publique - art. L748 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1322-13 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L737 (M)
+	  - Code de la santé publique - art. L738 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 19
+
+
+#### Chapitre 2 : Stations hydrominérales, climatiques et uvales.
+
+###### Article L752
+
+Les stations hydrominérales, climatiques et uvales [*cure de raisin*] sont régies par les dispositions des lois des 24
+septembre 1919, 26 mars 1927, 4 août 1927, 2 juillet 1935, du décret du 25 juillet 1935, des lois des 28 août 1936 et 3 avril
+1942 et de l'ordonnance du 2 novembre 1945.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1935-07-25
+	  - Loi n°1919-09-24
+	  - Loi n°1927-03-26
+	  - Loi n°1927-08-04
+	  - Loi n°1935-07-02
+	  - Loi n°1936-08-28
+	  - Loi n°1942-04-03
+	  - Ordonnance 1945-11-02
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+
+## LIVRE 7 : HOPITAUX ET HOSPICES PUBLICS
+
+### TITRE 1 : HOPITAUX ET HOSPICES PUBLICS
+
+#### CHAPITRE 2 : COMMISSIONS ADMINISTRATIVES
+
+##### SECTION 1 : COMPOSITION ET FONCTIONNEMENT.
+
+###### Article L685
+
+Le statut général du personnel des établissements de soins et de cure publics fixé par le livre IX du code de la santé
+publique n'est pas applicable aux membres du personnel médical et aux biologistes des hôpitaux et hospices publics, qu'ils
+exercent à temps partiel dans ces établissements ou qu'ils leur consacrent toute leur activité professionnelle. Le statut de
+ce personnel est déterminé par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1198 1958-12-11 ART. 1 JORF 12 décembre
+
+	**Cité par**:
+
+	  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
+	  - Loi n°87-39 du 27 janvier 1987 - art. 29 (V)
+	  - Code de la santé publique - art. L686 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique L792 à L896
+
+
+#### CHAPITRE 4 : DONS ET LEGS.
+
+###### Article L696
+
+La réduction des charges résultant d'une libéralité faite au profit d'un établissement hospitalier peut être prononcée par
+mesure administrative lorsqu'il est établi que les revenus provenant de cette libéralité sont insuffisants pour assurer
+l'exécution intégrale des charges imposées.
+
+S'il y a accord entre l'établissement gratifié et les auteurs de la libéralité ou leurs ayants-droit, la réduction peut être
+autorisée par un arrêté préfectoral, après avis du directeur départemental de la population et de l'entraide sociale.
+
+Dans tous les autres cas, la réduction ne peut être prononcée que par décret contresigné par le ministre de la santé publique
+et de la population, après avis conforme du conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°58-1202 du 11 décembre 1958 - art. 43 (Ab)
+	  - Code de la santé publique - art. L686 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L714-37 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°41-5060 1941-12-21 ART. 19
+
+
+## LIVRE 7 : THERMO-CLIMATISME
+
+### TITRE 2 : THERMO-CLIMATISME
+
+#### CHAPITRE 1 : SOURCES D'EAUX MINERALES
+
+##### SECTION 1 : DE LA DECLARATION D'INTERET PUBLIC DES SOURCES, DES SERVITUDES ET DES DROITS QUI EN RESULTENT.
+
+###### Article L741
+
+Dans l'intérieur du périmètre de protection, le propriétaire d'une source déclarée d'intérêt public a le droit de faire dans
+dans le terrain d'autrui, à l'exception des maisons d'habitation et des cours attenantes, tous les travaux de captage et
+d'aménagement nécessaires pour la conservation, la conduite et la distribution de cette source, lorsque ces travaux ont été
+autorisés par un arrêté du ministre de la Santé publique et de la Population.
+
+Le propriétaire du terrain est entendu dans l'instruction.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1322-8 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L743 (Ab)
+	  - Code de la santé publique - art. L744 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L743 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 ART. 7
+
+
+## Livre 8 : Institutions
+
+### Chapitre 1 : Services administratifs locaux
+
+#### Section 1 : Service départemental de la santé
+
+##### Paragraphe 1 : Dispositions générales.
+
+###### Article L766
+
+Un service de la santé publique est obligatoire dans chaque département. Une délibération du conseil général en réglemente
+les détails et le budget sauf en ce qui concerne le personnel d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 16 () JORF 17 mai date d'entrée en vigueur 1er juillet 1970
+
+	**Cité par**:
+
+	  - Décret n°96-720 du 13 août 1996 - art. 3 (V)
+	  - Loi n°99-477 du 9 juin 1999 - art. 13 (Ab)
+	  - Code de la santé publique - art. R712-83 (Ab)
+	  - Code de la santé publique - art. R766-1 (M)
+	  - Code de la sécurité sociale. - art. R183-9 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 19
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1411-1 (M)
+
+
+###### Article L768
+
+Dans chaque département le conseil général après avis du conseil d'hygiène départemental, délibère sur l'organisation du
+service de la santé publique dans le département, notamment sur la composition, le mode de fonctionnement, la publication des
+travaux et les dépenses du conseil départemental d'hygiène.
+
+A défaut par le conseil général de statuer, il y est pourvu par un décret en forme de règlement d'administration publique.
+
+**Nota:**
+
+Nota : Décret 621 1980-07-31 ART. 2 : Dans les textes réglementaires en vigueur à la date de publication du présent décret,
+tout renvoi à un règlement d'administration publique ou à un décret en forme de règlement d'administration publique est
+remplacé par un renvoi à un décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 13 () JORF 17 mai 1970 date d'entrée en vigueur 1ER JUILLET
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 20
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+
+
+##### Paragraphe 2 : Dispositions spéciales au département de la Seine.
+
+###### Article L769
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 1 (V)
+	  - Code de la santé publique - art. L771 (Ab)
+
+
+###### Article L770
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 1 (V)
+
+
+###### Article L771
+
+Les maires des communes autres que Paris exercent les attributions sanitaires sous l'autorité soit du préfet de Paris soit du
+préfet de police, suivant les distinctions faites dans les deux articles précédents [*autorités compétentes*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 16 () JORF 17 mai 1970 date d'entrée en vigueur 1ER JUILLET
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L769 (Ab)
+	  - Code de la santé publique L769, L770 : ABROGES
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 24
+
+
+#### Section 2 : Service communal d'hygiène et de santé.
+
+###### Article L773
+
+Les bureaux municipaux d'hygiène sont placés sous le contrôle du directeur départemental et des inspecteurs départementaux de
+la santé [*autorités compétentes*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+
+
+###### Article L774
+
+Les communes ou fractions de communes qui ne sont pas le siège d'un bureau d'hygiène peuvent être groupées par décret pour la
+constitution d'un bureau d'hygiène intercommunal placé sous l'autorité directe du préfet.
+
+Les attributions du bureau d'hygiène d'une commune peuvent être étendues par décret à d'autres communes ne formant avec la
+première qu'une seule et même agglomération.
+
+Les décrets prévus aux alinéas précédents sont pris après avis du conseil départemental d'hygiène.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 ART. 3
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+
+
+#### SECTION 2 : BUREAU MUNICIPAL D'HYGIENE.
+
+###### Article L772
+
+Dans les villes de 20.000 habitants et au-dessus [*nombre*], dans les stations de cure pour tuberculeux et dans les communes
+d'au moins 2.000 habitants qui sont le siège d'un établissement thermal il est institué, sous le nom de bureau d'hygiène, un
+service municipal chargé, sous l'autorité du maire, de l'application des dispositions relatives à la protection générale de
+la santé publique énumérées notamment au titre 1er du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 19
+
+	**Cité par**:
+
+	  - Loi n°83-663 du 22 juillet 1983 - art. 48 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 54 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 55 (Ab)
+	  - Décret n°96-97 du 7 février 1996 - art. 8 (Ab)
+	  - Code de la santé publique - art. L240 (Ab)
+	  - Code de la santé publique - art. L775 (Ab)
+	  - Code de la santé publique - art. R32-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1422-1 (V)
+
+
+#### SECTION 3 : MODALITES D'APPLICATION.
+
+###### Article L775
+
+Des règlements d'administration publique déterminent les modalités d'application du présent chapitre et notamment les
+conditions d'organisation et de fonctionnement des bureaux d'hygiène ainsi que les attributions des directeurs départementaux
+de la santé, inspecteurs départementaux de la santé, et directeurs des bureaux d'hygiène.
+
+A défaut par les villes d'organiser les bureaux d'hygiène il y sera pourvu par des décrets en forme de règlements
+d'administration publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 54 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 55 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique L766 à L775
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 26
+
+
+### CHAPITRE 2 : CONSEILS ET COMMISSIONS
+
+#### SECTION 1 : CONSEILS D'HYGIENE DEPARTEMENTAUX ET COMMISSIONS SANITAIRES.
+
+###### Article L776
+
+Le conseil d'hygiène départemental se compose de dix membres au moins et de quinze au plus [*nombre*]. Il comprend
+nécessairement deux conseillers généraux, élus par leurs collègues, trois médecins dont un de l'armée de terre ou de mer, un
+pharmacien, l'ingénieur en chef, un architecte et un vétérinaire.
+
+Le préfet préside le conseil qui nomme dans son sein, pour deux ans [*durée*], un vice-président et un secrétaire chargé de
+rédiger les délibérations du conseil.
+
+Les membres des conseils d'hygiène, à l'exception des conseillers généraux qui sont élus par leurs collègues, sont nommés par
+le préfet pour quatre ans [*durée du mandat*] et renouvelés par moitié tous les deux ans. Les membres sortants peuvent être
+renommés.
+
+Les conseils départementaux d'hygiène ne peuvent donner leur avis sur les objets qui leur sont soumis en vertu du présent
+code que si les deux tiers au moins de leurs membres sont présents [*quorum*]. Ils peuvent recourir à toutes mesures
+d'instruction qu'ils jugent convenables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°64-250 du 14 mars 1964 - art. Annexe. (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 54 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 56 (Ab)
+	  - Arrêté du 19 avril 1994 - art. Annexe (M)
+
+	**Modifié par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 16 () JORF 17 mai 1970 date d'entrée en vigueur 1ER JUILLET
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 20
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1416-1 (V)
+
+
+###### Article L777
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 1 (V)
+
+
+###### Article L778
+
+La composition des assemblées sanitaires départementales et locales peut être modifiée par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 14 () JORF 17 mai 1970 date d'entrée en vigueur 1ER JUILLET
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 25 bis
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+
+
+###### Article L779
+
+Les conseils d'hygiène départementaux [*compétence*] doivent être consultés sur les objets énumérés à l'article 9 du décret
+du 18 décembre 1948 sur l'alimentation en eau potable des agglomérations, sur la statistique démographique et la géographie
+médicale, sur les règlements sanitaires et généralement sur toutes les questions intéressant la santé publique dans les
+limites de leurs circonscriptions respectives.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1948-12-18 ART. 9
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°70-415 du 8 mai 1970 - art. 15 () JORF 17 mai 1970 date d'entrée en vigueur 1ER JUILLET
+
+	**Anciens textes**:
+
+	  - Loi n°1902-02-15 ART. 21
+
+	**Abrogé par**:
+
+	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
+
+
+#### Section 2 : Conseil supérieur d'hygiène publique de France.
+
+###### Article L780
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°61-859 du 1 août 1961 - art. 3 (Ab)
+	  - Décret n°97-293 du 27 mars 1997 - art. 2 (Ab)
+
+
+###### Article L781
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°97-293 du 27 mars 1997 - art. 2 (Ab)
+
+
+#### Section 3 : Conseil permanent d'hygiène sociale.
+
+###### Article L782
+
+La composition et les attributions du conseil permanent d'hygiène sociale sont fixées par décret.
+
+Les rapporteurs devant ce conseil des affaires soumises obligatoirement au conseil supérieur d'hygiène publique de France
+sont convoqués à l'assemblée plénière du conseil supérieur, avec voix délibérative.
+
+**Nota:**
+
+[*Nota : Décret 82-685 du 3 août 1982 : supprime ce conseil.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1949-03-23 JORF 25 MARS
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°42-688 1942-07-21 ART. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+#### Section 4 : Commission permanente des stations hydrominérales, climatiques et uvales.
+
+###### Article L783
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L784
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+### Chapitre 3 : Institut national de la santé et de la recherche médicale
+
+#### Ecole nationale de la santé publique
+
+##### Section 1 : Institut national de la santé et de la recherche médicale.
+
+###### Article L785
+
+Il est créé à Paris un établissement public qui prend le nom d'Institut national de la santé et de la recherche médicale.
+
+Cet établissement rattaché au ministère de la santé publique et de la population est doté de la personnalité civile et de
+l'autonomie financière.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Abrogé par**:
+
+	  - Décret n°83-975 du 10 novembre 1983 - art. 1 (V) JORF 11 novembre
+
+	**Cité par**:
+
+	  - Décret n°83-975 du 10 novembre 1983 - art. 1 (V)
+	  - Code de la sécurité sociale. - art. D412-79 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°84-934 du 17 octobre 1984
+	  - TXT_SOURCE: Décret n°84-934 du 17 octobre 1984 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°84-934 du 17 octobre 1984 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°84-934 du 17 octobre 1984 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°84-934 du 17 octobre 1984 - art. Annexe (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°41-4968 1941-11-30 ART. 1
+
+
+###### Article L786
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°64-727 1964-07-18 art. 20 JORF 19 juillet 1964
+
+
+###### Article L787
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°64-727 1964-07-18 art. 20 JORF 19 juillet 1964
+
+
+###### Article L788
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°64-727 1964-07-18 art. 20 JORF 19 juillet 1964
+
+
+###### Article L789
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°64-727 1964-07-18 art. 20 JORF 19 juillet 1964
+
+
+###### Article L790
+
+Un décret en Conseil d'Etat précise les conditions d'application de la section I du chapitre III du livre VIII du Code de la
+santé publique relative à l'Institut national de la santé et de la recherche médicale, notamment en ce qui concerne le
+fonctionnement du conseil d'administration, le statut du personnel et le régime financier.
+
+**Nota:**
+
+[*Nota : Décret 64-727 du 18 juillet 1964 : Abroge l'article L. 790 à la date d'entrée en fonction du conseil
+d'administration prévu par ce décret. Décret 74-390 du 9 mai 1974 : Modifie l'article 1 du décret du 23 juillet 1962.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°62-855 1962-07-23 ART. 1 JORF 27 juillet
+
+	**Liens**:
+
+	  - SPEC_APPLI: Décret n°64-727 1964-07-18
+	  - SPEC_APPLI: Décret n°74-390 1974-05-09
+
+	**Abrogé par**:
+
+	  - Décret n°64-727 1964-07-18 ART. 20 JORF 19 juillet
+
+	**Cite**:
+
+	  - Code de la santé publique L785 à L790
+
+	**Cité par**:
+
+	  - Code de la sécurité sociale. - art. D412-79 (V)
+
+
+##### Section 2 : Ecole nationale de la santé publique.
+
+###### Article L791
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+## Livre IX : Personnel
+
+### Titre unique : Statut général du personnel des établissements d'hospitalisation publics et de certains établissements à caractère social
+
+#### Chapitre II : Dispositions organiques
+
+###### Article L806
+
+Les représentants du personnel au sein des commissions paritaires sont élus au bulletin secret à la proportionnelle par les
+agents en activité ou détachés dans un emploi des cadres hospitaliers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°55-683 1955-05-20 art. 15
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 15 février 1982
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 10 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 11 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 12 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 13 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 14 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 15 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 16 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 17 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 18 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 19 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 20 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 21 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 22 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 23 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 24 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 25 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 26 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 27 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 28 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 29 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 30 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 31 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 32 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 33 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 34 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 35 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 36 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 37 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 38 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 39 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 40 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 41 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 42 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 43 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 44 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 45 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 46 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 47 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 48 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 49 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 50 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 51 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 52 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 53 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 54 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 55 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 56 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 57 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 15 février 1982 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
+
+
+#### Chapitre III : Recrutement.
+
+###### Article L810
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°59-707 du 8 juin 1959 - art. 11 (V)
+	  - Décret n°59-707 du 8 juin 1959 - art. 12 (V)
+	  - Décret n°59-707 du 8 juin 1959 - art. 13 (V)
+	  - Décret n°59-707 du 8 juin 1959 - art. 14 (V)
+	  - Décret n°59-707 du 8 juin 1959 - art. 8 (V)
+	  - Décret n°62-132 du 2 février 1962 - art. 10 (Ab)
+	  - Décret n°62-132 du 2 février 1962 - art. 7 (Ab)
+	  - Décret n°62-569 du 15 mai 1962 - art. 9 (Ab)
+	  - Décret n°64-436 du 21 mai 1964 - art. 1 (V)
+	  - Décret n°64-436 du 21 mai 1964 - art. 2 (Ab)
+	  - Décret n°64-748 du 17 juillet 1964 - art. 20 (Ab)
+	  - Décret n°64-942 du 3 septembre 1964 - art. 23 (Ab)
+	  - Décret n°68-97 du 10 janvier 1968 - art. 23 (M)
+	  - Décret n°68-132 du 9 février 1968 - art. 1 (V)
+	  - Arrêté du 2 février 1968 - art. 2 (V)
+	  - Arrêté du 10 avril 1970 - art. 7 (Ab)
+	  - Arrêté du 10 septembre 1959 - art. 5 (V)
+	  - Arrêté du 10 septembre 1959 - art. 8 (V)
+	  - Arrêté du 14 avril 1965 - art. 2 (M)
+	  - Arrêté du 14 avril 1965 - art. 2 (V)
+
+
+#### Chapitre VI : Discipline.
+
+###### Article L838
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L839
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L840
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L841
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L842
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L843
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L844
+
+(article abrogé).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+# Partie réglementaire ancienne
+
+## Livre 5 : Pharmacie
+
+### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie
+
+#### Chapitre 2 : Préparation et vente en gros des produits pharmaceutiques
+
+##### Section 2 : Spécialités pharmaceutiques
+
+##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.
+
+###### Article R5142-1
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°78-988 1978-09-20 art. 16 JORF 6 octobre 1978
+
+
+### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS
+
+#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.
+
+###### Article R5229-1
+
+Article abrogé
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
