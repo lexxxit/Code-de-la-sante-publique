@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1975-12-27
+Version Consolidée au 1976-07-10
 
 # Partie législative ancienne
 
@@ -36256,6 +36256,54 @@ L'agent qui accomplit une période d'instruction obligatoire est mis en congé a
 	**Cité par**:
 
 	  - Code de la santé publique - art. L850 (V)
+
+
+##### Section 5 : Congé postnatal.
+
+###### Article L881-1
+
+Le congé postnatal est une position de l'agent qui est placé hors des cadres de l'établissement employeur pour élever son
+enfant.
+
+Dans cette position, accordée après un congé de maternité ou l'adoption d'un enfant de moins de trois ans, et pour une durée
+maximale de deux ans, l'intéressé cesse de bénéficier de ses droits à la retraite ; il conserve ses droits à l'avancement
+d'échelon, réduits de moitié. A l'expiration de son congé, il est réintégré de plein droit, au besoin en surnombre, dans les
+cadres de l'établissement employeur.
+
+Le congé postnatal est accordé de droit, sur simple demande, pour la mère agent ; il peut être ouvert au père agent si la
+mère ne peut bénéficier ni du congé postnatal ni du congé parental prévu à l'art. L. 122-28-1 du code du travail ou si elle y
+renonce.
+
+Si une nouvelle maternité ou adoption survient au cours du congé postnatal, ce congé est prolongé d'une durée maximale de
+deux ans, à compter de la naissance du nouvel enfant ou de son adoption, dans les conditions prévues ci-dessus.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°77-887 du 27 juillet 1977 - art. 4 bis (Ab)
+	  - Décret n°80-966 du 2 décembre 1980 - art. 1 (V)
+	  - Décret n°80-967 du 2 décembre 1980 - art. 1 (Ab)
+	  - Décret n°80-967 du 2 décembre 1980 - art. 2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°78-753 1978-07-17 art. 21 VI JORF 18 juillet
+
+	**Abrogé par**:
+
+	  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
+
+	**Cite**:
+
+	  - Code du travail - art. L122-28-1 (M)
 
 
 #### Chapitre 7 : Positions
