@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1964-07-08
+Version Consolidée au 1964-07-11
 
 # Partie législative ancienne
 
@@ -17326,6 +17326,293 @@ obligation s'impose aux personnes qui, après deux ans d'interruption, veulent r
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L4321-10 (M)
+
+
+### Titre 3-1 : Professions d'orthophoniste et d'orthoptiste
+
+#### Chapitre 1 : Profession d'orthophoniste
+
+###### Article L504-1
+
+Est considérée comme exerçant la profession d'orthophoniste toute personne qui, non titulaire du diplôme d'Etat de docteur en
+médecine, exécute habituellement des actes de rééducation constituant un traitement des anomalies de nature pathologique, de
+la voix, de la parole et du langage oral ou écrit, hors la présence du médecin. 
+
+Les orthophonistes ne peuvent pratiquer leur art que sur ordonnance médicale   .
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°64-699 du 10 juillet 1964, article unique, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°71-445 1971-06-15 art. 1 JORF 16 JUIN 1971
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°83-766 du 24 août 1983
+	  - TXT_SOURCE: Décret n°83-766 du 24 août 1983 - art. 1 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4341-1 (M)
+	  - Code de la santé publique - art. L4341-1 (V)
+
+
+###### Article L504-2
+
+Nul ne peut exercer la profession d'orthophoniste s'il n'est muni du certificat de capacité d'orthophoniste établi par le
+ministre de l'éducation nationale et le ministre de la santé publique et de la population, ou de l'un des diplômes ou
+attestations d'études d'orthophonie établis par le ministre de l'éducation nationale antérieurement à la création dudit
+certificat et, s'il ne satisfait, dans tous les cas, aux conditions fixées par décret pris sur le rapport du ministre de la
+santé publique et de la population.
+
+Le décret instituant le certificat de capacité d'orthophoniste fixera les conditions d'obtention avec dispense partielle ou
+totale de scolarité, de stages et d'épreuves dont pourront bénéficier les personnes qui, sans posséder l'un des titres prévus
+à l'alinéa 1er, sont munies :
+
+1° Soit d'un certificat d'aptitude à l'enseignement des enfants atteints de déficience auditive, reconnu par le ministre de
+la santé publique et de la population ;
+
+2° Soit d'un diplôme d'instituteur spécialisé pour les enfants sourds, reconnu par le ministre de l'éducation nationale ;
+
+3° Soit d'un titre de rééducateur des dyslexiques, reconnu par l'un ou l'autre de ces deux ministres.
+
+Cependant, le ministre de la santé publique et de la population et le ministre de l'éducation nationale, après avis d'une
+commission nommée par arrêté conjoint, pourront autoriser à continuer à exercer leur profession, soit sans limitation aucune,
+soit pour un ou plusieurs établissements ou pour un mode d'activité déterminé, les personnes qui, à la date du 1er janvier
+1964, exécutaient habituellement des actes de rééducation "constituant un traitement des anomalies de nature pathologique" de
+la voix, de la parole et du langage oral ou écrit, hors de la présence du médecin, sans être munies de l'un des titres visés
+aux précédents alinéas. Les demandes d'autorisation d'exercice devront être déposées avant le 1er juillet 1972 [*dispositions
+transitoires*].
+
+En outre, les personnes qui ont obtenu, avant le 31 décembre 1973, l'un des titres dont la liste est fixée par arrêté
+conjoint du ministre de la Santé publique et de la Sécurité sociale et du ministre de l'Education nationale, et qui cesseront
+d'être délivrés à partir de cette date, sont autorisées à exécuter habituellement, hors la présence du médecin, des actes de
+rééducation des personnes présentant des difficultés de nature pathologique à acquérir les mécanismes permettant d'apprendre
+la lecture et l'orthographe, indépendamment de toute insuffisance intellectuelle ou sensorielle.
+
+**Nota:**
+
+[*Nota : Décret 65-240 du 25 mars 1965 : CONDITIONS D'EXERCICE DE LA PROFESSION.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°64-699 du 10 juillet 1964, article unique, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°71-445 1971-06-15 art. 2, art. 3, art. 4 JORF 16 JUIN 1971
+
+	**Cité par**:
+
+	  - Décret n°91-1009 du 2 octobre 1991 - art. 1 (Ab)
+	  - Décret n°92-785 du 6 août 1992 - art. 12 (Ab)
+	  - Arrêté du 17 septembre 1997 - art. 1 (V)
+	  - Code de la santé publique - art. L510-9-1 (Ab)
+	  - Décret n°65-240 du 25 mars 1965 - art. 4 (Ab)
+	  - Décret n°65-240 du 25 mars 1965 - art. 5 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4341-2 (M)
+	  - Code de la santé publique - art. L4341-3 (V)
+	  - Code de la santé publique - art. L4341-5 (V)
+	  - Code de la santé publique - art. L4341-6 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°65-240 1965-03-25
+
+
+#### Chapitre 2 : Profession d'orthoptiste
+
+###### Article L504-3
+
+Est considérée comme exerçant la profession d'orthoptiste toute personne qui, non titulaire du diplôme d'Etat de docteur en
+médecine, exécute habituellement des actes de rééducation orthoptique hors la présence du médecin. 
+
+Les orthoptistes ne peuvent pratiquer leur art que sur ordonnance médicale   .
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°64-699 du 10 juillet 1964, article unique, v. init.
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988 - art. 4 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4342-1 (M)
+
+
+###### Article L504-4
+
+Nul ne peut exercer la profession d'orthoptiste s'il n'est muni du certificat de capacité d'orthoptiste [*diplôme*]
+
+institué par le ministre de l'éducation nationale et s'il ne satisfait aux conditions fixées par décret pris sur le rapport
+du ministre de la santé publique et de la population.
+
+**Nota:**
+
+[*Nota : Décret 65-240 du 25 mars 1965 : CONDITIONS D'EXERCICE DE LA PROFESSION.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°64-699 du 10 juillet 1964, article unique, v. init.
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°88-1069 du 23 novembre 1988 - art. 4 (Ab)
+	  - TXT_ASSOCIE: Décret n°65-240 1965-03-25
+
+	**Cité par**:
+
+	  - Décret n°91-1009 du 2 octobre 1991 - art. 1 (Ab)
+	  - Décret n°92-785 du 6 août 1992 - art. 12 (Ab)
+	  - Arrêté du 17 septembre 1997 - art. 1 (V)
+	  - Code de la santé publique - art. L510-9-1 (Ab)
+	  - Décret n°65-240 du 25 mars 1965 - art. 4 (Ab)
+	  - Décret n°65-240 du 25 mars 1965 - art. 5 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4342-2 (M)
+	  - Code de la santé publique - art. L4342-3 (V)
+
+
+#### Chapitre 3 : Dispositions communes aux deux professions
+
+###### Article L504-5
+
+Les orthophonistes et les aides-orthoptistes et les élèves faisant leurs études préparatoires à l'obtention de l'un ou
+l'autre certificat de capacité sont tenus au secret professionnel dans les conditions et sous les réserves énoncées à
+l'article 378 du Code pénal.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code pénal 378
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4344-2 (V)
+
+
+###### Article L504-6
+
+La suspension temporaire ou l'incapacité absolue de l'exercice de l'une des professions d'orthophoniste ou d'aide-orthoptiste
+peuvent être prononcées par les cours et tribunaux accessoirement à toute peine, soit criminelle, soit correctionnelle, à
+l'exception toutefois, dans ce dernier cas, des peines ne comportant qu'une amende.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°64-699 du 10 juillet 1964, article unique, v. init.
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4344-5 (M)
+	  - Code de la santé publique - art. L4344-5 (V)
+
+	**Cité par**:
+
+	  - Décret n°65-240 du 25 mars 1965 - art. 6 (Ab)
 
 
 ### Titre 4 : Profession d'opticien-lunetier
