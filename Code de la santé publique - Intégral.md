@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1983-12-31
+Version Consolidée au 1984-01-04
 
 # Partie législative ancienne
 
@@ -34220,11 +34220,9 @@ et de la population, après avis conforme du conseil d'Etat.
 
 ###### Article L706
 
-Les hôpitaux et hospices sont soumis, en ce qui concerne leurs fournitures et l'exécution de leurs travaux, aux mêmes règles
-que les communes.
-
-Il n'est pas dérogé aux dispositions de la loi du 18 août 1926 relatives aux adjudications et marchés passés avec les
-sociétés d'ouvriers français.
+Les marchés passés par les directeurs des établissements d'hospitalisation publics et des hospices publics sont soumis à
+l'approbation du représentant de l'Etat selon des modalités définies par décret en Conseil d'Etat. Ce décret adapte les
+règles de passation des marchés, telles qu'elles sont définies par le code des marchés publics.
 
 **Liens relatifs à cet article**
 
@@ -34235,7 +34233,7 @@ sociétés d'ouvriers français.
 
 	**Modifié par**:
 
-	  - Décret n°60-724 1960-07-25 ART. 94 JORF 27 JUILLET 1960
+	  - Loi n°84-5 du 3 janvier 1984 - art. 11 () JORF 4 JANVIER 1984
 
 	**Liens**:
 
@@ -34251,10 +34249,6 @@ sociétés d'ouvriers français.
 	**Cite**:
 
 	  - Loi n°1926-08-18
-
-	**Anciens textes**:
-
-	  - Loi n°41-5060 1941-12-21 ART. 22
 
 
 ## LIVRE 7 : THERMO-CLIMATISME
