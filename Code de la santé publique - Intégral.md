@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1971-01-03
+Version Consolidée au 1971-05-15
 
 # Partie législative ancienne
 
@@ -42629,18 +42629,6 @@ judiciaire compétente et à l'office central pour la répression du trafic illi
 
 
 #### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.
-
-###### Article R5229-1
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
 
 ###### Article R5229-2
 
