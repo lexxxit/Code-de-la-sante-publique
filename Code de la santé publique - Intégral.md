@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1961-07-27
+Version Consolidée au 1961-08-03
 
 # Partie législative ancienne
 
@@ -24122,6 +24122,40 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*
 	  - Code de la santé publique - art. L669 (P)
 	  - Code de la santé publique - art. L670 (P)
 	  - Loi n°1905-08-01
+
+
+###### Article L675-1
+
+Sera puni d'une amende de 3.000 F à 30.000 F [*montant*] et, en cas de récidive, d'une amende de 20.000 F à 60.000 F et d'un
+emprisonnement de six jours à six mois [*durée*] quiconque aura modifié les caractéristiques du sang d'une personne avant
+prélèvement en infraction aux dispositions de l'article L. 667, alinéas 3 et 4. 
+
+Sera punie de la même peine toute personne qui aura sciemment contrevenu à l'obligation d'assurance prescrite à l'article L.
+667, alinéa 5.
+
+**Nota:**
+
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1271-1 (M)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. L671-1 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique L667 AL. 3, AL. 4, AL. 5
 
 
 ###### Article L676
