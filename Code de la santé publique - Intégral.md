@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-08-07
+Version Consolidée au 1993-08-29
 
 # Partie législative ancienne
 
@@ -35735,26 +35735,24 @@ pourront prononcer l'interdiction du territoire français, pour une durée de de
 pour les délits prévus par les articles L. 626, L. 627-2, L. 628, L. 628-4 et L. 630. Ils pourront prononcer l'interdiction
 définitive du territoire français contre tout étranger condamné pour les délits prévus à l'article L. 627.
 
-Toutefois, l'interdiction du territoire français ne sera pas applicable à l'encontre :
+L'interdiction du territoire français n'est pas applicable à l'encontre du condamné étranger mineur de dix-huit ans.
 
-1° D'un condamné étranger mineur de dix-huit ans ;
+Le tribunal ne peut prononcer que par une décision spécialement motivée au regard de la gravité de l'infraction
+l'interdiction du territoire français à l'encontre :
 
-2° D'un condamné étranger père ou mère d'un enfant français résidant en France, à la condition qu'il exerce, même
-partiellement, l'autorité parentale à l'égard de cet enfant ou qu'il subvienne effectivement à ses besoins ;
+1° D'un condamné étranger père ou mère d'un enfant français résidant en France, à condition qu'il exerce, même partiellement,
+l'autorité parentale à l'égard de cet enfant ou qu'il subvienne effectivement à ses besoins ;
 
-3° D'un condamné étranger marié depuis au moins six mois avec un conjoint de nationalité française à condition que ce mariage
-soit antérieur aux faits ayant entraîné sa condamnation ;
+2° D'un condamné étranger marié depuis au moins un an avec un conjoint de nationalité française, à condition que ce mariage
+soit antérieur aux faits ayant antraîné sa condamnation, que la communauté de vie n'ait pas cessé et que le conjoint ait
+conservé la nationalité française ;
 
-4° D'un condamné étranger titulaire d'une rente d'accident de travail ou de maladie professionnelle servie par un organisme
-français et dont le taux d'incapacité permanente est égal ou supérieur à 20 p. 100.
+3° D'un condamné étranger qui justifie qu'il réside habituellement en France depuis qu'il a atteint au plus l'âge de dix
+ans ;
 
-L'interdiction du territoire français ne sera également pas applicable à l'égard du condamné étranger qui justifie :
+4° D'un condamné étranger qui justifie qu'il réside régulièrement en France depuis plus de quinze ans.
 
-1° Soit qu'il réside habituellement en France depuis qu'il a atteint au plus l'âge de dix ans ou depuis plus de quinze ans ;
-
-2° Soit qu'il réside régulièrement en France depuis plus de dix ans.
-
-Les dispositions des huit alinéas précédents ne s'appliquent pas en cas de condamnation pour la production ou la fabrication
+Les dispositions des cinq alinéas précédents ne s'appliquent pas en cas de condamnation pour la production ou la fabrication
 de plantes vénéneuses classées comme stupéfiants ou pour l'importation ou l'exportation desdites substances, ou en cas de
 condamnation pour association formée ou entente établie en vue de commettre ces infractions.
 
@@ -35779,9 +35777,13 @@ l'expiration de sa peine d'emprisonnement.
 
 	  - Loi n°90-1010 du 14 novembre 1990 - art. 13 (M)
 
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 223 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993, prorogée le 1er mars 1994
+
 	**Modifié par**:
 
-	  - Loi n°91-1383 du 31 décembre 1991 - art. 27 () JORF 1er janvier 1992
+	  - Loi n°93-1027 du 24 août 1993 - art. 35 () JORF 29 août 1993
 
 
 ###### Article L630-2
@@ -71395,49 +71397,6 @@ homologué et ne pouvant être ni utilisé, ni mis sur le marché".
 	**Cite**:
 
 	  - Code de la santé publique - art. R5274 (Ab)
-
-
-#### Chapitre 4 : Visa des spécialités anciennes
-
-##### Section 1 : Spécialités pharmaceutiques.
-
-###### Article R5272
-
-Tout fabricant de spécialités pharmaceutiques, qui a adressé au ministre de la santé publique et de la population, dans les
-délais prescrits à l'article L. 665, une demande en vue d'obtenir le visa pour une spécialité pharmaceutique, débitée
-antérieurement à la loi du 11 septembre 1941, est autorisé à poursuivre la vente de cette spécialité jusqu'à ce que le
-ministre ait pris une décision sur celle-ci après examen par le comité technique des spécialités.
-
-Un récépissé est adressé au demandeur en vue de lui permettre d'établir la situation régulière du médicament. Ce récépissé
-est établi sans examen préalable de la spécialité.
-
-Au cas où le comité technique constaterait que le médicament présente un danger pour la santé publique, le refus de visa peut
-être prononcé dans les formes et selon la procédure prévue pour le retrait du visa à l'article R. 5126.
-
-Le recours qui serait éventuellement adressé par le fabricant au ministre est instruit dans les formes prévues à l'article R.
-5124.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°93-982 du 5 août 1993 - art. 14 (Ab) JORF 7 août 1993
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L665 (Ab)
-	  - Code de la santé publique - art. R5124 (M)
-	  - Code de la santé publique - art. R5126 (M)
-	  - Loi n°1941-09-11
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R5124-33 (V)
 
 
 ## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires
