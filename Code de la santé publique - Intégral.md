@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1957-04-05
+Version Consolidée au 1958-10-24
 
 # Partie législative ancienne
 
@@ -24758,22 +24758,6 @@ L'Etat, pour les sources dont il est propriétaire, est dispensé du cautionneme
 	**Anciens textes**:
 
 	  - Loi n°1856-07-14 ART. 11
-
-
-###### Article L746
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Ordonnance 58-997 1958-10-23 art. 56 JORF 24 octobre 1958
 
 
 ##### Section 2 : Dispositions pénales.
