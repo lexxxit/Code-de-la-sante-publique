@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-08-05
+Version Consolidée au 1994-10-07
 
 # Partie législative ancienne
 
@@ -74492,6 +74492,106 @@ Des régies de recettes et d'avances peuvent être instituées dans les conditio
 	**Abrogé par**:
 
 	  - Décret n°99-142 du 4 mars 1999 - art. 7 () JORF 5 mars 1999
+
+
+###### Article R5089-24-1
+
+En application du 3° de l'article L. 567-7, les services rendus par l'Agence du médicament à la demande de tiers donnent lieu
+à la perception de redevances en ce qui concerne :
+
+a) Le contrôle et la fourniture de substances de référence de la Pharmacopée française ;
+
+b) Les expertises concernant les produits cosmétiques ;
+
+c) Les analyses et le contrôle des eaux ;
+
+d) Les expertises concernant les produits et procédés désinfectants ;
+
+e) La délivrance annuelle des annales de qualité des laboratoires d'analyse de biologie médicale ;
+
+f) La délivrance des attestations de qualité destinées aux exportateurs de médicaments ;
+
+g) Le contrôle en vue de la libération des lots de produits immunologiques, vaccins et allergènes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-862 du 30 septembre 1994 - art. 1 () JORF 7 octobre 1994
+
+	**Cité par**:
+
+	  - Arrêté du 30 septembre 1994 - art. 1 (Ab)
+	  - Code de la santé publique - art. R5089-24-2 (Ab)
+	  - Code de la santé publique - art. R5089-24-3 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 30 septembre 1994 - art. 1 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°99-142 du 4 mars 1999 - art. 7 () JORF 5 mars 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L567-7 (M)
+
+
+###### Article R5089-24-2
+
+Un arrêté conjoint du ministre chargé de la santé et du ministre chargé du budget fixe les tarifs des redevances mentionnées
+à l'article R. 5089-24-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-862 du 30 septembre 1994 - art. 1 () JORF 7 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-142 du 4 mars 1999 - art. 7 () JORF 5 mars 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5089-24-1 (Ab)
+
+
+###### Article R5089-24-3
+
+Des prestations autres que celles visées à l'article R. 5089-24-1 peuvent donner lieu à la perception de recettes au titre
+des produits divers mentionnés au 4° de l'article L. 567-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-862 du 30 septembre 1994 - art. 1 () JORF 7 octobre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-142 du 4 mars 1999 - art. 7 () JORF 5 mars 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L567-7 (M)
+	  - Code de la santé publique - art. R5089-24-1 (Ab)
 
 
 #### Chapitre 7 : Dispositions relatives au personnel
