@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1995-02-05
+Version Consolidée au 1995-02-07
 
 # Partie législative ancienne
 
@@ -108461,6 +108461,56 @@ d'obstétrique ou de soins de suite ou de réadaptation.
 
 ##### Sous-section 4 : Regroupements et reconversions
 
+###### Article D712-13-2
+
+I. - Lorsque le regroupement de lits et places est autorisé, en application du premier alinéa de l'article L. 712-11, à
+l'intérieur d'une zone sanitaire dont les moyens sont excédentaires dans la discipline ou le groupe de disciplines en cause,
+la réduction de capacité est opérée dans les conditions suivantes :
+
+1° Pour chaque discipline ou groupe de disciplines concerné, le nombre de lits et places excédentaires dans la zone sanitaire
+est obtenu en comparant les capacités autorisées avec les besoins de la population déterminés par la carte sanitaire ;
+
+2° Le taux d'excédent de la zone sanitaire pour la discipline ou le groupe de disciplines concerné est obtenu en divisant le
+nombre des lits ou places excédentaires par le nombre des lits ou places autorisés ;
+
+3° Pour chaque discipline ou groupe de disciplines, la capacité susceptible d'être autorisée dans le cadre de l'opération du
+regroupement est obtenue en diminuant la capacité initiale autorisée d'un nombre de lits ou places égal au produit de ladite
+capacité initiale par le taux d'excédent ;
+
+4° Toutefois, le nombre total des lits et places supprimés ne peut être supérieur à un plafond fixé à 25 p. 100 du nombre
+total des lits et places des établissements, services ou unités faisant l'objet du regroupement, en excluant de ce calcul le
+plus important d'entre eux. Lorsque la somme (R) des réductions propres à chaque discipline, calculée en application des 1°,
+2° et 3° ci-dessus, dépasse le nombre (P) résultant de l'application du plafond, le nombre total des lits ou places à
+supprimer est ramené à ce nombre P. A cet effet, la réduction propre à chaque discipline est multipliée par un coefficient
+égal à :
+
+PR
+
+II. - Lorsque le regroupement est autorisé en application des deuxième et troisième alinéas de l'article L. 712-11, la
+réduction de capacité s'opère dans les mêmes conditions que celles définies au I du présent article. Toutefois, pour le
+calcul prévu au 3° du I, il est tenu compte du taux d'excédent le plus élevé des secteurs ou groupes de secteurs concernés
+par l'opération de regroupement et le plafond mentionné en 4° du I est porté à 40 p. 100.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-121 du 31 janvier 1995 - art. 1 () JORF 7 février 1995
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-13-3 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-11 (M)
+
+
 ###### Article D712-13-3
 
 Lorsqu'un établissement de santé concerné par un regroupement a conclu un contrat pluriannuel dans les conditions prévues à
@@ -109223,57 +109273,6 @@ médicaux assurant les fonctions et actes cités aux articles D. 712-43 et D. 71
 
 	  - Code de la santé publique - art. D712-43 (M)
 	  - Code de la santé publique - art. D712-47 (M)
-
-
-#### Chapitre 2 : L'organisation et l'équipement sanitaires
-
-##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire
-
-##### Sous-section 4 : Regroupements et reconversions
-
-###### Article D712-13-2
-
-Lorsque le regroupement de lits et de places est autorisé, en application de l'article L. 712-11, à l'intérieur d'une zone
-sanitaire dont les moyens sont excédentaires dans la discipline ou le groupe de disciplines en cause, la réduction de
-capacité prévue à l'article L. 712-11 est opérée dans les conditions suivantes :
-
-1° Pour chaque discipline ou groupe de disciplines concerné, le nombre de lits et places excédentaires dans la zone sanitaire
-est obtenu en comparant les capacités autorisées avec les besoins de la population déterminés par la carte sanitaire ;
-
-2° Le taux d'excédent de la zone sanitaire pour la discipline ou le groupe de disciplines concerné est obtenu en divisant le
-nombre des lits ou places excédentaires par le nombre des lits ou places autorisés ;
-
-3° Pour chaque discipline ou groupe de disciplines, la capacité susceptible d'être autorisée dans le cadre de l'opération du
-regroupement est obtenue en diminuant la capacité initiale autorisée d'un nombre de lits ou places égal au produit de ladite
-capacité initiale par le taux d'excédent ;
-
-4° Toutefois, le nombre total des lits et places supprimés ne peut être supérieur à un plafond fixé à 25 p. 100 du nombre
-total des lits et places des établissements, services ou unités faisant l'objet du regroupement, en excluant de ce calcul le
-plus important d'entre eux. Lorsque la somme (R) des réductions propres à chaque discipline, calculée en application des 1°,
-2° et 3° ci-dessus, dépasse le nombre (P) résultant de l'application du plafond, le nombre total des lits ou places à
-supprimer est ramené à ce nombre P. A cet effet, la réduction propre à chaque discipline est multipliée par un coefficient
-égal à :
-
-PR
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°92-1373 du 24 décembre 1992 - art. 1 () JORF 30 décembre 1992
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. D712-13-3 (Ab)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L712-11 (M)
 
 
 #### Chapitre IV : Les établissements publics de santé
