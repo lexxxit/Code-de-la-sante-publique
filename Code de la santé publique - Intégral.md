@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1988-10-14
+Version Consolidée au 1988-10-15
 
 # Partie législative ancienne
 
@@ -35985,35 +35985,6 @@ sont convoqués à l'assemblée plénière du conseil supérieur, avec voix dél
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-## LIVRE 9 : PERSONNEL
-
-### TITRE UNIQUE : STATUT GENERAL DU PERSONNEL DES ETABLISSEMENTS D'HOSPITALISATION PUBLICS ET DE CERTAINS ETABLISSEMENTS A CARACTERE SOCIAL
-
-#### CHAPITRE 1 : DISPOSITIONS GENERALES.
-
-###### Article L793
-
-Toute organisation syndicale d'agents soumis au présent statut est tenue d'effectuer, dans les deux mois de sa création
-[*délai*], le dépôt de ses statuts et de la liste de ses administrateurs auprès de l'autorité hiérarchique dont dépendent les
-agents appelés à en faire partie. Pour les organisations syndicales déjà existantes, le dépôt ci-dessus doit être effectué
-dans les deux mois à compter du 22 mai 1955.
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-	**Abrogé par**:
-
-	  - Décret n°88-981 1988-10-13 art. 29 JORF 15 octobre 1988
-
-	**Cité par**:
-
-	  - Décret n°88-981 du 13 octobre 1988 - art. 29 (T)
-	  - Décret n°88-981 du 13 octobre 1988 - art. 34 (Ab)
-
-
 ## Livre IX : Personnel
 
 ### Titre unique : Statut général du personnel des établissements d'hospitalisation publics et de certains établissements à caractère social
@@ -36707,52 +36678,6 @@ Les tableaux d'avancement doivent être portés à la connaissance du personnel 
 	**Abrogé par**:
 
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I sous réserve art. 5 2° JORF 22 juin 2000
-
-
-###### Article L825
-
-Si l'autorité investie du pouvoir de nomination s'oppose pendant deux années successives à l'inscription au tableau d'un
-agent ayant fait l'objet, lors de l'établissement de chaque tableau annuel, d'une proposition de la commission d'avancement,
-la commission peut, à la requête de l'intéressé, saisir, dans un délai de quinze jours, la commission des recours prévue à
-l'article L. 803.
-
-Après examen de la valeur professionnelle de l'agent et appréciation de ses aptitudes à remplir les fonctions du grade
-supérieur, la commission des recours, compte tenu des observations produites par l'autorité compétente pour justifier sa
-décision, émet soit un avis motivé déclarant qu'il n'y a pas lieu de donner suite à la requête dont elle a été saisie, soit
-une recommandation motivée invitant l'autorité compétente à procéder à l'inscription dont il s'agit.
-
-Lorsqu'il a été passé outre à son avis défavorable, la commission d'avancement peut également saisir la commission des
-recours. Celle-ci émet, dans les conditions prévues à l'alinéa précédent, soit un avis motivé déclarant qu'il n'y a pas lieu
-de donner suite à la requête dont elle a été saisie, soit une recommandation motivée invitant l'autorité compétente à rayer
-du tableau l'agent dont il s'agit. Cette radiation n'a aucun caractère disciplinaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Anciens textes**:
-
-	  - Décret n°55-683 1955-05-20 art. 34
-
-	**Modifié par**:
-
-	  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-	**Abrogé par**:
-
-	  - Décret n°88-981 1988-10-13 art. 29 JORF 15 octobre 1988
-
-	**Cité par**:
-
-	  - Décret n°88-981 du 13 octobre 1988 - art. 29 (T)
-	  - Décret n°88-981 du 13 octobre 1988 - art. 34 (Ab)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L803 (Ab)
 
 
 ###### Article L826
