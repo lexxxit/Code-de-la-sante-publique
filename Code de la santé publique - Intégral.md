@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1975-05-27
+Version Consolidée au 1975-05-30
 
 # Partie législative ancienne
 
@@ -24248,6 +24248,1711 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L5121-16 (M)
 
 
+#### Chapitre 3 : Pharmacie vétérinaire
+
+##### Section 1 : Définitions
+
+###### Article L606
+
+On entend par médicament vétérinaire tout médicament destiné à l'animal, tel que défini à l'article L. 511 du présent code.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-409 1975-05-29 art. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU Décret 1001 DU 5 OCTOBRE 1953
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L511 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5141-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617 (Ab)
+	  - Code de la santé publique - art. L618 (M)
+	  - Code de la santé publique - art. L762 (Ab)
+	  - Code de la santé publique - art. R5093 (M)
+	  - Code de la santé publique - art. R5146-8 (Ab)
+	  - Code de la santé publique - art. R5268 (Ab)
+	  - Code rural ancien - art. 255-1 (Ab)
+
+
+###### Article L607
+
+On entend par médicament préfabriqué tout médicament vétérinaire préparé à l'avance, présenté sous une forme pharmaceutique
+utilisable sans transformation.
+
+On entend par spécialité pharmaceutique pour usage vétérinaire tout médicament vétérinaire préparé à l'avance, présenté sous
+un conditionnement particulier et caractérisé par une dénomination spéciale.
+
+On entend par prémélange tout médicament vétérinaire préparé à l'avance et exclusivement destiné à la fabrication ultérieure
+d'aliments médicamenteux.
+
+Est considéré comme médicament vétérinaire l'aliment médicamenteux défini comme étant tout mélange préparé à l'avance de
+médicament et d'aliment et présenté pour être administré aux animaux sans transformation, dans un but thérapeutique,
+préventif ou curatif, au sens de l'article L. 511, alinéa 1er, du présent code.
+
+Est considéré comme médicament vétérinaire tout produit antiparasitaire à usage vétérinaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-409 1975-05-29 ART. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU DECRET 1001 DU 5 OCTOBRE 1953
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Cité par**:
+
+	  - Décret n°86-1037 du 15 septembre 1986 - art. 2 (Ab)
+	  - Arrêté du 27 janvier 1998 - art. 1 (V)
+	  - Code de la santé publique - art. L549 (Ab)
+	  - Code de la santé publique - art. L617 (Ab)
+	  - Code de la santé publique - art. L617-18 (Ab)
+	  - Code de la santé publique - art. R145-5-2 (Ab)
+	  - Code de la santé publique - art. R145-7 (T)
+	  - Code de la santé publique - art. R5093 (Ab)
+	  - Code de la santé publique - art. R5146-16 (Ab)
+	  - Code de la santé publique - art. R5146-26 (M)
+	  - Code de la santé publique - art. R5146-8 (Ab)
+	  - Code de la santé publique - art. R5153-10 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5141-11 (M)
+	  - Code de la santé publique - art. L5141-2 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique L511 AL. 1
+
+
+###### Article L608
+
+N'est pas considéré comme médicament vétérinaire [*non*] l'aliment supplémenté défini comme étant tout aliment destiné aux
+animaux contenant, sans qu'il soit fait mention de propriétés curatives ou préventives, certaines substances ou compositions
+visées au même article L. 511 ; la liste de ces substances ou compositions, leur destination, leur mode d'utilisation et leur
+taux maximal de concentration sont fixés par arrêté conjoint du ministre de la santé et du ministre de l'agriculture.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-409 1975-05-29 art. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU Décret 1001 DU 5 OCTOBRE 1953
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Cité par**:
+
+	  - Arrêté du 15 septembre 1955 - art. 1 (V)
+	  - Code de la santé publique - art. L617-18 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L511 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5141-3 (M)
+
+
+###### Article L609
+
+On entend par préparation extemporanée toute préparation qui n'est pas faite à l'avance.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-409 1975-05-29 art. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU Décret 1001 DU 5 OCTOBRE 1953
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Cité par**:
+
+	  - Arrêté du 27 janvier 1998 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5143-1 (M)
+
+
+##### Section 2 : Préparation extemporanée et vente au détail
+
+##### Paragraphe 1 : Plein exercice.
+
+###### Article L610
+
+Seuls peuvent préparer extemporanément les médicaments vétérinaires, les détenir en vue de leur cession aux utilisateurs et
+les délivrer au détail, à titre gratuit ou onéreux [*compétence*] :
+
+a) Les pharmaciens titulaires d'une officine ;
+
+b) Sans toutefois qu'ils aient le droit de tenir officine ouverte, les docteurs vétérinaires inscrits au tableau de l'ordre,
+lorsqu'il s'agit des animaux auxquels ils donnent personnellement leurs soins dans le cadre de leur clientèle ou de leur
+activité à temps plein au sein des élevages de groupements tels que mentionnés à l'article L. 612.
+
+La même faculté est accordée aux chefs des services de pharmacie et toxicologie des écoles nationales vétérinaires pour le
+traitement des animaux admis en consultation ou hospitalisés.
+
+Les dispositions du présent article ne sont pas applicables à la détention en vue de la cession aux utilisateurs ni à la
+délivrance au détail, à titre gratuit ou onéreux, de produits antiparasitaires destinés au traitement externe des animaux de
+compagnie [*domestiques*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-409 1975-05-29 ART. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU DECRET 1001 DU 5 OCTOBRE 1953
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-24 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L617-24 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Modifié par**:
+
+	  - Loi n°78-699 1978-07-06 ART. 5 JORF 7 juillet 1978
+
+	**Cité par**:
+
+	  - Loi n°82-899 du 20 octobre 1982 - art. 2 (Ab)
+	  - Arrêté du 22 février 1990 - art. 1 (V)
+	  - Code de déontologie vétérinaire. - art. 1 (Ab)
+	  - Code de la santé publique - art. L610-1 (Ab)
+	  - Code de la santé publique - art. L617-14 (Ab)
+	  - Code de la santé publique - art. L617-18 (Ab)
+	  - Code de la santé publique - art. L617-21 (Ab)
+	  - Code de la santé publique - art. L617-24 (Ab)
+	  - Code de la santé publique - art. R5145 (Ab)
+	  - Code de la santé publique - art. R5146-15 bis (Ab)
+	  - Code de la santé publique - art. R5146-43 (Ab)
+	  - Code de la santé publique - art. R5146-50 (M)
+	  - Code de la santé publique - art. R5171 (Ab)
+	  - Code de la santé publique - art. R5184 (Ab)
+	  - Code rural ancien - art. 309-7-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5143-2 (M)
+	  - Code de la santé publique - art. L5442-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L612 (M)
+
+
+###### Article L611
+
+La délivrance au détail, à titre gratuit ou onéreux, des médicaments vétérinaires visés à l'article L. 617-6 du présent code,
+sauf lorsqu'il s'agit de médicaments contenant des substances toxiques ou vénéneuses à doses exonérées, est subordonnée à la
+rédaction par un docteur vétérinaire d'une ordonnance qui sera obligatoirement remise à l'utilisateur [*condition*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-409 1975-05-29 ART. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU DECRET 1001 DU 5 OCTOBRE 1953
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5146-57 (M)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Cité par**:
+
+	  - Arrêté du 31 mars 1983 - art. 1 (V)
+	  - Code de la santé publique - art. R5146-33 (Ab)
+	  - Code de la santé publique - art. R5146-44 (Ab)
+	  - Code de la santé publique - art. R5146-51 (M)
+	  - Code de la santé publique - art. R5146-57 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5143-5 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L617-6 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°42-277 1942-02-08 ART. 1
+
+
+##### Paragraphe 2 : Exercice soumis à restrictions.
+
+###### Article L612
+
+Les groupements reconnus de producteurs, les groupements professionnels agricoles dont l'action concourt à l'organisation de
+la production animale et qui justifient d'un encadrement technique et sanitaire suffisant et d'une activité économique réelle
+d'une part, les groupements de défense sanitaire d'autre part, peuvent, s'ils sont agréés à cet effet par arrêté du ministre
+de l'agriculture, acheter aux établissements de préparation, de vente en gros ou de distribution en gros, détenir et délivrer
+à leurs membres, pour l'exercice exclusif de leur activité, les médicaments vétérinaires à l'exclusion de ceux ayant fait
+l'objet d'obligations particulières au titre de l'article L. 617-6 [*organismes compétents*].
+
+Toutefois, ces groupements peuvent également acheter en gros et détenir ceux des médicaments visés à l'article L. 617-6 qui
+figurent sur une liste arrêtée conjointement par le ministre de la santé et le ministre de l'agriculture et qui sont
+nécessaires à la mise en oeuvre des programmes sanitaires d'élevage visés au quatrième alinéa du présent article. Ces
+produits sont délivrés aux adhérents du groupement sur présentation d'une ordonnance du vétérinaire du groupement, qui revêt
+la forme d'une prescription détaillée, adaptant aux caractéristiques propres de chaque élevage, le programme sanitaire agréé.
+
+Les groupements visés au premier alinéa devront recevoir l'agrément du ministre de l'agriculture, sur proposition de
+commissions comprenant en nombre égal des représentants de l'administration, des représentants des organisations
+professionnelles agricoles et des représentants des vétérinaires et pharmaciens. La composition de ces commissions sera fixée
+par décret du ministre de l'agriculture et du ministre de la santé.
+
+L'agrément est, dans l'un et l'autre cas, subordonné à l'engagement de mettre en oeuvre un programme sanitaire d'élevage
+approuvé par le ministre de l'agriculture, après avis des commissions visées au précédent alinéa et dont l'exécution est
+placée sous la surveillance et la responsabilité effectives d'un docteur vétérinaire visitant personnellement et
+régulièrement l'élevage.
+
+Cet agrément est retiré par un arrêté du ministre de l'agriculture si les conditions ayant motivé son octroi ne sont plus
+satisfaites.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1977-05-23 MODIFIE PAR Arrêté 1978-03-03 : LISTE DE MEDICAMENTS
+	  - SPEC_APPLI: Loi n°75-409 1975-05-29 ART. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU DECRET 1001 DU 5 OCTOBRE 1953
+	  - TXT_ASSOCIE: Décret n°77-306 1977-03-24 : COMPOSITION DE LA COMMISSION
+	  - TXT_SOURCE: Décret n°77-306 du 24 mars 1977
+	  - TXT_SOURCE: Décret n°77-306 du 24 mars 1977 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°77-306 du 24 mars 1977 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°77-306 du 24 mars 1977 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°77-306 du 24 mars 1977 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°77-306 du 24 mars 1977 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°81-815 du 31 août 1981
+	  - TXT_SOURCE: Décret n°81-815 du 31 août 1981 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°81-815 du 31 août 1981 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-24 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L617-15 : DISPOSITIONS TRANSITOIRES
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Cité par**:
+
+	  - Décret n°77-306 du 24 mars 1977 - art. 1 (Ab)
+	  - Décret n°77-306 du 24 mars 1977 - art. 3 (Ab)
+	  - Décret n°81-815 du 31 août 1981 - art. 1 (Ab)
+	  - Arrêté du 25 juillet 1995 - art. 1 (Ab)
+	  - Arrêté du 2 septembre 1999 - art. 1 (V)
+	  - Arrêté du 2 septembre 1999 - art. 5 (V)
+	  - Arrêté du 5 juin 2000 - art. 5 (V)
+	  - Code de déontologie vétérinaire. - art. 1 (Ab)
+	  - Code de la santé publique - art. L610 (M)
+	  - Code de la santé publique - art. L617 (Ab)
+	  - Code de la santé publique - art. L617-15 (Ab)
+	  - Code de la santé publique - art. L617-18 (Ab)
+	  - Code de la santé publique - art. L617-21 (Ab)
+	  - Code de la santé publique - art. L617-24 (Ab)
+	  - Code de la santé publique - art. L617-6 (Ab)
+	  - Code de la santé publique - art. R5145 (Ab)
+	  - Code de la santé publique - art. R5146-15 bis (Ab)
+	  - Code de la santé publique - art. R5146-43 (M)
+	  - Code de la santé publique - art. R5146-53-1 (Ab)
+	  - Code de la santé publique - art. R5146-56 (Ab)
+	  - Code de la santé publique - art. R5171 (M)
+	  - Code de la santé publique - art. R5195 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5441-2 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°42-277 1942-02-08 ART. 2
+
+
+###### Article L613
+
+L'acquisition, la détention et la délivrance des médicaments détenus par les groupements visés à l'alinéa 1er de l'article L.
+612 doivent être faites sous le contrôle d'un docteur vétérinaire ou d'un pharmacien participant effectivement à la direction
+technique du groupement. En tous les cas, ce pharmacien ou docteur vétérinaire est personnellement responsable de
+l'application des dispositions législatives et réglementaires concernant les médicaments vétérinaires sans préjudice, le cas
+échéant, de la responsabilité solidaire du groupement.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-409 1975-05-29 art. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU Décret 1001 DU 5 OCTOBRE 1953
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-25 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L617-25 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de déontologie vétérinaire. - art. 1 (Ab)
+	  - Code de la santé publique - art. L617-25 (Ab)
+	  - Code rural ancien - art. 309-7-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5143-8 (V)
+	  - Code de la santé publique - art. L5441-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique L612 AL. 1
+
+	**Anciens textes**:
+
+	  - Loi n°42-277 1942-02-08 art. 3
+
+
+##### Paragraphe 3 : Modalités d'exercice
+
+###### Article L614
+
+Il est interdit de solliciter auprès du public des commandes de médicaments vétérinaires par l'entremise de courtiers ou par
+tout moyen et de satisfaire de telles commandes [*démarchage*].
+
+Il est en outre interdit à toute personne, à l'exception des docteurs vétérinaires dans l'exercice de leur art, de vendre des
+médicaments vétérinaires à domicile.
+
+La cession à titre gratuit ou onéreux de médicaments vétérinaires est interdite sur la voie publique, dans les foires,
+marchés et manifestations publiques, à toute personne, même titulaire du diplôme de pharmacien ou de docteur vétérinaire.
+
+Lorsqu'un docteur vétérinaire est conduit à prescrire des médicaments autorisés et préparés pour l'usage humain, le
+pharmacien qui délivrera ces produits devra signaler sur l'emballage que ces produits deviennent des produits vétérinaires et
+rendre inutilisables les vignettes qui pourraient accompagner ces médicaments [*obligation*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5143-9 (V)
+	  - Code de la santé publique - art. L5442-3 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-24 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L617-24 : DISPOSITIONS PENALES
+	  - SPEC_APPLI: Loi n°75-409 1975-05-29 art. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU Décret 1001 DU 5 OCTOBRE 1953
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617-24 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°42-277 1942-02-08 art. 4
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+##### SECTION 3 : PREPARATION INDUSTRIELLE ET VENTE EN GROS
+
+##### PARAGRAPHE 1 : ETABLISSEMENTS DE PREPARATION ET DE VENTE EN GROS.
+
+###### Article L615
+
+Tout établissement de préparation, de vente en gros ou de distribution en gros de médicaments vétérinaires doit être la
+propriété [*obligation*] d'un pharmacien, d'un docteur vétérinaire ou d'une société à la gestion ou à la direction générale
+de laquelle participe un pharmacien ou un docteur vétérinaire. Dans tous les cas, ces pharmaciens ou docteurs vétérinaires
+sont personnellement responsables de l'application des dispositions législatives et réglementaires concernant les médicaments
+vétérinaires sans préjudice, le cas échéant, de la responsabilité solidaire de la société.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-409 1975-05-29 ART. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU DECRET 1001 DU 5 OCTOBRE 1953
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-24 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L617-24 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Cité par**:
+
+	  - Décret n°79-885 du 11 octobre 1979 - art. 2 (Ab)
+	  - Arrêté du 9 mai 1995 - art. 2 (Ab)
+	  - Arrêté du 25 juillet 1995 - art. 3 (Ab)
+	  - Arrêté du 5 mai 1997 - art. 1 (Ab)
+	  - Arrêté du 13 octobre 1998 - art. 25 (Ab)
+	  - Loi n°99-223 du 23 mars 1999 - art. 4 (Ab)
+	  - Arrêté du 2 septembre 1999 - art. 3 (V)
+	  - Arrêté du 28 février 2000 - art. 10 (Ab)
+	  - Arrêté du 27 octobre 1977 - art. 1 (Ab)
+	  - Code de déontologie vétérinaire. - art. 1 (Ab)
+	  - Code de déontologie vétérinaire. - art. 13 (Ab)
+	  - Code de la santé publique - art. L616 (Ab)
+	  - Code de la santé publique - art. L617-11 (Ab)
+	  - Code de la santé publique - art. L617-16 (Ab)
+	  - Code de la santé publique - art. L617-18 (Ab)
+	  - Code de la santé publique - art. L617-21 (Ab)
+	  - Code de la santé publique - art. L617-24 (Ab)
+	  - Code de la santé publique - art. R5015-68 (Ab)
+	  - Code de la santé publique - art. R5145 (Ab)
+	  - Code de la santé publique - art. R5146-10 (Ab)
+	  - Code de la santé publique - art. R5146-11 (Ab)
+	  - Code de la santé publique - art. R5146-15 (Ab)
+	  - Code de la santé publique - art. R5146-16 (Ab)
+	  - Code de la santé publique - art. R5146-17 (Ab)
+	  - Code de la santé publique - art. R5146-17 bis (Ab)
+	  - Code de la santé publique - art. R5146-53-2 (M)
+	  - Code de la santé publique - art. R5146-54 (Ab)
+	  - Code de la santé publique - art. R5146-6 (Ab)
+	  - Code de la santé publique - art. R5146-7 (Ab)
+	  - Code de la santé publique - art. R5171 (M)
+	  - Code de la santé publique - art. R5196 (Ab)
+	  - Code de la santé publique - art. R5219 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5142-1 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°42-277 1942-02-08 ART. 5
+
+
+###### Article L616
+
+Tout établissement dans lequel sont préparés, vendus en gros ou distribués en gros des médicaments vétérinaires, doit faire
+l'objet d'une autorisation administrative [*obligation*] qui peut être suspendue ou supprimée en cas d'infraction aux
+dispositions du présent chapitre ou des règlements pris pour son application.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-409 1975-05-29 ART. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU DECRET 1001 DU 5 OCTOBRE 1953
+	  - TXT_SOURCE: Arrêté du 9 mai 1995
+	  - TXT_SOURCE: Arrêté du 9 mai 1995 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 mai 1995 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 mai 1995 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 mai 1995 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 mai 1995 - art. 5 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 mai 1995 - art. 6 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 mai 1995 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 mai 1995 - art. 8 (Ab)
+	  - TXT_SOURCE: Arrêté du 9 mai 1995 - art. 9 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-25 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L617-25 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Cité par**:
+
+	  - Décret n°95-106 du 31 janvier 1995 - art. 6 (V)
+	  - Arrêté du 9 mai 1995 - art. 1 (Ab)
+	  - Décret n°96-1061 du 5 décembre 1996 - art. 7 (V)
+	  - Arrêté du 10 décembre 1996 - art. 2 (V)
+	  - Arrêté du 19 mai 2005 - art. 16 (Ab)
+	  - Arrêté du 27 octobre 1977 - art. 1 (Ab)
+	  - Code de la santé publique - art. L617-16 (Ab)
+	  - Code de la santé publique - art. L617-18 (Ab)
+	  - Code de la santé publique - art. L617-25 (Ab)
+	  - Code de la santé publique - art. R5146-1 (Ab)
+	  - Code de la santé publique - art. R5146-2 (M)
+	  - Code de la santé publique - art. R5146-27 (Ab)
+	  - Code de la santé publique - art. R5146-3 (Ab)
+	  - Code de la santé publique - art. R5146-5 (Ab)
+	  - Code de la santé publique - art. R5184 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5142-2 (V)
+	  - Code de la santé publique - art. L5441-5 (V)
+	  - Code de la santé publique - art. L5441-6 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°42-277 1942-02-08 ART. 6
+
+
+###### Article L617
+
+Les établissements mentionnés au présent paragraphe ne sont pas autorisés à délivrer au public les médicaments vétérinaires
+définis aux articles L. 606 et L. 607 du présent code [*interdiction*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-409 1975-05-29 ART. 2 : ABROGE ET REMPLACE LE TEXTE ISSU DU DECRET 1001 DU 5 OCTOBRE 1953
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-25 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L617-25 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5142-4 (M)
+	  - Code de la santé publique - art. L5441-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L606 (Ab)
+	  - Code de la santé publique - art. L607 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617-25 (Ab)
+	  - Code de la santé publique - art. R5146-51 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°42-277 1942-02-08 ART. 7
+
+
+##### PARAGRAPHE 2 : AUTORISATION DE MISE SUR LE MARCHE.
+
+###### Article L617-1
+
+Aucun médicament vétérinaire ne peut être délivré au public s'il n'a reçu, au préalable, une autorisation de mise sur le
+marché délivrée par arrêté conjoint du ministre de la santé et du ministre de l'agriculture [*condition*].
+
+Aucun prémélange ne peut être délivré au public [*interdiction*]. Il ne peut être utilisé pour la fabrication d'aliments
+médicamenteux s'il n'a reçu au préalable l'autorisation prévue à l'alinéa ci-dessus.
+
+L'autorisation de mise sur le marché peut être assortie de conditions adéquates, notamment lorsqu'elle porte sur des produits
+susceptibles de faire apparaître des résidus dans les denrées alimentaires provenant des animaux traités.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Loi n°68-1 du 2 janvier 1968 - art. 3 bis (Ab)
+	  - Loi n°84-609 du 16 juillet 1984 - art. 2 (Ab)
+	  - Décret n°94-601 du 12 juillet 1994 - art. 1 (Ab)
+	  - Arrêté du 18 août 1998 - art. 3 (V)
+	  - Décret n°99-553 du 2 juillet 1999 - art. 15 (Ab)
+	  - Code de la propriété intellectuelle - art. L611-3 (V)
+	  - Code de la santé publique - art. L610-2 (Ab)
+	  - Code de la santé publique - art. L617-17 (Ab)
+	  - Code de la santé publique - art. L617-18 (Ab)
+	  - Code de la santé publique - art. L617-24 (Ab)
+	  - Code de la santé publique - art. L617-3 (Ab)
+	  - Code de la santé publique - art. L617-3-1 (Ab)
+	  - Code de la santé publique - art. L617-4 (Ab)
+	  - Code de la santé publique - art. R5146-26 (M)
+	  - Code de la santé publique - art. R5146-55-1 (Ab)
+	  - Code de la santé publique - art. R5201 (Ab)
+	  - Code rural ancien - art. 254 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-24 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5146-55-1 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L617-24 : DISPOSITIONS PENALES
+
+
+###### Article L617-2
+
+L'autorisation de mise sur le marché n'est accordée que lorsque le fabricant justifie [*conditions d'attribution*] :
+
+1° Qu'il a fait procéder à la vérification de l'innocuité du produit dans les conditions normales d'emploi et de son effet
+thérapeutique, à la détermination du temps d'attente ainsi qu'à son analyse qualitative et quantitative ;
+
+2° Qu'il dispose effectivement d'une méthode de fabrication et de procédés de contrôle de nature à garantir la qualité du
+produit au stade de fabrication en série.
+
+Il faut entendre par temps d'attente le délai à observer entre l'administration du médicament à l'animal dans les conditions
+normales d'emploi et l'utilisation des denrées alimentaires provenant de cet animal pour garantir que ces denrées
+alimentaires ne contiennent pas de résidus pouvant présenter des dangers pour la santé du consommateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Arrêté du 6 août 1971 - art. 1 (V)
+	  - Loi n°84-609 du 16 juillet 1984 - art. 2 (Ab)
+	  - Code de la santé publique - art. L610-2 (Ab)
+	  - Code de la santé publique - art. L617-17 (Ab)
+	  - Code de la santé publique - art. L617-18 (Ab)
+	  - Code de la santé publique - art. L617-6 (Ab)
+	  - Code de la santé publique - art. R5146-18 (M)
+	  - Code de la santé publique - art. R5146-26 (M)
+	  - Code de la santé publique - art. R5146-32 (M)
+	  - Code de la santé publique - art. R5146-34 (M)
+	  - Code rural ancien - art. 254 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5141-6 (M)
+	  - Code de la santé publique - art. L5511-14 (M)
+
+
+###### Article L617-3
+
+L'autorisation de mise sur le marché est délivrée pour une durée de cinq ans ; elle est renouvelable par période
+quinquennale.
+
+Elle peut être suspendue ou supprimée par décision conjointe du ministre de la santé et du ministre de l'agriculture
+[*autorités compétentes*].
+
+L'accomplissement des formalités prévues au présent paragraphe n'a pas pour effet d'exonérer le fabricant ou, s'il est
+distinct, le titulaire de l'autorisation de mise sur le marché, de la responsabilité que l'un ou l'autre peut encourir dans
+les conditions du droit commun en raison de la fabrication ou de la mise sur le marché des médicaments vétérinaires
+mentionnés à l'article L. 617-1.
+
+L'autorisation de mise sur le marché peut être refusée à une spécialité pharmaceutique vétérinaire de même composition
+qualitative et quantitative qu'une autre spécialité pour laquelle le même fabricant a déjà obtenu une autorisation sous une
+autre dénomination [*motif*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L617-1 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617-17 (Ab)
+	  - Code de la santé publique - art. R5146-34 (M)
+	  - Code de la santé publique - art. R5146-35 (M)
+
+
+###### Article L617-4
+
+L'importation des médicaments vétérinaires est subordonnée à une autorisation [*condition*] délivrée par le ministre de la
+santé [*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5142-7 (M)
+	  - Code de la santé publique - art. L5441-8 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617-1 (Ab)
+	  - Code de la santé publique - art. L617-24 (Ab)
+	  - Code de la santé publique - art. R5146-55 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-24 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L617-24 : DISPOSITIONS PENALES
+
+
+###### Article L617-5
+
+Toute demande d'autorisation de mise sur le marché d'un médicament vétérinaire doit être accompagnée du versement d'un droit
+fixe [*frais*].
+
+Les frais complémentaires pouvant résulter de l'instruction des demandes sont à la charge du pétitionnaire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Cité par**:
+
+	  - Décret n°79-422 du 21 mai 1979 - art. 1 (Ab)
+	  - Décret n°88-478 du 29 avril 1988 - art. 14 (Ab)
+	  - Décret n°88-478 du 29 avril 1988 - art. 19-2 (Ab)
+	  - Décret n°94-601 du 12 juillet 1994 - art. 1 (Ab)
+	  - Code de la santé publique - art. R5146-26 (Ab)
+	  - Code de la santé publique - art. R5146-33-9 (Ab)
+	  - Code de la santé publique - art. R794-29 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°94-601 du 12 juillet 1994
+	  - TXT_SOURCE: Décret n°94-601 du 12 juillet 1994 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°94-601 du 12 juillet 1994 - art. 2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5141-8 (M)
+
+
+##### Section 4 : Dispositions particulières à certaines matières destinées au diagnostic, à la prévention et au traitement des maladies des animaux.
+
+###### Article L617-7
+
+Seuls les vétérinaires et les laboratoires de diagnostic agréés par le ministre de l'agriculture [*compétence*] ont le droit
+de détenir les préparations destinées au diagnostic, à la prévention ou au traitement de la tuberculose et de la brucellose
+des animaux et d'en faire usage dans les conditions déterminées par arrêté conjoint du ministre de la santé et du ministre de
+l'agriculture et sous un contrôle dont les modalités sont fixées par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5141-12 (V)
+	  - Code de la santé publique - art. L5441-9 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617-18 (Ab)
+	  - Code de la santé publique - art. L617-24 (Ab)
+	  - Code de la santé publique - art. R5146-55-2 (Ab)
+	  - Code rural ancien - art. 311-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-24 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5146-55-2 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5146-55-3 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5146-55-4 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5146-55-5 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5146-55-6 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L617-24 : DISPOSITIONS PENALES
+
+
+##### Section 5 : Dispositions diverses
+
+###### Article L617-8
+
+Si les disponibilités en médicaments vétérinaires sont insuffisantes pour faire face aux nécessités de la lutte contre une
+épizootie, le ministre de l'agriculture [*autorité compétente*] peut, en vue d'assurer la répartition de ces médicaments au
+mieux des besoins nationaux, faire obligation aux fabricants, importateurs et détenteurs de ces médicaments de déclarer la
+totalité de leurs productions, de leurs importations et de leurs stocks.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5142-5 (V)
+	  - Code de la santé publique - art. L5441-7 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617-25 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-25 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L617-25 : DISPOSITIONS PENALES
+
+
+###### Article L617-9
+
+Sans préjudice de l'application des dispositions de l'article 37 de la loi n° 68-1 du 2 janvier 1968, les brevets délivrés
+pour les médicaments vétérinaires peuvent également, lorsque l'économie de l'élevage l'exige, être soumis au régime de la
+licence d'office par arrêté du ministre de l'industrie et de la recherche sur la demande du ministre de l'agriculture.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°68-1 1968-01-02 art. 37
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5141-13 (V)
+
+
+###### Article L617-10
+
+Toute exclusivité de vente de médicaments vétérinaires au bénéfice d'une ou plusieurs catégories de revendeurs est interdite.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5141-14 (V)
+	  - Code de la santé publique - art. L5441-7 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617-25 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-25 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L617-25 : DISPOSITIONS PENALES
+
+
+###### Article L617-11
+
+La publicité concernant les médicaments vétérinaires et les établissements [*de préparation et de vente en gros*] mentionnés
+à l'article L. 615 du présent code n'est autorisée que sous certaines conditions fixées par voie réglementaire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5141-15 (T)
+	  - Code de la santé publique - art. L5142-8 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L615 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617-27 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L617-27 : DISPOSITIONS PENALES
+
+
+##### Section 6 : Dispositions transitoires.
+
+###### Article L617-12
+
+Pour l'application du présent chapitre, sont assimilées aux docteurs vétérinaires les personnes admises dans les écoles
+nationales vétérinaires avant le 28 mars 1924 [*date limite*] et titulaires du diplôme d'Etat de vétérinaire [*condition
+d'exercice*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Cité par**:
+
+	  - Arrêté du 9 novembre 1987 - art. 2 (V)
+	  - Décret n°88-478 du 29 avril 1988 - art. 9 (Ab)
+	  - Code de la santé publique - art. L617-14 (Ab)
+	  - Code de la santé publique - art. L617-21 (M)
+	  - Code de la santé publique - art. R5146-43 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°92-650 du 13 juillet 1992 - art. 15 () JORF 16 juillet 1992
+
+
+###### Article L617-13
+
+Les personnes qui effectuent les interventions fixées par l'avant-dernier alinéa de l'article 340 du code rural peuvent
+acheter aux établissements de préparation, de vente en gros ou de distribution en gros, détenir et utiliser pour les besoins
+exclusifs de leur profession et à condition qu'elles les administrent elles-mêmes aux animaux, les médicaments vétérinaires
+inscrits sur une liste établie par arrêté conjoint du ministre de la santé et du ministre de l'agriculture.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1977-12-14 JORF 6 janvier : LISTE DES MEDICAMENTS
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Abrogé par**:
+
+	  - Loi n°92-650 du 13 juillet 1992 - art. 15 () JORF 16 juillet 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617-14 (Ab)
+	  - Code de la santé publique - art. L617-21 (M)
+	  - Code de la santé publique - art. R5145 (M)
+	  - Code de la santé publique - art. R5146-15 bis (M)
+	  - Code de la santé publique - art. R5146-43 (M)
+
+	**Cite**:
+
+	  - Code rural 340
+
+
+###### Article L617-14
+
+A titre transitoire, les personnes physiques ne remplissant pas les conditions exigées aux articles L. 610, L. 617-12 et L.
+617-13 et les personnes morales pratiquant habituellement et depuis deux ans au moins à la date d'entrée en vigueur du
+présent article la vente au public des médicaments vétérinaires [*durée*] sont autorisées à continuer, pendant cinq ans
+[*durée*], l'exercice de leur profession dans les conditions prévues par la législation précédemment en vigueur.
+
+Toutefois, leur activité est limitée aux médicaments dont la liste est fixée par arrêté conjoint du ministre de la santé et
+du ministre de l'agriculture.
+
+Les intéressés doivent demander leur inscription [*obligation*] sur un registre spécial à la préfecture du département de
+leur domicile et fournir toutes justifications utiles. Cette inscription donne lieu à la délivrance d'un récépissé valant
+autorisation qui doit être présenté à toute réquisition des autorités compétentes.
+
+En cas d'infraction aux dispositions du présent livre et des règlements pris pour son application, l'autorisation peut être
+retirée par arrêté conjoint du ministre de la santé et du ministre de l'agriculture.
+
+A l'échéance de la quatrième année qui suivra la promulgation de la loi n° 75-409 du 29 mai 1975, le Gouvernement présentera
+au Parlement un rapport précisant dans quelles conditions sera réalisée la reconversion des personnes physiques ou morales
+visées par le présent article et en particulier les moyens mis en oeuvre pour le reclassement des cadres et salariés employés
+dans les activités concernées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Loi n°75-409 1975-05-29
+	  - Code de la santé publique - art. L610 (M)
+	  - Code de la santé publique - art. L617-12 (Ab)
+	  - Code de la santé publique - art. L617-13 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Abrogé par**:
+
+	  - Loi n°92-650 du 13 juillet 1992 - art. 15 () JORF 16 juillet 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617-21 (M)
+	  - Code de la santé publique - art. R5146-43 (M)
+
+
+###### Article L617-15
+
+Pour les groupements [*de producteurs ou de défense sanitaire*] mentionnés à l'article L. 612 exerçant leur activité à la
+date d'entrée en vigueur du présent article, la demande d'agrément donne lieu à délivrance d'un récépissé valant autorisation
+jusqu'à ce qu'il soit statué sur la demande.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Abrogé par**:
+
+	  - Loi n°92-650 du 13 juillet 1992 - art. 15 () JORF 16 juillet 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L612 (M)
+
+
+###### Article L617-16
+
+Un délai d'un an à compter de la date de publication du décret prévu pour l'application des articles L. 615 et L. 616 est
+accordé aux établissements effectivement ouverts à la date de publication de la loi n° 75-409 du 29 mai 1975, pour satisfaire
+aux obligations qui s'imposent à eux au titre de ces articles.
+
+L'exploitation des établissements est autorisée jusqu'à ce qu'il soit statué sur la demande introduite en vue d'obtenir
+l'autorisation prévue à l'article L. 616.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Loi n°75-409 1975-05-29
+	  - Code de la santé publique - art. L615 (M)
+	  - Code de la santé publique - art. L616 (M)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Abrogé par**:
+
+	  - Loi n°92-650 du 13 juillet 1992 - art. 15 () JORF 16 juillet 1992
+
+
+###### Article L617-17
+
+Dans un délai d'un an à compter de la publication du décret prévu pour l'application des articles L. 617-1 à L. 617-3, il
+doit être déposé une demande [*obligation*], établie conformément aux dispositions de l'article L. 617-2 et tendant à
+obtenir, pour les médicaments vétérinaires mentionnés à l'article L. 617-1 et mis en vente antérieurement à la date de
+publication de la loi n° 75-409 du 29 mai 1975, l'autorisation de mise sur le marché prévue audit article.
+
+La vente de ces médicaments vétérinaires demeure autorisée jusqu'à ce qu'il soit statué sur la demande ainsi déposée.
+
+**Nota:**
+
+[*Nota : Loi 84-609 du 16 juillet 1984 art. 4 : La disposition du second alinéa cesse de s'appliquer aux médicaments
+contenant des substances anabolisantes, à compter du 17 novembre 1984.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°75-409 1975-05-29
+	  - Code de la santé publique - art. L617-1 (M)
+	  - Code de la santé publique - art. L617-2 (M)
+	  - Code de la santé publique - art. L617-3 (M)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°84-609 du 16 juillet 1984 - art. 4 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°84-609 du 16 juillet 1984 - art. 4 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+##### Section 7 : Modalités d'application.
+
+###### Article L617-18
+
+Des décrets en Conseil d'Etat déterminent en tant que de besoin :
+
+Les droits et obligations de la personne responsable au sein de la société au sens de l'article L. 615 et les conditions dans
+lesquelles les pharmaciens ou docteurs vétérinaires responsables peuvent se faire assister ou remplacer par d'autres
+pharmaciens ou docteurs vétérinaires ;
+
+Les règles concernant le conditionnement, l'étiquetage et la dénomination des médicaments vétérinaires et des aliments
+supplémentés mentionnés aux articles L. 607 et L. 608 du présent code, ainsi que les conditions d'acquisition, de détention,
+de délivrance et d'utilisation des médicaments visés à l'article L. 612 ;
+
+Les conditions d'inscription au tableau de l'ordre de tous les pharmaciens visés par la loi n° 75-409 du 29 mai 1975, autres
+que les pharmaciens visés à l'article L. 610 ;
+
+Les justifications, y compris celles qui sont relatives à l'étiquetage, qui doivent être fournies à l'appui des demandes
+d'autorisation de mise sur le marché et qui comprennent obligatoirement la vérification, par des experts agréés ou désignés
+par le ministre de l'agriculture, de l'existence des propriétés définies à l'article L. 617-2 ;
+
+Les conditions dans lesquelles interviennent les décisions accordant, renouvelant, suspendant ou supprimant une autorisation
+administrative telle que prévue par l'article L. 616 ou une autorisation de mise sur le marché ainsi que les règles de
+procédure applicables aux recours ouverts contre lesdites décisions ;
+
+Les règles applicables à l'expérimentation des médicaments ;
+
+Les règles applicables en cas de changement de titulaire de l'autorisation de mise sur le marché ;
+
+Les conditions auxquelles est subordonné la publicité concernant les médicaments vétérinaires et les établissements
+mentionnés à l'article L. 615 ;
+
+Les obligations particulières applicables à la fabrication, la détention, la vente ou la cession à titre gratuit des
+substances énumérées à l'article L. 617-6 ;
+
+Les modalités de contrôle de la détention et de l'usage des préparations mentionnées à l'article L. 617-7 ;
+
+Les conditions d'application du présent chapitre aux départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Loi n°75-409 1975-05-29
+	  - Code de la santé publique - art. L607 (M)
+	  - Code de la santé publique - art. L608 (M)
+	  - Code de la santé publique - art. L610 (M)
+	  - Code de la santé publique - art. L612 (M)
+	  - Code de la santé publique - art. L615 (M)
+	  - Code de la santé publique - art. L616 (M)
+	  - Code de la santé publique - art. L617-2 (M)
+	  - Code de la santé publique - art. L617-6 (M)
+	  - Code de la santé publique - art. L617-7 (M)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5146-18 (Ab)
+	  - Code de la santé publique - art. R5146-19 (M)
+	  - Code de la santé publique - art. R5146-20 (Ab)
+
+
+###### Article L617-19
+
+Des décrets fixent les autres modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5144-3 (V)
+
+
+##### Section 8 : Inspection
+
+###### Article L617-20
+
+Le contrôle de l'application des dispositions du présent chapitre est assuré concurremment par les inspecteurs de la
+pharmacie, les vétérinaires inspecteurs et les agents du service de la répression des fraudes dans l'exercice de leurs
+fonctions [*autorités compétentes*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5146-1 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5146-21 (Ab)
+	  - Code de la santé publique - art. R5146-40 (Ab)
+	  - Code de la santé publique - art. R5146-56-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L617-23 : DISPOSITIONS PENALES
+
+
+###### Article L617-21
+
+Ces fonctionnaires [*attributions*] contrôlent dans les établissements exploités par les personnes physiques ou morales
+mentionnées aux articles L. 610, L. 612, L. 615, L. 617-12, L. 617-13 et L. 617-14, ainsi que dans les dépôts de médicaments
+vétérinaires, en quelque main qu'ils se trouvent, l'exécution des prescriptions du présent chapitre.
+
+Les denrées alimentaires d'origine animale seront contrôlées en vue de la recherche de résidus médicamenteux, toxiques ou
+dangereux.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5146-2 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L562 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L610 (M)
+	  - Code de la santé publique - art. L612 (M)
+	  - Code de la santé publique - art. L615 (M)
+	  - Code de la santé publique - art. L617-12 (Ab)
+	  - Code de la santé publique - art. L617-13 (Ab)
+	  - Code de la santé publique - art. L617-14 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L617-23 : DISPOSITIONS PENALES
+
+
+###### Article L617-22
+
+Indépendamment des officiers de police judiciaire et des agents de police judiciaire désignés à l'article 20 du code de
+procédure pénale, les inspecteurs de la pharmacie, les vétérinaires inspecteurs et les agents du service de la répression des
+fraudes [*autorités compétentes*] ont qualité pour rechercher et constater les infractions aux dispositions du présent
+chapitre et des articles L. 213-1 et s. du code de la consommation en ce qu'il concerne les médicaments vétérinaires ainsi
+que des textes pris pour leur application.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+[*Nota : Loi 93-949 du 26 juillet 1993 art. 4 : les références à la loi du 1er août 1905 sont remplaçées par les références
+au code de la consommation correspondantes.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°93-949 1993-07-26 art. 4
+	  - TXT_ASSOCIE: Code de la santé publique L617-23 : DISPOSITIONS PENALES
+
+	**Cite**:
+
+	  - Code de la consommation - art. L213-1 (M)
+	  - CODE DE PROCEDURE PENALE - art. 20 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5411-1 (M)
+	  - Code de la santé publique - art. L5414-2 (M)
+
+
+##### Section 9 : Dispositions pénales et mesures administratives
+
+###### Article L617-23
+
+Quiconque fait obstacle à l'exercice des fonctions des personnes chargées de l'inspection régie par la section VIII du
+présent chapitre est passible des peines prévues aux articles L. 213-1, L. 213-5 et L. 216-3 du code de la consommation, sans
+préjudice des peines prévues par les articles 209 et suivants du code pénal.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+[*Nota : Loi 93-949 du 26 juillet 1993 art. 4 : les références à la loi du 1er août 1905 sont remplaçées par les références
+au code de la consommation correspondantes.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°93-949 1993-07-26 art. 4
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la consommation - art. L213-1 (M)
+	  - Code de la consommation - art. L213-5 (M)
+	  - Code de la consommation - art. L216-3 (M)
+	  - Code pénal 209
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5414-3 (Ab)
+	  - Code de la santé publique - art. L5414-3 (V)
+
+
+###### Article L617-24
+
+Toute infraction aux articles L. 610, L. 612, L. 614, L. 615, L. 617-1, L. 617-4 et L. 617-7 du présent code est punie d'une
+amende de 2.000 à 30.000 F [*montant*] et, en cas de récidive, d'une amende de 4.000 à 60.000 F et d'un emprisonnement de dix
+jours à six mois [*durée*] ou de l'une de ces deux peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5441-10 (V)
+	  - Code de la santé publique - art. L5441-2 (V)
+	  - Code de la santé publique - art. L5441-4 (V)
+	  - Code de la santé publique - art. L5441-8 (M)
+	  - Code de la santé publique - art. L5441-9 (V)
+	  - Code de la santé publique - art. L5442-1 (V)
+	  - Code de la santé publique - art. L5442-2 (V)
+	  - Code de la santé publique - art. L5442-3 (V)
+	  - Code de la santé publique - art. L5442-4 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L610 (M)
+	  - Code de la santé publique - art. L612 (M)
+	  - Code de la santé publique - art. L614 (Ab)
+	  - Code de la santé publique - art. L615 (M)
+	  - Code de la santé publique - art. L617-1 (M)
+	  - Code de la santé publique - art. L617-4 (M)
+	  - Code de la santé publique - art. L617-7 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L610-1 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L610-2 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+
+
+###### Article L617-26
+
+Le tribunal pourra, en outre, ordonner la fermeture temporaire ou définitive de l'établissement.
+
+Lorsque l'autorité judiciaire aura été saisie d'une poursuite pour infraction aux dispositions du présent chapitre, le préfet
+[*autorité compétente*] pourra, si l'intérêt de l'hygiène publique ou de la santé animale l'exige, prononcer la fermeture
+provisoire de l'établissement.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5442-4 (T)
+
+
+###### Article L617-27
+
+En cas de condamnation pour infraction aux dispositions de l'article L. 617-11 ou des règlements pris pour l'application
+dudit article, le tribunal pourra interdire la vente du produit faisant l'objet d'une publicité irrégulière.
+
+Sont passibles des peines qui pourront être prévues pour les infractions à l'article L. 617-11 et aux règlements pris pour
+l'application dudit article, les personnes qui bénéficient d'une publicité irrégulière et les agents de diffusion de cette
+publicité.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5442-5 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L617-11 (Ab)
+
+
 #### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurité sociale
 
 ##### Section 1 : Agrément pour les collectivités publiques.
@@ -26267,26 +27972,6 @@ herboristes sont autorisés à vendre, à condition d'avoir fourni les justifica
 
 
 #### Chapitre 2 : Dispositions spéciales pour l'exercice de la pharmacie dans les départements de la Guadeloupe, de la Guyane francaise, de la Martinique et de la Réunion.
-
-###### Article L661
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Loi n°75-409 1975-05-29 art. 4 JORF 30 mai 1975
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R5268 (Ab)
-
 
 ###### Article L662
 
