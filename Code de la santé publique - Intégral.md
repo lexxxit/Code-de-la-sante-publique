@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-02-01
+Version Consolidée au 1994-02-11
 
 # Partie législative ancienne
 
@@ -33807,17 +33807,14 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 ###### Article L617-1
 
 Exception faite des aliments médicamenteux, aucun médicament vétérinaire ne peut être délivré au public s'il n'a reçu, au
-préalable, une autorisation de mise sur le marché délivrée par arrêté conjoint du ministre de la santé et du ministre de
-l'agriculture [*interdiction, condition*].
+préalable, une autorisation de mise sur le marché délivrée par l'autorité administrative.
 
-Toutefois, lorsque la situation sanitaire l'exige, la commercialisation ou l'utilisation d'un médicament vétérinaire autorisé
-par un autre Etat membre de la Communauté peut être autorisée par décision conjointe du ministre chargé de l'agriculture et
-du ministre chargé de la santé.
+Toutefois, lorsque la situation sanitaire l'exige [*condition*], la commercialisation ou l'utilisation d'un médicament
+vétérinaire autorisé par un autre Etat membre de la Communauté européenne peut être autorisée par l'autorité administrative.
 
-En cas d'épizootie et sans préjudice des dispositions de l'article L. 617-4, le ministre chargé de l'agriculture et le
-ministre chargé de la santé peuvent, par décision conjointe, autoriser pour une durée limitée, l'utilisation de médicaments
-vétérinaires immunologiques n'ayant pas fait l'objet d'une autorisation de mise sur le marché, en l'absence de médicaments
-vétérinaires adéquats.
+En cas d'épizootie et sans préjudice des dispositions de l'article L. 617-4, l'autorité administrative peut autoriser, en
+l'absence de médicaments vétérinaires adéquats, l'utilisation, pour une durée limitée, de médicaments vétérinaires
+immunologiques n'ayant pas fait l'objet d'une autorisation de mise sur le marché.
 
 Aucun prémélange médicamenteux ne peut être délivré au public [*interdiction*]. Il ne peut être utilisé pour la fabrication
 d'aliments médicamenteux s'il n'a reçu au préalable l'autorisation prévue à l'alinéa ci-dessus. Cette autorisation comporte
@@ -33864,7 +33861,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°94-43 du 18 janvier 1994 - art. 34 () JORF 19 janvier 1994
+	  - Loi n°94-114 du 10 février 1994 - art. 1 () JORF 11 février 1994
 
 	**Liens**:
 
@@ -33941,19 +33938,16 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 ###### Article L617-3
 
 L'autorisation de mise sur le marché est délivrée pour une durée de cinq ans ; elle est renouvelable par période
-quinquennale.
+quinquennale. Toutefois, les médicaments contenant des substances actives figurant à l'annexe III du règlement n° 90-2377
+(CEE) précité ne sont autorisés que pour la période pour laquelle a été fixée la limite maximale de résidus provisoire. Au
+cas où cette période serait prolongée, l'autorisation peut être reconduite pour une durée équivalente.
 
-Toutefois, les médicaments contenant des substances actives figurant à l'annexe III du règlement n° 90-2377 (C.E.E.) précité
-ne sont autorisés que pour la période pour laquelle a été fixée la limite maximale de résidus provisoire. Au cas où cette
-période serait prolongée, l'autorisation peut être reconduite pour une durée équivalente.
-
-Elle peut être suspendue ou supprimée par décision conjointe du ministre de la santé et du ministre de l'agriculture
-[*autorités compétentes*].
+Elle peut être suspendue ou supprimée par l'autorité administrative [*compétente*].
 
 L'accomplissement des formalités prévues au présent paragraphe n'a pas pour effet d'exonérer le fabricant ou, s'il est
 distinct, le titulaire de l'autorisation de mise sur le marché, de la responsabilité que l'un ou l'autre peut encourir dans
 les conditions du droit commun en raison de la fabrication ou de la mise sur le marché des médicaments vétérinaires
-mentionnés à l'article L. 617-1.
+mentionnés à l'article L.  617-1.
 
 L'autorisation de mise sur le marché peut être refusée à une spécialité pharmaceutique vétérinaire de même composition
 qualitative et quantitative qu'une autre spécialité pour laquelle le même fabricant a déjà obtenu une autorisation sous une
@@ -33973,7 +33967,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°92-650 du 13 juillet 1992 - art. 12 () JORF 16 juillet 1992 rectificatif JORF 4 novembre 1992
+	  - Loi n°94-114 du 10 février 1994 - art. 1 () JORF 11 février 1994
 
 	**Cite**:
 
@@ -33989,17 +33983,15 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L617-4
 
-L'importation des médicaments vétérinaires est subordonnée à une autorisation [*condition*] délivrée par le ministre chargé
-de la santé [*autorité compétente*] ; en ce qui concerne, toutefois, les médicaments vétérinaires d'origine biologique, cette
-autorisation est accordée par le ministre chargé de l'agriculture. Un décret en Conseil d'Etat détermine les conditions
-auxquelles est subordonnée cette autorisation.
+L'importation de médicaments vétérinaires est subordonnée à une autorisation de l'autorité administrative. Un décret en
+Conseil d'Etat détermine les conditions auxquelles est subordonnée cette autorisation.
+
+L'autorisation de mise sur le marché prévue au premier alinéa de l'article L. 617-1 vaut autorisation d'importation au sens
+de l'alinéa précédent.
 
 Lorsque l'état sanitaire l'exige, l'importation d'un médicament vétérinaire qui n'a pas fait l'objet d'une autorisation de
-mise sur le marché peut être autorisée par une décision conjointe du ministre chargé de l'agriculture et du ministre chargé
-de la santé ; cette décision fixe les conditions d'utilisation de ces médicaments.
-
-L'autorisation de mise sur le marché prévue au premier alinéa de l'article L. 617-1 du présent code vaut autorisation
-d'importation au sens de l'alinéa précédent.
+mise sur le marché peut être autorisée par décision de l'autorité administrative ; cette décision fixe les conditions
+d'utilisation de ce médicament.
 
 **Nota:**
 
@@ -34015,7 +34007,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°94-43 du 18 janvier 1994 - art. 34 () JORF 19 janvier 1994
+	  - Loi n°94-114 du 10 février 1994 - art. 1 () JORF 11 février 1994
 
 	**Nouveaux textes**:
 
@@ -34036,8 +34028,12 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L617-5
 
-Toute demande d'autorisation de mise sur le marché d'un médicament vétérinaire doit être accompagnée du versement d'un droit
-fixe [*frais*].
+Toute demande d'autorisation de mise sur le marché est accompagnée du versement d'un droit [*frais*] progressif dont le
+montant est fixé par décret dans la limite maximale de 100 000 F. Ce droit est versé, à compter de la publication de la loi
+n° 94-114 du 10 février 1994 portant diverses dispositions concernant l'agriculture, au Centre national d'études vétérinaires
+et alimentaires au profit de l'Agence nationale du médicament vétérinaire.
+
+Les dispositions du III de l'article L. 602-3 sont applicables à ce droit.
 
 Les frais complémentaires pouvant résulter de l'instruction des demandes sont à la charge du pétitionnaire.
 
@@ -34053,10 +34049,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
-
 	**Cité par**:
 
 	  - Décret n°79-422 du 21 mai 1979 - art. 1 (Ab)
@@ -34066,6 +34058,15 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. R5146-26 (Ab)
 	  - Code de la santé publique - art. R5146-33-9 (Ab)
 	  - Code de la santé publique - art. R794-29 (Ab)
+
+	**Cite**:
+
+	  - Loi n°94-114 1994-02-10
+	  - Code de la santé publique - art. L602-3 (M)
+
+	**Modifié par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 1 () JORF 11 février 1994
 
 	**Liens**:
 
@@ -34154,7 +34155,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 ###### Article L617-7
 
 La préparation des autovaccins à usage vétérinaire doit être effectuée par une personne qualifiée ayant obtenu à cet effet
-une autorisation des ministres chargés de l'agriculture et de la santé [*compétence*].
+une autorisation administrative.
 
 **Nota:**
 
@@ -34167,10 +34168,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Modifié par**:
-
-	  - Loi n°92-650 du 13 juillet 1992 - art. 14 () JORF 16 juillet 1992
 
 	**Nouveaux textes**:
 
@@ -34193,6 +34190,10 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - TXT_ASSOCIE: Code de la santé publique - art. R5146-55-5 (Ab)
 	  - TXT_ASSOCIE: Code de la santé publique - art. R5146-55-6 (Ab)
 	  - TXT_ASSOCIE: Code de la santé publique L617-24 : DISPOSITIONS PENALES
+
+	**Modifié par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 1 () JORF 11 février 1994
 
 
 ##### Section 5 : Dispositions diverses
@@ -34406,6 +34407,97 @@ s'applique à la collectivité territoriale de Mayotte.*]
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
+##### Section 5 bis : Agence nationale du médicament vétérinaire
+
+###### Article L617-12
+
+Il est créé, au sein du Centre national d'études vétérinaires et alimentaires, une Agence nationale du médicament
+vétérinaire, placée sous la tutelle conjointe du ministre chargé de l'agriculture et du ministre chargé de la santé.
+
+Le directeur de l'Agence nationale du médicament vétérinaire est nommé, après avis du directeur général du Centre national
+d'études vétérinaires et alimentaires, par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de la
+santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 9 novembre 1987 - art. 2 (V)
+	  - Décret n°88-478 du 29 avril 1988 - art. 9 (Ab)
+	  - Code de la santé publique - art. L617-14 (Ab)
+	  - Code de la santé publique - art. L617-21 (M)
+	  - Code de la santé publique - art. R5146-43 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 1 () JORF 11 février 1994
+
+
+###### Article L617-13
+
+Le directeur général du Centre national d'études vétérinaires et alimentaires prend, au nom de l'Etat, les décisions qui
+relèvent de la compétence du centre en vertu des dispositions du présent chapitre et des règlements pris pour leur
+application. Il peut déléguer sa signature au directeur de l'agence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 1 () JORF 11 février 1994
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 12 () JORF 2 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617-14 (Ab)
+	  - Code de la santé publique - art. L617-21 (M)
+	  - Code de la santé publique - art. R5145 (M)
+	  - Code de la santé publique - art. R5146-15 bis (M)
+	  - Code de la santé publique - art. R5146-43 (M)
+
+
+###### Article L617-14
+
+Les agents contractuels et les personnes collaborant occasionnellement aux travaux de l'agence sont soumis aux dispositions
+de l'article L. 567-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-114 du 10 février 1994 - art. 1 () JORF 11 février 1994
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 12 () JORF 2 juillet 1998
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L567-6 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617-21 (M)
+	  - Code de la santé publique - art. R5146-43 (M)
+
+
 ##### Section 7 : Modalités d'application.
 
 ###### Article L617-18
@@ -34567,8 +34659,8 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 ###### Article L617-21
 
 Ces fonctionnaires [*attributions*] contrôlent dans les établissements exploités par les personnes physiques ou morales
-mentionnées aux articles L. 610, L. 612, L. 615, L. 617-12, L. 617-13 et L. 617-14, ainsi que dans les dépôts de médicaments
-vétérinaires, en quelque main qu'ils se trouvent, l'exécution des prescriptions du présent chapitre.
+mentionnées aux articles L. 610, L. 612 et L. 615, ainsi que dans les dépôts de médicaments vétérinaires, en quelque main
+qu'ils se trouvent, l'exécution des prescriptions du présent chapitre.
 
 Les denrées alimentaires d'origine animale seront contrôlées en vue de la recherche de résidus médicamenteux, toxiques ou
 dangereux.
@@ -34585,9 +34677,13 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+	  - Loi n°94-114 du 10 février 1994 - art. 1 () JORF 11 février 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -34602,9 +34698,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L610 (M)
 	  - Code de la santé publique - art. L612 (M)
 	  - Code de la santé publique - art. L615 (M)
-	  - Code de la santé publique - art. L617-12 (Ab)
-	  - Code de la santé publique - art. L617-13 (Ab)
-	  - Code de la santé publique - art. L617-14 (Ab)
 
 	**Liens**:
 
