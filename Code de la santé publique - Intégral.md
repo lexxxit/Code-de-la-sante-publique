@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-02-13
+Version Consolidée au 1994-03-01
 
 # Partie législative ancienne
 
@@ -3617,6 +3617,140 @@ conditions d'application de l'article L. 44-2 ci-dessus.
 
 #### Chapitre 6 : Dispositions pénales
 
+###### Article L45
+
+Les infractions aux interdictions prévues aux articles L. 39 (premier alinéa) et L. 43 et aux prescriptions de l'article L.
+43-1 sont punies d'une amende de 500.000 F (1) [*montant*] et d'un emprisonnement de trois ans [*durée*], ou de l'une de ces
+deux peines seulement.
+
+(1) Amende applicable depuis le 14 juillet 1970.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 8
+	  - Décret n°1938-05-24
+	  - Loi n°1902-02-15 art. 14, 18 ET 27
+	  - Loi n°42-342 1942-03-01 art. 5
+	  - Loi n°48-1363 1948-08-27 art. 3
+	  - Loi n°49-1531 1949-12-01 art. 2
+	  - Loi n°1949-12-01. du 1 décembre 1949 - art. 2 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1297 1958-12-23 art. 19 JORF 24 décembre 1958
+	  - Décret n°65-34 1965-01-11 art. 3 JORF 16 janvier 1965
+	  - Loi n°70-612 du 10 juillet 1970 - art. 11 () JORF 12 juillet 1970
+	  - Décret n°73-502 du 21 mai 1973 - art. 1 (Ab) JORF 27 mai 1973
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Décret n°73-502 du 21 mai 1973 - art. 1 (Ab)
+	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 153 (V)
+	  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
+	  - Code de la santé publique - art. L30 (Ab)
+	  - Code de la santé publique - art. L43 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1336-4 (M)
+	  - Code de la santé publique - art. L1336-4 (MMN)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L39 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L43 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L43-1 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L39 (Ab)
+	  - Code de la santé publique - art. L43-1 (Ab)
+
+
+###### Article L46
+
+Toute infraction aux articles L. 19, L. 20, L. 21 et L. 24 du présent code est punie d'un emprisonnement d'un an [*durée*] et
+d'une amende de 30.000 F (1) [*montant*] ou de l'une de ces deux peines seulement.
+
+Il en est de même des infractions à l'article L. 25 en ce qui concerne celles qui sont commises par des personnes privées,
+notamment par des concessionnaires de distribution d'eau.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1265 1958-12-20 art. 2 JORF 21 décembre 1958 date d'entrée en vigueur 21 juin 1959
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 153 (V)
+	  - Code de la santé publique - art. L23 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1324-3 (M)
+	  - Code de la santé publique - art. L1324-3 (V)
+	  - Code de la santé publique - art. L1525-18 (M)
+	  - Code de la santé publique - art. L1525-18 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L19 (Ab)
+	  - Code de la santé publique - art. L20 (M)
+	  - Code de la santé publique - art. L21 (Ab)
+	  - Code de la santé publique - art. L24 (Ab)
+	  - Code de la santé publique - art. L25 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L19 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L20 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L21 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L24 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L25 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 7
+	  - Décret n°55-512 1955-05-11
+
+
 ###### Article L47
 
 Quiconque, par négligence ou incurie, dégradera des ouvrages publics ou communaux destinés à recevoir ou à conduire des eaux
@@ -3629,30 +3763,17 @@ Est interdit sous les mêmes peines, l'abandon des cadavres d'animaux, des débr
 en général, des résidus d'animaux putrescibles dans les failles, gouffres, bétoires ou excavations de toute nature, autres
 que les fosses nécessaires au fonctionnement d'établissements classés.
 
-Tout acte volontaire de même nature sera puni des peines portées à l'article 257 du Code pénal.
+Tout acte volontaire de même nature sera puni d'une peine de trois ans d'emprisonnement [*durée*] et de 300 000 F (1)
+d'amende [*montant*]
+
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Nota:**
 
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code pénal R34, R35, 479, 480, 257
-
-	**Cité par**:
-
-	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 153 (V)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R1324-2 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
 
 	**Anciens textes**:
 
@@ -3661,7 +3782,258 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 218 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I sous réserve art. 5 1° JORF 22 juin 2000
+	  - Décret n°2003-462 2003-05-21 art. 4 JORF 27 mai 2003
+
+	**Cite**:
+
+	  - Code pénal R34, R35, 479, 480
+
+	**Cité par**:
+
+	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 153 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1324-4 (M)
+	  - Code de la santé publique - art. R1324-2 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
+###### Article L48
+
+Les infractions aux prescriptions des articles L. 1er à L. 7-1, L.  12, L. 14 et L. 17 à L. 40 ou des règlements pris pour
+leur application sont constatées par des officiers et agents de police judiciaire [*autorités compétentes*] conformément aux
+dispositions du Code de procédure pénale ainsi que par les inspecteurs de salubrité commissionnés à cet effet par le préfet
+et assermentés dans les conditions fixées par décret.
+
+Les procès-verbaux dressés par les inspecteurs de salubrité en ce domaine font foi jusqu'à preuve contraire.
+
+Les contraventions aux dispositions du règlement sanitaire départemental et des autres actes réglementaires, relatives à la
+propreté des voies et espaces publics, peuvent être également relevées par les agents spécialement habilités à constater par
+procès-verbaux les contraventions aux dispositions du code de la route concernant l'arrêt ou le stationnement des véhicules.
+
+Toute personne qui met obstacle à l'accomplissement des fonctions des inspecteurs de salubrité mentionnés à l'alinéa 1er est
+punie, en cas de récidive, d'une amende de 50.000 F (1) [*montant*].
+
+L'action publique pour la poursuite des infractions aux dispositions des articles L. 5 à L. 7-1 [*relatives aux
+vaccinations*] peut être exercée tant que l'intéressé n'a pas atteint un âge fixé par décret pour chaque catégorie de
+vaccination [*délai de prescription*].
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 10
+	  - Décret n°1953-10-05
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°64-643 1964-07-01 art. 5 JORF 2 juillet 1964
+	  - Loi n°78-788 1978-07-28 art. 12 JORF 29 juillet 1978
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Décret n°65-213 du 19 mars 1965 - art. 5 (Ab)
+	  - Loi n°75-1331 du 31 décembre 1975 - art. 9 (Ab)
+	  - Loi n°83-660 du 21 juillet 1983 - art. 4 (Ab)
+	  - Décret n°90-973 du 30 octobre 1990 - art. 2 (M)
+	  - Décret n°90-975 du 30 octobre 1990 - art. 2 (M)
+	  - Décret n°92-1436 du 30 décembre 1992 - art. 2 (Ab)
+	  - Décret n°92-1437 du 30 décembre 1992 - art. 8 (M)
+	  - Décret n°92-1437 du 30 décembre 1992 - art. 9 (T)
+	  - Loi n°92-1444 du 31 décembre 1992 - art. 21 (Ab)
+	  - Décret n°96-41 du 17 janvier 1996 - art. 2 (M)
+	  - Décret n°96-97 du 7 février 1996 - art. 8 (Ab)
+	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 155 (V)
+	  - Code de la consommation - art. L222-1 (M)
+	  - Code de la santé publique - art. L25-4 (Ab)
+	  - Code de la santé publique - art. L48-3 (Ab)
+	  - Code général des collectivités territoriales - art. L2512-16 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L12 (Ab)
+	  - Code de la santé publique - art. L14 (M)
+	  - Code de la santé publique L1 A L7-1, L12, L14, L17 A L40
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1312-1 (M)
+	  - Code de la santé publique - art. L1336-1 (M)
+	  - Code de la santé publique - art. L3116-1 (M)
+	  - Code de la santé publique - art. L3116-2 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
+###### Article L48-1
+
+Les contraventions aux règlements mentionnés à l'article L. 44-1 sont punies de l'amende prévue pour les contraventions de la
+5° classe en récidive [*montant*].
+
+Les dispositions du premier alinéa de l'article L. 629 du présent code [*confiscation des substances saisies*] seront en
+outre applicables.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Ordonnance 59-48 1959-01-06 art. 2 JORF 7 janvier 1959
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I sous réserve art. 5 1° JORF 22 juin 2000
+	  - Décret n°2003-462 2003-05-21 art. 4 JORF 27 mai 2003
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L44-1 (Ab)
+	  - Code de la santé publique - art. L629 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L44-4 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
+###### Article L48-2
+
+Quiconque aura utilisé les radiations ionisantes en infraction aux dispositions de l'article L. 44-2 et du décret en Conseil
+d'Etat prévu à l'article L. 44-3 sera puni d'une amende de 25.000 F (1) [*montant*].
+
+En cas de récidive, l'amende sera portée à 50.000 F (1) et un emprisonnement de six mois [*durée*] pourra, en outre, être
+prononcé.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Ordonnance 59-48 1959-01-06 art. 2 JORF 7 janvier 1959
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1336-5 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L44-2 (M)
+	  - Code de la santé publique - art. L44-3 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : non applicable aux ateliers et manufactures
+
+
+###### Article L48-3
+
+Les infractions aux prescriptions de l'article L. 43-1 [*relatif aux ilots insalubres*] sont constatées dans les conditions
+prévues aux alinéas premier et 2 de l'article L. 48. Toute personne qui met obstacle à l'accomplissement des fonctions des
+inspecteurs de salubrité [*autorités compétentes*] visés audit article, est punie d'une amende de 25.000 F (1) [*montant*].
+En outre, un emprisonnement de trois mois pourra être prononcé.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°70-612 du 10 juillet 1970 - art. 12 () JORF 12 juillet 1970
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1312-1 (M)
+	  - Code de la santé publique - art. L1312-2 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L43-1 (Ab)
+	  - Code de la santé publique - art. L48 (Ab)
 
 
 #### CHAPITRE 7 : DISPOSITIONS DIVERSES
@@ -4064,6 +4436,41 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 	  - Code de la santé publique - art. L6312-3 (M)
 
 
+###### Article L51-5
+
+Toute personne qui aura effectué un transport sanitaire sans agrément ou malgré le retrait d'agrément sera punie d'une peine
+de 25.000 F (1) [*montant*].
+
+En cas de condamnation par application de l'alinéa précédent et de commission du même délit dans un délai de cinq ans après
+l'expiration ou la prescription de la peine, l'amende encourue sera portée au double. En outre, le tribunal pourra interdire
+au condamné d'effectuer des transports sanitaires pendant un an au plus.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 4 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°86-11 du 6 janvier 1986 - art. 6 () JORF 7 janvier 1986
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6314-1 (M)
+
+
 ###### Article L51-6
 
 Dans chaque département, la mise en service par les personnes visées à l'article L. 51-2 ci-dessus de véhicules affectés aux
@@ -4209,6 +4616,47 @@ Les procès-verbaux dressés par ces agents feront foi jusqu'à preuve contraire
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L3116-3 (V)
+
+
+###### Article L54
+
+Tout fonctionnaire ou agent public, tout commandant ou officier d'un navire ou d'un aéronef, tout médecin qui, dans un
+document ou une déclaration, aura sciemment altéré ou dissimulé les faits ou qui aura négligé d'informer [*non*] l'autorité
+sanitaire de faits à sa connaissance qu'il était dans l'obligation de révéler en application des textes mentionnés à
+l'article L. 52, sera puni d'une peine de deux ans d'emprisonnement [*durée*] et d'une amende de 25.000 F (1) [*montant*] ou
+de l'une de ces deux peines seulement.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°89-555 du 8 août 1989 - art. 1 (Ab)
+	  - Code de l'aviation civile - art. L283-1 (VT)
+
+	**Modifié par**:
+
+	  - Loi n°65-510 1965-07-01 art. 2 JORF 2 juillet 1965
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3116-5 (M)
+	  - Code de la santé publique - art. L3116-5 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L52 (Ab)
 
 
 ### Titre 3 : Mesures d'hygiène particulières
@@ -4630,6 +5078,46 @@ l'article 378 du code pénal est remplacée par la référence aux peines fixée
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1343-3 (V)
+
+
+###### Article L145-5
+
+Sera puni d'une amende de 25 000 F [*montant*] (1) tout fabricant, importateur ou vendeur de préparation qui ne s'acquitte
+pas des obligations prévues à l'article L. 145-1.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Créé par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 36 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1343-2 (M)
+	  - Code de la santé publique - art. L1343-2 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L145-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-1 (Ab)
 
 
 ### Titre 5 : Dossier de suivi médical
@@ -6316,6 +6804,55 @@ Un décret en Conseil d'Etat fixera les conditions d'application du présent cha
 
 ##### Section 4 : Entrave à l'interruption volontaire de grossesse
 
+###### Article L162-15
+
+Sera puni d'un emprisonnement de deux ans [*durée*] et d'une amende de 30 000 F [*montant*] (1) ou de l'une de ces deux
+peines seulement le fait d'empêcher ou de tenter d'empêcher une interruption volontaire de grossesse ou les actes préalables
+prévus par les articles L. 162-3 à L. 162-8 :
+
+- soit en perturbant l'accès aux établissements visés à l'article L. 162-2 ou la libre circulation des personnes à
+l'intérieur de ces établissements ;
+
+- soit en exerçant des menaces ou tout acte d'intimidation à l'encontre des personnels médicaux et non médicaux travaillant
+dans ces établissements ou des femmes venues y subir une interruption volontaire de grossesse.
+
+(1) Amende applicable depuis le 1er février 1993.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Créé par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 37 () JORF 30 janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Code de la santé publique - art. L162-15-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L162-2 (M)
+	  - Code de la santé publique L162-3 à L162-8, L162-2
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2223-2 (M)
+
+
 ###### Article L162-15-1
 
 Toute association régulièrement déclarée depuis au moins cinq ans à la date des faits, dont l'objet statutaire comporte la
@@ -6563,29 +7100,26 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L176
 
-Nul ne peut ouvrir ou diriger [*interdiction*] un établissement d'hospitalisation privé recevant habituellement à titre
-onéreux ou gratuit, et en nombre quelconque, des femmes en état réel, apparent ou présumé de grossesse, sans avoir obtenu
-l'autorisation préalable du préfet [*condition préalable*]. 
+Sans préjudice de l'application des dispositions du titre Ier du livre VII, nul ne peut ouvrir ou diriger [*interdiction*] un
+établissement de santé privé recevant habituellement à titre onéreux ou gratuit, et en nombre quelconque, des femmes en état
+réel, apparent ou présumé de grossesse, sans avoir obtenu l'autorisation préalable du préfet [*condition préalable*].
 
 Un décret en Conseil d'Etat fixe les conditions d'ouverture et de fonctionnement que devront remplir les établissements visés
 à l'alinéa précédent.
 
 Toute personne qui ouvre ou dirige sans autorisation un des établissements visés au présent article ou qui néglige de se
-conformer aux conditions de l'autorisation, est punie d'une amende de 3.600 F à 30.000 F [*montant*] ; l'établissement
-pourra, en outre, être fermé ; en cas de récidive dans les trois ans, le coupable sera puni, en outre, d'un emprisonnement de
-six jours à deux ans [*durée*], le tout sans préjudice des peines plus fortes encourues notamment du fait des crimes et
-délits par les articles 317, 345 à 351 du Code pénal et par les articles L. 647 et suivants du présent Code.
+conformer aux conditions de l'autorisation, est punie d'une amende de 30.000 F (1) [*montant*] ; l'établissement pourra, en
+outre, être fermé ; en cas de récidive dans les trois ans, le coupable sera puni, en outre, d'un emprisonnement de deux ans
+[*durée*], le tout sans préjudice des peines plus fortes encourues notamment du fait des crimes et délits par les articles
+317, 345 à 351 du Code pénal et par les articles L. 647 et suivants du présent Code.
+
+(1) Amende applicable depuis le 1er janvier 1978.
 
 **Nota:**
 
 [*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1939-07-29
-	  - Loi n°51-144 1951-02-11
 
 	**Codifié par**:
 
@@ -6640,7 +7174,12 @@ délits par les articles 317, 345 à 351 du Code pénal et par les articles L. 6
 
 	**Modifié par**:
 
-	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
@@ -6651,6 +7190,63 @@ délits par les articles 317, 345 à 351 du Code pénal et par les articles L. 6
 
 	  - Code de la santé publique - art. L2322-1 (M)
 	  - Code de la santé publique - art. L2322-7 (Ab)
+	  - Code de la santé publique - art. L2326-2 (M)
+
+
+###### Article L177
+
+Les établissements visés à l'article L. 176, autorisés ou non, sont soumis à la surveillance préfectorale exercée par le
+directeur départemental de la Santé ou par son adjoint et les commissaires de police [*autorités compétentes*]. Ces
+fonctionnaires peuvent pénétrer à toute heure, de jour et de nuit, dans les établissements susvisés et procéder à toutes
+investigations, constatations et enquêtes par eux jugées utiles [*droit de circulation*].
+
+Quiconque fait obstacle aux inspections prévues à l'alinéa précédent sera puni de six mois d'emprisonnement [*durée*] et
+d'une amende de 25.000 F (1) [*montant*]. La fermeture de l'établissement peut, en outre, être prononcée.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°72-162 du 21 février 1972 - art. 1 (Ab)
+	  - Loi n°79-1140 du 29 décembre 1979 - art. 10 (Ab)
+	  - Code de la famille et de l'aide sociale. - art. 44 (M)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L176 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2322-2 (M)
+	  - Code de la santé publique - art. L2326-3 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1939-07-29 art. 94
 
 
 ###### Article L178
@@ -7570,6 +8166,47 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
+###### Article L197
+
+Indépendamment des sanctions disciplinaires qui sont fixées par décret, quiconque refusera de se soumettre aux prescriptions
+de l'article L. 192 du présent titre, ou quiconque en entravera l'exécution, sera passible de l'amende prévue pour les
+contraventions de la 3° classe [*montant*].
+
+Les mêmes pénalités sont encourues par les personnes ayant la garde des enfants qui mettraient obstacle à l'exécution des
+prescriptions prévues à l'article 191 ci-dessus.
+
+**Nota:**
+
+[*Nota - Ordonnance 92-1070 du 1er octobre 1992 art. 12 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2407 1945-10-18 art. 7
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Décret n°93-726 1993-03-29 art. 1 JORF 30 mars 1993 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L191 (M)
+	  - Code de la santé publique - art. L192 (M)
+
+
 ###### Article L198
 
 Des décrets déterminent les modalités d'application du présent titre, et notamment les conditions d'organisation et de
@@ -8008,6 +8645,52 @@ protection des enfants placés hors du domicile de leurs parents.
 	**Cite**:
 
 	  - Décret n°1938-06-17
+
+
+###### Article L208
+
+Sera puni d'une amende de 25.000 F (1) [*montant*] et d'un emprisonnement de trois mois [*durée*] ou de l'une de ces deux
+peines seulement :
+
+1° Quiconque aura ouvert ou dirigé sans autorisation l'un des établissements visés au présent titre, ou aura sciemment fait
+une déclaration inexacte ou incomplète ;
+
+2° Quiconque aura continué l'exploitation d'un tel établissement malgré une décision de fermeture ;
+
+3° Quiconque, assumant la direction d'un des établissements visés, aura mis ou tenté de mettre obstacle au contrôle prévu à
+l'article 204.
+
+En cas de récidive, le délinquant sera condamné à une amende de 50.000 F (1) et à un emprisonnement d'un an ou à l'une de ces
+deux peines seulement.
+
+En ce cas, le tribunal pourra ordonner la fermeture temporaire ou définitive de l'établissement et prononcer en outre
+l'interdiction, à temps ou définitive, d'exercer les fonctions de directeur d'un établissement visé au présent titre. (1)
+Amende applicable depuis le 1er mars 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L204 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2326-1 (M)
+	  - Code de la santé publique - art. L2326-1 (V)
 
 
 ## Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales.
@@ -8898,10 +9581,9 @@ territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 Ainsi qu'il est dit à l'article 223-8 du code pénal, le fait de pratiquer ou de faire pratiquer sur une personne une
 recherche biomédicale sans avoir recueilli le consentement libre, éclairé et exprès de l'intéressé, des titulaires de
 l'autorité parentale ou du tuteur dans les cas prévus par les dispositions du présent code est puni de trois ans
-d'emprisonnement [*durée*] et de 300 000 F d'amende [*montant - (1)*].
+d'emprisonnement [*durée*] et de 300 000 F d'amende [*montant*] (1).
 
-Les mêmes peines sont applicables lorsque le consentement a été retiré avant qu'il ne soit procédé à la recherche
-biomédicale.
+Les mêmes peines sont applicables lorsque la recherche biomédicale est pratiquée alors que le consentement a été rétiré.
 
 Ainsi qu'il est dit à l'article 223-9 du code pénal, les personnes morales peuvent être déclarées responsables pénalement,
 dans les conditions prévues par l'article 121-2 du code pénal, de cette infraction.
@@ -8915,12 +9597,12 @@ Les peines encourues par les personnes morales sont :
 L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice de laquelle ou à
 l'occasion de laquelle l'infraction a été commise.
 
+(1) Amende applicable depuis le 1er mars 1994.
+
 **Nota:**
 
 [*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
-territoriales de Saint-Pierre-et-Miquelon et de Mayotte.
-
-(1) taux résultant de la loi n° 92-1336 du 16 décembre 1992 en vigueur le 1er septembre 1993.*]
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -8931,7 +9613,11 @@ territoriales de Saint-Pierre-et-Miquelon et de Mayotte.
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 219 () JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+	  - Loi n°94-89 du 1 février 1994 - art. 11 () JORF 2 février 1994 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
@@ -8940,6 +9626,85 @@ territoriales de Saint-Pierre-et-Miquelon et de Mayotte.
 	  - Code pénal - art. 131-39 (MMN)
 	  - Code pénal - art. 223-8 (M)
 	  - Code pénal - art. 223-9 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 223-8 (M)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1126-1 (M)
+	  - Code de la santé publique - art. L1126-2 (V)
+
+
+###### Article L209-19-1
+
+Le fait de pratiquer ou de faire pratiquer une recherche biomédicale en infraction aux dispositions des articles L. 209-4 à
+L. 209-6 et du dernier alinéa de l'article L. 209-9 est puni de trois ans [*durée*] d'emprisonnement et de 300 000 F d'amende
+[*montant*] (1).
+
+Les personnes physiques coupables de l'infraction prévue à l'alinéa précédent encourent également les peines suivantes :
+
+1° L'interdiction des droits civiques, civils et de famille, suivant les modalités prévues par l'article 131-26 du code
+pénal ;
+
+2° L'interdiction, pour une durée de cinq ans au plus, d'exercer l'activité professionnelle ou sociale à l'occasion de
+laquelle ou dans l'exercice de laquelle l'infraction a été commise ;
+
+3° La confiscation définie à l'article 131-21 du code pénal ;
+
+4° L'exclusion des marchés publics à titre définitif ou pour une durée de cinq ans au plus.
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, de l'infraction définie à l'alinéa premier.
+
+Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du code pénal.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice de laquelle ou à
+l'occasion de laquelle l'infraction a été commise.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 220 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-21 (M)
+	  - Code pénal - art. 131-26 (V)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code de la santé publique - art. L209-9 (M)
+	  - Code de la santé publique L209-4 à L209-6, L209-9
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1126-3 (M)
+	  - Code de la santé publique - art. L1126-3 (V)
+	  - Code de la santé publique - art. L1126-4 (V)
 
 	**Liens**:
 
@@ -10208,6 +10973,43 @@ Les modalités d'application des dispositions des articles L. 254 à L. 262 et L
 
 ##### Section 6 : Dispositions pénales.
 
+###### Article L285
+
+Tout agent contaminateur qui, se sachant atteint d'une maladie vénérienne, ne peut faire la preuve d'un traitement régulier
+[*non*] est puni d'un emprisonnement d'un an [*durée*] et d'une amende de 30.000 F (1) [*montant*] ou de l'une de ces deux
+peines seulement.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 art. 1 JORF 27 novembre 1960
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L292 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L292 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-24 art. 14
+
+
 ###### Article L289
 
 Toute fausse déclaration, faite de mauvaise foi, qui tendrait à signaler aux autorités sanitaires, par quelque moyen que ce
@@ -10236,6 +11038,118 @@ peines de la dénonciation calomnieuse.
 	**Cite**:
 
 	  - Code de la santé publique - art. L261 (Ab)
+
+
+###### Article L290
+
+Est punie d'un emprisonnement de six mois [*durée*] et d'une amende de 25.000 F (1) [*montant*] ou de l'une de ces peines
+seulement :
+
+1° Toute femme qui nourrit au sein un enfant autre que le sien alors qu'elle se sait atteinte de la syphilis ;
+
+2° Toute personne qui, sciemment, laisse nourrir au sein un enfant syphilitique dont elle a la garde sans avoir fait avertir
+la nourrice par un médecin de la maladie dont l'enfant est atteint et des précautions à prendre ;
+
+3° Toute personne qui, sciemment, donne en nourrice un enfant syphilitique sans aviser les nourriciers de la maladie dont
+l'enfant est atteint.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 art. 17
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 art. 1 JORF 27 novembre 1960
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L256 (Ab)
+	  - Code de la santé publique - art. L292 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L292 (Ab)
+
+
+###### Article L292
+
+Est interdite sous peine d'une amende de 30.000 F (1) [*montant*] la publication des comptes rendus des décisions de justice
+relatifs aux poursuites pénales exercées :
+
+1° Par application des articles L. 285, L. 290 et L. 293 ;
+
+2° Pour infraction aux articles L. 256, L. 279 et L. 281 ;
+
+3° Contre toute nourrice qui nourrit un enfant autre que le sien sans être en possession d'un certificat médical
+[*obligatoire*] délivré immédiatement avant le commencement de l'allaitement et attestant qu'elle ne présente aucun signe
+clinique ou sérologique de syphilis ;
+
+4° Contre toute personne qui confie un enfant dont elle a la garde à une nourrice sans s'être assurée que la nourrice est en
+possession de ce certificat ;
+
+5° Contre toute personne qui, en dehors des cas de force majeure, laisse nourrir par une autre personne que la mère l'enfant
+dont elle a la garde sans s'être assurée au préalable, par un certificat médical, qu'il n'existe aucun danger de
+contamination pour le nourrisson.
+
+Toutefois, la disposition qui précède n'est pas applicable aux extraits de telles décisions publiées dans les journaux et
+périodiques spécialement destinés à recueillir la jurisprudence des tribunaux ou publiés sous une forme quelconque par les
+soins de l'autorité sanitaire, à la condition que ces extraits ne contiennent aucune mention de nature à révéler l'identité
+des parties en cause [*anonymat*].
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 60-1246 1960-11-25 art. 1 JORF 27 novembre 1960
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°60-1248 1960-11-25 art. 5 : SANCTIONS
+	  - TXT_ASSOCIE: Code de la santé publique - art. L256 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L279 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L281 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L285 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L290 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L293 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L256 (Ab)
+	  - Code de la santé publique - art. L279 (Ab)
+	  - Code de la santé publique - art. L281 (Ab)
+	  - Code de la santé publique - art. L285 (Ab)
+	  - Code de la santé publique - art. L290 (Ab)
+	  - Code de la santé publique - art. L293 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°42-1073 1942-12-31 art. 19
 
 
 #### Chapitre 2 : Organisation médico-administrative de la lutte antivénérienne.
@@ -12966,6 +13880,122 @@ informations qu'elle estimerait utiles sur la situation d'un malade hospitalisé
 
 #### Chapitre 4 : Dispositions pénales.
 
+###### Article L352
+
+Sera puni d'un emprisonnement de deux ans et d'une amende de 25 000 F (1) ou de l'une de ces deux peines seulement, le
+directeur d'un établissement mentionné à l'article L. 331 qui aura retenu une personne hospitalisée sans son consentement
+alors que sa sortie aura été ordonnée par le préfet, en application du dernier alinéa de l'article L. 338 ou de l'article L.
+346, ou par le président du tribunal de grande instance, conformément à l'article L. 351, ou lorsque cette personne aura
+bénéficié de la mainlevée de l'hospitalisation en application des articles L. 337, L. 338, L. 339 ou L. 345.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3214-1 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L331 (M)
+	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L338 (M)
+	  - Code de la santé publique - art. L339 (M)
+	  - Code de la santé publique - art. L345 (M)
+	  - Code de la santé publique - art. L346 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L348 (M)
+	  - Code de la santé publique - art. L351 (M)
+
+
+###### Article L353
+
+Sera puni d'un emprisonnement d'un an et d'une amende de 25 000 F (1), ou de l'une de ces deux peines seulement, le directeur
+d'un établissement mentionné à l'article L. 331 qui aura :
+
+1° Admis une personne sur demande d'un tiers sans avoir obtenu la remise de la demande d'admission et des certificats prévus
+par les articles L. 133 et L. 333-2 ;
+
+2° Omis d'adresser au préfet dans les délais prescrits les certificats médicaux et le bulletin d'entrée établis en
+application du deuxième alinéa de l'article L. 334 ;
+
+3° Omis d'adresser au préfet dans les délais prescrits les certificats médicaux établis en application des articles L. 337,
+L. 344 et L. 346 ;
+
+4° Omis de se conformer dans le délai indiqué aux prescriptions des articles L. 341 et L. 342 ;
+
+5° Omis d'aviser dans le délai prescrit les autorités mentionnées au deuxième alinéa de l'article L. 338 de la déclaration
+prévue par ledit article ;
+
+6° Omis d'aviser le préfet dans les délais prescrits de la levée de l'hospitalisation sur demande d'un tiers prévue par
+l'article L. 340 ou de la déclaration prévue par l'article L. 346 ;
+
+7° Supprimé ou retenu une requête ou réclamation adressée par une personne hospitalisée sans son consentement à l'autorité
+judiciaire ou à l'autorité administrative.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L133 (Ab)
+	  - Code de la santé publique - art. L331 (M)
+	  - Code de la santé publique - art. L333-2 (Ab)
+	  - Code de la santé publique - art. L334 (M)
+	  - Code de la santé publique - art. L337 (M)
+	  - Code de la santé publique - art. L338 (M)
+	  - Code de la santé publique - art. L340 (M)
+	  - Code de la santé publique - art. L341 (M)
+	  - Code de la santé publique - art. L342 (M)
+	  - Code de la santé publique - art. L344 (M)
+	  - Code de la santé publique - art. L346 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L133 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L331 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L333-2 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L334 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L337 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L338 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L340 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L341 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L342 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L344 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L346 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3214-2 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L339 (M)
+	  - Code de la santé publique - art. L354 (Ab)
+
+
 ###### Article L354
 
 Sera puni des peines mentionnées à l'article L. 353 :
@@ -13445,6 +14475,42 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Abrogé par**:
 
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+#### Chapitre 5 : Dispositions pénales.
+
+###### Article L355-10
+
+Le malade qui se soustrait à l'examen médical [*refus*] visé à l'article L. 355-3 est passible de l'amende prévue par le 1°
+de l'article 131-13 du code pénal [*montant*].
+
+Le malade qui quitte [*sortie*] sans autorisation l'établissement où il a été placé par le tribunal est passible de l'amende
+prévue par le 1° de l'article 131-13 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°54-439 du 15 avril 1954 - art. 8 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 131-13 (M)
+	  - Code de la santé publique - art. L355-3 (Ab)
 
 
 #### Chapitre 6 : Modalités d'application.
@@ -14297,6 +15363,79 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L5121-2 (V)
+
+
+###### Article L355-31
+
+Les infractions aux dispositions des articles L. 355-24 et L. 355-27 sont punies d'une amende de 500 000 F (1). En cas de
+propagande ou de publicité interdite le maximum de l'amende peut être porté à 50 p. 100 du montant des dépenses consacrées à
+l'opération illégale.
+
+En cas de récidive, le tribunal peut interdire pendant une durée de un à cinq ans la vente des produits qui ont fait l'objet
+de l'opération illégale.
+
+Le tribunal ordonne, s'il y a lieu, la suppression, l'enlèvement ou la confiscation de la publicité interdite aux frais des
+délinquants.
+
+Le tribunal peut, compte tenu des circonstances de fait, décider que les personnes morales, sont en totalité ou en partie
+solidairement responsables du paiement des amendes et des frais de justice mis à la charge de leurs dirigeants ou de leurs
+préposés.
+
+La cessation de la publicité peut être ordonnée soit sur réquisition du ministère public, soit d'office par le juge
+d'instruction ou le tribunal saisi des poursuites. La mesure ainsi prise est exécutoire nonobstant toutes voies de recours.
+Mainlevée peut en être donnée par la juridiction qui l'a ordonnée ou qui est saisie du dossier. La mesure cesse d'avoir effet
+en cas de décision de non-lieu ou de relaxe.
+
+Les décisions statuant sur les demandes de mainlevée peuvent faire l'objet d'un recours devant la chambre d'accusation ou
+devant la cour d'appel selon qu'elles ont été prononcées par un juge d'instruction ou par le tribunal saisi des poursuites.
+
+La chambre d'accusation ou la cour d'appel statue dans un délai de dix jours à compter de la réception des pièces.
+
+(1) Amende applicable depuis le 1er janvier 1993.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 29 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°76-616 du 9 juillet 1976 - art. 12 (M)
+	  - Loi n°76-616 du 9 juillet 1976 - art. 12 (T)
+
+	**Créé par**:
+
+	  - Loi n°91-32 1991-01-10 art. 9 I, II et III JORF 12 janvier 1991 en vigueur le 1er janvier 1993
+	  - Loi n°91-32 du 10 janvier 1991 - art. 9 () JORF 12 janvier 1991 en vigueur le 1er janvier 1993
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3512-2 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L355-24 (Ab)
+	  - Code de la santé publique - art. L355-27 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L355-24 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L355-27 (Ab)
 
 
 ###### Article L355-32
@@ -16253,19 +17392,93 @@ et suivants.
 
 ###### Article L376
 
-L'exercice illégal de la profession de médecin, de chirurgien-dentiste ou de sage-femme est puni d'une amende de 3.600 F à
-30.000 F et, en cas de récidive, d'une amende de 18.000 F à 60.000 F et d'un emprisonnement de six jours à six mois, ou de
-l'une de ces deux peines seulement. Pourra, en outre, être prononcée la confiscation du matériel ayant permis l'exercice
-illégal.
+L'exercice illégal de la profession de médecin, de chirurgien-dentiste ou de sage-femme est puni d'une amende de 60 000 F (1)
+[*montant*] et d'un emprisonnement de trois mois [*durée*] ou de l'une de ces deux peines seulement et, en cas de récidive,
+d'une amende de 120 000 F (1) et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement. Dans tous les cas,
+peut être prononcée la confiscation du matériel ayant permis l'exercice illégal.
 
-Sont punies des mêmes peines, les infractions aux dispositions des articles L. 363, 364 et 365.
+(1) Amende applicable depuis le 2 août 1987.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°87-588 du 30 juillet 1987 - art. 32 () JORF 31 juillet 1987
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4161-5 (M)
+
+
+###### Article L376-1
+
+Les infractions aux dispositions des articles L. 363, L. 364 et L. 365 seront punies d'une amende de 30 000 F (1) [*montant*]
+et, en cas de récidive, d'une amende de 60 000 F (1) et d'un emprisonnement de six mois [*montant*] ou de l'une de ces deux
+peines seulement.
+
+(1) Amende applicable depuis le 2 août 1987.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°87-588 du 30 juillet 1987 - art. 33 () JORF 31 juillet 1987
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - TXT_ASSOCIE: Code de la santé publique - art. L363 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L364 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L365 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
@@ -16275,15 +17488,12 @@ Sont punies des mêmes peines, les infractions aux dispositions des articles L. 
 
 	**Nouveaux textes**:
 
-	  - Code de la santé publique - art. L4161-5 (M)
-
-	**Modifié par**:
-
-	  - Loi n°82-413 1982-05-19 ART. 9 JORF 20 MAI 1982
-
-	**Cité par**:
-
-	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Code de la santé publique - art. L4163-3 (M)
+	  - Code de la santé publique - art. L4163-3 (V)
+	  - Code de la santé publique - art. L4163-5 (M)
+	  - Code de la santé publique - art. L4163-5 (V)
+	  - Code de la santé publique - art. L4163-6 (M)
+	  - Code de la santé publique - art. L4163-6 (V)
 
 
 ###### Article L376-2
@@ -16444,23 +17654,29 @@ et suivants.
 
 ###### Article L379
 
-Quiconque exerce la médecine, l'art dentaire ou la pratique des accouchements sans avoir fait enregistrer ou réenregistrer
-son diplôme en violation des dispositions de l'article L. 361 ci-dessus est puni d'une amende de 1.500 F à 8.000 F
-[*sanction*].
+Quiconque exerce la médecine, l'art dentaire ou la profession de sage-femme sans avoir fait enregistrer ou réenregistrer son
+diplôme en violation des dispositions de l'article L. 361 ci-dessus est puni d'une amende de 25.000 F (1) [*montant*].
 
 Est punie de la même peine toute infraction à la règle posée à l'article L. 367 [*obligation de déférer aux réquisitions de
 l'autorité publique*].
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Loi n°72-660 1972-07-13 ART. 5 JORF 14 JUILLET 1972
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cite**:
 
@@ -16469,7 +17685,67 @@ l'autorité publique*].
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L4163-7 (M)
 	  - Code de la santé publique - art. L4163-7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°82-413 1982-05-19 art. 10 JORF 20 mai 1982
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L380
+
+Tout médecin, chirurgien-dentiste ou sage-femme qui aura fait une fausse déclaration en vue de son inscription au tableau de
+l'Ordre sera puni d'une amende de 25.000 F (1) [*montant*] et d'un emprisonnement de trois mois [*durée*] ou de l'une de ces
+deux peines seulement.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 art. 18
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4163-8 (M)
+	  - Code de la santé publique - art. L4163-8 (V)
 
 
 #### Chapitre 2 : Organisation de la profession de médecin
@@ -20820,6 +22096,96 @@ et suivants.
 	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
 
 
+###### Article L462
+
+Les médecins, les chirurgiens-dentistes en exercice, ainsi que les personnes qui demandent leur inscription au tableau de
+l'Ordre des médecins ou des chirurgiens-dentistes doivent communiquer au conseil départemental de l'Ordre dont ils relèvent
+les contrats et avenants ayant pour objet l'exercice de leur profession ainsi que, s'ils ne sont pas propriétaires de leur
+matériel et du local dans lequel ils exercent ou exerceront leur profession, les contrats ou avenants leur assurant l'usage
+de ce matériel et de ce local.
+
+Les mêmes obligations s'appliquent aux contrats et avenants ayant pour objet de transmettre sous condition résolutoire la
+propriété du matériel et du local.
+
+La communication ci-dessus prévue doit être faite dans le mois [*délai*] suivant la conclusion du contrat ou de l'avenant,
+afin de permettre l'application des articles L. 366 [*code de déontologie*] et L. 382 du Code de la santé publique.
+
+Tous les contrats et avenants dont la communication est exigée doivent être passés par écrit [*conditions de forme*].
+
+Le défaut de communication des contrats ou avenants ou, lorsqu'il est imputable au praticien, le défaut de rédaction d'un
+écrit constitue une faute disciplinaire susceptible d'entraîner une des sanctions prévues à l'article L. 423 ou de motiver un
+refus d'inscription au tableau de l'Ordre.
+
+Le conseil départemental ne peut plus mettre en oeuvre, à raison des contrats et avenants ci-dessus prévus, les pouvoirs
+qu'il tient des articles L. 413 et L. 417 du présent code lorsqu'un délai de six mois s'est écoulé depuis la communication
+desdits contrats ou avenants [*prescription*].
+
+Les contrats et avenants dont la communication est prévue par les alinéas précédents doivent être tenus à la disposition du
+ministre de la santé publique et de la sécurité sociale par le conseil départemental de l'Ordre des médecins ou par le
+conseil départemental de l'Ordre des chirurgiens-dentistes.
+
+Toute personne physique ou morale passant un contrat avec un médecin ou un chirurgien-dentiste doit le faire par écrit
+[*condition de forme*]. Le refus de rédaction d'un écrit du fait du contractant non praticien est puni d'une amende de 40.000
+F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°72-660 1972-07-13 art. 37 JORF 14 juillet 1972
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Décret n°77-636 du 14 juin 1977 - art. 5 (Ab)
+	  - Décret n°78-906 du 24 août 1978 - art. 4 (Ab)
+	  - Décret n°87-944 du 25 novembre 1987 - art. ANNEXE, 11 (Ab)
+	  - Décret n°92-740 du 29 juillet 1992 - art. 4 (Ab)
+	  - Décret n°94-680 du 3 août 1994 - art. 5 (Ab)
+	  - Code de déontologie des médecins. - art. 71 (Ab)
+	  - Code de déontologie médicale - art. 83 (Ab)
+	  - Code de déontologie médicale - art. 91 (Ab)
+	  - Code de la santé publique - art. L761-4 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L366 (Ab)
+	  - Code de la santé publique - art. L382 (Ab)
+	  - Code de la santé publique - art. L413 (Ab)
+	  - Code de la santé publique - art. L417 (Ab)
+	  - Code de la santé publique - art. L423 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4113-10 (V)
+	  - Code de la santé publique - art. L4113-9 (M)
+	  - Code de la santé publique - art. L4163-10 (M)
+
+
 ###### Article L463
 
 L'absence de communication [*non*] ou la communication mensongère exposera son auteur aux sanctions prévues à l'article L.
@@ -22662,12 +24028,14 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L483-1
 
-L'exercice illégal de la profession d'infirmier ou d'infirmière est passible d'une amende de 3.000 F à 20.000 F [*montant*]
-et, en cas de récidive, d'une amende de 10.000 F à 30.000 F, une peine d'emprisonnement de quinze jours à cinq mois [*durée*]
-pouvant en outre être prononcée dans ce cas. 
+L'exercice illégal de la profession d'infirmier ou d'infirmière est passible d'une amende de 25.000 F (1) [*montant*] et, en
+cas de récidive, d'une amende de 50.000 F (1), une peine d'emprisonnement de cinq mois [*durée*] pouvant en outre être
+prononcée dans ce cas.
 
 L'usage du titre d'infirmier ou d'infirmière par des personnes qui n'en sont pas régulièrement investies et le port illégal
-de l'insigne sont punis des peines prévues à l'article 259 du Code pénal.
+de l'insigne sont punis des peines prévues à l'article 433-17 du Code pénal.
+
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Nota:**
 
@@ -22681,9 +24049,10 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°80-527 1980-07-12 art. 8 JORF 13 juillet 1980
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 334 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 	**Cité par**:
 
@@ -22691,9 +24060,18 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
 	  - Code de la santé publique - art. L483 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - Code pénal 259
+	  - Code pénal - art. 433-17 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4314-4 (M)
+	  - Code de la santé publique - art. L4314-5 (M)
 
 
 ###### Article L484
@@ -23379,11 +24757,13 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 ###### Article L501
 
 L'exercice illégal de la profession de masseur-kinésithérapeute ou de la profession de pédicure-podologue est passible d'une
-amende de 3.000 F à 20.000 F [*montant*] et, en cas de récidive, d'une amende de 10.000 F à 30.000 F, une peine
-d'emprisonnement de quinze jours à cinq mois [*durée*] pouvant en outre être prononcée dans ce cas.
+amende de 25.000 F (1) [*montant*] et, en cas de récidive, d'une amende de 50.000 F (1), une peine d'emprisonnement de cinq
+mois [*durée*] pouvant en outre être prononcée dans ce cas.
 
 L'usurpation du titre de masseur-kinésithérapeute, masseur, gymnaste médical, et du titre de pédicure-podologue est punie des
-peines prévues à l'article 259 du Code pénal.
+peines prévues à l'article 433-17 du Code pénal.
+
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Nota:**
 
@@ -23403,16 +24783,26 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°84-391 1984-05-25 art. 9 JORF 26 mai 1984
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 334 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
 
 	**Cité par**:
 
 	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
 	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
 
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - Code pénal 259
+	  - Code pénal - art. 433-17 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4323-4 (M)
+	  - Code de la santé publique - art. L4323-5 (M)
 
 
 ###### Article L502
@@ -24049,6 +25439,49 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	  - Code de la santé publique - art. L4362-9 (M)
 	  - Code de la santé publique - art. L4362-9 (V)
+	  - Code de la santé publique - art. L4363-4 (V)
+
+
+###### Article L509
+
+Toute infraction aux dispositions du présent titre sera punie de l'amende prévue pour les contraventions de la 5° classe
+[*montant*]. En cas de récidive, l'amende sera celle prévue pour les contraventions de la 5° classe en récidive et le
+tribunal pourra, en outre, ordonner la fermeture de l'entreprise ou du rayon d'optique-lunetterie.
+
+**Nota:**
+
+[*Nota - Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°44-279 1944-06-05 art. 4
+	  - Loi n°52-1232 1952-11-17 art. 3
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 41 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4363-2 (M)
+	  - Code de la santé publique - art. L4363-2 (V)
+	  - Code de la santé publique - art. L4363-4 (M)
 	  - Code de la santé publique - art. L4363-4 (V)
 
 
@@ -25743,20 +27176,66 @@ du diplôme d'Etat, sous réserve qu'ils restent dans le même établissement.
 	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
 
 
+###### Article L517
+
+Quiconque se sera livré sciemment à des opérations réservées aux pharmaciens sans réunir les conditions exigées pour
+l'exercice de la pharmacie sera puni d'une amende de 30.000 F (1) [*montant*] et, en cas de récidive, d'une amende de 60.000
+F (1) et d'un emprisonnement de six mois [*durée*] ou d'une de ces deux peines seulement.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+	  - Code de la santé publique - art. L518 (Ab)
+	  - Code de la santé publique - art. L519 (Ab)
+	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4223-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Loi n°41-3890 1941-09-11 art. 61
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
 ###### Article L518
 
 Sans préjudice des dispositions des articles L. 517 et 566 et hors le cas prévu à l'article L. 567, sont punies d'une amende
-de 360 F à 15.000 F (1) [*montant*] et, en cas de récidive, d'une amende de 1.800 F à 16.000 F (2) et d'un emprisonnement de
-six jours à trois mois [*durée*] ou de l'une de ces deux peines seulement, toutes infractions aux dispositions des chapitres
-1er, IV et V du titre Ier, des chapitres Ier, II et de la section III du chapitre IV du titre II, des chapitres Ier et II du
-titre IV du présent livre, à l'exception des articles L. 512 et 581 à 588.
+de 25.000 F (1) [*montant*] et, en cas de récidive, d'une amende de 50.000 F (1) et d'un emprisonnement de trois mois
+[*durée*] ou de l'une de ces deux peines seulement, toutes infractions aux dispositions des chapitres 1er, IV et V du titre
+Ier, des chapitres Ier, II et de la section III du chapitre IV du titre II, des chapitres Ier et II du titre IV du présent
+livre, à l'exception des articles L. 512 et L. 581 à L. 588.
 
 Sont punies des mêmes peines les infractions aux dispositions des décrets en Conseil d'Etat prévus aux articles L. 600 et L.
-605.
+605 ainsi qu'aux dispositions de l'article L. 658-11.
 
-(1) Amende applicable depuis le 1er octobre 1985.
-
-(2) Amende applicable depuis le 1er janvier 1978.
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Nota:**
 
@@ -25777,55 +27256,104 @@ collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Ordonnance n°59-250 du 4 février 1959 - art. 3 () JORF 8 février 1959
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°94-43 du 18 janvier 1994 - art. 35 () JORF 19 janvier 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L4212-1 (M)
 	  - Code de la santé publique - art. L4212-1 (V)
+	  - Code de la santé publique - art. L4212-2 (M)
 	  - Code de la santé publique - art. L4212-2 (V)
+	  - Code de la santé publique - art. L4212-3 (M)
 	  - Code de la santé publique - art. L4212-3 (V)
+	  - Code de la santé publique - art. L4212-4 (M)
 	  - Code de la santé publique - art. L4212-4 (V)
+	  - Code de la santé publique - art. L4212-5 (M)
 	  - Code de la santé publique - art. L4212-5 (V)
 	  - Code de la santé publique - art. L4212-6 (Ab)
+	  - Code de la santé publique - art. L4212-7 (M)
 	  - Code de la santé publique - art. L4212-7 (V)
+	  - Code de la santé publique - art. L4212-8 (M)
 	  - Code de la santé publique - art. L4212-8 (V)
+	  - Code de la santé publique - art. L5421-1 (M)
 	  - Code de la santé publique - art. L5421-1 (V)
+	  - Code de la santé publique - art. L5421-2 (M)
 	  - Code de la santé publique - art. L5421-2 (V)
+	  - Code de la santé publique - art. L5421-3 (M)
 	  - Code de la santé publique - art. L5421-3 (V)
+	  - Code de la santé publique - art. L5421-4 (M)
 	  - Code de la santé publique - art. L5421-4 (V)
+	  - Code de la santé publique - art. L5421-5 (M)
 	  - Code de la santé publique - art. L5421-5 (V)
+	  - Code de la santé publique - art. L5421-6 (M)
 	  - Code de la santé publique - art. L5421-6 (V)
+	  - Code de la santé publique - art. L5421-7 (M)
 	  - Code de la santé publique - art. L5421-7 (V)
+	  - Code de la santé publique - art. L5422-15 (M)
 	  - Code de la santé publique - art. L5422-15 (VT)
+	  - Code de la santé publique - art. L5422-16 (M)
 	  - Code de la santé publique - art. L5422-16 (VT)
+	  - Code de la santé publique - art. L5422-17 (M)
 	  - Code de la santé publique - art. L5422-17 (V)
+	  - Code de la santé publique - art. L5422-7 (M)
 	  - Code de la santé publique - art. L5422-7 (VT)
+	  - Code de la santé publique - art. L5423-1 (M)
 	  - Code de la santé publique - art. L5423-1 (V)
+	  - Code de la santé publique - art. L5423-2 (M)
 	  - Code de la santé publique - art. L5423-2 (V)
+	  - Code de la santé publique - art. L5423-3 (M)
 	  - Code de la santé publique - art. L5423-3 (V)
+	  - Code de la santé publique - art. L5423-4 (M)
 	  - Code de la santé publique - art. L5423-4 (V)
+	  - Code de la santé publique - art. L5423-5 (M)
 	  - Code de la santé publique - art. L5423-5 (V)
 	  - Code de la santé publique - art. L5423-6 (V)
+	  - Code de la santé publique - art. L5423-7 (M)
 	  - Code de la santé publique - art. L5423-7 (V)
+	  - Code de la santé publique - art. L5424-1 (M)
 	  - Code de la santé publique - art. L5424-1 (V)
+	  - Code de la santé publique - art. L5424-10 (M)
 	  - Code de la santé publique - art. L5424-10 (V)
+	  - Code de la santé publique - art. L5424-11 (M)
 	  - Code de la santé publique - art. L5424-11 (VT)
+	  - Code de la santé publique - art. L5424-13 (M)
 	  - Code de la santé publique - art. L5424-13 (V)
+	  - Code de la santé publique - art. L5424-14 (M)
 	  - Code de la santé publique - art. L5424-14 (V)
+	  - Code de la santé publique - art. L5424-15 (M)
 	  - Code de la santé publique - art. L5424-15 (VT)
+	  - Code de la santé publique - art. L5424-16 (M)
 	  - Code de la santé publique - art. L5424-16 (VT)
+	  - Code de la santé publique - art. L5424-17 (M)
 	  - Code de la santé publique - art. L5424-17 (VT)
+	  - Code de la santé publique - art. L5424-19 (M)
 	  - Code de la santé publique - art. L5424-19 (V)
+	  - Code de la santé publique - art. L5424-2 (M)
 	  - Code de la santé publique - art. L5424-2 (V)
+	  - Code de la santé publique - art. L5424-3 (M)
 	  - Code de la santé publique - art. L5424-3 (V)
+	  - Code de la santé publique - art. L5424-4 (M)
 	  - Code de la santé publique - art. L5424-4 (V)
+	  - Code de la santé publique - art. L5424-5 (M)
 	  - Code de la santé publique - art. L5424-5 (VT)
+	  - Code de la santé publique - art. L5424-6 (M)
 	  - Code de la santé publique - art. L5424-6 (V)
+	  - Code de la santé publique - art. L5424-7 (M)
 	  - Code de la santé publique - art. L5424-7 (VT)
+	  - Code de la santé publique - art. L5424-8 (M)
 	  - Code de la santé publique - art. L5424-8 (VT)
+	  - Code de la santé publique - art. L5424-9 (M)
 	  - Code de la santé publique - art. L5424-9 (V)
 	  - Code de la santé publique - art. L5436-1 (Ab)
+	  - Code de la santé publique - art. L5436-1 (M)
 	  - Code de la santé publique - art. L5436-3 (Ab)
+	  - Code de la santé publique - art. L5436-3 (M)
+	  - Code de la santé publique - art. L5441-1 (M)
 	  - Code de la santé publique - art. L5441-1 (V)
 
 	**Cite**:
@@ -25844,6 +27372,7 @@ collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L588 (Ab)
 	  - Code de la santé publique - art. L600 (M)
 	  - Code de la santé publique - art. L605 (M)
+	  - Code de la santé publique - art. L658-11 (M)
 
 	**Liens**:
 
@@ -25854,7 +27383,7 @@ collectivité territoriale de Mayotte.*]
 	  - TXT_ASSOCIE: Code de la santé publique - art. L596 (Ab)
 	  - TXT_ASSOCIE: Code de la santé publique - art. L598 (Ab)
 	  - TXT_ASSOCIE: Code de la santé publique - art. L602 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+	  - TXT_ASSOCIE: Code de la santé publique L519 : PEINE ANNEXE
 
 	**Cité par**:
 
@@ -27540,6 +29069,59 @@ collectivité territoriale de Mayotte.*]
 	  - Décret n°1938-06-17 art. 1 AL. 1, AL. 2 ET AL. 3
 
 
+###### Article L550
+
+Les délits visés à l'article L. 549 seront punis d'une amende de 30.000 F (1) [*montant*] et, en cas de récidive, d'une
+amende de 60.000 F (1), et d'un emprisonnement de six mois [*durée*] ou de l'une de ces deux peines seulement. Les
+pharmaciens coauteurs du délit seront passibles des mêmes peines.
+
+En cas de récidive, l'interdiction temporaire d'exercer la profession pendant une période de un à dix ans pourra être
+prononcée par les cours et tribunaux accessoirement à la peine principale.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L365 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4163-4 (M)
+	  - Code de la santé publique - art. L4163-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L549 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L549 (Ab)
+
+	**Anciens textes**:
+
+	  - Décret n°1938-06-17 art. 1 al. 4 et al. 5
+
+
 #### CHAPITRE 4 : REGLEMENTATION DE LA PUBLICITE.
 
 ###### Article L551
@@ -28774,14 +30356,16 @@ collectivité territoriale de Mayotte.*]
 
 ###### Article L567
 
-Quiconque fait obstacle à l'exercice des fonctions de l'inspecteur de la pharmacie [*entrave*] est passible des peines
-prévues aux articles 1er, 5 et 7 de la loi du 1er août 1905, sans préjudice des peines prévues par les articles 209 et
-suivants du Code pénal.
+Quiconque fait obstacle, de quelque façon que ce soit, à l'exercice des fonctions des inspecteurs de la pharmacie sera puni
+d'un emprisonnement de six mois [*durée*] et d'une amende de 50 000 F [*montant*] (1) ou de l'une de ces deux peines
+seulement.
+
+(1) Amende applicable depuis le 7 janvier 1993.
 
 **Nota:**
 
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
-collectivité territoriale de Mayotte.*]
+[*Nota : Code de la santé publique L567-11 : les dispositions de l'article L567 sont applicables à l'exercice des fonctions
+des inspecteurs de l'agence.*]
 
 **Liens relatifs à cet article**
 
@@ -28790,10 +30374,14 @@ collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code pénal 209 ET S.
-	  - Loi n°1905-08-01 art. 1, art. 5, art. 7
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°93-5 1993-01-04 art. 16 5° JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 25 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -28802,10 +30390,6 @@ collectivité territoriale de Mayotte.*]
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
-
-	**Anciens textes**:
-
-	  - Loi n°41-3890 1941-09-11 art. 57
 
 
 ### Titre 1 bis : Agence du médicament
@@ -34838,25 +36422,47 @@ au code de la consommation correspondantes.*]
 
 ###### Article L617-24
 
-Toute infraction aux articles L. 610, L. 612, L. 614, L. 615, L. 617-1, L. 617-4 et L. 617-7 du présent code est punie d'une
-amende de 2.000 à 30.000 F [*montant*] et, en cas de récidive, d'une amende de 4.000 à 60.000 F et d'un emprisonnement de dix
-jours à six mois [*durée*] ou de l'une de ces deux peines seulement.
+Toute infraction aux articles L. 610, L. 610-1, L. 610-2, L. 612, L. 614, L. 615, L. 617-1, L. 617-4 et L. 617-7 du présent
+code est punie d'une amende de 30.000 F (1) [*montant*] et, en cas de récidive, d'une amende de 60.000 F (1) et d'un
+emprisonnement de six mois [*durée*] ou de l'une de ces deux peines seulement.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°92-650 du 13 juillet 1992 - art. 18 () JORF 16 juillet 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L5441-10 (M)
 	  - Code de la santé publique - art. L5441-10 (V)
+	  - Code de la santé publique - art. L5441-2 (M)
 	  - Code de la santé publique - art. L5441-2 (V)
+	  - Code de la santé publique - art. L5441-4 (M)
 	  - Code de la santé publique - art. L5441-4 (V)
 	  - Code de la santé publique - art. L5441-8 (M)
+	  - Code de la santé publique - art. L5441-9 (M)
 	  - Code de la santé publique - art. L5441-9 (V)
+	  - Code de la santé publique - art. L5442-1 (M)
 	  - Code de la santé publique - art. L5442-1 (V)
+	  - Code de la santé publique - art. L5442-2 (M)
 	  - Code de la santé publique - art. L5442-2 (V)
 	  - Code de la santé publique - art. L5442-3 (V)
 	  - Code de la santé publique - art. L5442-4 (T)
@@ -34873,12 +36479,74 @@ jours à six mois [*durée*] ou de l'une de ces deux peines seulement.
 
 	**Liens**:
 
+	  - TXT_ASSOCIE: Code de la santé publique - art. L610 (M)
 	  - TXT_ASSOCIE: Code de la santé publique - art. L610-1 (Ab)
 	  - TXT_ASSOCIE: Code de la santé publique - art. L610-2 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L612 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L614 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L615 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-1 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-4 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-7 (M)
+
+
+###### Article L617-25
+
+Toute infraction aux articles L. 613, L. 616, L. 617, L. 617-8 et L. 617-10 de la présente loi est punie d'une amende de
+25.000 F (1) et, en cas de récidive, d'une amende de 50.000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Créé par**:
 
-	  - Loi n°75-409 1975-05-29 ART. 2 JORF 30 mai 1975
+	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5441-3 (M)
+	  - Code de la santé publique - art. L5441-3 (V)
+	  - Code de la santé publique - art. L5441-5 (M)
+	  - Code de la santé publique - art. L5441-5 (V)
+	  - Code de la santé publique - art. L5441-6 (M)
+	  - Code de la santé publique - art. L5441-6 (V)
+	  - Code de la santé publique - art. L5441-7 (M)
+	  - Code de la santé publique - art. L5441-7 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L613 (Ab)
+	  - Code de la santé publique - art. L616 (M)
+	  - Code de la santé publique - art. L617 (M)
+	  - Code de la santé publique - art. L617-10 (Ab)
+	  - Code de la santé publique - art. L617-8 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L613 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L616 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-10 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-8 (Ab)
 
 
 ###### Article L617-26
@@ -35277,11 +36945,15 @@ maladie et aux bénéficiaires de l'aide sociale.
 
 ###### Article L626
 
-Seront punis d'un emprisonnement de deux mois à deux ans [*durée*] et d'une amende de 2.000 F à 20.000 F [*montant*], ou de
-l'une de ces deux peines seulement, ceux qui auront contrevenu aux dispositions des décrets en Conseil d'Etat concernant la
-production, le transport, l'importation, l'exportation, la détention, l'offre, la cession, l'acquisition et l'emploi des
-substances ou plantes ou la culture des plantes classées comme vénéneuses par voie réglementaire, ainsi que tout acte se
-rapportant à ces opérations.
+Seront punis d'un emprisonnement de deux ans [*durée*] et d'une amende de 25.000 F (1) [*montant*], ou de l'une de ces deux
+peines seulement, ceux qui auront contrevenu aux dispositions des décrets en Conseil d'Etat concernant la production, le
+transport, l'importation, l'exportation, la détention, l'offre, la cession, l'acquisition et l'emploi des substances ou
+plantes ou la culture des plantes classées comme vénéneuses par voie réglementaire, ainsi que tout acte se rapportant à ces
+opérations.
+
+Sera puni d'une amende de 25 000 F (1) tout fabricant, importateur ou vendeur qui aura contrevenu aux dispositions relatives
+à l'étiquetage des substances et préparations dangereuses fixées par les mêmes décrets ou qui aura contrevenu aux
+dispositions des I et II de l'article L. 626-1 et des décrets en Conseil d'Etat pris pour leur application.
 
 Les décrets prévus au présent article pourront également prohiber toutes opérations relatives à ces plantes et substances ;
 ils pourront notamment, après avis des académies nationales de médecine et de pharmacie, interdire la prescription et
@@ -35293,6 +36965,8 @@ l'ordre des médecins et de l'ordre des pharmaciens.
 Dans tous les cas prévus au présent article, les tribunaux pourront, en outre, ordonner la confiscation des substances ou des
 plantes saisies.
 
+(1) Amende applicable depuis le 1er mars 1994.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -35302,7 +36976,6 @@ plantes saisies.
 
 	**Liens**:
 
-	  - SPEC_APPLI: Ordonnance 58-1297 1958-12-23 ART. 10 : AVAIT ABROGE L'ARTICLE L626
 	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 2 (V)
 	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 3 (V)
@@ -35322,14 +36995,6 @@ plantes saisies.
 	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
 	  - TXT_ASSOCIE: Code de la santé publique L630-1 : DISPOSITIONS PENALES RELATIVES AUX ETRANGERS
 
-	**Créé par**:
-
-	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
-
-	**Modifié par**:
-
-	  - Loi n°80-512 1980-07-07 ART. 2 JORF 9 juillet 1980
-
 	**Cité par**:
 
 	  - Décret n°87-361 du 27 mai 1987 - art. 2 (V)
@@ -35344,10 +37009,26 @@ plantes saisies.
 	  - Code de la santé publique - art. R5185 (M)
 	  - Code de la santé publique - art. R5226 (M)
 
+	**Modifié par**:
+
+	  - Loi n°91-1414 du 31 décembre 1991 - art. 26 () JORF 7 janvier 1992
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L1342-3 (V)
+	  - Code de la santé publique - art. L1343-4 (M)
 	  - Code de la santé publique - art. L5132-8 (V)
+	  - Code de la santé publique - art. L5432-1 (M)
 	  - Code de la santé publique - art. L5432-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L626-1 (Ab)
 
 
 ###### Article L626-1
@@ -35487,6 +37168,74 @@ Mayotte.*]
 
 	  - Code de la santé publique - art. L5132-7 (V)
 	  - Code de la santé publique - art. L5132-8 (V)
+
+
+###### Article L628
+
+Seront punis d'un emprisonnement d'un an [*durée*] et d'une amende de 25.000 F (1) [*montant*] ou de l'une de ces deux peines
+seulement, ceux qui auront, de manière illicite, fait usage de l'une des substances ou plantes classées comme stupéfiants
+[*toxicomanes*].
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°70-1320 1970-12-31 art. 2 JORF 3 janvier 1971
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°71-690 du 19 août 1971
+	  - TXT_SOURCE: Décret n°71-690 du 19 août 1971 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°71-690 du 19 août 1971 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°71-690 du 19 août 1971 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°71-690 du 19 août 1971 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°71-690 du 19 août 1971 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°71-690 du 19 août 1971 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°71-690 du 19 août 1971 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°71-690 du 19 août 1971 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°71-690 du 19 août 1971 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°71-690 du 19 août 1971 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°71-690 du 19 août 1971 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°71-690 du 19 août 1971 - art. 9 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L629 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L629-1 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L629-2 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L630 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L630-1 : DISPOSITIONS PENALES RELATIVES AUX ETRANGERS
+
+	**Cité par**:
+
+	  - Décret n°71-690 du 19 août 1971 - art. 2 (Ab)
+	  - Décret n°71-690 du 19 août 1971 - art. 4 (Ab)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+	  - CODE DE PROCEDURE PENALE - art. 41-2 (M)
+	  - CODE PENAL - art. 44 (M)
+	  - Code de la santé publique - art. L628-2 (Ab)
+	  - Code de la santé publique - art. L628-3 (Ab)
+	  - Code de la santé publique - art. L628-4 (Ab)
+	  - Code de la santé publique - art. L629 (Ab)
+	  - Code de la santé publique - art. L629-1 (Ab)
+	  - Code de la santé publique - art. L629-2 (Ab)
+	  - Code de la santé publique - art. L630 (Ab)
+	  - Code de la santé publique - art. L630-1 (Ab)
+	  - Code de procédure pénale - art. 398-1 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3421-1 (M)
+	  - Code de la santé publique - art. L3421-1 (V)
 
 
 ###### Article L628-1
@@ -35838,22 +37587,28 @@ Mayotte.*]
 
 ###### Article L629-2
 
-En cas d'infraction aux articles L. 627, L. 627-2 ou L. 628 du présent code, la fermeture administrative des lieux mentionnés
-au premier alinéa de l'article L. 629-1 [*hôtel, maison meublée, pension, débit de boisson, restaurant, club, cercle,
-dancing, lieu de spectacle*] peut être ordonnée par le commissaire de la République [*autorité compétente*] pour une durée
-n'excédant pas trois mois.
+En cas d'infraction à l'article L. 628 du présent code et aux articles 222-34 à 222-39 du code pénal, le préfet peut
+ordonner, pour une durée n'exédant pas trois mois, la fermeture de tout hôtel, maison meublée, pension, débit de boissons,
+restaurant, club, cercle, dancing, lieu de spectacle ou leurs annexes ou lieu quelconque ouvert au public ou utilisé par le
+public où l'infraction a été commise.
 
 Le ministre de l'intérieur peut, dans les mêmes conditions, ordonner la fermeture de ces mêmes lieux pour une durée pouvant
 aller jusqu'à un an ; dans ce cas, la durée de la fermeture prononcée par le commissaire de la République s'impute sur celle
 de la fermeture prononcée par le ministre.
 
 Les mesures prévues par les deux alinéas qui précèdent cessent de plein droit de produire effet en cas de décision de non-
-lieu ou de relaxe. La durée de la fermeture par l'autorité administrative s'impute sur celle de la fermeture prononcée en
-application de l'article L. 629-1.
+lieu de relaxe ou d'acquittement. La durée de la fermeture par l'autorité administrative s'impute sur celle de la fermeture
+prononcée par la juridiction d'instruction.
 
-Quiconque aura contrevenu à une décision de fermeture prononcée en application du présent article sera puni d'une amende de 3
-000 F à 15 000 F [*montant*] et d'un emprisonnement de six jours à deux mois [*durée*] ou de l'une de ces deux peines
-seulement.
+Le fait de contrevenir à la décision de fermeture prononcée en application du présent article est puni de six mois
+d'emprisonnement [*durée*] et de 50 000 F d'amende [*montant*] (1).
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota - Ordonnance 96-267 du 28 mars 1996 art. 12 : l'article 226 de la présente ordonnance est applicable dans les TOM et à
+Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -35861,40 +37616,55 @@ seulement.
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Loi n°87-1157 du 31 décembre 1987 - art. 6 () JORF 5 janvier 1988
 
 	**Cité par**:
 
 	  - Loi n°90-1010 du 14 novembre 1990 - art. 13 (M)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 226 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+	  - TXT_ASSOCIE: Code pénal 222-34 à 222-39
+	  - TXT_ASSOCIE: Code de la santé publique - art. L628 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - Code de la santé publique - art. L627 (M)
-	  - Code de la santé publique - art. L627-2 (M)
+	  - Code pénal 222-34 à 222-39
 	  - Code de la santé publique - art. L628 (Ab)
-	  - Code de la santé publique - art. L629-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3422-1 (V)
+	  - Code de la santé publique - art. L3422-2 (M)
 
 
 ###### Article L630
 
-Sans préjudice des dispositions de l'article 60 du Code pénal, seront punis d'un emprisonnement de un an à cinq ans [*durée*]
-et d'une amende de 5.000 F à 500.000 F [*montant*], ou de l'une de ces deux peines seulement, ceux qui, par un moyen
-quelconque, auront provoqué à l'un des délits prévus et réprimés par les articles L. 627 et L. 628, alors même que cette
-provocation n'aurait pas été suivie d'effet, ou qui les auront présentés sous un jour favorable.
+Le fait de provoquer au délit prévu par l'article L. 628 du présent code ou à l'une des infractions prévues par les articles
+222-34 à 222-39 du code pénal, alors même que cette provocation n'a pas été suivie d'effet, ou de présenter ces infractions
+sous un jour favorable est puni de cinq ans d'emprisonnement [*durée*] et de 500 000 F d'amende [*montant*] (1).
 
-Seront punis des mêmes peines ceux qui, par un moyen quelconque, auront provoqué, alors même que cette provocation n'aurait
-pas été suivie d'effet, à l'usage de substances présentées comme ayant les effets de substances ou plantes stupéfiantes
-[*incitation*].
+Est puni des mêmes peines le fait de provoquer, même lorsque cette provocation n'est pas suivie d'effet, à l'usage de
+substances présentées comme ayant les effets de substances ou plantes classées comme stupéfiants.
 
-En cas de provocation au moyen de l'écrit, même introduit de l'étranger, de la parole ou de l'image, même si celles-ci ont
-été émises de l'étranger, pourvu qu'elles aient été perçues en France, les poursuites prévues aux alinéas précédents seront
-exercées contre les personnes énumérées à l'article 285 du Code pénal, dans les conditions fixées par cet article, si le
-délit a été commis par la voie de la presse, et contre les personnes reconnues responsables de l'émission, ou, à leur défaut,
-les chefs d'établissements, directeurs ou gérants des entreprises [*responsabilité*] ayant procédé à la diffusion ou en ayant
-tiré profit, si le délit a été commis par toute autre voie.
+Lorsque le délit prévu par le présent article est commis par la voie de la presse écrite ou audiovisuelle, les dispositions
+particulières des lois qui régissent ces matières sont applicables en ce qui concerne la détermination des personnes
+responsables.
+
+(1) Amende applicable depuis le 5 janvier 1971.
+
+**Nota:**
+
+[*Nota - Ordonnance 96-267 du 28 mars 1996 art. 12 : l'article 227 de la présente ordonnance est applicable dans les TOM et à
+Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -35902,10 +37672,6 @@ tiré profit, si le délit a été commis par toute autre voie.
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
 
 	**Cité par**:
 
@@ -35914,78 +37680,30 @@ tiré profit, si le délit a été commis par toute autre voie.
 	  - Code de la santé publique - art. L630-3 (Ab)
 	  - Code de la santé publique - art. R5185 (M)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 227 () JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance n°96-267 du 28 mars 1996 - art. 12 (M)
+	  - TXT_ASSOCIE: Code pénal 222-34 à 222-39
+	  - TXT_ASSOCIE: Code de la santé publique - art. L627 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L628 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - Code pénal 285, 60
-	  - Code de la santé publique - art. L627 (M)
+	  - Code pénal 222-34 à 222-39
 	  - Code de la santé publique - art. L628 (Ab)
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L3421-4 (M)
 	  - Code de la santé publique - art. L3421-4 (V)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L627 (M)
-	  - TXT_ASSOCIE: Code de la santé publique L630-1 : DISPOSITIONS PENALES RELATIVES AUX ETRANGERS
-
-
-###### Article L630-1
-
-Sans préjudice de l'application des articles 23 et suivants de l'ordonnance n° 45-2658 du 2 novembre 1945, les tribunaux
-pourront prononcer l'interdiction du territoire français, pour une durée de deux à cinq ans, contre tout étranger condamné
-pour les délits prévus par les articles L. 626, L. 627-2, L. 628, L. 628-4 et L. 630. Ils pourront prononcer l'interdiction
-définitive du territoire français contre tout étranger condamné pour les délits prévus à l'article L. 627.
-
-L'interdiction du territoire français n'est pas applicable à l'encontre du condamné étranger mineur de dix-huit ans.
-
-Le tribunal ne peut prononcer que par une décision spécialement motivée au regard de la gravité de l'infraction
-l'interdiction du territoire français à l'encontre :
-
-1° D'un condamné étranger père ou mère d'un enfant français résidant en France, à condition qu'il exerce, même partiellement,
-l'autorité parentale à l'égard de cet enfant ou qu'il subvienne effectivement à ses besoins ;
-
-2° D'un condamné étranger marié depuis au moins un an avec un conjoint de nationalité française, à condition que ce mariage
-soit antérieur aux faits ayant antraîné sa condamnation, que la communauté de vie n'ait pas cessé et que le conjoint ait
-conservé la nationalité française ;
-
-3° D'un condamné étranger qui justifie qu'il réside habituellement en France depuis qu'il a atteint au plus l'âge de dix
-ans ;
-
-4° D'un condamné étranger qui justifie qu'il réside régulièrement en France depuis plus de quinze ans.
-
-Les dispositions des cinq alinéas précédents ne s'appliquent pas en cas de condamnation pour la production ou la fabrication
-de plantes vénéneuses classées comme stupéfiants ou pour l'importation ou l'exportation desdites substances, ou en cas de
-condamnation pour association formée ou entente établie en vue de commettre ces infractions.
-
-Elles ne sont pas non plus applicables en cas de condamnation pour infraction prévue au troisième alinéa de l'article L. 627.
-
-L'interdiction du territoire français entraîne de plein droit la reconduite du condamné à la frontière, le cas échéant à
-l'expiration de sa peine d'emprisonnement.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Ordonnance 45-2658 1945-11-02 art. 23 et S.
-	  - Code de la santé publique - art. L626 (M)
-	  - Code de la santé publique - art. L627 (M)
-	  - Code de la santé publique - art. L627-2 (M)
-	  - Code de la santé publique - art. L628 (Ab)
-	  - Code de la santé publique - art. L628-4 (Ab)
-	  - Code de la santé publique - art. L630 (M)
-
-	**Cité par**:
-
-	  - Loi n°90-1010 du 14 novembre 1990 - art. 13 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 223 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993, prorogée le 1er mars 1994
-
-	**Modifié par**:
-
-	  - Loi n°93-1027 du 24 août 1993 - art. 35 () JORF 29 août 1993
 
 
 #### Chapitre 2 : Radio-éléments artificiels
@@ -36308,6 +38026,68 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique L631 A L640
 
 
+###### Article L639
+
+Toute infraction aux dispositions des articles L. 632, L. 634, et L. 636 ou des règlements pris pour leur application sera
+punie d'un emprisonnement de deux mois [*durée*] et d'une amende de 25.000 F (1) [*montant*] ou de l'une de ces deux peines
+seulement, sans préjudice des pénalités prévues par le code des douanes.
+
+Quiconque aura contrevenu aux dispositions de l'article L. 635 sera puni d'une amende de 25.000 F (2) et, en cas de récidive,
+d'une amende de 50.000 F (2). Dans ce dernier cas, le tribunal pourra interdire la vente du produit dont la publicité aura
+été faite en violation dudit article L. 635.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+(2) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°52-844 1952-07-19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1336-6 (M)
+	  - Code de la santé publique - art. L1336-7 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L632 (Ab)
+	  - Code de la santé publique - art. L634 (Ab)
+	  - Code de la santé publique - art. L635 (Ab)
+	  - Code de la santé publique - art. L636 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L632 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L634 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L635 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L636 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5237 (M)
+
+
 ###### Article L640
 
 Des décrets en Conseil d'Etat détermineront les conditions d'application du présent chapitre, et notamment :
@@ -36421,17 +38201,19 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 Tout producteur ou fabricant d'essences ou d'anéthol pouvant servir à la fabrication de boissons alcooliques qui aura vendu
 ou offert, à titre gratuit, lesdites essences à toutes autres personnes que celles autorisées par l'article L. 461 [*L. 641*]
-sera puni d'une amende de 3.000 F à 20.000 F [*montant*].
+sera puni d'une amende de 25.000 F (1) [*montant*].
 
 Toute personne autorisée par l'article L. 641 à acheter lesdits produits, qui les aura revendus sur le marché intérieur,
-contrairement aux dispositions dudit article, sera passible d'une amende de 300 F à 15.000 F. 
+contrairement aux dispositions dudit article, sera passible d'une amende de 25.000 F (1).
 
-Tout pharmacien qui aura délivré lesdits produits sans ordonnance médicale sera passible d'une amende de 1.500 F à 15.000 F. 
+Tout pharmacien qui aura délivré lesdits produits sans ordonnance médicale sera passible d'une amende de 25.000 F (2).
 
 En cas de récidive, le minimum et le maximum des peines prévues par le présent article seront portés au double.
 
 Dans tous les cas, les délinquants pourront être privés des droits [*civiques, civils et de famille*] mentionnés à l'article
-42 du Code pénal pendant un an au moins et cinq ans au plus [*durée*].
+131-26 du Code pénal pendant un an au moins et cinq ans au plus [*durée*].
+
+(1) Amende applicable depuis le 1er mars 1994.
 
 **Nota:**
 
@@ -36445,10 +38227,24 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 330 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - Code pénal 42
+	  - Code pénal - art. 131-26 (V)
 	  - Code de la santé publique - art. L641 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3351-3 (M)
+	  - Code de la santé publique - art. L3355-3 (V)
 
 	**Liens**:
 
@@ -36458,9 +38254,51 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	  - Code des débits de boissons et des mesures contre  - art. L7 (Ab)
 
+
+###### Article L642-1
+
+Sans préjudice des interdictions visées à l'article 1768 [*nouvel article 1817*] du Code général des impôts, les infractions
+aux décrets prévus à l'alinéa 3 de l'article L. 641 seront punies d'un emprisonnement de six mois [*durée*] et d'une amende
+de 25.000 F (1) [*montant*] ou de l'une de ces deux peines seulement. En outre, la confiscation des marchandises et des
+moyens de transports sera toujours prononcée. En cas de récidive, la peine d'emprisonnement sera obligatoirement prononcée et
+l'amende sera portée au double. En outre, le tribunal prononcera la fermeture définitive de l'établissement. Les infractions
+seront poursuivies et constatées comme en matière de contributions indirectes.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CGI 1768, 1817
+	  - Code de la santé publique L641 AL. 3
+
 	**Anciens textes**:
 
-	  - Loi n°41-4113 1941-09-24 art. 20 ET art. 25
+	  - Loi n°51-640 1951-05-24 art. 9
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3351-4 (M)
+	  - Code de la santé publique - art. L3351-4 (V)
 
 
 #### Chapitre 5 : Abortifs
@@ -36525,16 +38363,69 @@ appareils chirurgicaux.
 	  - Décret n°1939-07-29 ART. 91
 
 
+###### Article L646
+
+Toute infraction aux dispositions qui précèdent sera punie d'un emprisonnement de deux ans [*durée*], et d'une amende de
+30.000 F (1) [*montant*].
+
+Les tribunaux ordonneront, dans tous les cas, la confiscation des remèdes, substances, instruments et objets saisis. Ils
+pourront, en outre, prononcer à l'égard du condamné la suspension temporaire ou l'incapacité d'exercer la profession à
+l'occasion de laquelle le délit aura été commis.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1939-07-29 art. 91
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°67-1176 du 28 décembre 1967 - art. 1 (V) JORF 29 décembre 1967
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Loi n°81-736 du 4 août 1981 - art. 2 (V)
+	  - Loi n°88-828 du 20 juillet 1988 - art. 2 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5435-1 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L645 (Ab)
+
+
 ###### Article L647
 
-Sans préjudice des dispositions de l'article 60 du Code pénal, seront punis d'un emprisonnement de deux mois à deux ans  et
-d'une amende de 2.000 à 30.000 F ou de l'une de ces deux peines seulement, ceux qui, par un moyen quelconque, auront provoqué
-à l'interruption de grossesse, même licite, alors même que cette provocation n'aurait pas été suivie d'effet.
+Sans préjudice des dispositions des articles 121-6 et 121-7 du Code pénal, seront punis d'un emprisonnement de deux ans et
+d'une amende de 30.000 F (1) ou de l'une de ces deux peines seulement, ceux qui, par un moyen quelconque, auront provoqué à
+l'interruption de grossesse, même licite, alors même que cette provocation n'aurait pas été suivie d'effet. 
 
 Seront punis des mêmes peines ceux qui, par un moyen quelconque, sauf dans les publications réservées aux médecins et aux
 pharmaciens, auront fait de la propagande ou de la publicité directe ou indirecte concernant soit les établissements dans
 lesquels sont pratiquées les interruptions de grossesse, soit les médicaments, produits et objets ou méthodes destinés à
-procurer ou présentés comme de nature à procurer une interruption de grossesse. 
+procurer ou présentés comme de nature à procurer une interruption de grossesse.
 
 En cas de provocation, de propagande ou de publicité au moyen de l'écrit, même introduit de l'étranger, de la parole ou de
 l'image, même si celles-ci ont été émises de l'étranger, pourvu qu'elles aient été perçues en France, les poursuites prévues
@@ -36545,22 +38436,16 @@ ou en ayant tiré profit, si le délit a été commis par toute autre voie.
 
 **Nota:**
 
-[*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.
+
+(1) Amende applicable depuis le 1er janvier 1978.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-346 du 3 avril 1958 - art. 1 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°1920-07-31 ART. 1 ET ART. 2
-
-	**Modifié par**:
-
-	  - Loi n°67-1176 du 28 décembre 1967 - art. 1 (V) JORF 29 décembre 1967
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
 	**Cité par**:
 
@@ -36570,14 +38455,29 @@ ou en ayant tiré profit, si le délit a été commis par toute autre voie.
 	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
 	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
 
+	**Anciens textes**:
+
+	  - Loi n°1920-07-31 art. 1 ET art. 2
+
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
 	  - TXT_ASSOCIE: Code de la santé publique L650 : DISPOSITIONS PENALES
 
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 332 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
-	  - Code pénal 60, 285
+	  - Code pénal - art. 121-6 (V)
+	  - Code pénal - art. 121-7 (V)
+	  - Code pénal 121-6, 121-7, 285
 
 	**Nouveaux textes**:
 
@@ -36642,6 +38542,46 @@ au code de la consommation correspondantes.*]
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
+###### Article L656
+
+Toute personne qui débitera à titre gratuit ou onéreux des thermomètres médicaux sans y être autorisée conformément aux
+dispositions de l'article L. 653 sera punie d'une amende de 25.000 F (1) [*montant*] et, en cas de récidive, d'une amende de
+50.000 F (1), sans préjudice de la saisie des thermomètres détenus illégalement par le délinquant.
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L653 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L653 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5243 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°44-149 1944-04-01 art. 3
+
+
 #### Chapitre 7 : Biberons à tube et tétines
 
 ###### Article L657
@@ -36688,6 +38628,47 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique L658 : DISPOSITIONS PENALES
+
+
+###### Article L658
+
+Toute infraction aux dispositions de l'article L. 657 sera punie de l'amende prévue pour les contraventions de la 4° classe
+[*montant*].
+
+Dans tous les cas, les tribunaux pourront prononcer la confiscation des biberons à tube saisis en contravention.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 327 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 5 JORF 8 août 2004
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I sous réserve art. 5 1° JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L657 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5463-1 (V)
+
+	**Anciens textes**:
+
+	  - Loi n°1910-04-06 art. 3
 
 
 #### Chapitre 8 : Produits cosmétiques et produits d'hygiène corporelle
@@ -37137,6 +39118,77 @@ au code de la consommation correspondantes.*]
 	**Cite**:
 
 	  - Code de la consommation - art. L213-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
+
+
+###### Article L658-10
+
+Sera punie d'un emprisonnement de six mois *durée* et d'une amende de 40.000 F (1) *montant*, ou de l'une de ces deux peines
+seulement, toute personne qui aura :
+
+1° Ouvert ou exploité un établissement fabriquant, conditionnant ou important des produits cosmétiques ou d'hygiène
+corporelle, ou étendu l'activité d'un établissement à de tels produits, sans avoir fait au préalable à l'autorité compétente
+la déclaration prévue à l'article L. 658-2, ou sans avoir déclaré les modifications portant sur les éléments constitutifs de
+la déclaration ;
+
+2° Mis sur le marché un produit cosmétique ou un produit d'hygiène corporelle, sans avoir constitué le dossier mentionné à
+l'article L.  658-3 ou sans avoir communiqué la formule intégrale du produit ;
+
+3° Mis ou maintenu sur le marché à titre gratuit ou onéreux des produits cosmétiques ou des produits d'hygiène corporelle
+ayant fait l'objet d'une des mesures de suspension ou d'interdiction prévues à l'article L. 658-4 ;
+
+4° Fabriqué, conditionné ou mis sur le marché à titre onéreux ou gratuit des produits cosmétiques ou des produits d'hygiène
+corporelle contenant des substances vénéneuses ou des doses ou concentrations de substances vénéneuses, non conformes à la
+liste mentionnée à l'article L. 658-5 ;
+
+5° Fabriqué, conditionné ou mis sur le marché à titre onéreux ou gratuit des produits cosmétiques ou des produits d'hygiène
+corporelle contenant des agents conservateurs, colorants ou substances non conformes aux listes mentionnées à l'article L.
+658-6 ;
+
+6° Fait obstacle aux opérations d'inspection mentionnées à l'article L. 658-8.
+
+En cas de récidive les peines seront portées au double.
+
+Sans préjudice, le cas échéant, de la destruction des produits corrompus ou toxiques, le tribunal ordonnera la confiscation
+des produits fabriqués ou importés, mis sur le marché en infraction aux dispositions du présent chapitre. Il pourra, en
+outre, interdire à l'auteur de l'infraction de fabriquer, de conditionner, d'importer, de vendre et de mettre sur le marché
+ces produits ; il pourra également ordonner la fermeture temporaire ou définitive de l'établissement.
+
+Seront passibles des peines prévues au présent article les infractions aux mesures ainsi ordonnées par le tribunal.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Liens**:
+
+	  - PEREMPTION: Loi n°98-535 du 1 juillet 1998 - art. 7 () JORF 2 juillet 1998
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L658-2 (M)
+	  - Code de la santé publique - art. L658-3 (M)
+	  - Code de la santé publique - art. L658-4 (M)
+	  - Code de la santé publique - art. L658-5 (M)
+	  - Code de la santé publique - art. L658-6 (M)
+	  - Code de la santé publique - art. L658-8 (M)
 
 	**Créé par**:
 
@@ -45188,6 +47240,60 @@ juridique des établissements.
 	  - Loi n°91-748 du 31 juillet 1991 - art. 10 () JORF 2 août 1991
 
 
+###### Article L715-3
+
+Toute personne qui ouvre ou gère un établissement de santé privé ou installe dans un établissement privé concourant aux soins
+médicaux des équipements matériels lourds en infraction aux dispositions des articles L. 712-8 et L. 712-13 ci-dessus est
+passible d'une amende de 1 000 000 F (1) [*montant*].
+
+Est passible de la même peine toute personne qui passe outre à la suspension ou au retrait d'autorisation prévus aux articles
+L. 715-2 et L. 712-18 ci-dessus.
+
+En cas de récidive, la peine prévue au présent article est portée au double et peut être assortie de la confiscation des
+équipements installés sans autorisation.
+
+(1) Amende applicable depuis le 4 août 1991.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 38 (T)
+
+	**Créé par**:
+
+	  - Loi n°91-748 1991-07-31 art. 10 III, art. 15 I et II, art. 16 JORF 2 août 1991
+	  - Loi n°91-748 du 31 juillet 1991 - art. 10 () JORF 2 août 1991
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6123-1 (T)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L712-13 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L712-18 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L712-8 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L715-2 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-13 (M)
+	  - Code de la santé publique - art. L712-18 (M)
+	  - Code de la santé publique - art. L712-8 (M)
+	  - Code de la santé publique - art. L715-2 (Ab)
+
+
 ###### Article L715-4
 
 La comptabilité des établissements d'hospitalisation privés doit être mise, sur demande, à la disposition exclusive de
@@ -46436,6 +48542,81 @@ L'Etat, pour les sources dont il est propriétaire, est dispensé du cautionneme
 
 
 ##### Section 2 : Dispositions pénales.
+
+###### Article L747
+
+L'exécution, sans autorisation ou sans déclaration préalable, dans le périmètre de protection, de l'un des travaux mentionnés
+dans l'article L. 737 ci-dessus, la reprise des travaux interdits ou suspendus administrativement en vertu des articles L.
+738, 739 et 740, sont punies de l'amende prévue pour les contraventions de la 5e classe [*montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 art. 13
+
+	**Modifié par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L737 (M)
+	  - Code de la santé publique - art. L738 (M)
+	  - Code de la santé publique - art. L739 (M)
+	  - Code de la santé publique - art. L740 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L749 (Ab)
+	  - Code de la santé publique - art. L750 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1324-3 (Ab)
+
+
+###### Article L748
+
+Les infractions aux règlements d'administration publique prévues au dernier alinéa de l'article L. 751 du présent chapitre
+sont punies de l'amende prévue pour les contraventions de la 4e classe [*montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 326 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L749 (Ab)
+	  - Code de la santé publique - art. L750 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L751 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1324-4 (V)
+	  - Code de la santé publique - art. R1324-6 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°1856-07-14 art. 14
+
 
 ###### Article L749
 
@@ -47964,12 +50145,59 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 ###### Article L761-16
 
 L'emploi illicite de l'appellation de laboratoire d'analyses de biologie médicale, ou toute expression prêtant à confusion
-avec celle-ci, est puni d'un emprisonnement de deux mois à un an [*durée*]
-
-et d'une amende de 2.000 à 40.000 F [*montant*] ou de l'une de ces deux peines seulement.
+avec celle-ci, est puni d'un emprisonnement d'un an [*durée*] et d'une amende de 40.000 F (1) [*montant*] ou de l'une de ces
+deux peines seulement.
 
 Le tribunal peut, en outre, ordonner la publication du jugement aux frais du condamné et son affichage dans les conditions
-prévues à l'article 51 du code pénal.
+prévues à l'article 131-35 du code pénal.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 52 : le présent article du code de la santé publique, en vigueur le 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 331 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Cite**:
+
+	  - Code pénal - art. 131-35 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6214-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-23 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
+
+
+###### Article L761-17
+
+Les infractions aux dispositions du premier alinéa de l'article L. 757 et aux dispositions des premier et deuxième alinéas de
+l'article L. 760 sont punies d'un emprisonnement de six mois [*durée*] et d'une amende de 40.000 F (1) [*montant*] ou de
+l'une de ces deux peines seulement.
+
+En cas d'infraction au premier alinéa de l'article L. 757, le tribunal peut, en outre, prononcer la confiscation du matériel
+ayant servi à l'activité illégale ainsi que la fermeture du laboratoire.
+
+(1) Amende applicable depuis le 1er janvier 1978.
 
 **Nota:**
 
@@ -47986,23 +50214,124 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Modifié par**:
 
 	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-
-	**Cite**:
-
-	  - Code pénal 51
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
 
 	**Nouveaux textes**:
 
-	  - Code de la santé publique - art. L6214-1 (V)
+	  - Code de la santé publique - art. L6214-2 (V)
+	  - Code de la santé publique - art. L6214-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L757 (M)
+	  - Code de la santé publique - art. L760 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L757 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L760 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-23 (M)
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
 
 	**Cité par**:
 
 	  - Code de la santé publique - art. L761-23 (Ab)
 
+
+###### Article L761-18
+
+Les infractions aux dispositions des articles L. 756, L. 761-1 et L. 761-2 et des alinéas 2 et 3 de l'article L. 761 sont
+punies d'un emprisonnement de six mois [*durée*] et d'une amende de 40.000 F (1) [*montant*] ou de l'une de ces deux peines
+seulement.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 52 : le présent article du code de la santé publique, en vigueur le 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6214-6 (V)
+	  - Code de la santé publique - art. L6214-7 (V)
+	  - Code de la santé publique - art. L6222-2 (V)
+	  - Code de la santé publique - art. L6222-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L756 (M)
+	  - Code de la santé publique - art. L761 (M)
+	  - Code de la santé publique - art. L761-1 (M)
+	  - Code de la santé publique - art. L761-2 (M)
+
 	**Liens**:
 
+	  - TXT_ASSOCIE: Code de la santé publique - art. L756 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-1 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-2 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-23 (M)
 	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
-	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-20 (Ab)
+	  - Code de la santé publique - art. L761-23 (Ab)
+
+
+###### Article L761-19
+
+Les infractions aux dispositions du premier alinéa de l'article L. 761 sont punies d'une amende de 25.000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 52 : le présent article du code de la santé publique, en vigueur le 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6222-3 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-23 (M)
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-23 (Ab)
 
 
 ###### Article L761-20
@@ -48039,6 +50368,93 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Cité par**:
 
 	  - Code de la santé publique - art. L761-23 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
+
+
+###### Article L761-21
+
+Les infractions aux dispositions de l'article L. 761-12 [*publicité*] sont punies d'une amende de 25.000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er mars 1994.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 52 : le présent article du code de la santé publique, en vigueur le 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 329 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6214-4 (V)
+	  - Code de la santé publique - art. L6222-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-12 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-12 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-23 (M)
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-23 (Ab)
+
+
+###### Article L761-22
+
+Toute personne physique ou morale passant avec un directeur ou directeur adjoint de laboratoire ou une société exploitant un
+laboratoire un contrat ou avenant mentionné aux articles L. 761-4 et L. 761-5 doit le faire par écrit [*condition de
+forme*] ; le refus de rédaction d'un écrit du fait du contractant est puni d'une amende de 40.000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 52 : le présent article du code de la santé publique, en vigueur le 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6222-5 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-23 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-4 (M)
+	  - Code de la santé publique - art. L761-5 (M)
 
 	**Liens**:
 
@@ -48198,6 +50614,46 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Cite**:
 
 	  - Code de la santé publique - art. L765 (M)
+
+
+###### Article L765
+
+Toute infraction aux dispositions des articles L. 762 et L. 763 ci-dessus est passible d'une amende de 30.000 F (1)
+[*montant*].
+
+En cas de récidive, l'amende peut être portée au double et le jugement ordonner la fermeture de l'établissement.
+
+(1) Amende applicable depuis le 1er janvier 1978.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 52 : le présent article du code de la santé publique, en vigueur le 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1940-05-20 art. 5
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L762 (M)
+	  - Code de la santé publique - art. L763 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L764 (Ab)
 
 
 ## Livre 8 : Institutions
