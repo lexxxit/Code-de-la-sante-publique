@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1973-07-01
+Version Consolidée au 1973-09-20
 
 # Partie législative ancienne
 
@@ -17472,26 +17472,6 @@ s'applique à la collectivité territoriale de Mayotte.*]
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
-###### Article L490
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L4321-22 (Ab)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L491-2 (Ab)
-
-
 ###### Article L491
 
 Les personnes qui ont fait la preuve qu'elles exerçaient le massage médical ou la gymnastique médicale depuis trois années
@@ -17556,20 +17536,6 @@ Guyane, de la Martinique et de la Réunion pendant trois années au moins avant 
 	  - Code de la santé publique - art. L4321-5 (V)
 	  - Code de la santé publique - art. L4321-6 (M)
 	  - Code de la santé publique - art. L4321-7 (Ab)
-
-
-#### Chapitre 2 : Pédicure-podologue.
-
-###### Article L495
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 #### Chapitre 3 : Dispositions communes et dispositions pénales
