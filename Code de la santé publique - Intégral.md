@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1973-09-20
+Version Consolidée au 1974-05-16
 
 # Partie législative ancienne
 
@@ -26306,46 +26306,6 @@ Le présent article n'est pas applicable aux militaires et marins soignés dans 
 
 #### Chapitre 8 : Dispositions spéciales relatives à l'admission des militaires dans les hôpitaux civils.
 
-###### Article L717
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab) JORF 16 mai 1974
-
-	**Cité par**:
-
-	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab)
-
-
-###### Article L718
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab) JORF 16 mai 1974
-
-	**Cité par**:
-
-	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab)
-
-
 ###### Article L719
 
 Les obligations imposées aux hospices civils ne peuvent, dans aucun cas, porter préjudice au service des fondations et de
@@ -26402,26 +26362,6 @@ des malades militaires dans les hôpitaux civils demeurent exécutoires.
 	**Anciens textes**:
 
 	  - Loi n°1877-07-07 ART. 6
-
-
-###### Article L721
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab) JORF 16 mai 1974
-
-	**Cité par**:
-
-	  - Décret n°74-431 du 14 mai 1974 - art. 11 (Ab)
 
 
 ###### Article L722
