@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1968-12-22
+Version Consolidée au 1969-01-08
 
 # Partie législative ancienne
 
@@ -36018,6 +36018,146 @@ explications.
 	**Créé par**:
 
 	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+##### Paragraphe 2 : Des sociétés propriétaires d'établissements de préparation, de vente en gros ou de distribution en gros des médicaments, produits et objets définis aux articles L. 511 et L. 512.
+
+###### Article R5113
+
+Dans les sociétés mentionnées à l'article L. 596, le pharmacien responsable doit être :
+
+Dans les sociétés anonymes autres que celles qui sont régies par les articles 118 et suivants de la loi n° 66-537 du 24
+juillet 1966, le président du conseil d'administration ou un directeur général ;
+
+Dans les sociétés anonymes régies par lesdits articles, soit le président du directoire, soit un autre membre du directoire
+ayant la qualité de directeur général, soit le directeur général unique ;
+
+Dans les sociétés en commandite par actions, les sociétés à responsabilité limitée, les sociétés en nom collectif et les
+sociétés en commandite simple, un gérant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 art. 118
+	  - Code de la santé publique - art. L596 (M)
+
+	**Créé par**:
+
+	  - Décret n°69-13 1969-01-02 art. 8 JORF 8 janvier 1969
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5107 (M)
+	  - Code de la santé publique - art. R5113-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-34 (V)
+
+
+###### Article R5113-1
+
+Le pharmacien inspecteur régional de la santé et le conseil central de la section B de l'ordre des pharmaciens reçoivent
+copie de tout acte portant désignation du pharmacien responsable ou détermination de l'étendue de ses pouvoirs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°69-13 1969-01-02 art. 9 JORF 8 janvier 1969
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5116 (P)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-35 (V)
+
+
+###### Article R5113-2
+
+En vue de l'application des règles édictées dans l'intérêt de la santé publique, le pharmacien responsable défini à l'article
+R. 5113 exerce au moins les attributions suivantes :
+
+Il participe à l'élaboration du programme de recherches et d'études de la société ;
+
+Il signe, après avoir pris connaissance des rapports d'expertise, les demandes d'autorisation de mise sur le marché des
+spécialités pharmaceutiques ;
+
+Il organise et surveille notamment la fabrication, le conditionnement, le stockage, le contrôle et la délivrance à titre
+onéreux ou gratuit des médicaments, produits et objets définis aux articles L. 511 et L. 512 ainsi que la publicité
+concernant ces articles ;
+
+Il a autorité sur les pharmaciens assistants ;
+
+Il signale aux autres dirigeants de la société les difficultés inhérentes aux conditions d'exploitation qui sont de nature à
+faire obstacle à l'exercice de ses attributions.
+
+Dans le cas où un désaccord portant sur l'application des règles édictées dans l'intérêt de la santé publique oppose un
+organe de gestion, d'administration, de direction ou de surveillance au pharmacien responsable, celui-ci doit en informer le
+pharmacien inspecteur régional de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°69-13 1969-01-02 art. 9 JORF 8 janvier 1969
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L511 (M)
+	  - Code de la santé publique - art. L512 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5112-1 (M)
+	  - Code de la santé publique - art. R5112-2 (M)
+	  - Code de la santé publique - art. R5113 (Ab)
+	  - Code de la santé publique - art. R5116 (P)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-36 (V)
+
+
+###### Article R5113-3
+
+Dans le cas où l'organe social compétent met fin aux fonctions de pharmacien responsable d'un pharmacien ou refuse de les
+renouveler lors de leur expiration, ce pharmacien a la faculté de saisir le conseil central de la section B de l'ordre des
+pharmaciens. Après instruction contradictoire, ce conseil émet un avis portant sur le point de savoir si l'intéressé a manqué
+ou non aux obligations qui lui incombaient, dans l'intérêt de la santé publique, en sa qualité de pharmacien responsable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°69-13 1969-01-02 art. 10 JORF 8 janvier 1969
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-37 (V)
 
 
 ##### Paragraphe 4 : Dispositions d'exécution.
