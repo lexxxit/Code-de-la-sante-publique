@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-09-10
+Version Consolidée au 1992-10-08
 
 # Partie législative ancienne
 
@@ -66216,6 +66216,192 @@ III. - Les activités de soins définies à l'article L. 712-2 (2°, b) énumér
 	  - TXT_SOURCE: Code de la santé publique - art. R712-89 (Ab)
 
 
+###### Article R712-2-1
+
+Les structures de soins alternatives à l'hospitalisation mentionnées à l'article L. 712-2 ont pour objet d'éviter une
+hospitalisation à temps complet ou d'en diminuer la durée. Les prestations qui y sont dispensées se distinguent de celles qui
+sont délivrées lors de consultations ou de visites à domicile.
+
+Elles comprennent :
+
+a) Les structures d'hospitalisation à temps partiel de jour ou de nuit ;
+
+b) Les structures pratiquant l'anesthésie ou la chirurgie ambulatoires ;
+
+c) Les structures dites d'hospitalisation à domicile.
+
+Les structures d'hospitalisation à temps partiel, de jour ou de nuit, permettent la mise en oeuvre d'investigations à visée
+diagnostique, d'actes thérapeutiques, de traitements médicaux séquentiels, de traitements de réadaptation fonctionnelle ou
+d'une surveillance médicale.
+
+Les structures pratiquant l'anesthésie ou la chirurgie ambulatoires permettent d'effectuer, dans des conditions qui
+autorisent le patient à rejoindre sa résidence le jour même, des actes médicaux ou chirurgicaux nécessitant une anesthésie ou
+le recours à un secteur opératoire.
+
+Les structures dites d'hospitalisation à domicile permettent d'assurer au domicile du malade, pour une période limitée mais
+révisable en fonction de l'évolution de son état de santé, des soins médicaux et paramédicaux continus et nécessairement
+coordonnés. Ces soins se différencient de ceux habituellement dispensés à domicile par la complexité et la fréquence des
+actes. Chaque structure d'hospitalisation à domicile intervient dans une aire géographique précisée par l'autorisation prévue
+à l'article L. 712-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1101 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Décret n°92-1102 du 2 octobre 1992 - art. 2 (Ab)
+	  - Arrêté du 7 janvier 1993 - art. 9 (V)
+	  - Arrêté du 31 mars 1999 - art. 3 (V)
+	  - Code de la santé publique - art. D712-30 (Ab)
+	  - Code de la santé publique - art. D712-35 (Ab)
+	  - Code de la santé publique - art. D712-39 (Ab)
+	  - Code de la santé publique - art. D712-49 (Ab)
+	  - Code de la santé publique - art. R5121-83 (M)
+	  - Code de la santé publique - art. R5143-5-2 (Ab)
+	  - Code de la santé publique - art. R712-2-2 (Ab)
+	  - Code de la santé publique - art. R712-48 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°92-1102 du 2 octobre 1992 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 1 (M)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 3 (M)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 4 (V)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 5 (V)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 6 (V)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 7 (V)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 8 (V)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 9 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-434 du 6 mai 2005 - art. 10 (V) JORF 8 mai 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-2 (M)
+	  - Code de la santé publique - art. L712-8 (M)
+
+
+###### Article R712-2-2
+
+Ne sont pas régis par les articles R. 712-2-1, R. 712-2-3 et R. 712-4 et demeurent soumis aux dispositions qui leur sont
+propres :
+
+a) Les services de suppléance aux insuffisances chroniques, y compris les services de soins spécialisés à domicile ;
+
+b) Les services et équipements constituant des structures de soins alternatives à l'hospitalisation en psychiatrie, mis en
+oeuvre par les établissements mentionnés à l'article L. 711-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1101 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Décret n°99-316 du 26 avril 1999 - art. Annexe III (Ab)
+	  - Décret n°2003-1010 du 22 octobre 2003 - art. 25 (Ab)
+	  - Code de l'action sociale et des familles - art. R314-168 (V)
+	  - Code de l'action sociale et des familles - art. R314-26 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-434 du 6 mai 2005 - art. 10 (V) JORF 8 mai 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L711-11 (M)
+	  - Code de la santé publique - art. R712-2-1 (Ab)
+	  - Code de la santé publique - art. R712-2-3 (M)
+	  - Code de la santé publique - art. R712-4 (M)
+
+
+###### Article R712-2-3
+
+La capacité des structures de soins alternatives à l'hospitalisation mentionnées à l'article L. 712-2 est exprimée en places.
+Le nombre de places est obtenu en divisant par 365 le nombre maximum annuel de patients pouvant être accueillis pour une
+durée inférieure à un jour, dans le cas des structures d'hospitalisation à temps partiel ou de celles pratiquant l'anesthésie
+ou la chirurgie ambulatoires, et en divisant par 365 le nombre maximum annuel de journées de soins dans le cas de
+l'hospitalisation à domicile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1101 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 1992 - art. 2 (V)
+	  - Code de la santé publique - art. R5104-60 (Ab)
+	  - Code de la santé publique - art. R5126-57 (Ab)
+	  - Code de la santé publique - art. R712-2-2 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-2 (M)
+
+
+###### Article R712-2-4
+
+Les structures de soins alternatives à l'hospitalisation sont prises en compte par la carte sanitaire dans les conditions
+suivantes :
+
+a) Les places relevant des structures pratiquant l'anesthésie ou la chirurgie ambulatoires sont comprises dans la carte
+sanitaire des installations de chirurgie ;
+
+b) Les places relevant des structures d'hospitalisation à temps partiel sont comprises dans les cartes respectives des
+installations de médecine, d'obstétrique, de psychiatrie et de soins de suite ou de réadaptation ;
+
+c) Les places relevant des structures dites d'hospitalisation à domicile sont comprises dans la carte sanitaire des
+installations de médecine.
+
+Lorsque les conditions prévues au premier alinéa de l'article L. 712-9 sont réunies, la création ou l'extension des
+structures de soins alternatives à l'hospitalisation sont autorisées sur la base de l'équivalence entre une place et un lit
+d'hospitalisation à temps complet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1101 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-434 du 6 mai 2005 - art. 10 (V) JORF 8 mai 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-9 (M)
+
+
 ###### Article R712-3
 
 L'établissement de la carte sanitaire est précédé d'un bilan quantitatif et qualitatif des installations, équipements et
@@ -77455,6 +77641,2327 @@ l'activité hospitalière sont pris en compte pour la fixation du budget, des ta
 
 #### Chapitre 6 : Expérimentation et dispositions diverses
 
+##### Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux
+
+##### Sous-section 1 : Assistance publique - hôpitaux de Paris
+
+###### Article R716-3-1
+
+L'Assistance publique - hôpitaux de Paris est un établissement public de santé relevant de la ville de Paris [*nature
+juridique*].
+
+Elle gère, dans les conditions définies par les dispositions ci-après, les hôpitaux, groupes hospitaliers et services
+généraux composant le centre hospitalier universitaire.
+
+Elle exerce les missions définies au chapitre Ier du présent titre sur le plan régional et, pour certaines d'entre elles, sur
+le plan national et international.
+
+Les dispositions de la section 3 du chapitre Ier et celles du chapitre IV du présent titre, ainsi que les textes pris pour
+leur application, sont applicables à l'Assistance publique - hôpitaux de Paris sous réserve des dispositions ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Décret n°96-113 du 13 février 1996 - art. 2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6147-1 (V)
+
+
+##### Paragraphe 1 : Conseil d'administration
+
+###### Article R716-3-2
+
+Le conseil d'administration de l'Assistance publique - hôpitaux de Paris est composé de cinquante et un membres :
+
+1. Le maire de Paris, président ;
+
+2. Sept membres élus en son sein par le conseil de Paris ;
+
+3. Trois conseillers généraux élus respectivement en leur sein par les conseils généraux des départements des Hauts-de-Seine,
+de la Seine-Saint-Denis et du Val-de-Marne ;
+
+4. Deux membres élus en son sein par le conseil régional d'Ile-de-France ;
+
+5. Un membre du Conseil d'Etat nommé sur proposition du vice-président du Conseil d'Etat ;
+
+6. Treize représentants désignés par les conseils d'administration des organismes d'assurance maladie, à savoir :
+
+- trois représentants de la Caisse nationale de l'assurance maladie,
+
+- cinq représentants de la caisse régionale d'assurance maladie d'Ile-de-France ;
+
+- trois représentants de la caisse primaire d'assurance maladie de Paris ;
+
+- deux représentants de la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions
+non agricoles ;
+
+7. Le président et le vice-président de la commission médicale d'établissement ou, dans le cas où ces derniers siègent au
+conseil d'administration en application du 12 du présent article, deux membres de la commission médicale d'établissement élus
+par celle-ci ;
+
+8. Sept autres membres de la commission médicale d'établissement élus par celle-ci ;
+
+9. Un représentant de la commission centrale du service de soins infirmiers élu par celle-ci en son sein ;
+
+10. Huit représentants des personnels désignés sur proposition des organisations syndicales les plus représentatives parmi
+les personnels titulaires relevant du titre IV du statut général des fonctionnaires ;
+
+11. Quatre personnalités qualifiées, nommées par arrêté des ministres chargés de la santé et de la sécurité sociale, à
+savoir :
+
+a) Deux membres nommés sur proposition du préfet de la région Ile-de-France, préfet de Paris, dont :
+
+- un médecin non hospitalier n'exerçant pas dans l'un des hôpitaux de l'Assistance publique - hôpitaux de Paris, présenté
+conjointement par le conseil départemental de l'ordre des médecins de Paris et les syndicats médicaux les plus représentatifs
+dans le département de Paris ;
+
+- un représentant des professions paramédicales n'exerçant pas dans l'un des hôpitaux de l'Assistance publique - hôpitaux de
+Paris, présenté par les organisations professionnelles représentatives au niveau national et ayant en outre une
+représentation dans la région Ile-de-France ;
+
+b) Deux membres nommés parmi les personnes connues pour leurs travaux sur les problèmes hospitaliers ou pour l'intérêt
+qu'elles portent à ceux-ci, l'un sur proposition du ministre chargé du budget et l'autre sur proposition du ministre chargé
+de la santé.
+
+12. Deux directeurs d'unités de formation et de recherche médicale élus par l'ensemble des directeurs des unités de formation
+et de recherche médicale des universités de Paris.
+
+La composition nominative du conseil d'administration est fixée par arrêté des ministres chargés de la santé et de la
+sécurité sociale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Décret n°97-633 du 31 mai 1997 - art. 4 (Ab)
+	  - Code de la santé publique - art. R716-3-3 (Ab)
+
+
+###### Article R716-3-3
+
+Sur proposition du maire, le conseil de Paris désigne parmi les adjoints un premier vice-président du conseil
+d'administration de l'Assistance publique - hôpitaux de Paris, qui supplée le président en cas d'absence ou d'empêchement.
+
+Le conseil d'administration de l'Assistance publique - hôpitaux de Paris élit pour trois ans un second vice-président parmi
+ses membres n'appartenant pas au conseil de Paris. Il préside les séances du conseil en cas d'absence du président et du
+premier vice-président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+
+###### Article R716-3-4
+
+Les dispositions des articles R. 714-2-12, R. 714-2-13, R. 714-2-19 et R. 714-2-21 à R. 714-2-23 ne sont pas applicables au
+conseil d'administration de l'Assistance publique - hôpitaux de Paris.
+
+Pour l'application du deuxième alinéa du 4° de l'article D. 714-2-1, le nombre de voix à prendre en compte est celui des voix
+recueillies aux élections au comité technique central d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-2-12 (M)
+	  - Code de la santé publique - art. R714-2-13 (M)
+	  - Code de la santé publique - art. R714-2-19 (M)
+	  - Code de la santé publique R714-2-12, R714-2-13, R714-2-19, R714-2-21 à R714-2-23
+
+
+###### Article R716-3-5
+
+Un représentant des familles de personnes accueillies dans les unités de soins de longue durée, élu par les représentants
+assistant à ce titre aux réunions des commissions de surveillance mentionnées à l'article R. 716-3-22, assiste aux séances du
+conseil d'administration avec voix consultative.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R716-3-22
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-6
+
+Peuvent assister aux séances du conseil d'administration, avec voix consultative, les membres du conseil de tutelle mentionné
+à l'article R. 716-3-33, le directeur régional des affaires sanitaires et sociales et le médecin inspecteur régional de la
+santé ou leurs représentants.
+
+Le trésorier-payeur général et le contrôleur financier près l'Assistance publique - hôpitaux de Paris assistent avec voix
+consultative aux séances du conseil.
+
+Le secrétaire général de l'établissement assure le secrétariat du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R716-3-33 (M)
+
+
+###### Article R716-3-7
+
+Le conseil d'administration délibère sur les matières énumérées aux 1°, 3° à 11°, 14° et 17° de l'article L. 714-4.
+
+En outre, il délibère sur :
+
+a) Les programmes d'investissements inscrits au projet d'établissement de l'Assistance publique - hôpitaux de Paris ;
+
+b) La politique de financement des investissements ;
+
+c) Le règlement intérieur type des hôpitaux et des groupes hospitaliers ;
+
+d) L'acceptation ou le refus des dons et legs lorsque ceux-ci sont grevés de charges d'un montant supérieur à un seuil fixé
+par arrêté des ministres chargés du budget, de la santé et de la sécurité sociale, ou grevés de conditions et d'affectations
+immobilières, ou lorsqu'ils donnent lieu à réclamation des familles ;
+
+e) Les actions judiciaires et les transactions portant sur les litiges d'un montant supérieur à un seuil fixé par arrêté des
+ministres chargés du budget, de la santé et de la sécurité sociale.
+
+Le conseil d'administration arrête le règlement intérieur type des fédérations prévues à l'article L. 714-25, après avis de
+la commission médicale d'établissement et du comité technique central d'établissement.
+
+Le conseil peut, dans le respect du projet d'établissement approuvé, décider d'arrêter librement l'organisation des soins et
+le fonctionnement médical d'un hôpital ou groupe hospitalier. Cette décision est prise dans les formes déterminées au
+deuxième alinéa de l'article L. 714-25-2, après avis de la commission de surveillance, du comité consultatif médical et du
+comité technique local d'établissement de l'hôpital ou du groupe hospitalier concerné.
+
+Le conseil d'administration élabore et vote son règlement intérieur.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-25
+	  - Code de la santé publique - art. L714-25-2
+	  - Code de la santé publique - art. L714-4
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-33 (Ab)
+	  - Code de la santé publique - art. R716-3-8 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-8
+
+Le président ou, en cas d'empêchement, le premier vice-président du conseil d'administration peut, par délégation du conseil
+d'administration, être chargé d'exercer au nom de celui-ci les compétences qu'il détient en ce qui concerne :
+
+a) Les décisions modificatives mentionnées au 3° de l'article L. 714-4 ;
+
+b) La ventilation des dépenses et des recettes approuvées entre les comptes de chaque groupe fonctionnel, prévue à l'article
+R. 714-3-15 ;
+
+c) Les conventions concernant les actions de coopération internationale mentionnées au 8° de l'article L. 714-4 ;
+
+d) Les actions judiciaires et transactions mentionnées à l'article R. 716-3-7.
+
+Les décisions prises en vertu du présent article sont signées personnellement par le président ou, en cas d'empêchement de
+celui-ci, par le premier vice-président du conseil d'administration, qui doit en rendre compte au conseil d'administration
+lors de sa plus proche séance suivant chaque décision.
+
+Le conseil d'administration peut mettre fin à tout moment aux délégations de compétence prévues par le présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-4 (M)
+	  - Code de la santé publique - art. R714-3-15 (M)
+	  - Code de la santé publique - art. R716-3-7 (V)
+
+
+###### Article R716-3-9
+
+Le conseil d'administration peut déléguer à une ou plusieurs des commissions de surveillance prévues à l'article R. 716-3-21
+ses attributions consultatives relatives :
+
+a) Aux candidatures et à la nature des missions confiées aux consultants, en application de l'article L. 714-21 ;
+
+b) Aux contrats d'exercice d'une activité libérale, en application de l'article L. 714-33 ;
+
+c) Aux demandes de détachement, de mise en disponibilité et d'activité réduite présentées par les personnels médicaux régis
+par le décret n° 84-131 du 24 février 1984 et par le décret n° 85-384 du 29 mars 1985.
+
+Les commissions de surveillance ayant ainsi reçu délégation adressent à la fin de chaque année au conseil d'administration un
+bilan de leur activité dans les matières faisant l'objet de la délégation.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Décret n°84-131 du 24 février 1984
+	  - Décret n°85-384 du 29 mars 1985
+	  - Code de la santé publique - art. L714-21
+	  - Code de la santé publique - art. L714-33
+	  - Code de la santé publique - art. R716-3-21
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-25 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+##### Paragraphe 2 : Le directeur général et le secrétaire général
+
+###### Article R716-3-10
+
+Le directeur général et le secrétaire général de l'Assistance publique - hôpitaux de Paris sont nommés par décret en conseil
+des ministres, sur proposition des ministres chargés de la santé et de la sécurité sociale.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-11
+
+Le directeur général exerce à l'égard de l'ensemble de l'établissement les pouvoirs définis à l'article L. 714-12, ainsi que
+ceux qui lui sont conférés par les articles 103 et 104 du titre IV du statut général des fonctionnaires.
+
+Il est compétent pour régler les affaires de l'Assistance publique - hôpitaux de Paris autres que celles qui sont réservées
+au conseil d'administration.
+
+Le directeur général peut déléguer par arrêté aux directeurs du siège, aux directeurs des hôpitaux et groupes hospitaliers et
+aux directeurs des services généraux une partie de ses compétences relatives au fonctionnement courant de ces directions,
+hôpitaux, groupes hospitaliers et services généraux. Toutefois, il peut toujours évoquer et régler lui-même des affaires
+comprises dans cette délégation en vue d'assurer le bon fonctionnement du service public hospitalier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-12 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-6 (Ab)
+
+
+###### Article R716-3-12
+
+Le secrétaire général assiste le directeur général et le supplée en cas d'absence ou d'empêchement.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+##### Paragraphe 3 : Les instances représentatives centrales
+
+##### A. - Commission médicale d'établissement
+
+###### Article R716-3-13
+
+La commission médicale d'établissement de l'Assistance publique - hôpitaux de Paris comprend *composition*, outre les membres
+mentionnés à l'article R. 714-16-6, cinq présidents des comités consultatifs médicaux mentionnés à l'article R. 714-16-29,
+élus par l'ensemble des présidents des comités consultatifs médicaux, dont un président de comité consultatif médical d'un
+hôpital ou groupe hospitalier de soins de suite et de soins de longue durée.
+
+Le vice-président de la commission médicale d'établissement est élu parmi les membres de la commission mentionnés à l'article
+R. 714-16-6 (1° à 6°) et les présidents de comités consultatifs médicaux mentionnés au premier alinéa ci-dessus.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 2 (Ab)
+	  - Arrêté du 24 octobre 1994 - art. 16 (Ab)
+	  - Arrêté du 24 octobre 1994 - art. 8 (Ab)
+	  - Arrêté du 3 novembre 2005 - art. 14 (V)
+	  - Arrêté du 3 novembre 2005 - art. 7 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-16-29
+	  - Code de la santé publique - art. R714-16-6
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-14
+
+La commission médicale d'établissement de l'Assistance publique - hôpitaux de Paris peut déléguer aux comités consultatifs
+médicaux des hôpitaux ou des groupes hospitaliers ses compétences en ce qui concerne :
+
+1° La préparation avec les directeurs des mesures d'organisation des activités médicales, odontologiques et pharmaceutiques
+de l'hôpital ou du groupe hospitalier et notamment des créations d'unités fonctionnelles et de fédérations ;
+
+2° La désignation des praticiens hospitaliers chargés des unités fonctionnelles ;
+
+3° Les demandes de détachement, de disponibilité et d'activité à temps réduit présentées par les praticiens hospitaliers
+régis par les dispositions du décret n° 84-131 du 24 février 1984 et du décret n° 85-384 du 29 mars 1985 ;
+
+4° L'établissement du règlement intérieur des fédérations, dans la mesure où ce règlement est conforme aux dispositions du
+règlement intérieur type des fédérations, arrêté par le conseil d'administration ;
+
+5° Les contrats d'exercice d'activité libérale mentionnés à l'article L. 714-33 ;
+
+6° L'attribution des titres des attachés et des attachés associés en application du décret n° 81-291 du 30 mars 1981 ;
+
+7° La nomination des chefs de clinique des universités - assistants des hôpitaux et des assistants hospitaliers
+universitaires, en application du décret n° 84-135 du 24 février 1984 et du décret n° 90-92 du 24 janvier 1990, ainsi que des
+assistants hospitaliers en application du décret n° 87-788 du 28 septembre 1987 ;
+
+8° La candidature et les missions des consultants mentionnés au dernier alinéa de l'article L. 714-21.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Décret n°81-291 1981-03-30
+	  - Décret n°84-135 1984-02-24
+	  - Décret n°84-131 1984-02-24
+	  - Décret n°85-384 1985-03-29
+	  - Décret n°87-788 1987-09-28
+	  - Décret n°90-92 1990-01-24
+	  - Code de la santé publique - art. L714-21 (M)
+	  - Code de la santé publique - art. L714-33 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-26 (Ab)
+
+
+##### B. - Comité technique central d'établissement
+
+###### Article R716-3-15
+
+Le comité technique d'établissement institué par l'article L. 714-17 est dénommé à l'Assistance publique - hôpitaux de Paris,
+Comité technique central d'établissement.
+
+Il est présidé par le directeur général, ou son représentant, et constitué conformément aux dispositions des articles R.
+714-17-2 à R. 714-17-24.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 2 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique
+	  - Code de la santé publique - art. L714-17
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-16
+
+Le comité technique central d'établissement est consulté sur les questions d'intérêt général communes à l'ensemble de
+l'Assistance publique - hôpitaux de Paris relevant des matières définies à l'article L. 714-18.
+
+En outre, il est consulté sur la mise en place de l'organisation des soins et du fonctionnement médical de l'Assistance
+publique - hôpitaux de Paris lorsqu'elle est arrêtée en application de l'article L. 714-25-2.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-18
+	  - Code de la santé publique - art. L714-25-2
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-17
+
+Un représentant du comité technique central d'établissement et un représentant de la commission médicale d'établissement
+assistent avec voix consultative à chacune des réunions respectives de ces deux organismes.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+##### C : Commission centrale du service de soins infirmiers
+
+###### Article R716-3-18
+
+La commission centrale du service de soins infirmiers de l'Assistance publique - hôpitaux de Paris est présidée par
+l'infirmier général de 1re classe, désigné par le directeur général, membre de l'équipe de direction, et qui assure la
+direction du service central de soins infirmiers.
+
+Cette commission centrale comprend au plus quarante-huit membres, tirés au sort à partir d'une liste préétablie de
+volontaires membres des commissions locales du service de soins infirmiers mentionnés à l'article R. 716-3-21. Elle comporte
+des collèges constitués conformément aux dispositions de l'article R. 714-26-3.
+
+Les dispositions de l'article R. 714-26-6 ne sont pas applicables à la commission centrale du service de soins infirmiers. Un
+arrêté du directeur général de l'Assistance publique - hôpitaux de Paris détermine les personnes ou catégories de personnes
+qui participent avec voix consultative aux séances de cette commission.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 2 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-26-3
+	  - Code de la santé publique - art. R714-26-6
+	  - Code de la santé publique - art. R716-3-21
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+##### Paragraphe 4 : Dispositions applicables à chaque hôpital, groupe hospitalier ou service général
+
+##### A. - Budget
+
+###### Article R716-3-19
+
+Chaque hôpital, groupe hospitalier ou service général est doté, dans le cadre du budget de l'Assistance publique - hôpitaux
+de Paris, d'une section de budget qui lui est propre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+
+##### B. - Direction
+
+###### Article R716-3-20
+
+Chaque hôpital, groupe hospitalier ou service général de l'Assistance publique - hôpitaux de Paris est dirigé par un
+directeur nommé par le directeur général.
+
+Le directeur assure la conduite de l'hôpital, du groupe hospitalier ou du service général dont il est chargé sous l'autorité
+du directeur général et conformément à ses directives.
+
+Dans le cadre des délégations de compétence que peut leur attribuer le directeur général, les directeurs du siège et les
+directeurs d'hôpitaux, de groupes hospitaliers et de services généraux peuvent, sous leur responsabilité, déléguer leur
+signature aux personnels sur lesquels ils exercent leur autorité lorsqu'ils appartiennent à un corps ou exercent un emploi
+relevant de la catégorie A.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+
+##### C. - Instances représentatives locales
+
+###### Article R716-3-21
+
+Il est institué dans chaque hôpital ou groupe hospitalier :
+
+- une commission de surveillance ;
+
+- un comité consultatif médical ;
+
+- un comité technique local d'établissement ;
+
+- une commission locale du service de soins infirmiers.
+
+Un comité technique local est créé dans chaque service général.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 2 (Ab)
+	  - Code de la santé publique - art. R716-3-18 (Ab)
+	  - Code de la santé publique - art. R716-3-9 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+##### Commission de surveillance
+
+###### Article R716-3-22
+
+I. - Dans les hôpitaux et groupes hospitaliers situés en région Ile-de-France, la commission de surveillance est composée de
+dix-huit membres :
+
+1. Un membre choisi en son sein par le conseil d'administration ;
+
+2. Deux membres élus par le conseil de Paris parmi les conseillers de l'arrondissement siège de l'hôpital ou groupe
+hospitalier, ou deux membres élus par le conseil général du département siège de l'hôpital ou du groupe hospitalier
+concerné ;
+
+3. Pour la ville de Paris, un représentant du maire de Paris ; pour les autres communes, le maire de la commune siège ou
+l'adjoint désigné par lui ;
+
+4. Quatre membres désignés par les conseils d'administration des organismes de sécurité sociale, dont :
+
+- un représentant de la caisse régionale d'assurance maladie d'Ile-de-France ;
+
+- deux représentants de la caisse primaire d'assurance maladie de Paris ;
+
+- un représentant d'un régime d'assurance maladie autre que le régime général, l'organisme représenté étant déterminé par le
+préfet de la région Ile-de-France, préfet de Paris, en fonction de l'importance relative des frais exposés dans l'hôpital ou
+le groupe d'établissements considéré par ledit régime pour ses ressortissants ;
+
+5. Le président du comité consultatif médical et deux membres élus par celui-ci en son sein ;
+
+6. Un représentant de la commission locale du service de soins infirmiers, élu par celle-ci en son sein ;
+
+7. Trois représentants des personnels désignés sur proposition des organisations syndicales les plus représentatives parmi
+les personnels titulaires relevant du titre IV du statut général des fonctionnaires ; la représentativité des organisations
+syndicales est appréciée dans les conditions prévues au 4° de l'article D. 714-2-1 compte tenu du nombre total des voix
+recueillies dans l'hôpital ou le groupe hospitalier à l'occasion des élections du comité technique local d'établissement ;
+
+8. Trois membres nommés par le préfet de la région Ile-de-France, préfet de Paris, après consultation du préfet du
+département où est situé l'hôpital ou le groupe hospitalier, choisis parmi les personnalités connues pour leurs travaux sur
+les problèmes hospitaliers ou pour l'intérêt qu'elles portent à ceux-ci, dont un médecin non hospitalier n'exerçant pas dans
+l'hôpital présenté conjointement par le conseil départemental de l'ordre des médecins et par les syndicats départementaux des
+médecins les plus représentatifs.
+
+II. - Pour les hôpitaux situés hors de la région Ile-de-France, la composition de la commission de surveillance est
+déterminée par arrêté des ministres chargés de la santé et de la sécurité sociale.
+
+III. - La composition nominative de chaque commission de surveillance est fixée par arrêté du préfet de la région Ile-de-
+France, préfet de Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Arrêté du 19 avril 1994 - art. Annexe (V)
+	  - Décret n°97-633 du 31 mai 1997 - art. 4 (Ab)
+	  - Code de la santé publique - art. R710-1-1 (Ab)
+	  - Code de la santé publique - art. R714-5 (Ab)
+	  - Code de la santé publique - art. R716-3-5 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D714-2-1 (Ab)
+
+
+###### Article R716-3-23
+
+La commission de surveillance élit son président pour une durée de trois ans.
+
+Le directeur de l'hôpital ou du groupe hospitalier assiste aux séances. Il présente les rapports relatifs aux questions qui
+sont soumises à la commission. Il peut se faire assister des collaborateurs de son choix. Le secrétariat est assuré à sa
+diligence.
+
+Le préfet de Paris ou du département siège de l'hôpital ou du groupe hospitalier, ou son représentant, le directeur général
+de l'Assistance publique - hôpitaux de Paris, le directeur régional des affaires sanitaires et sociales, le directeur
+départemental des affaires sanitaires et sociales intéressé, ou leur représentant, peuvent assister aux séances de la
+commission.
+
+En outre, dans les hôpitaux ou groupes hospitaliers comportant des unités de soins de longue durée, un représentant des
+familles de personnes accueillies dans ces unités, nommé par le préfet de la région Ile-de-France, préfet de Paris, sur une
+liste de trois noms proposés par les familles intéressées, selon des modalités fixées par le règlement intérieur de
+l'Assistance publique - hôpitaux de Paris, assiste avec voix consultative aux réunions de la commission de surveillance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+
+###### Article R716-3-24
+
+Un arrêté du directeur général fixe les conditions de fonctionnement de la commission de surveillance.
+
+Les dispositions des articles R. 714-2-10, R. 714-2-14, R. 714-2-16, R. 714-2-17, R. 714-2-20, R. 714-2-24 et D. 714-2-1 sont
+applicables à la commission de surveillance.
+
+La commission de surveillance est réunie sur convocation du directeur de l'hôpital ou du groupe hospitalier. Elle peut en
+outre être convoquée en séance extraordinaire par son président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D714-2-1 (Ab)
+	  - Code de la santé publique - art. R714-2-10 (M)
+	  - Code de la santé publique - art. R714-2-14 (M)
+	  - Code de la santé publique - art. R714-2-16 (M)
+	  - Code de la santé publique - art. R714-2-17 (M)
+	  - Code de la santé publique - art. R714-2-20 (M)
+	  - Code de la santé publique - art. R714-2-24 (M)
+
+
+###### Article R716-3-25
+
+Outre les attributions consultatives qui peuvent lui être déléguées par le conseil d'administration en application de
+l'article R. 716-3-9, la commission de surveillance est consultée sur :
+
+1. Toutes les questions qui lui sont soumises par le directeur de l'hôpital ou du groupe hospitalier, soit à son initiative,
+soit à la demande du directeur général ou du conseil d'administration de l'Assistance publique - hôpitaux de Paris ;
+
+2. Le projet local d'établissement ainsi que le projet médical de l'hôpital ou du groupe hospitalier ;
+
+3. Le projet de la section de budget de l'hôpital ou du groupe hospitalier, ainsi que les résultats de l'exécution de cette
+section de budget ;
+
+4. Les programmes d'investissement relatifs aux travaux et équipements lourds concernant l'hôpital ou le groupe hospitalier ;
+
+5. Les créations, suppressions et transformations de structures médicales, pharmaceutiques, odontologiques et de services
+autres que médicaux ;
+
+6. Le tableau des emplois ;
+
+7. Le règlement intérieur des fédérations prévues à l'article L. 714-25 après avis du comité consultatif médical et du comité
+technique local de l'hôpital ou du groupe hospitalier ;
+
+8. Le règlement intérieur de l'hôpital ou du groupe hospitalier ;
+
+9. La désignation des praticiens hospitaliers chargés des unités fonctionnelles.
+
+La commission de surveillance peut émettre des voeux tendant à assurer un meilleur fonctionnement de l'hôpital ou du groupe
+hospitalier. Ces voeux sont adressés au directeur général, qui répond dans un délai de deux mois au président de la
+commission de surveillance et en informe simultanément le directeur de l'hôpital ou du groupe.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-25 (M)
+	  - Code de la santé publique - art. R716-3-9 (V)
+
+
+##### Comité consultatif médical
+
+###### Article R716-3-26
+
+La composition et le fonctionnement du comité consultatif médical sont régis par les dispositions des articles R. 714-16-29 à
+R. 714-16-34.
+
+Chaque comité consultatif médical ayant reçu délégation en vertu des dispositions de l'article R. 716-3-14 adresse en fin
+d'année à la commission médicale d'établissement un bilan de son activité dans les matières faisant l'objet de cette
+délégation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R710-1-1 (Ab)
+	  - Code de la santé publique - art. R710-1-7 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R716-3-14 (M)
+	  - Code de la santé publique R714-16-29 à R714-16-34, R716-3-14
+
+
+##### Comité technique local d'établissement
+
+###### Article R716-3-27
+
+I. - Le comité technique local d'établissement est présidé dans chaque hôpital, groupe hospitalier ou service général par le
+directeur de l'hôpital, du groupe hospitalier ou du service général, ou par son représentant, membre du corps des personnels
+de direction.
+
+Le comité technique local du siège de l'Assistance publique - hôpitaux de Paris est présidé par le directeur général ou son
+représentant.
+
+II. - Chaque comité technique local d'établissement est composé conformément aux dispositions de l'article R. 714-17-1.
+
+Ses membres sont élus conformément aux dispositions des articles R. 714-17-6 à R. 714-17-24.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique
+	  - Code de la santé publique - art. R714-17-1
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-28
+
+Le comité technique local est consulté sur les sujets d'intérêt local suivants :
+
+1. Le projet local d'établissement et les programmes d'investissement relatifs aux opérations de travaux et aux équipements
+lourds ;
+
+2. La section de budget, les résultats de l'exécution de cette section de budget et le tableau local des effectifs médicaux
+et non médicaux ;
+
+3. Les créations, suppressions et transformations de structures et services de l'hôpital ou du groupe hospitalier visées au
+3° de l'article L. 714-18 ;
+
+4. Les conditions et l'organisation du travail au sein de l'hôpital ou du groupe hospitalier, notamment les programmes de
+modernisation des méthodes et techniques de travail et leurs incidences sur la situation du personnel ;
+
+5. Les modalités d'application des règles générales relatives à l'octroi de certaines primes et indemnités ;
+
+6. La formation du personnel de l'hôpital ou du groupe hospitalier et notamment le plan de formation ;
+
+7. Le bilan social local et les modalités d'une politique d'intéressement ;
+
+8. Le règlement intérieur des fédérations relevant de l'hôpital ou du groupe hospitalier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-18 (M)
+
+
+###### Article R716-3-29
+
+Un représentant du comité technique local d'établissement et un représentant du comité consultatif médical assistent avec
+voix consultative à chacune des réunions respectives de ces deux organismes.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+##### Commission locale du service de soins infirmiers
+
+###### Article R716-3-30
+
+La commission locale du service de soins infirmiers est placée sous la présidence de l'infirmier général, directeur du
+service de soins infirmiers, désigné, dans chaque hôpital ou groupe hospitalier, par le directeur de l'hôpital ou du groupe.
+
+Elle est composée et constituée conformément aux dispositions des articles R. 714-26-2 à R. 714-26-5.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R710-1-1 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+##### Paragraphe 5 : Contrôle financier
+
+###### Article R716-3-31
+
+Le contrôle financier prévu par la loi du 10 août 1922 est assuré auprès de l'Assistance publique - hôpitaux de Paris par un
+contrôleur financier nommé par le ministre chargé du budget après avis des ministres chargés de la santé et de la sécurité
+sociale.
+
+Les modalités particulières de ce contrôle sont fixées par arrêté conjoint des ministres chargés du budget, de la santé et de
+la sécurité sociale. Cet arrêté fixe notamment le montant au-dessous duquel les marchés ne sont pas soumis au visa du
+contrôleur financier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-32 (M)
+
+	**Cite**:
+
+	  - Loi n°1922-08-10
+
+
+##### Paragraphe 6 : Marchés
+
+###### Article R716-3-32
+
+I. - Il est institué auprès de l'Assistance publique - hôpitaux de Paris une commission consultative des marchés dont la
+composition, le seuil de compétence et les règles de fonctionnement sont fixées par un arrêté conjoint des ministres chargés
+du budget, de la santé et de la sécurité sociale.
+
+II. - Par dérogation aux dispositions de l'article L. 714-10, les marchés de l'Assistance publique - hôpitaux de Paris dont
+le montant est supérieur à celui fixé par l'arrêté interministériel prévu au deuxième alinéa de l'article R. 716-3-31 ne sont
+exécutoires qu'après visa du contrôleur financier.
+
+Les autres marchés sont exécutoires dès leur réception par le contrôleur financier. Lorsque celui-ci estime que l'un de ces
+marchés est entaché d'irrégularité, il en informe aussitôt le conseil de tutelle mentionné à l'article R. 716-3-33.
+
+Le cas échéant, le marché est déféré au tribunal administratif par le ministre chargé de la santé, qui exerce les
+attributions conférées au représentant de l'Etat par l'article L. 714-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-10 (M)
+	  - Code de la santé publique - art. R716-3-31 (M)
+	  - Code de la santé publique - art. R716-3-33 (M)
+
+
+##### Paragraphe 7 : Contrôle de l'Etat
+
+###### Article R716-3-33
+
+Les délibérations du conseil d'administration de l'Assistance publique - hôpitaux de Paris deviennent exécutoires selon les
+modalités suivantes :
+
+I. - Les délibérations portant sur les matières énumérées aux 4°, 5°, 8° à 11°, 14° et 17° de l'article L. 714-4, ainsi que
+celles portant sur les matières énumérées aux b, c, d et e de l'article R. 716-3-7, sont exécutoires de plein droit dès leur
+réception par le ministre chargé de la santé.
+
+Le ministre chargé de la santé exerce à l'égard de ces délibérations les attributions qui sont conférées au représentant de
+l'Etat par le 1° de l'article L. 714-5.
+
+II. - Les délibérations portant sur les matières énumérées aux 1°, à l'exclusion du contrat pluriannuel mentionné à l'article
+L. 712-4, 3°, à l'exclusion du rapport prévu à l'article L. 714-6, 6° et 7°, de l'article L. 714-4, ainsi que celles portant
+sur les matières mentionnées au a de l'article R. 716-3-7, sont soumises à l'approbation des ministres chargés de la santé,
+de la sécurité sociale, du budget et de l'intérieur, après examen par un conseil de tutelle dont la composition et le
+fonctionnement sont régis par les dispositions du III ci-après.
+
+A l'exception de celles mentionnées au 3° de l'article L. 714-4, et sans préjudice de l'application de l'article L. 712-8,
+ces délibérations sont réputées approuvées si aucun des quatre ministres de tutelle n'a fait connaître son opposition dans un
+délai déterminé. Ce délai est de six mois pour les délibérations mentionnées au 1° de l'article L. 714-4, de deux mois pour
+les délibérations mentionnées au a de l'article R. 716-3-7 et de trente jours pour les délibérations mentionnées aux 6° et 7°
+de l'article L. 714-4. Ces délais courent à compter de la date de réception des délibérations par le conseil de tutelle.
+
+Les délibérations mentionnées aux 3° de l'article L. 714-4 sont soumises à l'approbation des ministres de tutelle dans les
+conditions fixées par l'article R. 716-3-34 ci-après.
+
+III. - Le conseil de tutelle est composé de quatre membres désignés respectivement par chacun des quatre ministres de
+tutelle. Sa présidence est assurée à tour de rôle par chacun des représentants des ministres.
+
+Le conseil de tutelle se réunit sur convocation de son président, à l'initiative de ce dernier ou à la demande de l'un des
+ministres ou du président du conseil d'administration de l'Assistance publique-hôpitaux de Paris.
+
+Le président du conseil d'administration, le directeur général et le contrôleur financier de l'Assistance publique-hôpitaux
+de Paris assistent aux réunions avec voix consultative. Le directeur général peut se faire assister des collaborateurs de son
+choix.
+
+Le préfet de la région Ile-de-France est consulté par le conseil de tutelle préalablement à l'approbation du projet
+d'établissement mentionné au 1° de l'article L. 714-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 1993 - art. 10 (Ab)
+	  - Décret n°2005-1474 du 30 novembre 2005 - art. 13 (V)
+	  - Code de la santé publique - art. R716-3-32 (M)
+	  - Code de la santé publique - art. R716-3-6 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-4 (Ab)
+	  - Code de la santé publique - art. L712-8 (M)
+	  - Code de la santé publique - art. L714-4 (M)
+	  - Code de la santé publique - art. L714-5 (M)
+	  - Code de la santé publique - art. L714-6 (M)
+	  - Code de la santé publique - art. R716-3-34 (Ab)
+	  - Code de la santé publique - art. R716-3-7 (V)
+
+
+###### Article R716-3-34
+
+Avant le 15 octobre de chaque année [*date limite*], le directeur général de l'Assistance publique - hôpitaux de Paris
+transmet le projet du budget et les propositions relatives aux tarifs des prestations et à la dotation globale à la caisse
+régionale d'assurance maladie d'Ile-de-France, qui émet un avis dans les conditions prévues par l'article R. 714-3-31. Cet
+avis, accompagné des observations du contrôle médical, est adressé au ministre chargé de la santé dans le délai d'un mois à
+compter de la réception des documents budgétaires par la caisse régionale.
+
+Dans un délai de vingt jours à compter de leur réception, le conseil de tutelle procède à l'examen du budget, des décisions
+modificatives et des propositions relatives à la dotation globale et aux tarifs de prestations.
+
+Le budget et les décisions modificatives sont réputés approuvés si aucun des ministres de tutelle n'a fait connaître son
+opposition dans un délai de trente jours à compter de leur réception.
+
+En cas d'urgence, les dépenses nouvelles figurant au budget peuvent faire l'objet d'un engagement immédiat lorsqu'elles ont
+obtenu l'accord du conseil de tutelle.
+
+La dotation globale et les tarifs de prestations sont arrêtés en conséquence par le ministre chargé de la santé, qui les
+notifie à la caisse chargée du versement de la dotation globale.
+
+Le directeur général transmet à la caisse régionale d'assurance maladie le budget approuvé.
+
+L'arrêté fixant les tarifs de prestations est inséré au bulletin municipal officiel de la ville de Paris.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1474 du 30 novembre 2005 - art. 10 () JORF 1er décembre 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-3-31 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-33 (Ab)
+
+
+###### Article R716-3-35
+
+Par dérogation à l'article L. 714-9, si le conseil d'administration n'a pas adopté avant le 20 décembre de l'année en cours
+[*date limite*] des propositions pour la fixation de la dotation globale et des tarifs de prestations, la dotation globale et
+les tarifs de prestations en vigueur sont automatiquement reconduits pour l'année à venir, sous réserve des modifications
+apportées par le conseil de tutelle.
+
+Dans ce cas, le budget est établi par le conseil de tutelle et arrêté par le ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-1474 du 30 novembre 2005 - art. 10 () JORF 1er décembre 2005 en vigueur le 1er janvier 2006
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-9 (M)
+
+
+##### Paragraphe 8 : Dispositions diverses
+
+###### Article R716-3-36
+
+Par dérogation aux dispositions de l'article R. 714-3-9, les dépenses et les recettes des unités de soins de longue durée
+mentionnées au deuxième alinéa de l'article L. 711-2, ainsi que celles afférentes aux activités relevant de la loi n° 75-535
+du 30 juin 1975, sont retracées au budget général.
+
+Le président du conseil de Paris fixe l'élément de tarification des prestations d'hébergement des unités de soins de longue
+durée et des activités relevant de la loi n° 75-535 du 30 juin 1975.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°75-535 1975-06-30
+	  - Code de la santé publique - art. L711-2 (M)
+	  - Code de la santé publique - art. R714-3-9 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2001-1085 du 20 novembre 2001 - art. 32 () JORF 21 novembre 2001 en vigueur le 1er janvier 2002
+
+
+###### Article R716-3-37
+
+Au début de chaque année, le directeur général dispose d'un délai de deux mois pour procéder aux opérations mentionnées à
+l'article R. 714-3-38.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-3-38 (Ab)
+
+
+###### Article R716-3-38
+
+Le maire de Paris présente chaque année au conseil de Paris un rapport sur l'activité des hôpitaux et groupes hospitaliers de
+l'Assistance publique - hôpitaux de Paris. A cette occasion, le conseil de Paris émet un avis sur l'utilisation qui a été
+faite de la subvention accordée au titre de l'exercice précédent à l'Assistance publique - hôpitaux de Paris.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+##### Sous-section 2 : Hospices civils de Lyon et Assistance publique de Marseille
+
+###### Article R716-3-39
+
+Les hospices civils de Lyon et l'Assistance publique de Marseille sont des établissements publics de santé relevant
+respectivement de la ville de Lyon et de la ville de Marseille.
+
+Ils gèrent dans les conditions définies ci-après les hôpitaux et groupes hospitaliers composant le centre hospitalier
+universitaire.
+
+Ils exercent les missions définies au chapitre Ier du présent titre.
+
+Sous réserve des dispositions de la présente sous-section, les dispositions de la section 3 du chapitre Ier et celles du
+chapitre IV du présent titre ainsi que les textes pris pour leur application sont applicables aux hospices civils de Lyon et
+à l'Assistance publique de Marseille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6147-3 (M)
+	  - Code de la santé publique - art. R6147-3 (V)
+
+
+##### Paragraphe 1 : Conseil d'administration
+
+###### Article R716-3-40
+
+Le conseil d'administration des hospices civils de Lyon est composé de quarante membres, à savoir :
+
+1. Le maire ou son représentant désigné en son sein par le conseil municipal sur proposition du maire, président ;
+
+2. Six membres autres que ceux désignés au 1, élus en son sein par le conseil municipal ;
+
+3. Un membre élu en son sein par le conseil général du Rhône ;
+
+4. Deux membres élus en son sein par le conseil régional ;
+
+5. Dix représentants désignés par les conseils d'administration des organismes de sécurité sociale, à savoir :
+
+- quatre représentants de la caisse chargée du versement de la dotation globale ;
+
+- quatre représentants de la caisse régionale d'assurance maladie ;
+
+- un représentant de la caisse régionale d'assurance maladie et maternité des travailleurs non salariés non agricoles ;
+
+- un représentant de la caisse de mutualité sociale agricole.
+
+6. Le président et le vice-président de la commission médicale d'établissement ou, au cas où l'un d'eux est en même temps
+directeur de l'unité de formation et de recherche ou président du comité de coordination de l'enseignement médical, un membre
+de la commission médicale d'établissement élu par celle-ci ;
+
+Six autres membres de la commission médicale d'établissement élus par celle-ci ;
+
+8. Un membre de la commission centrale du service de soins infirmiers élu par celle-ci ;
+
+9. Sept représentants des personnels désignés sur proposition des organisations syndicales les plus représentatives parmi les
+personnels titulaires relevant du titre IV du statut général des fonctionnaires dans les conditions prévues au 4° de
+l'article D. 714-2-1 ; le nombre de voix à prendre en compte étant celui des voix recueillies aux élections au comité
+technique central d'établissement ;
+
+10. Trois membres nommés par le préfet parmi les personnalités connues pour leurs travaux sur les problèmes hospitaliers ou
+pour l'intérêt qu'elles portent à ceux-ci, dont un médecin non hospitalier n'exerçant pas dans l'établissement, présenté
+conjointement par le conseil départemental de l'ordre des médecins et par les syndicats médicaux les plus représentatifs dans
+le département du Rhône et un représentant des professions paramédicales n'exerçant pas dans l'un des établissements des
+hospices civils de Lyon, désigné dans les conditions prévues au 5° de l'article D. 714-2-1 ;
+
+11. Le président du comité de coordination de l'enseignement médical de l'université.
+
+En outre, le conseil d'administration peut s'adjoindre un représentant de la communauté urbaine de Lyon désigné en son sein
+par le conseil de communauté et siégeant avec voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Décret n°97-633 du 31 mai 1997 - art. 4 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D714-2-1 (Ab)
+
+
+###### Article R716-3-41
+
+Le conseil d'administration de l'Assistance publique de Marseille est composé de quarante membres, à savoir :
+
+1. Le maire ou son représentant désigné en son sein par le conseil municipal sur proposition du maire, président ;
+
+2. Six membres autres que ceux désignés au 1 élus en son sein par le conseil municipal ;
+
+3. Un membre élu en son sein par le conseil général des Bouches-du-Rhône ;
+
+4. Deux membres élus en son sein par le conseil régional ;
+
+5. Dix représentants désignés par les conseils d'administration des organismes d'assurance maladie, soit :
+
+- quatre représentants de la caisse chargée du versement de la dotation globale ;
+
+- quatre représentants de la caisse régionale d'assurance maladie ;
+
+- un représentant de la caisse régionale d'assurance maladie et maternité des travailleurs non salariés non agricoles ;
+
+- un représentant de la caisse de mutualité sociale agricole ;
+
+6. Le président et le vice-président de la commission médicale d'établissement ou, au cas où l'un d'eux est en même temps
+directeur de l'unité de formation et de recherche, un membre de la commission médicale d'établissement élu par celle-ci ;
+
+7. Six autres membres de la commission médicale d'établissement élus par celle-ci ;
+
+8. Un membre de la commission centrale du service de soins infirmiers élu par celle-ci ;
+
+9. Sept représentants des personnels désignés sur proposition des organisations syndicales les plus représentatives parmi les
+personnels titulaires relevant du titre IV du statut général des fonctionnaires dans les conditions prévues au 4° de
+l'article D. 714-2-1 ; le nombre de voix à prendre en compte étant celui des voix recueillies aux élections au comité
+technique central d'établissement ;
+
+10. Trois membres nommés par le préfet parmi les personnalités connues pour leurs travaux sur les problèmes hospitaliers ou
+pour l'intérêt qu'elles portent à ceux-ci, dont un médecin non hospitalier n'exerçant pas dans l'établissement présenté
+conjointement par le conseil départemental de l'ordre des médecins et par les syndicats médicaux les plus représentatifs dans
+le département des Bouches-du-Rhône et un représentant des professions paramédicales n'exerçant pas dans l'un des
+établissements de l'Assistance publique de Marseille, désigné dans les conditions prévues au 5° de l'article D. 714-2-1 ;
+
+11. Le directeur de l'unité de formation et de recherche médicale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Décret n°97-633 du 31 mai 1997 - art. 4 (Ab)
+	  - Code de la santé publique - art. R716-3-43 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D714-2-1 (Ab)
+
+
+###### Article R716-3-42
+
+La composition nominative du conseil d'administration des hospices civils de Lyon et de l'Assistance publique de Marseille
+est fixée par arrêté du préfet du département.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°97-633 1997-05-31 art. 2 3° JORF 1er juin 1997
+
+
+###### Article R716-3-43
+
+Outre les personnes mentionnées aux articles R. 714-2-11, R. 714-2-12 et D. 714-2-3, le secrétaire général mentionné au
+deuxième alinéa de l'article R. 716-3-45 assiste avec voix consultative aux séances du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D714-2-3 (Ab)
+	  - Code de la santé publique - art. R714-2-11 (M)
+	  - Code de la santé publique - art. R714-2-12 (M)
+	  - Code de la santé publique - art. R716-3-45 (V)
+
+
+###### Article R716-3-44
+
+Le conseil d'administration peut, dans le respect du projet d'établissement, décider d'arrêter librement l'organisation des
+soins et le fonctionnement médical d'un hôpital ou groupe hospitalier, dans les formes déterminées au deuxième alinéa de
+l'article L. 714-25-2, après avis du comité consultatif médical et, le cas échéant, du comité technique local de l'hôpital ou
+du groupe hospitalier concerné, mentionnés respectivement aux articles R. 716-3-50 et R. 716-3-52.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-25-2
+	  - Code de la santé publique - art. R716-3-50
+	  - Code de la santé publique - art. R716-3-52
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+##### Paragraphe 2 : Directeur général et secrétaire général
+
+###### Article R716-3-45
+
+Le directeur général des hospices civils de Lyon et le directeur général de l'Assistance publique de Marseille sont nommés
+par décret pris sur le rapport du ministre chargé de la santé, après avis du président du conseil d'administration. Ils
+exercent les pouvoirs définis à l'article L. 714-12.
+
+Le directeur général est assisté par un secrétaire général, qui le supplée en cas d'absence ou d'empêchement.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Décret n°2005-930 du 2 août 2005 - art. 1 (V)
+	  - Décret n°2005-932 du 2 août 2005 - art. 1 (V)
+	  - Décret n°2007-1934 du 26 décembre 2007 (V)
+	  - Code de la santé publique - art. R716-3-43 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-12
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+##### Paragraphe 3 : Instances représentatives centrales
+
+###### Article R716-3-46
+
+La commission médicale d'établissement des hospices civils de Lyon et la commission médicale d'établissement de l'Assistance
+publique de Marseille comprend, outre les membres mentionnés à l'article R. 714-16-6, deux présidents de comités consultatifs
+médicaux élus par l'ensemble des présidents des comités consultatifs médicaux mentionnés à l'article R. 714-16-29.
+
+Le vice-président de la commission médicale d'établissement est élu parmi les membres de la commission mentionnés à l'article
+R. 714-16-6 (1° à 6°) et parmi les autres membres mentionnés au premier alinéa du présent article.
+
+La commission médicale d'établissement consulte les comités consultatifs médicaux sur les sujets mentionnés à l'article R.
+716-3-51.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Arrêté du 24 octobre 1994 - art. 16 (Ab)
+	  - Arrêté du 24 octobre 1994 - art. 8 (Ab)
+	  - Arrêté du 3 novembre 2005 - art. 14 (V)
+	  - Arrêté du 3 novembre 2005 - art. 7 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-16-29
+	  - Code de la santé publique - art. R714-16-6
+	  - Code de la santé publique - art. R716-3-51
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-47
+
+Le comité technique d'établissement mentionné à l'article L. 714-17 est dénommé aux hospices civils de Lyon et à l'Assistance
+publique de Marseille comité technique central d'établissement.
+
+Le comité technique central d'établissement est présidé par le directeur général ou son représentant, membre du corps des
+personnels de direction, et composé conformément au 4 de l'article R. 714-17-1.
+
+Il est procédé à l'élection des membres du comité technique central d'établissement conformément aux dispositions des
+articles R. 714-17-6 à R. 714-17-24.
+
+Le comité technique central d'établissement est consulté sur les questions d'intérêt général communes à l'ensemble des
+hôpitaux ou groupes hospitaliers des hospices civils de Lyon ou de l'Assistance publique de Marseille et relatives aux
+matières définies à l'article L. 714-18.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique
+	  - Code de la santé publique - art. L714-17
+	  - Code de la santé publique - art. L714-18
+	  - Code de la santé publique - art. R714-17-1
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-48
+
+Un représentant du comité technique central d'établissement et un représentant de la commission médicale d'établissement
+assistent avec voix consultative à chacune des réunions respectives de ces deux organismes.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-49
+
+La commission centrale du service de soins infirmiers instituée aux hospices civils de Lyon et à l'Assistance publique de
+Marseille est présidée par l'infirmier général directeur du service central de soins infirmiers.
+
+Cette commission comprend au plus trente-deux membres tirés au sort parmi les membres candidats des commissions locales du
+service de soins infirmiers. Elle comporte des collèges constitués dans les conditions de l'alinéa 1 de l'article R.
+714-26-3. Ses conditions de fonctionnement sont fixées par les articles R. 714-26-5 et R. 714-26-7 à R. 714-26-11. Les
+dispositions de l'article R. 714-26-6 peuvent être adaptées en tant que de besoin par arrêté du directeur général.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique
+	  - Code de la santé publique - art. R714-26-3
+	  - Code de la santé publique - art. R714-26-5
+	  - Code de la santé publique - art. R714-26-6
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+##### Paragraphe 4 : Instances représentatives locales
+
+###### Article R716-3-50
+
+Les comités consultatifs médicaux des hôpitaux ou groupes hospitaliers des hospices civils de Lyon et de l'Assistance
+publique de Marseille sont constitués conformément aux dispositions de l'article R. 714-16-29.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-16-29
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-44 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-51
+
+Les comités consultatifs médicaux sont consultés par la commission médicale d'établissement sur :
+
+1° La préparation avec les directeurs des mesures d'organisation des activités médicales, odontologiques et pharmaceutiques
+de l'hôpital ou du groupe hospitalier et notamment les créations d'unités fonctionnelles et de fédérations ;
+
+2° La désignation des praticiens hospitaliers chargés des unités fonctionnelles ;
+
+3° Les demandes de détachement, disponibilité, activité à temps réduit des praticiens hospitaliers régis par les dispositions
+du décret n° 84-131 du 24 février 1984 et du décret n° 85-384 du 29 mars 1985 ;
+
+4° Le projet de règlement intérieur des fédérations arrêté par le conseil d'administration ;
+
+5° Les contrats d'exercice d'activité libérale mentionnés à l'article L. 714-33 ;
+
+6° La candidature et les missions des consultants mentionnés au dernier alinéa de l'article L. 714-21.
+
+En outre, les comités consultatifs médicaux peuvent être consultés sur toutes les questions ressortissant aux attributions de
+la commission médicale d'établissement dans les conditions prévues à l'article R. 714-16-33.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Décret n°84-131 du 24 février 1984
+	  - Décret n°85-384 du 29 mars 1985
+	  - Code de la santé publique - art. L714-21
+	  - Code de la santé publique - art. L714-33
+	  - Code de la santé publique - art. R714-16-33
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-46 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-52
+
+Un comité technique local peut être institué par délibération du conseil d'administration dans chaque hôpital ou groupe
+hospitalier relevant des hospices civils de Lyon ou de l'Assistance publique de Marseille.
+
+Les comités techniques locaux sont présidés par le directeur de l'hôpital ou du groupe hospitalier, ou par son représentant,
+membre du corps des personnels de direction.
+
+Le comité technique local du siège des hospices civils de Lyon et celui du siège de l'Assistance publique de Marseille sont
+présidés par le directeur général ou son représentant.
+
+Ces comités sont composés conformément aux dispositions de l'article R. 714-17-1.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-17-1
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-44 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-53
+
+Il est procédé à l'élection des membres du comité technique local conformément aux dispositions des articles R. 714-17-6 à R.
+714-17-24.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-54
+
+Les comités techniques locaux sont consultés par les directeurs des hôpitaux ou groupes hospitaliers sur les sujets d'intérêt
+local suivants :
+
+1. Le rapport sur les orientations du projet de budget et le tableau des emplois de l'hôpital ou du groupe hospitalier ;
+
+2. Les conditions et l'organisation du travail au sein de l'hôpital ou du groupe hospitalier, notamment les programmes de
+modernisation des méthodes et techniques de travail et leurs incidences sur la situation du personnel ;
+
+3. La formation du personnel de l'hôpital ou du groupe hospitalier, et notamment le plan de formation local ;
+
+4. Le bilan social local ;
+
+5. Le projet de règlement intérieur des fédérations.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-55
+
+Un représentant du comité technique local et un représentant du comité consultatif médical assistent avec voix consultative à
+chacune des réunions respectives de ces deux organismes.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-56
+
+Il est institué dans chaque hôpital ou groupe hospitalier une commission locale du service de soins infirmiers dont la
+composition est fixée conformément aux dispositions de l'article R. 714-26-2.
+
+La commission locale du service de soins infirmiers est placée sous la présidence d'un responsable du service de soins
+infirmiers désigné, dans chaque hôpital ou groupe hospitalier, par le directeur de l'hôpital ou du groupe.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1099 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-26-2
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
 ##### Section 4 : Dispositions propres aux activités de soins de longue durée assurées par les établissements publics de santé et les établissements de santé privés à but non lucratif
 
 ###### Article R716-5-1
@@ -78176,6 +80683,63 @@ Son secrétariat est assuré par les services de la direction régionale des aff
 	  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
 
 
+##### Sous-section 3 : Des structures de soins alternatives à l'hospitalisation
+
+###### Article D712-13-1
+
+Lorsque la création ou l'extension d'une structure de soins alternative à l'hospitalisation est autorisée, en application de
+l'article L. 712-10, dans une zone sanitaire dont les moyens d'hospitalisation sont excédentaires dans la discipline en
+cause, la réduction des moyens d'hospitalisation prévue par l'article L. 712-10 est opérée dans les conditions suivantes :
+
+I. - Dans le cas d'une structure pratiquant l'anesthésie ou la chirurgie ambulatoires, la réduction s'effectue :
+
+a) Soit dans le cadre d'un contrat conclu en application de l'article L. 712-4, lorsqu'un schéma régional d'organisation
+sanitaire a été arrêté par le préfet de région. Ce contrat précise notamment, outre le nombre de lits de chirurgie supprimés,
+les modalités de compensation des dépenses d'assurance maladie afférentes à la structure autorisée et les modalités
+d'évaluation de son activité ;
+
+b) Soit dans les limites ci-après, qu'il existe ou non un schéma régional d'organisation sanitaire ;
+
+1° Si l'excédent de moyens est inférieur à 25 p. 100 des besoins théoriques de la zone sanitaire en chirurgie : fermeture de
+deux lits de chirurgie à temps complet pour la création d'une place d'anesthésie ou de chirurgie ambulatoires ;
+
+2° Si l'excédent est supérieur à 25 p. 100 : fermeture de 2,25 lits de chirurgie pour la création d'une place.
+
+II. - Dans le cas de structures d'hospitalisation à temps partiel ou d'hospitalisation à domicile :
+
+1° Si l'excédent de moyens est inférieur à 25 p. 100 des besoins théoriques de la zone sanitaire : fermeture d'un lit
+d'hospitalisation à temps complet pour la création d'une place de structure alternative à l'hospitalisation ;
+
+2° Si l'excédent est supérieur à 25 p. 100 : fermeture de deux lits pour la création d'une place.
+
+La réduction s'effectue :
+
+a) Pour la création de places relevant des structures d'hospitalisation à temps partiel autres que la chirurgie et la
+psychiatrie, par suppression de lits de médecine, d'obstétrique ou de soins de suite ou de réadaptation ;
+
+b) Pour la création de places relevant des structures d'hospitalisation à temps partiel de psychiatrie, par suppression de
+lits de psychiatrie ;
+
+c) Pour la création de places relevant des structures d'hospitalisation à domicile, par suppression de lits de médecine,
+d'obstétrique ou de soins de suite ou de réadaptation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1100 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-10 (M)
+	  - Code de la santé publique - art. L712-4 (Ab)
+
+
 ##### Section 2 : Autorisations
 
 ##### Sous-section 2 : De la compétence du ministre en matière d'autorisation
@@ -78263,6 +80827,235 @@ opération sont également données ou renouvelées par le ministre chargé de l
 	**Cite**:
 
 	  - Code de la santé publique - art. D712-15 (M)
+
+
+##### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins
+
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation
+
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire
+
+###### Article D712-30
+
+Les structures d'hospitalisation à temps partiel de jour ou de nuit et les structures pratiquant l'anesthésie ou la chirurgie
+ambulatoire mentionnées à l'article R. 712-2-1 dispensent, sur une durée journalière d'ouverture inférieure ou égale à douze
+heures, des prestations ne comprenant pas d'hébergement au bénéfice de patients dont l'état de santé correspond à ces modes
+de prise en charge.
+
+Les prestations délivrées équivalent par leur nature, leur complexité et la surveillance médicale qu'elles requièrent à des
+prestations habituellement effectuées dans le cadre d'une hospitalisation à temps complet.
+
+Ces structures doivent être aisément identifiables par leurs usagers et font l'objet d'une organisation spécifique. Elles
+sont organisées en une ou plusieurs unités de soins individualisées et disposent en propre de moyens en locaux, en matériel
+et en personnel.
+
+Dans le respect des dispositions mentionnées au dernier alinéa de l'article D. 712-31, ces structures peuvent recourir aux
+éléments du plateau technique d'un autre établissement de santé public ou privé.
+
+Les unités précitées doivent garantir l'accessibilité et la circulation d'un patient couché, appareillé et accompagné.
+
+Les conditions d'accès de ces unités aux divers éléments du plateau technique sont organisées de manière à limiter le plus
+possible les déplacements des patients.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1102 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-301 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-31 (Ab)
+	  - Code de la santé publique - art. D712-32 (Ab)
+	  - Code de la santé publique - art. D712-33 (Ab)
+	  - Code de la santé publique - art. D712-34 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R712-2-1 (Ab)
+
+
+###### Article D712-32
+
+Le nombre et la qualification des personnels médicaux, auxiliaires médicaux, personnels de rééducation ainsi que le nombre
+d'aides-soignants exerçant dans les structures et unités de soins mentionnées à l'article D. 712-30 sont appréciés par le
+préfet de région, au vu du dossier mentionné au I-B de l'article R. 712-40, en fonction de la nature et du volume d'activité
+effectués, de la fréquence des prestations délivrées, de leurs caractéristiques techniques et de l'importance des risques
+encourus par les patients.
+
+Pendant les heures d'ouverture mentionnées à l'article D. 712-30, est requise, dans la structure, la présence minimale
+permanente :
+
+1° D'un médecin qualifié ;
+
+2° D'un infirmier ou, pour la réadaptation fonctionnelle, d'un masseur-kinésithérapeute, quelle que soit la capacité
+autorisée de la structure, et à tout le moins d'un infirmier ou, le cas échéant, d'un masseur-kinésithérapeute pour cinq
+patients présents ;
+
+3° En sus des personnels mentionnés aux 1° et 2°, d'un médecin anesthésiste réanimateur si la structure pratique l'anesthésie
+ou la chirurgie ambulatoire et de deux infirmiers supplémentaires pendant la durée d'utilisation du secteur opératoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1102 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-303 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D712-30 (M)
+	  - Code de la santé publique - art. R712-40 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-34 (Ab)
+
+
+###### Article D712-33
+
+Les structures de soins mentionnées à l'article D. 712-30 sont tenues d'organiser la permanence et la continuité des soins en
+dehors de leurs heures d'ouverture, y compris les dimanches et jours fériés. Elles se dotent à cet effet d'un dispositif
+médicalisé d'orientation immédiate des patients.
+
+Dans le cas où la structure ne serait pas en mesure d'assurer elle-même la continuité des soins, elle est tenue de conclure
+une convention avec un autre établissement de santé public ou privé disposant de moyens de réanimation et accueillant en
+permanence des patients relevant de la ou des disciplines pratiquées par la structure. Cette convention définit notamment les
+conditions dans lesquelles les patients relevant de la structure, en cas de besoin, sont soit transférés dans l'autre
+établissement, soit orientés vers celui-ci, après sortie.
+
+Sans préjudice des dispositions qui précèdent, lorsque la structure de soins pratique l'anesthésie ou la chirurgie
+ambulatoire, chaque patient reçoit un bulletin de sortie avant son départ de la structure. Ce bulletin, signé par l'un des
+médecins de la structure, mentionne l'identité des personnels médicaux ayant participé à l'intervention, les recommandations
+sur les conduites à tenir en matière de surveillance postopératoire ou anesthésique et les coordonnées de l'établissement de
+santé assurant la permanence et la continuité des soins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1102 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Décret n°2002-780 du 3 mai 2002 - art. ANNEXE (V)
+	  - Code de la santé publique - art. D712-34 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-304 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D712-30 (M)
+
+
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile
+
+###### Article D712-35
+
+L'admission d'un patient dans une structure dite d'hospitalisation à domicile mentionnée à l'article R. 712-2-1, ainsi que sa
+sortie, sont prononcées par le responsable de ladite structure après avis du médecin coordonnateur mentionné à l'article D.
+712-37. L'admission est effectuée dans les limites de la capacité autorisée de la structure.
+
+Afin de garantir la sécurité des patients et la coordination des soins, toute structure dite d'hospitalisation à domicile
+dispose d'un système de communication à distance permettant, vingt-quatre heures sur vingt-quatre, y compris les dimanches et
+jours fériés, d'assurer une liaison permanente entre les patients, leurs familles et les personnels mentionnés à l'article D.
+712-37.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1102 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-306 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-36 (Ab)
+	  - Code de la santé publique - art. D712-37 (Ab)
+	  - Code de la santé publique - art. D712-38 (Ab)
+	  - Code de la santé publique - art. D712-39 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R712-2-1 (Ab)
+
+
+###### Article D712-39
+
+Un règlement intérieur propre à chaque structure mentionnée à l'article D. 712-35 précise notamment [*mentions
+obligatoires*] :
+
+1° Les principes généraux de son fonctionnement médical ;
+
+2° La qualification du médecin coordonnateur ;
+
+3° L'organisation générale des interventions et des permanences des personnels mentionnés à l'article D. 712-37 ainsi que les
+modalités de leur coordination ;
+
+4° Les modalités de constitution et de communication des dossiers médicaux en application des dispositions prévues aux
+articles R. 710-2-1 à R. 710-2-10 ;
+
+5° Les modalités de mise en oeuvre des dispositions mentionnées à l'article D. 712-38 ;
+
+6° L'aire géographique d'intervention de la structure mentionnée à l'article R. 712-2-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1102 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-310 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D712-35 (M)
+	  - Code de la santé publique - art. D712-38 (M)
+	  - Code de la santé publique - art. R712-2-1 (Ab)
+	  - Code de la santé publique D712-35, D712-37, R710-2-1 à R710-2-10, D712-38, R712-2-1
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-37 (Ab)
 
 
 #### Chapitre IV : Les établissements publics de santé
@@ -79132,5 +81925,233 @@ connaître, le cas échéant, à l'intéressé les transformations à réaliser.
 	**Liens**:
 
 	  - TXT_SOURCE: Code de la santé publique - art. L712-12 (M)
+
+
+#### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins
+
+##### Sous-section 1 : Des structures de soins alternatives à l'hospitalisation
+
+##### Paragraphe 1 : Des structures d'hospitalisation à temps partiel et des structures pratiquant l'anesthésie ou la chirurgie ambulatoire
+
+###### Article D712-31
+
+Les structures et unités de soins mentionnées à l'article D. 712-30 sont agencées et équipées de manière à assurer sur un
+même site, en fonction du type, du volume et de la programmation des prestations fournies :
+
+1° L'accueil et le séjour des patients et ceux des personnes qui, le cas échéant, les accompagnent ;
+
+2° L'organisation, la préparation et la mise en oeuvre optimale des protocoles de soins ;
+
+3° La surveillance et le repos nécessaires à chaque patient ;
+
+4° La décontamination, le stockage et l'entretien du matériel nécessaire aux soins et au transport des patients.
+
+Au cours de la durée d'ouverture mentionnée à l'article D. 712-30, les locaux affectés à chaque unité de soins qui compose la
+structure ne peuvent être utilisés pour aucune autre activité.
+
+La configuration architecturale et fonctionnelle de chaque structure et unité de soins garantit à chaque patient les
+conditions d'hygiène et d'asepsie nécessaires ainsi que le respect de son intimité et de sa dignité, en comportant notamment
+des espaces spécifiques adaptés.
+
+Les moyens nécessaires à la prise en charge immédiate d'une complication médicale éventuelle, et notamment les locaux, le
+matériel et les médicaments propres à y répondre, sont disponibles et utilisables sans délai.
+
+Les structures pratiquant l'anesthésie ou la chirurgie ambulatoire utilisent un secteur opératoire conforme à des
+caractéristiques fixées par arrêté du ministre chargé de la santé. Les structures ou les unités qui la composent comportent
+les équipements et agencements nécessaires à la préparation préalable du patient, y compris la consultation anesthésique.
+Elles disposent également d'une salle de repos et des autres moyens nécessaires à la préparation de la sortie du patient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1102 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 1 (M)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 3 (M)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 4 (V)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 5 (V)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 6 (V)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 7 (V)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 8 (V)
+	  - TXT_ASSOCIE: Arrêté du 7 janvier 1993 - art. 9 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-302 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-30 (Ab)
+	  - Code de la santé publique - art. D766-2-11 (Ab)
+
+
+###### Article D712-34
+
+Un règlement intérieur propre à chaque structure de soins mentionnée à l'article D. 712-30 précise notamment [*mentions
+obligatoires*] :
+
+1° Les principes généraux de son fonctionnement médical ;
+
+2° La qualification du médecin coordonnateur ;
+
+3° L'organisation générale des présences et permanences des personnels mentionnés à l'article D. 712-32 ;
+
+4° Les modalités de mise en oeuvre des dispositions mentionnées à l'article D. 712-33 ;
+
+5° Les modalités de constitution et de communication des dossiers médicaux en application des dispositions prévues aux
+articles R. 710-2-1 à R. 710-2-10.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1102 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Cité par**:
+
+	  - Arrêté du 7 janvier 1993 - art. 3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-305 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D712-30 (M)
+	  - Code de la santé publique - art. D712-32 (M)
+	  - Code de la santé publique - art. D712-33 (M)
+	  - Code de la santé publique D712-30, D712-32, D712-33, R710-2-1 à R710-2-10
+
+
+##### Paragraphe 2 : Des structures dites d'hospitalisation à domicile
+
+###### Article D712-36
+
+Toute structure dite d'hospitalisation à domicile mentionnée à l'article D. 712-35 dispose de locaux spécifiques permettant
+notamment d'assurer sa gestion et de mettre en oeuvre la coordination des prestations de soins et des personnels mentionnés à
+l'article D. 712-37.
+
+Les locaux précités peuvent être organisés sous forme de plusieurs antennes assurant tout ou partie de ces missions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1102 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-307 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D712-35 (M)
+	  - Code de la santé publique - art. D712-37 (M)
+
+
+###### Article D712-37
+
+Le nombre et la qualification des personnels médicaux, auxiliaires médicaux, personnels de rééducation ainsi que le nombre
+d'aides-soignants exerçant dans les structures de soins mentionnées à l'article D. 712-35 sont appréciés par le préfet de
+région, au vu du dossier mentionné au I-B de l'article R. 712-40, en fonction de la nature et du volume d'activité effectués,
+de la fréquence des prestations délivrées et de leurs caractéristiques techniques.
+
+Un médecin coordonnateur organise le fonctionnement médical de la structure, dans le respect des règles professionnelles et
+déontologiques en vigueur. Il veille notamment à l'adéquation et à la permanence des prestations fournies aux besoins des
+patients et à la bonne transmission des dossiers médicaux et de soins nécessaires à la continuité des soins.
+
+Les personnels mentionnés aux précédents alinéas peuvent être salariés de la structure, salariés de toute personne morale
+ayant passé convention avec ladite structure ou d'exercice libéral lorsque les personnels susvisés sont habilités à pratiquer
+ce mode d'exercice. Ils sont tenus de respecter le règlement intérieur mentionné à l'article D. 712-39.
+
+Parmi les personnels mentionnés au premier alinéa, toute structure dite d'hospitalisation à domicile doit disposer en
+permanence d'au moins un agent pour six patients pris en charge. Cet agent est selon les cas un auxiliaire médical ou un
+agent relevant des personnels de rééducation.
+
+Le personnel exprimé en équivalent temps plein, autre que les médecins, exerçant dans la structure susvisée est constitué au
+moins pour moitié d'infirmiers diplômés d'Etat.
+
+Quelle que soit la capacité autorisée de la structure, un cadre infirmier assure la coordination des interventions des
+personnels non médicaux. La structure comporte en outre au moins un cadre infirmier pour trente places autorisées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1102 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-308 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-35 (Ab)
+	  - Code de la santé publique - art. D712-36 (Ab)
+	  - Code de la santé publique - art. D712-39 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R712-40 (M)
+
+
+###### Article D712-38
+
+Les structures de soins mentionnées à l'article D. 712-35 sont tenues d'assurer la permanence et la continuité des soins, y
+compris les dimanches et les jours fériés.
+
+Elles garantissent aux patients qu'elles prennent en charge leur transfert, en cas de nécessité, dans un établissement de
+santé accueillant en permanence des patients dans les disciplines de médecine et de chirurgie.
+
+Dans le cas où la structure ne relève pas d'un établissement comportant les disciplines susvisées, elle est tenue de conclure
+une convention avec un autre établissement de santé doté de telles disciplines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1102 du 2 octobre 1992 - art. 1 () JORF 8 octobre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-309 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D712-35 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-39 (Ab)
 
 
