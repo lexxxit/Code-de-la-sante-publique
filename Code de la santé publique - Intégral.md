@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1991-09-10
+Version Consolidée au 1991-09-14
 
 # Partie législative ancienne
 
@@ -57462,6 +57462,180 @@ dispositions des décrets en Conseil d'Etat pris en application de l'article L. 
 
 	  - Code de la santé publique - art. R5141-116 (M)
 	  - Code de la santé publique - art. R5141-116 (V)
+
+
+###### Article R5146-53-1
+
+Les substances présentant des propriétés anti-infectieuses, antiparasitaires (externes et internes), anti-inflammatoires,
+analgésiques, neuroleptiques, anesthésiques, hormonales ou anabolisantes sont soumises en application de l'article L. 617-6,
+dernier alinéa, aux conditions particulières de délivrance définies ci-après.
+
+Sans préjudice des dispositions concernant les substances vénéneuses, la délivrance des substances mentionnées à l'alinéa
+précédent doit respecter les règles suivantes :
+
+1° Toute cession de ces produits ne peut être consentie qu'à des personnes habilitées à les détenir en raison de leur
+profession ;
+
+2° Les cessions doivent faire l'objet d'un enregistrement par tout moyen comportant l'indication du nom, de l'adresse et de
+la profession de l'acquéreur ainsi que du nom et de la quantité de la substance vendue ou cédée ;
+
+3° Lorsque la profession de l'acquéreur n'implique pas l'utilisation de ces produits, mention est faite de l'usage auquel ils
+sont destinés selon la déclaration faite par l'intéressé.
+
+Ces substances ne peuvent être délivrées en l'état aux éleveurs ou aux groupements agricoles visés à l'article L. 612, sauf
+si elles sont destinées à être employées pour des usages agricoles et phytosanitaires autorisés.
+
+**Nota:**
+
+Nota : Décret 91-213 1991-09-12 art. 1 : l'article R5146-53 bis devient le présent article*
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-913 du 12 septembre 1991 - art. 1 () JORF 14 septembre 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L612 (M)
+	  - Code de la santé publique - art. L617-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-117 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5146-57 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5146-57 (M)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique R5146-53 bis
+
+
+###### Article R5146-53-2
+
+Les entreprises qui produisent des substances à action thyréostatique, oestrogène, androgène ou gestagène et celles qui font
+commerce desdites substances ainsi que les établissements mentionnés à l'article L. 615 doivent consigner par ordre
+chronologique sur un registre ou par tout système d'enregistrement approprié :
+
+1. Le nom et les quantités des substances précitées qui sont produites, acquises, cédées ou utilisées pour la fabrication de
+médicaments vétérinaires ;
+
+2. La date de réalisation des opérations et, dans le cas d'acquisition ou de cession, les nom, profession et adresse du
+fournisseur ou de l'acquéreur desdites substances.
+
+Un relevé trimestriel, récapitulant par substance les quantités produites, acquises, cédées ou utilisées pour la fabrication
+de médicaments vétérinaires, doit être adressé au ministre chargé de l'agriculture et, sur sa demande, au ministre chargé de
+la santé au plus tard à la fin du mois qui suit le trimestre concerné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-913 du 12 septembre 1991 - art. 2 () JORF 14 septembre 1991
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L615 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-118 (M)
+
+
+###### Article R5146-53-3
+
+Les établissements mentionnés à l'article L. 615 qui cèdent des médicaments vétérinaires contenant des substances à action
+oestrogène, androgène ou gestagène doivent consigner par ordre chronologique sur un registre ou par tout système
+d'enregistrement approprié :
+
+1. Le nom et la quantité des médicaments cédés ;
+
+2. La date de la cession ainsi que les nom, profession et adresse de l'acquéreur.
+
+Un relevé trimestriel, récapitulant par médicament les quantités cédées, doit être adressé au ministre chargé de
+l'agriculture et, sur sa demande, au ministre chargé de la santé au plus tard à la fin du mois qui suit le trimestre
+concerné.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-913 du 12 septembre 1991 - art. 2 () JORF 14 septembre 1991
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-119 (M)
+
+
+###### Article R5146-53-4
+
+Le vétérinaire qui prescrit à des animaux d'exploitation des médicaments contenant des substances à action oestrogène,
+androgène ou gestagène doit consigner par ordre chronologique sur un registre, ou par tout système d'enregistrement
+approprié, les renseignements suivants :
+
+1. Numéro de l'ordonnance prescrivant le médicament considéré ;
+
+2. Nature du traitement ;
+
+3. Nature du médicament ;
+
+4. Date du traitement ;
+
+5. Identité des animaux traités ;
+
+6. Identité du détenteur du ou des animaux traités.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-913 du 12 septembre 1991 - art. 2 () JORF 14 septembre 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5141-115 (M)
+	  - Code rural - art. R234-7 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-120 (M)
+
+
+###### Article R5146-53-5
+
+Les registres ou les enregistrements mentionnés aux articles R. 5146-53-2, R. 5146-53-3 et R. 5146-53-4 doivent être
+conservés pendant cinq ans pour être présentés à toute réquisition des autorités compétentes.
+
+Les systèmes d'enregistrement doivent être conformes aux caractéristiques fixées par arrêté conjoint du ministre chargé de
+l'agriculture et du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°91-913 du 12 septembre 1991 - art. 2 () JORF 14 septembre 1991
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-121 (M)
 
 
 ###### Article R5146-54
