@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1975-07-11
+Version Consolidée au 1975-07-13
 
 # Partie législative ancienne
 
@@ -30003,6 +30003,1530 @@ septembre 1919, 26 mars 1927, 4 août 1927, 2 juillet 1935, du décret du 25 jui
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
 
+### Titre 3 : Laboratoires
+
+#### Chapitre 1 : Laboratoires d'analyses de biologie médicale
+
+##### Section 1 : Conditions de fonctionnement des laboratoires d'analyses de biologie médicale.
+
+###### Article L753
+
+Les laboratoires dans lesquels sont effectuées des analyses de biologie médicale doivent, sous réserve des dispositions de
+l'article L. 761-11, répondre aux conditions fixées par le présent chapitre.
+
+Les analyses de biologie médicale sont les examens biologiques qui concourent au diagnostic, au traitement ou à la prévention
+des maladies humaines ou qui font apparaître toute autre modification de l'état physiologique ; les analyses ne peuvent être
+effectuées que dans les laboratoires mentionnés à l'alinéa précédent, sous la responsabilité de leurs directeurs et
+directeurs adjoints.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°46-447 1946-03-18 ART. 1
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°88-327 du 8 avril 1988 - art. 8 (Ab)
+	  - Arrêté du 11 avril 1988 - art. 8 (VT)
+	  - Décret n°92-545 du 17 juin 1992 - art. 10 (V)
+	  - Décret n°92-545 du 17 juin 1992 - art. 14 (V)
+	  - Loi n°93-5 du 4 janvier 1993 - art. 19 (Ab)
+	  - Arrêté du 2 novembre 1994 - art. ANNEXE (V)
+	  - Arrêté du 2 novembre 1994 - art. Annexe A (V)
+	  - Arrêté du 4 janvier 1995 - art. Annexe (V)
+	  - Arrêté du 27 septembre 1996 - art. 1 (V)
+	  - Arrêté du 27 mai 1997 - art. 1 (M)
+	  - Code de la santé publique - art. R668-3 (Ab)
+	  - Code de la santé publique - art. R668-4-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6211-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-11 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L754
+
+Un laboratoire d'analyses de biologie médicale ne peut être ouvert, exploité ou dirigé que par [*autorités compétentes*] :
+
+1° Une personne physique ;
+
+2° Une société civile professionnelle régie par la loi du 29 novembre 1966 modifiée ;
+
+3° Une société anonyme ou une société à responsabilité limitée remplissant les conditions prévues à l'article L. 756 ;
+
+4° Un organisme ou service relevant de l'Etat, d'un département, d'une commune ou d'un établissement public ;
+
+5° Un organisme mutualiste ou de sécurité sociale ;
+
+6° Un organisme à but non lucratif reconnu d'utilité publique ou bénéficiant d'une autorisation donnée par le ministère de la
+santé.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°46-447 1946-03-18 ART. 2
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Loi n°75-626 du 11 juillet 1975 - art. 2 (V)
+	  - Décret n°92-867 du 28 août 1992 - art. 8 (V)
+	  - Code de la santé publique - art. L755 (Ab)
+	  - Code de la santé publique - art. L756 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6212-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L755 : DESIGNATION DES DIRECTEURS
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+	**Cite**:
+
+	  - Loi n°1966-11-29
+
+
+###### Article L755
+
+Lorsque le laboratoire est exploité par une personne physique, celle-ci est directeur du laboratoire.
+
+Lorsqu'il est exploité par une société civile professionnelle, tous les associés sont directeurs de laboratoire.
+
+Lorsque le laboratoire est exploité par une société anonyme ou une société à responsabilité limitée, le président du conseil
+d'administration, les directeurs généraux, les membres du directoire ou le directeur général unique et les gérants, ainsi que
+la majorité au moins des membres du conseil d'administration et du conseil de surveillance sont directeurs ou directeurs
+adjoints du laboratoire.
+
+Lorsque le laboratoire est exploité par un organisme mentionné aux 4°, 5° ou 6° de l'article L. 574 [*L. 754*], cet organisme
+désigne un ou plusieurs directeurs de laboratoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Loi n°75-626 du 11 juillet 1975 - art. 2 (V)
+	  - Décret n°78-326 du 15 mars 1978 - art. 44 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6212-2 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L754 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+	**Anciens textes**:
+
+	  - Loi n°46-444 1946-03-18 ART. 3
+
+
+###### Article L756
+
+I. - Lorsqu'une société anonyme ou une société à responsabilité limitée exploite un laboratoire d'analyses de biologie
+médicale, elle doit se conformer aux règles ci-après [*obligation*] :
+
+1° Les actions des sociétés anonymes doivent revêtir la forme nominative ;
+
+2° Les trois quarts au moins [*pourcentage*] du capital social doivent être détenus par les directeurs et directeurs adjoints
+du laboratoire ;
+
+3° Les associés ne peuvent être que des personnes physiques, à l'exclusion de celles exerçant une activité médicale autre que
+les fonctions de directeur ou directeur adjoint de laboratoire ;
+
+4° L'adhésion d'un nouvel associé est subordonnée à l'agrément préalable de l'assemblée générale statuant à la majorité des
+deux tiers.
+
+II. - Les dispositions des articles 93 (alinéas 1er et 2), 107 et 142 de la loi n° 66-537 du 24 juillet 1966 ne sont
+applicables respectivement ni aux membres du conseil d'administration, ni aux membres du conseil de surveillance.
+
+Une même société ne peut exploiter qu'un seul laboratoire [*nombre*].
+
+Une personne ne peut détenir des parts ou des actions dans plusieurs sociétés exploitant un laboratoire ; elle ne peut
+cumuler la qualité d'associé avec l'exploitation personnelle prévue au 1° de l'article L. 754.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°46-447 1946-03-18 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Loi n°66-537 1966-07-24 ART. 93, ART. 107, ART. 142
+
+	**Cité par**:
+
+	  - Loi n°75-626 du 11 juillet 1975 - art. 2 (V)
+	  - Décret n°78-326 du 15 mars 1978 - art. 44 (Ab)
+	  - Code de la santé publique - art. L754 (Ab)
+	  - Code de la santé publique - art. L761-18 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6212-4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-18 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-18 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L757
+
+Aucun laboratoire d'analyse de biologie médicale ne peut fonctionner sans une autorisation administrative [*condition*].
+
+Sans préjudice de l'application des dispositions de l'article 31 de la loi portant réforme hospitalière en date du 31
+décembre 1970, relatif aux équipements matériels lourds, cette autorisation est délivrée lorsque sont remplies les conditions
+fixées par la loi n. 75-626 du 11 juillet 1975 et par le décret prévu à l'article L. 761-15 qui détermine et le nombre et la
+qualification du personnel technique ainsi que les normes applicables à l'installation et à l'équipement des laboratoires.
+
+Ce décret peut fixer des conditions particulières applicables aux laboratoires dont l'activité est limitée à certains actes
+qu'il détermine. L'autorisation délivrée à ces laboratoires porte mention de cette limitation.
+
+Toute modification survenue postérieurement à la décision d'autorisation, soit dans la personne d'un directeur ou d'un
+directeur adjoint, soit dans les conditions d'exploitation, doit faire l'objet d'une déclaration.
+
+L'autorisation est retirée lorsque les conditions légales ou réglementaires cessent d'être remplies.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°46-447 1946-03-18 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Arrêté du 6 janvier 1962 - art. 5 (V)
+	  - Décret n°76-1004 du 4 novembre 1976 - art. 15 (Ab)
+	  - Décret n°76-1004 du 4 novembre 1976 - art. 24 (Ab)
+	  - Décret n°78-326 du 15 mars 1978 - art. 4 (Ab)
+	  - Décret n°78-326 du 15 mars 1978 - art. 55 (Ab)
+	  - Décret n°88-280 du 24 mars 1988 - art. 2 (Ab)
+	  - Décret n°88-327 du 8 avril 1988 - art. 8 (Ab)
+	  - Décret n°92-545 du 17 juin 1992 - art. 5 (V)
+	  - Décret n°92-784 du 6 août 1992 - art. 9 (Ab)
+	  - Décret n°94-1049 du 2 décembre 1994 - art. 4 (Ab)
+	  - Arrêté du 29 décembre 1998 - art. ANNEXE (V)
+	  - Code de la santé publique - art. L758 (Ab)
+	  - Code de la santé publique - art. L761-17 (Ab)
+	  - Code de la santé publique - art. R5184 (Ab)
+
+	**Cite**:
+
+	  - Loi n°75-626 1975-07-11
+	  - Code de la santé publique - art. L761-15 (M)
+	  - Loi n°70-1318 1970-12-31 ART. 31
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6211-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-17 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-17 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L758
+
+Seuls peuvent utiliser l'appellation de laboratoires d'analyses de biologie médicale les laboratoires qui ont obtenu
+l'autorisation [*administrative*] mentionnée à l'article L. 757.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°46-447 1946-03-18 ART. 7
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6211-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L757 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L759
+
+L'exécution des actes de biologie qui requièrent une qualification spéciale ou qui nécessitent le recours, soit à des
+produits présentant un danger particulier, soit à des techniques exceptionnellement délicates ou d'apparition récente, peut
+être réservée à certains laboratoires et à certaines catégories de personnes.
+
+La liste des actes, celle des laboratoires et celle des catégories de personnes habilitées à effectuer ces actes sont
+dressées par le ministre de la santé, après avis de la commission nationale permanente de biologie médicale. La composition
+et les attributions de cette commission sont fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
+	  - Décret n°75-1024 du 5 novembre 1975 - art. 1 (M)
+	  - Décret n°75-1024 du 5 novembre 1975 - art. 5 (M)
+	  - Décret n°75-1344 du 30 décembre 1975 - art. 8 (Ab)
+	  - Décret n°76-1004 du 4 novembre 1976 - art. 17 (Ab)
+	  - Décret n°76-1004 du 4 novembre 1976 - art. 20 (M)
+	  - Décret n°76-1004 du 4 novembre 1976 - art. 20-1 (Ab)
+	  - Arrêté du 29 juillet 1988 - art. 1 (V)
+	  - Arrêté du 2 novembre 1994 - art. ANNEXE (V)
+	  - Code de la famille et de l'aide sociale. - art. 44 (M)
+	  - Code de la santé publique - art. L162-16 (Ab)
+	  - Code de la santé publique - art. L760 (Ab)
+	  - Code de la santé publique - art. L761-11 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°96-787 du 10 septembre 1996
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6211-4 (V)
+
+	**Anciens textes**:
+
+	  - Décret n°1939-07-29 ART. 92
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L760
+
+Sous réserve des accords ou conventions susceptibles d'être passés avec des régimes ou des organismes d'assurance maladie ou
+des établissements hospitaliers publics, les personnes physiques et les sociétés et organismes qui exploitent un laboratoire
+d'analyses de biologie médicale ne peuvent consentir à des tiers, sous quelque forme que ce soit, des ristournes pour les
+analyses ou examens dont ils sont chargés [*interdiction*].
+
+Ils ne peuvent passer un accord ou une convention accordant à un tiers la totalité ou une quote-part des revenus provenant de
+l'activité du laboratoire d'analyses de biologie médicale.
+
+La transmission de prélèvements aux fins d'analyses n'est autorisée qu'au pharmacien d'officine installé dans une
+agglomération où n'existe pas de laboratoire exclusif ou à un directeur de laboratoire à un autre laboratoire spécialement
+équipé pour une ou plusieurs disciplines biologiques.
+
+Dans ces cas, une indemnité forfaitaire dont le montant est fixé par arrêté interministériel est attribuée au pharmacien
+d'officine ou au directeur de laboratoire qui a assuré la transmission.
+
+Cette indemnité, incluse dans la tarification des analyses auxquelles a donné lieu le prélèvement, est à la charge du
+laboratoire qui a effectué ces analyses.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1939-11-29 ART. 21
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+	**Cité par**:
+
+	  - Décret n°76-1004 du 4 novembre 1976 - art. 20 (M)
+	  - Décret n°76-1004 du 4 novembre 1976 - art. 20-1 (Ab)
+	  - Arrêté du 2 novembre 1994 - art. Annexe A (V)
+	  - Décret n°94-1049 du 2 décembre 1994 - art. 4 (Ab)
+	  - Code de la santé publique - art. L761-17 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-17 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-17 : DISPOSITIONS PENALES
+
+
+##### Section 2 : Dispositions applicables aux directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale.
+
+###### Article L761
+
+Les directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale doivent exercer personnellement et
+effectivement leurs fonctions.
+
+Ils ne peuvent les exercer dans plus d'un laboratoire.
+
+Ils ne peuvent exercer une autre activité médicale, pharmaceutique ou vétérinaire, à l'exception des actes médicaux et
+prescriptions pharmacologiques directement liés à l'exercice de la biologie et des prescriptions thérapeutiques à titre
+gratuit. Ils peuvent cependant exercer des fonctions d'enseignement dans le ressort de l'académie où est exploité le
+laboratoire, ou dans un rayon de cent kilomètres autour de ce laboratoire *distance*.
+
+Toutefois, un directeur ou directeur adjoint de laboratoire privé peut, à l'intérieur d'un même département ou dans deux
+départements limitrophes, cumuler la direction de ce laboratoire avec les fonctions de biologiste chef de service, d'adjoint
+ou assistant de biologie, ou d'attaché de biologie d'un établissement hospitalier public, d'un établissement participant au
+service public hospitalier ou d'un établissement de transfusion sanguine, lorsqu'il a été régulièrement nommé à ces fonctions
+et qu'il ne les exerce qu'à temps partiel. Le cumul de ces fonctions est également autorisé à l'intérieur du territoire
+constitué par les départements du Val-d'Oise, des Yvelines, de l'Essonne, de la Seine-Saint-Denis, des Hauts-de-Seine, du
+Val-de-Marne et de Paris.
+
+En outre, les directeurs et directeurs adjoints titulaires de l'autorisation [*administrative*] prévue à l'article L. 513
+peuvent, dans le cadre de leur activité professionnelle, préparer des vaccins, sérums et allergènes destinés à un seul
+individu.
+
+Des dérogations à l'interdiction du cumul d'activités peuvent être accordées par le ministre de la santé, après avis de la
+commission nationale permanente de biologie médicale, en tenant compte notamment de la situation géographique, des moyens de
+communications qui desservent la localité, de la densité de la population et de ses besoins.
+
+Elles peuvent être aussi accordées pour tenir compte des nécessités inhérentes à certains moyens de diagnostic ou à certaines
+thérapeutiques.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°46-447 1946-03-18 ART. 6
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Loi n°75-626 du 11 juillet 1975 - art. 2 (V)
+	  - Décret n°75-1024 du 5 novembre 1975 - art. 5 (M)
+	  - Décret n°76-1004 du 4 novembre 1976 - art. 25 (Ab)
+	  - Décret n°76-1004 du 4 novembre 1976 - art. 7 (Ab)
+	  - Décret n°78-326 du 15 mars 1978 - art. 44 (Ab)
+	  - Décret n°78-326 du 15 mars 1978 - art. 46 (Ab)
+	  - Décret n°88-327 du 8 avril 1988 - art. 8 (Ab)
+	  - Arrêté du 9 août 1991 - art. 2 (Ab)
+	  - Décret n°92-545 du 17 juin 1992 - art. 8 (V)
+	  - Arrêté du 2 novembre 1994 - art. Annexe A (V)
+	  - Code de déontologie vétérinaire. - art. 1 (Ab)
+	  - Code de la santé publique - art. L184-1 (Ab)
+	  - Code de la santé publique - art. L761-10 (Ab)
+	  - Code de la santé publique - art. L761-18 (Ab)
+	  - Code de la santé publique - art. L761-19 (Ab)
+	  - Code de la santé publique - art. R5193 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L513 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6221-9 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-18 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-19 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-18, L761-19 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-1
+
+Les directeurs et directeurs adjoints de laboratoire doivent être titulaires de l'un des diplômes d'Etat de docteur en
+médecine, de pharmacien ou de docteur vétérinaire, être inscrits au tableau de l'ordre professionnel dont ils relèvent et
+avoir reçu une formation spécialisée dont la nature et les modalités sont fixées par décret [*conditions d'exercice*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Loi n°75-626 du 11 juillet 1975 - art. 2 (M)
+	  - Décret n°78-326 du 15 mars 1978 - art. 7 (Ab)
+	  - Décret n°92-545 du 17 juin 1992 - art. 8 (V)
+	  - Arrêté du 2 novembre 1994 - art. Annexe A (V)
+	  - Code de la santé publique - art. L761-10 (Ab)
+	  - Code de la santé publique - art. L761-18 (Ab)
+	  - Code de la santé publique - art. L761-9 (Ab)
+	  - Code de la santé publique - art. R668-19 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6221-1 (V)
+	  - Code de la santé publique - art. L6222-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-18 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-18 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-2
+
+Les personnes ne possédant pas les diplômes et certificats requis ne peuvent être directeurs ou directeurs adjoints de
+laboratoire s'ils ne bénéficient, en raison de leurs titres et travaux, d'une autorisation accordée à titre exceptionnel par
+le ministre de la santé, après consultation de la commission nationale permanente de biologie médicale [*conditions
+d'exercice*].
+
+Cette autorisation peut être limitée aux fonctions de directeur ou directeur adjoint d'un laboratoire spécialisé dans
+l'exécution de certains actes en application des dispositions de l'article L. 757, alinéa 3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+	**Cité par**:
+
+	  - Décret n°75-1024 du 5 novembre 1975 - art. 5 (M)
+	  - Décret n°78-326 du 15 mars 1978 - art. 10 (Ab)
+	  - Décret n°78-326 du 15 mars 1978 - art. 29 (Ab)
+	  - Décret n°78-326 du 15 mars 1978 - art. 5 (Ab)
+	  - Décret n°78-326 du 15 mars 1978 - art. 51 (Ab)
+	  - Décret n°78-326 du 15 mars 1978 - art. 55 (Ab)
+	  - Décret n°78-326 du 15 mars 1978 - art. 64 (Ab)
+	  - Décret n°78-326 du 15 mars 1978 - art. 7 (Ab)
+	  - Décret n°92-545 du 17 juin 1992 - art. 6 (V)
+	  - Décret n°92-545 du 17 juin 1992 - art. 8 (V)
+	  - Arrêté du 2 novembre 1994 - art. Annexe A (V)
+	  - Code de la santé publique - art. L761-10 (Ab)
+	  - Code de la santé publique - art. L761-18 (Ab)
+	  - Code de la santé publique - art. L761-6 (Ab)
+	  - Code de la santé publique - art. L761-8 (Ab)
+	  - Code de la santé publique - art. L761-9 (Ab)
+	  - Code de la santé publique - art. R668-19 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6221-2 (V)
+	  - Code de la santé publique - art. L6222-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-18 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-18 : DISPOSITIONS PENALES
+
+	**Cite**:
+
+	  - Code de la santé publique L757 AL. 3
+
+
+###### Article L761-3
+
+Le nombre minimum de directeurs et de directeurs adjoints est fixé par le décret prévu à l'article L. 761-15 en fonction de
+l'effectif du personnel technique employé et de l'activité globale du laboratoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6211-9 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-15 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-4
+
+Sans préjudice de l'application des dispositions de l'article L. 462, les directeurs de laboratoires d'analyses de biologie
+médicale doivent communiquer au conseil de l'ordre dont ils relèvent les contrats et avenants ayant pour objet l'exercice de
+leur profession ainsi que, s'ils ne sont pas propriétaires de leur matériel et du local dans lequel ils exercent ou
+exerceront leur profession, les contrats ou avenants leur assurant l'usage de ce matériel et de ce local [*obligation*].
+
+Les mêmes obligations s'appliquent aux contrats et avenants ayant pour objet de transmettre, sous condition résolutoire, la
+propriété du matériel et du local.
+
+Les conditions d'exercice de la profession par les directeurs adjoints font également l'objet d'un contrat qui doit être
+communiqué au conseil de l'ordre dont relèvent les intéressés [*conditions de forme*].
+
+Les communications ci-dessus prévues doivent être faites dans le mois suivant la conclusion du contrat ou de l'avenant
+[*délai*].
+
+Tous les contrats ou avenants dont la communication est exigée doivent être passés par écrit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L462 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6221-4 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-22 (Ab)
+	  - Code de la santé publique - art. L761-6 (Ab)
+	  - Code de la santé publique - art. L761-7 (Ab)
+	  - Code de la santé publique - art. L761-8 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-22 : DISPOSITIONS PENALES SANCTIONNANT LE DEFAUT D'ACTE ECRIT
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-5
+
+Les statuts des sociétés constituées pour l'exploitation d'un laboratoire et les modifications apportées à ces statuts au
+cours de la vie sociale doivent être communiqués à la diligence du ou des directeurs dans le mois suivant leur signature
+[*délai*] aux conseils des ordres dans le ressort desquels est situé le laboratoire et dont relèvent ses directeurs et
+directeurs adjoints [*obligation*].
+
+Les contrats et avenants conclus par ces sociétés et ayant pour objet de leur assurer l'usage du matériel ou du local servant
+à l'activité du laboratoire, sont également soumis à communication dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6221-5 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-22 (Ab)
+	  - Code de la santé publique - art. L761-6 (Ab)
+	  - Code de la santé publique - art. L761-7 (Ab)
+	  - Code de la santé publique - art. L761-8 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-22 : DISPOSITIONS PENALES SANCTIONNANT LE DEFAUT D'ECRIT
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-6
+
+Les dispositions des articles L. 761-4 et L. 761-5 sont applicables aux bénéficiaires de l'autorisation [*d'exercice*] prévue
+à l'article L. 761-2 qui doivent effectuer les communications prévues par lesdits articles au ministre de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6221-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-2 (M)
+	  - Code de la santé publique - art. L761-4 (M)
+	  - Code de la santé publique - art. L761-5 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-7
+
+Les contrats, avenants et statuts dont la communication est prévue aux articles L. 761-4 et L. 761-5 doivent être tenus à la
+disposition de l'autorité administrative par les conseils des ordres intéressés [*droit de communication*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6221-7 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-4 (M)
+	  - Code de la santé publique - art. L761-5 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-8
+
+Le défaut de communication ou la communication mensongère des contrats, avenants, statuts ou modification de statuts
+mentionnés aux articles L. 761-4 et L. 761-5 ou, lorsqu'il est imputable aux directeur ou directeur adjoint d'un laboratoire
+d'analyses de biologie médicale, le défaut de rédaction d'un écrit constitue une faute disciplinaire susceptible d'entraîner
+l'une des sanctions prévues à l'article L. 423 du présent code pour les docteurs en médecine, à l'article L. 527 du même code
+pour les pharmaciens, et à l'article 321 du code rural pour les docteurs vétérinaires.
+
+L'autorisation [*d'exercice*] prévue à l'article L. 761-2 peut, dans les mêmes cas, être retirée, à titre temporaire ou
+définitif, par le ministre de la santé. Elle peut aussi être retirée lorsque les contrats, avenants ou statuts contiennent
+des clauses contraires aux dispositions de la loi n° 75-626 du 11 juillet 1975 ou des décrets pris pour son application.
+
+Le conseil de l'ordre intéressé ne peut plus mettre en oeuvre, en raison des contrats, avenants et statuts ci-dessus prévus
+les pouvoirs qu'il tient des articles L. 417 du présent code pour les médecins, L. 526 et L. 527 du même code pour les
+pharmaciens et 319 du code rural pour les docteurs vétérinaires, lorsqu'un délai de six mois s'est écoulé depuis la
+communication desdits statuts, contrats ou avenants [*délai de forclusion*].
+
+Lorsque le délai prévu à l'alinéa précédent s'est écoulé, le ministre de la santé ne peut plus mettre en oeuvre le pouvoir
+disciplinaire que le présent article lui confère à l'égard des bénéficiaires de l'autorisation prévue à l'article L. 761-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Loi n°75-626 1975-07-11
+	  - Code de la santé publique - art. L417 (Ab)
+	  - Code de la santé publique - art. L423 (M)
+	  - Code de la santé publique - art. L526 (M)
+	  - Code de la santé publique - art. L527 (M)
+	  - Code de la santé publique - art. L761-2 (M)
+	  - Code de la santé publique - art. L761-4 (M)
+	  - Code de la santé publique - art. L761-5 (M)
+	  - Code rural 319, 321
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 53 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6221-8 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-9
+
+Après le décès du directeur d'un laboratoire d'analyses de biologie médicale exploité sous forme individuelle, ses héritiers
+peuvent mettre le laboratoire en gérance pour une période qui ne peut excéder deux ans [*durée*], sauf dérogations accordées
+par le ministre de la santé lorsque les héritiers sont mineurs ou poursuivent des études en vue d'acquérir la formation
+prévue à l'article L. 761-1.
+
+Le titulaire de la gérance doit remplir les conditions définies aux articles L. 761-1 et L. 761-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6212-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-1 (M)
+	  - Code de la santé publique - art. L761-2 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-10
+
+Un décret fixe les conditions dans lesquelles, par dérogation aux articles L. 761, L. 761-1 et L. 761-2, les directeurs et
+directeurs adjoints de laboratoires peuvent se faire remplacer à titre temporaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°75-1344 du 30 décembre 1975 - art. 7 (Ab)
+	  - Code de la santé publique - art. R5015-1 (Ab)
+	  - Code de la santé publique - art. R5028 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6221-11 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761 (M)
+	  - Code de la santé publique - art. L761-1 (M)
+	  - Code de la santé publique - art. L761-2 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+##### Section 3 : Dispositions diverses.
+
+###### Article L761-12
+
+A l'exception de l'information scientifique auprès du corps médical et pharmaceutique, toute publicité en faveur d'un
+laboratoire d'analyses de biologie médicale est interdite. Toutefois, ne sont pas considérées comme constituant une publicité
+illégale, les indications relatives à l'existence et à la localisation du laboratoire qui seraient publiées au moment de
+l'ouverture de celui-ci. Les directeurs ou directeurs adjoints de laboratoire ne peuvent pas signer de publications qui n'ont
+pas de caractère scientifique en faisant état de leur qualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6211-7 (V)
+	  - Code de la santé publique - art. L6221-10 (V)
+	  - Code de la santé publique - art. L6222-3 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-21 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-21 : DISPOSITIONS PENALES
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-21 (Ab)
+	  - Code de la santé publique - art. R5015-72 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-13
+
+Le contrôle des laboratoires est assuré par les médecins et pharmaciens inspecteurs de la santé et par l'inspection générale
+des affaires sociales [*autorités compétentes*].
+
+Il est institué, en outre, un contrôle de la bonne exécution des analyses de biologie médicale, dont les modalités sont
+fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+	**Cité par**:
+
+	  - Décret n°76-1004 du 4 novembre 1976 - art. 24 (M)
+	  - Décret n°83-104 du 15 février 1983 - art. 1 (Ab)
+	  - Décret n°83-104 du 15 février 1983 - art. 3 (M)
+	  - Décret n°83-104 du 15 février 1983 - art. 5 (Ab)
+	  - Décret n°83-104 du 15 février 1983 - art. 7 (Ab)
+	  - Décret n°83-104 du 15 février 1983 - art. 8 (Ab)
+	  - Décret n°88-280 du 24 mars 1988 - art. 4 (Ab)
+	  - Décret n°94-1049 du 2 décembre 1994 - art. 11 (Ab)
+	  - Décret n°94-1049 du 2 décembre 1994 - art. 12 (Ab)
+	  - Décret n°94-1049 du 2 décembre 1994 - art. 9 (Ab)
+	  - Décret n°2005-840 du 20 juillet 2005 - art. 5 (V)
+	  - Code de la santé publique - art. L761-11 (Ab)
+	  - Code de la santé publique - art. L761-20 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°83-104 du 15 février 1983
+	  - TXT_SOURCE: Décret n°83-104 du 15 février 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°83-104 du 15 février 1983 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°83-104 du 15 février 1983 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°83-104 du 15 février 1983 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°83-104 du 15 février 1983 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°83-104 du 15 février 1983 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°83-104 du 15 février 1983 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°83-104 du 15 février 1983 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°83-104 du 15 février 1983 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°83-104 du 15 février 1983 - art. 9 (Ab)
+	  - TXT_SOURCE: Décret n°89-92 du 10 février 1989
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-20 : DISPOSITIONS PENALES
+
+
+###### Article L761-14
+
+Le contrôle de qualité des analyses est, selon les modalités fixées par décret, assuré par des organismes publics ou privés
+agréés par le ministre de la santé, après avis de la commission nationale permanente de biologie médicale.
+
+Lorsque ce contrôle est assuré par un organisme privé agréé, ce dernier doit lui consacrer son activité exclusive. Toutefois,
+il peut exercer des activités de recherche ou d'enseignement [*cumul*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+	**Cité par**:
+
+	  - Décret n°75-1024 du 5 novembre 1975 - art. 5 (M)
+	  - Décret n°76-1004 du 4 novembre 1976 - art. 24 (M)
+	  - Loi n°78-1239 du 29 décembre 1978 - art. 109 (Ab)
+	  - Décret n°92-252 du 17 mars 1992 - art. 1 (Ab)
+	  - Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
+	  - Arrêté du 2 novembre 1994 - art. ANNEXE (V)
+	  - Décret n°94-1049 du 2 décembre 1994 - art. 1 (Ab)
+	  - Décret n°94-1049 du 2 décembre 1994 - art. 13 (Ab)
+	  - Décret n°2004-650 du 2 juillet 2004 - art. 2 (Ab)
+	  - Décret n°2005-840 du 20 juillet 2005 - art. 5 (V)
+	  - Code de la santé publique - art. L761-11 (Ab)
+	  - Code de la santé publique - art. L761-14-1 (Ab)
+	  - Code de la santé publique - art. L761-20 (Ab)
+	  - Code de la santé publique - art. R145-15-13 (Ab)
+	  - Code de la santé publique - art. R5089-15 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°92-252 du 17 mars 1992
+	  - TXT_ASSOCIE: Décret n°92-252 du 17 mars 1992 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°94-1049 du 2 décembre 1994 - art. 9 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-20 : DISPOSITIONS PENALES
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6213-3 (V)
+
+
+###### Article L761-15
+
+Les conditions d'application du présent chapitre sont, sauf disposition contraire, fixées par un décret en Conseil d'Etat,
+après consultation de la commission nationale permanente de biologie médicale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°75-1024 du 5 novembre 1975 - art. 5 (M)
+	  - Code de la santé publique - art. L757 (Ab)
+	  - Code de la santé publique - art. L761-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6211-9 (V)
+	  - Code de la santé publique - art. L6212-5 (V)
+	  - Code de la santé publique - art. L6213-5 (V)
+	  - Code de la santé publique - art. L6221-12 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+##### Section 4 : Dispositions pénales.
+
+###### Article L761-16
+
+L'emploi illicite de l'appellation de laboratoire d'analyses de biologie médicale, ou toute expression prêtant à confusion
+avec celle-ci, est puni d'un emprisonnement de deux mois à un an [*durée*] et d'une amende de 2.000 à 40.000 F [*montant*] ou
+de l'une de ces deux peines seulement.
+
+Le tribunal peut, en outre, ordonner la publication du jugement aux frais du condamné et son affichage dans les conditions
+prévues à l'article 51 du code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code pénal 51
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6214-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-23 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-17
+
+Les infractions aux dispositions du premier alinéa de l'article L. 757 et aux dispositions des premier et deuxième alinéas de
+l'article L. 760 sont punies d'un emprisonnement d'un à six mois [*durée*] et d'une amende de 2.000 à 40.000 F [*montant*] ou
+de l'une de ces deux peines seulement.
+
+En cas d'infraction au premier alinéa de l'article L. 757, le tribunal peut, en outre, prononcer la confiscation du matériel
+ayant servi à l'activité illégale ainsi que la fermeture du laboratoire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6214-2 (V)
+	  - Code de la santé publique - art. L6214-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L757 (M)
+	  - Code de la santé publique - art. L760 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-23 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-18
+
+Les infractions aux dispositions des articles L. 756, L. 761-1 et L. 761-2 et des alinéas 2 et 3 de l'article L. 761 sont
+punies d'un emprisonnement d'un à six mois [*durée*] et d'une amende de 2.000 à 40.000 F [*montant*] ou de l'une de ces deux
+peines seulement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6214-6 (V)
+	  - Code de la santé publique - art. L6214-7 (V)
+	  - Code de la santé publique - art. L6222-2 (V)
+	  - Code de la santé publique - art. L6222-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L756 (M)
+	  - Code de la santé publique - art. L761 (M)
+	  - Code de la santé publique - art. L761-1 (M)
+	  - Code de la santé publique - art. L761-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-20 (Ab)
+	  - Code de la santé publique - art. L761-23 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-19
+
+Les infractions aux dispositions du premier alinéa de l'article L. 761 sont punies d'une amende de 2.000 à 20.000 F
+[*montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6222-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-23 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-20
+
+Quiconque ne se soumet pas au contrôle [*de quantité*] institué par l'article L. 761-14 ou fait obstacle aux fonctions des
+inspecteurs mentionnés à l'article L. 761-13 est passible des peines prévues à l'article L. 761-18.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6214-5 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-13 (M)
+	  - Code de la santé publique - art. L761-14 (M)
+	  - Code de la santé publique - art. L761-18 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-23 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-21
+
+Les infractions aux dispositions de l'article L. 761-12 [*publicité*] sont punies d'une amende de 2.000 à 20.000 F
+[*montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6214-4 (V)
+	  - Code de la santé publique - art. L6222-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-12 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-23 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-22
+
+Toute personne physique ou morale passant avec un directeur ou directeur adjoint de laboratoire ou une société exploitant un
+laboratoire un contrat ou avenant mentionné aux articles L. 761-4 et L. 761-5 doit le faire par écrit [*condition de
+forme*] ; le refus de rédaction d'un écrit du fait du contractant est puni d'une amende de 3.000 à 40.000 F [*montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6222-5 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L761-23 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-4 (M)
+	  - Code de la santé publique - art. L761-5 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L761-23
+
+En cas de récidive dans le délai de cinq ans, les peines fixées par les articles L. 761-16 à L. 761-22 peuvent être portées
+au double.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-16 (M)
+	  - Code de la santé publique - art. L761-17 (M)
+	  - Code de la santé publique - art. L761-18 (M)
+	  - Code de la santé publique - art. L761-19 (M)
+	  - Code de la santé publique - art. L761-20 (M)
+	  - Code de la santé publique - art. L761-21 (M)
+	  - Code de la santé publique - art. L761-22 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-17 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-18 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-19 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L761-21 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+#### Chapitre 2 : Manipulation des produits d'origine microbienne, réglementation et dispositions pénales.
+
+###### Article L762
+
+Toute personne, patentée ou non, préparant ou expérimentant, même dans un but désintéressé, des produits visés à l'article L.
+606 ci-dessus [*médicaments vétérinaires*], est tenue de souscrire, pour elle-même et pour le personnel occupé par elle à un
+titre quelconque, une déclaration indiquant l'état civil, la nationalité, le domicile de chaque intéressé, ainsi que la
+nature exacte des travaux à lui confiés [*obligation*].
+
+Cette déclaration sera adressée dans le délai d'un mois à la préfecture du département dans lequel est effectuée la
+préparation ou l'expérimentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L606 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L765 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L765 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Décret n°1940-05-20 ART. 1
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L763
+
+Toute modification dans l'état du personnel doit faire l'objet [*formalités obligatoires*] :
+
+a) Pour le personnel français, d'une déclaration de même nature dans les huit jours de l'entrée en fonctions [*délai*] ;
+
+b) Pour le personnel étranger, d'une demande d'autorisation préalable à l'entrée en fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L765 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L765 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Décret n°1940-05-20 ART. 2
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L764
+
+Un décret simple déterminera ultérieurement, s'il y a lieu, les autres renseignements qui pourraient être exigés, sous peine
+des sanctions prévues à l'article L. 765 ci-après, en ce qui concerne les opérations relatives aux produits susvisés
+[*médicaments vétérinaires*] : il fixera le délai dans lequel ces nouveaux renseignements et les modifications à y apporter
+devront être adressés à la préfecture.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L765 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1940-05-20 ART. 3
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
+###### Article L765
+
+Toute infraction aux dispositions des articles L. 762 et 763 ci-dessus est passible d'une amende de 1.800 F à 30.000 F
+[*montant*].
+
+En cas de récidive, l'amende peut être portée au double et le jugement ordonner la fermeture de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1940-05-20 ART. 5
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L762 (M)
+	  - Code de la santé publique - art. L763 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L764 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
+
+
 ## LIVRE 7 : HOPITAUX ET HOSPICES PUBLICS
 
 ### TITRE 1 : HOPITAUX ET HOSPICES PUBLICS
@@ -30193,6 +31717,70 @@ Le propriétaire du terrain est entendu dans l'instruction.
 	**Anciens textes**:
 
 	  - Loi n°1856-07-14 ART. 7
+
+
+## LIVRE 7 : LABORATOIRES
+
+### TITRE 3 : LABORATOIRES
+
+#### CHAPITRE 1 : LABORATOIRES D'ANALYSES DE BIOLOGIE MEDICALE
+
+##### SECTION 3 : DISPOSITIONS DIVERSES.
+
+###### Article L761-11
+
+Ne sont pas soumis aux dispositions du présent chapitre :
+
+1° Les médecins qui, à l'occasion des actes médicaux auxquels ils procèdent, effectuent, personnellement et dans leur
+cabinet, des analyses qui ne donnent pas lieu, en vertu de la législation de sécurité sociale, à un remboursement distinct et
+ne peuvent faire l'objet d'un compte rendu écrit ;
+
+2° Les pharmaciens d'officine qui effectuent des analyses figurant sur une liste fixée par un arrêté du ministre de la santé,
+qui précise en outre les conditions d'équipement nécessaires ;
+
+3° Les laboratoires d'analyses de biologie médicale relevant du ministère de la défense ;
+
+4° Sous réserve des dispositions des articles L. 761-13 et L. 761-14, les autres laboratoires et services de biologie
+médicale de l'Etat, des départements, des communes et des établissements publics, notamment hospitaliers ;
+
+5° Les laboratoires des établissements de transfusion sanguine et des centres anti-cancéreux qui effectuent exclusivement les
+actes de biologie directement liés à leur objet spécifique.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté 1979-02-08 : LISTE DES ANALYSES EFFECTUEES PAR LES PHARMACIENS
+	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988
+	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°88-280 du 24 mars 1988 - art. 4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°93-221 du 16 février 1993 - art. 3 (Ab)
+	  - Arrêté du 2 novembre 1994 - art. Annexe A (V)
+	  - Décret n°2005-840 du 20 juillet 2005 - art. 5 (V)
+	  - Code de la santé publique - art. L753 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6211-8 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-13 (M)
+	  - Code de la santé publique - art. L761-14 (M)
+
+	**Créé par**:
+
+	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975 1953
 
 
 ## Livre 8 : Institutions
