@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-10-11
+Version Consolidée au 1994-10-18
 
 # Partie législative ancienne
 
@@ -70236,11 +70236,18 @@ médicaments vétérinaires.
 
 ###### Article R5146-1
 
-Un arrêté conjoint du ministre de l'agriculture et du ministre de la santé détermine les formes et conditions dans lesquelles
-sont présentées et instruites les demandes tendant à obtenir l'autorisation prévue à l'article L. 616 du présent code.
+Les modalités de présentation et d'instruction des demandes tendant à obtenir l'une ou l'autre des autorisations mentionnées
+à l'article L. 616 sont déterminées par un arrêté conjoint des ministres chargés de l'agriculture et de la santé, après avis
+du directeur général du Centre national d'études vétérinaires et alimentaires.
 
-Cette autorisation, préalable à l'ouverture de l'établissement, est délivrée par décision conjointe du ministre de
-l'agriculture et du ministre de la santé.
+Les autorisations sont délivrées :
+
+1° Par le directeur général du Centre national d'études vétérinaires et alimentaires pour les établissements se livrant à la
+fabrication, à l'importation ou à l'exploitation de médicaments vétérinaires, ou à la fabrication ou à l'importation de
+médicaments soumis à des essais cliniques ;
+
+2° Par les ministres chargés de l'agriculture et de la santé, conjointement, pour les autres établissements ainsi que pour
+ceux qui se livrent à la fabrication ou à la distribution des aliments médicamenteux.
 
 Lorsqu'une entreprise comprend plusieurs établissements [*multiples*], chacun d'entre eux doit faire l'objet d'une
 autorisation administrative distincte.
@@ -70252,9 +70259,9 @@ autorisation administrative distincte.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 1 () JORF 18 octobre 1994
 
 	**Cite**:
 
@@ -70263,7 +70270,14 @@ autorisation administrative distincte.
 
 ###### Article R5146-2
 
-Toute décision de refus doit être motivée [*obligation*].
+L'autorisation préalable mentionnée au deuxième alinéa de l'article L. 616 est nécessaire pour toute modification des
+éléments figurant dans l'autorisation initiale et concernant les locaux et l'équipement technique de l'établissement et, pour
+ceux des établissements qui se livrent à la fabrication ou à l'importation de médicaments vétérinaires, la nature des
+spécialités ou les formes pharmaceutiques.
+
+La décision doit être prise dans les trente jours qui suivent le dépôt de la demande. Dans les cas exceptionnels, ce délai
+peut être prorogé, dans la limite de quatre-vingt-dix jours, par décision de l'autorité compétente. Cette prorogation doit
+être notifiée au demandeur avant l'expiration du précédent délai.
 
 **Liens relatifs à cet article**
 
@@ -70272,16 +70286,18 @@ Toute décision de refus doit être motivée [*obligation*].
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 2 () JORF 18 octobre 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L616 (M)
 
 
 ###### Article R5146-3
 
-Toute modification dans l'aménagement de l'établissement doit faire, dans les huit jours [*délai*], l'objet d'une déclaration
-au ministre de l'agriculture et au ministre de la santé. Les modalités de cette déclaration sont fixées par arrêté conjoint
-desdits ministres.
+Toute décision de refus d'autorisation doit être motivée.
 
 **Liens relatifs à cet article**
 
@@ -70290,9 +70306,9 @@ desdits ministres.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 3 () JORF 18 octobre 1994
 
 	**Cité par**:
 
@@ -70304,7 +70320,7 @@ desdits ministres.
 
 Si, dans le délai de deux ans qui suit la notification de l'autorisation, l'établissement ne fonctionne pas, cette
 autorisation devient caduque. Toutefois, sur justification produite avant l'expiration dudit délai, celui-ci peut être
-prorogé par décision conjointe du ministre de l'agriculture et du ministre de la santé.
+prorogé par l'autorité compétente définie à l'article R. 5146-1.
 
 **Liens relatifs à cet article**
 
@@ -70313,17 +70329,20 @@ prorogé par décision conjointe du ministre de l'agriculture et du ministre de 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 4 () JORF 18 octobre 1994
+
+	**Cite**:
+
+	  - Code de la santé publique R5146-1
 
 
 ###### Article R5146-5
 
 La suspension pour une durée maximale d'un an ou la suppression de l'autorisation prévue à l'article L. 616 du code de la
-santé publique est prononcée par décision conjointe du ministre de l'agriculture et du ministre de la santé [*autorités
-compétentes*]. Une telle décision ne peut intervenir qu'après que l'intéressé ait été invité à fournir toutes explications
-[*droit de défense*].
+santé publique est prononcée par l'autorité compétente définie à l'article R. 5146-1. Une telle décision ne peut intervenir
+qu'après que l'intéressé ait été invité à fournir toutes explications [*droit de défense*].
 
 **Liens relatifs à cet article**
 
@@ -70332,9 +70351,9 @@ compétentes*]. Une telle décision ne peut intervenir qu'après que l'intéress
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 4 () JORF 18 octobre 1994
 
 	**Cité par**:
 
@@ -70343,6 +70362,7 @@ compétentes*]. Une telle décision ne peut intervenir qu'après que l'intéress
 	**Cite**:
 
 	  - Code de la santé publique - art. L616 (M)
+	  - Code de la santé publique L616, R5146-1
 
 
 ##### PARAGRAPHE 2 : DES SOCIETES PROPRIETAIRES D'ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS OU DE DISTRIBUTION EN GROS DES MEDICAMENTS VETERINAIRES.
@@ -70431,12 +70451,13 @@ Il signale aux autres dirigeants de la société les difficultés inhérentes au
 faire obstacle à l'exercice de ses attributions.
 
 Dans le cas où un désaccord, portant sur l'application des règles édictées dans l'intérêt de la santé publique, oppose un
-organe de gestion d'administration, de direction ou de surveillance au pharmacien ou au docteur vétérinaire responsable,
+organe de gestion, d'administration, de direction ou de surveillance au pharmacien ou au docteur vétérinaire responsable,
 celui-ci doit en informer le pharmacien inspecteur régional de la santé et le directeur départemental des services
 vétérinaires.
 
 Les expertises doivent être exécutées en conformité avec les bonnes pratiques de laboratoire dont les principes sont fixés
-par un arrêté du ministre chargé de la santé et du ministre chargé de l'agriculture.
+par un arrêté du ministre chargé de la santé et du ministre chargé de l'agriculture pris sur proposition du directeur général
+du Centre national d'études vétérinaires et alimentaires.
 
 **Liens relatifs à cet article**
 
@@ -70447,7 +70468,7 @@ par un arrêté du ministre chargé de la santé et du ministre chargé de l'agr
 
 	**Modifié par**:
 
-	  - Décret n°88-661 1988-05-06 art. 9 JORF 8 mai 1988
+	  - Décret n°94-889 du 13 octobre 1994 - art. 5 () JORF 18 octobre 1994
 
 	**Cité par**:
 
@@ -70857,13 +70878,14 @@ vétérinaire ou au pharmacien prévu au présent article [*hors champ d'applica
 ###### Article R5146-17 ter
 
 Les établissements doivent se doter de bonnes pratiques de fabrication. A cette fin, des recommandations sont énoncées par
-arrêté conjoint du ministre chargé de la santé et du ministre chargé de l'agriculture [*autorités compétentes*].
+arrêté conjoint du ministre chargé de la santé et du ministre chargé de l'agriculture [*autorités compétentes*] pris sur
+proposition du directeur général du Centre national d'études vétérinaires et alimentaires.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-661 1988-05-06 art. 8 JORF 8 mai 1988
+	  - Décret n°94-889 du 13 octobre 1994 - art. 5 () JORF 18 octobre 1994
 
 	**Cité par**:
 
@@ -70878,11 +70900,12 @@ arrêté conjoint du ministre chargé de la santé et du ministre chargé de l'a
 
 L'expérimentation des médicaments vétérinaires [*définition*], au sens de l'article L. 617-18, s'entend des trois expertises
 analytique, pharmaco-toxicologique et clinique auxquelles il est procédé, dans les conditions fixées aux articles R. 5146-20
-à R. 5146-25 ci-après, pour vérifier que le produit faisant l'objet d'une demande d'autorisation de mise sur le marché
+à R.  5146-25 ci-après, pour vérifier que le produit faisant l'objet d'une demande d'autorisation de mise sur le marché
 possède des propriétés définies au 1° de l'article L. 617-2.
 
-Le ministre de l'agriculture et le ministre de la santé fixent par arrêtés conjoints les protocoles déterminant les normes et
-méthodes applicables à l'expérimentation des médicaments.
+Un arrêté des ministres chargés de l'agriculture et de la santé fixe, sur proposition du directeur général du Centre national
+d'études vétérinaires et alimentaires, les protocoles déterminant les normes et méthodes applicables à l'expérimentation des
+médicaments.
 
 **Liens relatifs à cet article**
 
@@ -70891,19 +70914,15 @@ méthodes applicables à l'expérimentation des médicaments.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 6 () JORF 18 octobre 1994
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L617-18 (M)
 	  - Code de la santé publique - art. L617-2 (M)
-	  - Code de la santé publique - art. R5146-20 (M)
-	  - Code de la santé publique - art. R5146-21 (M)
-	  - Code de la santé publique - art. R5146-22 (M)
-	  - Code de la santé publique - art. R5146-23 (M)
-	  - Code de la santé publique - art. R5146-24 (M)
+	  - Code de la santé publique L617-18, R5146-20 à R5146-25, L617-2
 
 	**Nouveaux textes**:
 
@@ -71001,8 +71020,9 @@ rattachés [*incompatibilité*].
 Les experts et leurs collaborateurs sont tenus au secret professionnel en ce qui concerne la nature des produits essayés, les
 essais eux-mêmes et leurs résultats.
 
-Ils ne peuvent donner de renseignements relatifs à leurs travaux qu'au fabricant, responsable de la mise sur le marché et aux
-services compétents du ministère de la santé et du ministère de l'agriculture.
+Ils ne peuvent donner de renseignements relatifs à leurs travaux qu'au fabricant, responsable de la mise sur le marché au
+directeur général du Centre national d'études vétérinaires et alimentaires et aux ministres chargés de l'agriculture et de la
+santé.
 
 Aucune publication relative à l'expérimentation d'un médicament ne peut être effectuée sans l'accord conjoint de l'expert et
 du responsable de la mise sur le marché.
@@ -71014,9 +71034,9 @@ du responsable de la mise sur le marché.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 7 () JORF 18 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -71129,11 +71149,12 @@ Le programme de chaque expertise est déterminé par le responsable de la mise s
 règles générales d'expertise définies à la présente section.
 
 Si l'expert justifie que le protocole prévu à l'article R. 5146-18 est inapplicable en l'espèce, le responsable de la mise
-sur le marché est tenu de communiquer au ministre de la santé et au ministre de l'agriculture le programme de l'expertise
-retenu, préalablement à la mise en oeuvre de celle-ci.
+sur le marché est tenu de communiquer au directeur général du Centre national d'études vétérinaires et alimentaires le
+programme de l'expertise retenu, préalablement à la mise en oeuvre de celle-ci.
 
 Avant tout essai relatif aux recherches des effets thérapeutiques d'un médicament vétérinaire sur les animaux, le responsable
-de la mise sur le marché signale au ministre de la santé et au ministre de l'agriculture [*information*] :
+de la mise sur le marché signale au directeur général du Centre national d'études vétérinaires et alimentaires
+[*information*] :
 
 a) L'objet de l'essai ;
 
@@ -71144,8 +71165,8 @@ c) La date probable de son exécution ;
 d) Le ou les lieux où il sera réalisé.
 
 Dans le délai d'un mois à compter de la réception des communications ci-dessus indiquées, relatives à des modifications de
-protocoles expérimentaux ou à des essais thérapeutiques sur les élevages, le ministre de la santé et le ministre de
-l'agriculture peuvent s'opposer à la mise en oeuvre de ces essais.
+protocoles expérimentaux ou à des essais thérapeutiques sur les élevages, le directeur général du Centre national d'études
+vétérinaires et alimentaires peut s'opposer à la mise en oeuvre de ces essais.
 
 Si aucune objection n'est formulée dans ce délai d'un mois [*accord tacite*], le programme peut être mis à exécution.
 
@@ -71160,9 +71181,9 @@ provenant d'animaux utilisés pour les essais, si elles peuvent être dangereuse
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 8 () JORF 18 octobre 1994
 
 	**Cité par**:
 
@@ -71186,15 +71207,15 @@ provenant d'animaux utilisés pour les essais, si elles peuvent être dangereuse
 ###### Article R5146-26
 
 Toute demande d'autorisation de mise sur le marché d'un des médicaments vétérinaires mentionnés à l'article L. 607 doit être
-adressée, en trois exemplaires, au ministre de la santé et en trois exemplaires au ministre de l'agriculture.
+adressée au directeur général du Centre national d'études vétérinaires et alimentaires.
 
-Lors du dépôt de la demande, des échantillons du produit fini du lot ayant servi aux essais sont remis au Laboratoire
-national des médicaments vétérinaires, en quantité suffisante pour procéder à des essais analytiques.
+Lors du dépôt de la demande, des échantillons du produit fini du lot ayant servi aux essais sont remis au Centre national
+d'études vétérinaires et alimentaires, en quantité suffisante pour procéder à des essais analytiques.
 
 La demande mentionne :
 
 a) Le nom et l'adresse du responsable de la mise sur le marché ainsi que ceux du pharmacien ou docteur vétérinaire
-responsable ; Lorsque le responsable de la mise sur le marché ne fabrique pas le médicament vétérinaire, le nom et l'adresse
+responsable ; lorsque le responsable de la mise sur le marché ne fabrique pas le médicament vétérinaire, le nom et l'adresse
 du fabricant ;
 
 b) La dénomination du médicament vétérinaire qui peut être un nom de fantaisie, la dénomination commune assortie ou non d'une
@@ -71239,9 +71260,9 @@ n) Le texte du projet d'étiquetage.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 9 () JORF 18 octobre 1994
 
 	**Cite**:
 
@@ -71349,8 +71370,10 @@ décret n° 156*].
 Les comptes rendus des expertises analytiques comprennent [*mentions, contenu*] :
 
 a) La formule intégrale du médicament ainsi que les changements qui ont pu être apportés à cette formule en cours
-d'expérimentation ;    b) Le protocole détaillé de la technique utilisée par le fabricant, les résultats obtenus par l'expert
-et les limites extrêmes d'acceptation ;
+d'expérimentation ;
+
+b) Le protocole détaillé de la technique utilisée par le fabricant, les résultats obtenus par l'expert et les limites
+extrêmes d'acceptation ;
 
 c) L'interprétation de ces résultats ;
 
@@ -71358,8 +71381,7 @@ d) La description des essais de stabilité ayant permis de déterminer la durée
 
 e) La quantité minimale de chaque constituant du médicament vétérinaire et le nombre minimal d'unités de vente qu'il sera
 nécessaire de prélever pour procéder utilement, en cas d'attribution de l'autorisation de mise sur le marché, à des contrôles
-postérieurs à la délivrance de cette autorisation par les laboratoires officiels de contrôle des ministères de la santé et de
-l'agriculture.
+postérieurs à la délivrance de cette autorisation par le Centre national d'études vétérinaires et alimentaires.
 
 **Liens relatifs à cet article**
 
@@ -71368,9 +71390,9 @@ l'agriculture.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 10 () JORF 18 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -71459,15 +71481,15 @@ a) Lorsque la demande concerne un médicament vétérinaire qui a déjà obtenu 
 prévu à l'article R. 5146-28 peut comprendre, avec l'accord du précédent bénéficiaire, les seuls comptes rendus des
 expertises fournis à l'appui de la première demande [*documents obligatoires*] ;
 
-b) Lorsque la demande porte sur une modification de l'autorisation de mise sur le marché, le ministre de la santé et le
-ministre de l'agriculture peuvent, d'un commun accord, dispenser le demandeur de produire certaines des indications ou
+b) Lorsque la demande porte sur une modification de l'autorisation de mise sur le marché, le directeur général du Centre
+national d'études vétérinaires et alimentaires peut dispenser le demandeur de produire certaines des indications ou
 justifications exigées par l'article R. 5146-28, s'il apparaît que celles-ci sont manifestement sans objet ;
 
 c) Lorsque le médicament vétérinaire a fait, par ailleurs, l'objet d'une autorisation de mise sur le marché délivrée au titre
 des dispositions de l'article L. 601, le compte rendu de l'expertise analytique produit lors de la première demande peut être
-utilisé ; le ministre de la santé et le ministre de l'agriculture peuvent, d'un commun accord, accepter également la
-production du compte rendu des essais toxicopharmacologiques antérieurs. Ils pourront cependant exiger les résultats d'une
-étude en vue de la fixation d'un temps d'attente au sens de l'article L. 617-2 du présent code ;
+utilisé ; le directeur général du Centre national d'études vétérinaires et alimentaires peut accepter également la production
+du compte rendu des essais toxicopharmacologiques antérieurs. Ils pourront cependant exiger les résultats d'une étude en vue
+de la fixation d'un temps d'attente au sens de l'article L. 617-2 du présent code ;
 
 d) Une documentation bibliographique relative aux essais toxicologiques, pharmacologiques et cliniques, ainsi qu'aux
 indications sur le temps d'attente, peut tenir lieu de la présentation des résultats y afférents lorsqu'il s'agit :
@@ -71501,16 +71523,16 @@ l'autorisation de mise sur le marché du prémélange.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
-
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
-
 	**Cité par**:
 
 	  - Décret n°79-422 du 21 mai 1979 - art. 1 (Ab)
 	  - Décret n°94-601 du 12 juillet 1994 - art. 1 (Ab)
 	  - Décret n°2000-1007 du 16 octobre 2000 - art. 1 (Ab)
 	  - Code de la santé publique - art. R5146-37 (M)
+
+	**Modifié par**:
+
+	  - Décret n°94-889 du 13 octobre 1994 - art. 11 () JORF 18 octobre 1994
 
 	**Cite**:
 
@@ -71532,24 +71554,25 @@ l'autorisation de mise sur le marché du prémélange.
 
 ###### Article R5146-33
 
-L'autorisation de mise sur le marché est accordée par décision conjointe du ministre de la santé et du ministre de
-l'agriculture [*autorité compétente*]. La décision précise si le médicament vétérinaire relève des dispositions combinées des
+L'autorisation de mise sur le marché est accordée par le directeur général du Centre national d'études vétérinaires et
+alimentaires [*autorité compétente*]. La décision précise si le médicament vétérinaire relève des dispositions combinées des
 articles L. 611 et L. 617-6.
 
-Avant de prendre leur décision, les ministres ordonnent toutes mesures d'instruction qu'ils jugent nécessaires.
+Avant de prendre sa décision, le directeur général du Centre ordonne toute mesure d'instruction qu'il estime nécessaire.
 
-Ils peuvent notamment soumettre le médicament à l'examen d'un laboratoire pour s'assurer que les méthodes de contrôle
-utilisées par le fabricant et décrites dans le dossier sont satisfaisantes.
+Il peut notamment soumettre le médicament à l'examen d'un laboratoire pour s'assurer que les méthodes de contrôle utilisées
+par le fabricant et décrites dans le dossier sont satisfaisantes.
 
-Ils peuvent, en outre, imposer au demandeur qu'il complète son dossier en application des dispositions du présent code.
+Il peut, en outre, imposer au demandeur qu'il complète son dossier en application des dispositions du présent code.
 
 En ce qui concerne les sérums et vaccins vétérinaires, l'instruction comporte un contrôle d'échantillons par un laboratoire
 et, éventuellement, une étude sur place des conditions de fabrication et de contrôle.
 
-Les ministres se prononcent dans un délai de cent vingt jours à compter de la date de présentation du dossier complet. A
-titre exceptionnel, ce délai peut être prorogé une fois de quatre-vingt-dix jours. Lorsque les ministres demandent à
-l'intéressé de compléter son dossier, ces délais sont suspendus jusqu'à ce que les données requises aient été fournies. De
-même, ces délais sont suspendus du temps laissé, le cas échéant, au demandeur pour s'expliquer oralement ou par écrit.
+Le directeur général du centre se prononce dans un délai de cent vingt jours à compter de la date de présentation du dossier
+complet. A titre exceptionnel, ce délai peut être prorogé une fois de quatre-vingt-dix jours. Lorsque le directeur général du
+centre demande à l'intéressé de compléter son dossier, ces délais sont suspendus jusqu'à ce que les données requises aient
+été fournies. De même, ces délais sont suspendus du temps laissé, le cas échéant, au demandeur pour s'expliquer oralement ou
+par écrit.
 
 **Liens relatifs à cet article**
 
@@ -71558,9 +71581,9 @@ même, ces délais sont suspendus du temps laissé, le cas échéant, au demande
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 JUIN 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 12 () JORF 18 octobre 1994
 
 	**Cite**:
 
@@ -71580,16 +71603,16 @@ même, ces délais sont suspendus du temps laissé, le cas échéant, au demande
 
 ###### Article R5146-33-1
 
-Lorsque les ministres chargés de la santé et de l'agriculture sont saisis, en même temps que le comité des médicaments
-vétérinaires institué par les articles 16 et 17 de la directive n° 81-851 du conseil des communautés européennes du 28
-septembre 1981, par les autorités compétentes d'un Etat membre des communautés européennes d'une demande d'autorisation de
-mise sur le marché émanant d'un ressortissant de cet Etat membre, ils disposent d'un délai de 120 jours à compter de la date
-de réception du dossier pour notifier au comité des médicaments vétérinaires leur éventuelle opposition à l'octroi de cette
-autorisation [*délai, point de départ*].
+Lorsque le directeur général du Centre national d'études vétérinaires et alimentaires est saisi, en même temps que le comité
+des médicaments vétérinaires institué par les articles 16 et 17 de la directive n° 81-851 du conseil des communautés
+européennes du 28 septembre 1981, par les autorités compétentes d'un Etat membre des communautés européennes d'une demande
+d'autorisation de mise sur le marché émanant d'un ressortissant de cet Etat membre, il dispose d'un délai de 120 jours à
+compter de la date de réception du dossier pour notifier au comité des médicaments vétérinaires son éventuelle opposition à
+l'octroi de cette autorisation [*délai, point de départ*].
 
-La décision sur la demande d'autorisation de mise sur le marché est prise par les ministres chargés de la santé et de
-l'agriculture dans les trente jours qui suivent la réception de l'avis émis ou du constat effectué par le comité conformément
-aux articles 18 et 19 de la directive susmentionnée [*autorités compétentes*].
+La décision sur la demande d'autorisation de mise sur le marché est prise par le directeur général du Centre national
+d'études vétérinaires et alimentaires dans les trente jours qui suivent la réception de l'avis émis ou du constat effectué
+par le comité conformément aux articles 18 et 19 de la directive susmentionnée [*autorités compétentes*].
 
 **Liens relatifs à cet article**
 
@@ -71602,9 +71625,9 @@ aux articles 18 et 19 de la directive susmentionnée [*autorités compétentes*]
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-156 1984-03-01 ART. 3 JORF 4 MARS 1984
+	  - Décret n°94-889 du 13 octobre 1994 - art. 13 () JORF 18 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -71621,8 +71644,8 @@ aux articles 18 et 19 de la directive susmentionnée [*autorités compétentes*]
 
 Toute demande d'autorisation de mise sur le marché présentée pour des médicaments de haute technologie issus de certains
 procédés biotechnologiques figurant sur une liste A fixée par arrêté conjoint des ministres chargés de la santé, de
-l'industrie et de l'agriculture est soumise pour avis au comité des médicaments vétérinaires [*autorité compétente*]
-mentionné à l'article R. 5146-33-1.
+l'industrie et de l'agriculture sur proposition du directeur général du Centre national d'études vétérinaires et alimentaires
+est soumise pour avis au comité des médicaments vétérinaires [*autorité compétente*] mentionné à l'article R. 5146-33-1.
 
 Toutefois, cette disposition ne s'applique pas lorsque le demandeur certifie que ni lui, ni aucune autre personne physique ou
 morale avec laquelle il est lié n'a demandé, au cours des cinq années précédentes [*délai*], l'autorisation de mettre sur le
@@ -71634,8 +71657,8 @@ Lorsque, en application de l'alinéa précédent, l'avis du comité des médicam
 dans les cinq ans qui suivent le dépôt de la demande [*délai, point de départ*], une ou plusieurs demandes d'autorisation de
 mise sur le marché d'un produit contenant le ou les mêmes principes actifs issus du ou des mêmes procédés de synthèse sont
 adressées aux autorités compétentes des autres Etats membres par le responsable de la mise sur le marché de la spécialité
-pharmaceutique déjà autorisée ou avec son consentement, ce dernier en informe les autorités françaises qui saisissent pour
-avis le comité des médicaments vétérinaires [*autorité compétente*].
+pharmaceutique déjà autorisée ou avec son consentement, ce dernier en informe le directeur général du Centre national
+d'études vétérinaires et alimentaires qui saisit pour avis le comité des médicaments vétérinaires [*autorité compétente*].
 
 **Liens relatifs à cet article**
 
@@ -71644,9 +71667,9 @@ avis le comité des médicaments vétérinaires [*autorité compétente*].
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-661 1988-05-06 art. 10 JORF 8 mai 1988
+	  - Décret n°94-889 du 13 octobre 1994 - art. 14 () JORF 18 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -71663,8 +71686,9 @@ avis le comité des médicaments vétérinaires [*autorité compétente*].
 ###### Article R5146-33-3
 
 Lorsque la demande d'autorisation de mise sur le marché concerne d'autres médicaments de haute technologie figurant sur une
-liste B fixée par arrêté conjoint des ministres chargés de la santé, de l'industrie et de l'agriculture, le demandeur doit
-préciser s'il désire que sa demande soit soumise pour avis au comité des médicaments vétérinaires [*autorité compétente*].
+liste B fixée par arrêté conjoint des ministres chargés de la santé, de l'industrie et de l'agriculture sur proposition du
+directeur général du Centre national d'études vétérinaires et alimentaires, le demandeur doit préciser s'il désire que sa
+demande soit soumise pour avis au comité des médicaments vétérinaires [*autorité compétente*].
 
 **Liens relatifs à cet article**
 
@@ -71673,9 +71697,9 @@ préciser s'il désire que sa demande soit soumise pour avis au comité des méd
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°88-661 1988-05-06 art. 10 JORF 8 mai 1988
+	  - Décret n°94-889 du 13 octobre 1994 - art. 14 () JORF 18 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -71688,8 +71712,8 @@ préciser s'il désire que sa demande soit soumise pour avis au comité des méd
 
 ###### Article R5146-34
 
-Sans préjudice des dispositions du dernier alinéa de l'article L. 617-3, les ministres refusent l'autorisation de mise sur le
-marché [*motifs*] :
+Sans préjudice des dispositions du dernier alinéa de l'article L.  617-3, le directeur général du Centre d'études
+vétérinaires et alimentaires refuse l'autorisation de mise sur le marché [*motifs*] :
 
 a) Si la documentation et les renseignements fournis à l'appui de la demande ne satisfont pas aux prescriptions du présent
 code ;
@@ -71718,9 +71742,9 @@ La décision de rejet doit être motivée et mentionner les voies et délais de 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 15 () JORF 18 octobre 1994
 
 	**Cite**:
 
@@ -71784,8 +71808,8 @@ l'expiration de ce délai [*accord tacite*].
 
 ###### Article R5146-36
 
-Tout changement du titulaire de l'autorisation de mise sur le marché est subordonné à une décision conjointe du ministre de
-la santé et du ministre de l'agriculture [*autorité compétente*].
+Tout changement du titulaire de l'autorisation de mise sur le marché est subordonné à une décision du directeur général du
+Centre national d'études vétérinaires et alimentaires [*autorité compétente*].
 
 La demande comprend, outre les mentions prévues aux points a, j et n de l'article R. 5146-26 :
 
@@ -71797,11 +71821,11 @@ b) L'engagement du pharmacien ou du docteur vétérinaire responsable de se soum
 Dans le cas de fusion ou d'apport partiel d'actif, les sociétés intéressées peuvent déposer une demande de transfert des
 autorisations de mise sur le marché avant que la fusion ou l'apport ne soit définitivement réalisé. Elles fournissent, à
 l'appui de leur demande, le protocole d'accord de principe concernant la fusion ou l'apport. Le transfert est accordé sous la
-condition suspensive de sa réalisation définitive qui doit être notifiée au ministre de la santé et au ministre de
-l'agriculture.
+condition suspensive de sa réalisation définitive qui doit être notifiée au directeur général du Centre national d'études
+vétérinaires et alimentaires.
 
-En cas de silence de l'administration, le transfert est réputé être autorisé à l'expiration d'un délai de deux mois [*accord
-tacite*].
+En cas de silence du directeur général du centre, le transfert est réputé être autorisé à l'expiration d'un délai de deux
+mois [*accord tacite*].
 
 **Liens relatifs à cet article**
 
@@ -71810,10 +71834,6 @@ tacite*].
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
-
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
-
 	**Cité par**:
 
 	  - Décret n°79-422 du 21 mai 1979 - art. 2 (Ab)
@@ -71821,6 +71841,10 @@ tacite*].
 	  - Décret n°2000-1007 du 16 octobre 2000 - art. 1 (Ab)
 	  - Code de la santé publique - art. R5146-38 (Ab)
 	  - Code de la santé publique - art. R5146-39 (M)
+
+	**Modifié par**:
+
+	  - Décret n°94-889 du 13 octobre 1994 - art. 16 () JORF 18 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -71833,16 +71857,14 @@ tacite*].
 
 ###### Article R5146-37
 
-Le ministre de la santé et le ministre de l'agriculture peuvent, par décision motivée, suspendre pour une période ne pouvant
-excéder un an [*durée*], ou supprimer une autorisation de mise sur le marché. Dans les deux cas, ils peuvent interdire la
-distribution du médicament vétérinaire concerné, notamment s'il apparaît que les conditions prévues aux articles R. 5146-26
-et R. 5146-32 ne sont pas remplies.
+Le directeur général du Centre national d'études vétérinaires et alimentaires peut, par décision motivée, suspendre pour une
+période ne pouvant excéder un an [*durée*], ou supprimer une autorisation de mise sur le marché.
 
 La suspension, sauf en cas d'urgence, et la suppression de l'autorisation ne peuvent intervenir qu'après que le titulaire de
 l'autorisation ait été invité à fournir ses explications [*droit de défense*].
 
-La décision de suspension ou de suppression fait l'objet de toutes les mesures de publicité que les ministres jugent
-nécessaires d'ordonner. Elle doit indiquer les voies et délais de recours qui lui sont applicables.
+La décision de suspension ou de suppression fait l'objet de toutes les mesures de publicité que le directeur général du
+centre estime nécessaires d'ordonner. Elle doit indiquer les voies et délais de recours qui lui sont applicables.
 
 Lorsque l'autorisation est suspendue ou supprimée, le titulaire doit prendre immédiatement toutes dispositions utiles,
 notamment auprès des détenteurs de stocks, pour faire cesser la distribution du médicament en cause.
@@ -71854,9 +71876,9 @@ notamment auprès des détenteurs de stocks, pour faire cesser la distribution d
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 17 () JORF 18 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -71865,11 +71887,6 @@ notamment auprès des détenteurs de stocks, pour faire cesser la distribution d
 	  - Code de la santé publique - art. R5141-43 (V)
 	  - Code de la santé publique - art. R5141-44 (V)
 	  - Code de la santé publique - art. R5141-45 (V)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. R5146-26 (M)
-	  - Code de la santé publique - art. R5146-32 (M)
 
 	**Cité par**:
 
@@ -71914,8 +71931,8 @@ décision est transmise au comité, ainsi que la justification de l'urgence et l
 
 ###### Article R5146-38
 
-Les décisions mentionnées aux articles R. 5146-33 à R. 5146-37, à l'exclusion des mesures de suspension, sont prises après
-avis de la commission constituée à cet effet.
+Les décisions mentionnées aux articles R. 5146-33 à R. 5146-35 et R. 5146-37, à l'exclusion des mesures de suspension, sont
+prises après avis de la commission constituée à cet effet.
 
 Elles ne peuvent faire l'objet d'un recours contentieux qu'après l'exercice d'un recours gracieux qui lui-même doit être
 soumis pour avis à la commission ci-dessus mentionnée.
@@ -71930,15 +71947,15 @@ officiel de la République française.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Modifié par**:
-
-	  - Décret n°87-623 1987-07-30 art. 1 JORF 5 août 1987
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 9 novembre 1987
 	  - TXT_SOURCE: Arrêté du 9 novembre 1987 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 9 novembre 1987 - art. 2 (V)
+
+	**Modifié par**:
+
+	  - Décret n°94-889 du 13 octobre 1994 - art. 18 () JORF 18 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -71947,10 +71964,9 @@ officiel de la République française.
 	**Cite**:
 
 	  - Code de la santé publique - art. R5146-33 (M)
-	  - Code de la santé publique - art. R5146-34 (M)
-	  - Code de la santé publique - art. R5146-35 (M)
 	  - Code de la santé publique - art. R5146-36 (M)
 	  - Code de la santé publique - art. R5146-37 (M)
+	  - Code de la santé publique R5146-33 à R5146-35, R5146-37, R5146-33, R5146-36
 
 	**Cité par**:
 
@@ -71966,18 +71982,18 @@ officiel de la République française.
 
 La commission mentionnée à l'article R. 5146-38 comprend [*composition*] :
 
-1. Trois membres de droit :
+1. Quatre membres de droit :
 
-a) Le directeur de la pharmacie et du médicament au ministère chargé de la santé ou son représentant ;
+a) Le directeur général de l'alimentation au ministère chargé de l'agriculture, ou son représentant ;
 
-b) Le directeur général de l'alimentation au ministère chargé de l'agriculture ou son représentant ;
+b) Le directeur général de la santé au ministère chargé de la santé, ou son représentant ;
 
-c) Le directeur général du Laboratoire national de la santé ou son représentant ;
+c) Le directeur général du Centre national d'études vétérinaires et alimentaires, ayant comme suppléant le directeur de
+l'Agence nationale du médicament vétérinaire ;
 
-2. Deux membres du Centre national d'études vétérinaires et alimentaires désignés par le directeur de cet organisme et
-choisis l'un parmi les chefs de département et l'autre parmi les directeurs de laboratoires, ou leurs représentants ;
+d) Le directeur général de l'Agence du médicament, ou son représentant.
 
-3. Neuf membres nommés pour une durée de trois ans par le ministre chargé de la santé et par le ministre chargé de
+2. Neuf membres nommés pour une durée de trois ans par le ministre chargé de la santé et par le ministre chargé de
 l'agriculture en raison de leur compétence scientifique, notamment dans le domaine de la pharmacologie humaine, de la chimie
 analytique, de la pharmacie galénique, de la toxicologie expérimentale, de la pharmacologie animale, de la pathologie, de la
 thérapeutique et des biotechnologies.
@@ -71993,13 +72009,13 @@ thérapeutique et des biotechnologies.
 
 	  - Arrêté du 9 novembre 1987 - art. 1 (V)
 
-	**Modifié par**:
-
-	  - Décret n°91-143 du 4 février 1991 - art. 1 () JORF 6 février 1991
-
 	**Liens**:
 
 	  - TXT_ASSOCIE: Décret n°91-143 du 4 février 1991
+
+	**Modifié par**:
+
+	  - Décret n°94-889 du 13 octobre 1994 - art. 19 () JORF 18 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -72043,9 +72059,6 @@ vétérinaire et des membres de la commission de sécurité des consommateurs.
 
 ###### Article R5146-39-2
 
-La durée totale des mandats successifs que peuvent exercer en qualité tant de titulaire que de suppléant les membres autres
-que les membres de droit de la commission mentionnée à l'article R. 5146-38 ne peut excéder six ans.
-
 En cas de vacance survenant au cours d'un mandat, le mandat du suppléant appelé à remplacer un membre titulaire, ou celui
 d'un membre nouveau appelé à remplacer un suppléant prend fin à la même date que le mandat du membre remplacé.
 
@@ -72056,17 +72069,13 @@ d'un membre nouveau appelé à remplacer un suppléant prend fin à la même dat
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-623 1987-07-30 art. 2 JORF 5 août 1987
+	  - Décret n°94-889 du 13 octobre 1994 - art. 20 () JORF 18 octobre 1994
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5141-50 (V)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. R5146-38 (M)
 
 
 ###### Article R5146-39-3
@@ -72173,8 +72182,9 @@ de la commission mentionnée à l'article R. 5146-38.
 ###### Article R5146-40
 
 Pour s'assurer de la conformité des médicaments vétérinaires à la formule déclarée, le ministre de la santé et le ministre de
-l'agriculture peuvent faire procéder à des prélèvements d'échantillons de ces produits par les agents [*inspecteurs*]
-mentionnés à l'article L. 617-20.
+l'agriculture et, dans les conditions prévues à l'article R. 5146-56-1, le directeur général du Centre national d'études
+vétérinaires et alimentaires peuvent faire procéder à des prélèvements d'échantillons de ces produits par les agents
+[*inspecteurs*] mentionnés à l'article L. 617-20.
 
 **Liens relatifs à cet article**
 
@@ -72183,13 +72193,14 @@ mentionnés à l'article L. 617-20.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 21 () JORF 18 octobre 1994
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L617-20 (M)
+	  - Code de la santé publique - art. R5146-56-1 (M)
 
 	**Nouveaux textes**:
 
@@ -72205,7 +72216,8 @@ Les échantillons destinés aux laboratoires sont rassemblés dans des sachets m
 médicament et le numéro du lot de fabrication, le nom et l'adresse du détenteur du produit prélevé, la date du prélèvement,
 son motif, le nom et la qualité de l'agent [*mentions obligatoires*].
 
-Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat.
+Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat ou du Centre national d'études vétérinaires et
+alimentaires.
 
 **Liens relatifs à cet article**
 
@@ -72214,9 +72226,9 @@ Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 22 () JORF 18 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -72365,8 +72377,8 @@ le marché ;
 
 Lorsqu'une notice est jointe au conditionnement d'un médicament vétérinaire, elle ne doit concerner que ce médicament.
 
-Les textes et documents publicitaires doivent obligatoirement faire l'objet d'un dépôt auprès du ministre de la santé et
-auprès du ministre de l'agriculture, par envoi recommandé, préalablement à leur diffusion.
+Les textes et documents publicitaires doivent obligatoirement faire l'objet d'un dépôt auprès du directeur général du Centre
+national d'études vétérinaires et alimentaires, par envoi recommandé, préalablement à leur diffusion.
 
 **Liens relatifs à cet article**
 
@@ -72377,8 +72389,7 @@ auprès du ministre de l'agriculture, par envoi recommandé, préalablement à l
 
 	**Modifié par**:
 
-	  - Décret n°82-165 1982-02-08 ART. 3 JORF 16 FEVRIER 1982
-	  - Décret n°84-156 1984-03-01 ART. 5 JORF 4 MARS 1984
+	  - Décret n°94-889 du 13 octobre 1994 - art. 23 () JORF 18 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -72395,21 +72406,25 @@ auprès du ministre de l'agriculture, par envoi recommandé, préalablement à l
 
 ###### Article R5146-46
 
-Est subordonnée à une autorisation préalable du ministre de la santé et du ministre de l'agriculture la publicité sous
-quelque forme que ce soit en faveur des médicaments présentés comme favorisant le diagnostic, la prévention ou le traitement
-des maladies contagieuses énumérées à l'article 224 du code rural ou dans les textes pris en application de l'article 225 du
-même code.
+Est subordonnée à une autorisation préalable du directeur général du Centre national d'études vétérinaires et alimentaires la
+publicité sous quelque forme que ce soit en faveur des médicaments présentés comme favorisant le diagnostic, la prévention ou
+le traitement des maladies contagieuses énumérées à l'article 224 du code rural ou dans les textes pris en application de
+l'article 225 du même code.
 
 **Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 224, 225
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 24 () JORF 18 octobre 1994
 
 	**Nouveaux textes**:
 
@@ -72418,10 +72433,6 @@ même code.
 	**Cité par**:
 
 	  - Code de la santé publique - art. R5146-57 (Ab)
-
-	**Cite**:
-
-	  - Code rural 224, 225
 
 
 ###### Article R5146-47
@@ -72988,7 +72999,7 @@ Les établissements [*de préparation, de vente en gros ou de distribution*] pr�
 l'autorisation de mise sur le marché pour la fabrication ou l'importation de médicaments vétérinaires définis en a et c de
 L'article L. 617-6 feront l'objet, au moins une fois l'an [*périodicité*], d'une visite concertée de la part d'un inspecteur
 de la pharmacie et d'un vétérinaire inspecteur. Le compte rendu de cette inspection, signé des deux agents, sera transmis au
-ministre de la santé et au ministre de l'agriculture.
+directeur général du Centre national d'études vétérinaires et alimentaires.
 
 **Liens relatifs à cet article**
 
@@ -72997,9 +73008,9 @@ ministre de la santé et au ministre de l'agriculture.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 25 () JORF 18 octobre 1994
 
 	**Cite**:
 
@@ -73009,8 +73020,34 @@ ministre de la santé et au ministre de l'agriculture.
 
 ###### Article R5146-55
 
-Outre les dispositions de l'article L. 617-4, les médicaments vétérinaires importés sont soumis aux mêmes règles que les
-médicaments fabriqués en France.
+L'autorisation d'importation de médicaments vétérinaires prévue à l'article L. 617-4 est délivrée par le directeur général du
+Centre national d'études vétérinaires et alimentaires. Outre les dispositions de l'article L. 617-4, les médicaments
+vétérinaires importés sont soumis aux mêmes règles que les médicaments fabriqués en France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°94-889 du 13 octobre 1994 - art. 26 () JORF 18 octobre 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L617-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-123 (M)
+
+
+###### Article R5146-55-1
+
+Les autorisations prévues aux deuxième et troisième alinéas de l'article L. 617-1 sont délivrées par le directeur général du
+Centre national d'études vétérinaires et alimentaires.
 
 **Liens relatifs à cet article**
 
@@ -73021,15 +73058,48 @@ médicaments fabriqués en France.
 
 	**Créé par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°94-889 du 13 octobre 1994 - art. 27 () JORF 18 octobre 1994
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L617-4 (M)
+	  - Code de la santé publique - art. L617-1 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-1 (M)
 
 	**Nouveaux textes**:
 
-	  - Code de la santé publique - art. R5141-123 (M)
+	  - Code de la santé publique - art. R5141-124 (M)
+
+
+###### Article R5146-55-2
+
+L'autorisation prévue à l'article L. 617-7 est accordée par le directeur général du Centre national d'études vétérinaires et
+alimentaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-889 du 13 octobre 1994 - art. 27 () JORF 18 octobre 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L617-7 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L617-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-124 (M)
 
 
 ##### Section 6 : Groupements autorisés à délivrer certains médicaments vétérinaires à leurs adhérents.
@@ -73063,6 +73133,41 @@ groupement, ce pharmacien est inscrit au tableau de la section D de l'ordre.
 
 	  - Code de la santé publique - art. R5143-5 (V)
 	  - Code de la santé publique R5143-5
+
+
+##### Section 6 bis : Dispositions particulières relatives au contrôle
+
+###### Article R5146-56-1
+
+Pour la préparation des décisions qui relèvent de sa compétence en vertu des dispositions du présent chapitre, et pour le
+contrôle de l'application et du respect de ces décisions, le directeur général du Centre national d'études vétérinaires et
+alimentaires peut, sous couvert du préfet de région ou de département, selon le cas, demander l'intervention des agents des
+corps d'inspection et de contrôle mentionnés à l'article L. 617-20.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-889 du 13 octobre 1994 - art. 28 () JORF 18 octobre 1994
+
+	**Cité par**:
+
+	  - Arrêté du 9 mai 1995 - art. 3 (Ab)
+	  - Code de la santé publique - art. R5145-46 (Ab)
+	  - Code de la santé publique - art. R5146-40 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L617-20 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5146-1 (V)
 
 
 ##### SECTION 7 : SANCTIONS.
