@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-12-24
+Version Consolidée au 1992-12-27
 
 # Partie législative ancienne
 
@@ -73813,6 +73813,185 @@ jugés nécessaires.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R6145-57 (T)
+
+
+##### Sous-section 4 : Programmes d'investissement
+
+###### Article R714-4-1
+
+Toutes les opérations de travaux et les opérations concernant les équipements matériels lourds définis à l'article R. 712-2
+sont rattachées à un programme d'investissement sur lequel le conseil d'administration délibère en application du 2° de
+l'article R. 714-4.
+
+Les programmes d'investissement sont établis en cohérence avec le projet d'établissement mentionné au 1° de l'article L.
+714-4 tel qu'il a été approuvé ; ils comprennent une ou plusieurs opérations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1355 du 24 décembre 1992 - art. 1 () JORF 27 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-4 (M)
+	  - Code de la santé publique - art. R712-2 (M)
+	  - Code de la santé publique R712-2, R714-4, L714-4
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6145-64 (M)
+	  - Code de la santé publique - art. R6145-64 (V)
+
+
+###### Article R714-4-2
+
+Toutes les opérations appelées à figurer dans les programmes d'investissement ainsi que les autres opérations d'équipement
+susceptibles d'être inscrites à la section d'investissement du budget d'un établissement donnent lieu à l'élaboration d'un
+plan global de financement pluriannuel d'une durée minimale de cinq ans.
+
+Le plan détermine les charges prévisionnelles résultant de la réalisation de l'ensemble de ces opérations et leurs modalités
+de financement, tant en investissement qu'en exploitation. Il est révisé en tant que de besoin, et notamment au moment de
+l'approbation d'un nouveau programme d'investissement. Il est communiqué au conseil d'administration et à l'autorité
+administrative dès son élaboration et après toute modification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1355 du 24 décembre 1992 - art. 1 () JORF 27 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6145-65 (M)
+	  - Code de la santé publique - art. R6145-65 (V)
+
+
+###### Article R714-4-3
+
+Lorsqu'un programme d'investissement comprend au moins une opération de travaux dont le coût total est supérieur à un seuil
+qui peut être différent selon les établissements et qui est fixé par arrêté conjoint du ministre chargé de la santé et du
+ministre chargé du budget, le conseil d'administration délibère sur la base d'un dossier comprenant pour cette opération :
+
+1. Un rapport de présentation replaçant l'opération dans le contexte du projet d'établissement et justifiant, le cas échéant,
+toute évolution par rapport à celui-ci ;
+
+2. Un dossier technique dont le contenu est défini par arrêté du ministre chargé de la santé ;
+
+3. Une étude sur les coûts induits par l'opération tant en matière d'exploitation que d'investissement ;
+
+4. Le plan de financement de l'opération intégré dans le plan global de financement pluriannuel révisé de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1355 du 24 décembre 1992 - art. 1 () JORF 27 décembre 1992
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté du 8 mars 1993
+	  - TXT_ASSOCIE: Arrêté du 8 mars 1993 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 8 mars 1993 - art. 1 (V)
+	  - Arrêté du 24 septembre 1993 - art. 1 (Ab)
+	  - Arrêté du 17 novembre 2006 - art. 3 (V)
+	  - Code de la santé publique - art. R714-4-5 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6145-66 (V)
+
+
+###### Article R714-4-4
+
+Pour chaque programme d'investissement, le conseil d'administration délibère sur la base d'un dossier comprenant
+[*contenu*] :
+
+1. La liste des travaux et équipements ;
+
+2. Leur coût estimatif ;
+
+3. Le plan global de financement pluriannuel révisé de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1355 du 24 décembre 1992 - art. 1 () JORF 27 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6145-67 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-4-5 (Ab)
+
+
+###### Article R714-4-5
+
+La délibération du conseil d'administration relative aux programmes d'investissement est transmise pour approbation au
+représentant de l'Etat dans le département, accompagnée des dossiers décrits à l'article R. 714-4-4 et éventuellement à
+l'article R. 714-4-3.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1355 du 24 décembre 1992 - art. 1 () JORF 27 décembre 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6145-68 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-4-3 (Ab)
+	  - Code de la santé publique - art. R714-4-4 (Ab)
 
 
 ##### Section 2 : Organes représentatifs
