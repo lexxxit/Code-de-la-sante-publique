@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1968-01-03
+Version Consolidée au 1968-01-04
 
 # Partie législative ancienne
 
@@ -9789,6 +9789,89 @@ Ce curateur ne pourra être choisi parmi les héritiers présomptifs de la perso
 	**Anciens textes**:
 
 	  - Loi n°1838-06-30 ART. 38
+
+
+#### CHAPITRE 4 : DISPOSITIONS DIVERSES
+
+##### SECTION 1 : DISPOSITIONS FINANCIERES.
+
+###### Article L353
+
+Les dépenses exposées par les départements pour l'application de l'article L. 326 sont réparties entre l'Etat et les
+départements dans les conditions prévues par l'article 190 du Code de la famille et de l'aide sociale [*charge financière*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 8 () JORF 4 JANVIER 1968
+
+	**Cite**:
+
+	  - Code de la famille et de l'aide sociale. - art. 190 (Ab)
+	  - Code de la santé publique - art. L326 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3214-2 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L339 (M)
+	  - Code de la santé publique - art. L354 (Ab)
+
+
+##### Section 2 : Prix de journée.
+
+###### Article L353-1
+
+La dépense du transport des personnes dirigées par l'Administration sur les établissements de soins est arrêtée par le préfet
+sur le mémoire des agents préposés au transport.
+
+Le préfet, sur délibération conforme du conseil général, fixe, chaque année, pour les établissements départementaux qu'il
+administre, le prix de journée de toutes les catégories d'aliénés indigents ou autres. Le prix de journée fixé pour les
+aliénés indigents sans domicile de secours à la charge de l'Etat est le même que celui des aliénés indigents à la charge des
+départements et des communes.
+
+Ce prix de journée ne peut entrer en application qu'après avoir été approuvé par le ministre de la Santé publique et de la
+Population.
+
+Les traités que les départements passent pour l'entretien de leurs aliénés soit avec d'autres départements, soit avec les
+établissements privés faisant fonction d'établissements publics d'aliénés, soit avec des quartiers d'hospices, ne reçoivent
+exécution que s'ils ont été approuvés par le ministre de la Santé publique et de la Population après avis du ministre de
+l'Intérieur. Ils ne pourront être modifiés que dans les mêmes formes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°1838-06-30 ART. 26 ET 27
+
+	**Modifié par**:
+
+	  - Loi n°68-5 du 3 janvier 1968 - art. 8 () JORF 4 janvier 1968
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°83-25 1983-01-19 ART. 15 : dispositions non applicables aux établissements publics et aux établissements privés admis à participer à l'exécution du service public hospitalier
+
+	**Cité par**:
+
+	  - Loi n°83-25 du 19 janvier 1983 - art. 15 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°90-527 du 27 juin 1990 - art. 3 () JORF 30 juin 1990
 
 
 #### Chapitre 5 : Dispositions pénales.
