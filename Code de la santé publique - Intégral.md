@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1973-01-18
+Version Consolidée au 1973-03-01
 
 # Partie législative ancienne
 
@@ -35759,6 +35759,141 @@ de ces établissements ou leur activité économique, à l'exclusion de toute pu
 	  - Code de la sécurité sociale. - art. D162-2-4 (M)
 	  - Code de la sécurité sociale. - art. R163-5 (M)
 	  - Code de la sécurité sociale. - art. R163-7 (V)
+
+
+##### Section 5 : Dispositions concernant la publicité relative aux objets, appareils et méthodes présentés comme favorisant le diagnostic, la prévention ou le traitement
+
+###### Article R5055
+
+Il est institué auprès du ministre chargé de la santé publique une commission dont le rôle est d'émettre l'avis prévu au
+deuxième alinéa de l'article L. 552 du code de la santé publique au sujet de l'interdiction de la publicité ou de la
+propagande, sous quelque forme que ce soit, relative aux objets, appareils et méthodes présentés comme favorisant le
+diagnostic, la prévention ou le traitement des maladies, des affections relevant de la pathologie chirurgicale et des
+dérèglements physiologiques.
+
+La commission adresse un rapport annuel au ministre chargé de la santé publique et peut lui faire toute proposition qu'elle
+jugera utile.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°73-209 1973-02-22 art. 2 JORF 1 mars 1973
+
+	**Cité par**:
+
+	  - Arrêté du 7 août 1991 - art. 1 (V)
+	  - Code de la santé publique - art. R5055-1 (Ab)
+	  - Code de la santé publique - art. R5055-2 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L552 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-23 (Ab)
+
+
+###### Article R5055-2
+
+La commission instituée par l'article R. 5055 peut être saisie :
+
+Par les ministres chargés de l'économie et des finances, de la santé publique et du commerce et de l'artisanat ;
+
+Par un procureur de la République ;
+
+Par un pharmacien-inspecteur régional de la santé ;
+
+Par un conseil de l'ordre ou un syndicat des médecins, des pharmaciens, des chirurgiens dentistes, des sages-femmes, ou par
+un syndicat de membres des professions paramédicales ;
+
+Par un organisme réunissant des professionnels de la publicité ;
+
+Par des groupements et institutions ayant pour objet la protection des consommateurs, notamment la vérification de la
+publicité ;
+
+Plus généralement par toute autorité publique, toute administration ou toute personne physique ou morale intéressée.
+
+Dans l'exercice de ses pouvoirs d'investigation, la commission peut exiger des fabricants, importateurs, distributeurs et
+promoteurs, des personnes qui sollicitent ou font solliciter la publicité ou la propagande en cause, et des agents de
+publicité ou de diffusion intéressés, tous renseignements utiles à l'accomplissement de sa mission.
+
+La commission et ses rapporteurs peuvent demander aux inspecteurs de la pharmacie d'effectuer des enquêtes conformément aux
+dispositions de l'article L. 564 du présent code.
+
+La commission peut, si elle le juge utile, faire appel à des experts, qui auront voix consultative.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°73-209 1973-02-22 art. 2 JORF 1er mars 1973
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L564 (M)
+	  - Code de la santé publique - art. R5055 (M)
+
+
+###### Article R5055-3
+
+La commission, saisie comme il a été dit à l'article précédent, donne au fabricant, importateur, distributeur ou promoteur un
+délai qui ne peut être inférieur à trois semaines pour produire un mémoire écrit et faire connaître s'il désire être entendu
+par elle.
+
+Le fabricant, importateur, distributeur ou promoteur qui a demandé à être entendu doit recevoir sa convocation quinze jours
+au moins avant la date prévue pour la réunion de la commission. Il peut se faire représenter lors de cette réunion.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°73-209 1973-02-22 art. 2 JORF 1er mars 1973
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-34 (Ab)
+
+
+###### Article R5055-4
+
+La commission se réunit sur convocation de son président en exercice ou du ministre de la santé publique.
+
+Les délibérations ne sont valables que si la moitié au moins des membres de la commission sont présents.
+
+Les résultats des votes sont acquis à la majorité des suffrages exprimés. En cas de partage égal des voix, celle du président
+de séance est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°73-209 1973-02-22 art. 2 JORF 1er mars 1973
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-24 (Ab)
 
 
 #### Chapitre 5 : De l'inspection de la pharmacie
