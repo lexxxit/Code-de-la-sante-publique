@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1961-09-02
+Version Consolidée au 1962-01-17
 
 # Partie législative ancienne
 
@@ -9345,6 +9345,63 @@ La présidence du conseil d'administration appartient au préfet, la vice-prési
 
 	  - Code de la santé publique - art. L6162-9 (M)
 	  - Code de la santé publique - art. L6162-9 (V)
+
+
+###### Article L322
+
+Le conseil d'administration [*attributions*] délibère notamment sur les objets suivants :
+
+1° Le budget du centre ;
+
+2° Les comptes du directeur et du trésorier ;
+
+3° Les emprunts ;
+
+4° Les acquisitions, aliénations, échanges, constructions et grosses réparations, ainsi que les marchés, baux et locations ;
+
+5° Les dons et legs ;
+
+6° Les conditions de recrutement et de rémunération du personnel lorsqu'elles n'ont pas été fixées par les arrêtés prévus aux
+articles L. 323 et 324 ci-après ;
+
+7° Les conventions et règlements visés à l'article L. 318 ci-dessus ;
+
+8° Les propositions à faire au préfet en vue de la détermination du prix de journée.
+
+**Nota:**
+
+[*Nota : les dispositions de l'alinéa 8 sont règlementaires.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2221 1945-10-01 ART. 4
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - Décret n°63-380 du 8 avril 1963 - art. 2 (Ab)
+	  - Code de la sécurité sociale. - art. D412-79 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L318 (Ab)
+	  - Code de la santé publique - art. L323 (Ab)
+	  - Code de la santé publique - art. L324 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L6162-10 (M)
+	  - Code de la santé publique - art. L6162-10 (V)
 
 
 ##### Section 4 : Personnel médical et administratif.
