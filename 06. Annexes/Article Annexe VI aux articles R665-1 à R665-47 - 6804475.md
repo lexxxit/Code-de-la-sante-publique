@@ -148,6 +148,16 @@ la classe II a moyennant la dérogation suivante :
 produits de la classe II a sont fabriqués conformément à la documentation technique visée au point 3 de l'annexe VII et
 répondent aux exigences du livre V bis du code de la santé publique qui leur sont applicables.
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2004-802 du 29 juillet 2004,  l'abrogation des annexes du livre V bis prendra effet à
+la date de la  publication de chacun des arrêtés prévus aux articles R. 5211-7, R.  5211-16, R. 5211-24 et R. 5211-53 du code
+de la santé publique.
+
+L'arrêté  du 20 avril 2006 fixant les modalités d'application des procédures de  certification de la conformité définies aux
+articles R. 5211-39 à R.  5211-52, pris en application de l'article R. 5211-53 du code de la santé  publique, est paru au
+JORF du 8 juin 2006.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -155,13 +165,13 @@ répondent aux exigences du livre V bis du code de la santé publique qui leur s
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
-
-	  - Décret n°95-292 1995-03-16 annexe JORF 17 mars 1995
-
 	**Modifié par**:
 
-	  - Décret n°99-145 1999-03-04 art. 4 4° JORF 5 mars 1999
+	  - Décret n°2004-108 du 4 février 2004 - art. 1 () JORF 6 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 4 (V)
 
 	**Cite**:
 

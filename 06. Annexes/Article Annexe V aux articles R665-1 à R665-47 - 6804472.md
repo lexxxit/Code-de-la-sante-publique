@@ -156,13 +156,9 @@ répondent aux exigences du livre V bis du code de la santé publique qui leur s
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
-
-	  - Décret n°95-292 1995-03-16 annexe JORF 17 mars 1995
-
 	**Modifié par**:
 
-	  - Décret n°99-145 1999-03-04 art. 4 4° JORF 5 mars 1999
+	  - Décret n°2004-108 du 4 février 2004 - art. 1 () JORF 6 février 2004
 
 	**Cite**:
 

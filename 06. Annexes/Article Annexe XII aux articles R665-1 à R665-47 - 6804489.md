@@ -9,6 +9,16 @@ Le marquage CE de conformité se compose des initiales CE ayant la forme suivant
 
 Cette dimension minimale n'est pas obligatoire pour les dispositifs de petites dimensions.
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2004-802 du 29 juillet 2004, l'abrogation des annexes du livre V bis prendra effet à
+la date de la publication de chacun des arrêtés prévus aux articles R. 5211-7, R. 5211-16, R. 5211-24 et R. 5211-53 du code
+de la santé publique.
+
+L'arrêté du 20 avril 2006 précisant la forme et les dimensions du marquage CE devant être apposé sur les dispositifs médicaux
+avant leur mise sur le marché ainsi que sur leurs emballages commerciaux et leurs notices d'utilisation, est paru au JORF du
+4 mai 2006.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -16,6 +26,10 @@ Cette dimension minimale n'est pas obligatoire pour les dispositifs de petites d
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-292 1995-03-16 annexe JORF 17 mars 1995
+	  - Décret n°2004-108 du 4 février 2004 - art. 1 () JORF 6 février 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 4 (V)
