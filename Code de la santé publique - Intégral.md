@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1988-01-06
+Version Consolidée au 1988-04-21
 
 # Partie législative ancienne
 
@@ -37016,41 +37016,6 @@ donnée par le chef de service.
 	  - Code de la santé publique - art. L881 (Ab)
 
 
-###### Article L852
-
-En cas de maladie dûment constatée par un certificat médical et le mettant dans l'impossibilité d'exercer ses fonctions,
-l'agent est de droit mis en congé.
-
-L'administration peut à tout moment faire procéder à la contre-visite du demandeur.
-
-Le comité médical compétent peut être saisi soit par l'administration, soit par l'intéressé des conclusions du médecin
-assermenté. L'intéressé peut faire entendre par le comité le médecin de son choix.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Anciens textes**:
-
-	  - Décret n°55-683 1955-05-20 art. 61
-
-	**Cité par**:
-
-	  - Décret n°56-1294 du 14 décembre 1956 - art. 12 (Ab)
-	  - Décret n°88-386 du 19 avril 1988 - art. 39 (V)
-
-	**Modifié par**:
-
-	  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
-
-	**Abrogé par**:
-
-	  - Décret n°88-386 du 19 avril 1988 - art. 39 (V) JORF 21 avril 1988
-
-
 ###### Article L855
 
 Quant un agent aura été atteint d'une maladie longue et sérieuse ou susceptible de rechute ou se trouvera en état
@@ -37078,44 +37043,6 @@ Dans ce cas, les avantages assurés à l'intéressé devront lui être maintenus
 	  - Décret n°89-376 du 8 juin 1989 - art. 6 (V) JORF 14 juin 1989
 
 
-###### Article L856
-
-Les congés de longue durée peuvent être accordés et renouvelés par périodes successives ne devant pas dépasser six mois,
-après avis du comité médical départemental chargé d'examiner les fonctionnaires de l'Etat.
-
-Lorsque les intéressés demandent le bénéfice de la prolongation prévue au deuxième alinéa du présent article, la décision
-doit être prise après consultation de la commission départementale de réforme et conformément à l'avis émis par le comité
-médical supérieur siégeant auprès du ministère de la santé publique et de la population.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°56-1294 du 14 décembre 1956 - art. 10 (Ab)
-	  - Décret n°56-1294 du 14 décembre 1956 - art. 11 (Ab)
-	  - Décret n°56-1294 du 14 décembre 1956 - art. 12 (Ab)
-	  - Décret n°56-1294 du 14 décembre 1956 - art. 20 (Ab)
-	  - Décret n°56-1294 du 14 décembre 1956 - art. 23 (Ab)
-	  - Décret n°56-1294 du 14 décembre 1956 - art. 24 (Ab)
-	  - Décret n°56-1294 du 14 décembre 1956 - art. 4 (Ab)
-	  - Décret n°56-1294 du 14 décembre 1956 - art. 9 (Ab)
-	  - Arrêté du 9 août 1960 - art. 10 (V)
-	  - Arrêté du 9 août 1960 - art. 4 (V)
-	  - Arrêté du 15 février 1982 - art. 19 (V)
-	  - Décret n°88-386 du 19 avril 1988 - art. 39 (V)
-	  - Code de la santé publique - art. L809 (Ab)
-	  - Code de la santé publique - art. L858 (Ab)
-	  - Code de la santé publique - art. L860 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-	**Abrogé par**:
-
-	  - Décret n°88-386 du 19 avril 1988 - art. 39 (V) JORF 21 avril 1988
-
-
 ###### Article L859
 
 Lorsque des agents s'absentent ou prolongent leur absence sans autorisation, ils sont immédiatement placés dans la position
@@ -37140,45 +37067,6 @@ l'administration.
 	**Abrogé par**:
 
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
-
-
-###### Article L860
-
-Les agents bénéficiaires d'un congé de maladie doivent se soumettre au contrôle exercé par l'administration.
-
-Ceux qui, au cours de ce congé, se livreront à une activité lucrative quelconque ne recevront aucune rémunération et seront
-passibles de sanctions disciplinaires.
-
-Sous peine des mêmes sanctions, les bénéficiaires de congés de longue durée obtenus en application de l'article L. 856
-doivent se soumettre au contrôle de l'administration et, en outre, au régime que nécessite leur état. Le temps pendant lequel
-la rémunération a été suspendue compte dans la période de congé en cours.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Anciens textes**:
-
-	  - Décret n°55-683 1955-05-20 art. 69
-
-	**Abrogé par**:
-
-	  - Décret n°88-386 du 19 avril 1988 - art. 39 (V) JORF 21 avril 1988
-
-	**Cité par**:
-
-	  - Décret n°88-386 du 19 avril 1988 - art. 39 (V)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L856 (M)
-
-	**Modifié par**:
-
-	  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
 
 
 ##### Section 2 : Détachement.
