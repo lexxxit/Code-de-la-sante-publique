@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-12-03
+Version Consolidée au 1994-12-08
 
 # Partie législative ancienne
 
@@ -106814,6 +106814,386 @@ articles R. 710-2-1 à R. 710-2-10 ;
 	  - Code de la santé publique - art. D712-37 (Ab)
 
 
+##### Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie
+
+##### Paragraphe 1 : Dispositions générales
+
+###### Article D712-40
+
+Pour tout patient dont l'état nécessite une anesthésie générale ou loco-régionale, les établissements de santé, y compris les
+structures de soins alternatives à l'hospitalisation, doivent assurer les garanties suivantes :
+
+1° Une consultation pré-anesthésique, lorsqu'il s'agit d'une intervention programmée ;
+
+2° Les moyens nécessaires à la réalisation de cette anesthésie ;
+
+3° Une surveillance continue après l'intervention ;
+
+4° Une organisation permettant de faire face à tout moment à une complication liée à l'intervention ou à l'anesthésie
+effectuées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 1 () JORF 8 décembre 1994
+
+	**Cité par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 2 (Ab)
+	  - Arrêté du 3 octobre 1995 - art. 8 (V)
+	  - Code de la santé publique - art. D712-41 (Ab)
+	  - Code de la santé publique - art. D712-43 (Ab)
+	  - Code de la santé publique - art. D712-45 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-91 (V)
+
+
+##### Paragraphe 2 : De la consultation pré-anesthésique
+
+###### Article D712-41
+
+La consultation pré-anesthésique mentionnée au 1° de l'article D. 712-40 a lieu plusieurs jours avant l'intervention.
+
+Si le patient n'est pas encore hospitalisé, elle est effectuée :
+
+a) Pour les établissements de santé assurant le service public hospitalier : dans le cadre des consultations externes
+relevant des dispositions du décret n° 82-634 du 8 juillet 1982 ;
+
+b) Pour les établissements de santé privés relevant des dispositions de l'article L. 162-22 du code de la sécurité sociale :
+
+soit au cabinet du médecin anesthésiste-réanimateur, soit dans les locaux de l'établissement.
+
+Cette consultation est faite par un médecin anesthésiste-réanimateur. Ses résultats sont consignés dans un document écrit,
+incluant les résultats des examens complémentaires et des éventuelles consultations spécialisées. Ce document est inséré dans
+le dossier médical du patient.
+
+La consultation pré-anesthésique ne se substitue pas à la visite pré-anesthésique qui doit être effectuée par un médecin
+anesthésiste-réanimateur dans les heures précédant le moment prévu pour l'intervention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Décret n°82-634 1982-07-08
+	  - Code de la santé publique - art. D712-40 (M)
+	  - Code de la sécurité sociale. - art. L162-22 (M)
+
+	**Créé par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 1 () JORF 8 décembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-92 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-43 (Ab)
+	  - Code de la santé publique - art. D712-75 (Ab)
+	  - Code de la santé publique - art. D766-2-12 (Ab)
+
+
+##### Paragraphe 3 : De l'anesthésie
+
+###### Article D712-44
+
+I. - Les moyens mentionnés au 1° de l'article D. 712-43 doivent permettre d'assurer, pour chaque patient, les fonctions
+suivantes :
+
+1° Le contrôle continu du rythme cardiaque et du tracé électrocardioscopique ;
+
+2° La surveillance de la pression artérielle, soit non invasive soit invasive, si l'état du patient l'exige.
+
+II. - Les moyens mentionnés au 2° de l'article D. 712-43 doivent permettre d'assurer, pour chaque patient, les fonctions ou
+actes suivants :
+
+a) L'arrivée de fluides médicaux et l'aspiration par le vide ;
+
+b) L'administration de gaz et de vapeurs anesthésiques ;
+
+c) L'anesthésie et son entretien ;
+
+d) L'intubation trachéale ;
+
+e) La ventilation artificielle ;
+
+f) Le contrôle continu :
+
+- du débit de l'oxygène administré et de la teneur en oxygène du mélange gazeux inhalé ;
+
+- de la saturation du sang en oxygène ;
+
+- des pressions et des débits ventilatoires ainsi que de la concentration en gaz carbonique expiré, lorsque le patient est
+intubé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 1 () JORF 8 décembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-95 (V)
+	  - Code de la santé publique - art. D6124-96 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D712-43 (M)
+
+
+##### Paragraphe 4 : De la surveillance continue post-interventionnelle
+
+###### Article D712-45
+
+La surveillance continue post-interventionnelle mentionnée au 3° de l'article D. 712-40 a pour objet de contrôler les effets
+résiduels des médicaments anesthésiques et leur élimination et de faire face, en tenant compte de l'état de santé du patient,
+aux complications éventuelles liées à l'intervention ou à l'anesthésie.
+
+Cette surveillance commence en salle, dès la fin de l'intervention et de l'anesthésie.
+
+Elle ne s'interrompt pas pendant le transfert du patient.
+
+Elle se poursuit jusqu'au retour et au maintien de l'autonomie respiratoire du patient, de son équilibre circulatoire et de
+sa récupération neurologique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 1 () JORF 8 décembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-97 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D712-40 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-46 (Ab)
+	  - Code de la santé publique - art. D712-81 (Ab)
+
+
+###### Article D712-46
+
+Sauf pour les patients dont l'état de santé nécessite une admission directe dans une unité de soins intensifs ou de
+réanimation, la surveillance qui suit le transfert du patient est mise en oeuvre dans une salle de surveillance post-
+interventionnelle.
+
+Sous réserve que les patients puissent bénéficier des conditions de surveillance mentionnées à l'article D. 712-45, peuvent
+tenir lieu de salle de surveillance post-interventionnelle :
+
+a) La salle de travail située dans une unité d'obstétrique, en cas d'anesthésie générale ou loco-régionale pour des
+accouchements par voie basse ;
+
+b) La salle où sont pratiquées des activités de sismothérapie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 1 () JORF 8 décembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-98 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D712-45 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-49 (Ab)
+	  - Code de la santé publique - art. D712-81 (Ab)
+
+
+###### Article D712-47
+
+La salle de surveillance post-interventionnelle est dotée de dispositifs médicaux permettant pour chaque poste installé :
+
+a) L'arrivée de fluides médicaux et l'aspiration par le vide ;
+
+b) Le contrôle continu du rythme cardiaque et l'affichage du tracé électrocardioscopique, par des appareils munis d'alarme,
+et le contrôle de la saturation du sang en oxygène ;
+
+c) La surveillance périodique de la pression artérielle ;
+
+d) Les moyens nécessaires au retour à un équilibre thermique normal pour le patient.
+
+La salle de surveillance post-interventionnelle est en outre équipée :
+
+1° D'un dispositif d'alerte permettant de faire appel aux personnels nécessaires en cas de survenance de complications dans
+l'état d'un patient ;
+
+2° D'un dispositif d'assistance ventilatoire, muni d'alarmes de surpression et de débranchement ainsi que d'arrêt de
+fonctionnement.
+
+Les personnels exerçant dans cette salle doivent pouvoir accéder sans délai au matériel approprié permettant la
+défibrillation cardiaque des patients ainsi que l'appréciation du degré de leur éventuelle curarisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 1 () JORF 8 décembre 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 8 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 3 octobre 1995 - art. 1 (V)
+	  - Arrêté du 3 octobre 1995 - art. 2 (V)
+	  - Code de la santé publique - art. D712-51 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-99 (V)
+
+
+###### Article D712-49
+
+Les patients admis dans une salle de surveillance post-interventionnelle sont pris en charge par un ou plusieurs agents
+paramédicaux, ou sages-femmes pour les interventions prévues au a de l'article D. 712-46, affectés exclusivement à ladite
+salle pendant sa durée d'utilisation et dont le nombre est fonction du nombre de patients présents.
+
+Pendant sa durée d'utilisation, toute salle de surveillance post-interventionnelle doit comporter en permanence au moins un
+infirmier diplômé d'Etat formé à ce type de surveillance, si possible infirmier anesthésiste diplômé d'Etat.
+
+Lorsque la salle dispose d'une capacité égale ou supérieure à six postes occupés, l'équipe paramédicale doit comporter au
+moins deux agents présents dont l'un est obligatoirement un infirmier diplômé d'Etat formé à ce type de surveillance, si
+possible, infirmier anesthésiste diplômé d'Etat.
+
+Le personnel paramédical est placé sous la responsabilité médicale d'un médecin anesthésiste-réanimateur qui doit pouvoir
+intervenir sans délai. Ce médecin :
+
+a) Décide du transfert du patient dans le secteur d'hospitalisation et des modalités dudit transfert ;
+
+b) Autorise, en accord avec le médecin ayant pratiqué l'intervention, la sortie du patient de l'établissement dans le cas
+d'une intervention effectuée dans une structure de soins alternative à l'hospitalisation pratiquant l'anesthésie ou la
+chirurgie ambulatoire mentionnée au b de l'article R. 712-2-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 1 () JORF 8 décembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-101 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D712-46 (M)
+	  - Code de la santé publique - art. R712-2-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-48 (Ab)
+
+
+###### Article D712-50
+
+Le protocole d'anesthésie ainsi que l'intégralité des informations recueillies lors de l'intervention et lors de la
+surveillance continue post-interventionnelle sont transcrits dans un document classé au dossier médical du patient.
+
+Il en est de même des consignes données au personnel qui accueille le patient dans le secteur d'hospitalisation. Elles font
+également l'objet d'une transmission écrite.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 1 () JORF 8 décembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-102 (M)
+
+
+###### Article D712-51
+
+Un arrêté du ministre chargé de la santé détermine les modalités d'utilisation et de contrôle des matériels et dispositifs
+médicaux assurant les fonctions et actes cités aux articles D. 712-43 et D. 712-47.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 1 () JORF 8 décembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-103 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D712-43 (M)
+	  - Code de la santé publique - art. D712-47 (M)
+
+
 #### Chapitre 2 : L'organisation et l'équipement sanitaires
 
 ##### Section 1 : Carte sanitaire et schéma d'organisation sanitaire
@@ -108120,6 +108500,130 @@ une convention avec un autre établissement de santé doté de telles discipline
 	**Cité par**:
 
 	  - Code de la santé publique - art. D712-39 (Ab)
+
+
+##### Sous-section 2 : Conditions de fonctionnement relatives à la pratique de l'anesthésie
+
+##### Paragraphe 3 : De l'anesthésie
+
+###### Article D712-42
+
+Le tableau fixant la programmation des interventions est établi conjointement par les médecins réalisant ces interventions,
+les médecins anesthésistes-réanimateurs concernés et le responsable de l'organisation du secteur opératoire, en tenant compte
+notamment des impératifs d'hygiène, de sécurité et d'organisation du fonctionnement du secteur opératoire ainsi que des
+possibilités d'accueil en surveillance post-interventionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 1 () JORF 8 décembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-93 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D712-48 (Ab)
+
+
+###### Article D712-43
+
+L'anesthésie est réalisée sur la base d'un protocole établi et mis en oeuvre sous la responsabilité d'un médecin
+anesthésiste-réanimateur, en tenant compte des résultats de la consultation et de la visite pré-anesthésiques mentionnées à
+l'article D. 712-41.
+
+Les moyens prévus au 2° de l'article D. 712-40 doivent permettre de faire bénéficier le patient :
+
+1° D'une surveillance clinique continue ;
+
+2° D'un matériel d'anesthésie et de suppléance adapté au protocole anesthésique retenu.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 1 () JORF 8 décembre 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 3 octobre 1995 - art. 8 (V)
+
+	**Cité par**:
+
+	  - Arrêté du 3 octobre 1995 - art. 1 (V)
+	  - Arrêté du 3 octobre 1995 - art. 2 (V)
+	  - Code de la santé publique - art. D712-44 (Ab)
+	  - Code de la santé publique - art. D712-51 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-94 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D712-40 (M)
+	  - Code de la santé publique - art. D712-41 (M)
+
+
+##### Paragraphe 4 : De la surveillance continue post-interventionnelle
+
+###### Article D712-48
+
+La salle de surveillance post-interventionnelle doit être située à proximité d'un ou plusieurs sites où sont pratiquées les
+anesthésies et dont le regroupement doit être favorisé, notamment des secteurs opératoires et des secteurs où sont pratiqués
+les actes d'endoscopie ou de radiologie interventionnelle.
+
+Ses horaires d'ouverture doivent tenir compte du tableau fixant la programmation des interventions, mentionné à l'article D.
+712-42, et de l'activité de l'établissement au titre de l'accueil et du traitement des urgences.
+
+Toute nouvelle salle de surveillance post-interventionnelle, y compris lorsqu'elle est créée par regroupement de salles
+existantes afin notamment de respecter les normes de personnel paramédical mentionnées à l'article D. 712-49, doit comporter
+une capacité minimale de quatre postes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 1 () JORF 8 décembre 1994
+
+	**Cité par**:
+
+	  - Décret n°94-1050 du 5 décembre 1994 - art. 2 (Ab)
+	  - Code de la santé publique - art. D766-2-12 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6124-100 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. D712-42 (M)
+	  - Code de la santé publique - art. D712-49 (M)
 
 
 # Annexes
