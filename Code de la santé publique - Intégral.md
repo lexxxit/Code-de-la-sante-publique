@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-10-28
+Version Consolidée au 1994-11-15
 
 # Partie législative ancienne
 
@@ -95499,8 +95499,8 @@ d'établissement.*]
 Dans les centres hospitaliers universitaires, à l'exception de ceux de Paris, Lyon, Marseille, Pointe-à-Pitre et Fort-de-
 France, la commission médicale d'établissement comprend :
 
-1° Quinze représentants des médecins exerçant leur activité en médecine et psychiatrie et dans les spécialités médicales et
-psychiatriques, dont  [*composition*] :
+1° Quinze représentants des médecins exerçant leur activité dans les spécialités de la médecine, à l'exception de celle
+d'anesthésiologie réanimation, de la psychiatrie ainsi que de la radiologie et imagerie médicale dont [*composition*] :
 
 a) Neuf professeurs des universités-praticiens hospitaliers mentionnés au 1° a de l'article 1er du décret n° 84-135 du 24
 février 1984 ;
@@ -95585,8 +95585,7 @@ l'établissement ;
 11° Avec voix délibérative lorsque les questions à l'ordre du jour concernent la gynécologie-obstétrique, et avec voix
 consultative pour les autres questions : la sage-femme surveillante-chef exerçant les fonctions de coordonnatrice ; à défaut,
 une sage-femme surveillante-chef exerçant dans les structures de soins élue par ses collègues de même grade ; à défaut, une
-sage-femme chef d'unité élue par ses collègues de même grade ; à défaut, une sage-femme élue par l'ensemble des sages-
-femmes ;
+sage-femme chef d'unité élue par ses collègues de même grade ; à défaut, une sage-femme élue par l'ensemble des sages-femmes.
 
 **Nota:**
 
@@ -95613,10 +95612,6 @@ d'établissement.*]
 	  - Décret n°84-131 du 24 février 1984 - art. 20 (M)
 	  - Décret n°85-384 1985-03-29 art. 1
 
-	**Créé par**:
-
-	  - Décret n°92-443 du 15 mai 1992 - art. 1 () JORF 20 mai 1992
-
 	**Cité par**:
 
 	  - Arrêté du 24 octobre 1994 - art. 19 (Ab)
@@ -95630,6 +95625,10 @@ d'établissement.*]
 	  - Code de la santé publique - art. R716-3-13 (Ab)
 	  - Code de la santé publique - art. R716-3-38-12 (Ab)
 	  - Code de la santé publique - art. R716-3-46 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°94-979 du 14 novembre 1994 - art. 1 () JORF 15 novembre 1994
 
 	**Nouveaux textes**:
 
