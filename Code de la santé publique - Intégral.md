@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1995-02-11
+Version Consolidée au 1995-02-17
 
 # Partie législative ancienne
 
@@ -91923,14 +91923,10 @@ installations et activités mentionnés à l'article L. 712-8 ;
 4° Les demandes d'autorisation et de renouvellement d'autorisation relatives aux projets mentionnés à l'article L. 712-8,
 lorsque la décision relève de la compétence du ministre chargé de la santé ;
 
-5° Les mesures que le ministre chargé de la santé a l'intention de demander au conseil d'administration d'un établissement
-public de santé d'adopter en application de l'article L. 712-20 ;
+5° (abrogé)
 
-6° Lorsqu'elles relèvent de la compétence du ministre chargé de la santé et en application de l'article L. 715-2 :
-
-a) Les décisions de suspension ou de retrait d'autorisation de fonctionner ;
-
-b) Les décisions de suspension ou de retrait d'autorisation de dispenser des soins remboursables aux assurés sociaux ;
+6° Lorsqu'elles relèvent de la compétence du ministre chargé de la santé, les décisions de suspension ou de retrait
+d'autorisation prévues aux articles L. 712-17-1 et L. 712-18 ;
 
 7° Les projets de contrats de concession pour l'exécution du service public hospitalier prévus à l'article L. 715-10 ainsi
 que les décisions mettant fin à ces contrats en application de l'article R. 715-10-12, dans le cas où l'approbation relève du
@@ -91951,7 +91947,7 @@ et équipements matériels lourds pour lesquels l'autorisation relève du minist
 
 	**Modifié par**:
 
-	  - Décret n°94-1116 du 22 décembre 1994 - art. 4 () JORF 24 décembre 1994
+	  - Décret n°95-157 du 10 février 1995 - art. 1 () JORF 17 février 1995
 
 	**Cité par**:
 
@@ -91961,12 +91957,12 @@ et équipements matériels lourds pour lesquels l'autorisation relève du minist
 	**Cite**:
 
 	  - Code de la santé publique - art. L712-16 (M)
-	  - Code de la santé publique - art. L712-20 (Ab)
+	  - Code de la santé publique - art. L712-17-1 (M)
+	  - Code de la santé publique - art. L712-18 (M)
 	  - Code de la santé publique - art. L712-5 (M)
 	  - Code de la santé publique - art. L712-8 (M)
 	  - Code de la santé publique - art. L712-9 (M)
 	  - Code de la santé publique - art. L715-10 (M)
-	  - Code de la santé publique - art. L715-2 (Ab)
 	  - Code de la santé publique - art. R715-10-12 (M)
 	  - Code de la santé publique - art. R715-6-7 (M)
 
@@ -92340,16 +92336,12 @@ La section sanitaire du comité régional de l'organisation sanitaire et sociale
 2° Les demandes d'autorisation et de renouvellemement d'autorisation relatives aux projets mentionnés à l'article L. 712-8
 lorsque la décision relève de la compétence du préfet de région ;
 
-3° Les mesures que le ministre chargé de la santé a l'intention de demander au conseil d'administration d'un établissement
-public de santé d'adopter, en application de l'article L. 712-20 ;
+3° ...
 
-4° Lorsqu'elles relèvent de la compétence du préfet de région et en application de l'article L. 715-2 :
+4° ...
 
-a) Les décisions de suspension ou de retrait d'autorisation de fonctionner ;
-
-b) Les décisions de suspension ou de retrait d'autorisation de dispenser des soins remboursables aux assurés sociaux ;
-
-5° La suspension de l'autorisation de fonctionner prononcée en application de l'article L. 712-18 ;
+5° Lorsqu'elles relèvent de la compétence du préfet de région, les décisions de suspension ou de retrait d'autorisation
+prévues aux articles L. 712-17-1 et L. 712-18 ;
 
 6° Les projets de contrats de concession pour l'exécution du service public hospitalier et les décisions mettant fin à ces
 contrats en application de l'article R. 715-10-12, dans le cas où l'approbation relève du préfet de région, ainsi que les
@@ -92361,9 +92353,19 @@ et équipements matériels lourds pour lesquels l'autorisation relève du préfe
 
 **Liens relatifs à cet article**
 
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6122-20 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R712-25 (Ab)
+	  - Code de la santé publique - art. R724-6 (Ab)
+	  - Décret n°2005-434 du 6 mai 2005 - art. 10 (V)
+
 	**Cite**:
 
-	  - Code de la santé publique annexe, L712-8, L712-20, L715-2, L712-18, R715-10-12, R715-6-7
+	  - Code de la santé publique annexe, L712-8, L712-17-1, L712-18, R715-10-12, R715-6-7
 
 	**Codifié par**:
 
@@ -92372,17 +92374,7 @@ et équipements matériels lourds pour lesquels l'autorisation relève du préfe
 
 	**Modifié par**:
 
-	  - Décret n°94-1116 du 22 décembre 1994 - art. 4 () JORF 24 décembre 1994
-
-	**Cité par**:
-
-	  - Décret n°2005-434 du 6 mai 2005 - art. 10 (V)
-	  - Code de la santé publique - art. R712-25 (Ab)
-	  - Code de la santé publique - art. R724-6 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R6122-20 (V)
+	  - Décret n°95-157 du 10 février 1995 - art. 2 () JORF 17 février 1995
 
 
 ###### Article R712-24
@@ -93220,14 +93212,17 @@ l'organisation sanitaire et sociale et dans les conditions fixées à l'article 
 préfet de région, doivent être motivées. Elles sont notifiées par lettre recommandée avec avis de réception au demandeur de
 l'autorisation.
 
-Le délai de trois ans prévu à l'article L. 712-17 court à compter de la notification de la décision ou de l'expiration du
-délai de six mois mentionné au troisième alinéa de l'article L. 712-16.
+La demande de communication des motifs d'une décision implicite rejetant soit une demande d'autorisation, soit un recours
+hiérarchique dirigé contre un refus d'autorisation, est adressée à l'autorité dont émane cette décision, par lettre
+recommandée avec demande d'avis de réception, dans les deux mois à compter de la date à laquelle elle est née en application,
+respectivement, du troisième alinéa de l'article L. 712-16 ou du deuxième alinéa de l'article R. 712-44. Les motifs de la
+décision sont notifiés dans les mêmes formes, au plus tard un mois après la réception de la demande. A défaut de notification
+dans ce délai, l'autorisation est réputée acquise, sauf dans le cas où la demande de communication concerne les motifs du
+rejet implicite d'un recours hiérarchique.
 
-**Nota:**
-
----[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
-entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
-sociale.*]
+Le délai de trois ans prévu à l'article L. 712-17 court de la notification de la décision expresse accordant l'autorisation
+ou de l'expiration du délai d'un mois à compter de la réception de la demande de communication des motifs mentionnée au
+précédent alinéa, lorsque le silence gardé sur cette demande a fait naître une autorisation tacite.
 
 **Liens relatifs à cet article**
 
@@ -93236,14 +93231,15 @@ sociale.*]
 	  - Décret n°53-1001 1953-10-05 (Décret de validation)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+	  - Décret n°95-157 du 10 février 1995 - art. 3 () JORF 17 février 1995
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L712-16 (M)
 	  - Code de la santé publique - art. L712-17 (M)
+	  - Code de la santé publique - art. R712-44 (M)
 
 	**Nouveaux textes**:
 
@@ -93329,15 +93325,9 @@ d'une publication [*publicité, information*] :
 2° Au bulletin des actes administratifs de la préfecture de la région et de celle du ou des départements concernés pour les
 décisions du préfet de région.
 
-II. - Mention de l'intervention des autorisations réputées acquises en application du troisième alinéa de l'article L. 712-16
-et de l'article R. 712-44, et notamment de la date à laquelle elles sont intervenues, doit également être faite dans le
-journal et les recueils mentionnés aux 1° et 2° du I ci-dessus.
-
-**Nota:**
-
----[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
-entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
-sociale.*]
+II. - Mention de l'intervention des autorisations réputées acquises en application du cinquième alinéa de l'article L.
+712-16, et notamment de la date à laquelle elles sont intervenues, doit également être faite dans le journal et les recueils
+mentionnés aux 1° et 2° du I ci-dessus.
 
 **Liens relatifs à cet article**
 
@@ -93346,15 +93336,14 @@ sociale.*]
 	  - Décret n°53-1001 1953-10-05 (Décret de validation)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+	  - Décret n°95-157 du 10 février 1995 - art. 4 () JORF 17 février 1995
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L712-16 (M)
 	  - Code de la santé publique - art. R712-41 (M)
-	  - Code de la santé publique - art. R712-44 (M)
 
 	**Nouveaux textes**:
 
@@ -93373,20 +93362,14 @@ formé dans un délai de deux mois à partir de la notification de la décision 
 à compter de la publication de la décision ou de la mention de l'intervention de l'autorisation tacite au recueil des actes
 administratifs de la préfecture du département.
 
-Lorsqu'un tel recours a été formé contre une décision du préfet de région refusant une autorisation, cette autorisation est
-réputée acquise à l'expiration d'un délai de six mois à partir de la réception du recours par le ministre chargé de la santé,
-si aucune décision de sens contraire n'est intervenue dans ce délai.
+Lorsqu'un recours hiérarchique a été formé contre une décision du préfet de région accordant ou refusant la délivrance ou le
+renouvellement d'une autorisation, le recours est réputé rejeté à l'expiration d'un délai de six mois à partir de sa
+réception par le ministre chargé de la santé si aucune décision de sens contraire n'est intervenue dans ce délai.
 
 Le recours hiérarchique contre une décision d'autorisation prise par le préfet de région est notifié sans délai au
 bénéficiaire de l'autorisation par lettre recommandée avec demande d'avis de réception. La décision du ministre sur ce
 recours doit être motivée. Elle est notifiée par lettre recommandée avec demande d'avis de réception à l'auteur du recours
 hiérarchique et au bénéficiaire de l'autorisation.
-
-**Nota:**
-
----[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
-entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
-sociale.*]
 
 **Liens relatifs à cet article**
 
@@ -93395,9 +93378,9 @@ sociale.*]
 	  - Décret n°53-1001 1953-10-05 (Décret de validation)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+	  - Décret n°95-157 du 10 février 1995 - art. 5 () JORF 17 février 1995
 
 	**Cite**:
 
@@ -93460,15 +93443,10 @@ sociale.*]
 
 ###### Article R712-46
 
-Les décisions de suspension et de retrait de l'autorisation de fonctionner ou de dispenser des soins remboursables aux
-assurés sociaux, prévues aux articles L. 712-18 et L. 715-2, ainsi que les mesures prises par le ministre chargé de la santé
-en application du troisième alinéa de l'article L. 712-20 doivent être motivées.
-
-**Nota:**
-
----[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
-entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
-sociale.*]
+Les décisions de suspension et de retrait d'autorisation prévues aux articles L. 712-17-1 et L. 712-18 sont prises par le
+préfet de région. Toutefois, elles sont prises par le ministre chargé de la santé lorsqu'elles concernent une autorisation
+dont la délivrance relève de la compétence de ce ministre en vertu du deuxième alinéa de l'article L. 712-16 et du décret
+pris pour son application. Ces décisions doivent être motivées.
 
 **Liens relatifs à cet article**
 
@@ -93477,15 +93455,19 @@ sociale.*]
 	  - Décret n°53-1001 1953-10-05 (Décret de validation)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+	  - Décret n°95-157 du 10 février 1995 - art. 6 () JORF 17 février 1995
+
+	**Abrogé par**:
+
+	  - Décret n°97-703 du 29 mai 1997 - art. 2 () JORF 3 juin 1997
 
 	**Cite**:
 
+	  - Code de la santé publique - art. L712-16 (M)
+	  - Code de la santé publique - art. L712-17-1 (M)
 	  - Code de la santé publique - art. L712-18 (M)
-	  - Code de la santé publique - art. L712-20 (Ab)
-	  - Code de la santé publique - art. L715-2 (Ab)
 
 	**Nouveaux textes**:
 
@@ -93498,16 +93480,10 @@ sociale.*]
 
 ###### Article R712-47
 
-Lorsqu'une décision du préfet de région prononçant la suspension ou le retrait de l'autorisation de fonctionnement, en
-application de l'article L. 712-18 ou de l'article L. 715-2, fait l'objet du recours hiérarchique prévu au premier alinéa de
-l'article L. 712-16, la suspension ou le retrait doit être considéré comme confirmé par le ministre à l'expiration du délai
-de six mois courant de la réception du recours si aucune décision n'est intervenue dans ce délai.
-
-**Nota:**
-
----[*Nota : Décret 91-1410 du 31 décembre 1991 art. 3 II : les dispositions du présent article du code de la santé publique
-entrent en vigueur à la date d'installation du comité national et des comités régionaux de l'organisation sanitaire et
-sociale.*]
+Lorsqu'une décision du préfet de région prononçant une suspension ou un retrait d'autorisation, en application de l'article
+L. 712-17-1 ou de l'article L. 712-18, fait l'objet du recours hiérarchique prévu au premier alinéa de l'article L. 712-16,
+la suspension ou le retrait doit être considéré comme confirmé par le ministre à l'expiration du délai de six mois courant de
+la réception du recours si aucune décision n'est intervenue dans ce délai.
 
 **Liens relatifs à cet article**
 
@@ -93516,14 +93492,19 @@ sociale.*]
 	  - Décret n°53-1001 1953-10-05 (Décret de validation)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+	  - Décret n°95-157 du 10 février 1995 - art. 7 () JORF 17 février 1995
+
+	**Abrogé par**:
+
+	  - Décret n°97-703 du 29 mai 1997 - art. 2 () JORF 3 juin 1997
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L712-16 (M)
-	  - Code de la santé publique - art. L715-2 (Ab)
+	  - Code de la santé publique - art. L712-17-1 (M)
+	  - Code de la santé publique - art. L712-18 (M)
 
 
 ###### Article R712-48
