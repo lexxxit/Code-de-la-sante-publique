@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-12-11
+Version Consolidée au 1992-12-24
 
 # Partie législative ancienne
 
@@ -81368,6 +81368,350 @@ présent article du code de la santé publique.
 	**Cite**:
 
 	  - Code de la santé publique - art. R714-26-2
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+##### Sous-section 3 : Etablissements publics nationaux
+
+###### Article R716-3-57
+
+Le Centre hospitalier national d'ophtalmologie des Quinze-Vingts est un établissement public national qui contribue à
+assurer, en matière d'ophtalmologie, les missions du service public hospitalier définies à l'article L. 711-3, ainsi que la
+réadaptation fonctionnelle des aveugles. En outre, il gère à titre provisoire, et au plus tard jusqu'à l'expiration du délai
+prévu à l'article 29 de la loi n° 91-748 du 31 juillet 1991 portant réforme hospitalière, un service d'hébergement pour les
+aveugles.
+
+L'hôpital national de Saint-Maurice est un établissement public national qui assure des missions en matière de rééducation et
+de réadaptation fonctionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°91-748 1991-07-31 art. 29
+	  - Code de la santé publique - art. L711-3 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-1349 du 18 décembre 1992 - art. 1 () JORF 24 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6147-5 (M)
+	  - Code de la santé publique - art. R6147-5 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-58 (Ab)
+
+
+###### Article R716-3-58
+
+Sous réserve des dispositions de la présente sous-section, la section III du chapitre Ier et le chapitre IV du présent titre,
+ainsi que les textes pris pour leur application sont applicables aux établissements mentionnés à l'article R. 716-3-57.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1349 du 18 décembre 1992 - art. 1 () JORF 24 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R716-3-57
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-59
+
+Le conseil d'administration du centre hospitalier d'ophtalmologie des Quinze-Vingts comprend [*composition*] :
+
+1° Un conseiller d'Etat ou un conseiller maître à la Cour des comptes, président, désigné par le ministre chargé de la santé
+sur proposition du vice-président du Conseil d'Etat ou du premier président de la Cour des comptes ;
+
+2° Un membre de l'Assemblée nationale, désigné par la commission des affaires culturelles, familiales et sociales de cette
+assemblée ;
+
+3° Un membre du Sénat, désigné par la commission des affaires sociales de cette assemblée ;
+
+4° Deux membres élus en son sein par le conseil régional d'Ile-de-France ;
+
+5° Deux membres élus en son sein par le conseil de Paris ;
+
+6° Six représentants désignés par les conseils d'administration des organismes de sécurité sociale, à savoir :
+
+- un représentant de la Caisse nationale de l'assurance maladie des travailleurs salariés ;
+
+- un représentant de la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non
+agricoles ;
+
+- un représentant de la caisse centrale de secours mutuels agricoles ;
+
+- deux représentants de la caisse régionale d'assurance maladie de l'Ile-de-France ;
+
+- un représentant de la caisse chargée du versement de la dotation globale ;
+
+7° Le président et le vice-président de la commission médicale d'établissement ;
+
+8° Deux autres membres de la commission médicale d'établissement élus par celle-ci ;
+
+9° Un membre de la commission du service de soins infirmiers élu par celle-ci ;
+
+10° Trois représentants des personnels désignés sur proposition des organisations syndicales les plus représentatives parmi
+les personnels titulaires relevant du titre IV du statut général des fonctionnaires ;
+
+11° Deux membres nommés par le ministre chargé de la santé parmi les personnalités connues pour leurs travaux sur les
+problèmes hospitaliers ou pour l'intérêt qu'elles portent à la situation des aveugles, dont un médecin n'exerçant pas dans
+l'établissement, présenté conjointement par le Conseil national de l'ordre des médecins et le Syndicat national des
+ophtalmologistes et un représentant des professions paramédicales n'exerçant pas dans l'établissement, désigné parmi les
+personnes présentées par les organisations professionnelles représentatives au niveau national.
+
+12° Un ophtalmologiste, professeur titulaire et chef de service, désigné par le ministre chargé de la santé, sur proposition
+du Conseil national des universités (section Médecine).
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1349 du 18 décembre 1992 - art. 1 () JORF 24 décembre 1992
+
+	**Cité par**:
+
+	  - Décret n°97-633 du 31 mai 1997 - art. 4 (Ab)
+	  - Code de la santé publique - art. R716-3-61 (Ab)
+
+
+###### Article R716-3-60
+
+Le conseil d'administration de l'hôpital national de Saint-Maurice comprend [*composition*] :
+
+1° Un conseiller d'Etat ou un conseiller maître à la Cour des comptes, président, désigné par le ministre chargé de la santé
+sur proposition du vice-président du Conseil d'Etat ou du premier président de la Cour des comptes ;
+
+2° Un membre de l'Assemblée nationale, désigné par la commission des affaires culturelles, familiales et sociales de cette
+assemblée ;
+
+3° Un membre du Sénat, désigné par la commission des affaires sociales de cette assemblée ;
+
+4° Deux membres élus en son sein par le conseil régional d'Ile-de-France ;
+
+5° Un membre élu en son sein par le conseil général du département du Val-de-Marne ;
+
+6° Le maire de la commune de Saint-Maurice ou son représentant élu en son sein par le conseil municipal sur proposition du
+maire ;
+
+7° Six représentants désignés par les conseils d'administration des organismes de sécurité sociale, à savoir :
+
+- un représentant de la Caisse nationale de l'assurance maladie des travailleurs salariés ;
+
+- un représentant de la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non
+agricoles ;
+
+- un représentant de la Caisse centrale de secours mutuels agricoles ;
+
+- deux représentants de la caisse régionale d'assurance maladie d'Ile-de-France ;
+
+- un représentant de la caisse chargée du versement de la dotation globale ;
+
+8° Le président et le vice-président de la commission médicale d'établissement ;
+
+9° Deux autres membres de la commission médicale d'établissement élus par celle-ci ;
+
+10° Un membre de la commission du service de soins infirmiers élu par celle-ci ;
+
+11° Trois représentants des personnels désignés sur proposition des organisations syndicales les plus représentatives parmi
+les personnels titulaires relevant du titre IV du statut général des fonctionnaires ;
+
+12° Trois membres nommés par le ministre chargé de la santé parmi les personnalités connues pour leurs travaux sur les
+problèmes hospitaliers ou pour l'intérêt qu'elles portent à ceux-ci dont un médecin n'exerçant pas dans l'établissement,
+présenté conjointement par le Conseil national de l'ordre des médecins et les organisations syndicales de médecins les plus
+représentatives sur le plan national, un représentant des professions paramédicales n'exerçant pas dans l'établissement,
+désigné parmi les personnes présentées par les organisations professionnelles représentatives au niveau national, et un
+enseignant-chercheur connu pour ses travaux en santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1349 du 18 décembre 1992 - art. 1 () JORF 24 décembre 1992
+
+	**Cité par**:
+
+	  - Décret n°97-633 du 31 mai 1997 - art. 4 (Ab)
+	  - Code de la santé publique - art. R716-3-61 (Ab)
+
+
+###### Article R716-3-61
+
+Le conseil d'administration de chacun des deux établissements élit un vice-président pour trois ans [*durée du mandat*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1349 du 18 décembre 1992 - art. 1 () JORF 24 décembre 1992
+
+
+###### Article R716-3-62
+
+Le mandat des membres du conseil d'administration prend fin en même temps que le mandat ou les fonctions au titre desquels
+les intéressés ont été élus ou désignés. Le mandat du membre élu par le Sénat expire lors de chaque renouvellement de cette
+assemblée.
+
+Les dispositions de l'article R. 714-2-14, troisième alinéa, sont applicables au mandat du membre de l'Assemblée nationale en
+cas de dissolution de celle-ci.
+
+La durée du mandat des personnes nommées par le ministre chargé de la santé est fixée à trois ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1349 du 18 décembre 1992 - art. 1 () JORF 24 décembre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-2-14 (M)
+
+
+###### Article R716-3-63
+
+Un arrêté du ministre chargé de la santé fixe la composition nominative du conseil d'administration de chaque établissement.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1349 du 18 décembre 1992 - art. 1 () JORF 24 décembre 1992
+
+	**Cité par**:
+
+	  - Décret n°92-1349 du 18 décembre 1992 - art. 2 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
+
+	**Liens**:
+
+	  - SPEC_APPLI: Fin de vigueur : Date indéterminée
+
+
+###### Article R716-3-64
+
+Le contrôle de l'Etat prévu à l'article L. 714-1 est exercé sur le centre hospitalier national d'ophtalmologie des Quinze-
+Vingts par le préfet de Paris et sur l'hôpital national de Saint-Maurice par le préfet du Val-de-Marne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-1349 du 18 décembre 1992 - art. 1 () JORF 24 décembre 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-1 (M)
+
+
+###### Article R716-3-65
+
+Les opérations comptables sont réalisées, dans les conditions fixées par le décret n° 62-1587 du 29 décembre 1962 portant
+règlement général sur la comptabilité publique, par un agent comptable, nommé par arrêté conjoint du ministre chargé de la
+santé et du ministre chargé du budget.
+
+**Nota:**
+
+Décret n° 2007-1555 du 30 octobre 2007 art. 2 II 2° : La mise en place des commissions de soins infirmiers, de rééducation et
+médico-techniques doit intervenir dans les six mois suivants la publication du présent décret et entraînera l'abrogation du
+présent article du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Décret n°62-1587 du 29 décembre 1962
+
+	**Créé par**:
+
+	  - Décret n°92-1349 du 18 décembre 1992 - art. 1 () JORF 24 décembre 1992
+
+	**Abrogé par**:
+
+	  - Décret n°2007-1555 du 30 octobre 2007 - art. 2 (V) JORF 1er novembre 2007 sous réserve art. 2 II 2°
+	  - Décret n°2010-344 du 31 mars 2010 - art. 221
 
 	**Liens**:
 
