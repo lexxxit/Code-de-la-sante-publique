@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1959-01-06
+Version Consolidée au 1959-01-07
 
 # Partie législative ancienne
 
@@ -2523,6 +2523,136 @@ s'applique à la collectivité territoriale de Mayotte.*]
 	**Anciens textes**:
 
 	  - Loi n°1902-02-15 art. 18
+
+
+#### Chapitre 5-1 : Des radiations ionisantes.
+
+###### Article L44-1
+
+La vente, l'achat, l'emploi et la détention des éléments radio-actifs naturels sont soumis aux conditions déterminées par des
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Ordonnance 59-48 1959-01-06 art. 1 JORF 7 janvier 1959
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1333-1 (M)
+	  - Code de la santé publique - art. L1333-12 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L44-2 (Ab)
+	  - Code de la santé publique - art. L48-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L48-1 : DISPOSITIONS PENALES
+	  - SPEC_APPLI: Code de la santé publique L51 : non applicable aux ateliers et manufactures
+
+
+###### Article L44-2
+
+Sans préjudice des dispositions prises en application de l'article 67 du livre II du Code du travail [*article L. 231-2 :
+hygiène et sécurité dans les entreprises*], ni des dispositions prévues aux articles L. 44-1, L. 631 et suivants du présent
+code, les radiations ionisantes ne peuvent être utilisées sur le corps humain qu'à des fins exclusivement médicales de
+diagnostic et de thérapeutique.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 3.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (Loi DE VALIDATION)
+
+	**Créé par**:
+
+	  - Ordonnance 59-48 1959-01-06 art. 1 JORF 7 janvier 1959
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°59-585 du 24 avril 1959
+	  - TXT_SOURCE: Décret n°59-585 du 24 avril 1959 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°59-585 du 24 avril 1959 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L48-2 : dispositions pénales
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Cité par**:
+
+	  - Décret n°59-585 du 24 avril 1959 - art. 2 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 3 (Ab)
+	  - Décret n°2003-270 du 24 mars 2003 - art. 2 (Ab)
+	  - Code de la santé publique - art. L44-3 (Ab)
+	  - Code de la santé publique - art. L48-2 (Ab)
+
+	**Cite**:
+
+	  - Code du travail - art. L231-2 (M)
+	  - Code de la santé publique - art. L44-1 (Ab)
+	  - Code de la santé publique L44-1, L631 ET S.
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1333-12 (M)
+	  - Code de la santé publique - art. L1333-2 (T)
+
+
+###### Article L44-3
+
+Un décret en Conseil d'Etat pris sur le rapport du ministre chargé de la santé publique et de la population déterminera les
+conditions d'application de l'article L. 44-2 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Ordonnance 59-48 1959-01-06 art. 1 JORF 7 janvier 1959
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°59-585 du 24 avril 1959
+	  - TXT_SOURCE: Décret n°59-585 du 24 avril 1959 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°59-585 du 24 avril 1959 - art. 2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique L51 : non applicable aux ateliers et manufactures
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Décret n°2003-270 du 24 mars 2003 - art. 2 (Ab)
+	  - Code de la santé publique - art. L48-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1333-12 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L44-2 (M)
 
 
 #### Chapitre 6 : Dispositions pénales
