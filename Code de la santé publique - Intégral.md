@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1975-07-13
+Version Consolidée au 1975-12-27
 
 # Partie législative ancienne
 
@@ -23477,6 +23477,45 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ##### Section 4 : Règles générales de la pharmacie d'officine
 
+###### Article L588-1
+
+L'organisation des services de garde et d'urgence des officines est réglée à l'échelon départemental par les organisations
+représentatives de la profession [*attribution*].
+
+A défaut d'accord, les préfets [*autorités compétentes*] règlent par arrêté pris après avis du conseil régional de l'ordre
+des pharmaciens, des syndicats professionnels et du pharmacien inspecteur régional de la santé, les services de garde et
+d'urgence des officines compte tenu, le cas échéant, des particularités locales.
+
+Dans tous les cas, les collectivités locales sont informées de la mise en place de ces services.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 47.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°75-1226 1975-12-26 art. 3 JORF 27 décembre 1975
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 47 (Ab)
+	  - Code de la santé publique - art. R5015-49 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5125-22 (V)
+	  - Code de la santé publique - art. L5424-17 (VT)
+	  - Code de la santé publique - art. L5511-7 (M)
+
+
 ###### Article L589
 
 Il est interdit aux pharmaciens ou à leurs préposés de solliciter des commandes auprès du public [*démarchage*].
@@ -24279,6 +24318,56 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L5121-16 (M)
+
+
+###### Article L603
+
+Tout médicament préparé à l'avance en vue de l'exportation [*à l'étranger*] et présenté sous une forme utilisable sans
+transformation, notamment sous forme de spécialité pharmaceutique, doit être autorisé au préalable par le ministre de la
+santé [*autorité compétente*].
+
+Cette autorisation n'est accordée qu'à la condition que le fabricant fournisse les justifications de qualité et de contrôle
+exigées pour les médicaments mis sur le marché en France.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°68-1 1968-01-02 art. 72 ET art. 73 : AVAIT ABROGE L'ARTICLE L603 AVEC EFFET AU 1er janvier 1969
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+	**Cité par**:
+
+	  - Loi n°68-1 du 2 janvier 1968 - art. 72 (Ab)
+	  - Décret n°94-511 du 20 juin 1994 - art. 2 (Ab)
+	  - Code de la santé publique - art. L567-4 (M)
+	  - Code de la santé publique - art. L603-1 (Ab)
+	  - Code de la santé publique - art. L605 (Ab)
+	  - Code de la santé publique - art. R5142-16 (Ab)
+	  - Code de la santé publique - art. R5142-17 (Ab)
+	  - Code de la santé publique - art. R5142-18 (Ab)
+	  - Code de la santé publique - art. R5234 (Ab)
+	  - Code de la santé publique - art. R5234-3 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-1226 1975-12-26 art. 5 JORF 27 décembre 1975
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5121-20 (M)
+	  - Code de la santé publique - art. L5124-11 (V)
+	  - Code de la santé publique - art. L5423-4 (V)
 
 
 #### Chapitre 3 : Pharmacie vétérinaire
