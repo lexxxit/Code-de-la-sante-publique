@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-12-31
+Version Consolidée au 1993-01-01
 
 # Partie législative ancienne
 
@@ -14609,6 +14609,326 @@ d'assurance maladie.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L3121-2 (V)
+
+
+### Titre 8 : Lutte contre le tabagisme
+
+###### Article L355-24
+
+Toute propagande ou publicité, directe ou indirecte, en faveur du tabac ou des produits du tabac ainsi que toute distribution
+gratuite sont interdites.
+
+Ces dispositions ne s'appliquent pas aux enseignes des débits de tabac, ni aux affichettes disposées à l'intérieur de ces
+établissements, non visibles de l'extérieur, à condition que ces enseignes ou ces affichettes soient conformes à des
+caractéristiques définies par arrêté interministériel.
+
+Elles ne s'appliquent pas non plus aux publications éditées par les organisations professionnelles de producteurs, fabricants
+et distributeurs des produits de tabac et qui sont réservées à leurs adhérents, ni aux publications professionnelles
+spécialisées dont la liste sera établie par arrêté ministériel.
+
+Toute opération de parrainage est interdite lorsqu'elle a pour objet ou pour effet la propagande ou la publicité directe ou
+indirecte en faveur du tabac ou des produits du tabac.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 355-31 : sanction pénale.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 29 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Arrêté 1992-12-31 : débits de tabac - modalités d'application
+	  - TXT_ASSOCIE: Code de la santé publique - art. L355-31 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°76-616 1976-07-09 art. 2
+	  - Loi n°76-616 du 9 juillet 1976 - art. 2 (T)
+
+	**Créé par**:
+
+	  - Loi n°91-32 du 10 janvier 1991 - art. 9 () JORF 12 janvier 1991 en vigueur le 1er janvier 1993
+
+	**Modifié par**:
+
+	  - Loi n°93-121 du 27 janvier 1993 - art. 72 () JORF 30 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3511-3 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L355-31 (Ab)
+
+
+###### Article L355-26
+
+Est considérée comme propagande ou publicité indirecte toute propagande ou publicité en faveur d'un organisme, d'un service,
+d'une activité, d'un produit ou d'un article autre que le tabac ou un produit du tabac lorsque, par son graphisme, sa
+présentation, l'utilisation d'une marque, d'un emblème publicitaire ou de tout autre signe distinctif, elle rappelle le tabac
+ou un produit du tabac.
+
+Toutefois, ces dispositions ne sont pas applicables à la propagande ou à la publicité en faveur d'un produit autre que le
+tabac ou un produit du tabac qui a été mis sur le marché avant le 1er janvier 1990 par une entreprise juridiquement et
+financièrement distincte de toute entreprise qui fabrique, importe ou commercialise du tabac ou un produit du tabac. La
+création de tout lien juridique ou financier entre ces entreprises rend caduque cette dérogation.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 29 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°76-616 du 9 juillet 1976 - art. 3 (M)
+	  - Loi n°76-616 du 9 juillet 1976 - art. 3 (T)
+
+	**Créé par**:
+
+	  - Loi n°91-32 du 10 janvier 1991 - art. 9 () JORF 12 janvier 1991 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3511-4 (Ab)
+	  - Code de la santé publique - art. L3511-4 (M)
+
+
+###### Article L355-27
+
+I. - Les teneurs maximales en goudron des cigarettes sont fixées par un arrêté du ministre chargé de la santé.
+
+II. - Chaque unité de conditionnement du tabac ou des produits du tabac doit porter selon des modalités précisées par arrêté
+du ministre chargé de la santé la mention : "Nuit gravement à la santé".
+
+III.  - Chaque paquet de cigarettes porte mention :
+
+1° De la composition intégrale, sauf, s'il y a lieu, en ce qui concerne les filtres ;
+
+2° De la teneur moyenne en goudron et en nicotine.
+
+Un arrêté du ministre chargé de la santé fixe les modalités d'inscription de ces mentions obligatoires, les méthodes
+d'analyse permettant de mesurer la teneur en nicotine et en goudron et les méthodes de vérification de l'exactitude des
+mentions portées sur les paquets.
+
+Chaque paquet de cigarettes porte, en outre, dans les conditions fixées par un arrêté du ministre chargé de la santé, un
+message de caractère sanitaire.
+
+IV. - Les unités de conditionnement du tabac et des produits du tabac produites avant le 31 décembre 1991 qui ne seraient pas
+conformes aux dispositions des paragraphes II et III ci-dessus peuvent être commercialisées jusqu'au 31 décembre 1992 en ce
+qui concerne les cigarettes et jusqu'au 31 décembre 1993 en ce qui concerne les autres produits du tabac, à condition
+toutefois, d'une part, de comporter mention de la composition intégrale, sauf, s'il y a lieu, en ce qui concerne les filtres,
+et de la teneur moyenne en goudron et en nicotine et, d'autre part, d'indiquer, en caractères parfaitement apparents, la
+mention : "abus dangereux".
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 355-31 : sanction pénale.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 29 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°76-616 du 9 juillet 1976 - art. 9 (M)
+	  - Loi n°76-616 du 9 juillet 1976 - art. 9 (T)
+
+	**Créé par**:
+
+	  - Loi n°91-32 du 10 janvier 1991 - art. 9 () JORF 12 janvier 1991 en vigueur le 1er janvier 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3511-6 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L355-31 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L355-31 (Ab)
+
+
+###### Article L355-28
+
+Il est interdit de fumer dans les lieux affectés à un usage collectif, notamment scolaire, et dans les moyens de transport
+collectif, sauf dans les emplacements expressément réservés aux fumeurs.
+
+Un décret en Conseil d'Etat fixe les conditions d'application de l'alinéa précédent.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 29 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3511-7 (Ab)
+	  - Code de la santé publique - art. L3511-7 (M)
+
+	**Anciens textes**:
+
+	  - Loi n°76-616 du 9 juillet 1976 - art. 16 (M)
+	  - Loi n°76-616 du 9 juillet 1976 - art. 16 (T)
+
+	**Créé par**:
+
+	  - Loi n°91-32 du 10 janvier 1991 - art. 9 () JORF 12 janvier 1991 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L355-29
+
+Une information de nature sanitaire prophylactique et psychologique sera dispensée dans les établissements scolaires et à
+l'armée.
+
+**Nota:**
+
+[*Nota - Loi 91-32 du 10 janvier 1991 art. 8 : sanction pénale.
+
+Ordonnance 92-1070 du 1er octobre 1992 art. 29 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
+s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°76-616 du 9 juillet 1976 - art. 6 (T)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-32 1991-01-10 art. 8
+
+	**Créé par**:
+
+	  - Loi n°91-32 du 10 janvier 1991 - art. 9 () JORF 12 janvier 1991 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3511-9 (Ab)
+	  - Code de la santé publique - art. L3511-9 (M)
+
+
+###### Article L355-30
+
+Sont considérés comme médicaments et soumis aux dispositions du livre V, les produits présentés comme supprimant l'envie de
+fumer ou réduisant l'accoutumance au tabac.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 29 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°76-616 du 9 juillet 1976 - art. 17 (T)
+
+	**Créé par**:
+
+	  - Loi n°91-32 1991-01-10 art. 9 I, II et III JORF 12 janvier 1991 en vigueur le 1er janvier 1993
+	  - Loi n°91-32 du 10 janvier 1991 - art. 9 () JORF 12 janvier 1991 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5121-2 (V)
+
+
+###### Article L355-32
+
+Les associations dont l'objet statutaire comporte la lutte contre le tabagisme, régulièrement déclarées depuis au moins cinq
+ans à la date des faits, peuvent exercer les droits reconnus à la partie civile pour les infractions aux dispositions du
+présent titre.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 29 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°76-616 du 9 juillet 1976 - art. 18 (M)
+	  - Loi n°76-616 du 9 juillet 1976 - art. 18 (T)
+
+	**Créé par**:
+
+	  - Loi n°91-32 1991-01-10 art. 9 I, II et III JORF 12 janvier 1991 en vigueur le 1er janvier 1993
+	  - Loi n°91-32 du 10 janvier 1991 - art. 9 () JORF 12 janvier 1991 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3512-1 (M)
 
 
 ## LIVRE 4 : PROFESSIONS MEDICALES ET AUXILIAIRES MEDICAUX
@@ -37813,9 +38133,9 @@ Comité national de l'organisation sanitaire et sociale.
 
 Le comité national et les comités régionaux de l'organisation sanitaire et sociale comprennent [*composition*] :
 
-1° Un député, désigné par la commission des affaires culturelles, familiales et sociales de l'Assemblée nationale ;
+1° (abrogé)
 
-2° Un sénateur, désigné par la commission des affaires sociales du Sénat ;
+2° (abrogé)
 
 3° Des représentants de l'Etat, des collectivités territoriales et des organismes de sécurité sociale ;
 
@@ -37832,8 +38152,10 @@ notamment des établissements spécialisés ;
 
 Ils comportent des sections.
 
-Le comité national est présidé par un conseiller d'Etat ou par un conseiller maître à la Cour des comptes. Un collège
-national d'experts, dont la composition est fixée par décret, est constitué auprès du comité national.
+Le comité national comprend en outre un député désigné par la commission des affaires culturelles, familiales et sociales de
+l'Assemblée nationale et un sénateur désigné par la commission des affaires sociales du Sénat. Il est présidé par un
+conseiller d'Etat ou par un conseiller mai^tre à la Cour des comptes. Un collège national d'experts, dont la composition est
+fixée par décret, est constitué auprès du comité national.
 
 Les comités régionaux sont présidés par un magistrat du corps des cours administratives d'appel et des tribunaux
 administratifs ou du corps des conseillers de chambres régionales des comptes.
@@ -37875,10 +38197,9 @@ dépenses des régimes d'assurance maladie dans la région pour l'année écoul�
 	  - Code de la santé publique - art. R791-2-22 (Ab)
 	  - Code de la sécurité sociale. - art. D412-79 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-	  - Loi n°91-748 du 31 juillet 1991 - art. 4 () JORF 2 août 1991
+	  - Loi n°92-722 du 29 juillet 1992 - art. 25 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
 
 	**Liens**:
 
@@ -47381,6 +47702,511 @@ Ces documents doivent nécessairement comporter les mentions suivantes :
 	**Cite**:
 
 	  - Code de la santé publique - art. R2047 (M)
+
+
+## Livre 3 : Lutte contre les fléaux sociaux
+
+### Titre 8 : Lutte contre le tabagisme
+
+#### Chapitre 1 : Interdiction de fumer dans les lieux affectés à un usage collectif.
+
+###### Article R355-28-1
+
+L'interdiction de fumer dans les lieux affectés à un usage collectif prévue par l'article 16 de la loi du 9 juillet 1976
+susvisée s'applique [*champ d'application*] dans tous les lieux fermés et couverts accueillant du public ou qui constituent
+les lieux de travail.
+
+Elle s'applique également dans les moyens de transport collectif et, en ce qui concerne les écoles, collèges et lycées
+publics et privés, dans les lieux non couverts fréquentés par les élèves pendant la durée de cette fréquentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Loi n°76-616 du 9 juillet 1976 - art. 16 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°92-478 1992-05-29 art. 1
+	  - Décret n°92-478 du 29 mai 1992 - art. 1 (T)
+
+	**Créé par**:
+
+	  - Décret n°92-478 du 29 mai 1992 - art. 1 (T) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-478 du 29 mai 1992 - art. 17 (V) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R3511-1 (AbD)
+	  - Code de la santé publique - art. R3511-1 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R355-28-2 (Ab)
+	  - Code de la santé publique - art. R355-28-6 (Ab)
+
+
+###### Article R355-28-2
+
+L'interdiction de fumer ne s'applique pas dans les emplacements qui, sauf impossibilité, sont mis à la disposition des
+fumeurs, au sein des lieux visés à l'article R. 355-28-1. Ces emplacements sont déterminés par la personne ou l'organisme,
+privé ou public, sous l'autorité duquel sont placés ces lieux, en tenant compte de leur volume, disposition, condition
+d'utilisation, d'aération et de ventilation et de la nécessité d'assurer la protection des non-fumeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°92-478 1992-05-29 art. 2
+	  - Décret n°92-478 du 29 mai 1992 - art. 2 (T)
+
+	**Créé par**:
+
+	  - Décret n°92-478 du 29 mai 1992 - art. 17 (V) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-478 du 29 mai 1992 - art. 2 (T) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R3511-2 (AbD)
+	  - Code de la santé publique - art. R3511-2 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R355-28-1 (Ab)
+
+
+###### Article R355-28-3
+
+Sans préjudice des dispositions particulières des articles R. 355-28-8 à R. 355-28-12, et de l'article 74-1 du décret du 22
+mars 1942 modifié sur la police, la sûreté et l'exploitation des voies ferrées d'intérêt général et d'intérêt local, les
+emplacements mis à disposition des fumeurs sont soit des locaux spécifiques, soit des espaces délimités.
+
+Ces locaux ou espaces doivent respecter les normes suivantes :
+
+a) Débit minimal de ventilation de 7 litres par seconde et par occupant, pour les locaux dont la ventilation est assurée de
+façon mécanique ou naturelle par conduits ;
+
+b) Volume minimal de 7 mètres cubes par occupant, pour les locaux dont la ventilation est assurée par des ouvrants
+extérieurs.
+
+Un arrêté pris par le ministre de la santé conjointement, s'il y a lieu, avec le ministre compétent, peut établir des normes
+plus élevées pour certains locaux en fonction de leurs conditions d'utilisation.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1942-03-22 art. 74-1
+	  - Code de la santé publique R355-28-8 à R355-28-12
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°92-478 1992-05-29 art. 3
+	  - Décret n°92-478 du 29 mai 1992 - art. 3 (T)
+
+	**Créé par**:
+
+	  - Décret n°92-478 du 29 mai 1992 - art. 17 (V) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-478 du 29 mai 1992 - art. 3 (T) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R3511-3 (Ab)
+	  - Code de la santé publique - art. R3511-3 (AbD)
+
+
+###### Article R355-28-4
+
+I. - Sous réserve de l'application des articles suivants : dans les établissements mentionnés aux articles L. 231-1 et L.
+231-1-1 du code du travail, il est interdit de fumer dans les locaux clos et couverts, affectés à l'ensemble des salariés,
+tels que les locaux d'accueil et de réception, les locaux affectés à la restauration collective, les salles de réunion et de
+formation, les salles et espaces de repos, les locaux réservés aux loisirs, à la culture et au sport, les locaux sanitaires
+et médico-sanitaires.
+
+II. - L'employeur établit, après consultation du médecin du travail, du comité d'hygiène et de sécurité et des conditions de
+travail ou, à défaut, des délégués du personnel :
+
+a) Pour les locaux mentionnés au I ci-dessus, un plan d'aménagement des espaces qui peuvent être, le cas échéant,
+spécialement réservés aux fumeurs ;
+
+b) Pour les locaux de travail autres que ceux prévus au I ci-dessus, un plan d'organisation ou d'aménagement destiné à
+assurer la protection des non-fumeurs. Ce plan est actualisé en tant que de besoin tous les deux ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°92-478 1992-05-29 art. 4
+	  - Décret n°92-478 du 29 mai 1992 - art. 4 (T)
+
+	**Créé par**:
+
+	  - Décret n°92-478 du 29 mai 1992 - art. 17 (V) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-478 du 29 mai 1992 - art. 4 (T) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Cite**:
+
+	  - Code du travail - art. L231-1 (M)
+	  - Code du travail - art. L231-1-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R3511-4 (AbD)
+	  - Code de la santé publique - art. R3511-5 (AbD)
+
+
+###### Article R355-28-5
+
+La décision de mettre des emplacements à la disposition des fumeurs est soumise à la consultation, lorsqu'elles existent, des
+instances représentatives du personnel compétentes en matière d'hygiène, de sécurité et de conditions de travail, ainsi que
+du médecin du travail.
+
+Cette consultation est renouvelée au moins tous les deux ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°92-478 1992-05-29 art. 5
+	  - Décret n°92-478 du 29 mai 1992 - art. 5 (T)
+
+	**Créé par**:
+
+	  - Décret n°92-478 du 29 mai 1992 - art. 17 (V) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-478 du 29 mai 1992 - art. 5 (T) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R3511-6 (Ab)
+	  - Code de la santé publique - art. R3511-6 (AbD)
+
+
+###### Article R355-28-6
+
+Une signalisation apparente rappelle le principe de l'interdiction de fumer dans les lieux visés à l'article R. 355-28-1, et
+indique les emplacements mis à la disposition des fumeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°92-478 1992-05-29 art. 6
+	  - Décret n°92-478 du 29 mai 1992 - art. 6 (T)
+
+	**Créé par**:
+
+	  - Décret n°92-478 du 29 mai 1992 - art. 17 (V) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-478 du 29 mai 1992 - art. 6 (T) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R3511-7 (Ab)
+	  - Code de la santé publique - art. R3511-7 (AbD)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R355-28-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R355-28-13 (Ab)
+
+
+###### Article R355-28-7
+
+Les dispositions du présent décret s'appliquent sans préjudice des dispositions législatives et réglementaires concernant
+l'hygiène et la sécurité, notamment celle du titre III du livre II du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°92-478 1992-05-29 art. 7
+	  - Décret n°92-478 du 29 mai 1992 - art. 7 (T)
+
+	**Créé par**:
+
+	  - Décret n°92-478 du 29 mai 1992 - art. 17 (V) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-478 du 29 mai 1992 - art. 7 (T) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R3511-8 (AbD)
+	  - Code de la santé publique - art. R3511-8 (V)
+
+
+###### Article R355-28-8
+
+Dans l'enceinte des établissements d'enseignement publics et privés, ainsi que dans tous les locaux utilisés pour
+l'enseignement, des salles spécifiques, distinctes des salles réservées aux enseignants, peuvent être mises à la disposition
+des enseignants et des personnels fumeurs.
+
+En outre, dans l'enceinte des lycées, lorsque les locaux sont distincts de ceux des collèges, et dans les établissements
+publics et privés dans lesquels sont dispensés l'enseignement supérieur et la formation professionnelle, des salles, à
+l'exclusion des salles d'enseignement, de travail et de réunion, peuvent être mises à la disposition des usagers fumeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°92-478 1992-05-29 art. 8
+	  - Décret n°92-478 du 29 mai 1992 - art. 8 (T)
+
+	**Créé par**:
+
+	  - Décret n°92-478 du 29 mai 1992 - art. 17 (V) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-478 du 29 mai 1992 - art. 8 (T) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R3511-9 (Ab)
+
+
+###### Article R355-28-9
+
+Dans les locaux à usage collectif utilisés pour l'accueil et l'hébergement des mineurs de moins de seize ans, ceux-ci n'ont
+pas accès aux emplacements mis à la disposition des fumeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°92-478 1992-05-29 art. 9
+	  - Décret n°92-478 du 29 mai 1992 - art. 9 (T)
+
+	**Créé par**:
+
+	  - Décret n°92-478 du 29 mai 1992 - art. 17 (V) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-478 du 29 mai 1992 - art. 9 (T) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R3511-10 (Ab)
+
+
+###### Article R355-28-10
+
+Dans les aéronefs commerciaux français ou exploités conformément à la réglementation française, à l'exception des vols
+intérieurs d'une durée inférieure à deux heures, des places peuvent être réservées aux fumeurs à condition que la disposition
+des places permette d'assurer la protection des non-fumeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°92-478 1992-05-29 art. 11
+	  - Décret n°92-478 du 29 mai 1992 - art. 11 (T)
+
+	**Créé par**:
+
+	  - Décret n°92-478 du 29 mai 1992 - art. 11 (T) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-478 du 29 mai 1992 - art. 17 (V) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R3511-11 (Ab)
+
+
+###### Article R355-28-11
+
+A bord des navires de commerce et à bord des bateaux de transports fluviaux, y compris les bateaux stationnaires recevant du
+public, exploités conformément à la réglementation française, une organisation des espaces, éventuellement modulable, peut
+être prévue pour mettre des places à la disposition des fumeurs, dans la limite de 30 p. 100 de la surface des salles à usage
+de bar, de loisirs et de repos et de celle des cabines collectives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°92-478 1992-05-29 art. 12
+	  - Décret n°92-478 du 29 mai 1992 - art. 12 (T)
+
+	**Créé par**:
+
+	  - Décret n°92-478 du 29 mai 1992 - art. 12 (T) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-478 du 29 mai 1992 - art. 17 (V) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R3511-12 (Ab)
+
+
+###### Article R355-28-12
+
+Dans les locaux commerciaux, où sont consommés sur place des denrées alimentaires et des boissons, à l'exception des
+voitures-bar des trains, une organisation des lieux, éventuellement modulable, peut être prévue pour mettre des espaces à la
+disposition des usagers fumeurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°92-478 1992-05-29 art. 13
+	  - Décret n°92-478 du 29 mai 1992 - art. 13 (T)
+
+	**Créé par**:
+
+	  - Décret n°92-478 du 29 mai 1992 - art. 13 (T) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-478 du 29 mai 1992 - art. 17 (V) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R3511-13 (AbD)
+	  - Code de la santé publique - art. R3511-13 (M)
+
+
+###### Article R355-28-13
+
+Sera puni de l'amende prévue pour les contraventions de la 3e classe quiconque aura fumé dans l'un des lieux visés à
+l'article 1er du présent décret, hors d'un emplacement mis à la disposition des fumeurs.
+
+Sera puni de l'amende prévue pour les contraventions de la 5e classe :
+
+a) Quiconque aura réservé aux fumeurs des emplacements non conformes aux dispositions du présent chapitre et de l'article
+74-1 du décret du 22 mars 1942 modifié sur la police, la sûreté et l'exploitation des voies ferrées d'intérêt général local ;
+
+b) Quiconque n'aura pas respecté les normes de ventilation prévues par l'article 3 du présent décret ;
+
+c) Quiconque n'aura pas mis en place la signalisation prévue à l'article R. 355-28-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°92-478 1992-05-29 art. 14
+	  - Décret n°92-478 du 29 mai 1992 - art. 14 (T)
+
+	**Créé par**:
+
+	  - Décret n°92-478 du 29 mai 1992 - art. 14 (T) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+	  - Décret n°92-478 du 29 mai 1992 - art. 17 (V) JORF 30 mai 1992 en vigueur le 1er janvier 1993
+
+	**Abrogé par**:
+
+	  - Décret n°2003-462 2003-05-21 art. 4 2° JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R3512-1 (M)
+	  - Code de la santé publique - art. R3512-2 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R355-28-6 (Ab)
+	  - Décret n°1942-03-22 art. 74-1
 
 
 ## Livre 5 : Pharmacie
@@ -68510,7 +69336,8 @@ service public hospitalier ;
 16° Quatre représentants des syndicats médicaux les plus représentatifs, dont au moins deux au titre des syndicats de
 médecins hospitaliers publics ;
 
-17° Un représentant des médecins salariés exerçant dans les établissements privés participant au service public hospitalier ;
+17° Un médecin salarié, désigné par le ministre chargé de la santé, exerçant dans un établissement de santé privé participant
+au service public hospitalier ;
 
 18° Deux représentants des organisations syndicales les plus représentatives des personnels hospitaliers non médicaux, dont
 un au titre des personnels hospitaliers publics ;
@@ -68558,8 +69385,19 @@ c) Caisse nationale d'assurance vieillesse des travailleurs salariés ;
 
 d) Caisse nationale des allocations familiales ;
 
-13° Cinq représentants des organisations les plus représentatives des institutions sociales et médico-sociales, dont deux au
-titre des institutions publiques ;
+13° Quinze représentants des organisations les plus représentatives des institutions sociales et médico-sociales, dont cinq
+représentants des institutions accueillant des personnes handicapées, cinq représentants des institutions accueillant des
+personnes inadaptées et cinq représentants des institutions accueillant des personnes âgées. Les institutions publiques
+comptent deux représentants au sein de chacune de ces trois catégories.
+
+Sous réserve des dispositions de l'alinéa ci-après, les cinq représentants de chacune desdites catégories siègent avec voix
+délibérative pour les questions inscrites à l'ordre du jour concernant la catégorie qu'ils représentent. Les représentants
+des catégories non concernées peuvent alors participer aux débats avec voix consultative.
+
+Au début de chaque année, les cinq représentants de chaque catégorie désignent parmi eux deux membres, dont un représentant
+des institutions publiques ; lorsqu'une question inscrite à l'ordre du jour concerne plus d'une catégorie, les membres ainsi
+désignés des catégories concernées siègent alors avec voix délibérative, les autres représentants pouvant participer aux
+débats avec voix consultative.
 
 14° Deux représentants des syndicats médicaux les plus représentatifs ;
 
@@ -68569,7 +69407,9 @@ sociales et médico-sociales, dont un au titre des personnels des institutions p
 16° Un représentant des usagers des institutions sociales et médico-sociales ;
 
 17° Trois personnalités qualifiées désignées par le ou les ministres chargés de l'action sociale, de la santé et de la
-sécurité sociale, dont une sur proposition de la Fédération nationale de la mutualité française et un travailleur social.
+sécurité sociale, dont une sur proposition de la Fédération nationale de la mutualité française, une sur proposition du
+ministre chargé de l'éducation nationale, qui siège seulement dans les cas prévus au deuxième alinéa de l'article R. 712-32,
+et un travailleur social.
 
 **Liens relatifs à cet article**
 
@@ -68578,9 +69418,9 @@ sécurité sociale, dont une sur proposition de la Fédération nationale de la 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+	  - Décret n°92-1439 du 30 décembre 1992 - art. 2 () JORF 31 décembre 1991 en vigueur le 1er janvier 1993
 
 	**Nouveaux textes**:
 
@@ -68838,99 +69678,110 @@ l'organisation sanitaire et sociale, figurant aux articles R712-22 à R712-36 du
 I. - Outre le président ou son suppléant, la section sanitaire du comité régional de l'organisation sanitaire et sociale
 comprend [*composition*] :
 
-1° Un député désigné par la commission des affaires culturelles, familiales et sociales de l'Assemblée nationale ;
+1° Le directeur régional des affaires sanitaires et sociales, vice-président, et le médecin inspecteur régional de santé
+publique ou leur représentant ;
 
-2° Un sénateur désigné par la commission des affaires sociales du Sénat ;
+2° Le trésorier-payeur général de la région ou son représentant ;
 
-3° Le directeur régional des affaires sanitaires et sociales, vice-président, et le médecin inspecteur régional de la santé
-ou leur représentant ;
-
-4° Un trésorier-payeur général de la région ;
-
-5° Deux fonctionnaires des directions départementales de l'action sanitaire et sociale de la région, désignés par le préfet
+3° Deux fonctionnaires des directions départementales des affaires sanitaires et sociales de la région désignés par le préfet
 de région ;
 
-6° Un conseiller régional désigné par le conseil régional ;
+4° Un conseiller régional désigné par le conseil régional ;
 
-7° Un conseiller général désigné par le ministre chargé de la santé sur propositions des associations représentatives au plan
-national des présidents du conseil général ;
+5° Un conseiller général désigné par le préfet de région sur proposition des associations représentatives au plan national
+des présidents de conseil général ;
 
-8° Un maire désigné par le ministre chargé de la santé sur propositions des associations représentatives au plan national des
-maires ;
+6° Un maire désigné par le préfet de région sur proposition des associations représentatives au plan national des maires ;
 
-9° Quatre représentants de la caisse régionale d'assurance maladie des travailleurs salariés, dont le directeur et le
-médecin-conseil régional. Dans la région Alsace, l'un des sièges est attribué à la caisse régionale vieillesse. Dans la
-région Ile-de-France, un siège est attribué à la Caisse nationale d'assurance vieillesse des travailleurs salariés ;
+7° Quatre représentants de la caisse régionale d'assurance maladie des travailleurs salariés dont le directeur et le médecin-
+conseil régional ou leur représentant. Dans la région Alsace, l'un des sièges est attribué à la caisse régionale vieillesse.
+Dans la région Ile-de-France, l'un des sièges est attribué à la Caisse nationale d'assurance vieillesse des travailleurs
+salariés ;
 
-10° Deux représentants des régimes d'assurance maladie autres que le régime général ; ces régimes sont déterminés par le
+8° Deux représentants des régimes d'assurance maladie autres que le régime général ; ces régimes sont déterminés par le
 préfet de région en fonction du nombre de leurs ressortissants ;
 
-11° Quatre représentants des organisations d'hospitalisation publique les plus représentatives au plan régional ;
+9° Quatre représentants des organisations d'hospitalisation publique les plus représentatives au plan régional ;
 
-12° Trois présidents de commission médicale d'établissement public de santé désignés par le préfet de région sur proposition
+10° Trois présidents de commission médicale d'établissement public de santé désignés par le préfet de région sur proposition
 de leurs conférences respectives ;
 
-13° Quatre représentants des organisations d'hospitalisation privée les plus représentatives au plan régional, dont au moins
+11° Quatre représentants des organisations d'hospitalisation privée les plus représentatives au plan régional, dont au moins
 un au titre des établissements privés participant au service public hospitalier et un médecin exerçant dans un établissement
 de santé privé ne participant pas au service public hospitalier ;
 
-14° Quatre représentants des syndicats médicaux les plus représentatifs au plan régional, dont deux au titre des syndicats de
-médecins hospitaliers publics ;
+12° Quatre représentants des syndicats médicaux les plus représentatifs au plan régional, dont au moins deux au titre des
+syndicats de médecins hospitaliers publics ;
 
-15° Un médecin exerçant dans un établissement privé participant au service public hospitalier ;
+13° Un médecin salarié, désigné par le préfet de région, exerçant dans un établissement privé participant au service public
+hospitalier ;
 
-16° Deux représentants des organisations syndicales des personnels non médicaux hospitaliers les plus représentatives au plan
+14° Deux représentants des organisations syndicales des personnels non médicaux hospitaliers les plus représentatives au plan
 régional, dont un représentant des personnels hospitaliers publics ;
 
-17° Un représentant des usagers des institutions et établissements de santé ;
+15° Un représentant des usagers des institutions et établissements de santé ;
 
-18° Deux personnalités qualifiées désignées par le préfet de la région, dont une sur proposition de la Fédération nationale
-de la mutualité française et un infirmier.
+16° Deux personnalités qualifiées désignées par le préfet de région, dont une sur proposition de la Fédération nationale de
+la mutualité française et un infirmier.
 
 II. - Outre le président ou son suppléant, la section sociale du comité régional de l'organisation sanitaire et sociale
 comprend :
 
-1° Le député désigné par la commission des affaires culturelles, familiales et sociales de l'Assemblée nationale et mentionné
-au I (1°) du présent article ;
+1° Le directeur régional des affaires sanitaires et sociales, vice-président, et le médecin inspecteur régional de santé
+publique, ou leur représentant ;
 
-2° Le sénateur désigné par la commission des affaires sociales du Sénat et mentionné au I (2°) du présent article ;
+2° Le trésorier-payeur général de la région ou son représentant ;
 
-3° Le directeur régional des affaires sanitaires et sociales, vice-président, et le médecin inspecteur régional de la santé
-ou leur représentant ;
+3° Le directeur régional de la protection judiciaire de la jeunesse, ou son représentant, et un directeur départemental des
+affaires sanitaires et sociales désigné par le préfet de région ;
 
-4° Un trésorier-payeur général de la région ;
+4° Un conseiller régional désigné par le conseil régional ;
 
-5° Le directeur régional de la protection judiciaire de la jeunesse et un directeur départemental de l'action sanitaire et
-sociale désigné par le préfet de région ;
+5° Deux présidents ou vice-présidents de conseil général désignés par le préfet de région sur proposition des associations
+représentatives au plan national des présidents de conseil général ;
 
-6° Un conseiller régional désigné par le conseil régional ;
+6° Un maire désigné par le préfet de région sur proposition des associations représentatives au plan national des maires ;
 
-7° Deux présidents ou vice-présidents de conseil général désignés par le ministre chargé de l'action sociale sur proposition
-des associations représentatives au plan national des présidents de conseil général ;
+7° Quatre représentants de la caisse régionale d'assurance maladie des travailleurs salariés, dont le directeur et le
+médecin-conseil régional ou leur représentant. Dans la région Alsace l'un des sièges est attribué à la caisse régionale
+vieillesse. Dans la région Ile-de-France, l'un des sièges est attribué à la Caisse nationale d'assurance vieillesse des
+travailleurs salariés ;
 
-8° Un maire désigné par le ministre chargé de l'action sociale sur propositions des associations représentatives au plan
-national des maires ;
-
-9° Quatre représentants de la caisse régionale d'assurance maladie des travailleurs salariés, dont le directeur et un
-médecin-conseil régional ou leur représentant. Dans la région Alsace un des sièges est attribué à la caisse régionale
-vieillesse. Dans la région Ile-de-France, un siège est attribué à la Caisse nationale d'assurance vieillesse des travailleurs
-salariés ;
-
-10° Deux représentants des régimes d'assurance maladie autres que le régime général ; ces régimes sont déterminés par le
+8° Deux représentants des régimes d'assurance maladie autres que le régime général ; ces régimes sont déterminés par le
 préfet de région en fonction du nombre de leurs ressortissants ;
 
-11° Cinq représentants des organisations les plus représentatives, au plan régional, des institutions sociales et médico-
-sociales, dont deux au titre des institutions publiques ;
+9° Quinze représentants des organisations les plus représentatives des institutions sociales et médico-sociales, dont cinq
+représentants des institutions accueillant des personnes handicapées, cinq représentants des institutions accueillant des
+personnes inadaptées et cinq représentants des institutions accueillant des personnes âgées. Les institutions publiques
+comptent deux représentants au sein de chacune de ces trois catégories.
 
-12° Deux représentants des syndicats médicaux les plus représentatifs dans la région ;
+Sous réserve des dispositions de l'alinéa ci-après, les cinq représentants de chacune desdites catégories siègent avec voix
+délibérative pour les questions inscrites à l'ordre du jour concernant la catégorie qu'ils représentent. Les représentants
+des catégories non concernées peuvent alors participer aux débats avec voix consultative.
 
-13° Deux représentants des organisations syndicales les plus représentatives, au plan régional, des personnels non médicaux
+Au début de chaque année, les cinq représentants de chaque catégorie désignent parmi eux deux membres, dont un représentant
+des institutions publiques ; lorsqu'une question inscrite à l'ordre du jour concerne plus d'une catégorie, les membres ainsi
+désignés des catégories concernées siègent alors avec voix délibérative, les autres représentants pouvant participer aux
+débats avec voix consultative.
+
+10° Deux représentants des syndicats médicaux les plus représentatifs dans la région ;
+
+11° Deux représentants des organisations syndicales les plus représentatives, au plan régional, des personnels non médicaux
 des institutions sociales et médico-sociales, dont un au titre des personnels des institutions publiques ;
 
-14° Un représentant des usagers des institutions sociales et médico-sociales ;
+12° Un représentant des usagers des institutions sociales et médico-sociales ;
 
-15° Quatre personnalités qualifiées désignées par le préfet de région, dont une sur proposition de la Fédération nationale de
-la mutualité française et un travailleur social.
+13° Le recteur de l'académie ou son représentant qui siège seulement dans les cas prévus au deuxième alinéa de l'article R.
+712-32 et trois personnalités qualifiées désignées par le préfet de région dont :
+
+- une personnalité proposée par la Fédération nationale de la mutualité française ;
+
+- un travailleur social.
+
+**Nota:**
+
+Nota : Décret 2004-65 2004-01-15 art. 14 : les dispositions relatives à la section sociale des comités régionaux de
+l'organisation sanitaire et sociale, figurant aux articles R712-22 à R712-36 du code de la santé publique, sont supprimées.
 
 **Liens relatifs à cet article**
 
@@ -68939,9 +69790,10 @@ la mutualité française et un travailleur social.
 	  - Décret n°53-1001 1953-10-05 (Décret de validation)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+	  - Décret n°92-1439 du 30 décembre 1992 - art. 3 () JORF 31 décembre 1991 en vigueur le 1er janvier 1993
+	  - Décret n°92-1439 du 30 décembre 1992 - art. 4 () JORF 31 décembre 1991 en vigueur le 1er janvier 1993
 
 	**Cité par**:
 
@@ -68960,8 +69812,8 @@ la mutualité française et un travailleur social.
 ###### Article R712-27
 
 Dans chaque région d'outre-mer, les deux sections du comité régional de l'organisation sanitaire et sociale sont composées
-conformément aux dispositions de l'article R. 712-26, à l'exclusion des membres prévus aux I (3°, 5°, 9°, 10°) et II (3°, 5°,
-9°, 10°) de cet article, et auxquels sont substitués :
+conformément aux dispositions de l'article R. 712-26, à l'exclusion des membres prévus aux I (1°, 3°, 7°, 8°) et II (1°, 3°,
+7°, 8°) de cet article, et auxquels sont substitués :
 
 a) Le directeur départemental des affaires sanitaires et sociales, vice-président, et le médecin inspecteur régional de la
 santé pour la Guadeloupe, la Martinique, la Guyane et la Réunion, ou leur représentant ;
@@ -68981,6 +69833,9 @@ fonction du nombre de ressortissants de chacun de ces régimes.
 *Nota : Loi d'orientation 92-125 du 6 février 1992 art. 3 : Dans tous les textes législatifs et réglementaires, la référence
 à "services extérieurs" est remplacée par la référence à "services déconcentrés".
 
+Nota : Décret 2004-65 2004-01-15 art. 14 : les dispositions relatives à la section sociale des comités régionaux de
+l'organisation sanitaire et sociale, figurant aux articles R712-22 à R712-36 du code de la santé publique, sont supprimées.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -68988,9 +69843,9 @@ fonction du nombre de ressortissants de chacun de ces régimes.
 	  - Décret n°53-1001 1953-10-05 (Décret de validation)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+	  - Décret n°92-1439 du 30 décembre 1992 - art. 5 () JORF 31 décembre 1991 en vigueur le 1er janvier 1993
 
 	**Nouveaux textes**:
 
@@ -69095,6 +69950,19 @@ membre prend fin à la date à laquelle aurait cessé celui du membre qu'il a re
 En cas de suspension ou de dissolution du conseil d'administration d'un organisme de sécurité sociale, le mandat est continué
 jusqu'au jour de la nomination des membres proposés par le nouveau conseil.
 
+Lorsque des services de l'Etat, des organismes, institutions, groupements ou syndicats sont représentés au sein des deux
+sections, sanitaire et sociale, leur représentation dans le comité en formation plénière ne peut être supérieure au plus
+grand nombre de sièges dont ils disposent au même titre dans l'une de ces deux sections.
+
+Lorsque le comité siège en formation plénière et qu'une question inscrite à l'ordre du jour concerne plus d'une des trois
+catégories d'institutions sociales et médico-sociales mentionnées au 13° du II de l'article R. 712-19 et au 9° du II de
+l'article R. 712-26, les dispositions du dernier alinéa de ce 13° et de ce 9° sont applicables.
+
+**Nota:**
+
+Nota : Décret 2004-65 2004-01-15 art. 14 : les dispositions relatives à la section sociale des comités régionaux de
+l'organisation sanitaire et sociale, figurant aux articles R712-22 à R712-36 du code de la santé publique, sont supprimées.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -69102,13 +69970,18 @@ jusqu'au jour de la nomination des membres proposés par le nouveau conseil.
 	  - Décret n°53-1001 1953-10-05 (Décret de validation)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+	  - Décret n°92-1439 du 30 décembre 1992 - art. 6 () JORF 31 décembre 1991 en vigueur le 1er janvier 1993
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R6122-28 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R712-19 (M)
+	  - Code de la santé publique - art. R712-26 (M)
 
 	**Cité par**:
 
@@ -69153,6 +70026,11 @@ L'ordre du jour est fixé par le ou les ministres chargés de l'action sociale, 
 concerne le Comité national de l'organisation sanitaire et sociale, et par le préfet de région en ce qui concerne le comité
 régional.
 
+La personnalité qualifiée désignée sur proposition du ministre de l'éducation nationale et le recteur d'académie ou son
+représentant respectivement mentionnés au 17° du II de l'article R. 712-19 et au 13° du II de l'article R. 712-26 ne siègent
+que lorsque les questions inscrites à l'ordre du jour du comité concernent des institutions accueillant des personnes
+handicapées.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -69160,9 +70038,9 @@ régional.
 	  - Décret n°53-1001 1953-10-05 (Décret de validation)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°91-1410 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
+	  - Décret n°92-1439 du 30 décembre 1992 - art. 7 () JORF 31 décembre 1991 en vigueur le 1er janvier 1993
 
 	**Nouveaux textes**:
 
@@ -83310,6 +84188,62 @@ selon des modalités fixées par le règlement intérieur de l'établissement.
 	  - Code de la santé publique - art. R716-3-43 (M)
 
 
+##### Sous-section 4 : Composition des groupes fonctionnels
+
+###### Article D714-7-1
+
+les nomenclatures des comptes composant les groupes fonctionnels visés à l'article L. 714-7 sont définies aux annexes 1, 2 et
+3 [*du décret 92-1016 du 17 septembre 1992*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Décret n°92-1016 1992-09-17 annexe 1, annexe 2, annexe 3
+	  - Code de la santé publique - art. L714-7 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-1016 du 17 septembre 1992 - art. 1 () JORF 24 septembre 1992 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°92-1016 du 17 septembre 1992
+	  - TXT_SOURCE: Décret n°92-1016 du 17 septembre 1992 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°92-1016 du 17 septembre 1992 - art. Annexe 1 (Ab)
+	  - TXT_SOURCE: Décret n°92-1016 du 17 septembre 1992 - art. Annexe 2 (Ab)
+	  - TXT_SOURCE: Décret n°92-1016 du 17 septembre 1992 - art. Annexe 3 (Ab)
+	  - TXT_SOURCE: Décret n°94-392 du 18 mai 1994
+	  - TXT_SOURCE: Décret n°94-392 du 18 mai 1994 - art. 1 (P)
+	  - TXT_SOURCE: Décret n°94-392 du 18 mai 1994 - art. 2 (P)
+	  - TXT_SOURCE: Décret n°94-392 du 18 mai 1994 - art. Annexe I (P)
+	  - TXT_SOURCE: Décret n°94-392 du 18 mai 1994 - art. Annexe II (P)
+	  - TXT_SOURCE: Décret n°94-392 du 18 mai 1994 - art. Annexe III (P)
+	  - TXT_SOURCE: Décret n°99-41 du 21 janvier 1999
+	  - TXT_SOURCE: Décret n°99-41 du 21 janvier 1999 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°99-41 du 21 janvier 1999 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°99-41 du 21 janvier 1999 - art. ANNEXE I (Ab)
+	  - TXT_SOURCE: Décret n°99-41 du 21 janvier 1999 - art. ANNEXE II (Ab)
+	  - TXT_SOURCE: Décret n°99-41 du 21 janvier 1999 - art. ANNEXE III (Ab)
+	  - TXT_ASSOCIE: Décret n°2001-525 du 14 juin 2001
+	  - TXT_ASSOCIE: Décret n°2001-525 du 14 juin 2001 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Décret n°94-392 du 18 mai 1994 - art. 1 (P)
+	  - Décret n°99-41 du 21 janvier 1999 - art. 1 (Ab)
+	  - Décret n°2001-525 du 14 juin 2001 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6145-6 (Ab)
+
+
 ##### Sous-section 3 : Modalités de délégation de signature des directeurs
 
 ###### Article D714-12-1
@@ -83408,6 +84342,49 @@ lorsqu'elles concernent des actes liés à la fonction d'ordonnateur du budget.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. D6143-36 (V)
+
+
+##### Sous-section 5 : Virements de crédits
+
+###### Article D714-12-5
+
+l'ordonnateur peut procéder en cours d'exercice, et au plus tard le dernier jour de la période complémentaire prévue à
+l'article R. 714-3-38, à des virements de crédits à l'intérieur de chacun des groupes fonctionnels définis aux articles R.
+714-3-11 à R. 714-3-13.
+
+Ces virements ne peuvent avoir pour effet d'augmenter ou de réduire de plus de 10 p. 100 les autorisations de dépenses
+inscrites sur les comptes concernés du premier budget rendu exécutoire au titre de l'exercice concerné.
+
+Ils ne peuvent diminuer les crédits destinés à couvrir des charges inéluctables notamment les charges sociales et les impôts
+et taxes.
+
+Ces virements sont notifiés, sans délai au comptable et portés à la connaissance de l'autorité administrative mentionnée à
+l'article R. 714-3-27 et du conseil d'administration, lors de sa plus proche réunion.
+
+**Nota:**
+
+*Nota - Décret 96-106 du 6 février 1996 art. 1 : la sous-section 5 "Virements de crédits" est supprimée.*
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-1016 du 17 septembre 1992 - art. 2 (Ab) JORF 24 septembre 1992 en vigueur le 1er janvier 1993
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°96-106 du 6 février 1996 - art. 1 () JORF 13 février 1996
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-3-27 (M)
+	  - Code de la santé publique - art. R714-3-38 (Ab)
+	  - Code de la santé publique R714-3-38, R714-3-11 à R714-3-13, R714-3-27
 
 
 ##### Section 2 : organes représentatifs
