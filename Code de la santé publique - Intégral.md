@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1984-01-04
+Version Consolidée au 1984-03-04
 
 # Partie législative ancienne
 
@@ -47718,6 +47718,28 @@ et L. 617-13.
 
 ##### SECTION 1 : DES ETABLISSEMENTS DE PREPARATION, DE VENTE EN GROS ET DE DISTRIBUTION EN GROS.
 
+###### Article R5146
+
+Les dispositions de la présente section sont applicables à tout pharmacien, à tout docteur vétérinaire, à toute société
+exerçant une activité de fabricant de médicaments vétérinaires ou de grossiste répartiteur, d'importateur [*ajouté par le
+décret n° 156*] ou de dépositaire de médicaments vétérinaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 JUIN 1977
+
+	**Modifié par**:
+
+	  - Décret n°84-156 1984-03-01 ART. 1 JORF 4 MARS 1984
+
+
 ##### Paragraphe 1 : Autorisation administrative.
 
 ###### Article R5146-1
@@ -48670,6 +48692,58 @@ et ne pas induire en erreur sur la qualité ou les propriétés du médicament v
 	  - Code de la santé publique - art. R5146-36 (Ab)
 
 
+###### Article R5146-28
+
+A chaque exemplaire de la demande doit être joint un dossier comprenant [*mentions, contenu*] :
+
+a) La description du mode et des conditions de fabrication du médicament vétérinaire ;
+
+b) La description des techniques de contrôle des matières premières et du produit ainsi que, si nécessaire, la description
+des techniques de contrôle en cours de fabrication et l'indication des résultats obtenus par application de ces techniques ;
+
+c) Les brevets de médicaments et de procédés de fabrication en rapport avec la demande ;
+
+d) Les comptes rendus des expertises analytiques, pharmacotoxicologique et clinique ;
+
+e) Le cas échéant, l'autorisation de mise sur le marché obtenue pour le médicament vétérinaire soit dans un Etat membre des
+communautés européennes [*CEE*], soit dans un pays tiers pour autant que cette autorisation y existe [*alinéa ajouté par le
+décret n° 156*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique R. 5146-32 : DEROGATIONS.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 JUIN 1977
+
+	**Modifié par**:
+
+	  - Décret n°84-156 1984-03-01 ART. 2 JORF 4 MARS 1984
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-16 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5146-26 (Ab)
+	  - Code de la santé publique - art. R5146-28-1 (Ab)
+	  - Code de la santé publique - art. R5146-32 (Ab)
+	  - Code de la santé publique - art. R5146-33-9 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5146-32 (Ab)
+
+
 ###### Article R5146-29
 
 Les comptes rendus des expertises analytiques comprennent [*mentions, contenu*] :
@@ -48904,6 +48978,45 @@ même, ces délais sont suspendus du temps laissé, le cas échéant, au demande
 	  - Code de la santé publique - art. R5146-49 (Ab)
 
 
+###### Article R5146-33-1
+
+Lorsque les ministres chargés de la santé et de l'agriculture sont saisis, en même temps que le comité des médicaments
+vétérinaires institué par les articles 16 et 17 de la directive n° 81-851 du conseil des communautés européennes du 28
+septembre 1981, par les autorités compétentes d'un Etat membre des communautés européennes d'une demande d'autorisation de
+mise sur le marché émanant d'un ressortissant de cet Etat membre, ils disposent d'un délai de 120 jours à compter de la date
+de réception du dossier pour notifier au comité des médicaments vétérinaires leur éventuelle opposition à l'octroi de cette
+autorisation [*délai, point de départ*].
+
+La décision sur la demande d'autorisation de mise sur le marché est prise par les ministres chargés de la santé et de
+l'agriculture dans les trente jours qui suivent la réception de l'avis émis ou du constat effectué par le comité conformément
+aux articles 18 et 19 de la directive susmentionnée [*autorités compétentes*].
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - CEE DIRECTIVE 851 1981-09-28 ART. 16, ART. 17, ART. 18 et ART. 19
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°84-156 1984-03-01 ART. 3 JORF 4 MARS 1984
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-27 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5146-26 (Ab)
+	  - Code de la santé publique - art. R5146-33-2 (M)
+	  - Code de la santé publique - art. R5146-33-9 (Ab)
+
+
 ###### Article R5146-34
 
 Sans préjudice des dispositions du dernier alinéa de l'article L. 617-3, les ministres refusent l'autorisation de mise sur le
@@ -48954,6 +49067,50 @@ La décision de rejet doit être motivée et mentionner les voies et délais de 
 	  - Code de la santé publique - art. R5146-33-9 (Ab)
 	  - Code de la santé publique - art. R5146-38 (M)
 	  - Code de la santé publique - art. R5146-39 (M)
+
+
+###### Article R5146-35
+
+L'autorisation de mise sur le marché est renouvelable, sur demande du titulaire présentée au plus tard [*quatre-vingts
+jours : modifié par le décret n° 156 *] quatre-vingt-dix jours avant la date d'expiration, fixée en application de l'article
+L. 617-3 [*délai*].
+
+Elle n'est renouvelée que si le titulaire de l'autorisation de mise sur le marché atteste qu'aucune modification n'est
+intervenue dans les éléments produits à l'appui de la demande d'autorisation.
+
+L'autorisation n'est pas renouvelée s'il est apparu que l'effet thérapeutique fait défaut ou que, dans les conditions
+d'emploi indiquées pour le médicament, les denrées alimentaires provenant de l'animal traité peuvent présenter un danger pour
+le consommateur.
+
+Si aucune décision n'est notifiée ou si aucune demande de justification complémentaire n'est adressée au demandeur dans un
+délai de quatre-vingt-dix jours suivant la réception de sa demande, l'autorisation est considérée comme renouvelée à
+l'expiration de ce délai [*accord tacite*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 JUIN 1977) M(Décret 84-156 1984-03-01 ART. 4 JORF 4 MARS 1984
+
+	**Cité par**:
+
+	  - Décret n°94-601 du 12 juillet 1994 - art. 1 (Ab)
+	  - Décret n°2000-1007 du 16 octobre 2000 - art. 1 (Ab)
+	  - Code de la santé publique - art. R5146-38 (M)
+	  - Code de la santé publique - art. R5146-39 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L617-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-39 (V)
 
 
 ###### Article R5146-36
@@ -49326,7 +49483,8 @@ obligatoires*] :
 
 1° Le nom du médicament ;
 
-2° Le nom et l'adresse du fabricant ;
+2° Le nom et l'adresse du responsable de la mise sur le marché et, lorsque celui-ci ne fabrique pas le médicament, le nom et
+l'adresse du fabricant ;
 
 3° La composition quantitative en principes actifs ;
 
@@ -49334,7 +49492,7 @@ obligatoires*] :
 
 5° Le numéro et la date de l'autorisation de mise sur le marché ;
 
-6° Les indications thérapeutiques, contre indications et effets secondaires figurant à la décision d'autorisation de mise sur
+6° Les indications thérapeutiques, contre-indications et effets secondaires figurant à la décision d'autorisation de mise sur
 le marché ;
 
 7° Toutes indications utiles sur la posologie selon les espèces animales auxquelles le médicament est destiné ;
@@ -49342,6 +49500,8 @@ le marché ;
 8° Eventuellement, l'indication du temps d'attente ;
 
 9° Les mentions imposées par la décision d'autorisation de mise sur le marché.
+
+Lorsqu'une notice est jointe au conditionnement d'un médicament vétérinaire, elle ne doit concerner que ce médicament.
 
 Les textes et documents publicitaires doivent obligatoirement faire l'objet d'un dépôt auprès du ministre de la santé et
 auprès du ministre de l'agriculture, par envoi recommandé, préalablement à leur diffusion.
@@ -49353,9 +49513,10 @@ auprès du ministre de l'agriculture, par envoi recommandé, préalablement à l
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°82-165 1982-02-08 ART. 3 JORF 16 FEVRIER 1982
+	  - Décret n°84-156 1984-03-01 ART. 5 JORF 4 MARS 1984
 
 	**Nouveaux textes**:
 
@@ -49472,7 +49633,7 @@ qu'aux seuls docteurs vétérinaires qui en ont fait la demande écrite [*condit
 Sans préjudice des mentions exigées par d'autres dispositions législatives et réglementaires, le récipient, l'emballage
 extérieur et, éventuellement, la notice des médicaments vétérinaires préfabriqués, des spécialités pharmaceutiques
 vétérinaires et des prémélanges pour aliments médicamenteux, doivent porter, sauf dérogation accordée lors de la délivrance
-de l'autorisation de mise sur le marché, les indications suivantes :
+de l'autorisation de mise sur le marché, les indications suivantes [*contenu, mentions obligatoires*] :
 
 a) La dénomination du médicament qui, sauf en ce qui concerne les spécialités pharmaceutiques vétérinaires, doit être la
 dénomination commune, la dénomination scientifique ou la formule ; lorsque, pour les spécialités pharmaceutiques
@@ -49489,11 +49650,12 @@ pharmaceutique, avec éventuellement, indication des substances de marquage ;
 d) Les espèces animales auxquelles le médicament est destiné, le mode et la voie d'administration, les contre-indications qui
 doivent être portées à la connaissance des utilisateurs, les taux et produits de dilution pour les prémélanges ;
 
-e) Le temps d'attente, s'il y a lieu ;
+e) Le temps d'attente, [*s'il y a lieu : modifié par le décret n°156*] même s'il est égal à zéro ;
 
 f) La date de péremption ;
 
-g) Le nom et l'adresse du fabricant ;
+g) Le nom et l'adresse du responsable de la mise sur le marché et, lorsque celui-ci ne fabrique pas le médicament, le nom et
+l'adresse du fabricant ;
 
 h) Le numéro et la date de l'autorisation de mise sur le marché ;
 
@@ -49503,9 +49665,10 @@ j) Les précautions particulières de conservation s'il y a lieu ;
 
 k) Selon les cas, la mention "usage vétérinaire" ;
 
-"Usage vétérinaire à ne délivrer que sur ordonnance" ;
+"usage vétérinaire à ne délivrer que sur ordonnance" ;
 
-"Usage vétérinaire à ne délivrer que sur ordonnance devant être conservée jusqu'à l'abattage" ;
+"usage vétérinaire à ne délivrer que sur ordonnance devant être conservée pendant la durée du temps d'attente du
+médicament" ;
 
 l) Le numéro de lot de fabrication.
 
@@ -49529,10 +49692,6 @@ Sauf dérogation accordée lors de l'octroi de l'autorisation de mise sur le mar
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
-
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
-
 	**Cité par**:
 
 	  - Décret n°79-822 du 19 septembre 1979 - art. 93-2 (Ab)
@@ -49542,6 +49701,11 @@ Sauf dérogation accordée lors de l'octroi de l'autorisation de mise sur le mar
 	  - Code de la santé publique - art. R5146-57 (M)
 	  - Code de la santé publique - art. R5200 (Ab)
 	  - Code de la santé publique - art. R5201 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°82-165 1982-02-08 ART. 3, ART. 4 JORF 16 FEVRIER 1982
+	  - Décret n°84-156 1984-03-01 ART. 6 JORF 4 MARS 1984
 
 	**Nouveaux textes**:
 
