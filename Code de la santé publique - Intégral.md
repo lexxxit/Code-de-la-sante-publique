@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1977-07-10
+Version Consolidée au 1977-09-30
 
 # Partie législative ancienne
 
@@ -17586,6 +17586,115 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 	**Cité par**:
 
 	  - Code de la santé publique - art. L469 (M)
+
+
+###### Article L468
+
+Un conseil départemental de l'ordre des médecins ne sera constitué dans le département de Saint-Pierre-et-Miquelon que
+lorsque le nombre de médecins exerçant dans ce département et remplissant les conditions d'éligibilité prévues par l'article
+L. 387 sera au moins le double de l'effectif minimal prévu pour les conseils départementaux.
+
+Jusqu'à ce qu'il en soit ainsi, l'inscription au tableau de l'ordre des médecins est prononcée par le préfet [*autorité
+compétente*].
+
+Toutes les autres attributions du conseil départemental sont dévolues à une délégation de trois [*nombre*] membres désignés
+par le préfet sur proposition du conseil national de l'ordre des médecins.
+
+Les dispositions du présent article, à l'exception de celles qui figurent à l'alinéa précédent, sont applicables aux
+chirurgiens-dentistes et aux sages-femmes exerçant à Saint-Pierre-et-Miquelon. Les attributions exercées pour les médecins
+par la délégation prévue à l'alinéa précédent sont, dans ce cas, exercées par le préfet.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 34.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Loi n°72-660 1972-07-13 art. 41 JORF 14 juillet 1972
+
+	**Modifié par**:
+
+	  - Ordonnance 77-1102 1977-09-26 art. 29 JORF 30 septembre 1977
+
+	**Cité par**:
+
+	  - Décret n°99-1231 du 31 décembre 1999 - art. 2 (Ab)
+	  - Code de la santé publique - art. L468-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L387 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-15 (M)
+
+
+###### Article L468-1
+
+Les médecins et les sages-femmes de Saint-Pierre-et-Miquelon sont soumis à la compétence disciplinaire du conseil régional de
+l'ordre des médecins de la région Basse-Normandie [*organisme*].
+
+Les chirurgiens-dentistes de Saint-Pierre-et-Miquelon sont soumis à la compétence disciplinaire du conseil régional de
+l'ordre des chirurgiens-dentistes de la région de Basse-Normandie.
+
+Par dérogation aux dispositions des articles L. 398 (2° alinéa), L. 437 (1er alinéa) et L. 454 (4° alinéa) du présent code,
+jusqu'à la constitution d'un conseil départemental de l'ordre des médecins, d'un conseil départemental de l'ordre des
+chirurgiens-dentistes et d'un conseil départemental de l'ordre des sages-femmes pour Saint-Pierre-et-Miquelon, un praticien
+exerçant dans ce département désigné par la délégation prévue à l'article L. 468 en ce qui concerne les médecins, l'ensemble
+des praticiens de la profession considérée exerçant dans ce département en ce qui concerne les chirurgiens-dentistes et les
+sages-femmes participent à l'élection des délégués des conseils départementaux du Calvados aux conseils régionaux de Basse-
+Normandie [*électeurs*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4126-7 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L468 (M)
+	  - Code de la santé publique L398 AL. 2, L437 AL. 1, L454 AL. 4, L468
+
+	**Créé par**:
+
+	  - Ordonnance 77-1102 1977-09-26 art. 29 JORF 30 septembre 1977
+
+
+###### Article L468-2
+
+La représentation des médecins, des chirurgiens-dentistes et des sages-femmes de Saint-Pierre-et-Miquelon au sein du conseil
+national de l'ordre des médecins, des chirurgiens-dentistes et des sages-femmes est assurée par le conseiller national
+représentant de la région Basse-Normandie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4123-16 (M)
+
+	**Créé par**:
+
+	  - Ordonnance 77-1102 1977-09-26 art. 29 JORF 30 septembre 1977
 
 
 ###### Article L469
