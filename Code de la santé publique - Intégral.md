@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1981-05-17
+Version Consolidée au 1982-02-16
 
 # Partie législative ancienne
 
@@ -48187,12 +48187,10 @@ Le ministre de l'agriculture répartit les experts entre différentes sections e
 ###### Article R5146-20
 
 Les experts ne doivent avoir aucun intérêt financier direct ou indirect, même par personne interposée, dans la production et
-la commercialisation des médicaments faisant l'objet de leurs expertises.
+la commercialisation des médicaments faisant l'objet de leurs expertises [*interdiction*].
 
-Ils ne peuvent faire aucune expertise pour les entreprises dont ils sont salariés [*incompatibilité*].
-
-Ils ne peuvent effectuer d'expertise qu'au titre de la ou des disciplines correspondant à la section à laquelle ils sont
-rattachés.
+Ils ne peuvent effectuer d'expertises qu'au titre de la ou des disciplines afférentes aux sections auxquelles ils sont
+rattachés [*incompatibilité*].
 
 **Liens relatifs à cet article**
 
@@ -48201,9 +48199,9 @@ rattachés.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°82-165 1982-02-08 ART. 1 JORF 16 FEVRIER 1982
 
 	**Nouveaux textes**:
 
@@ -48217,7 +48215,7 @@ rattachés.
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de la santé publique R5146-27 : SANCTIONS PENALES
+	  - TXT_ASSOCIE: Code de la santé publique R5146-57 : SANCTIONS PENALES
 
 
 ###### Article R5146-21
@@ -48937,29 +48935,27 @@ française.
 
 ###### Article R5146-39
 
-Les recours gracieux dirigés contre les décisions prises en vertu des dispositions des articles R. 5146-35 à R. 5146-37 sont
+Les recours gracieux dirigés contre les décisions prises en vertu des dispositions des articles R. 5146-34 à R. 5146-37 sont
 soumis, pour avis, à une commission dont les membres sont désignés par le ministre de la santé et le ministre de
-l'agriculture [*organisme compétent*].
+l'agriculture [*autorités compétentes*].
 
-Cette commission est présidée par un membre du Conseil d'Etat en activité ou en retraite élu par l'assemblée générale du
-Conseil d'Etat pour six ans [*durée du mandat*].
+Cette commission est présidée par un membre du conseil d'Etat en activité ou en retraite élu par l'assemblée générale du
+conseil d'Etat pour six ans [*durée du mandat*]. Elle comprend en outre [*composition*] :
 
-Elle comprend en outre [*composition*] :
+a) deux professeurs d'école vétérinaire désignés par le ministre de l'agriculture ;
 
-a) Deux professeurs d'école vétérinaire désignés par le ministre de l'agriculture ;
+b) un professeur de médecine et un professeur de pharmacie désignés par le ministre de la santé ;
 
-b) Un professeur de médecine et un professeur de pharmacie désignés par le ministre de la santé ;
+c) le chef du service central de la pharmacie et des médicaments au ministère de la santé ;
 
-c) Le chef du service central de la pharmacie et des médicaments au ministère de la santé ;
+d) le directeur de la qualité au ministère de l'agriculture ;
 
-d) Le directeur de la qualité au ministère de l'agriculture ;
+e) le directeur général du laboratoire national de la santé ;
 
-e) Le directeur général du laboratoire national de la santé ;
+f) le directeur du laboratoire national de contrôle des médicaments vétérinaires.
 
-f) Le directeur du laboratoire national de contrôle des médicaments vétérinaires.
-
-Le mandat des membres prévus en a et b ci-dessus est de trois ans. Des membres suppléants en nombre égal à celui des
-titulaires sont désignés dans les mêmes conditions.
+Le mandat des membres prévus en a et b ci-dessus est de trois ans [*durée*]. Des membres suppléants en nombre égal à celui
+des titulaires sont désignés dans les mêmes conditions.
 
 Un arrêté conjoint du ministre de la santé et du ministre de l'agriculture fixe les modalités de fonctionnement de la
 commission.
@@ -48973,9 +48969,9 @@ Le recours gracieux prévu au présent article est un préalable obligatoire à 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°82-165 1982-02-08 ART. 2 JORF 16 FEVRIER 1982
 
 	**Cité par**:
 
@@ -48991,6 +48987,7 @@ Le recours gracieux prévu au présent article est un préalable obligatoire à 
 
 	**Cite**:
 
+	  - Code de la santé publique - art. R5146-34 (M)
 	  - Code de la santé publique - art. R5146-35 (M)
 	  - Code de la santé publique - art. R5146-36 (M)
 	  - Code de la santé publique - art. R5146-37 (M)
@@ -49484,24 +49481,27 @@ Sans préjudice des dispositions de l'article L. 611, il est interdit de délivr
 médicaments vétérinaires qui comportent dans leur composition des substances mentionnées par les points c, e, f et g de
 l'article L. 617-6 lorsque la décision d'autorisation de mise sur le marché comporte cette interdiction.
 
-L'ordonnance comporte obligatoirement [*mentions*] :
+L'ordonnance comporte obligatoirement [*mentions obligatoires*] :
 
 Les nom et adresse du prescripteur ;
 
-La date de la prescription ;
+La date de prescription ;
 
-Les nom, prénoms et adresse du détenteur de l'animal ;
+Les nom, prénoms et adresse du détenteur du ou des animaux ;
 
-Les moyens d'identification des animaux : espèce, âge, sexe, signalement, numéro matricule ;
+Les moyens d'identification des animaux : espèce, âge, sexe, signalement et numéro matricule ;
 
 Le nom ou la formule du médicament ; pour les aliments médicamenteux, le détail des composants du support alimentaire n'est
 pas exigé ;
 
 La voie d'administration, le point d'inoculation ou d'implantation, le temps d'attente ;
 
-La mention "renouvellement interdit".
+La mention Renouvellement interdit.
 
-L'ordonnance doit être conservée et transmise par les détenteurs successifs de l'animal jusqu'à l'abattage.
+En cas de cession du ou des animaux par des détenteurs successifs pendant le temps d'attente du médicament, l'ordonnance doit
+être transmise à chaque nouvel acquéreur et conservée par lui durant cette période. En cas de pluralité de détenteurs
+d'animaux ayant fait l'objet d'une même ordonnance, une copie de celle-ci doit être remise à chaque nouvel acquéreur et
+conservée par lui durant la même période.
 
 Les dispositions du présent article s'appliquent au cas où la délivrance par le docteur vétérinaire s'effectue sous forme
 d'administration directe du médicament à l'animal.
@@ -49513,9 +49513,9 @@ d'administration directe du médicament à l'animal.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°82-165 1982-02-08 ART. 5 JORF 16 FEVRIER 1982
 
 	**Cité par**:
 
