@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1988-04-21
+Version Consolidée au 1988-05-03
 
 # Partie législative ancienne
 
@@ -38194,31 +38194,6 @@ La troisième sous-section comprend les pharmaciens exerçant en Polynésie fran
 
 ##### Paragraphe 1 : Fonctionnement des chambres de discipline des conseils régionaux et centraux
 
-###### Article R*5016
-
-L'action disciplinaire contre un pharmacien ne peut être introduite que par une plainte formulée par l'une des personnes
-suivantes :
-
-Le ministre de la santé publique et de la population, le ministre du travail et de la sécurité sociale, le ministre de la
-France d'outre-mer, le préfet, directeur départemental de la santé, le procureur de la République, le président du conseil
-national, d'un conseil central ou d'un conseil régional de l'Ordre des pharmaciens ou pharmacien inscrit à l'un des tableaux
-de l'Ordre.
-
-Cette plainte est adressée au président du conseil national ou au président d'un conseil central ou régional ; si elle est
-adressée au président du conseil national ou au président du conseil central "A", elle est transmise au conseil compétent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4234-1 (V)
-
-
 ###### Article R*5017
 
 Le président du conseil central ou régional qui est saisi de la plainte l'enregistre et la notifie dans la quinzaine au
@@ -38510,6 +38485,27 @@ conditions prévues par l'article L. 580.
 	**Cité par**:
 
 	  - Code de la santé publique - art. R5040 (Ab)
+
+
+###### Article R5016
+
+Cette plainte est adressée au président du Conseil national ou au président d'un conseil central ou régional ; si elle est
+adressée au président du Conseil national ou au président du conseil central "A", elle est transmise au conseil compétent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-484 1988-04-27 art. 19 JORF 3 mai 1988
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-1 (V)
 
 
 ##### Paragraphe 2 : Fonctionnement du conseil national constitué en chambre de discipline.
