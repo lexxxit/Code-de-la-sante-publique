@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1988-05-03
+Version Consolidée au 1988-05-04
 
 # Partie législative ancienne
 
@@ -19207,52 +19207,6 @@ Article abrogé
 
 	  - Code de la santé publique - art. L471-4 (Ab)
 	  - Code de la santé publique - art. L471-7 (Ab)
-
-
-### TITRE 1 : PROFESSION DE MEDECIN
-
-#### CHAPITRE 2 : ORGANISATION DE LA PROFESSION DE MEDECIN
-
-##### SECTION 2 : CONSEILS DE L'ORDRE DES MEDECINS
-
-##### PARAGRAPHE 3 : CONSEIL NATIONAL *DE L'ORDRE DES MEDECINS*.
-
-###### Article L411
-
-La section disciplinaire du conseil national [*compétence*] est saisie des appels des décisions des conseils régionaux en
-matière de discipline, d'élection au conseil de l'ordre, d'inscription au tableau et de suspension temporaire du droit
-d'exercer en cas d'infirmité ou d'état pathologique rendant dangereux l'exercice de la médecine.
-
-L'appel est formé par une déclaration au secrétariat du conseil national [*condition de forme*]. Cette déclaration doit être
-faite par le ministre, le préfet, le procureur de la République, le directeur départemental de la santé, le conseil
-départemental de l'Ordre intéressé ou le syndicat des médecins ou par le médecin intéressé, dans les trente jours de la
-notification [*délai d'appel*].
-
-L'appel a un effet suspensif, sauf en matière d'inscription au tableau. Toutefois, lorsque la réinscription au tableau est
-demandée par application des dispositions de l'article L. 428, l'appel a également un effet suspensif.
-
-Les décisions rendues par la section disciplinaire du conseil national ne sont susceptibles de recours que devant le Conseil
-d'Etat dans les conditions du droit commun.
-
-**Nota:**
-
-[*Nota : Décret 59-388 1959-03-04 : LES PARAGRAPHES 2, 3 ET 4 SONT DES DISPOSITIONS REGLEMENTAIRES.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Loi n°72-660 1972-07-13 art. 20 JORF 14 juillet 1972
-	  - Décret n°59-388 1959-03-04 art. 5 JORF 10 mars 1959
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L428 (Ab)
 
 
 ### Titre 2 : Profession d'infirmier ou d'infirmière
@@ -44306,22 +44260,26 @@ applicables à l'expérimentation des médicaments.
 
 ###### Article R5119
 
-Les candidats aux fonctions d'expert doivent présenter les garanties nécessaires d'honorabilité, posséder les qualifications
-techniques et professionnelles et disposer des moyens propres à l'accomplissement des travaux d'expertise.
+Les experts mentionnés à l'article L. 605-2 doivent disposer des qualifications et de l'expérience suivantes [*conditions*]:
 
-L'agrément prévu à l'article L. 605 (2°) est donné par le ministre chargé de la santé, après consultation éventuelle de la
-commission prévue à l'article R. 5140.
+1. Pour l'expert pharmaceutique : une qualification en pharmacie attestée par un diplôme d'Etat ou d'université de
+pharmacien, ou, pour les médicaments issus de la biotechnologie, une qualification particulière attestée par un diplôme
+d'Etat ou d'université, et une expérience pratique suffisante soit dans la recherche et le développement, soit dans la
+fabrication, soit dans les contrôles physiques, chimiques, physico-chimiques, biologiques ou microbiologiques des
+médicaments ;
 
-L'agrément est valable pendant cinq ans [*durée*] ; il peut être retiré par le ministre chargé de la santé après que l'expert
-a été mis à même de présenter ses observations écrites.
+2. Pour l'expert toxicologue : une qualification en toxicologie générale ou spécialisée attestée par un diplôme d'Etat ou
+d'université et une expérience pratique suffisante ;
 
-Le ministre chargé de la santé répartit les experts entre différentes sections en fonction de leurs disciplines respectives.
+3. Pour l'expert pharmacologue : une qualification générale ou spécialisée attestée par un diplôme d'Etat ou d'université et
+une expérience pratique suffisante ;
 
-Les experts ne peuvent effectuer d'expertise qu'au titre de la ou des disciplines afférentes aux sections auxquelles ils sont
-rattachés.
+4. Pour l'expert clinicien : une qualification attestée par un diplôme d'Etat ou d'université de médecin et une expérience
+pratique clinique et statistique suffisante.
 
-Ils ne doivent avoir aucun intérêt financier direct ou indirect, même par personne interposée, dans la commercialisation des
-médicaments faisant l'objet de leurs expertises.
+Ils doivent disposer des moyens propres à l'accomplissement des travaux d'expertise, présenter les garanties d'honorabilité
+nécessaires et n'avoir aucun intérêt financier direct ou indirect même par personnes interposées dans la commercialisation
+des médicaments faisant l'objet de leurs expertises.
 
 **Liens relatifs à cet article**
 
@@ -44332,15 +44290,7 @@ médicaments faisant l'objet de leurs expertises.
 
 	**Modifié par**:
 
-	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-	  - Décret n°78-988 1978-09-20 ART. 1 JORF 6 octobre 1978
-	  - Décret n°79-256 1979-03-21 ART. 1 JORF 31 mars 1979
-	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L605 (M)
-	  - Code de la santé publique - art. R5140 (M)
+	  - Décret n°88-492 1988-05-02 art. 1 JORF 4 mai 1988
 
 	**Cité par**:
 
@@ -44350,6 +44300,10 @@ médicaments faisant l'objet de leurs expertises.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5121-33 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique L605-2
 
 
 ###### Article R5120
@@ -44549,12 +44503,19 @@ d'un mois à compter de la réception de la communication ci-dessus indiquée [*
 
 ###### Article R5125
 
-Les rapports d'expertise doivent mentionner notamment [*obligatoirement*] :
+Les rapports d'expertise doivent mentionner [*mentions obligatoires*], pour chaque essai :
 
-La formule intégrale du médicament ainsi que les changements qui ont pu être apportés à cette formule au cours des
-expérimentations ;
+a) Les nom et prénoms du ou des experts, ainsi que leurs adresses professionnelles, leurs activités professionnelles, leurs
+fonctions et titres universitaires ;
 
-Le cas échéant, la description détaillée des échecs rencontrés en cours d'expérimentation.
+b) La formule chimique du médicament ainsi que la formule galénique et les changements qui ont pu être apportés à cette
+dernière formule au cours des expérimentations ;
+
+c) Les dates et lieux de réalisation des expertises ;
+
+d) Le cas échéant, la description détaillée des échecs rencontrés au cours des expérimentations ;
+
+e) En cas de besoin, la conformité aux dispositions des articles R. 5115-9 ou R. 5118.
 
 **Liens relatifs à cet article**
 
@@ -44565,8 +44526,12 @@ Le cas échéant, la description détaillée des échecs rencontrés en cours d'
 
 	**Modifié par**:
 
-	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
-	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+	  - Décret n°88-492 1988-05-02 art. 2 JORF 4 mai 1988
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5115-9 (M)
+	  - Code de la santé publique - art. R5118 (M)
 
 	**Cité par**:
 
@@ -45005,10 +44970,10 @@ compétente*] peut prendre les mesures suivantes :
 
 a) Faire procéder à toute enquête relative à la fabrication du médicament ;
 
-b) Consulter les experts agréés qui ont été choisis par les fabricants pour participer à la constitution du dossier de
-demande d'autorisation ;
+b) Consulter les experts qui ont été choisis pour effectuer les essais en vue de la constitution du dossier de demande
+d'autorisation de mise sur le marché ;
 
-c) Recueillir l'avis d'experts désignés par lui en application de l'article L. 605 ;
+c) Recueillir l'avis d'experts désignés par lui ;
 
 d) Désigner des rapporteurs qui s'assurent de la régularité des demandes par rapport aux dispositions du présent code.
 
@@ -45022,9 +44987,9 @@ toxicologiques, pharmacologiques et cliniques.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la santé publique - art. L605 (M)
+	  - Décret n°88-492 1988-05-02 art. 3 JORF 4 mai 1988
 
 	**Nouveaux textes**:
 
@@ -45034,12 +44999,6 @@ toxicologiques, pharmacologiques et cliniques.
 
 	  - Code de la santé publique - art. R5135 (Ab)
 	  - Code de la santé publique - art. R5142-24 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
-	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-	  - Décret n°78-988 1978-09-20 ART. 10 JORF 6 octobre 1978
 
 
 ###### Article R5135
