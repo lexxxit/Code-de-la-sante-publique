@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1989-03-08
+Version Consolidée au 1989-06-14
 
 # Partie législative ancienne
 
@@ -37408,11 +37408,6 @@ reclassement à traitement égal.
 Est également classé à l'échelon comportant un traitement égal ou immédiatement supérieur à celui dont il bénéficiait
 précédemment l'agent nommé sans avancement de grade d'un établissement dans un autre.
 
-Lorsqu'un agent est affecté dans les conditions fixées à l'article L. 855, sans avancement de grade, d'un service à un autre
-dans lequel son grade n'est pas prévu, il conserve, à titre personnel, le bénéfice de son grade et de son échelon, sans
-pouvoir cependant bénéficier d'un avancement dans son ancien grade, ni conserver les indemnités accessoires qui y étaient
-attachées.
-
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -37453,7 +37448,7 @@ attachées.
 
 	**Modifié par**:
 
-	  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
+	  - Décret n°89-376 du 8 juin 1989 - art. 6 (V) JORF 14 juin 1989
 
 
 ###### Article L820
@@ -37810,33 +37805,6 @@ donnée par le chef de service.
 
 	  - Code de la santé publique - art. L880 (Ab)
 	  - Code de la santé publique - art. L881 (Ab)
-
-
-###### Article L855
-
-Quant un agent aura été atteint d'une maladie longue et sérieuse ou susceptible de rechute ou se trouvera en état
-d'invalidité partielle ou de diminution physique permanentes ne lui permettant pas d'assurer ses fonctions, l'autorité
-investie du pouvoir de nomination aura la possibilité d'affecter l'intéressé à un service moins pénible sur l'avis de la
-commission de réforme.
-
-Dans ce cas, les avantages assurés à l'intéressé devront lui être maintenus suivant les modalités prévues à l'article L. 819.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°56-1294 du 14 décembre 1956 - art. 8 (Ab)
-	  - Décret n°89-376 du 8 juin 1989 - art. 6 (V)
-	  - Arrêté du 28 octobre 1958 - art. 18 (V)
-	  - Code de la santé publique - art. L819 (M)
-
-	**Modifié par**:
-
-	  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
-
-	**Abrogé par**:
-
-	  - Décret n°89-376 du 8 juin 1989 - art. 6 (V) JORF 14 juin 1989
 
 
 ###### Article L859
