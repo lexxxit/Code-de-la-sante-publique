@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1959-01-07
+Version Consolidée au 1959-02-08
 
 # Partie législative ancienne
 
@@ -19660,46 +19660,6 @@ application.
 	**Cite**:
 
 	  - Code de la santé publique - art. L601 (M)
-
-
-###### Article L553
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L635 (Ab)
-
-
-###### Article L554
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L555
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 #### Chapitre 5 : De l'inspection de la pharmacie
