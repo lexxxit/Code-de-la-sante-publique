@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1985-01-26
+Version Consolidée au 1985-05-11
 
 # Partie législative ancienne
 
@@ -47612,19 +47612,15 @@ pathologie et de et de la thérapeutique.
 Vingt-quatre suppléants sont désignés dans les mêmes conditions que les membres titulaires. Ils remplacent [*attributions*]
 ces derniers soit en cas d'empêchement, soit s'il se produit une vacance en cours de mandat.
 
-Le président et le vice-président sont désignés par le ministre chargé de la santé parmi les membres de la commission.
+Le président ainsi qu'un premier et un deuxième vice-président sont désignés par le ministre chargé de la santé parmi les
+membres de la commission.
 
-En cas d'absence du président et du vice-président, le ministre de la santé nomme un président de séance.
+En cas d'absence du président et des deux vice-présidents, le ministre de la santé nomme un président de séance.
 
 La commission a la faculté d'entendre toute personne qualifiée et notamment des représentants des fabricants de produits
 pharmaceutiques, des organisations de consommateurs et de la mutualité française.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 	**Cité par**:
 
@@ -47634,7 +47630,7 @@ pharmaceutiques, des organisations de consommateurs et de la mutualité françai
 
 	**Modifié par**:
 
-	  - Décret n°84-309 1984-04-26 ART. 2 JORF 28 AVRIL 1984
+	  - Décret n°85-498 1985-05-06 art. 1 JORF 11 mai 1985
 
 	**Liens**:
 
