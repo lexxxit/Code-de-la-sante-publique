@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-03-09
+Version Consolidée au 1993-03-13
 
 # Partie législative ancienne
 
@@ -74771,6 +74771,310 @@ sociale.*]
 
 	  - Code de la santé publique - art. L712-16 (M)
 	  - Code de la santé publique - art. L715-2 (Ab)
+
+
+##### Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie
+
+###### Article R712-52
+
+Il est créé une commission des systèmes d'information sur les établissements de santé. Elle est chargée de faire des
+propositions et d'émettre des avis sur les questions relatives, d'une part, à l'échange d'informations entre les ministres
+chargés de la santé et de la sécurité sociale, les organismes d'assurance maladie et les établissements de santé publics et
+privés, d'autre part, à l'élaboration et la mise en oeuvre d'un système commun d'information entre ces ministres et les
+organismes d'assurance maladie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de validation)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-328 du 12 mars 1993 - art. 1 () JORF 13 mars 1993
+
+	**Cité par**:
+
+	  - Décret n°97-20 du 14 janvier 1997 - art. 4 (Ab)
+	  - Code de la santé publique - art. D1411-34 (V)
+	  - Code de la santé publique - art. D1411-4 (T)
+	  - Code de la santé publique - art. R710-5-2 (Ab)
+	  - Code de la santé publique - art. R712-59 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R710-5-12 (Ab)
+
+
+###### Article R712-53
+
+La commission des systèmes d'information sur les établissements de santé est composée comme suit :
+
+1° Le directeur des hôpitaux ou son représentant, président de la commission ;
+
+2° Le directeur de la sécurité sociale ou son représentant, vice-président de la commission ;
+
+3° Le directeur de l'administration générale, du personnel et du budget ou son représentant ;
+
+4° Deux représentants des services déconcentrés de l'Etat, dont au moins un médecin, désignés par le ministre chargé de la
+santé ;
+
+5° Trois représentants de la Caisse nationale de l'assurance maladie des travailleurs salariés, dont le médecin-conseil
+national ou son représentant ;
+
+6° Un représentant de la Caisse centrale de secours mutuels agricoles ;
+
+7° Un représentant de la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non
+agricoles ;
+
+8° Trois représentants des organisations les plus représentatives de l'hospitalisation publique ;
+
+9° Trois médecins désignés par le ministre chargé de la santé sur proposition des conférences nationales de présidents de
+commission médicale d'établissements publics de santé ;
+
+10° Quatre représentants des organisations les plus représentatives de l'hospitalisation privée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de validation)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-328 du 12 mars 1993 - art. 1 () JORF 13 mars 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R710-5-13 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R712-54 (T)
+
+
+###### Article R712-54
+
+La commission des systèmes d'information sur les établissements de santé se réunit soit en formation plénière, soit en
+formation restreinte aux membres mentionnés aux 1° à 7° de l'article R. 712-53. Son secrétariat est assuré par le service des
+statistiques, des études et des systèmes d'information des ministères chargés de la santé et de la sécurité sociale.
+
+Un règlement intérieur arrêté par les ministres chargés de la santé et de la sécurité sociale détermine les conditions de
+fonctionnement de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de validation)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-328 du 12 mars 1993 - art. 1 () JORF 13 mars 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R710-5-14 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R712-53 (M)
+
+
+###### Article R712-55
+
+Les ministres chargés de la santé et de la sécurité sociale et les organismes d'assurance maladie tiennent la commission
+informée de l'ensemble des caractéristiques de leurs systèmes d'information respectifs et des perspectives d'évolution de ces
+systèmes. Ils tiennent également la commission informée de leurs programmes annuels d'études, d'enquêtes et
+d'expérimentations relatifs aux établissements de santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de validation)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-328 du 12 mars 1993 - art. 1 () JORF 13 mars 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R710-5-15 (Ab)
+
+
+###### Article R712-56
+
+La commission établit chaque année et rend public un rapport analysant l'état et les perspectives d'évolution des systèmes
+d'information respectifs des ministres de la santé et de la sécurité sociale et des organismes d'assurance maladie ainsi que
+ceux du système commun d'information.
+
+Ce rapport propose les améliorations que la commission estime nécessaires en ce qui concerne notamment :
+
+a) Les systèmes d'information spécifiques ou commun ;
+
+b) Les conditions de transmission des informations entre les établissements de santé, les ministres chargés de la santé et de
+la sécurité sociale et les organismes d'assurance maladie ;
+
+c) La politique de diffusion de données issues des systèmes d'information respectifs ou commun.
+
+Un premier rapport devra être préparé et adopté dans un délai de douze mois à compter de l'installation de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de validation)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-328 du 12 mars 1993 - art. 1 () JORF 13 mars 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R710-5-16 (Ab)
+
+
+###### Article R712-57
+
+Les ministres chargés de la santé et de la sécurité sociale définissent par arrêté la nature, le degré de précision, la
+périodicité et les modalités de recueil et de transmission des informations, mentionnées au premier alinéa de l'article L.
+712-7, que les établissements de santé publics et privés sont tenus de transmettre aux services des ministres susmentionnés
+et aux organismes d'assurance maladie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de validation)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-328 du 12 mars 1993 - art. 1 () JORF 13 mars 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R710-5-17 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. R710-5-19 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R712-59 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R712-59 (T)
+
+
+###### Article R712-58
+
+Pour l'élaboration du système commun d'information prévu au deuxième alinéa de l'article L. 712-7 du présent code et pour la
+mise en oeuvre des échanges d'informations mentionnés à l'article L. 115-4 du code de la sécurité sociale, les ministres
+chargés de la santé et de la sécurité sociale déterminent par arrêté :
+
+a) Les définitions et nomenclatures communes de données utilisées par les systèmes d'information des ministres chargés de la
+santé et de la sécurité sociale et de l'assurance maladie ;
+
+b) Les caractéristiques de modules d'information correspondant aux besoins communs des ministres chargés de la santé et de la
+sécurité sociale et des organismes d'assurance maladie ;
+
+c) La nature des informations que se transmettent systématiquement, compte tenu de leur utilité pour l'un ou pour l'autre,
+les ministres chargés de la santé et de la sécurité sociale et les organismes d'assurance maladie en application de l'article
+L. 115-4 du code de la sécurité sociale.
+
+Lorsque les données échangées ou partagées sont des données nominatives, issues notamment des systèmes d'information
+mentionnés à l'article L. 710-5 du présent code ou recueillies en application des articles L. 162-29 et L. 162-29-1 du code
+de la sécurité sociale, elles sont rendues anonymes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de validation)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-328 du 12 mars 1993 - art. 1 () JORF 13 mars 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L710-5 (M)
+	  - Code de la santé publique - art. L712-7 (Ab)
+	  - Code de la sécurité sociale. - art. L115-4 (V)
+	  - Code de la sécurité sociale. - art. L162-29 (M)
+	  - Code de la sécurité sociale. - art. L162-29-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R710-5-18 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. R710-5-19 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R712-59 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R712-59 (T)
+	  - Code de la santé publique - art. R712-60 (T)
+
+
+###### Article R712-59
+
+I. - Les arrêtés mentionnés à l'article R. 712-57 et au a de l'article R. 712-58 sont pris après avis de la commission créée
+par l'article R. 712-52.
+
+Les arrêtés mentionnés aux b et c de l'article R. 712-58 sont pris après avis de la même commission réunie en formation
+restreinte.
+
+La commission donne son avis dans un délai de trois mois suivant sa saisine par les ministres.
+
+Lorsque les arrêtés mentionnés ci-dessus ne sont pas conformes à l'avis émis par la commission, les ministres doivent
+informer celle-ci des motifs qui les ont conduits à ne pas suivre cet avis.
+
+II. - Les arrêtés prévus aux articles R. 712-57 et R. 712-58 ne peuvent entrer en vigueur avant la publication des
+dispositions réglementaires définissant, conformément au deuxième alinéa de l'article L. 712-7, les conditions d'accès des
+tiers au système commun d'information.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de validation)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-328 du 12 mars 1993 - art. 1 () JORF 13 mars 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-7 (Ab)
+	  - Code de la santé publique - art. R712-52 (M)
+	  - Code de la santé publique - art. R712-57 (M)
+	  - Code de la santé publique - art. R712-58 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. R710-5-17 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R710-5-18 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R712-57 (T)
+	  - TXT_ASSOCIE: Code de la santé publique - art. R712-58 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R710-5-19 (Ab)
 
 
 #### Chapitre 3 : Les actions de coopération
