@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-09-01
+Version Consolidée au 1993-09-02
 
 # Partie législative ancienne
 
@@ -27938,14 +27938,22 @@ collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
+	**Codifié par**:
+
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+
 	**Anciens textes**:
 
 	  - Ordonnance 45-919 1945-05-05 art. 23
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
+	  - Loi n°93-1013 1993-08-24 art. 46 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
@@ -35345,10 +35353,10 @@ dessus fixera les modalités d'application de cette disposition.
 
 ###### Article L628-6
 
-Lorsque le juge d'instruction ou la juridiction saisie aura ordonné à un inculpé de se placer sous surveillance médicale ou
-l'aura astreint à une cure de désintoxication, l'exécution de ces mesures sera soumise aux dispositions des articles L. 628-2
-à L. 628-5 ci-dessus, lesquelles font exception aux articles 138 (alinéa 2-10°) et suivants du Code de procédure pénale en ce
-qu'ils concernent la désintoxication.
+Lorsque le juge d'instruction ou la juridiction saisie aura ordonné à une personne mise en examen de se placer sous
+surveillance médicale ou l'aura astreint à une cure de désintoxication, l'exécution de ces mesures sera soumise aux
+dispositions des articles L. 628-2 à L. 628-5 ci-dessus, lesquelles font exception aux articles 138 (alinéa 2-10°) et
+suivants du Code de procédure pénale en ce qu'ils concernent la désintoxication.
 
 **Liens relatifs à cet article**
 
@@ -35357,9 +35365,13 @@ qu'ils concernent la désintoxication.
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+	  - Loi n°93-1013 1993-08-24 art. 46 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
