@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-08-12
+Version Consolidée au 1992-08-23
 
 # Partie législative ancienne
 
@@ -74876,7 +74876,834 @@ d'établissement.*]
 
 ##### Section 3 : Organisation des soins et fonctionnement médical
 
-##### Sous-section 1 : Conseil de service ou de département
+##### Sous-section 1 : Des chefs de service ou de département
+
+##### Paragraphe 1 : Dispositions générales
+
+###### Article R714-21-1
+
+Les vacances de fonctions de chef de service ou de chef de département dans les établissements publics de santé mentionnés à
+l'article L. 714-20 sont publiées au Journal officiel par le ministre chargé de la santé.
+
+Les candidats disposent d'un délai d'un mois à compter de cette publication pour faire acte de candidature.
+
+Les modalités de dépôt des candidatures, et notamment de constitution du dossier, sont fixées par arrêté du ministre chargé
+de la santé.
+
+La recevabilité des candidatures est appréciée à la date de clôture du dépôt des candidatures.
+
+Lorsqu'il s'agit de la candidature d'un membre du personnel enseignant et hospitalier à des fonctions de chef de service ou
+de chef de département dans un centre hospitalier universitaire ou dans l'un des établissements publics de santé mentionnés à
+l'article R. 714-21-5, le ministre chargé des universités est consulté sur la compatibilité des fonctions sollicitées avec
+l'activité universitaire du candidat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 20 août 1992
+	  - TXT_SOURCE: Arrêté du 20 août 1992 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 août 1992 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 août 1992 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 20 août 1992 - art. ANNEXE I (Ab)
+	  - TXT_SOURCE: Arrêté du 20 août 1992 - art. ANNEXE II (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-20 (M)
+	  - Code de la santé publique - art. R714-21-5 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-21-25 (V)
+	  - Code de la santé publique - art. R714-21-3 (Ab)
+
+
+###### Article R714-21-2
+
+Les nominations aux fonctions de chef de service ou de chef de département prononcées en application des dispositions de
+l'article L. 714-21 sont notifiées aux intéressés par lettre recommandée avec demande d'avis de réception. Elles sont
+publiées au Journal officiel et également notifiées aux directeurs des établissements concernés.
+
+Les intéressés doivent prendre leurs fonctions dans un délai de deux mois à compter de la notification de leur nomination,
+sauf dérogation accordée par le préfet de département.
+
+Celui qui ne rejoint pas son poste dans le délai prévu à l'alinéa précédent perd le bénéfice de sa nomination.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-21 (M)
+
+
+##### Paragraphe 2 : Nomination aux fonctions de chef de service ou de département dans les centres hospitaliers universitaires
+
+###### Article R714-21-3
+
+Dans les centres hospitaliers universitaires lorsque la vacance des fonctions de chef de service ou de chef de département
+s'accompagne d'une vacance d'emploi de professeur des universités - praticien hospitalier, la publication au Journal officiel
+en fait expressément mention.
+
+Dans ce cas, peuvent faire acte de candidature aux fonctions de chef de service ou de département, dans leur discipline, les
+professeurs des universités - praticiens hospitaliers. Lorsque cette candidature implique une mutation, les intéressés
+doivent remplir les conditions fixées par l'article 60 du décret n° 84-135 du 24 février 1984 et faire acte de candidature à
+un emploi vacant dans l'établissement concerné.
+
+Lorsque les fonctions de chef de service ou de chef de département ne sont pas pourvues dans les conditions fixées à l'alinéa
+précédent, peuvent faire acte de candidature à ces fonctions les candidats à une première nomination dans le corps des
+professeurs des universités - praticiens hospitaliers qui font acte de candidature à un emploi vacant dans l'établissement.
+
+Par dérogation aux dispositions du deuxième alinéa de l'article R. 714-21-1, les intéressés disposent, pour faire acte de
+candidature aux fonctions de chef de service ou de chef de département, du même délai que celui imparti pour faire acte de
+candidature à chaque tour de recrutement de professeur des universités - praticien hospitalier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°84-135 du 24 février 1984 - art. 60 (M)
+	  - Code de la santé publique - art. R714-21-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Arrêté du 20 août 1992 - art. 2 (Ab)
+	  - Arrêté du 20 août 1992 - art. 3 (Ab)
+	  - Décret n°2000-546 du 16 juin 2000 - art. 5 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2000-546 du 16 juin 2000 - art. 5 (Ab) JORF 21 juin 2000
+
+
+###### Article R714-21-4
+
+Lorsque la vacance des fonctions de chef de service ou de chef de département ne s'accompagne pas d'une vacance d'emploi de
+professeur des universités - praticien hospitalier, peuvent faire acte de candidature aux fonctions de chef de service ou de
+chef de département, à condition qu'ils exercent dans l'établissement où se produit la vacance :
+
+1° Les professeurs des universités - praticiens hospitaliers ;
+
+2° Les maîtres de conférences des universités - praticiens hospitaliers ou les chefs de travaux des universités - praticiens
+hospitaliers comptant au moins deux ans de services effectifs à temps plein en cette qualité ;
+
+3° Les praticiens hospitaliers comptant au moins trois ans de services effectifs à temps plein en cette qualité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Arrêté du 20 août 1992 - art. 2 (Ab)
+	  - Arrêté du 20 août 1992 - art. 3 (Ab)
+
+
+###### Article R714-21-5
+
+La nomination aux fonctions de chef de service ou de chef de département dans les services ou départements des établissements
+publics de santé liés par une convention prévue à l'article 6 de l'ordonnance n° 58-1373 du 30 décembre 1958 relève des
+dispositions du présent paragraphe.
+
+Dans ce cas, les candidatures sont soumises à l'avis de la commission médicale d'établissement et du conseil d'administration
+dans les deux établissements liés par la convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Ordonnance n°58-1373 du 30 décembre 1958 - art. 6 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Arrêté du 20 août 1992 - art. 1 (Ab)
+	  - Arrêté du 20 août 1992 - art. 2 (Ab)
+	  - Code de la santé publique - art. R714-21-1 (V)
+
+
+##### Paragraphe 3 : Dispositions propres aux centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires
+
+###### Article R714-21-6
+
+Dans les centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers universitaires, peuvent faire
+acte de candidature aux fonctions de chef de service, à condition qu'ils exercent dans l'établissement où se produit la
+vacance :
+
+1° Les professeurs des universités - praticiens hospitaliers des centres de soins, d'enseignement et de recherche dentaires ;
+
+2° Les professeurs du premier et du deuxième grade de chirurgie dentaire - odontologistes des services de consultations et de
+traitement dentaires, sous réserve qu'ils exercent ou s'engagent à exercer leurs fonctions hospitalo-universitaires à plein
+temps ;
+
+3° Les maîtres de conférences des universités - praticiens hospitaliers des centres de soins, d'enseignement et de recherche
+dentaires comptant au moins deux ans de services effectifs en cette qualité, sous réserve qu'ils exercent ou s'engagent à
+exercer leurs fonctions hospitalo-universitaires à plein temps.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Arrêté du 20 août 1992 - art. 2 (Ab)
+	  - Arrêté du 20 août 1992 - art. 3 (Ab)
+	  - Code de la santé publique - art. R714-21-12 (V)
+	  - Code de la santé publique - art. R714-21-8 (V)
+
+
+##### Paragraphe 4 : Nomination des chefs de service ou de département dans les établissements publics de santé autres que les centres hospitaliers universitaires ainsi que dans les services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires placés totalement en dehors de l'application de l'ordonnance du 30 décembre 1958
+
+###### Article R714-21-7
+
+Les dispositions du présent paragraphe s'appliquent aux fonctions de chef de service et de chef de département, à temps plein
+ou à temps partiel, dans les établissements publics de santé autres que les centres hospitaliers universitaires et dans les
+services des centres hospitaliers régionaux faisant partie de centres hospitaliers universitaires, placés totalement en
+dehors de l'application de l'ordonnance n° 58-1373 du 30 décembre 1958.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Ordonnance 58-1373 1958-12-30
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 20 août 1992
+	  - TXT_SOURCE: Arrêté du 20 août 1992 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 20 août 1992 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 20 août 1992 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 20 août 1992 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 20 août 1992 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 20 août 1992 - art. ANNEXE I (V)
+	  - TXT_SOURCE: Arrêté du 20 août 1992 - art. ANNEXE II (V)
+
+	**Cité par**:
+
+	  - Arrêté du 20 août 1992 - art. 1 (V)
+
+
+##### I. - Nomination aux fonctions de chef de service ou de chef de département à temps plein
+
+###### Article R714-21-8
+
+Lorsque la vacance des fonctions de chef de service ou de département à temps plein s'accompagne d'une vacance d'emploi de
+praticien hospitalier, les déclarations de vacance de l'emploi ainsi que celles de la fonction de chef de service ou de
+département font l'objet de listes distinctes publiées à la même date au Journal officiel.
+
+Peuvent faire acte de candidature aux fonctions de chef de service dans leur discipline ou aux fonctions de chef de
+département :
+
+1° Les praticiens hospitaliers à temps plein nommés à titre permanent ;
+
+2° Les personnels enseignants et hospitaliers titulaires, mentionnés au 1° de l'article 1er du décret n° 84-135 du 24 février
+1984, au A de l'article 1er du décret n° 90-92 du 24 janvier 1990 et au 2° de l'article R. 714-21-6 du présent code ;
+
+3° Les candidats à une première nomination dans le corps des praticiens hospitaliers issus des concours sur titres et travaux
+prévus aux articles 6-I et 6-II du décret n° 84-131 du 24 février 1984 qui font acte de candidature à l'emploi de praticien
+hospitalier correspondant ainsi que les candidats à l'intégration dans ce corps prévue par le dernier alinéa de l'article 16
+du même décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°84-135 1984-02-24 art. 1
+	  - Décret n°84-131 du 24 février 1984 - art. 16 (M)
+	  - Décret n°90-92 1990-01-24 art. 1
+	  - Code de la santé publique - art. R714-21-6 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Décret n°2000-546 du 16 juin 2000 - art. 4 (Ab)
+	  - Code de la santé publique - art. R714-21-15 (V)
+	  - Code de la santé publique - art. R714-21-18 (V)
+	  - Code de la santé publique - art. R714-21-19 (V)
+	  - Code de la santé publique - art. R714-21-9 (V)
+
+
+###### Article R714-21-9
+
+Lorsque la vacance des fonctions de chef de service ou de département ne s'accompagne pas d'une vacance d'emploi de praticien
+hospitalier, peuvent faire acte de candidature aux fonctions de chef de service ou de département, à condition qu'elles
+exercent dans l'établissement où se produit la vacance, les personnes mentionnées au 1° du deuxième alinéa de l'article R.
+714-21-8 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-21-15 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-21-8 (M)
+
+
+###### Article R714-21-10
+
+Les praticiens des hôpitaux occupant des fonctions de chef de service à temps partiel dont le poste a été transformé en poste
+à temps plein et qui demandent à bénéficier des dispositions de l'article 15 du décret n° 84-131 du 24 février 1984 peuvent
+également demander à être nommés dans les fonctions de chef de service à temps plein dans leur service d'affectation, sous
+réserve qu'ils comptent au moins deux années de fonctions en qualité de chef de service à temps partiel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°84-131 du 24 février 1984 - art. 15 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Arrêté du 20 août 1992 - art. 3 (V)
+
+
+###### Article R714-21-11
+
+Un praticien hospitalier nommé à titre permanent dont l'activité est partagée entre deux établissements publics de santé, en
+application des dispositions de l'article 4 du décret n° 84-131 du 24 février 1984, peut faire acte de candidature aux
+fonctions de chef de service déclarées vacantes dans chacun de ces établissements, sous réserve que l'activité qu'il exerce
+dans chacun d'eux soit au moins égale à l'activité minimale exigée d'un praticien à temps partiel de la même spécialité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°84-131 du 24 février 1984 - art. 4 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Arrêté du 20 août 1992 - art. 4 (V)
+
+
+##### II. - Nomination aux fonctions de chef de service ou de département à temps partiel
+
+###### Article R714-21-12
+
+Lorsque la vacance des fonctions de chef de service ou de département à temps partiel s'accompagne d'une vacance d'emploi de
+praticien à temps partiel, les déclarations de vacance de l'emploi ainsi que de la fonction de chef de service ou de
+département font l'objet de listes distinctes publiées à la même date au Journal officiel.
+
+Peuvent faire acte de candidature aux fonctions de chef de service à temps partiel dans leur discipline et aux fonctions de
+chef de département à temps partiel :
+
+1° Les praticiens des hôpitaux à temps partiel ;
+
+2° Les candidats reçus au concours de praticien des hôpitaux à temps partiel, candidats à une première nomination en qualité
+de praticien à temps partiel et ayant fait acte de candidature à l'emploi correspondant ;
+
+3° Les personnels enseignants et hospitaliers titulaires mentionnés au 1° de l'article 1er du décret n° 84-135 du 24 février
+1984, au A de l'article 1er du décret n° 90-92 du 24 janvier 1990 et au 2° de l'article R. 714-21-6 du présent code ;
+
+4° Les praticiens des hôpitaux à temps plein qui remplissent les conditions statutaires pour être nommés praticiens des
+hôpitaux à temps partiel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°84-135 1984-02-24 art. 1
+	  - Décret n°90-92 1990-01-24 art. 1
+	  - Code de la santé publique - art. R714-21-6 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Décret n°2000-546 du 16 juin 2000 - art. 4 (Ab)
+	  - Code de la santé publique - art. R714-21-13 (V)
+	  - Code de la santé publique - art. R714-21-19 (V)
+
+
+###### Article R714-21-13
+
+Lorsque la vacance de fonctions de chef de service ou de département à temps partiel ne s'accompagne pas d'une vacance
+d'emploi de praticien des hôpitaux à temps partiel, peuvent faire acte de candidature aux fonctions de chef de service ou de
+département, à condition qu'elles exerçent dans l'établissement où se produit la vacance, les personnes mentionnées au 1° du
+deuxième alinéa de l'article R. 714-21-12 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-21-12 (M)
+
+
+##### III
+
+##### - Dispositions propres aux fonctions de chef de service ou de département de psychiatrie
+
+###### Article R714-21-14
+
+Le chef de service ou le chef de département de psychiatrie exerce ses fonctions à temps plein. Il assume également, le cas
+échéant, la responsabilité d'un secteur psychiatrique dans les conditions prévues à l'article 10 du décret n° 86-602 du 14
+mars 1986.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°86-602 du 14 mars 1986 - art. 10 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+
+###### Article R714-21-15
+
+La nomination des chefs de service ou de département de psychiatrie est prononcée dans les conditions prévues aux articles R.
+714-21-8 et R. 714-21-9, après consultation d'une commission nationale qui dispose des avis de la commission médicale
+d'établissement et du conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-21-8 (M)
+	  - Code de la santé publique - art. R714-21-9 (M)
+
+
+###### Article R714-21-16
+
+La commission nationale est constituée par arrêté du ministre chargé de la santé. Elle comprend [*composition*] :
+
+1° Un conseiller d'Etat, en activité ou honoraire, président, nommé sur proposition du vice-président du Conseil d'Etat ;
+
+2° Six membres désignés par le ministre chargé de la santé :
+
+a) Le directeur des hôpitaux ou son représentant ;
+
+b) Le directeur général de la santé ou son représentant ;
+
+c) Un membre de l'inspection générale des affaires sociales ;
+
+d) Deux médecins inspecteurs de la santé ;
+
+e) Un membre d'un conseil d'administration ou un directeur d'un établissement public de santé spécialisé ;
+
+3° Six psychiatres des hôpitaux praticiens hospitaliers nommés à titre permanent et en activité, élus au scrutin
+proportionnel de liste, avec répartition des restes selon la règle de la plus forte moyenne, par les psychiatres des hôpitaux
+praticiens hospitaliers nommés à titre permanent.
+
+Le président et les membres énumérés aux c, d et e du 2° et au 3° ont des suppléants désignés ou élus dans les mêmes
+conditions que les titulaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Arrêté du 20 août 1992 - art. 2 (V)
+	  - Décret n°92-819 du 20 août 1992 - art. 5 (Ab)
+	  - Arrêté du 22 janvier 1993 - art. 17 (Ab)
+	  - Arrêté du 22 janvier 1993 - art. 2 (Ab)
+	  - Arrêté du 22 janvier 1993 - art. 26 (Ab)
+	  - Arrêté du 22 janvier 1993 - art. 4 (Ab)
+	  - Arrêté du 24 septembre 2004 - art. 18 (V)
+	  - Arrêté du 24 septembre 2004 - art. 2 (V)
+
+
+###### Article R714-21-17
+
+Le mandat de la commission est de cinq ans [*durée*].
+
+Lorsqu'un membre élu ne remplit plus les conditions d'éligibilité, un suppléant élu sur la même liste, pris dans l'ordre de
+désignation, est nommé titulaire à sa place jusqu'au renouvellement de la commission. Le suppléant nommé titulaire est alors
+remplacé par un candidat non élu de la même liste, retenu dans l'ordre de présentation de la liste.
+
+Lorsqu'il n'est plus possible de pourvoir tous les postes de titulaires, il est procédé au renouvellement de la commission.
+
+Les modalités d'organisation des élections, de désignation des membres et de fonctionnement de la commission sont fixées par
+arrêté du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Arrêté du 22 janvier 1993 - art. 1 (Ab)
+	  - Arrêté du 22 janvier 1993 - art. 5 (Ab)
+	  - Arrêté du 24 septembre 2004 - art. 1 (V)
+	  - Arrêté du 24 septembre 2004 - art. 5 (V)
+	  - Loi n°2004-806 du 9 août 2004 - art. 155 (V)
+
+
+##### IV
+
+##### - Dispositions particulières aux pharmacies hospitalières
+
+###### Article R714-21-18
+
+Outre les praticiens hospitaliers pharmaciens des hôpitaux remplissant les conditions définies au deuxième alinéa de
+l'article R. 714-21-8, peuvent faire acte de candidature aux fonctions de chef de service de pharmacie les pharmaciens-
+résidents qui, en application de l'article 29 V de la loi du 27 janvier 1987, ont demandé à conserver leur situation
+antérieure.
+
+Les intéressés doivent remplir les conditions qui auraient été requises pour faire acte de candidature si le poste avait été
+offert conformément aux dispositions du décret n° 72-361 du 20 avril 1972 relatif au statut des pharmaciens-résidents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°72-361 1972-04-20
+	  - Loi n°87-39 1987-01-27 art. 29
+	  - Code de la santé publique - art. R714-21-8 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+
+##### V. - Dispositions particulières à l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre
+
+###### Article R714-21-19
+
+Outre les praticiens mentionnés aux articles R. 714-21-8 et R. 714-21-12, peuvent faire acte de candidature au sein de
+l'unité hospitalière du centre d'accueil et de soins hospitaliers de Nanterre :
+
+a) Aux fonctions respectives de chef de service à temps plein ou à temps partiel, dans leur discipline, les praticiens de
+l'hôpital de la maison de Nanterre exerçant à temps plein ou à temps partiel dans le service où la vacance est ouverte ;
+
+b) Aux fonctions respectives de chef de département à temps plein ou à temps partiel, les praticiens de l'hôpital de la
+maison de Nanterre exerçant à temps plein ou à temps partiel dans le département où la vacance est ouverte.
+
+La nomination des intéressés est prononcée dans les conditions prévues à l'article L. 714-21.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-21 (M)
+	  - Code de la santé publique - art. R714-21-12 (M)
+	  - Code de la santé publique - art. R714-21-8 (M)
+
+
+##### Paragraphe 5 : Dispositions communes
+
+###### Article R714-21-20
+
+Sans préjudice de l'application du quatrième alinéa de l'article L. 714-21, les fonctions de chef de service ou de chef de
+département cessent lorsque le praticien est placé, conformément à son statut, en position de détachement ou de
+disponibilité.
+
+Les fonctions de chef de service ou de chef de département cessent également lorsque, pour une raison autre que celles visées
+au premier alinéa, et notamment du fait d'une mise en congé, le praticien concerné n'a pas été en mesure de les exercer
+effectivement pendant une durée ininterrompue d'un an.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Décret n°97-529 du 26 mai 1997 - art. 4 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-21 (M)
+
+
+###### Article R714-21-21
+
+Les chefs de service ou les chefs de département qui ne sollicitent pas le renouvellement de leurs fonctions, ou dont les
+fonctions ne sont pas renouvelées, ou qui renoncent à l'exercice de leurs fonctions de chef de service ou de chef de
+département, ou aux fonctions desquels il a été mis fin dans l'intérêt du service, demeurent affectés sur un emploi
+correspondant au statut de praticien dont ils relèvent dans leur service ou leur département d'affectation. Ils peuvent être,
+avec leur accord, affectés sur un poste vacant de même discipline dans un autre service ou un autre département de
+l'établissement, après avis de la commission médicale d'établissement.
+
+Les praticiens mentionnés au premier alinéa peuvent participer aux opérations de mutation prévues par le statut dont ils
+relèvent sans que puisse leur être opposée aucune condition d'ancienneté dans leur affectation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Décret n°97-529 du 26 mai 1997 - art. 4 (Ab)
+
+
+###### Article R714-21-22
+
+Lorsque les fonctions de chef de service ou de chef de département demeurent vacantes à l'issue de la procédure de
+recrutement, ou en cas de vacance temporaire des fonctions de chef de service ou de chef de département, le préfet du
+département désigne un praticien pour exercer provisoirement ces fonctions, après avis de la commission médicale
+d'établissement et du directeur, et sur proposition du médecin inspecteur régional de la santé ou du pharmacien inspecteur
+régional s'il s'agit d'un pharmacien.
+
+La désignation à titre provisoire ne peut excéder un an [*durée*]. Elle est renouvelable une fois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5104-37 (M)
+	  - Code de la santé publique - art. R714-21-23 (V)
+	  - Code de la santé publique - art. R714-21-24 (V)
+
+
+###### Article R714-21-23
+
+Lorsqu'une vacance de fonctions de chef de service ou de chef de département, non accompagnée d'une vacance d'emploi,
+survient dans des circonstances de nature à compromettre la continuité du service, le directeur de l'établissement, après
+avis du président de la commission médicale d'établissement, désigne un praticien pour exercer provisoirement ces fonctions,
+dans l'attente de la mise en oeuvre de la procédure définie à l'article R. 714-21-22 ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-21-22 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-21-24 (V)
+
+
+###### Article R714-21-24
+
+A l'Assistance publique - hôpitaux de Paris, les désignations prévues aux articles R. 714-21-22 et R. 714-21-23 sont
+prononcées dans tous les cas par le directeur général après avis de la commission médicale d'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-21-22 (M)
+	  - Code de la santé publique - art. R714-21-23 (M)
+
+
+###### Article R714-21-25
+
+Sous réserve qu'ils n'exercent plus d'activité professionnelle médicale :
+
+a) Peuvent porter le titre d'ancien chef de service des hôpitaux à plein temps ou à temps partiel les praticiens qui ont été
+nommés à ces fonctions en application des dispositions statutaires les régissant avant le 1er janvier 1985 ;
+
+b) Peuvent porter le titre d'ancien chef de service des hôpitaux à plein temps ou à temps partiel les praticiens qui, nommés
+à ces fonctions en application du décret n° 88-225 du 10 mars 1988 ou des articles R. 714-21-1 et suivants du présent code,
+les ont exercées pendant cinq années au moins ;
+
+c) Peuvent porter le titre d'ancien chef de département des hôpitaux à temps plein ou à temps partiel les praticiens qui,
+nommés à ces fonctions en application des articles R. 714-21-1 et suivants du présent code, les ont effectivement exercées
+pendant cinq années au moins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°88-225 1988-03-10
+	  - Code de la santé publique - art. R714-21-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 2 () JORF 23 août 1992
+
+
+##### Sous-section 2 : Conseil de service ou de département
 
 ###### Article R714-22-1
 
@@ -74892,9 +75719,9 @@ Le conseil est présidé par le chef de service ou de département.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cite**:
 
@@ -74920,9 +75747,9 @@ sont membres du conseil de service ou de département.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cite**:
 
@@ -74948,9 +75775,9 @@ l'article R. 714-22-5.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cite**:
 
@@ -74988,9 +75815,9 @@ du premier alinéa de l'artice L. 714-23 ;
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cite**:
 
@@ -75040,9 +75867,9 @@ g) Le cas échéant, le collège des personnels administratifs.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cité par**:
 
@@ -75074,9 +75901,9 @@ de droit. Lorsqu'un collège comporte au moins trois membres, le nombre de repr�
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cite**:
 
@@ -75100,9 +75927,9 @@ directeur de l'établissement huit jours au moins avant la date prévue pour le 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cité par**:
 
@@ -75131,9 +75958,9 @@ représentants à désigner, ceux-ci sont tirés au sort parmi l'ensemble des pe
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cité par**:
 
@@ -75155,9 +75982,9 @@ En cas d'exercice dans plusieurs services ou départements, l'exercice principal
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
 ###### Article R714-22-10
@@ -75178,9 +76005,9 @@ Dans tous les cas, les fonctions du nouveau membre prennent fin au jour où aura
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cite**:
 
@@ -75200,12 +76027,61 @@ sort pour assister aux séances du conseil de service ou de département.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
+	**Modifié par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
+
+
+##### Sous-section 3 : Des responsables d'unité fonctionnelle
+
+###### Article R714-24-1
+
+Les praticiens responsables des unités fonctionnelles des services ou départements sont désignés, dans les conditions
+définies au troisième alinéa de l'article L. 714-24, pour une période de trois ans renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
 	**Créé par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 3 () JORF 23 août 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-24 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R6146-18 (M)
 
 
-##### Sous-section 2 : Service de soins infirmiers
+###### Article R714-24-2
+
+Le conseil d'administration peut mettre fin, dans l'intérêt du service, aux fonctions de responsable d'unité fonctionnelle,
+après avis du chef de service ou de département et de la commission médicale d'établissement, et après que l'intéressé a été
+mis à même de présenter ses observations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°92-819 du 20 août 1992 - art. 3 () JORF 23 août 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R6146-18 (M)
+
+
+##### Sous-section 4 : Service de soins infirmiers
 
 ###### Article R714-26-1
 
@@ -75226,9 +76102,9 @@ soins infirmiers.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
 ###### Article R714-26-2
@@ -75254,9 +76130,9 @@ deux.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cite**:
 
@@ -75278,7 +76154,7 @@ suivants :
 
 a) Collège des infirmiers surveillants-chef et surveillants des services médicaux ;
 
-b) Collège des infirmiers, infirmiers de bloc opératoire, infirmiers spécialistes en anesthésie réanimation, puéricultrice ;
+b) Collège des infirmiers, infirmiers de bloc opératoire, infirmiers spécialistes en anesthésie réanimation, puéricultrices ;
 
 c) Collège des aides-soignants.
 
@@ -75297,9 +76173,9 @@ le tirage au sort.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cite**:
 
@@ -75328,9 +76204,9 @@ l'ensemble des personnels appartenant au collège concerné.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cité par**:
 
@@ -75346,7 +76222,7 @@ Il est pourvu une fois par an au moins, dans les conditions fixées aux articles
 des membres qui cessent leurs fonctions avant l'expiration de celles-ci en raison de leur démission, de leur départ de
 l'établissement ou du fait qu'ils quittent la position d'activité.
 
-Ils en va de même lorsqu'un membre cesse d'appartenir à la catégorie qu'il représente.
+Il en va de même lorsqu'un membre cesse d'appartenir à la catégorie qu'il représente.
 
 Dans tous les cas, les fonctions du nouveau membre prennent fin au jour où auraient cessé celles du membre qu'il a remplacé.
 
@@ -75357,9 +76233,9 @@ Dans tous les cas, les fonctions du nouveau membre prennent fin au jour où aura
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cite**:
 
@@ -75393,9 +76269,9 @@ e) Un représentant de la commission médicale d'établissement.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cité par**:
 
@@ -75419,9 +76295,9 @@ La commission est obligatoirement consultée sur les questions énumérées au d
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 	**Cite**:
 
@@ -75439,9 +76315,9 @@ A l'initiative du président, des personnes qualifiées peuvent être associées
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
 ###### Article R714-26-9
@@ -75458,9 +76334,9 @@ d'intervalle. L'avis est alors émis valablement, quel que soit le nombre de mem
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
 ###### Article R714-26-10
@@ -75475,9 +76351,9 @@ commission dans un délai de quinze jours.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
 ###### Article R714-26-11
@@ -75497,9 +76373,9 @@ des infirmiers généraux de la fonction publique hospitalière.
 
 	  - Décret n°89-758 du 18 octobre 1989 - art. 2 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-819 du 20 août 1992 - art. 1 () JORF 23 août 1992
 
 
 ##### Section 4 : Les personnels des établissements publics de santé
