@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-03-05
+Version Consolidée au 1992-03-18
 
 # Partie législative ancienne
 
@@ -67001,6 +67001,103 @@ sociale.*]
 
 	  - Code de la santé publique - art. L712-16 (M)
 	  - Code de la santé publique - art. L715-2 (Ab)
+
+
+#### Chapitre 3 : Les actions de coopération
+
+##### Section 1 : Les conférences sanitaires de secteur
+
+###### Article R713-1-13
+
+Les séances des conférences ne sont pas publiques.
+
+La police de l'assemblée appartient au président, qui peut suspendre la séance ou prononcer son renvoi.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°97-240 du 17 mars 1997 - art. 2 (Ab) JORF du 18 mars 1997
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6131-13 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R713-12 (T)
+
+
+###### Article R713-1-14
+
+Les conférences sanitaires de secteur délibèrent valablement :
+
+1. Pour celles dont le nombre de membres est au plus égal à cinquante, lorsque plus de la moitié des membres est présente ;
+
+2. Pour celles dont le nombre de membres est supérieur à cinquante, lorsque plus du tiers des membres est présent, sans
+toutefois que ce nombre puisse être inférieur à vingt-six.
+
+Lorsque ce quorum n'a pas été atteint, une deuxième convocation est faite à huit jours d'intervalle. La conférence délibère
+alors valablement quel que soit le nombre des membres présents.
+
+Le vote par correspondance et le vote par procuration ne sont pas admis.
+
+En cas de partage égal des voix, la voix du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°97-240 du 17 mars 1997 - art. 2 (Ab) JORF du 18 mars 1997
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6131-14 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R713-13 (T)
+
+
+###### Article R713-1-15
+
+Les fonctions de représentant d'un établissement de santé à la conférence sanitaire de secteur sont gratuites
+[*rémunération*].
+
+Les frais d'organisation et de fonctionnement des conférences sont à la charge des établissements qui en sont membres au
+prorata du nombre de leurs représentants, dans des conditions précisées par le règlement intérieur.
+
+Les frais de déplacement des représentants des établissements, membres de la conférence ou du bureau, sont à la charge de
+l'établissement qu'ils représentent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°97-240 du 17 mars 1997 - art. 2 (Ab) JORF du 18 mars 1997
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6131-15 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R713-14 (T)
 
 
 # Partie réglementaire ancienne - Décrets simples
