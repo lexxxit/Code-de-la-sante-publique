@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1990-09-29
+Version Consolidée au 1990-10-06
 
 # Partie législative ancienne
 
@@ -57956,7 +57956,447 @@ Les décisions du préfet peuvent faire l'objet d'un recours devant le ministre 
 	  - Code de la santé publique - art. R4241-19 (V)
 
 
+#### Chapitre 5 : Homologation de certains produits et appareils.
+
+###### Article R5274
+
+Les dispositions du présent chapitre s'appliquent [*champ d'application*] aux catégories de produits et appareils à usage
+préventif, diagnostique ou thérapeutique utilisés en médecine humaine dont la liste est établie par arrêté du ministre chargé
+de la santé après avis de la Commission nationale d'homologation instituée par l'article L. 665-1.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
+	**Cité par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 2 (V)
+	  - Décret n°95-292 du 16 mars 1995 - art. 5 (Ab)
+	  - Code de la santé publique - art. R5287 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L665-1 (M)
+
+
+###### Article R5275
+
+La Commission nationale d'homologation comprend [*composition - membres*] :
+
+1° Douze représentants des ministres intéressés :
+
+a) Cinq représentants du ministre chargé de la santé ;
+
+b) Deux représentants du ministre chargé de l'industrie ;
+
+c) Un représentant du ministre chargé de la sécurité sociale ;
+
+d) Un représentant du ministre chargé du commerce extérieur ;
+
+e) Un représentant du ministre de la défense ;
+
+f) Un représentant du ministre chargé de la consommation ;
+
+g) Un représentant du ministre chargé de la recherche ;
+
+2° Neuf représentants des organismes et professions intéressés :
+
+a) Un représentant de l'Institut national de la santé et de la recherche médicale ;
+
+b) Deux représentants de la Fédération hospitalière de France ;
+
+c) Un représentant des établissements d'hospitalisation privés à but non lucratif proposé par l'organisation la plus
+représentative de ces établissements ;
+
+d) Deux représentants des établissements d'hospitalisation privés à but lucratif proposés par les deux organisations les plus
+représentatives de ces établissements ;
+
+e) Un médecin conseil de la sécurité sociale proposé par le président de la Caisse nationale d'assurance maladie des
+travailleurs salariés ;
+
+f) Un représentant de l'Association française de normalisation ;
+
+g) Le président du Syndicat national de l'industrie des technologies médicales ou son représentant.
+
+3° Neuf personnalités désignées par le ministre chargé de la santé en raison de leur compétence.
+
+Les membres mentionnés au 2° (à l'exception du g) et au 3° ont un suppléant désigné dans les mêmes conditions. Le suppléant
+remplace le titulaire en cas d'empêchement. Il lui succède en cas de vacance du poste. Dans ce cas, son mandat prend fin à la
+date à laquelle expirait le mandat du membre remplacé.
+
+Le président et le vice-président de la commission sont désignés par le ministre chargé de la santé ; ils peuvent être
+choisis en dehors des membres de la commission.
+
+Les personnalités mentionnées au 3° sont nommés pour une durée de trois ans. La durée totale des mandats successifs qu'elles
+peuvent exercer, en qualité de titulaire, ne peut excéder six ans.
+
+Le président et le vice-président sont également nommés pour une durée de trois ans mais peuvent exercer leurs fonctions sans
+limitation de durée.
+
+Le président peut appeler à siéger, avec voix consultative, des experts, des rapporteurs et toute personne dont la présence
+est jugée utile.
+
+Des groupes d'experts compétents pour les différentes catégories de produits et appareils préparent le travail de la
+commission. Ces experts sont désignés par arrêté du ministre chargé de la santé sur proposition de la commission.
+
+Sans préjudice du secret professionnel auquel sont astreints, dans les conditions prévues à l'article 378 du code pénal, les
+membres de la commission et des groupes d'experts ainsi que les personnels qui assistent aux délibérations, ces délibérations
+sont secrètes.
+
+La commission se prononce à la majorité simple. En cas de partage égal des voix, celle du président est prépondérante.
+
+La commission établit un règlement intérieur approuvé à la majorité absolue de ses membres. Le secrétariat de la commission
+est assuré par le ministère chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
+	**Cite**:
+
+	  - Code pénal 378
+
+
+###### Article R5276
+
+La demande d'homologation est présentée par le fabricant ou son représentant dûment mandaté. Elle est adressée au secrétariat
+de la commission et accompagnée d'un dossier technique ; l'ensemble de ces documents sont rédigés en français.
+
+La demande d'homologation concerne un produit ou appareil ayant dépassé le stade du prototype.
+
+La demande accompagnée du dossier technique est enregistrée par le secrétariat de la commission lorsque toutes les pièces
+requises sont fournies. Le demandeur est avisé de cet enregistrement.
+
+Un arrêté du ministre chargé de la santé fixe la liste des pièces qui doivent accompagner la demande d'homologation et de
+celles que doit comporter le dossier technique.
+
+Dans des cas exceptionnels, le ministre chargé de la santé peut autoriser la production d'un dossier simplifié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5278 (Ab)
+
+
+###### Article R5277
+
+La commission nationale d'homologation peut, avant de rendre son avis sur la demande, exiger qu'il soit procédé à des essais
+techniques ainsi qu'à des essais cliniques.
+
+Les essais techniques doivent être effectués par des laboratoires agréés à cet effet par arrêté conjoint des ministres
+chargés de la santé et de l'industrie après avis de la commission.
+
+Les essais cliniques doivent être effectués par des médecins experts figurant sur une liste établie par le ministre chargé de
+la santé après avis de la commission.
+
+Lorsque la demande porte sur un produit ou un appareil dont la commission reconnaît le caractère innovant, il peut être fait
+appel à des experts ne figurant pas sur la liste mentionnée à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
+	**Cité par**:
+
+	  - Décret n°95-292 du 16 mars 1995 - art. 2 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+
+###### Article R5278
+
+Lorsqu'une modification est apportée à un produit ou appareil homologué, une nouvelle demande d'homologation doit être
+présentée.
+
+L'arrêté mentionné à l'avant-dernier alinéa de l'article R. 5276 fixe la liste des pièces à produire en fonction de la nature
+de la modification.
+
+En outre, le ministre chargé de la santé peut, dans ce cas, dispenser le demandeur de la production de certains documents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
+	**Cité par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5276 (M)
+
+
+###### Article R5280
+
+Les produits et appareils mis sur le marché à titre gratuit ou onéreux doivent être conformes aux modèles homologués.
+
+Ils doivent être accompagnés d'un bulletin d'identification et d'une notice d'utilisation dont le contenu est approuvé par le
+ministre chargé de la santé, après avis de la commission, lors de l'homologation. Le numéro d'homologation doit être apposé
+de façon visible et indélébile sur les produits et appareils. En cas d'impossibilité manifeste, le numéro d'homologation doit
+obligatoirement figurer sur l'emballage du produit ou de l'appareil.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+
+###### Article R5281
+
+Le ministre chargé de la santé peut faire procéder à des contrôles de conformité des produits et appareils homologués mis sur
+le marché ou en cours d'utilisation.
+
+Le fabricant ou son représentant est tenu de porter à la connaissance du ministre les accidents et dysfonctionnements graves
+affectant un produit ou appareil homologué.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+
+###### Article R5282
+
+L'homologation peut à tout moment être suspendue, pour une durée n'excédant pas six mois, ou retirée, après avis de la
+commission :
+
+a) En cas de changement des normes et règlements applicables ;
+
+b) Si l'utilisation du produit ou de l'appareil présente un danger pour le patient ou l'utilisateur, et notamment en cas de
+dysfonctionnement grave ou d'accident ;
+
+c) Si le produit ou l'appareil mis sur le marché n'est pas conforme au modèle homologué ;
+
+d) Si les renseignements fournis par le titulaire lors de la demande d'homologation sont erronés ;
+
+e) Si la référence à l'homologation a été utilisée abusivement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5285 (Ab)
+
+
+###### Article R5283
+
+Les décisions de retrait ne peuvent intervenir qu'après que le titulaire de l'homologation a été appelé à formuler ses
+observations.
+
+Lorsque l'homologation est suspendue ou retirée, le titulaire doit prendre toutes dispositions utiles pour faire cesser la
+distribution du produit ou de l'appareil concerné. Si ces dispositions n'interviennent pas dans les délais compatibles avec
+l'intérêt de la santé publique, le ministre chargé de la santé prend les mesures appropriées.
+
+Les décisions de refus, de retrait et de suspension de l'homologation ne peuvent faire l'objet d'un recours contentieux
+qu'après exercice d'un recours gracieux qui est soumis à l'avis de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+
+###### Article R5284
+
+Les décisions d'homologation, de refus ou de retrait d'homologation ainsi que les décisions suspendant l'homologation ou
+mettant fin à cette suspension sont publiées par extraits au Journal officiel de la République française.
+
+Les décisions de suspension et de retrait ainsi que celles qui mettent fin à une suspension font l'objet des autres
+publicités que le ministre chargé de la santé estime nécessaire d'ordonner.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
+
+###### Article R5285
+
+Les frais d'homologation sont à la charge du demandeur, y compris le coût des essais que la Commission nationale
+d'homologation peut exiger dans les cas énumérés à l'article R. 5282.
+
+Les règles d'indemnisation des experts chargés des essais cliniques sont fixées par arrêté du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5282 (Ab)
+
+
+###### Article R5286
+
+Des arrêtés conjoints des ministres chargés de la santé et du budget fixent le régime d'indemnisation des membres de la
+commission et des membres des groupes d'experts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+
+###### Article R5287
+
+Les produits et appareils appartenant aux catégories qui figurent sur la liste mentionnée à l'article R. 5274 et qui n'ont
+pas encore été homologués ne peuvent être présentés ou exposés que si le fabricant ou son mandataire y appose de manière
+claire et visible la mention " produit non homologué et ne pouvant être vendu " ou " appareil non homologué et ne pouvant
+être vendu ".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5274 (Ab)
+
+
 #### Chapitre 4 : Visa des spécialités anciennes
+
+###### Article R5279
+
+L'homologation est accordée par arrêté du ministre chargé de la santé.
+
+L'arrêté d'homologation peut limiter les conditions d'utilisation des produits et appareils.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°90-899 du 1 octobre 1990 - art. 1 () JORF 6 octobre 1990
+
 
 ##### Section 1 : Spécialités pharmaceutiques.
 
