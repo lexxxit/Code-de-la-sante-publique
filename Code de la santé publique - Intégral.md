@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1995-02-03
+Version Consolidée au 1995-02-05
 
 # Partie législative ancienne
 
@@ -3619,6 +3619,46 @@ conditions d'application de l'article L. 44-2 ci-dessus.
 	  - Code de la santé publique - art. L44-2 (M)
 
 
+###### Article L44-4
+
+Toute installation de radiothérapie externe est soumise à un contrôle périodique de sa qualité et de sa sécurité, dès lors
+qu'elle peut émettre des rayonnements d'énergie supérieure à un seuil fixé par arrêté du ministre chargé de la santé, ou
+qu'elle figure sur une liste fixée par décret en Conseil d'Etat.
+
+Un décret détermine les modalités d'application du présent article et notamment le ou les organismes chargés d'effectuer ces
+contrôles, la périodicité de ceux-ci, ainsi que les conditions de prise en charge de leur coût par les propriétaires des
+installations.
+
+Toute utilisation d'une installation qui ne se serait pas soumise au contrôle prévu au présent article est passible des
+peines prévues à l'article L. 48-1 du présent code. En outre, le ministre chargé de la santé ou le représentant de l'Etat
+peut, s'il y a lieu, prononcer la suspension totale ou partielle de l'autorisation prévue à l'article L. 712-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 28 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I sous réserve art. 5 1° JORF 22 juin 2000
+	  - Décret n°2003-462 2003-05-21 art. 4 JORF 27 mai 2003
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1333-11 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L48-1 (Ab)
+	  - Code de la santé publique - art. L712-8 (M)
+
+
 #### Chapitre 6 : Dispositions pénales
 
 ###### Article L45
@@ -5370,6 +5410,32 @@ médicales.
 	  - Code de la santé publique - art. L145-19 (Ab)
 	  - Code pénal - art. 226-25 (M)
 	  - Code pénal - art. 226-27 (M)
+
+
+###### Article L145-15-1
+
+Un décret en Conseil d'Etat fixe les conditions dans lesquelles pourront être réalisées, dans l'intérêt des patients, la
+prescription et la réalisation de l'examen des caractéristiques génétiques d'une personne à des fins médicales.
+
+Le ministre chargé de la santé peut, par arrêté, soumettre à des bonnes pratiques ainsi qu'à des règles techniques et
+sanitaires la prescription et la réalisation de l'examen des caractéristiques génétiques d'une personne à des fins médicales
+et, le cas échéant, les modalités de son suivi médical.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 1 () JORF 5 février 1995
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1131-2 (V)
+	  - Code de la santé publique - art. L1131-6 (V)
 
 
 ###### Article L145-16
@@ -21030,19 +21096,19 @@ et suivants.
 
 ###### Article L407
 
-Le Conseil national est assisté par un conseiller d'Etat nommé, en même temps que deux conseillers d'Etat suppléants, par le
-garde des sceaux, ministre de la Justice, avec voix délibérative.
+Le Conseil national est assisté par un conseiller d'Etat nommé, en même temps que quatre conseillers d'Etat suppléants, par
+le garde des sceaux, ministre de la Justice, avec voix délibérative.
 
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2184 1945-09-24 art. 41
 
 	**Cité par**:
 
@@ -21057,7 +21123,15 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°87-39 du 27 janvier 1987 - art. 27 () JORF 28 janvier 1987
+	  - Loi n°95-116 du 4 février 1995 - art. 14 () JORF 5 février 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -23269,36 +23343,26 @@ et suivants.
 Les règles fixées pour les médecins aux articles L. 385 à L. 387 et L. 390 à L. 397 ci-dessus sont applicables aux sages-
 femmes.
 
-Le conseil départemental de l'Ordre des sages-femmes est présidé par un médecin accoucheur nommé pour deux ans [*durée du
-mandat*] par le conseil départemental de l'Ordre des médecins.
+Le conseil départemental de l'ordre élit son président tous les deux ans [*durée du mandat*] après renouvellement du tiers du
+conseil.
 
 Le directeur départemental de la Santé assiste, avec voix consultative, au conseil départemental.
 
 **Nota:**
 
-[*Nota : Le conseil départemental de l'ordre des sages-femmes est composé de six membres élus en assemblée générale pour six
-ans et renouvelables par tiers tous les deux ans.
-
-Décret 67-893 du 12 octobre 1967 : Dispositions réglementaires.*]
-
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2184 1945-09-24 art. 56
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Modifié par**:
-
-	  - Décret n°67-893 1967-10-12 art. 1, art. 3 JORF 13 octobre 1967
-	  - Loi n°72-660 1972-07-13 art. 29 JORF 14 juillet 1972
 
 	**Cité par**:
 
@@ -23308,6 +23372,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Liens**:
 
 	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 4 (V)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
 	  - SPEC_APPLI: Code de la santé publique - art. L385 (Ab)
 	  - SPEC_APPLI: Code de la santé publique - art. L386 (Ab)
 	  - SPEC_APPLI: Code de la santé publique - art. L387 (Ab)
@@ -23321,6 +23386,14 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - SPEC_APPLI: Code de la santé publique - art. L396 (Ab)
 	  - SPEC_APPLI: Code de la santé publique - art. L397 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 9 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L385 (Ab)
@@ -23330,6 +23403,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L4123-1 (M)
 	  - Code de la santé publique - art. L4123-1 (V)
 
 
@@ -23371,35 +23445,175 @@ et suivants.
 	  - Code de la santé publique - art. L4123-14 (V)
 
 
-##### Paragraphe 2 : Conseil national
+##### Paragraphe 2 : Conseils interrégionaux
+
+###### Article L448-1
+
+Le conseil interrégional de l'ordre des sages-femmes constitue la juridiction disciplinaire de première instance. Cette
+juridiction a, à l'égard des sages-femmes, les mêmes attributions que celles du conseil régional de l'ordre des médecins vis-
+à-vis de ces derniers.
+
+Le ressort territorial des conseils interrégionaux est identique à celui des secteurs mentionnés à l'article L. 449 ci-
+dessous.
+
+**Nota:**
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4124-1 (M)
+	  - Code de la santé publique - art. L4152-7 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L449 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L471-5 (Ab)
+
+
+###### Article L448-2
+
+Le conseil interrégional est composé d'un nombre de sages-femmes fixé par voie réglementaire, en fonction des effectifs des
+sages-femmes inscrites aux derniers tableaux publiés dans l'interrégion.
+
+Les membres du conseil interrégional de l'ordre sont élus par les conseils départementaux de l'interrégion.
+
+Les membres du conseil interrégional de l'ordre des sages-femmes sont élus pour six ans et rééligibles.
+
+Le conseil interrégional est renouvelable par tiers tous les deux ans.
+
+Le conseil interrégional élit son président après chaque renouvellement. Il est rééligible.
+
+Sont éligibles les personnes qui remplissent les conditions de l'article L. 387.
+
+Les dispositions de l'article L. 399 du code de la santé publique sont applicables au conseil interrégional de l'ordre des
+sages-femmes.
+
+**Nota:**
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L387 (Ab)
+	  - Code de la santé publique - art. L399 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4152-7 (M)
+
+
+###### Article L448-3
+
+Sont adjoints avec voix consultative au conseil interrégional :
+
+1° Un conseiller juridique qui peut être soit un magistrat de l'ordre judiciaire, soit un membre du corps des tribunaux
+administratifs et des cours administratives d'appel. Ce conseiller juridique est désigné, suivant le cas, soit par le
+président de la cour d'appel, soit par le président de la cour administrative d'appel dans le ressort territorial desquelles
+se trouve le siège du conseil interrégional ;
+
+2° Le médecin inspecteur régional de la santé de la région dans laquelle se trouve le siège du conseil interrégional ;
+
+3° Un médecin directeur technique d'une école de sages-femmes, désigné par le ministre chargé de la santé ;
+
+4° Un médecin-conseil régional du régime général de l'assurance maladie des travailleurs salariés, pour les affaires relevant
+de l'application des lois sur la sécurité sociale, désigné par le médecin-conseil national.
+
+**Nota:**
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4152-8 (M)
+
+
+##### Paragraphe 3 : Conseil national
 
 ###### Article L449
 
-Le conseil national de l'Ordre des sages-femmes est composé de quatre [*nombre*] docteurs en médecine spécialisés en
-obstétrique qui sont désignés par le conseil national de l'Ordre des médecins en dehors de son sein et de cinq sages-femmes
-élues par les conseils départementaux regroupés en cinq secteurs par arrêté du ministre chargé de la santé publique, compte
-tenu du ressort territorial des conseils régionaux métropolitains de l'Ordre des médecins.
+Le conseil national de l'Ordre des sages-femmes est composé de cinq sages-femmes élues par les conseils départementaux
+regroupés en cinq secteurs par arrêté du ministre chargé de la santé publique.
 
-Le mandat des membres du conseil national de l'Ordre des sages-femmes est de six ans [*durée*]. Ses membres sont rééligibles.
-
-Le conseil est renouvelé tous les deux ans [*périodicité*] par tiers ; pour ce renouvellement, les membres du conseil sont
-répartis en trois groupes comprenant :
-
-Le premier et le deuxième groupe : un médecin et deux sages-femmes ;
-
-Le troisième groupe : deux médecins et une sage-femme.
+Le mandat des membres du Conseil national de l'Ordre des sages-femmes est de six ans [*durée*]. Ses membres sont rééligibles.
+Le conseil est renouvelé tous les deux ans [*périodicité*] par tiers selon des modalités fixées par voie réglementaire.
 
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1973-04-18 JORF 29 AVRIL : DETERMINATION DES SECTEURS
-	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 6 (V)
 
 	**Codifié par**:
 
@@ -23411,15 +23625,20 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Loi n°91-558 du 17 juin 1991 - art. 6 (V)
 	  - Code de la santé publique - art. L448-1 (Ab)
 
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 6 (V)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+	  - Loi n°95-116 du 4 février 1995 - art. 9 () JORF 5 février 1995
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L4152-1 (V)
 	  - Code de la santé publique - art. L4441-15 (M)
-
-	**Modifié par**:
-
-	  - Décret n°58-1340 1958-12-20 art. 1 JORF 27 décembre 1958
-	  - Décret n°72-660 1972-07-13 art. 30 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
 
 
 ###### Article L449-1
@@ -23435,16 +23654,16 @@ dans la métropole et qui sont déjà membres du conseil national de l'Ordre. A 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°72-660 1972-07-13 art. 31 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
 
 	**Cité par**:
 
@@ -23455,10 +23674,20 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Liens**:
 
 	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 6 (V)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L4152-2 (Ab)
+	  - Code de la santé publique - art. L4152-2 (V)
 
 
 ###### Article L450
@@ -23472,20 +23701,33 @@ sociale.
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2184 1945-09-24 art. 60
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L4152-3 (M)
+	  - Code de la santé publique - art. L4152-3 (V)
 
 	**Cité par**:
 
@@ -23494,23 +23736,24 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L451
 
-Le Conseil national nomme son président chaque année [*périodicité*]. Ce président est obligatoirement médecin.
+Le Conseil national de l'ordre des sages-femmes élit son président tous les deux ans, après chaque renouvellement partiel du
+conseil.
 
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°58-356 1958-04-03 (loi de validation)
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-2184 1945-09-24 art. 60
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cité par**:
 
@@ -23519,10 +23762,94 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Liens**:
 
 	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 6 (V)
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+	  - Loi n°95-116 du 4 février 1995 - art. 9 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L4152-4 (V)
+
+
+###### Article L451-1
+
+Le Conseil national est assisté par un conseiller d'Etat ayant voix délibérative nommé par le garde des sceaux, ministre de
+la justice. Deux conseillers d'Etat suppléants sont désignés dans les mêmes conditions.
+
+**Nota:**
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4152-5 (M)
+
+
+###### Article L451-2
+
+Le Conseil national de l'ordre des sages-femmes élit en son sein, à la première séance qui suit chaque renouvellement, trois
+membres qui constituent, avec le conseiller d'Etat mentionné à l'article précédent et sous sa présidence, une section
+disciplinaire. Les membres sortants sont rééligibles.
+
+La section disciplinaire ne peut statuer que si trois membres au moins, président compris, sont présents. En cas d'égal
+partage des voix, celle du président est prépondérante.
+
+**Nota:**
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4152-6 (M)
 
 
 ###### Article L452
@@ -23533,10 +23860,14 @@ pour l'examen des questions communes aux deux professions.
 
 **Nota:**
 
-[*Nota : Décret 58-1340 du 20 décembre 1958 : DISPOSITIONS REGLEMENTAIRES*]
+[*Nota : Décret 58-1340 du 20 décembre 1958 : Dispositions réglementaires*]
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
 
 **Liens relatifs à cet article**
 
@@ -23544,6 +23875,18 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 10 () JORF 5 février 1995
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -23553,10 +23896,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Cité par**:
 
 	  - Code de la santé publique - art. L491-4 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°58-1340 1958-12-20 art. 2 JORF 27 décembre 1958
 
 
 ##### Section 3 : Inscription au tableau et discipline
@@ -23615,144 +23954,6 @@ et suivants.
 	  - Code de la santé publique - art. L414 (M)
 	  - Code de la santé publique - art. L415 (Ab)
 	  - Code de la santé publique - art. L416 (M)
-
-
-###### Article L454
-
-Les sages-femmes relèvent, en matière disciplinaire, de la compétence du conseil régional de l'Ordre des médecins dans le
-ressort duquel elles exercent [*organisme*].
-
-Dans ce cas, quatre [*nombre*] membres du conseil régional de l'Ordre des médecins sont remplacés par quatre sages-femmes,
-sauf en ce qui concerne le conseil régional de la région Rhône-Alpes, dans lequel cinq médecins sont remplacés par cinq
-sages-femmes [*composition*].
-
-En ce qui concerne le conseil régional de la région parisienne, six médecins de chacune de ses deux chambres sont remplacés
-par six sages-femmes.
-
-Ces sages-femmes sont élues par les conseils départementaux de l'Ordre des sages-femmes du ressort territorial du conseil
-régional des médecins parmi les personnes de nationalité française âgées de trente ans au moins [*âge minimum*] et qui
-remplissent les conditions exigées pour l'exercice de la profession. Elles sont élues pour neuf ans [*durée du mandat*] et
-renouvelables tous les trois ans [*périodicité*] à raison d'une sage-femme pour chacun des deux premiers renouvellements et
-de deux pour le dernier lorsque le conseil régional de l'Ordre des médecins est composé de neuf membres, à raison d'une sage-
-femme pour le premier renouvellement et de deux sages-femmes pour chacun des deux derniers renouvellements lorsque le conseil
-régional de l'Ordre des médecins est composé de onze membres et à raison de quatre sages-femmes pour chacun des trois
-renouvellements lorsque le conseil régional de l'Ordre des médecins est composé de vingt-six membres. L'ordre de
-renouvellement est fixé par tirage au sort.
-
-Des sages-femmes suppléantes en nombre égal à celui des titulaires (4, 5 ou 12 suivant le cas) sont élues dans les mêmes
-conditions que les sages-femmes titulaires et au cours du même scrutin. Le mandat de ces sages-femmes est renouvelable comme
-celui des membres titulaires.
-
-**Nota:**
-
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Modifié par**:
-
-	  - Décret n°58-1340 1958-12-20 art. 3 JORF 27 décembre 1958
-	  - Décret n°61-736 1961-06-30 art. 1 JORF 14 juillet 1961
-	  - Loi n°72-660 1972-07-13 art. 32, art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
-
-	**Cité par**:
-
-	  - Loi n°91-558 du 17 juin 1991 - art. 5 (V)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 1651 (M)
-	  - Code de la santé publique - art. L374 (Ab)
-	  - Code de la santé publique - art. L454-1 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 5 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
-
-
-###### Article L454-1
-
-Les dispositions de l'article L. 399 [*règles de suppléance*]
-
-sont applicables au conseil régional de l'Ordre des médecins lorsqu'il est appelé à statuer dans les conditions prévues à
-l'article L. 454.
-
-**Nota:**
-
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°72-660 1972-07-13 art. 33 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
-
-	**Abrogé par**:
-
-	  - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L399 (Ab)
-	  - Code de la santé publique - art. L454 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L399 (Ab)
-
-
-###### Article L455
-
-Il peut être fait appel des décisions d'un conseil régional de l'Ordre des médecins devant la section disciplinaire du
-conseil national de l'Ordre des médecins [*organisme compétent, recours*] qui est alors complétée par deux sages-femmes élues
-dans son sein par le conseil national de l'Ordre des sages-femmes lors de chacun des renouvellements partiels
-[*composition*].
-
-Le mandat des intéressés est renouvelable.
-
-**Nota:**
-
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
-
-**Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Décret n°58-1340 1958-12-20 art. 4 JORF 27 décembre 1958
-	  - Loi n°72-660 1972-07-13 art. 34 ET art. 45 JORF 14 juillet 1972 date d'entrée en vigueur 1er juillet 1973
-
-	**Cité par**:
-
-	  - Décret n°48-1671 du 26 octobre 1948 - art. 21 (Ab)
-	  - Décret n°48-1671 du 26 octobre 1948 - art. 24 (Ab)
-	  - Loi n°91-558 du 17 juin 1991 - art. 5 (V)
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°91-558 du 17 juin 1991 - art. 5 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°95-116 du 4 février 1995 - art. 11 () JORF 5 février 1995
 
 
 ###### Article L456
@@ -24684,14 +24885,15 @@ s'applique à la collectivité territoriale de Mayotte.*]
 
 Les diplômes, certificats et titres exigés en application de l'article L. 474 sont :
 
-Soit le diplôme français d'Etat d'infirmier ou d'infirmière ou l'un des brevets délivrés en application du décret du 27 juin
+Soit le diplôme français d'Etat d'infirmier ou d'infirmière, le diplôme d'infirmier ou d'infirmière délivré par l'école
+universitaire d'infirmiers de la principauté d'Andorre, ou l'un des brevets délivrés en application du décret du 27 juin
 1922 ;
 
 Soit, si l'intéressé est ressortissant d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur
 l'Espace économique européen, un diplôme, certificat ou autre titre d'infirmier responsable des soins généraux délivré
 conformément aux obligations communautaires ou à celles résultant de l'accord sur l'Espace économique européen par l'un de
 ces Etats et figurant sur une liste établie par le ministre chargé de la santé, ou tout autre diplôme, certificat ou autre
-titre d'infirmier responsable des soins généraux délivré par l'un des Etats membres ou autre Etat partie sanctionnant une
+titre d'infirmier responsable des soins généraux délivré par l'un des Etats membres ou autres Etats parties sanctionnant une
 formation d'infirmier responsable des soins généraux acquise dans l'un de ces Etat commencée avant le 29 juin 1979 à la
 condition qu'il soit accompagné d'une attestation de cet Etat certifiant que :
 
@@ -24709,9 +24911,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 
 [*Nota - Loi 93-1420 du 31 décembre 1993 art. 9 : les dispositions de la présente loi ne sont pas applicables à Saint-Pierre-
 et-Miquelon.*]
-
-[*Nota - Loi 93-1420 du 31 décembre 1993 art. 10: date d'entrée en vigueur des dispositions des articles 1 à 9 de la présente
-loi.*]
 
 **Liens relatifs à cet article**
 
@@ -24742,8 +24941,11 @@ loi.*]
 
 	**Modifié par**:
 
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 3 () JORF 1er janvier 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 25 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Liens**:
 
@@ -24756,6 +24958,7 @@ loi.*]
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L4311-11 (V)
+	  - Code de la santé publique - art. L4311-3 (M)
 	  - Code de la santé publique - art. L4311-3 (V)
 
 	**Cite**:
@@ -26138,10 +26341,9 @@ décembre 1971.
 
 Réserve faite des dérogations prévues à l'article L. 491, nul ne peut exercer la profession de masseur-kinésithérapeute,
 c'est-à-dire pratiquer le massage et la gymnastique médicale, s'il n'est muni du diplôme d'Etat de masseur-kinésithérapeute
-institué par l'article L. 488 du présent titre [*condition*].
-
-Lorsqu'ils agissent dans un but thérapeutique, les masseurs-kinésithérapeutes ne peuvent pratiquer leur art que sur
-ordonnance médicale [*obligation*].
+institué par l'article L. 488 du présent titre et inscrit au tableau de l'ordre des masseurs-kinésithérapeutes. Lorsqu'ils
+agissent dans un but thérapeutique, les masseurs-kinésithérapeutes ne peuvent pratiquer leur art que sur ordonnance
+médicale   . 
 
 La définition du massage et de la gymnastique médicale est précisée par un décret en Conseil d'Etat, après avis de l'Académie
 nationale de médecine.
@@ -26152,10 +26354,6 @@ nationale de médecine.
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
-
-	**Modifié par**:
-
-	  - Loi n°85-772 du 25 juillet 1985 - art. 9 () JORF 26 juillet 1985
 
 	**Liens**:
 
@@ -26180,6 +26378,19 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°96-879 du 8 octobre 1996
 	  - Décret n°97-44 du 21 janvier 1997 - art. 23 (Ab)
 	  - Code de la santé publique - art. L510-9-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-1 (M)
+	  - Code de la santé publique - art. L4321-2 (M)
 
 	**Cite**:
 
@@ -26290,6 +26501,35 @@ s'applique à la collectivité territoriale de Mayotte.*]
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
+###### Article L490
+
+Un décret en Conseil d'Etat, pris après avis du Conseil national de l'ordre des masseurs-kinésithérapeutes, fixe les règles
+du code de déontologie des masseurs-kinésithérapeutes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-22 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L491-2 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 5 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
 ###### Article L491
 
 Les personnes qui ont fait la preuve qu'elles exerçaient le massage médical ou la gymnastique médicale depuis trois années
@@ -26356,13 +26596,300 @@ Guyane, de la Martinique et de la Réunion pendant trois années au moins avant 
 	  - Code de la santé publique - art. L4321-7 (Ab)
 
 
+#### Chapitre 1 bis : Organisation de la profession de masseur-kinésithérapeute
+
+##### Section 1 : Ordre national des masseurs-kinésithérapeutes
+
+###### Article L491-1
+
+Il est institué un ordre national des masseurs-kinésithérapeutes groupant obligatoirement tous les masseurs-kinésithérapeutes
+habilités à exercer leur profession en France, à l'exception des masseurs-kinésithérapeutes relevant du service de santé des
+armées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-13 (Ab)
+	  - Code de la santé publique - art. L4321-13 (V)
+
+
+###### Article L491-2
+
+L'ordre des masseurs-kinésithérapeutes veille au maintien des principes de moralité indispensables à l'exercice de la masso-
+kinésithérapie et à l'observation, par tous ses membres, des droits, devoirs et obligations professionnels, ainsi que des
+règles édictées par le code de déontologie prévu à l'article L. 490.
+
+Il assure la défense de l'honneur de la profession de masseur-kinésithérapeute.
+
+Il peut organiser toute oeuvre d'entraide et de retraite au bénéfice de ses membres et de leurs ayants droit.
+
+Il peut être consulté par le ministre chargé de la santé, notamment sur les questions relatives à l'exercice de la profession
+de masseur-kinésithérapeute.
+
+Il accomplit sa mission par l'intermédiaire des conseils départementaux, des conseils régionaux et du Conseil national de
+l'ordre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-14 (Ab)
+	  - Code de la santé publique - art. L4321-14 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L490 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L496-3 (Ab)
+
+
+##### Section 2 : Conseils de l'ordre des masseurs-kinésithérapeutes
+
+##### I. - Conseils départementaux
+
+###### Article L491-3
+
+Dans chaque département, un conseil départemental de l'ordre des masseurs-kinésithérapeutes possède, en ce qui concerne les
+masseurs-kinésithérapeutes, les mêmes attributions que le conseil départemental de l'ordre des médecins.
+
+Les règles fixées pour les médecins par les articles L. 385 à L. 397 sont applicables aux masseurs-kinésithérapeutes, à
+l'exception de l'exigence de nationalité posée par l'article L. 387.
+
+Le médecin inspecteur départemental assiste, avec voix consultative, au conseil départemental.
+
+Les conseils départementaux des médecins et des masseurs-kinésithérapeutes peuvent tenir des réunions communes sous la
+présidence du président du conseil départemental de l'ordre des médecins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L387 (Ab)
+	  - Code de la santé publique L385 à L397, L387
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-18 (V)
+
+
+##### II. - Conseil national
+
+###### Article L491-4
+
+Les membres du Conseil national de l'ordre des masseurs-kinésithérapeutes sont élus ou désignés pour six ans. Ses membres
+sont rééligibles. Le conseil est renouvelé par tiers tous les deux ans.
+
+Le conseil national élit son président après chaque renouvellement. Le président est rééligible.
+
+Les dispositions des articles L. 407 et L. 408, L. 449-1, L. 450 et L. 452 sont applicables aux masseurs-kinésithérapeutes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L407 (M)
+	  - Code de la santé publique - art. L408 (Ab)
+	  - Code de la santé publique - art. L449-1 (M)
+	  - Code de la santé publique - art. L450 (M)
+	  - Code de la santé publique - art. L452 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-15 (M)
+
+
+##### Section 3 : Inscription aux tableaux départementaux de l'ordre et discipline
+
+###### Article L491-5
+
+Les règles d'inscription au tableau de l'ordre fixées pour les médecins aux articles L. 412 à L. 416 sont applicables aux
+masseurs-kinésithérapeutes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-9 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique L412 à L416
+
+
+###### Article L491-6
+
+Dans chaque région, un conseil régional de l'ordre des masseurs-kinésithérapeutes dispose, en ce qui concerne les masseurs-
+kinésithérapeutes, des mêmes attributions que le conseil régional de l'ordre des médecins.
+
+Le conseil régional de l'ordre des masseurs-kinésithérapeutes est composé de neuf membres titulaires dont deux masseurs-
+kinésithérapeutes salariés et de neuf membres suppléants dont deux masseurs-kinésithérapeutes salariés.
+
+Toutefois, le conseil régional de l'ordre des masseurs-kinésithérapeutes de la région d'Ile-de-France comprend quinze membres
+titulaires et quinze membres suppléants dont trois salariés titulaires et trois salariés suppléants.
+
+Les membres du conseil régional de l'ordre des masseurs-kinésithérapeutes sont élus pour six ans par les masseurs-
+kinésithérapeutes des départements concernés, au scrutin uninominal à un tour, en même temps que les membres des conseils
+départementaux.
+
+Les membres du conseil régional élisent parmi eux un président.
+
+Il peut être fait appel des décisions d'un conseil régional de l'ordre des masseurs-kinésithérapeutes devant la section
+disciplinaire élue au sein du Conseil national de l'ordre des masseurs-kinésithérapeutes.
+
+Le mandat des intéressés est renouvelable.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-16 (Ab)
+	  - Code de la santé publique - art. L4321-17 (Ab)
+	  - Code de la santé publique - art. L4321-19 (Ab)
+
+
+###### Article L491-7
+
+Les dispositions des articles L. 399, L. 401, à l'exception des deux derniers alinéas, L. 402, L. 403, L. 410, L. 410-1, L.
+417 à L. 428, L. 457 à L. 470 sont applicables aux masseurs-kinésithérapeutes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L399 (Ab)
+	  - Code de la santé publique - art. L401 (Ab)
+	  - Code de la santé publique - art. L402 (Ab)
+	  - Code de la santé publique - art. L403 (Ab)
+	  - Code de la santé publique - art. L410 (M)
+	  - Code de la santé publique - art. L410-1 (Ab)
+	  - Code de la santé publique L399, L401, L402, L403, L410, L410-1, L417 à L428, L457 à L470
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-20 (M)
+
+
+###### Article L491-8
+
+Un décret en Conseil d'Etat détermine les modalités d'application des dispositions des articles L. 491-1 à L. 491-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 6 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-21 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique L491-1 à L491-6
+
+
 #### Chapitre 2 : Pédicure-podologue.
 
 ###### Article L492
 
 Nul ne peut exercer la profession de pédicure-podologue et porter le titre de pédicure-podologue, accompagné ou non d'un
-qualificatif, s'il n'est muni du diplôme d'Etat (décret du 11 mai 1955) institué par l'article L. 494 du présent titre
-[*condition*].
+qualificatif, s'il n'est muni du diplôme d'Etat (décret du 11 mai 1955) institué par l'article L. 494 du présent titre et
+inscrit au tableau de l'ordre des pédicures-podologues [*condition*].
 
 **Nota:**
 
@@ -26393,7 +26920,11 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°85-772 du 25 juillet 1985 - art. 10 () JORF 26 juillet 1985
+	  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -26539,6 +27070,268 @@ et de la Réunion à la publication de la loi n° 65-497 du 29 juin 1965.
 
 	  - Code de la santé publique - art. L4322-5 (V)
 	  - Code de la santé publique - art. L4322-6 (Ab)
+
+
+###### Article L496-1
+
+Un décret en Conseil d'Etat, pris après avis du Conseil national de l'ordre des pédicures-podologues, fixe les règles du code
+de déontologie des pédicures-podologues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 7 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4322-16 (Ab)
+
+
+###### Article L496-2
+
+Il est institué un ordre des pédicures-podologues groupant obligatoirement tous les pédicures-podologues habilités à exercer
+leur profession en France.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4322-8 (Ab)
+	  - Code de la santé publique - art. L4322-8 (M)
+
+
+###### Article L496-3
+
+L'ordre des pédicures-podologues possède, en ce qui les concerne, les attributions de l'ordre national des masseurs-
+kinésithérapeutes énumérées à l'article L. 491-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4322-9 (Ab)
+	  - Code de la santé publique - art. L4322-9 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L491-2 (Ab)
+
+
+###### Article L496-4
+
+Dans chaque région, un conseil régional de l'ordre des pédicures-podologues exerce pour cette profession les mêmes
+attributions que le conseil départemental de l'ordre des masseurs-kinésithérapeutes pour les masseurs-kinésithérapeutes.
+
+Les règles fixées pour les médecins par les articles L. 385 à L. 397 sont applicables aux pédicures-podologues pour leurs
+conseils régionaux, à l'exception de l'exigence de nationalité posée par l'article L. 387.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L387 (Ab)
+	  - Code de la santé publique L385 à L397, L387
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4322-12 (Ab)
+	  - Code de la santé publique - art. L4322-12 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L496-7 (Ab)
+
+
+###### Article L496-5
+
+Le Conseil national de l'ordre des pédicures-podologues possède les mêmes attributions, pour cette profession, que le Conseil
+national de l'ordre des masseurs-kinésithérapeutes pour ce qui les concerne.
+
+Ses membres et son président sont élus ou désignés dans les mêmes conditions que les membres et le président du Conseil
+national de l'ordre des masseurs-kinésithérapeutes.
+
+Les dispositions applicables au Conseil national de l'ordre des masseurs-kinésithérapeutes s'appliquent au Conseil national
+de l'ordre des pédicures-podologues pour ce qui les concerne.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4322-10 (Ab)
+	  - Code de la santé publique - art. L4322-10 (V)
+
+
+###### Article L496-6
+
+Les règles d'inscription au tableau de l'ordre fixées pour les médecins aux articles L. 412 à L. 416 sont applicables aux
+pédicures-podologues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4322-7 (Ab)
+	  - Code de la santé publique - art. L4322-7 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique L412 à L416
+
+
+###### Article L496-7
+
+Dans chaque région, un conseil régional de l'ordre des pédicures-podologues dispose, en ce qui concerne les pédicures-
+podologues, des mêmes attributions que le conseil régional de l'ordre des médecins.
+
+Le conseil régional de l'ordre des pédicures-podologues est composé de neuf membres titulaires et de neuf membres suppléants.
+
+Toutefois, le conseil régional de l'ordre des pédicures-podologues de la région Rhône-Alpes comprend onze membres titulaires
+et onze membres suppléants, et le conseil régional de l'ordre des pédicures-podologues de la région d'Ile-de-France comprend
+treize membres titulaires et treize membres suppléants.
+
+Les membres du conseil régional de l'ordre des pédicures-podologues sont élus pour six ans par les pédicures-podologues de la
+région concernée, au scrutin uninominal à un tour.
+
+Les membres du conseil régional élisent parmi eux un président.
+
+Il peut être fait appel des décisions d'un conseil régional de l'ordre des pédicures-podologues devant la section
+disciplinaire élue au sein du Conseil national de l'ordre des pédicures-podologues.
+
+Le mandat des intéressés est renouvelable.
+
+Sous réserve des adaptations découlant des dispositions de l'article L. 496-4, les règles fixées par les articles L. 399, L.
+401 - à l'exception des deux derniers alinéas -, L. 402, L. 403, L. 410, L. 410-1, L. 417 à L. 428 et L. 457 à L. 470 sont
+applicables aux pédicures-podologues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L399 (Ab)
+	  - Code de la santé publique - art. L401 (Ab)
+	  - Code de la santé publique - art. L496-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4322-11 (Ab)
+	  - Code de la santé publique - art. L4322-13 (Ab)
+	  - Code de la santé publique - art. L4322-14 (Ab)
+
+
+###### Article L496-8
+
+Un décret en Conseil d'Etat précise les conditions d'application des articles L. 496-2 à L. 496-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 8 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4322-15 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique L496-2 à L496-7
 
 
 #### Chapitre 3 : Dispositions communes et dispositions pénales
@@ -27131,6 +27924,445 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°65-240 du 25 mars 1965 - art. 6 (Ab)
 
 
+### Titre 3-2 : Professions d'ergothérapeute et de psychomotricien
+
+#### Chapitre 1er : Profession d'ergothérapeute
+
+###### Article L504-7
+
+Est considérée comme exerçant la profession d'ergothérapeute toute personne qui, non titulaire du diplôme d'Etat de docteur
+en médecine, exécute habituellement des actes professionnels d'ergothérapie, définis par décret en Conseil d'Etat pris après
+avis de l'Académie nationale de médecine.
+
+Les ergothérapeutes exercent leur art sur prescription médicale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4331-1 (V)
+
+
+###### Article L504-8
+
+Peuvent seuls exercer la profession d'ergothérapeute et porter le titre d'ergothérapeute, accompagné ou non d'un
+qualificatif :
+
+1° Les titulaires du diplôme d'Etat français d'ergothérapeute ;
+
+2° Dans les centres hospitaliers spécialisés en psychiatrie et dans les services psychiatriques des établissements publics de
+santé, les infirmiers et infirmières intégrés avant le 11 avril 1983 dans un emploi d'ergothérapeute ;
+
+3° Les salariés ayant exercé, à titre principal, l'activité d'ergothérapeute pendant une durée au moins égale à trois ans au
+cours des dix années précédant la date du 23 novembre 1986 et qui ont satisfait, dans les trois ans suivant cette date, au
+contrôle des connaissances prévu par le décret n° 86-1195 du 21 novembre 1986 fixant les catégories de personnes habilitées à
+effectuer des actes professionnels en ergothérapie. Les personnes ayant satisfait à ce contrôle ne peuvent, selon leur
+option, accomplir les actes énumérés par ledit décret que dans des établissements ou services assurant des traitements,
+respectivement, de rééducation et de réadaptation fonctionnelles, de lutte contre les maladies mentales ou de gériatrie ;
+
+4° Les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen qui ont obtenu une autorisation d'exercice dans des conditions et selon des modalités fixées par décret
+en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Décret n°86-1195 1986-11-21
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+	**Cité par**:
+
+	  - Arrêté du 17 septembre 1997 - art. 1 (V)
+	  - Arrêté du 17 septembre 1997 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4331-2 (M)
+	  - Code de la santé publique - art. L4331-2 (V)
+	  - Code de la santé publique - art. L4331-3 (V)
+	  - Code de la santé publique - art. L4331-4 (M)
+	  - Code de la santé publique - art. L4331-5 (V)
+
+
+#### Chapitre 2 : Profession de psychomotricien
+
+###### Article L504-9
+
+Est considérée comme exerçant la profession de psychomotricien toute personne qui, non titulaire du diplôme d'Etat de docteur
+en médecine, exécute habituellement des actes professionnels de rééducation psychomotrice, définis par décret en Conseil
+d'Etat pris après avis de l'Académie nationale de médecine.
+
+Les psychomotriciens exercent leur art sur prescription médicale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4332-1 (V)
+
+
+###### Article L504-10
+
+Peuvent seuls exercer la profession de psychomotricien et porter le titre de psychomotricien, accompagné ou non d'un
+qualificatif :
+
+1° Les titulaires du diplôme d'Etat français de psychomotricien ;
+
+2° Les salariés ayant exercé, à titre principal, l'activité de psychomotricien pendant une durée au moins égale à trois ans
+au cours des dix années précédant la date du 8 mai 1988 et qui ont satisfait, dans les trois ans suivant cette date, au
+contrôle des connaissances prévu par le décret n° 88-659 du 6 mai 1988 relatif à l'accomplissement de certains actes de
+rééducation psychomotrice ;
+
+3° Les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen qui ont obtenu une autorisation d'exercice dans des conditions et selon des modalités fixées par décret
+en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Décret n°88-659 1988-05-06
+
+	**Cité par**:
+
+	  - Arrêté du 17 septembre 1997 - art. 1 (V)
+	  - Arrêté du 17 septembre 1997 - art. 3 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4332-2 (M)
+	  - Code de la santé publique - art. L4332-2 (V)
+	  - Code de la santé publique - art. L4332-3 (V)
+	  - Code de la santé publique - art. L4332-4 (M)
+	  - Code de la santé publique - art. L4332-5 (V)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+
+#### Chapitre 3 : Dispositions communes aux deux professions
+
+###### Article L504-11
+
+L'exercice illégal de la profession d'ergothérapeute ou de la profession de psychomotricien est passible d'une amende de 40
+000 F (1) et, en cas de récidive, d'une amende de 60 000 F (1) [*montant*] et d'une peine d'emprisonnement de cinq mois
+[*durée*] ou de l'une de ces deux peines seulement.
+
+L'usurpation des titres professionnels correspondants est punie des peines prévues à l'article 433-17 du code pénal.
+
+(1) Amende applicable depuis le 7 février 1995.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code pénal - art. 433-17 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4334-1 (M)
+	  - Code de la santé publique - art. L4334-2 (M)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+	**Cité par**:
+
+	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L504-12
+
+Un ergothérapeute ou un psychomotricien ne peut exercer sa profession que s'il est inscrit sur une liste dressée, pour
+chacune de ces professions, par le préfet du département de sa résidence professionnelle, qui enregistre son diplôme, son
+certificat ou son autorisation.
+
+Tout changement de résidence professionnelle hors des limites du département oblige à une nouvelle inscription et à la
+radiation de l'ancienne.
+
+L'inscription n'est possible que dans un seul département. Dans le cas où l'activité est exercée dans plusieurs départements,
+l'intéressé est inscrit sur la liste du département dans lequel est situé son lieu principal d'exercice professionnel. Cette
+disposition n'est pas applicable aux ergothérapeutes et aux psychomotriciens militaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4333-1 (M)
+	  - Code de la santé publique - art. L4333-1 (V)
+
+
+### Titre 3-3 : Profession de manipulateur d'électroradiologie médicale
+
+###### Article L504-13
+
+Est considérée comme exerçant la profession de manipulateur d'électroradiologie médicale toute personne qui, non titulaire du
+diplôme d'Etat de docteur en médecine, exécute habituellement, sous la responsabilité et la surveillance d'un médecin en
+mesure d'en contrôler l'exécution et d'intervenir immédiatement, des actes professionnels d'électroradiologie médicale,
+définis par décret en Conseil d'Etat pris après avis de l'Académie nationale de médecine.
+
+Les manipulateurs d'électroradiologie médicale exercent leur art sur prescription médicale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+	**Cité par**:
+
+	  - Décret n°97-1057 du 19 novembre 1997 - art. 4 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4351-1 (M)
+	  - Code de la santé publique - art. L4351-1 (V)
+
+
+###### Article L504-14
+
+Peuvent seuls exercer la profession de manipulateur d'électroradiologie médicale et porter le titre de manipulateur
+d'électroradiologie médicale accompagné ou non d'un qualificatif :
+
+1° Les titulaires du diplôme d'Etat français de manipulateur d'électroradiologie médicale, du brevet de technicien supérieur
+d'électroradiologie médicale ou du diplôme de technicien supérieur en imagerie médicale et radiologie thérapeutique ;
+
+2° Les personnes recrutées jusqu'au 25 juillet 1984 par une collectivité publique ou un établissement public
+d'hospitalisation ou à caractère social pour un emploi permanent de manipulateur d'électroradiologie médicale ;
+
+3° Les personnes exerçant les fonctions de manipulateur d'électroradiologie médicale au 25 juillet 1984 ou ayant exercé ces
+fonctions avant cette date pendant une durée au moins égale à six mois et qui ont satisfait, au plus tard le 30 septembre
+1993, aux épreuves de vérification des connaissances prévues par le décret n° 84-710 du 17 juillet 1984 fixant les catégories
+de personnes habilitées à effectuer certains actes d'électroradiologie médicale ;
+
+4° Les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace
+économique européen qui ont obtenu une autorisation d'exercice dans des conditions et selon des modalités fixées par décret
+en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Décret n°84-710 1984-07-17
+
+	**Cité par**:
+
+	  - Décret n°84-710 du 17 juillet 1984 - art. 2-2 (Ab)
+	  - Décret n°84-710 du 17 juillet 1984 - art. 2-3 (Ab)
+	  - Loi n°96-452 du 28 mai 1996 - art. 5 (Ab)
+	  - Arrêté du 17 septembre 1997 - art. 1 (V)
+	  - Arrêté du 17 septembre 1997 - art. 3 (V)
+	  - Arrêté du 19 novembre 1997 - art. 1 (V)
+	  - Arrêté du 19 novembre 1997 - art. 2 (V)
+	  - Décret n°97-1058 du 19 novembre 1997 - art. 1 (Ab)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 6 (V)
+	  - Code de la santé publique - art. L504-16 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. Annexe I (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. Annexe II (V)
+	  - TXT_SOURCE: Décret n°97-1058 du 19 novembre 1997
+	  - TXT_SOURCE: Décret n°97-1058 du 19 novembre 1997 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°97-1058 du 19 novembre 1997 - art. 2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4351-2 (V)
+	  - Code de la santé publique - art. L4351-3 (V)
+
+
+###### Article L504-15
+
+L'exercice illégal de la profession de manipulateur d'électroradiologie médicale est passible d'une amende de 40 000 F (1)
+et, en cas de récidive, d'une amende de 60 000 F (1) [*montant*] et d'une peine d'emprisonnement de cinq mois [*durée*] ou de
+l'une de ces deux peines seulement.
+
+L'usurpation du titre de manipulateur d'électroradiologie médicale est punie des peines prévues à l'article 433-17 du code
+pénal.
+
+(1) Amende applicable depuis le 7 février 1995.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+	**Cité par**:
+
+	  - Loi n°95-884 du 3 août 1995 - art. 25 (V)
+	  - Loi n°96-452 du 28 mai 1996 - art. 5 (Ab)
+	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 433-17 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4353-1 (M)
+	  - Code de la santé publique - art. L4353-2 (M)
+
+
+###### Article L504-16
+
+Un manipulateur d'électroradiologie médicale ne peut exercer sa profession que s'il est inscrit sur une liste dressée par le
+préfet du département de sa résidence professionnelle, qui enregistre son diplôme, son certificat ou son autorisation.
+
+Tout changement de résidence professionnelle hors des limites du département oblige à une nouvelle inscription et à la
+radiation de l'ancienne.
+
+L'inscription n'est possible que dans un seul département. Dans le cas où l'activité est exercée dans plusieurs départements,
+l'intéressé est inscrit sur la liste du département dans lequel est situé son lieu principal d'exercice professionnel. Cette
+disposition n'est pas applicable aux manipulateurs d'électroradiologie militaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. Annexe I (V)
+	  - TXT_SOURCE: Arrêté du 19 novembre 1997 - art. Annexe II (V)
+	  - TXT_SOURCE: Décret n°97-1058 du 19 novembre 1997
+	  - TXT_SOURCE: Décret n°97-1058 du 19 novembre 1997 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°97-1058 du 19 novembre 1997 - art. 2 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 19 novembre 1997 - art. 1 (V)
+	  - Décret n°97-1058 du 19 novembre 1997 - art. 1 (Ab)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 6 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4352-1 (V)
+
+
 ### Titre 4 : Profession d'opticien-lunetier
 
 #### Règles de la profession et dispositions pénales
@@ -27141,13 +28373,19 @@ Nul ne peut exercer [*interdiction*] la profession d'opticien-lunetier détailla
 d'opticien-lunetier, du diplôme d'élève breveté des écoles nationales professionnelles, section d'optique-lunetterie, du
 certificat d'études de l'Ecole des métiers d'optique ou de tout autre titre désigné par arrêté du ministre de l'Education
 nationale, du ministre du Commerce, du ministre de la Santé publique et de la Population et du ministre des Affaires
-économiques [*condition*].
+économiques [*condition*] et s'il n'est inscrit sur une liste dressée par le préfet du département de sa résidence
+professionnelle qui enregistre son diplôme, certificat, titre ou autorisation.
+
+Tout changement de résidence professionnelle hors des limites du département oblige à une nouvelle inscription et à la
+radiation de l'ancienne.
+
+Un opticien-lunetier ne peut être inscrit que dans un seul département.
 
 **Nota:**
 
 [*Nota : Code de la santé publique L. 506, L. 506-1 :
 
-DEROGATION.
+dérogation.
 
 Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
 s'applique à la collectivité territoriale de Mayotte.*]
@@ -27169,18 +28407,25 @@ s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L510 (Ab)
 	  - Code de la santé publique - art. L510-8 bis (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L4362-1 (M)
+	  - Code de la santé publique - art. L4362-2 (M)
+	  - Code de la santé publique - art. L4362-4 (M)
 	  - Code de la santé publique - art. L4363-2 (V)
 
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique - art. L506 (Ab)
 	  - TXT_ASSOCIE: Code de la santé publique - art. L506-1 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°44-279 1944-06-05 art. 1
 
 
 ###### Article L506
@@ -27519,7 +28764,13 @@ fixé par décret pris sur le rapport conjoint du ministre des Affaires sociales
 ministre des Anciens combattants et victimes de guerre.
 
 Nul ne peut exercer la profession d'audioprothésiste [*interdiction*] s'il n'est titulaire de ce diplôme ou du diplôme d'Etat
-de docteur en médecine [*condition*].
+de docteur en médecine [*condition*] et s'il n'est inscrit sur une liste dressée par le préfet du département de sa résidence
+professionnelle qui enregistre son diplôme, certificat, titre ou autorisation.
+
+Tout changement de résidence professionnelle hors des limites du département oblige à une nouvelle inscription et à la
+radiation de l'ancienne.
+
+Un audioprothésiste ne peut être inscrit que dans un seul département.
 
 **Nota:**
 
@@ -27541,6 +28792,20 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L510-3 (Ab)
 	  - Code de la santé publique - art. L510-6 (Ab)
 	  - Code de la santé publique - art. L510-8 bis (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 15 (V) JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4361-2 (M)
+	  - Code de la santé publique - art. L4361-3 (M)
+	  - Code de la santé publique - art. L4361-8 (M)
 
 
 ###### Article L510-3
@@ -28819,32 +30084,35 @@ réunit les conditions suivantes :
 aux II, III ou IV ci-après ;
 
 2° Etre de nationalité française, citoyen andorran, ressortissant de l'un des Etats membres de la Communauté européenne ou
-ressortissant d'un pays dans lequel les Français peuvent exercer la pharmacie lorsqu'ils sont titulaires du diplôme qui en
-ouvre l'exercice aux nationaux de ce pays ;
+parties à l'accord sur l'Espace économique européen ou ressortissant d'un pays dans lequel les Français peuvent exercer la
+pharmacie lorsqu'ils sont titulaires du diplôme qui en ouvre l'exercice aux nationaux de ce pays ;
 
 3° Etre inscrit à l'ordre des pharmaciens.
 
 II.  Le titulaire d'un diplôme, certificat ou autre titre de pharmacien délivré par l'un des Etats membres de la Communauté
-européenne autre que la France et répondant à l'ensemble des exigences minimales de formation prévues à l'article 2 de la
-directive 85/432/C.E.E. du 16 septembre 1985 visant à la coordination des dispositions législatives, réglementaires et
-administratives concernant certaines activités du domaine de la pharmacie peut exercer la pharmacie en France :
+européenne ou parties à l'accord sur l'Espace économique européen autre que la France et répondant à l'ensemble des exigences
+minimales de formation prévues à l'article 2 de la directive 85/432/CEE du 16 septembre 1985 visant à la coordination des
+dispositions législatives, réglementaires et administratives concernant certaines activités du domaine de la pharmacie peut
+exercer la pharmacie en France :
 
-1° Si ce diplôme, titre ou certificat figure sur une liste établie conformément aux obligations communautaires par arrêté
-conjoint du ministre chargé de la santé et du ministre chargé des universités ;
+1° Si ce diplôme, titre ou certificat figure sur une liste établie conformément aux obligations communautaires ou à celles
+résultant de l'accord sur l'Espace économique européen par arrêté conjoint du ministre chargé de la santé et du ministre
+chargé des universités ;
 
-2° Ou s'il est accompagné d'une attestation des autorités compétentes de l'Etat membre qui l'a délivré, certifiant qu'il
-sanctionne une formation répondant aux exigences énoncées ci-dessus et qu'il est assimilé dans cet Etat membre aux diplômes
-de la liste précitée.
+2° Ou s'il est accompagné d'une attestation des autorités compétentes de l'Etat membre ou autre Etat partie qui l'a délivré,
+certifiant qu'il sanctionne une formation répondant aux exigences énoncées ci-dessus et qu'il est assimilé dans cet Etat
+membre ou autre Etat partie aux diplômes de la liste précitée.
 
 III.  Le titulaire d'un diplôme, certificat ou autre titre de pharmacien délivré par l'un des Etats membres de la Communauté
-européenne autre que la France sanctionnant une formation commencée avant le 1er octobre 1987 et ne répondant pas à
-l'ensemble des exigences minimales de formation prévues au II ci-dessus peut exercer la pharmacie en France :
+européenne ou parties à l'accord sur l'Espace économique européen autre que la France sanctionnant une formation commencée
+avant le 1er octobre 1987 et ne répondant pas à l'ensemble des exigences minimales de formation prévues au II ci-dessus peut
+exercer la pharmacie en France :
 
 1° Si le diplôme, titre ou certificat figure sur la liste mentionnée au II ;
 
-2° S'il est accompagné en outre d'une attestation d'un Etat membre certifiant que le titulaire du diplôme, certificat ou
-autre titre de pharmacien s'est consacré de façon effective et licite aux activités de pharmacien pendant au moins trois
-années consécutives au cours des cinq années précédant la délivrance de l'attestation.
+2° S'il est accompagné en outre d'une attestation d'un Etat membre ou autre Etat partie certifiant que le titulaire du
+diplôme, certificat ou autre titre de pharmacien s'est consacré de façon effective et licite aux activités de pharmacien
+pendant au moins trois années consécutives au cours des cinq années précédant la délivrance de l'attestation.
 
 IV.  Le titulaire d'un diplôme, certificat ou autre titre de pharmacien sanctionnant une formation acquise sur le territoire
 de l'ancienne République démocratique allemande, commencée avant l'unification allemande et ne répondant pas à l'ensemble des
@@ -28867,17 +30135,15 @@ Les diplômes, certificats ou titres doivent être enregistrés sans frais à la
 Les diplômes, certificats ou autres titres délivrés par la République hellénique ne sont reconnus que pour l'exercice d'une
 activité salariée.
 
+**Nota:**
+
+[*Nota - Code de la santé publique L518 : dispositions pénales*]
+
 **Liens relatifs à cet article**
 
 	**Cite**:
 
 	  - Directive CEE 85/432/ 1985-09-16 art. 2
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-1014 1945-05-23
-	  - Loi n°1898-04-19 art. 2
-	  - Loi n°41-3890 1941-09-11 art. 2
 
 	**Codifié par**:
 
@@ -28941,7 +30207,7 @@ activité salariée.
 
 	**Modifié par**:
 
-	  - Loi n°94-43 du 18 janvier 1994 - art. 15 () JORF 19 janvier 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 16 () JORF 5 février 1995
 
 	**Liens**:
 
@@ -28957,7 +30223,23 @@ activité salariée.
 	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 7 (M)
 	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 8 (Ab)
 	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 9 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+	  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4221-1 (V)
+	  - Code de la santé publique - art. L4221-16 (M)
+	  - Code de la santé publique - art. L4221-2 (V)
+	  - Code de la santé publique - art. L4221-4 (V)
+	  - Code de la santé publique - art. L4221-5 (M)
+	  - Code de la santé publique - art. L4221-6 (Ab)
+	  - Code de la santé publique - art. L4221-7 (V)
+	  - Code de la santé publique - art. L4221-8 (V)
+	  - Code de la santé publique - art. L4422-6 (V)
 
 
 ###### Article L514-1
@@ -32432,9 +33714,6 @@ décisions relatives à la politique du médicament et de participer à l'applic
 
 11° De mener toutes études, recherches, actions de formation ou d'information dans les domaines relevant de sa compétence.
 
-L'agence peut, en outre, à la demande des services concernés, procéder à tous contrôles ou expertises techniques relatifs à
-la qualité des eaux minérales ou de sources, de leurs conditions de captage, de transport et de conditionnement.
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -32450,11 +33729,6 @@ la qualité des eaux minérales ou de sources, de leurs conditions de captage, d
 	  - Code de la santé publique - art. L551-9 (Ab)
 	  - Code de la santé publique - art. L658-11 (M)
 
-	**Modifié par**:
-
-	  - Loi n°94-43 du 18 janvier 1994 - art. 31 () JORF 19 janvier 1994
-	  - Loi n°94-43 du 18 janvier 1994 - art. 32 () JORF 19 janvier 1994
-
 	**Cité par**:
 
 	  - Arrêté du 28 avril 1994 - art. 2 (V)
@@ -32462,6 +33736,10 @@ la qualité des eaux minérales ou de sources, de leurs conditions de captage, d
 	  - Décret n°98-385 du 18 mai 1998 - art. 3 (M)
 	  - Code de la santé publique - art. L567-9 (Ab)
 	  - Code de la santé publique - art. R5089-2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 23 () JORF 5 février 1995
 
 
 #### Chapitre 2 : Conseil d'administration, direction générale et personnel
@@ -32626,10 +33904,10 @@ Les ressources [*financières*] de l'agence sont constituées :
 
 1° Par les subventions des collectivités publiques et de leurs établissements publics ;
 
-2° Par les redevances et taxes perçues en application des articles L. 602 et L. 602-1 du présent code, de l'article 33 de la
-loi de finances pour 1968 (n° 67-1114 du 21 décembre 1967), du II de l'article 70 de la loi de finances pour 1972 (n° 71-1061
-du 29 décembre 1971), de l'article 109 de la loi de finances pour 1979 (n° 78-1239 du 29 décembre 1978) et des articles 19 et
-21 de la loi n° 93-5 du 4 janvier 1993 relative à la sécurité en matière de transfusion sanguine et de médicament ;
+2° Par les redevances et taxes perçues en application des articles L. 602, L. 602-1 et L. 603-1 du présent code, de l'article
+33 de la loi de finances pour 1968 (n° 67-1114 du 21 décembre 1967), du II de l'article 70 de la loi de finances pour 1972
+(n° 71-1061 du 29 décembre 1971), de l'article 109 de la loi de finances pour 1979 (n° 78-1239 du 29 décembre 1978) et de
+l'article 19 de la loi n° 93-5 du 4 janvier 1993 relative à la sécurité en matière de transfusion sanguine et de médicament ;
 
 3° Par les redevances pour services rendus établies par décret en Conseil d'Etat ;
 
@@ -32646,17 +33924,21 @@ du 29 décembre 1971), de l'article 109 de la loi de finances pour 1979 (n° 78-
 
 	**Cite**:
 
-	  - Ordonnance n°59-2 du 2 janvier 1959 - art. 5 (Ab)
-	  - Loi n°67-1114 du 21 décembre 1967 - art. 33, v. init.
-	  - Loi n°71-1061 du 29 décembre 1971 - art. 70, v. init.
-	  - Loi n°78-1239 du 29 décembre 1978 - art. 109, v. init.
-	  - Loi n°93-5 1993-01-04 art. 21, art. 23
+	  - Loi n°67-1114 1967-12-21 art. 33 Finances pour 1968
+	  - Loi n°71-1061 1971-12-29 art. 70 Finances pour 1972
+	  - Loi n°78-1239 1978-12-29 art. 109 Finances pour 1979
+	  - Loi n°93-5 1993-01-04 art. 19
 	  - Code de la santé publique - art. L602 (M)
 	  - Code de la santé publique - art. L602-1 (M)
+	  - Code de la santé publique - art. L603-1 (Ab)
 
 	**Modifié par**:
 
-	  - Loi n°94-43 du 18 janvier 1994 - art. 31 () JORF 19 janvier 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 19 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 8 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -32838,7 +34120,10 @@ définies par décret en Conseil d'Etat.
 ###### Article L567-13
 
 Le directeur général de l'agence établit tous les ans [*périodicité*] un rapport sur l'activité de celle-ci, qui est adressé
-au Gouvernement et aux deux assemblées du Parlement. Ce rapport est rendu public.
+au Gouvernement et aux deux assemblées du Parlement. Ce rapport est rendu public. Ce rapport précise notamment les délais
+moyens nécessaires au traitement de chacune des catégories de nouveaux dossiers qui lui sont soumis. Il présente également un
+état comparatif des droits perçus par l'Agence du médicament, d'une part, et par les institutions comparables de l'Union
+européenne ainsi que de ses Etats membres, d'autre part.
 
 **Liens relatifs à cet article**
 
@@ -32847,9 +34132,13 @@ au Gouvernement et aux deux assemblées du Parlement. Ce rapport est rendu publi
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+	  - Loi n°95-116 du 4 février 1995 - art. 19 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 8 () JORF 2 juillet 1998
 
 	**Cité par**:
 
@@ -32985,9 +34274,9 @@ Toute ouverture d'une nouvelle officine, tout transfert d'une officine d'un lieu
 d'une licence délivrée par le représentant de l'Etat dans le département après avis du conseil régional de l'ordre des
 pharmaciens et du directeur régional des affaires sanitaires et sociales.
 
-Un transfert peut être demandé pour le territoire d'une même commune, pour celui d'une commune limitrophe ou d'une même
-communauté urbaine. Les demandes de transfert bénéficient d'une priorité par rapport aux demandes d'ouverture d'une nouvelle
-officine.
+Un transfert d'officine peut être demandé à l'intérieur d'un même département. Lorsqu'elle est faite pour une commune de
+moins de 2 000 habitants, la demande de transfert est examinée au regard de la carte départementale des officines de
+pharmacie. Les demandes de transfert bénéficient d'une priorité par rapport aux demandes d'ouverture d'une nouvelle officine.
 
 Parmi les demandes d'ouverture d'une nouvelle officine, celles qui sont présentées par des pharmaciens n'ayant jamais été
 titulaires d'une licence d'officine ou n'en étant plus titulaires depuis au moins trois ans à la date du dépôt de la demande
@@ -33012,22 +34301,18 @@ la Santé publique et de la Population sur avis du préfet et du conseil supéri
 cédée avant l'expiration d'un délai de cinq ans, qui court à partir du jour de son ouverture.
 
 Tout refus de licence doit faire l'objet d'une décision motivée. Il peut en être fait appel au ministre de la Santé publique
-qui statue après avis du conseil régional [*recours*].
-
-Lors de la fermeture définitive de l'officine, la licence doit être remise à la préfecture par son dernier titulaire ou par
-ses héritiers.
+qui statue après avis du conseil régional [*recours*]. Lors de la fermeture définitive de l'officine, la licence doit être
+remise à la préfecture par son dernier titulaire ou par ses héritiers.
 
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 47.*]
 
+[*Nota - Loi 95-115 du 4 février 1995 art. 30 : les dispositions antérieures à la présente loi continuent à s'appliquer
+jusqu'à la publication de la carte départementale sanitaire.*]
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-1014 1945-05-23 art. 4
-	  - Loi n°41-3890 1941-09-11 art. 21
 
 	**Codifié par**:
 
@@ -33050,9 +34335,13 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 	  - Code de la santé publique - art. R5089-6 (Ab)
 	  - Code de la santé publique - art. R5089-7 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-115 du 4 février 1995 - art. 30 ()
+
 	**Modifié par**:
 
-	  - Loi n°94-43 du 18 janvier 1994 - art. 16 () JORF 19 janvier 1994
+	  - Loi n°95-115 du 4 février 1995 - art. 30 () JORF 5 février 1995
 
 	**Nouveaux textes**:
 
@@ -33067,8 +34356,9 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 ###### Article L570-1
 
 Seuls les pharmaciens de nationalité française, citoyens andorrans ou ressortissants de l'un des Etats membres de la
-Communauté européenne, titulaires du diplôme français d'Etat de docteur en pharmacie ou de pharmacien, peuvent
-individuellement ou en société créer une officine ou racheter une officine ouverte depuis moins de trois ans.
+Communauté européenne ou des autres Etats parties à l'accord sur l'Espace économique européen titulaires du diplôme français
+d'Etat de docteur en pharmacie ou de pharmacien, peuvent individuellement ou en société créer une officine ou racheter une
+officine ouverte depuis moins de trois ans.
 
 **Nota:**
 
@@ -33082,14 +34372,18 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 16 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L5125-8 (V)
 	  - Code de la santé publique - art. L5424-3 (V)
-
-	**Modifié par**:
-
-	  - Loi n°94-43 du 18 janvier 1994 - art. 17 () JORF 19 janvier 1994
 
 
 ###### Article L570-2
@@ -33144,10 +34438,9 @@ Une officine pour 2.500 habitants dans les villes d'une population égale ou sup
 Dans les communes d'une population inférieure à 5.000 habitants, il ne peut être délivré qu'une licence par tranche entière
 de 2.000 habitants recensés dans les limites de la commune.
 
-Une création d'officine peut toutefois être accordée dans une commune dépourvue d'officine et d'une population inférieure à
-2.000 habitants lorsqu'il sera justifié que cette commune constitue, pour la population des localités avoisinantes, un centre
-d'approvisionnement, sous réserve que l'officine à créer et les officines voisines déjà existantes puissent être assurées
-chacune d'un minimum de 2.000 habitants à desservir.
+Une création d'officine peut, toutefois, être accordée dans une commune dépourvue d'officine et d'une population inférieure à
+2 000 habitants lorsque les besoins de la population résidente et saisonnière sont insuffisamment couverts au regard de la
+carte départementale des officines de pharmacie.
 
 La population dont il est tenu compte pour l'application de l'article L. 571 du Code de la santé publique est la population
 municipale totale, telle qu'elle est définie par le décret ayant ordonné le dernier dénombrement général de la population
@@ -33173,6 +34466,9 @@ Dans tous les cas, le préfet peut imposer une distance minimum entre deux offic
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 47.*]
 
+[*Nota - Loi 95-115 du 4 février 1995 art. 30 : les dispositions antérieures à la présente loi continuent à s'appliquer
+jusqu'à la publication de la carte départementale sanitaire.*]
+
 **Liens relatifs à cet article**
 
 	**Cité par**:
@@ -33192,18 +34488,19 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 	  - Code de la santé publique - art. L577 Bis (T)
 	  - Code de la santé publique - art. L578 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°94-43 du 18 janvier 1994 - art. 18 () JORF 19 janvier 1994
-
 	**Liens**:
 
+	  - SPEC_APPLI: Loi n°95-115 du 4 février 1995 - art. 30 ()
 	  - TXT_SOURCE: Arrêté du 22 avril 1986
 	  - TXT_SOURCE: Arrêté du 5 mars 1986
 	  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 2 (V)
 	  - TXT_ASSOCIE: Code de la santé publique - art. L571-1 (Ab)
 	  - SPEC_APPLI: Décret n°65-1128 1965-12-22
+
+	**Modifié par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 30 () JORF 5 février 1995
 
 	**Nouveaux textes**:
 
@@ -33215,28 +34512,39 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve
 
 Par dérogation aux dispositions de l'article L. 571 aucune création ne peut être accordée dans les départements du Haut-Rhin,
 du Bas-Rhin et de la Moselle dans les villes où une licence a déjà été délivrée à une officine pour 5.000 habitants
-[*nombre*].
-
-Toutefois, une création d'officine peut être accordée dans une commune dépourvue d'officine et d'une population inférieure à
-5.000 habitants lorsqu'il sera justifié que cette commune constitue, pour les populations des localités avoisinantes, un
-centre d'approvisionnement, sous réserve que l'officine à créer et les officines voisines déjà existantes puissent être
-assurées chacune d'un minimum de 5.000 habitants à desservir.
+[*nombre*]. Une création d'officine peut, toutefois, être accordée dans une commune dépourvue d'officine et d'une population
+inférieure à 5 000 habitants lorsque les besoins de la population résidente et saisonnière sont insuffisamment couverts au
+regard de la carte départementale des officines de pharmacie.
 
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+[*Nota - Code de la santé publique L. 518 : dispositions pénales.*]
+
+[*Nota - Loi 95-115 du 4 février 1995 art. 30 : les dispositions antérieures à la présente loi continuent à s'appliquer
+jusqu'à la publication de la carte départementale sanitaire.*]
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Ordonnance 45-1976 1945-09-01 art. 2
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°95-115 du 4 février 1995 - art. 30 ()
+	  - TXT_SOURCE: Arrêté du 5 mars 1986
+	  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 2 (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L571-1 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°95-115 du 4 février 1995 - art. 30 () JORF 5 février 1995
 
 	**Cité par**:
 
@@ -33247,14 +34555,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L577 Bis (T)
 	  - Code de la santé publique - art. L578 (Ab)
 
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 5 mars 1986
-	  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 5 mars 1986 - art. 2 (V)
-	  - TXT_ASSOCIE: Code de la santé publique - art. L571-1 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
-
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L5125-14 (M)
@@ -33262,10 +34562,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Cite**:
 
 	  - Code de la santé publique - art. L571 (M)
-
-	**Modifié par**:
-
-	  - Loi n°57-220 1957-02-25 art. 2 JORF 26 février 1957
 
 
 ###### Article L573
@@ -33824,15 +35120,154 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Loi n°46-1182 1946-05-24 art. 2
 
 
+###### Article L582-1
+
+Est également qualifiée de préparateur en pharmacie toute personne ayant obtenu une autorisation d'exercice délivrée par le
+ministre chargé de la santé après avis de la commission mentionnée à l'article L. 583.
+
+Peuvent bénéficier de cette autorisation les ressortissants d'un Etat membre de la Communauté européenne ou d'un autre Etat
+partie à l'accord sur l'Espace économique européen qui, sans posséder le brevet professionnel mentionné à l'article L. 582,
+ont suivi avec succès un cycle d'études les préparant à l'exercice de la profession et répondant aux exigences fixées par
+voie réglementaire et qui sont titulaires :
+
+1° D'un ou plusieurs diplômes, certificats ou autres titres permettant l'exercice de la profession dans un Etat membre ou un
+Etat partie qui réglemente l'accès ou l'exercice de la profession, délivrés :
+
+a) Soit par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans un Etat
+membre ou un Etat partie, ou dans un pays tiers dans des établissements d'enseignement qui dispensent une formation conforme
+aux dispositions législatives, réglementaires ou administratives de cet Etat membre ou partie ;
+
+b) Soit par un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre ou
+de l'Etat partie qui a reconnu le ou les diplômes, certificats ou autres titres certifiant que le titulaire de ce ou ces
+diplômes, certificats ou autres titres a une expérience professionnelle dans cet Etat de deux ans au moins ;
+
+2° Ou d'un ou plusieurs diplômes, certificats ou autres titres, sanctionnant une formation réglementée, spécifiquement
+orientée sur l'exercice de la profession, dans un Etat membre ou un Etat partie qui ne réglemente pas l'accès ou l'exercice
+de cette profession ;
+
+3° Ou d'un ou plusieurs diplômes, certificats ou autres titres obtenus dans un Etat membre ou un Etat partie qui ne
+réglemente ni l'accès ou l'exercice de cette profession ni la formation conduisant à l'exercice de cette profession, à
+condition de justifier d'un exercice à plein temps de la profession pendant deux ans au moins au cours des dix années
+précédentes, ou pendant une période équivalente à temps partiel, dans cet Etat, à condition que cet exercice soit attesté par
+l'autorité compétente de cet Etat.
+
+Lorsque la formation de l'intéressé porte sur des matières substantiellement différentes de celles qui figurent au programme
+du brevet professionnel mentionné à l'article L. 582 ou lorsqu'une ou plusieurs des activités professionnelles dont
+l'exercice est subordonné audit brevet ne sont pas réglementées par l'Etat d'origine ou de provenance ou sont réglementées de
+manière différente, le ministre chargé de la santé peut exiger que l'intéressé choisisse soit de se soumettre à une épreuve
+d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder deux ans et qui fait l'objet d'une
+évaluation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 17 () JORF 5 février 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°2002-193 du 11 février 2002
+
+	**Cité par**:
+
+	  - Décret n°99-740 du 25 août 1999 - art. 1 (Ab)
+	  - Décret n°99-740 du 25 août 1999 - art. 2 (Ab)
+	  - Décret n°99-740 du 25 août 1999 - art. 4 (Ab)
+	  - Décret n°99-740 du 25 août 1999 - art. 5 (Ab)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+	  - Code de la santé publique - art. L582-2 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4241-6 (T)
+	  - Code de la santé publique - art. L4241-7 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L582 (Ab)
+	  - Code de la santé publique - art. L583 (M)
+
+
+###### Article L582-2
+
+Peuvent également bénéficier de l'autorisation d'exercice mentionnée à l'article L. 582-1, les ressortissants d'un Etat
+membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen qui, sans posséder
+de titre de formation conforme aux dispositions de l'article L. 582-1, ont exercé la profession de préparateur en pharmacie
+pendant trois ans consécutivement, ou pendant une période équivalente à temps partiel, au cours des dix années précédentes
+dans un Etat membre ou un Etat partie qui ne réglemente pas l'exercice de cette profession.
+
+Dans ce cas, le ministre chargé de la santé peut exiger de l'intéressé qu'il accomplisse un stage d'adaptation d'une durée
+maximale de deux ans, qui fait l'objet d'une évaluation, ou qu'il se soumette à une épreuve d'aptitude.
+
+Un décret en Conseil d'Etat pris après avis de la commission mentionnée à l'article L. 583 détermine les mesures nécessaires
+à l'application de l'article L. 582-1 et du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 17 () JORF 5 février 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°99-740 du 25 août 1999 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°2002-193 du 11 février 2002
+
+	**Cité par**:
+
+	  - Décret n°99-740 du 25 août 1999 - art. 1 (Ab)
+	  - Décret n°99-740 du 25 août 1999 - art. 2 (Ab)
+	  - Décret n°99-740 du 25 août 1999 - art. 4 (Ab)
+	  - Décret n°99-740 du 25 août 1999 - art. 5 (Ab)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4241-11 (T)
+	  - Code de la santé publique - art. L4241-8 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L582-1 (Ab)
+	  - Code de la santé publique - art. L583 (M)
+
+
 ###### Article L583
 
-Les conditions de délivrance du brevet professionnel de préparateur en pharmacie sont fixées par décret, pris après avis
-d'une commission composée paritairement de représentants des pharmaciens, des préparateurs en pharmacie et de
-l'administration.
-
-La composition de cette commission est définie par arrêté ministériel. Ses membres sont nommés sur proposition du conseil
-supérieur de la pharmacie en ce qui concerne les pharmaciens et sur proposition des organisations syndicales les plus
-représentatives des préparateurs en ce qui les concerne.
+Les conditions de délivrance du brevet professionnel de préparateur en pharmacie sont fixées par décret après avis d'une
+commission comprenant des représentants de l'Etat, des pharmaciens et des préparateurs en pharmacie et dont la composition
+est fixée par décret.
 
 **Nota:**
 
@@ -33841,30 +35276,10 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1978-02-03 JORF NC 11 février MODIFIE PAR Arrêté 1978-03-28 :
-	  - TXT_ASSOCIE: COMPOSITION DE LA COMMISSION
-	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997
-	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 1 (M)
-	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 10 (M)
-	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 2 (M)
-	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 3 (M)
-	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 4 (M)
-	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 5 (M)
-	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 6 (M)
-	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 7 (M)
-	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 8 (M)
-	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 9 (M)
-
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Modifié par**:
-
-	  - Loi n°77-745 1977-07-08 art. 2 JORF 10 juillet 1977
 
 	**Cité par**:
 
@@ -33878,13 +35293,32 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L582-1 (Ab)
 	  - Code de la santé publique - art. L582-2 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 17 () JORF 5 février 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 1 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 10 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 2 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 3 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 4 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 5 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 6 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 7 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 8 (M)
+	  - TXT_SOURCE: Décret n°97-508 du 22 mai 1997 - art. 9 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L4241-5 (T)
 	  - Code de la santé publique - art. L4241-5 (V)
-
-	**Anciens textes**:
-
-	  - Loi n°46-1182 1946-05-24 art. 3
 
 
 ###### Article L584
@@ -33976,10 +35410,10 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L586
 
-Sous réserve des dispositions de l'article L. 663 ci-après, nul, s'il ne répond aux conditions fixées à l'article L. 582 du
-présent titre [*brevet professionnel*], ne peut se qualifier préparateur en pharmacie ni, notamment sur le plan
-professionnel, user des droits et prérogatives attachés à cette qualité, sous peine de sanctions encourues pour le délit
-d'usurpation de titre prévu par l'article 433-17 du code pénal. En cas de récidive, la peine sera doublée.
+Sous réserve des dispositions de l'article L. 663 ci-après, nul, s'il ne répond aux conditions fixées à l'article L. 582 ou
+aux articles L. 582-1 et L. 582-2 du présent titre [*brevet professionnel*], ne peut se qualifier préparateur en pharmacie
+ni, notamment sur le plan professionnel, user des droits et prérogatives attachés à cette qualité, sous peine de sanctions
+prévues à l'article 433-17 du code pénal. En cas de récidive, la peine sera doublée.
 
 Les dispositions du présent article ne sont applicables [*non*] ni aux étudiants en pharmacie, qui peuvent être employés dans
 une pharmacie aux conditions [*d'exercice*] prévues à l'article L. 588, ni aux personnes titulaires du diplôme de pharmacien,
@@ -34000,7 +35434,11 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°92-1336 du 16 décembre 1992 - art. 334 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+	  - Loi n°95-116 du 4 février 1995 - art. 17 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
@@ -35265,8 +36703,8 @@ central compétent de l'ordre national des pharmaciens, peuvent comporter un ét
 propriétaires, qui distribue en gros des médicaments, fabriqués en conformité avec les normes visées à l'article L. 600, à
 des organismes similaires ayant la même vocation en France ou dans un Etat de la Communauté européenne ou autre Etat partie à
 l'accord sur l'Espace économique européen, ou qui les exporte aux mêmes fins humanitaires dans un Etat non membre de ladite
-Communauté en vue de leur distribution et dispensation sans but lucratif. Le pharmacien responsable de l'établissement doit
-participer à la direction générale de l'organisme propriétaire.
+Communauté ou non partie à l'accord sur l'Espace économique européen en vue de leur distribution et dispensation sans but
+lucratif. Le pharmacien responsable de l'établissement doit participer à la direction générale de l'organisme propriétaire.
 
 Un décret en Conseil d'Etat précise les modalités d'application du présent article et les adaptations qui pourront être
 apportées, en ce qui concerne ces établissements pharmaceutiques, aux troisième, quatrième et cinquième alinéas de l'article
@@ -35286,8 +36724,11 @@ et-Miquelon.*]
 
 	**Modifié par**:
 
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 1 () JORF 1er janvier 1994
-	  - Loi n°93-1420 du 31 décembre 1993 - art. 11 () JORF 1er janvier 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 16 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -35451,13 +36892,11 @@ sous une forme quelconque, au diagnostic, à la prophylaxie ou à la thérapeuti
 ###### Article L598
 
 L'ouverture d'un établissement pharmaceutique est subordonnée à une autorisation délivrée par l'Agence du médicament
-lorsqu'il s'agit d'un établissement pharmaceutique se livrant à la fabrication, l'exploitation, l'exportation ou à
-l'importation des médicaments, des générateurs, trousses ou précurseurs mentionnés au 3° de l'article L. 512 et des produits
-mentionnés à l'article L. 658-11, et par le ministre chargé de la santé pour les autres établissements pharmaceutiques.
-Lorsqu'un établissement pharmaceutique se livre exclusivement à l'exportation de ces médicaments, générateurs, trousses,
-précurseurs ou produits, cette autorisation est délivrée par le ministre chargé de la santé. Cette autorisation peut, après
-mise en demeure, être suspendue ou retirée en cas d'infraction aux dispositions du présent livre. Les modalités d'octroi, de
-suspension ou de retrait de cette autorisation sont définies par décret en Conseil d'Etat.
+lorsqu'il s'agit d'un établissement pharmaceutique se livrant à la fabrication, l'exploitation ou à l'importation des
+médicaments, des générateurs, trousses ou précurseurs mentionnés au 3° de l'article L. 512 et des produits mentionnés à
+l'article L. 658-11, et par le ministre chargé de la santé pour les autres établissements pharmaceutiques. Cette autorisation
+peut, après mise en demeure, être suspendue ou retirée en cas d'infraction aux dispositions du présent livre. Les modalités
+d'octroi, de suspension ou de retrait de cette autorisation sont définies par décret en Conseil d'Etat.
 
 Toute modification des éléments figurant dans l'autorisation initiale doit faire l'objet d'une nouvelle autorisation
 préalable.
@@ -35466,6 +36905,8 @@ préalable.
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+[*Nota - Code de la santé publique L. 518 : dispositions pénales.*]
 
 **Liens relatifs à cet article**
 
@@ -35504,7 +36945,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°94-43 du 18 janvier 1994 - art. 31 () JORF 19 janvier 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 18 () JORF 5 février 1995
 
 	**Cite**:
 
@@ -35519,7 +36960,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Liens**:
 
-	  - TXT_ASSOCIE: Code de la santé publique L518 : dispositions pénales
+	  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
 
 
 ###### Article L599
@@ -35999,12 +37440,16 @@ de fabrication de ces médicaments homéopathiques.
 
 ###### Article L602
 
-Toute demande d'autorisation de mise sur le marché doit être accompagnée du versement d'un droit progréssif dont le montant
-sera fixé par décret dans la limite de 100.000 F.
+Toute demande d'autorisation de mise sur le marché doit être accompagnée du versement d'un droit progressif dont le montant
+sera fixé par décret dans la limite de 150.000 F.
 
 Son montant est versé à l'Agence du médicament.
 
 Les dispositions du III de l'article L. 602-3 sont applicables à ce droit.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 518 : dispositions pénales.*]
 
 **Liens relatifs à cet article**
 
@@ -36025,10 +37470,6 @@ Les dispositions du III de l'article L. 602-3 sont applicables à ce droit.
 	  - Code de la santé publique - art. L605 (M)
 	  - Code de la santé publique - art. L658-11 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°93-5 1993-01-04 art. 16 6° JORF 5 janvier 1993
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°93-1322 du 20 décembre 1993
@@ -36038,7 +37479,11 @@ Les dispositions du III de l'article L. 602-3 sont applicables à ce droit.
 	  - TXT_SOURCE: Décret n°96-653 du 16 juillet 1996 - art. 1 (Ab)
 	  - TXT_SOURCE: Décret n°96-653 du 16 juillet 1996 - art. 2 (Ab)
 	  - TXT_SOURCE: Décret n°96-653 du 16 juillet 1996 - art. 3 (Ab)
-	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+	  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
+
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 19 () JORF 5 février 1995
 
 	**Nouveaux textes**:
 
@@ -36230,10 +37675,10 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 ###### Article L603
 
 Un établissement pharmaceutique exportant un médicament [*à l'étranger*] doit demander à l'autorité administrative de
-certifier qu'i possède l'autorisation mentionnée à l'article L. 598. Un établissement pharmaceutique fabriquant un médicament
-en vue de son exportation doit demander de plus à l'autorité administrative de certifier qu'il s'est doté des bonnes
-pratiques de fabrication prévues à l'article L. 600. Un Etat non membre de la Communauté européenne important un médicament
-peut effectuer les mêmes demandes.
+certifier qu'il possède l'autorisation mentionnée à l'article L. 598. Un établissement pharmaceutique fabriquant un
+médicament en vue de son exportation doit demander de plus à l'autorité administrative de certifier qu'il s'est doté des
+bonnes pratiques de fabrication prévues à l'article L. 600. Un Etat non membre de la Communauté européenne ou non partie à
+l'accord sur l'Espace économique européen important un médicament peut effectuer les mêmes demandes.
 
 L'Agence du médicament peut, pour des raisons de santé publique, interdire l'exportation de médicaments qui ne
 bénéficieraient pas d'une autorisation de mise sur le marché telle que définie dans l'article L. 601 du présent code ou qui
@@ -36275,7 +37720,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°94-43 1994-01-18 art. 33 II JORF 19 janvier 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 16 () JORF 5 février 1995
 
 	**Nouveaux textes**:
 
@@ -36292,6 +37737,41 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique L518 : dispositions pénales
+
+
+###### Article L603-1
+
+Chaque demande présentée par un établissement pharmaceutique exportant un médicament en vue d'obtenir, conformément au
+premier alinéa de l'article L. 603, le ou les certificats qui lui sont nécessaires et chaque déclaration mentionnée au
+quatrième alinéa du même article donnent lieu au versement d'un droit fixe dont le montant est fixé par décret dans la limite
+de 1 500 F.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 19 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5124-12 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L567-7 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L603 (M)
 
 
 ###### Article L604
@@ -36387,15 +37867,18 @@ essais organisés après la délivrance de cette autorisation.
 7° Les restrictions qui peuvent être apportées dans l'intérêt de la santé publique à la prescription et à la délivrance de
 certains médicaments ;
 
-8° Les règles applicables en cas de changement du titulaire de l'autorisation de mise sur le marché.
+8° Les règles applicables en cas de changement du titulaire de l'autorisation de mise sur le marché ;
 
-9° Les conditions d'application des articles L. 602 à L. 602-4 relatifs à la taxe annuelle des médicaments et produits.
+9° Les conditions d'application des articles L. 602 à L. 602-4 relatifs à la taxe annuelle des médicaments et produits ;
 
 10° Les règles applicables à la pharmacovigilance exercée sur les médicaments postérieurement à la délivrance de
-l'autorisation administrative de mise sur le marché.
+l'autorisation administrative de mise sur le marché prévue à l'article L. 601, de l'autorisation temporaire d'utilisation
+prévue à l'article L. 601-2 ou postérieurement à l'enregistrement des médicaments homéopathiques prévu aux articles L. 601-3
+et L. 601-4 ; ces règles fixent notamment les obligations de signalement incombant aux membres des professions de santé et
+aux entreprises exploitant un médicament ou un produit soumis à la présente section ;
 
 11° Les règles particulières applicables à la pharmacovigilance exercée sur les médicaments dérivés du sang et les autres
-médicaments d'origine humaine.
+médicaments d'origine humaine ;
 
 12° Les modalités de présentation des demandes tendant à obtenir l'enregistrement des médicaments homéopathiques prévu aux
 articles L. 601-3 et L. 601-4, la nature du dossier ainsi que les règles relatives à l'étiquetage et à la notice de ces
@@ -36414,7 +37897,7 @@ homéopathique et un usage généralement lié à la tradition.
 
 	**Modifié par**:
 
-	  - Loi n°94-43 du 18 janvier 1994 - art. 12 () JORF 19 janvier 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 21 () JORF 5 février 1995
 
 	**Cité par**:
 
@@ -36430,10 +37913,11 @@ homéopathique et un usage généralement lié à la tradition.
 	**Cite**:
 
 	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. L601-2 (M)
 	  - Code de la santé publique - art. L601-3 (M)
 	  - Code de la santé publique - art. L601-4 (Ab)
 	  - Code de la santé publique - art. L603 (M)
-	  - Code de la santé publique L601 à L604, L601, L603, L602 à L602-4, L601-3, L601-4
+	  - Code de la santé publique L601 à L604, L601, L603, L602 à L602-4, L601-2, L601-3, L601-4
 
 
 #### Chapitre 3 : Pharmacie vétérinaire
@@ -37103,6 +38587,9 @@ vétérinaires, ne peuvent être effectuées que dans des établissements régis
 
 Toute entreprise qui comporte au moins un établissement visé au premier alinéa doit être la propriété d'un pharmacien, d'un
 vétérinaire ou d'une société à la gérance ou à la direction générale de laquelle participe un pharmacien ou un vétérinaire.
+Elle peut être, en tout ou partie, concédée en location-gérance à une société. Cette société doit être la propriété d'un
+pharmacien ou d'un vétérinaire ou comporter la participation d'un pharmacien ou d'un vétérinaire à sa direction générale ou à
+sa gérance. Les modalités d'exercice de la location-gérance sont déterminées par décret en Conseil d'Etat.
 
 Les pharmaciens ou vétérinaires mentionnés à l'alinéa précédent sont dénommés : " pharmaciens ou vétérinaires responsables ".
 Ils sont personnellement responsables du respect des dispositions du présent livre ayant trait à leur activité, sans
@@ -37127,6 +38614,8 @@ société.
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+[*Nota - Code de la santé publique L. 617-24 : dispositions pénales.*]
 
 **Liens relatifs à cet article**
 
@@ -37172,7 +38661,11 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°92-650 du 13 juillet 1992 - art. 7 () JORF 16 juillet 1992 rectificatif JORF 4 novembre 1992
+	  - Loi n°95-116 du 4 février 1995 - art. 33 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -37348,7 +38841,8 @@ Exception faite des aliments médicamenteux, aucun médicament vétérinaire ne 
 préalable, une autorisation de mise sur le marché délivrée par l'autorité administrative.
 
 Toutefois, lorsque la situation sanitaire l'exige [*condition*], la commercialisation ou l'utilisation d'un médicament
-vétérinaire autorisé par un autre Etat membre de la Communauté européenne peut être autorisée par l'autorité administrative.
+vétérinaire autorisé par un autre Etat membre de la Communauté européenne ou autre Etat partie à l'accord sur l'Espace
+économique européen peut être autorisée par l'autorité administrative.
 
 En cas d'épizootie et sans préjudice des dispositions de l'article L. 617-4, l'autorité administrative peut autoriser, en
 l'absence de médicaments vétérinaires adéquats, l'utilisation, pour une durée limitée, de médicaments vétérinaires
@@ -37399,7 +38893,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°94-114 du 10 février 1994 - art. 1 () JORF 11 février 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 16 () JORF 5 février 1995
 
 	**Liens**:
 
@@ -41153,9 +42647,7 @@ Les insecticides et les acaricides destinés à être appliqués sur l'homme et 
 l'application des lentilles de contact doivent, avant leur mise sur le marché à titre onéreux ou à titre gratuit, faire
 l'objet d'une autorisation [*obligatoire*] par l'Agence du médicament [*autorité compétente*].
 
-Cette autorisation peut être assortie de conditions adéquates ;
-
-elle n'est accordée que lorsque le fabricant justifie :
+Cette autorisation peut être assortie de conditions adéquates ; elle n'est accordée que lorsque le fabricant justifie :
 
 1° Qu'il a fait procéder à la vérification de l'innocuité du produit dans des conditions normales d'emploi ainsi qu'à son
 analyse qualitative et quantitative ;
@@ -41163,9 +42655,7 @@ analyse qualitative et quantitative ;
 2° Qu'il dispose effectivement d'une méthode de fabrication et de procédés de contrôle de nature à garantir la qualité du
 produit au stade de la fabrication en série.
 
-Cette autorisation est délivrée pour une durée de cinq ans ;
-
-elle est ensuite renouvelable par période quinquennale.
+Cette autorisation est délivrée pour une durée de cinq ans ; elle est ensuite renouvelable par période quinquennale.
 
 Elle peut être suspendue ou supprimée par l'Agence du médicament.
 
@@ -41174,7 +42664,10 @@ qu'il peut encourir dans les conditions du droit commun en raison de la fabricat
 
 Toute demande d'autorisation doit être accompagnée du versement du droit fixe prévu à l'article L. 602.
 
-Un décret en Conseil d'Etat précisera les conditions d'application du présent article.
+Des décrets en Conseil d'Etat précisent les conditions d'application du présent article ainsi que les règles applicables à la
+pharmacovigilance exercée sur ces produits postérieurement à la délivrance de l'autorisation administrative précitée ; ces
+règles fixent notamment les obligations de signalement incombant aux membres des professions de santé et aux entreprises
+exploitant ces produits.
 
 **Nota:**
 
@@ -41241,7 +42734,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993
+	  - Loi n°95-116 du 4 février 1995 - art. 21 () JORF 5 février 1995
 
 	**Nouveaux textes**:
 
@@ -41621,16 +43114,12 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L665-2
 
-La mise sur le marché est autorisée selon les dispositions de l'article L. 665-1 :
+La mise sur le marché est autorisée selon les dispositions de l'article L. 665-4. Toutefois, restent applicables :
 
-1° Pour les dispositifs médicaux implantables actifs, jusqu'au 31 décembre 1994 ;
+1° Pour les dispositifs médicaux implantables actifs, jusqu'au 31 décembre 1994, les dispositions de l'article L. 665-1 ;
 
-2° Pour les autres dispositifs médicaux, jusqu'au 13 juin 1998.
-
-Jusqu'aux dates précitées, ces dispositions s'appliqueront à ces dispositifs concurremment avec celles du livre V  bis.
-
-Les dispositions de l'article L. 665-4 ne sont applicables aux dispositifs médicaux autres que les dispositifs médicaux
-implantables actifs qu'à compter du 1er janvier  1995.
+2° Pour les autres dispositifs médicaux, à compter du 1er janvier 1995 et jusqu'au 13 juin 1998, la réglementation à laquelle
+ils étaient soumis au 31 décembre 1994.
 
 **Liens relatifs à cet article**
 
@@ -41639,9 +43128,9 @@ implantables actifs qu'à compter du 1er janvier  1995.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-43 du 18 janvier 1994 - art. 27 () JORF 19 janvier 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 27 (V) JORF 5 février 1995
 
 	**Cité par**:
 
@@ -41650,6 +43139,10 @@ implantables actifs qu'à compter du 1er janvier  1995.
 	  - Arrêté du 14 mai 1996 - art. 2 (Ab)
 	  - Arrêté du 28 mai 1997 - art. 2 (V)
 	  - Arrêté du 28 mai 1998 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 14 () JORF 2 juillet 1998
 
 	**Cite**:
 
@@ -41663,11 +43156,11 @@ implantables actifs qu'à compter du 1er janvier  1995.
 
 ###### Article L665-3
 
-On entend [*définition*] par dispositif médical tout instrument, appareil, équipement, matière, produit d'origine ni humaine
-ni animale ou autre article utilisé seul ou en association, y compris les accessoires et logiciels intervenant dans son
-fonctionnement, destiné par le fabricant à être utilisé chez l'homme à des fins médicales et dont l'action principale voulue
-n'est pas obtenue par des moyens pharmacologiques ou immunologiques ni par métabolisme, mais dont la fonction peut être
-assistée par de tels moyens.
+On entend    par dispositif médical tout instrument, appareil, équipement, matière, produit, à l'exception des produits
+d'origine humaine ou autre article utilisé seul ou en association, y compris les accessoires et logiciels intervenant dans
+son fonctionnement, destiné par le fabricant à être utilisé chez l'homme à des fins médicales et dont l'action principale
+voulue n'est pas obtenue par des moyens pharmacologiques ou immunologiques ni par métabolisme, mais dont la fonction peut
+être assistée par de tels moyens. 
 
 Les dispositifs médicaux qui sont conçus pour être implantés en totalité ou en partie dans le corps humain ou placés dans un
 orifice naturel, et qui dépendent pour leur bon fonctionnement d'une source d'énergie électrique ou de toute source d'énergie
@@ -41681,9 +43174,9 @@ implantables actifs.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-43 du 18 janvier 1994 - art. 28 () JORF 19 janvier 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 27 (V) JORF 5 février 1995
 
 	**Liens**:
 
@@ -41706,6 +43199,10 @@ implantables actifs.
 	  - Code de la santé publique - art. R791-4-5 (Ab)
 	  - Code de la santé publique - art. R791-4-6 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L5211-1 (M)
@@ -41713,7 +43210,7 @@ implantables actifs.
 
 ###### Article L665-4
 
-Les dispositifs médicaux ne peuvent [*obligation*] être mis sur le marché, mis en service ni utilisés dans le cadre
+Les dispositifs médicaux ne peuvent [*obligation*] être importés, mis sur le marché, mis en service ni utilisés dans le cadre
 d'investigations cliniques s'ils n'ont reçu, au préalable, un certificat attestant leurs performances ainsi que leur
 conformité à des exigences essentielles concernant la sécurité et la santé des patients, des utilisateurs et des tiers.
 
@@ -41730,9 +43227,9 @@ applicables ainsi que, le cas échéant, la durée pendant laquelle la certifica
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°94-43 du 18 janvier 1994 - art. 28 () JORF 19 janvier 1994
+	  - Loi n°95-116 du 4 février 1995 - art. 27 (V) JORF 5 février 1995
 
 	**Cité par**:
 
@@ -45573,6 +47070,11 @@ fonctionnement conforme aux principes généraux énoncés par le titre Ier du p
 
 Ces conditions et les modalités de délivrance sont fixées pour chacune des autorisations par décret en Conseil d'Etat.
 
+Les fonctionnaires du ministère de la santé habilités à cet effet par arrêté du ministre chargé de la santé s'assurent de la
+conformité du fonctionnement des établissements mentionnés aux articles L. 672-10 à L. 672-13 aux conditions techniques
+sanitaires, médicales et financières mentionnées au premier alinéa du présent article ainsi qu'aux bonnes pratiques prévues
+par l'article L. 673-8. A cette fin, ils ont accès aux locaux professionnels.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -45580,9 +47082,10 @@ Ces conditions et les modalités de délivrance sont fixées pour chacune des au
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Nouveaux textes**:
 
-	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+	  - Code de la santé publique - art. L1243-5 (M)
+	  - Code de la santé publique - art. L1243-7 (M)
 
 	**Cité par**:
 
@@ -45593,6 +47096,16 @@ Ces conditions et les modalités de délivrance sont fixées pour chacune des au
 
 	  - Code de la santé publique - art. L672-10 (M)
 	  - Code de la santé publique - art. L672-13 (M)
+	  - Code de la santé publique - art. L673-8 (M)
+	  - Code de la santé publique L672-10, L672-13, L672-10 à L672-13, L673-8
+
+	**Modifié par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 30 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 ##### Section 5 : Dispositions spécifiques au don et à l'utilisation de gamètes
@@ -47226,6 +48739,55 @@ adéquats et de procéder à l'évaluation de leur activité.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L6113-1 (V)
+
+
+###### Article L710-3-1
+
+Les établissements de santé mettent en oeuvre les moyens propres à prendre en charge la douleur des patients qu'ils
+accueillent. Ces moyens sont définis par le projet d'établissement visé à l'article L. 714-11.
+
+Les centres hospitaliers et universitaires assurent, à cet égard, la formation initiale des médecins et diffusent les
+connaissances acquises en vue de permettre la réalisation de cet objectif en ville comme dans les établissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 31 () JORF 5 février 1995
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1112-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-11 (M)
+
+
+###### Article L710-3-2
+
+Les établissements sociaux et médico-sociaux hébergeant notamment des personnes âgées mettent en oeuvre les moyens propres à
+prendre en charge la douleur des personnes qu'ils reçoivent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°95-116 du 4 février 1995 - art. 32 () JORF 5 février 1995
+
+	**Abrogé par**:
+
+	  - Loi n°96-452 du 28 mai 1996 - art. 14 () JORF 29 mai 1996
 
 
 ##### Section 2 : De l'évaluation et de l'analyse de l'activité des établissements de santé
@@ -53549,8 +55111,9 @@ Les laboratoires dans lesquels sont effectuées des analyses de biologie médica
 l'article L. 761-11, répondre aux conditions fixées par le présent chapitre.
 
 Les analyses de biologie médicale sont les examens biologiques qui concourent au diagnostic, au traitement ou à la prévention
-des maladies humaines ou qui font apparaître toute autre modification de l'état physiologique ; les analyses ne peuvent être
-effectuées que dans les laboratoires mentionnés à l'alinéa précédent, sous la responsabilité de leurs directeurs et
+des maladies humaines ou qui font apparaître toute autre modification de l'état physiologique, à l'exclusion des actes
+d'anatomie et de cytologie pathologiques exécutés par les médecins spécialistes de cette discipline. Les analyses ne peuvent
+être effectuées que dans les laboratoires mentionnés à l'alinéa précédent, sous la responsabilité de leurs directeurs et
 directeurs adjoints.
 
 **Nota:**
@@ -53558,11 +55121,9 @@ directeurs adjoints.
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 52 : le présent article du code de la santé publique, en vigueur le 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
+[*Nota - Code de la santé publique L. 761-11 : hors champ d'application.*]
+
 **Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-447 1946-03-18 art. 1
 
 	**Codifié par**:
 
@@ -53586,7 +55147,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+	  - Loi n°95-116 du 4 février 1995 - art. 29 () JORF 5 février 1995
 
 	**Nouveaux textes**:
 
