@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1960-04-07
+Version Consolidée au 1960-07-27
 
 # Partie législative ancienne
 
@@ -25780,6 +25780,49 @@ et de la population, après avis conforme du conseil d'Etat.
 	**Anciens textes**:
 
 	  - Loi n°41-5060 1941-12-21 ART. 19
+
+
+#### CHAPITRE 5 : AUTRES DISPOSITIONS FINANCIERES
+
+##### SECTION 1 : MARCHES.
+
+###### Article L706
+
+Les hôpitaux et hospices sont soumis, en ce qui concerne leurs fournitures et l'exécution de leurs travaux, aux mêmes règles
+que les communes.
+
+Il n'est pas dérogé aux dispositions de la loi du 18 août 1926 relatives aux adjudications et marchés passés avec les
+sociétés d'ouvriers français.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Décret n°60-724 1960-07-25 ART. 94 JORF 27 JUILLET 1960
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-241 du 18 février 1985
+	  - TXT_SOURCE: Décret n°85-241 du 18 février 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Code des marchés publics - art. 250 bis (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2005-840 du 20 juillet 2005 - art. 6 (V)
+	  - Code de la santé publique - art. L706-1 (Ab)
+
+	**Cite**:
+
+	  - Loi n°1926-08-18
+
+	**Anciens textes**:
+
+	  - Loi n°41-5060 1941-12-21 ART. 22
 
 
 ## LIVRE 7 : THERMO-CLIMATISME
