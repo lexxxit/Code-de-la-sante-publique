@@ -280,9 +280,15 @@ Les dispositifs non actifs destinés spécifiquement à enregister les images de
 Tous les dispositifs fabriqués à partir de tissus d'origine animale ou de dérivés rendus non viables entrent dans la classe
 III, sauf si ces dispositifs sont destinés à entrer en contact uniquement avec une peau intacte.
 
-5. Règle 18 :
+5. Classification par dérogation aux autres règles :
 
-Par dérogation aux autres règles, les poches à sang figurent dans la classe II b.
+5.1. Règle 18 :
+
+Les poches à sang figurent dans la classe II b ;
+
+5.2. Règle 19 :
+
+Les implants mammaires figurent dans la classe III.
 
 **Liens relatifs à cet article**
 
@@ -291,9 +297,9 @@ Par dérogation aux autres règles, les poches à sang figurent dans la classe I
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°95-292 1995-03-16 annexe JORF 17 mars 1995
+	  - Décret n°2003-1106 du 20 novembre 2003 - art. 1 () JORF 22 novembre 2003
 
 	**Cite**:
 
