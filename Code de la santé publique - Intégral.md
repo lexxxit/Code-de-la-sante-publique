@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-11-15
+Version Consolidée au 1994-11-24
 
 # Partie législative ancienne
 
@@ -84342,7 +84342,7 @@ Les dispositions du présent chapitre sont applicables à la collectivité terri
 
 ##### Sous-section 1 : Des associations agréées en qualité d'établissement de transfusion sanguine
 
-###### Article R668-1
+###### Article R668-1-1
 
 Les statuts des associations qui, conformément à l'article L. 668-1, demandent à l'Agence française du sang leur agrément en
 qualité d'établissement de transfusion sanguine doivent être conformes aux statuts types figurant en annexe I à la présente
@@ -84355,12 +84355,7 @@ section.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Modifié par**:
-
-	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
-	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
 
@@ -84370,12 +84365,17 @@ section.
 
 	**Nouveaux textes**:
 
-	  - Code de la santé publique - art. R668-1-1 (M)
+	  - Code de la santé publique - art. R1223-3 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R668-1 (M)
+	  - Code de la santé publique - art. R668-1 (T)
 
 
 ##### Sous-section 2 : Des groupements d'intérêt public agréés en qualité d'établissement de transfusion sanguine
 
-###### Article R668-2
+###### Article R668-1-2
 
 En vue d'être agréés par l'Agence française du sang en qualité d'établissement de transfusion sanguine, des groupements
 d'intérêt public dotés de la personnalité morale et de l'autonomie financière peuvent être constitués entre des
@@ -84394,22 +84394,123 @@ section.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Modifié par**:
-
-	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
-	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
-
-	**Transféré par**:
+	**Créé par**:
 
 	  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
 
 	**Cité par**:
 
-	  - Code de la santé publique - art. Annexe II aux articles R668-1-1 à R668-21 (Ab)
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 3 (Ab)
+	  - Code de la santé publique - art. R668-1-4 (Ab)
 
 	**Nouveaux textes**:
 
-	  - Code de la santé publique - art. R668-1-2 (M)
+	  - Code de la santé publique - art. R1223-4 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R668-2 (M)
+	  - Code de la santé publique - art. R668-2 (T)
+
+
+###### Article R668-1-3
+
+La décision d'approbation de la convention constitutive, prévue aux articles L. 668-1 et L. 668-2, qui vaut agrément en
+qualité d'établissement de transfusion sanguine, est publiée au Journal officiel de la République française. La publication
+fait notamment mention :
+
+- de la dénomination et de l'objet du groupement ;
+
+- de l'identité de ses membres ;
+
+- du siège social ;
+
+- de la zone de collecte de l'établissement.
+
+Les modifications éventuelles de la convention constitutive ainsi que la décision d'approbation de ces modifications font
+l'objet d'une publication dans les mêmes conditions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L668-1 (M)
+	  - Code de la santé publique - art. L668-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1223-5 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R668-3 (M)
+
+
+###### Article R668-1-4
+
+Un commissaire du Gouvernement est nommé auprès du groupement par le préfet du département dans lequel se trouve son siège.
+
+Il assiste aux réunions de l'assemblée générale et du conseil d'administration et a communication de tous documents relatifs
+au groupement.
+
+Lorsqu'il estime qu'une décision ou délibération, y compris celles qui sont relatives au recrutement de personnel propre au
+groupement, met en jeu l'existence ou le bon fonctionnement du groupement, ou méconnaît les dispositions législatives ou
+réglementaires ou la convention constitutive, le commissaire du Gouvernement peut suspendre l'exécution de cette décision ou
+délibération durant quinze jours et provoquer une nouvelle décision ou délibération. Il en informe l'Agence française du sang
+et les administrations concernées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1223-6 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R668-4 (M)
+
+
+###### Article R668-1-5
+
+L'agent comptable des groupements soumis aux règles de la comptabilité publique est nommé par le ministre chargé du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1223-7 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R668-5 (M)
+	  - Code de la santé publique - art. R668-5 (T)
 
 
 ###### Article R668-3
@@ -84500,9 +84601,20 @@ et les administrations concernées.
 	  - Code de la santé publique - art. R668-1-4 (M)
 
 
-###### Article R668-5
+##### Section 2 : De l'agrément des établissements de transfusion sanguine
 
-L'agent comptable des groupements soumis aux règles de la comptabilité publique est nommé par le ministre chargé du budget.
+###### Article R668-2-1
+
+L'agrément en qualité d'établissement de transfusion sanguine est accordé par le président de l'Agence française du sang aux
+associations et groupements d'intérêt public qui, outre les conditions fixées en vertu de l'article L. 668-1, remplissent les
+conditions techniques sanitaires et médicales définies par la présente section.
+
+Pour obtenir l'agrément, les structures mentionnées au deuxième alinéa de l'article L. 716-3 doivent remplir les conditions
+définies par la présente section.
+
+L'agrément est accordé pour une durée de cinq ans à compter de la publication prévue à l'article R. 668-2-26.
+
+Il est renouvelable dans les conditions fixées à l'article R. 668-2-25.
 
 **Liens relatifs à cet article**
 
@@ -84511,18 +84623,951 @@ L'agent comptable des groupements soumis aux règles de la comptabilité publiqu
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Modifié par**:
+	**Créé par**:
 
-	  - Décret n°94-870 1994-10-10 art. 1 I, II et III JORF 11 octobre 1994
-	  - Décret n°94-870 du 10 octobre 1994 - art. 1 () JORF 11 octobre 1994
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
 
-	**Transféré par**:
+	**Cite**:
 
-	  - Décret n°94-1008 du 22 novembre 1994 - art. 1 () JORF 24 novembre 1994
+	  - Code de la santé publique - art. L668-1 (M)
+	  - Code de la santé publique - art. L716-3 (M)
+	  - Code de la santé publique - art. R668-2-25 (M)
+	  - Code de la santé publique - art. R668-2-26 (M)
+
+
+###### Article R668-2-2
+
+Pour être agréés, les établissements doivent exercer l'ensemble des activités suivantes : la collecte de sang, les analyses
+biologiques et tests de dépistage des maladies transmissibles obligatoirement pratiqués sur les prélèvements de sang, la
+préparation et la distribution des produits sanguins labiles, le conseil transfusionnel et la participation à
+l'hémovigilance.
+
+Toutefois, lorsque les schémas d'organisation de régions limitrophes établissent une organisation commune pour l'ensemble
+d'une ou de plusieurs activités, dans les conditions prévues à l'article R. 669-1, la circonstance que l'établissement de
+transfusion sanguine n'exerce pas directement la ou les activités concernées ne fait pas obstacle à l'obtention de
+l'agrément.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
 
 	**Nouveaux textes**:
 
-	  - Code de la santé publique - art. R668-1-5 (M)
+	  - Code de la santé publique - art. R1223-12 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R669-1 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-38-1 (Ab)
+
+
+###### Article R668-2-3
+
+Pour être agréé, le cas échéant, au titre de l'activité d'analyses immuno-hématologiques pratiquées sur les receveurs de
+transfusion, l'établissement doit en faire la demande auprès de l'Agence française du sang, qui s'assure du respect des
+conditions techniques, sanitaires et médicales mentionnées aux articles R. 668-2-21 et R. 668-2-22 ainsi que des bonnes
+pratiques homologuées par arrêté du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1223-13 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R668-2-21 (Ab)
+	  - Code de la santé publique - art. R668-2-22 (Ab)
+
+
+##### Sous-section 1 : Conditions relatives aux normes de fonctionnement et d'équipement des établissements de transfusion sanguine
+
+##### Paragraphe 1 : Conditions d'exercice de la collecte
+
+###### Article R668-2-4
+
+Pour la collecte de sang total effectuée dans des locaux dépendant de l'établissement de transfusion sanguine, chaque site de
+prélèvement doit comprendre, outre un vestiaire et des sanitaires séparés pour le personnel et pour les donneurs :
+
+Une salle d'attente, comprenant une zone d'accueil et de secrétariat clairement identifiée ;
+
+Un bureau médical isolé ;
+
+Une salle de prélèvement, dont l'utilisation doit permettre de séparer les donneurs de sang homologues des patients subissant
+un prélèvement dans le cadre d'un protocole d'autotransfusion différée ;
+
+Une salle de collation ;
+
+Une zone affectée au repos ;
+
+En outre, lorsque l'établissement comporte plusieurs sites éloignés les uns des autres, il doit disposer d'un ou plusieurs
+véhicules permettant d'assurer, dans des conditions conformes aux bonnes pratiques, le transport des prélèvements sanguins
+(poches et tubes) des sites de prélèvement vers le ou les sites de qualification et de préparation des produits sanguins
+labiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+
+###### Article R668-2-5
+
+Tout site fixe de prélèvement d'un établissement de transfusion sanguine doit être équipé de lits de prélèvement dans des
+conditions conformes aux bonnes pratiques de prélèvement définies par règlement homologué en application de l'article L.
+668-3, et d'au moins :
+
+Un agitateur limitateur de prélèvement par lit de prélèvement ;
+
+Une soudeuse par site de prélèvement ;
+
+Un équipement informatique permettant le recueil et la consultation des données concernant la collecte de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L668-3 (M)
+
+
+###### Article R668-2-6
+
+Pour la collecte de sang total effectuée à l'extérieur de ses locaux, tout établissement de transfusion sanguine doit
+disposer soit d'un ou plusieurs véhicules transportant du matériel de prélèvement utilisé pour les collectes effectuées en
+site fixe, soit d'un ou plusieurs véhicules de collecte équipés pour le prélèvement et comprenant :
+
+- une zone réservée à l'accueil et au secrétariat si ceux-ci ne sont pas assurés dans un site fixe à proximité du véhicule ;
+
+- un bureau médical isolé ;
+
+- une zone réservée à la collation si celle-ci n'est pas assurée dans un site fixe à proximité du véhicule ;
+
+- des lits de prélèvement dans des conditions conformes aux bonnes pratiques de prélèvement ;
+
+- un équipement informatique portable permettant d'accéder aux données relatives à l'ensemble de la collecte de
+l'établissement de transfusion sanguine ;
+
+- un agitateur limitateur de prélèvement pour chaque lit de prélèvement ;
+
+- une soudeuse par site mobile de prélèvement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+
+###### Article R668-2-7
+
+Le personnel qui effectue les prélèvements de sang total, en site fixe ou mobile, doit comprendre un ou plusieurs infirmiers
+et des préleveurs autorisés, responsables, chacun en ce qui le concerne, de trois à quatre lits de prélèvement et d'au moins
+un médecin pour chaque site.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+
+###### Article R668-2-8
+
+Pour le prélèvement de sang et de ses composants par aphérèse, chaque site où cette activité est pratiquée par
+l'établissement doit comporter :
+
+- une zone de prélèvement ;
+
+- un lit d'examen médical ;
+
+- un appareil permettant d'effectuer des électrocardiogrammes ;
+
+- un appareil de plasmaphérèse ou de cytaphérèse pour les établissements effectuant cette activité ;
+
+- un matériel qualifié pour la congélation rapide du plasma au sein du site fixe de prélèvement et pouvant servir également
+aux prélèvements provenant des collectes effectuées à l'extérieur des locaux de l'établissement de transfusion sanguine.
+
+Le personnel qui effectue l'aphérèse doit comprendre au moins un infirmier pour trois lits d'aphérèse plasmatique ou un à
+deux lits d'aphérèse cellulaire, sur chaque site de prélèvement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+
+##### Paragraphe 2 : Conditions de la qualification biologique du don
+
+###### Article R668-2-9
+
+Pour pouvoir être agréé, tout établissement de transfusion sanguine doit disposer d'un laboratoire de qualification
+biologique du don, divisé en deux zones distinctes, l'une consacrée aux tests de dépistage des maladies transmissibles et
+l'autre à l'immuno-hématologie.
+
+A. - Lorsque ces deux activités sont exercées sur un site de laboratoire, celui-ci doit disposer d'au moins :
+
+- une centrifugeuse de tubes de prélèvement ;
+
+- un équipement informatique relié aux automates, permettant de centraliser et d'enregistrer les résultats, de les confronter
+à des données préexistantes et d'établir des résultats définitifs ;
+
+- un matériel assurant la conservation des échantillons dans des conditions optimales de sécurité ;
+
+- une zone de stockage réfrigérée permettant une double séparation entre, d'une part, les échantillons et les réactifs, et,
+d'autre part, les réactifs virologiques et immuno-hématologiques ;
+
+- un appareil de stérilisation du matériel de laboratoire ;
+
+- un dispositif de nettoyage de la verrerie de laboratoire.
+
+B. - Pour les tests de dépistage des maladies transmissibles, le laboratoire doit comprendre, dans la zone qui est impartie à
+cette activité, au moins :
+
+- deux postes de travail avec espaces de rangement et évier intégrés ;
+
+- un équipement d'immuno-enzymologie modulaire ou intégré.
+
+C. - Pour l'immuno-hématologie, le laboratoire doit comprendre, dans la zone qui est impartie à cette activité, au moins :
+
+- deux postes de travail avec espaces de rangement et évier intégrés ;
+
+- un appareil permettant la détermination des groupes sanguins, automatique ou semi-automatique ;
+
+- une centrifugeuse de paillasse ;
+
+- un bain-marie ou une étuve ;
+
+- un microscope ;
+
+- un rhésuscope ;
+
+- un appareil permettant la détermination de l'hématocrite ou du taux d'hémoglobine pouvant être, le cas échéant, intégré à
+l'automate de détermination des groupes sanguins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+
+###### Article R668-2-10
+
+Le laboratoire de qualification biologique du don de l'établissement de transfusion sanguine, placé sous la responsabilité
+d'un médecin ou d'un pharmacien, dispose, pour chaque site où cette activité est exercée, d'un cadre de laboratoire et d'au
+moins quatre techniciens de laboratoire, possédant les qualifications requises en application de l'article L. 668-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L668-9 (M)
+
+
+##### Paragraphe 3 : Conditions de la préparation des produits sanguins labiles
+
+###### Article R668-2-11
+
+I. - Pour la préparation des produits sanguins labiles, tout établissement doit comporter au moins, pour chaque site de
+préparation :
+
+- une salle ou une zone clairement délimitée, affectée à la réception des prélèvements, maintenue à une température contrôlée
+comprise entre + 18 °C et + 24 °C ;
+
+- une salle ou une zone clairement délimitée, affectée à la centrifugation ;
+
+- une salle affectée à l'activité de séparation ;
+
+- une salle ou une zone affectée à la quarantaine.
+
+II. - Pour chaque site de préparation, les locaux doivent être équipés de la partie suivante :
+
+1° Pour la réception des prélèvements, au moins :
+
+- un plan de travail avec évier ;
+
+- une balance éventuellement reliée à l'informatique avec lecteur optique de codes à barre ;
+
+- un plan de travail permettant le tri des poches ;
+
+2° Pour la centrifugation, au moins :
+
+- un plan de travail avec évier ;
+
+- une balance permettant l'équilibrage ;
+
+- deux centrifugeuses réfrigérées programmables ;
+
+- un chariot de transport des poches de sang ;
+
+3° Pour la séparation, au moins :
+
+- un plan de travail avec évier pouvant servir également à la zone de centrifugation ;
+
+- six presses de séparation manuelles ou semi-automatiques ou deux presses automatiques ;
+
+- deux soudeuses ;
+
+- une balance reliée à l'informatique ;
+
+- un matériel informatique ;
+
+- un matériel qualifié pour la congélation rapide du plasma ;
+
+4° Pour la quarantaine, au moins :
+
+- une chambre froide permettant la conservation à une température inférieure ou égale à - 25 °C ou un dispositif équivalent
+muni d'un enregistreur et d'une alarme haute de température ;
+
+- une chambre froide permettant la conservation à une température comprise entre + 2 °C et + 8 °C ou un dispositif équivalent
+muni d'un enregistreur et d'une alarme de température avec seuils haut et bas ;
+
+- un agitateur en enceinte thermostatée permettant une conservation à une température comprise entre + 20 °C et + 24 °C, muni
+d'une alarme avec seuils haut et bas ou, à défaut, un local à température régulée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R668-2-13 (Ab)
+
+
+###### Article R668-2-12
+
+Pour l'étiquetage des produits sanguins labiles, chaque site de préparation doit comprendre une salle d'étiquetage pourvue au
+moins des équipements suivants :
+
+- un plan de travail avec évier ;
+
+- un équipement informatique relié à l'unité centrale ;
+
+- une imprimante ;
+
+- un lecteur optique de codes à barre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+
+###### Article R668-2-13
+
+Chaque site de préparation de l'établissement de transfusion sanguine doit comporter des zones clairement délimitées et
+identifiées conformes aux normes de régulation thermique fixées à l'article R. 668-2-11, en vue du stockage séparé des
+produits "matière première", des produits "en quarantaine", des produits "refusés" en attente de destruction et des produits
+"libérés". La zone affectée aux produits "libérés" doit bénéficier d'un accès séparé des trois premières.
+
+En outre, au sein de chaque zone, les conditions de stockage doivent permettre de séparer les produits autologues des
+produits homologues.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R668-2-11 (Ab)
+
+
+###### Article R668-2-14
+
+L'établissement de transfusion sanguine doit mettre à la disposition de chaque site de préparation :
+
+a) Pour l'encadrement de l'activité de préparation, sous la responsabilité d'un chef de service, au moins un technicien de
+laboratoire, ou un infirmier diplômé d'Etat, ou un cadre infirmier ou de laboratoire ;
+
+b) Pour les opérations de production, au moins un agent à temps plein disposant des qualifications requises en application de
+l'article L. 668-9, pour un nombre de poches inférieur ou égal à 10 000 unités produites annuellement, et un agent à mi-
+temps, pour chaque tranche de 10 000 unités supplémentaires ;
+
+c) Pour l'étiquetage, au moins un agent disposant des qualifications requises en application de l'article L. 668-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L668-9 (M)
+
+
+###### Article R668-2-15
+
+L'établissement doit affecter au contrôle de qualité un médecin, ou un pharmacien, ou un technicien de laboratoire, ou un
+scientifique possédant les qualifications requises en application de l'article L. 668-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L668-9 (M)
+
+
+###### Article R668-2-16
+
+Chaque site de préparation doit comporter un local spécifique affecté au contrôle de qualité des produits sanguins labiles
+préparés et doit être équipé d'au moins :
+
+- deux plans de travail avec évier intégré ;
+
+- une balance de précision ;
+
+- un compteur de cellules et de mesure du taux d'hémoglobine ;
+
+- un pHmètre ;
+
+- un microscope ;
+
+- un bain-marie ;
+
+- un dispositif d'archivage ;
+
+- un équipement spécifique au contrôle bactériologique ; à défaut d'un tel équipement spécifique, l'établissement de
+transfusion sanguine doit justifier d'un accord écrit passé avec un laboratoire extérieur habilité pour un tel contrôle.
+
+Le contrôle de qualité interne peut être confié par accord écrit, en conformité avec les schémas d'organisation de la
+transfusion sanguine, soit à un autre établissement de transfusion sanguine, soit à un laboratoire extérieur habilité pour ce
+type de contrôle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+
+##### Paragraphe 4 : Conditions de transformation des produits sanguins labiles
+
+###### Article R668-2-17
+
+Chaque site de l'établissement de transfusion sanguine où s'exerce une activité de transformation des produits sanguins
+labiles et de modification d'étiquetage qui lui est consécutive doit comprendre une zone clairement délimitée et identifiée à
+cet effet et doit disposer d'au moins :
+
+- un plan de travail avec évier ;
+
+- un poste de sécurité microbiologie ;
+
+- un appareil permettant une connexion stérile ;
+
+- une centrifugeuse réfrigérée pour les établissements effectuant la préparation de produits cellulaires déplasmatisés.
+
+L'établissement de transfusion sanguine doit, quel que soit le nombre de ses sites, disposer d'au moins un irradiateur pour
+produits sanguins labiles ou, à défaut, avoir passé une convention, pour l'irradiation des produits qu'il prépare, avec un
+autre établissement de transfusion sanguine ou le cas échéant avec un établissement non transfusionnel à vocation sanitaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+
+###### Article R668-2-18
+
+Les activités de transformation et de contrôle de conformité et de réétiquetage des produits sanguins labiles doivent, pour
+chaque site, être exercées par au moins un agent disposant des qualifications requises en application de l'article L. 668-9
+et pouvant également être associé à l'activité de distribution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L668-9 (M)
+
+
+##### Paragraphe 5 : Conditions de la distribution des produits sanguins labiles
+
+###### Article R668-2-19
+
+Tout site de l'établissement où s'effectue la distribution de produits sanguins labiles doit comporter deux zones clairement
+séparées affectées, l'une à la réception des ordonnances médicales et des demandes d'approvisionnement, l'autre à la
+préparation des prescriptions.
+
+a) La zone de réception doit disposer au moins des équipements suivants :
+
+- un plan de travail affecté à la réception des ordonnances et demandes d'approvisionnement, et le cas échéant des
+échantillons de laboratoire ;
+
+- un plan de travail affecté à la distribution des produits ;
+
+b) La zone de préparation des prescriptions doit disposer au moins des équipements suivants :
+
+- un plan de travail avec évier ;
+
+- une enceinte réfrigérée, pouvant être commune à l'activité de stockage et permettant une température comprise entre + 2 °C
+et + 8 °C, clairement identifiée et dotée d'une alarme à seuils haut et bas ainsi que d'un enregistreur continu de
+température ;
+
+- un congélateur permettant une température égale ou inférieure à - 25 °C avec enregistreur de température et alarme haute,
+pouvant être commun à l'activité de stockage ;
+
+- une enceinte (ou un local à température régulée) pouvant être commune à l'activité de stockage, permettant une température
+comprise entre + 20 °C et + 24 °C, et comportant un agitateur de plaquettes et un enregistreur de température ;
+
+- un bain-marie ou un dispositif équivalent pour la décongélation des plasmas frais congelés ;
+
+- une console informatique reliée à l'unité centrale, une imprimante et un lecteur optique de codes à barre, en vue d'assurer
+la traçabilité des produits ;
+
+- un télécopieur facilement accessible pour le personnel du service de distribution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+
+###### Article R668-2-20
+
+L'établissement de transfusion sanguine doit mettre à la disposition de chaque site de distribution de produits sanguins
+labiles au moins un technicien de laboratoire, ou un infirmier, ou un médecin, ou un pharmacien ayant les qualifications
+requises en application de l'article L. 668-9 et pouvant également exercer ses fonctions au sein de l'activité de
+transformation. L'activité de conseil transfusionnel doit être assurée par un médecin pouvant exercer par ailleurs une autre
+activité au sein de l'établissement de transfusion sanguine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L668-9 (M)
+
+
+###### Article R668-2-21
+
+L'établissement de transfusion sanguine qui souhaite exercer l'activité d'analyses immuno-hématologiques des receveurs de
+transfusion mentionnée à l'article R. 668-2-3 de la présente section doit aménager à cette fin, au sein du laboratoire, une
+zone clairement délimitée et nettement séparée de l'activité de dépistage des maladies transmissibles. Cette zone peut être
+commune à l'activité de qualification immunologique des dons, à condition de comporter deux espaces clairement définis.
+
+Pour cette activité, l'établissement doit disposer d'au moins :
+
+- deux postes de travail avec espaces de rangement et évier intégrés ;
+
+- une centrifugeuse de tubes de prélèvement ;
+
+- une centrifugeuse de paillasse ;
+
+- un bain-marie ou une étuve ;
+
+- un microscope ;
+
+- un rhésuscope ;
+
+- un équipement informatique permettant d'enregistrer les résultats et de les confronter à des données préexistantes en vue
+d'établir les résultats définitifs ;
+
+- un matériel assurant la conservation des échantillons en attente de résultats définitifs dans des conditions de sécurité
+optimales ;
+
+- une zone de stockage réfrigérée assurant une séparation entre les échantillons et les réactifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R668-2-3 (M)
+
+
+###### Article R668-2-22
+
+Pour l'activité de laboratoire d'analyses immuno-hématologiques des receveurs, les établissements de transfusion sanguine
+doivent, pour chaque site où cette activité est exercée, disposer, sous la responsabilité d'un médecin ou d'un pharmacien,
+d'un cadre de laboratoire possédant les qualités requises en application de l'article L. 668-9, qui peut être commun au
+laboratoire de qualification des dons, ainsi que de deux techniciens qui peuvent, en fonction du volume d'activité d'analyses
+immuno-hématologiques des receveurs, intervenir au sein du laboratoire de qualification des dons.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L668-9 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R668-2-3 (M)
+
+
+##### Sous-section 2 : Conditions d'agrément relatives à la continuité du service public de la transfusion sanguine
+
+###### Article R668-2-23
+
+I. - Pour pouvoir être agréé, tout établissement de transfusion sanguine doit justifier des conditions dans lesquelles il
+sera en mesure d'assurer, sous la responsabilité du directeur de l'établissement et dans le cadre de la coordination générale
+exercée par celui-ci, la continuité du service public transfusionnel pour les activités qui font l'objet des dispositions des
+articles R. 668-2-4 à R. 668-2-23.
+
+II. - Pour les activités de distribution, de conseil transfusionnel et, le cas échéant, de laboratoire des analyses immuno-
+hématologiques des receveurs, une permanence doit être assurée vingt-quatre heures sur vingt-quatre par l'établissement de
+transfusion sanguine.
+
+En ce qui concerne l'activité de distribution, l'établissement doit, pour chaque site, assurer la disponibilité permanente
+par garde ou, à défaut, par astreinte, d'un technicien de laboratoire ou d'un infirmier, ou d'un médecin, ou d'un pharmacien
+employé au service de distribution ou disposant des qualifications requises en application de l'article L. 668-9.
+
+En ce qui concerne le conseil transfusionnel, l'établissement de transfusion sanguine doit assurer la disponibilité vingt-
+quatre heures sur vingt-quatre, par astreinte, d'un médecin au moins.
+
+En ce qui concerne l'activité de laboratoire immuno-hématologique des receveurs de transfusion, lorsque cette activité est
+exercée par l'établissement de transfusion sanguine, le service de garde doit être organisé de manière à ce que sa permanence
+soit assurée. Le service de garde peut, le cas échéant, être assuré en collaboration avec l'établissement de santé concerné.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L668-9 (M)
+	  - Code de la santé publique R668-2-4 à R668-2-23, L668-9
+
+
+##### Sous-section 3 : Dispositions relatives à la procédure de l'agrément
+
+###### Article R668-2-24
+
+La demande d'agrément est adressée par lettre recommandée avec demande d'avis de réception à l'Agence française du sang.
+
+Elle justifie de la conformité aux conditions techniques, sanitaires et médicales d'exercice des activités prévues et indique
+la nature, l'importance et les sites de ces activités. Elle est accompagnée d'un dossier conforme au dossier type établi par
+l'Agence française du sang et de pièces justificatives, et notamment :
+
+- de la description et du plan des locaux, le cas échéant, pour les différents sites de l'établissement ;
+
+- de la description des circuits séparés des produits sanguins homologues et autologues ;
+
+- des modalités de transport, d'une part, des prélèvements lorsqu'ils sont transférés d'un site de prélèvement à un site de
+qualification et de préparation, et, d'autre part, des produits sanguins labiles pour l'approvisionnement des sites de
+distribution ;
+
+- de la liste complète du matériel affecté aux différentes activités et, le cas échéant, aux différents sites de
+l'établissement ;
+
+- d'un document établissant une procédure d'assurance qualité, soit propre à l'établissement, soit certifiée par un
+établissement de transfusion de référence désigné par l'Agence française du sang ;
+
+- de la liste du personnel affecté aux différentes activités et, le cas échéant, aux différents sites de l'établissement,
+mentionnant leurs fonctions et leurs titres ou diplômes lorsque ceux-ci sont nécessaires à l'exercice de l'activité
+professionnelle ;
+
+- des statuts de l'association ou de la convention constitutive du groupement d'intérêt public de l'organisme demandeur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Cité par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 3 (Ab)
+	  - Code de la santé publique - art. R668-2-25 (Ab)
+	  - Code de la santé publique - art. R668-5-7 (Ab)
+
+	**Abrogé par**:
+
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 3 () JORF 30 décembre 1999
+
+
+###### Article R668-2-25
+
+Le renouvellement de l'agrément doit être demandé par l'établissement de transfusion sanguine à l'Agence française du sang
+trois mois au plus tard avant l'expiration de la durée de validité fixée à l'article R. 668-2-1.
+
+La demande de renouvellement est établie et adressée dans les formes et conditions fixées à l'article R. 668-2-24.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R668-2-1 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R668-2-24 (Ab)
+
+
+###### Article R668-2-26
+
+La décision du président de l'Agence française du sang est notifiée à l'organisme demandeur par lettre recommandée avec
+demande d'avis de réception.
+
+La décision d'agrément ou de renouvellement porte mention des activités agréées ainsi que des sites entre lesquels ces
+activités sont, le cas échéant, réparties. Elle indique la zone de collecte de l'établissement. Elle fait l'objet d'une
+publication au Journal officiel de la République française.
+
+Le président de l'Agence française du sang établit la liste des établissements agréés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-1008 du 22 novembre 1994 - art. 2 (Ab) JORF 24 novembre 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R668-2-1 (M)
 
 
 #### Chapitre 4 : Des schémas d'organisation de la transfusion sanguine
