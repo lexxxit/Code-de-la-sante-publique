@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1975-07-01
+Version Consolidée au 1975-07-11
 
 # Partie législative ancienne
 
@@ -27900,6 +27900,455 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique L658 : DISPOSITIONS PENALES
+
+
+#### Chapitre 8 : Produits cosmétiques et produits d'hygiène corporelle
+
+###### Article L658-1
+
+Sont comprises, pour l'application du présent chapitre, comme produits cosmétiques et produits d'hygiène corporelle
+[*définition*], toutes les substances ou préparations autres que les médicaments destinées à être mises en contact avec les
+diverses parties superficielles du corps humain ou avec les dents et les muqueuses, en vue de les nettoyer, de les protéger,
+de les maintenir en bon état, d'en modifier l'aspect, de les parfumer ou d'en corriger l'odeur.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
+
+	**Cité par**:
+
+	  - Loi n°77-1467 du 30 décembre 1977 - art. 12 (P)
+	  - Arrêté du 20 avril 1994 - art. 15 (V)
+	  - Arrêté du 7 août 1997 - art. 1 (V)
+	  - Arrêté du 7 août 1997 - art. 3 (V)
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 281 bis D (Ab)
+	  - Code de la santé publique - art. L511 (M)
+	  - Code de la santé publique - art. R145-5-2 (Ab)
+	  - Code de la santé publique - art. R145-7 (T)
+	  - Code de la santé publique - art. R5153-10 (Ab)
+	  - Code de la santé publique - art. R665-4 (Ab)
+	  - Code du travail - art. R231-52-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5131-1 (V)
+
+
+###### Article L658-2
+
+L'ouverture et l'exploitation de tout établissement fabriquant, conditionnant ou important, même à titre accessoire, des
+produits cosmétiques ou des produits d'hygiène corporelle, de même que l'extension de l'activité d'un établissement à de tels
+produits sont subordonnées à une déclaration auprès de l'autorité administrative compétente [*condition*].
+
+La déclaration désigne la ou les personnes physiques responsables de la fabrication, du conditionnement, de l'importation,
+des contrôles de qualité, de la détention et de la surveillance des stocks de matières premières et de produits finis
+[*mentions obligatoires*]. Ces personnes devront présenter des niveaux de qualification professionnelle qui seront déterminés
+par décret.
+
+Toute modification aux éléments constitutifs de la déclaration doit faire l'objet d'une nouvelle déclaration dans les mêmes
+formes.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°77-219 1977-03-07 : NIVEAU DE QUALIFICATION PROFESSIONNELLE
+	  - TXT_ASSOCIE: Décret n°77-220 1977-03-07 : DECLARATION ADMINISTRATIVE
+	  - TXT_ASSOCIE: Code de la santé publique L658-10 : DISPOSITIONS PENALES
+
+	**Cité par**:
+
+	  - Décret n°77-219 du 7 mars 1977 - art. 1 (Ab)
+	  - Décret n°77-219 du 7 mars 1977 - art. 2 (Ab)
+	  - Décret n°77-220 du 7 mars 1977 - art. 1 (Ab)
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 2 (Ab)
+	  - Code de la santé publique - art. L658-10 (P)
+	  - Code de la santé publique - art. L658-3 (Ab)
+	  - Code de la santé publique - art. L658-7 (Ab)
+	  - Code de la santé publique - art. L658-8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5131-2 (V)
+
+	**Créé par**:
+
+	  - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
+
+
+###### Article L658-3
+
+Tout produit cosmétique ou tout produit d'hygiène corporelle doit avant sa mise sur le marché à titre onéreux ou à titre
+gratuit, faire l'objet d'un dossier [*obligatoire*] rassemblant toutes informations utiles sur la nature du produit, sa
+formule intégrale, ses conditions de fabrication et de contrôle, son usage et son mode d'emploi, ainsi que sur les essais,
+notamment de toxicité transcutanée et de tolérance cutanée ou muqueuse, dans des conditions fixées par décret.
+
+Un exemplaire du dossier doit être tenu en permanence à la disposition des autorités compétentes [*information*]. La formule
+intégrale du produit doit être transmise aux centres de traitement des intoxications désignés par un arrêté interministériel.
+
+L'obligation d'indiquer dans le dossier et de transmettre aux centres de traitement des intoxications visés à l'alinéa
+précédent la formule intégrale du produit ne s'applique pas [*non*] aux parfums proprement dits et aux compositions
+parfumantes, pour lesquels doivent toutefois être indiqués et transmis la liste et le dosage des supports et des produits
+[*substances vénéneuses, colorants, conservateurs, bactéricides et fongicides*]
+
+prévus aux articles L. 658-5 et L. 658-6 du présent code entrant éventuellement dans leur composition.
+
+Les personnes ayant accès aux dossiers ou aux formules visées au présent article sont tenues au secret professionnel selon
+les modalités prévues à l'article 378 du code pénal, sauf à l'égard des autorités judiciaires.
+
+Un décret fixe les conditions permettant la protection, notamment dans les centres de traitement des intoxications, du secret
+de la formule intégrale du produit, ainsi que de celle des composants mentionnés au dossier de fabrication et délivrés par
+des fournisseurs exclusifs et responsables.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°77-1558 1977-12-28 : DOSSIER
+	  - TXT_SOURCE: Arrêté du 26 novembre 1982 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 26 novembre 1982 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 26 novembre 1982 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 26 novembre 1982 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 26 novembre 1982 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 26 novembre 1982 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 26 novembre 1982 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 26 novembre 1982 - art. 8 (V)
+	  - TXT_SOURCE: Arrêté du 26 novembre 1982 - art. 9 (V)
+	  - TXT_ASSOCIE: Code de la santé publique L658-10 : DISPOSITIONS PENALES
+
+	**Cité par**:
+
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 1 (Ab)
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 2 (Ab)
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 5 (Ab)
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 6 (Ab)
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 8 (Ab)
+	  - Décret n°79-35 du 15 janvier 1979 - art. 13 (Ab)
+	  - Décret n°79-541 du 3 juillet 1979 - art. 2 (Ab)
+	  - Arrêté du 26 novembre 1982 - art. 1 (V)
+	  - Arrêté du 26 novembre 1982 - art. 4 (V)
+	  - Code de la santé publique - art. L658-10 (P)
+	  - Code de la santé publique - art. L658-8 (Ab)
+	  - Code du travail - art. R231-52-15 (M)
+	  - Code du travail - art. R231-52-16 (VT)
+	  - Code du travail - art. R231-60 (T)
+
+	**Cite**:
+
+	  - Code pénal 378
+	  - Code de la santé publique - art. L658-5 (M)
+	  - Code de la santé publique - art. L658-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5131-3 (V)
+
+	**Créé par**:
+
+	  - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
+
+
+###### Article L658-4
+
+Le ministre chargé de la santé publique [*autorité compétente*] interdit par arrêté la mise ou le maintien sur le marché à
+titre gratuit ou onéreux des produits cosmétiques ou des produits d'hygiène corporelle présentant un danger pour
+l'utilisateur. Il peut suspendre la mise ou le maintien sur le marché à titre gratuit ou onéreux de ces mêmes produits en cas
+de suspicion de danger.
+
+Il peut suspendre ou interdire par arrêté la mise ou le maintien sur le marché à titre gratuit ou onéreux des produits
+cosmétiques ou des produits d'hygiène corporelle exploités en infraction aux dispositions du présent chapitre ou des textes
+pris pour leur application.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 18 mars 1994
+	  - TXT_SOURCE: Arrêté du 18 mars 1994 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 18 mars 1994 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 18 mars 1994 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 28 août 1996
+	  - TXT_SOURCE: Arrêté du 28 août 1996 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 août 1996 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 28 août 1996 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 25 juin 1986
+	  - TXT_SOURCE: Arrêté du 25 juin 1986 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 25 juin 1986 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 25 juin 1986 - art. 3 (V)
+	  - TXT_ASSOCIE: Code de la santé publique L658-10 : DISPOSITIONS PENALES
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L658-10 (P)
+	  - Code de la santé publique - art. L658-6 (Ab)
+	  - Code de la santé publique - art. L658-7 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
+
+
+###### Article L658-5
+
+Les substances vénéneuses ne peuvent entrer dans la composition des produits cosmétiques ou des produits d'hygiène corporelle
+qu'à la condition de figurer sur une liste établie par arrêté interministériel, après avis du conseil supérieur d'hygiène
+publique de France qui fixe, pour chaque substance vénéneuse et pour chaque type de produits, les doses et concentrations à
+ne pas dépasser.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 2 (Ab)
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 4 (Ab)
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 5 (Ab)
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 6 (Ab)
+	  - Arrêté du 26 novembre 1982 - art. 6 (V)
+	  - Code de la santé publique - art. L511 (M)
+	  - Code de la santé publique - art. L658-10 (P)
+	  - Code de la santé publique - art. L658-3 (M)
+	  - Code de la santé publique - art. L658-6 (Ab)
+	  - Code de la santé publique - art. L658-7 (Ab)
+	  - Code de la santé publique - art. L658-8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5131-7 (VT)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L658-10 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
+
+
+###### Article L658-6
+
+Des arrêtés interministériels pris après avis du conseil supérieur d'hygiène publique de France et du comité national de la
+consommation fixent :
+
+1° La liste des agents conservateurs, des bactéricides et des fongicides qui peuvent être employés dans les produits
+cosmétiques ou les produits d'hygiène corporelle ;
+
+2° La liste des colorants que peuvent contenir les produits cosmétiques ou les produits d'hygiène corporelle destinés à
+entrer en contact avec les muqueuses ;
+
+3° La liste des substances dont l'usage est prohibé.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 2 (Ab)
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 4 (Ab)
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 5 (Ab)
+	  - Décret n°77-1558 du 28 décembre 1977 - art. 6 (Ab)
+	  - Arrêté du 26 novembre 1982 - art. 6 (V)
+	  - Arrêté du 26 novembre 1982 - art. 7 (V)
+	  - Code de la santé publique - art. L658-10 (P)
+	  - Code de la santé publique - art. L658-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5131-8 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L658-10 : DISPOSITIONS PENALES
+
+	**Créé par**:
+
+	  - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
+
+
+###### Article L658-7
+
+Un décret en Conseil d'Etat, pris après consultation du comité national de la consommation, détermine les conditions
+d'application du présent chapitre et notamment les règles concernant la dénomination, l'emballage, l'étiquetage, la
+numérotation des lots de fabrication ou l'identification, ainsi que les caractères de la publicité des produits cosmétiques
+et des produits d'hygiène corporelle.
+
+Des décrets fixent les conditions d'utilisation professionnelle des produits prévus au présent chapitre lorsque cette
+utilisation est susceptible de comporter des dangers ou des inconvénients.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5131-9 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L658-4 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
+
+
+###### Article L658-8
+
+L'inspection des conditions de fabrication et de conditionnement, de contrôle et de stockage des matières premières et des
+produits finis, dans les établissements de fabrication, de conditionnement ou d'importation de produits cosmétiques ou
+d'hygiène corporelle, est confiée aux médecins et aux pharmaciens inspecteurs de la santé, ainsi qu'à toutes les personnes
+habilitées à constater les infractions à la loi du 1er août 1905 sur la répression des fraudes dans la vente des marchandises
+et les falsifications des denrées alimentaires et des produits agricoles [*autorités compétentes*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 18 mars 1994 - art. 3 (V)
+	  - Arrêté du 28 août 1996 - art. 3 (V)
+	  - Arrêté du 8 avril 1998 - art. 2 (Ab)
+	  - Arrêté du 25 juin 1986 - art. 3 (V)
+	  - Code de la santé publique - art. L658-10 (P)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L658-9 (M)
+	  - TXT_ASSOCIE: Code de la santé publique L658-10 : DISPOSITIONS PENALES
+
+	**Cite**:
+
+	  - Loi n°1905-08-01
+
+	**Créé par**:
+
+	  - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
+
+
+###### Article L658-9
+
+Sont qualifiées pour procéder à la recherche et à la constatation des infractions aux dispositions du présent chapitre et des
+textes pris pour son application les personnes désignées à l'article précédent.
+
+Les dispositions des articles L. 213-1 et s. du code de la consommation concernant la recherche et la constatation des
+infractions sont applicables aux infractions aux prescriptions de la présente loi et des textes pris pour son application.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+[*Nota : Loi 93-949 du 26 juillet 1993 art. 4 : les références à la loi du 1er août 1905 sont remplaçées par les références
+au code de la consommation correspondantes.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°93-949 1993-07-26 art. 4
+	  - TXT_ASSOCIE: Code de la santé publique - art. L658-8 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 18 mars 1994 - art. 3 (V)
+	  - Arrêté du 28 août 1996 - art. 3 (V)
+	  - Arrêté du 8 avril 1998 - art. 2 (Ab)
+	  - Arrêté du 25 juin 1986 - art. 3 (V)
+	  - Code de la santé publique - art. L376-2 (Ab)
+	  - Code de la santé publique - art. L510-9-3 (Ab)
+	  - Code de la santé publique - art. L665-7 (Ab)
+	  - Code de la santé publique - art. L761-14-1 (Ab)
+	  - Code de la santé publique - art. R665-42 (Ab)
+
+	**Cite**:
+
+	  - Code de la consommation - art. L213-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
 
 
 ### Titre 4 : Dispositions diverses et dispositions transitoires
