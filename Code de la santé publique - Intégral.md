@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-06-25
+Version Consolidée au 1994-07-10
 
 # Partie législative ancienne
 
@@ -65036,6 +65036,363 @@ qui sont édictées aux articles R. 5173, R. 5209 et R. 5186.
 	  - Code de la santé publique - art. R5173 (M)
 	  - Code de la santé publique - art. R5186 (M)
 	  - Code de la santé publique - art. R5209 (M)
+
+
+##### Paragraphe 2 ter : Autorisation temporaire d'utilisation
+
+###### Article R5142-20
+
+L'autorisation, pour une durée limitée, d'utilisation à titre exceptionnel des médicaments mentionnés à l'article L. 601-2
+est délivrée par le directeur général de l'Agence du médicament, au vu d'un dossier présenté et instruit dans les conditions
+ci-après.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-568 du 8 juillet 1994 - art. 1 () JORF 10 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601-2 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la santé publique - art. L601-2 (M)
+
+
+###### Article R5142-21
+
+La demande tendant à obtenir l'autorisation temporaire d'utilisation prévue au deuxième alinéa de l'article L. 601-2, pour un
+médicament destiné à traiter une pathologie grave, est adressée à l'agence par le fabricant ou l'importateur.
+
+Elle est accompagnée d'un dossier comprenant :
+
+a) Les informations prévues aux articles R. 5128 à R. 5132, en l'état des éléments réunis en vue d'obtenir une autorisation
+de mise sur le marché ;
+
+b) Lorsque la demande d'autorisation de mise sur le marché n'est pas déposée, une lettre d'engagement du demandeur
+d'autorisation temporaire d'y procéder ;
+
+c) Lorsque le demandeur n'est pas le titulaire des droits d'exploitation, un document de ce dernier mentionnant son accord
+pour l'utilisation, à titre exceptionnel, du médicament.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-568 du 8 juillet 1994 - art. 1 () JORF 10 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601-2 (M)
+	  - Code de la santé publique L601-2, R5128 à R5132
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la santé publique - art. L601-2 (M)
+
+
+###### Article R5142-22
+
+La demande tendant à obtenir l'autorisation temporaire d'utilisation définie au troisième alinéa de l'article L. 601-2, pour
+un médicament destiné à des patients atteints d'une maladie rare, est adressée à l'agence par le fabricant ou l'importateur.
+
+Elle est accompagnée d'un dossier comprenant :
+
+a) Une estimation de la fréquence de la maladie ;
+
+b) Les informations prévues aux articles R. 5128 à R. 5128-3 et au d de l'article R. 5129 ;
+
+c) Toutes informations pharmacologiques, toxicologiques et cliniques permettant d'apprécier l'intérêt thérapeutique du
+produit et les risques prévisibles liés à son utilisation ;
+
+d) Toutes informations technologiques, pharmaceutiques, chimiques et biologiques permettant de garantir la qualité du
+médicament, notamment l'indication des méthodes et des contrôles de fabrication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-568 du 8 juillet 1994 - art. 1 () JORF 10 juillet 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la santé publique - art. L601-2 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601-2 (M)
+	  - Code de la santé publique - art. R5129 (M)
+	  - Code de la santé publique L601-2, R5128 à R5128-3, R5129
+
+
+###### Article R5142-23
+
+La demande tendant à obtenir l'autorisation temporaire d'utilisation mentionnée au quatrième alinéa de l'article L. 601-2,
+pour un médicament importé en vue de sa prescription à des malades nommément désignés, est adressée à l'agence par le médecin
+traitant ou le pharmacien hospitalier.
+
+Elle est accompagnée d'un dossier comprenant :
+
+a) La dénomination du médicament ;
+
+b) Ses indications thérapeutiques ;
+
+c) Toutes les informations utiles pour son utilisation ;
+
+d) La prescription nominative par malade, établie par le médecin traitant ou responsable, telle qu'elle est envisagée.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-568 du 8 juillet 1994 - art. 1 () JORF 10 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601-2 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la santé publique - art. L601-2 (M)
+
+
+###### Article R5142-24
+
+Pour l'instruction des dossiers mentionnés aux articles R. 5142-21 à R. 5142-23 ci-dessus, le directeur général de l'Agence
+du médicament peut prendre les mesures définies à l'article R. 5134.
+
+Le directeur général de l'agence est tenu de s'assurer, avant d'accorder l'autorisation temporaire d'utilisation mentionnée à
+l'article R. 5142-23, que le médicament dont l'importation est sollicitée est autorisé à l'étranger.
+
+En outre, dans tous les cas et à la demande du directeur général, les demandeurs fournissent toute information relative à
+l'utilisation et au contrôle du médicament faisant l'objet du dossier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-568 du 8 juillet 1994 - art. 1 () JORF 10 juillet 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la santé publique - art. L601-2 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5134 (M)
+	  - Code de la santé publique R5142-21 à R5142-23, R5134
+
+
+###### Article R5142-25
+
+L'autorisation temporaire d'utilisation est accordée :
+
+a) Pour les médicaments mentionnés aux articles R. 5142-21 et R. 5142-22 : pour une durée d'un an, après avis de la
+commission de l'article R. 5140 ;
+
+b) Pour les médicaments mentionnés à l'article R. 5142-23 : pour la durée du traitement, dans la limite maximale d'un an.
+
+L'autorisation est accompagnée des informations prévues par les articles R. 5142-21 à R. 5142-24, telles qu'elles ont été
+approuvées par le directeur général de l'Agence du médicament.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-568 du 8 juillet 1994 - art. 1 () JORF 10 juillet 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la santé publique - art. L601-2 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5140 (M)
+	  - Code de la santé publique R5142-21, R5142-22, R5140, R5142-23, R5142-21 à R5142-24
+
+
+###### Article R5142-26
+
+Les dispositions de l'article R. 5144-8 sont applicables aux prescripteurs des médicaments mentionnés aux articles R. 5142-21
+à R. 5142-23.
+
+En outre, les titulaires des autorisations temporaires d'utilisation sont tenus de déclarer semestriellement à la Commission
+nationale de pharmacovigilance les effets inattendus ou toxiques susceptibles d'être dus aux médicaments autorisés et dont
+ils ont connaissance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-568 du 8 juillet 1994 - art. 1 () JORF 10 juillet 1994
+
+	**Abrogé par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 2 (Ab) JORF 14 mars 1995
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la santé publique - art. L601-2 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-8 (M)
+	  - Code de la santé publique R5144-8, R5142-21 à R5142-23
+
+
+###### Article R5142-27
+
+I.  Sont applicables aux médicaments mentionnés aux articles R. 5142-21 et R. 5142-22 ci-dessus, dont l'utilisation est
+autorisée dans les conditions prévues au présent paragraphe, les dispositions relatives à l'étiquetage et à la notice
+d'information des a à m et q de l'article R. 5143, des articles R. 5143-1 à R. 5143-4, de l'article R. 5143-5, à l'exclusion
+du 7, et de l'article R. 5143-7.
+
+II.  Pour l'application de ces dispositions, la mention " autorisation temporaire d'utilisation " doit être substituée à la
+mention " autorisation de mise sur le marché " au m et au q de l'article R. 5143.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-568 du 8 juillet 1994 - art. 1 () JORF 10 juillet 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la santé publique - art. L601-2 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5143 (M)
+	  - Code de la santé publique - art. R5143-7 (M)
+	  - Code de la santé publique R5142-21, R5142-22, R5143, R5143-5, R5143-7
+
+
+###### Article R5142-28
+
+L'autorisation temporaire d'utilisation peut être renouvelée. Le renouvellement fait l'objet d'une nouvelle demande, dans les
+formes prévues au présent paragraphe.
+
+Cette nouvelle demande contient, en outre, toutes informations sur l'évaluation du médicament en cause faite au cours de la
+période d'autorisation précédente. Dans les cas définis aux articles R. 5142-21 et R. 5142-22, le fabricant ou l'importateur
+mentionne au dossier les quantités livrées ou importées pendant cette même période et les déclarations faites en application
+des dispositions de l'article R. 5142-26.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-568 du 8 juillet 1994 - art. 1 () JORF 10 juillet 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la santé publique - art. L601-2 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique R5142-21, R5142-22, R5142-26
+
+
+###### Article R5142-29
+
+Les décisions de suspension et de retrait mentionnées à l'article L. 601-2 sont prises par le directeur général de l'Agence
+du médicament. Elles sont motivées.
+
+La décision de suspension ne peut être prise pour une période supérieure à trois mois.
+
+La décision de retrait ne peut intervenir qu'après que le titulaire de l'autorisation a été invité à fournir ses observations
+et, pour les médicaments mentionnés aux articles R. 5142-21 et R. 5142-22, après avis de la commission de l'article R. 5140.
+
+En cas de suspension ou de retrait d'autorisation, les dispositions de l'article R. 5139, cinquième alinéa, sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-568 du 8 juillet 1994 - art. 1 () JORF 10 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601-2 (M)
+	  - Code de la santé publique - art. R5139 (M)
+	  - Code de la santé publique - art. R5140 (M)
+	  - Code de la santé publique L601-2, R5142-21, R5142-22, R5140, R5139
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la santé publique - art. L601-2 (M)
+
+
+###### Article R5142-30
+
+L'autorisation temporaire d'utilisation d'un médicament est caduque dès que ce dernier bénéficie d'une autorisation de mise
+sur le marché.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-568 du 8 juillet 1994 - art. 1 () JORF 10 juillet 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: Code de la santé publique - art. L601-2 (M)
 
 
 #### CHAPITRE 3 : PHARMACIE VETERINAIRE
