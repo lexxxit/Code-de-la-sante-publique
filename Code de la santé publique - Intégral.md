@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1989-12-31
+Version Consolidée au 1990-01-25
 
 # Partie législative ancienne
 
@@ -7249,20 +7249,28 @@ protection des enfants placés hors du domicile de leurs parents.
 
 ###### Article L209-1
 
-Les essais, études ou expérimentations organisés et pratiqués sur l'être humain en vue du développement des connaissances
-biologiques ou médicales sont autorisés dans les conditions prévues au présent livre et sont désignés ci-après par les
-termes : "recherche biomédicale".
+Les essais ou expérimentations organisés et pratiqués sur l'être humain en vue du développement des connaissances biologiques
+ou médicales sont autorisés dans les conditions prévues au présent livre et sont désignés ci-après par les termes : "
+recherche biomédicale ". 
 
-Les recherches biomédicales dont on attend un bénéfice thérapeutique direct pour la personne qui s'y prête sont des
-recherches à finalité thérapeutique directe. Toutes les autres recherches, qu'elles portent sur des personnes malades ou non,
-sont sans finalité thérapeutique directe.
+Les recherches biomédicales dont on attend un bénéfice direct pour la personne qui s'y prête sont dénommées    recherches
+biomédicales avec bénéfice individuel direct. Toutes les autres recherches, qu'elles portent sur des personnes malades ou
+non, sont dénommées sans bénéfice individuel direct. 
 
 La personne physique ou morale qui prend l'initiative d'une recherche biomédicale sur l'être humain est dénommée ci-après le
-promoteur [*définition*]. La ou les personnes physiques qui dirigent et surveillent la réalisation de la recherche sont
-dénommées ci-après les investigateurs.
+promoteur   . La ou les personnes physiques qui dirigent et surveillent la réalisation de la recherche sont dénommées ci-
+après les investigateurs. 
+
+Lorsque plusieurs personnes prennent l'initiative d'une même recherche, elles peuvent désigner une personne physique ou
+morale qui aura la qualité de promoteur et assumera les obligations correspondantes en application du présent livre. 
 
 Lorsque le promoteur d'une recherche confie sa réalisation à plusieurs investigateurs, il désigne parmi eux un investigateur
 coordonnateur.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -7271,9 +7279,11 @@ coordonnateur.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
+	  - Loi n°90-86 du 23 janvier 1990 - art. 35 () JORF 25 janvier 1990
+	  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
+	  - Loi n°90-86 du 23 janvier 1990 - art. 37 () JORF 25 janvier 1990
 
 	**Cité par**:
 
@@ -7292,9 +7302,18 @@ coordonnateur.
 	  - Code de la santé publique - art. R673-13 (Ab)
 	  - Code de la santé publique - art. R673-14 (Ab)
 
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L1121-1 (M)
 	  - Code de la santé publique - art. L1121-1 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
 
 ### Titre 1 : Dispositions générales.
@@ -7383,9 +7402,14 @@ territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 ###### Article L209-4
 
-Les recherches sans finalité thérapeutique directe sur les femmes enceintes ou qui allaitent ne sont admises que si elles ne
+Les recherches sans bénéfice individuel direct sur les femmes enceintes ou qui allaitent ne sont admises que si elles ne
 présentent aucun risque prévisible pour la santé de la femme ou de l'enfant et si elles sont utiles à la connaissance des
 phénomènes liés à la grossesse ou à l'allaitement.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -7393,6 +7417,10 @@ phénomènes liés à la grossesse ou à l'allaitement.
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
 
 	**Nouveaux textes**:
 
@@ -7402,9 +7430,9 @@ phénomènes liés à la grossesse ou à l'allaitement.
 
 	  - Code de la santé publique - art. L209-19 (M)
 
-	**Créé par**:
+	**Liens**:
 
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
 
 ###### Article L209-5
@@ -7449,13 +7477,18 @@ Les mineurs, les majeurs sous tutelle, les personnes séjournant dans un établi
 situation d'urgence ne peuvent être sollicités pour une recherche biomédicale que si l'on peut en attendre un bénéfice direct
 pour leur santé.
 
-Toutefois, les recherches sans finalité thérapeutique directe sont admises si les trois conditions suivantes sont remplies :
+Toutefois, les recherches sans bénéfice individuel direct sont admises si les trois conditions suivantes sont remplies :
 
 - ne présenter aucun risque sérieux prévisible pour leur santé ;
 
 - être utiles à des personnes présentant les mêmes caractéristiques d'âge, de maladie ou de handicap ;
 
 - ne pouvoir être réalisées autrement.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -7464,9 +7497,9 @@ Toutefois, les recherches sans finalité thérapeutique directe sont admises si 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
+	  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
 
 	**Nouveaux textes**:
 
@@ -7476,21 +7509,30 @@ Toutefois, les recherches sans finalité thérapeutique directe sont admises si 
 
 	  - Code de la santé publique - art. L209-19 (M)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
+
 
 ###### Article L209-7
 
-Pour les recherches biomédicales sans finalité thérapeutique directe, le promoteur assume, même sans faute, l'indemnisation
-intégrale des conséquences dommageables de la recherche pour la personne qui s'y prête, sans toutefois que puisse être opposé
-le fait d'un tiers ou le retrait volontaire de la personne qui avait initialement consenti à se prêter à la recherche.
+Pour les recherches biomédicales sans bénéfice individuel direct, le promoteur assume, même sans faute, l'indemnisation des
+conséquences dommageables de la recherche pour la personne qui s'y prête, sans que puisse être opposé le fait d'un tiers ou
+le retrait volontaire de la personne qui avait initialement consenti à se prêter à la recherche.
 
-Pour les recherches biomédicales à finalité thérapeutique directe, le promoteur assume l'indemnisation des conséquences
+Pour les recherches biomédicales avec bénéfice individuel direct, le promoteur assume l'indemnisation des conséquences
 dommageables de la recherche pour la personne qui s'y prête, sauf preuve à sa charge que le dommage n'est pas imputable à sa
-faute, sans toutefois que puisse être opposé le fait d'un tiers ou le retrait volontaire de la personne qui avait
-initialement consenti à se prêter à la recherche.
+faute, ou à celle de tout intervenant sans que puisse être opposé le fait d'un tiers ou le retrait volontaire de la personne
+qui avait initialement consenti à se prêter à la recherche.
 
 Pour toute recherche biomédicale, le promoteur souscrit une assurance garantissant sa responsabilité civile telle qu'elle
 résulte du présent article et celle de tout intervenant, indépendamment de la nature des liens existant entre les
 intervenants et le promoteur. Les dispositions du présent article sont d'ordre public.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -7498,10 +7540,6 @@ intervenants et le promoteur. Les dispositions du présent article sont d'ordre 
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
 
 	**Cité par**:
 
@@ -7510,9 +7548,15 @@ intervenants et le promoteur. Les dispositions du présent article sont d'ordre 
 	  - Code de la santé publique - art. L209-23 (Ab)
 	  - Code de la santé publique - art. R2047 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
+	  - Loi n°90-86 du 23 janvier 1990 - art. 38 () JORF 25 janvier 1990
+
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°91-440 du 14 mai 1991
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
 	**Nouveaux textes**:
 
@@ -7521,9 +7565,14 @@ intervenants et le promoteur. Les dispositions du présent article sont d'ordre 
 
 ###### Article L209-8
 
-La recherche biomédicale ne donne lieu à aucune contrepartie financière hormis le remboursement des frais exposés et sous
-réserve de dispositions particulières prévues par l'article L. 209-15 du présent code relatif aux recherches sans finalité
-thérapeutique directe.
+La recherche biomédicale ne donne lieu à aucune contrepartie financière directe ou indirecte pour les personnes qui s'y
+prêtent, hormis le remboursement des frais exposés et sous réserve de dispositions particulières prévues par l'article L.
+209-15 du présent code relatif aux recherches sans bénéfice individuel direct.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -7532,9 +7581,14 @@ thérapeutique directe.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
+	  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
+	  - Loi n°90-86 du 23 janvier 1990 - art. 39 () JORF 25 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -7543,6 +7597,10 @@ thérapeutique directe.
 	**Cite**:
 
 	  - Code de la santé publique - art. L209-15 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
 
 ### Titre 2 : Du consentement.
@@ -7555,7 +7613,8 @@ connaître :
 
 - l'objectif de la recherche, sa méthodologie et sa durée ;
 
-- les contraintes et les risques prévisibles, y compris en cas d'arrêt de la recherche avant son terme ;
+- les bénéfices attendus, les contraintes et les risques prévisibles, y compris en cas d'arrêt de la recherche avant son
+terme ;
 
 - l'avis du comité mentionné à l'article L. 209-12 du présent code.
 
@@ -7577,6 +7636,11 @@ l'article L. 209-11 du présent code peut prévoir que le consentement de cette 
 sollicité celui de ses proches [*dérogation*] s'ils sont présents, dans les conditions prévues ci-dessus. L'intéressé sera
 informé dès que possible et son consentement lui sera demandé pour la poursuite éventuelle de cette recherche.
 
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -7584,9 +7648,9 @@ informé dès que possible et son consentement lui sera demandé pour la poursui
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
+	  - Loi n°90-86 du 23 janvier 1990 - art. 40 () JORF 25 janvier 1990
 
 	**Cité par**:
 
@@ -7609,6 +7673,10 @@ informé dès que possible et son consentement lui sera demandé pour la poursui
 	  - Code de la santé publique - art. L209-11 (M)
 	  - Code de la santé publique - art. L209-12 (M)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
+
 
 ###### Article L209-10
 
@@ -7616,12 +7684,17 @@ Lorsqu'une recherche biomédicale est effectuée sur des mineurs ou des majeurs 
 
 - le consentement doit être donné, selon les règles prévues à l'article L. 209-9 du présent code, par les titulaires de
 l'exercice de l'autorité parentale pour les mineurs non émancipés. Pour les mineurs ou les majeurs sous tutelle, le
-consentement est donné par le tuteur pour les recherches à finalité thérapeutique directe ne présentant pas un risque
+consentement est donné par le tuteur pour les recherches avec bénéfice individuel direct ne présentant pas un risque
 prévisible sérieux et, dans les autres cas, par le tuteur autorisé par le conseil de famille ou le juge des tutelles
-[*personnes, autorités compétentes*];
+[*autorités compétentes*];
 
 - le consentement du mineur ou du majeur sous tutelle doit également être recherché lorsqu'il est apte à exprimer sa volonté.
 Il ne peut être passé outre à son refus ou à la révocation de son consentement.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -7630,9 +7703,9 @@ Il ne peut être passé outre à son refus ou à la révocation de son consentem
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
+	  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
 
 	**Cité par**:
 
@@ -7644,6 +7717,10 @@ Il ne peut être passé outre à son refus ou à la révocation de son consentem
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1122-2 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
 	**Cite**:
 
@@ -7665,7 +7742,8 @@ toute indépendance. Ils doivent être dotés de la personnalité juridique.
 Les comités sont composés de manière à assurer une diversité des compétences dans le domaine biomédical et à l'égard des
 questions éthiques, sociales, psychologiques et juridiques.
 
-Leurs membres sont nommés par le représentant de l'Etat dans la région, par tirage au sort des candidats.
+Leurs membres sont nommés par le représentant de l'Etat dans la région, par tirage au sort parmi des personnes présentées par
+des autorités ou organisations habilitées à le faire.
 
 Les membres des comités, les personnes appelées à collaborer à leurs travaux et les agents de l'Etat qui en sont dépositaires
 sont tenus [*obligations*], dans les conditions et sous les peines prévues à l'article 378 du code pénal, de garder secrètes
@@ -7676,13 +7754,17 @@ professionnel*].
 Ne peuvent valablement participer à une délibération les personnes qui ne sont pas indépendantes du promoteur et de
 l'investigateur de la recherche examinée.
 
-Le ministre de la santé peut retirer l'agrément si les conditions d'indépendance, de composition et de fonctionnement
-nécessaires pour assurer leur mission dans les meilleures conditions ne sont plus satisfaites.
+Les frais de fonctionnement des comités sont financés par le produit d'un droit fixe versé par les promoteurs pour chacun des
+projets de recherches biomédicales faisant l'objet d'une demande d'avis. Le montant de ce droit est arrêté par le ministre
+chargé de la santé.
+
+Le ministre chargé de la santé peut retirer l'agrément d'un comité si les conditions d'indépendance, de composition ou de
+fonctionnement nécessaires pour assurer sa mission dans les meilleures conditions ne sont plus satisfaites.
 
 **Nota:**
 
-[*Nota - loi 88-1138 du 20 décembre 1988 art. 6 4°: l'entrée en vigueur du premier au troisième et dernier alinéas de
-l'article L209-11 sera fixée par les textes pris en application et au plus tard le 1er janvier 1990.*]
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -7690,10 +7772,6 @@ l'article L209-11 sera fixée par les textes pris en application et au plus tard
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
 
 	**Cité par**:
 
@@ -7705,12 +7783,19 @@ l'article L209-11 sera fixée par les textes pris en application et au plus tard
 	  - Code de la santé publique - art. R2007 (Ab)
 	  - Code de la santé publique - art. R2012 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°90-86 du 23 janvier 1990 - art. 41 () JORF 25 janvier 1990
+	  - Loi n°90-86 du 23 janvier 1990 - art. 42 () JORF 25 janvier 1990
+	  - Loi n°90-86 du 23 janvier 1990 - art. 48 () JORF 25 janvier 1990
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Arrêté du 7 mai 1991
 	  - TXT_ASSOCIE: Arrêté du 7 mai 1991 - art. 1 (V)
 	  - TXT_ASSOCIE: Arrêté du 7 mai 1991 - art. 2 (V)
 	  - TXT_ASSOCIE: Arrêté du 7 mai 1991 - art. 3 (V)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
 	**Cite**:
 
@@ -7741,13 +7826,21 @@ essentielles de la recherche, accompagnée de l'avis du comité consulté. Cet a
 projets ayant fait l'objet d'un avis défavorable ne peuvent être mis en oeuvre avant un délai de deux mois à compter de leur
 réception par le ministre [*point de départ*].
 
+Lorsque la recherche doit se dérouler dans un ou plusieurs établissements publics ou privés, le promoteur en informe le ou
+les directeurs de ces établissements avant que cette recherche ne soit mise en oeuvre.
+
+Le promoteur informe, dès qu'il en a connaissance, le ministre chargé de la santé de tout effet ayant pu contribuer à la
+survenue d'un décès, provoquer une hospitalisation ou entraîner des séquelles organiques ou fonctionnelles durables et
+susceptible d'être dû à la recherche. Il l'informe également de tout arrêt prématuré de la recherche en indiquant le motif de
+cet arrêt.
+
 Le ministre peut, à tout moment, en cas de risque pour la santé publique ou de non-respect des dispositions du présent livre,
 suspendre ou interdire une recherche biomédicale.
 
 **Nota:**
 
-[*Nota - loi 88-1138 du 20 décembre 1988 art. 6 4°: l'entrée en vigueur du premier au troisième et dernier alinéas de
-l'article L209-12 sera fixée par les textes pris en application et au plus tard le 1er janvier 1990.*]
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -7755,10 +7848,6 @@ l'article L209-12 sera fixée par les textes pris en application et au plus tard
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
 
 	**Cité par**:
 
@@ -7782,9 +7871,14 @@ l'article L209-12 sera fixée par les textes pris en application et au plus tard
 	  - Code de la santé publique - art. R5122 (Ab)
 	  - Code de la santé publique - art. R5142-14 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°90-86 du 23 janvier 1990 - art. 43 () JORF 25 janvier 1990
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique - art. L209-20 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
 
 ###### Article L209-13
@@ -7822,41 +7916,55 @@ territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 	  - Code de la santé publique - art. R5120 (M)
 
 
-### Titre 4 : Dispositions particulières aux recherches sans finalité thérapeutique directe
+### Titre 4 : Dispositions particulières aux recherches sans bénéfice individuel direct
 
 ###### Article L209-14
 
-Les recherches biomédicales sans finalité thérapeutique directe ne doivent comporter aucun risque prévisible sérieux pour la
+Les recherches biomédicales sans bénéfice individuel direct ne doivent comporter aucun risque prévisible sérieux pour la
 santé des personnes qui s'y prêtent.
 
 Elles doivent être précédées d'un examen médical des personnes concernées. Les résultats de cet examen leur sont communiqués
 par l'intermédiaire du médecin de leur choix.
 
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1124-1 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
+
 
 ###### Article L209-15
 
-Dans le cas d'une recherche sans finalité thérapeutique directe à l'égard des personnes qui s'y prêtent, le promoteur verse à
-ces personnes une indemnité [*en espèces, financière*] en compensation des contraintes subies. Le montant total des
-indemnités qu'une personne peut percevoir au cours d'une même année est limité à un maximum fixé par le ministre chargé de la
-santé [*autorité compétente*].
+Dans le cas d'une recherche sans bénéfice individuel direct à l'égard des personnes qui s'y prêtent, le promoteur verse à ces
+personnes une indemnité [*en espèces, financière*] en compensation des contraintes subies. Le montant total des indemnités
+qu'une personne peut percevoir au cours d'une même année est limité à un maximum fixé par le ministre chargé de la santé
+[*autorité compétente*].
 
 Les recherches effectuées sur des mineurs, des majeurs sous tutelle ou des personnes séjournant dans un établissement
 sanitaire ou social ne peuvent en aucun cas donner lieu à une telle indemnité.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -7865,9 +7973,9 @@ sanitaire ou social ne peuvent en aucun cas donner lieu à une telle indemnité.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
+	  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
 
 	**Cité par**:
 
@@ -7881,14 +7989,23 @@ sanitaire ou social ne peuvent en aucun cas donner lieu à une telle indemnité.
 
 	  - Code de la santé publique - art. L1124-2 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
+
 
 ###### Article L209-16
 
-Toute recherche biomédicale sans finalité thérapeutique directe sur une personne qui n'est pas affiliée à un régime de
-sécurité sociale est interdite.
+Toute recherche biomédicale sans bénéfice individuel direct sur une personne qui n'est pas affiliée à un régime de sécurité
+sociale ou bénéficiaire d'un tel régime est interdite.
 
 L'organisme de sécurité sociale dispose contre le promoteur d'une action en paiement des prestations versées ou fournies
 [*action civile*].
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -7897,22 +8014,31 @@ L'organisme de sécurité sociale dispose contre le promoteur d'une action en pa
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
+	  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
+	  - Loi n°90-86 du 23 janvier 1990 - art. 44 () JORF 25 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1124-3 (Ab)
 
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
+
 
 ###### Article L209-17
 
-Nul ne peut se prêter simultanément à plusieurs recherches biomédicales sans finalité thérapeutique directe.
+Nul ne peut se prêter simultanément à plusieurs recherches biomédicales sans bénéfice individuel direct [*interdiction*].
 
-Pour chaque recherche sans finalité thérapeutique directe, le protocole soumis à l'avis consultatif du comité consultatif de
+Pour chaque recherche sans bénéfice individuel direct, le protocole soumis à l'avis consultatif du comité consultatif de
 protection des personnes dans la recherche biomédicale détermine une période d'exclusion au cours de laquelle la personne qui
-s'y prête ne peut participer à une autre recherche sans finalité thérapeutique directe. La durée de cette période varie en
+s'y prête ne peut participer à une autre recherche sans bénéfice individuel direct. La durée de cette période varie en
 fonction de la nature de la recherche.
 
 En vue de l'application des dispositions ci-dessus, le ministre chargé de la santé [*autorité compétente*] établit et gère un
@@ -7920,8 +8046,8 @@ fichier national.
 
 **Nota:**
 
-[*Nota - loi 88-1138 du 20 décembre 1988 art. 6 4°: l'entrée en vigueur du premier au troisième et dernier alinéas de
-l'article L209-17 sera fixée par les textes pris en application et au plus tard le 1er janvier 1990.*]
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -7929,10 +8055,6 @@ l'article L209-17 sera fixée par les textes pris en application et au plus tard
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
 
 	**Cité par**:
 
@@ -7943,6 +8065,14 @@ l'article L209-17 sera fixée par les textes pris en application et au plus tard
 	  - Code de la santé publique - art. R2041 (Ab)
 	  - Code de la santé publique - art. R5122 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1124-4 (Ab)
@@ -7950,18 +8080,19 @@ l'article L209-17 sera fixée par les textes pris en application et au plus tard
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique - art. L209-20 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
 
 ###### Article L209-18
 
-Les recherches biomédicales sans finalité thérapeutique directe ne peuvent être réalisées que dans un lieu équipé des moyens
+Les recherches biomédicales sans bénéfice individuel direct ne peuvent être réalisées que dans un lieu équipé des moyens
 matériels et techniques adaptés à la recherche [*conditions d'équipement*] et compatibles avec les impératifs de sécurité des
 personnes qui s'y prêtent, autorisé, à ce titre, par le ministre chargé de la santé.
 
 **Nota:**
 
-[*Nota - loi 88-1138 du 20 décembre 1988 art. 6 4°: l'entrée en vigueur du premier au troisième et dernier alinéas de
-l'article L209-18 sera fixée par les textes pris en application et au plus tard le 1er janvier 1990.*]
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -7969,10 +8100,6 @@ l'article L209-18 sera fixée par les textes pris en application et au plus tard
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
 
 	**Cité par**:
 
@@ -7982,6 +8109,10 @@ l'article L209-18 sera fixée par les textes pris en application et au plus tard
 	  - Code de la santé publique - art. L209-20 (Ab)
 	  - Code de la santé publique - art. R2048 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°90-86 du 23 janvier 1990 - art. 36 () JORF 25 janvier 1990
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1124-6 (M)
@@ -7989,6 +8120,7 @@ l'article L209-18 sera fixée par les textes pris en application et au plus tard
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique - art. L209-20 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
 
 
 ### Titre 5 : Sanctions pénales.
@@ -8092,8 +8224,56 @@ Saint-Pierre-et-Miquelon et de Mayotte.
 ###### Article L209-21
 
 Le promoteur dont la responsabilité civile n'est pas garantie par l'assurance prévue à l'article L. 209-7 du présent code est
-puni d'un emprisonnement de un à six mois [*durée*] et d'une amende de 6 000 F à 100 000 F [*montant*] ou de l'une de ces
+puni d'un emprisonnement de un à six mois [*durée*] et d'une amende de 6 000 F à 100 000 F (1) [*montant*] ou de l'une de ces
 deux peines seulement.
+
+Le promoteur qui réalise ou fait réaliser une recherche biomédicale sans avoir transmis au ministre chargé de la santé la
+lettre d'intention prévue à l'article L. 209-12 est puni des mêmes peines.
+
+(1) Amende applicable depuis le 24 décembre 1988.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°90-86 du 23 janvier 1990 - art. 45 () JORF 25 janvier 1990
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1126-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L209-12 (M)
+	  - Code de la santé publique - art. L209-7 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
+
+
+### Titre 6 : Dispositions diverses
+
+###### Article L209-22
+
+Par dérogation à l'article 13 de la loi des 16 et 24 août 1790 sur l'organisation judiciaire, le tribunal de grande instance
+est seul compétent pour statuer sur toute action en indemnisation des dommages résultant d'une recherche biomédicale ; cette
+action se prescrit dans les conditions prévues à l'article 2270-1 du code civil.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
+territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -8104,11 +8284,86 @@ deux peines seulement.
 
 	**Créé par**:
 
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
+	  - Loi n°90-86 du 23 janvier 1990 - art. 46 () JORF 25 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code civil - art. 2270-1 (M)
+	  - Loi n°1790-08-16
+	  - Loi n°1790-08-24
 
 	**Nouveaux textes**:
 
-	  - Code de la santé publique - art. L1126-6 (V)
+	  - Code de la santé publique - art. L1126-7 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L209-23 (Ab)
+
+
+###### Article L209-23
+
+Les dispositions du présent livre sont applicables <dispositions à="" la="" janvier="" constitution="" conformes="" du=""
+89-269="" dc="" conseil="" constitutionnel="" déclarées="" 1990="" non="" n°="" 22="" par="" décision=""> dans les
+collectivités territoriales de Saint-Pierre-et-Miquelon et de Mayotte.
+
+</dispositions>
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°90-86 du 23 janvier 1990 - art. 46 () JORF 25 janvier 1990
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1512-1 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L209-1 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-10 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-11 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-12 (M)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-12-1 (M)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-13 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-13-1 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-14 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-15 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-16 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-17 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-18 (M)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-18-1 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-18-2 (M)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-18-3 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-18-4 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-18-5 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-19 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-19-1 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-20 (M)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-21 (M)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-22 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-3 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-4 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-5 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-6 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-7 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-8 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L209-9 (Ab)
 
 	**Cite**:
 
@@ -27377,25 +27632,33 @@ autorise, le cas échéant, le préfet à délivrer la licence et peut imposer d
 
 Dans les établissements sanitaires ou sociaux, publics ou privés qui sont titulaires d'une licence d'exercice de pharmacie,
 en application de l'article L. 577 du présent code, le pharmacien assurant la gérance de cette pharmacie doit être
-préalablement informé par le promoteur des essais, études ou expérimentations envisagés sur des produits, substances ou
-médicaments.
+préalablement informé par le promoteur des essais ou expérimentations envisagés sur des produits, substances ou médicaments.
 
 Ces produits, substances ou médicaments sont détenus et dispensés par le ou les pharmaciens de l'établissement.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 5 () JORF 22 décembre 1988
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L577 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°90-86 du 23 janvier 1990 - art. 35 () JORF 25 janvier 1990
+
+	**Abrogé par**:
+
+	  - Loi n°92-1279 du 8 décembre 1992 - art. 7 (V) JORF 11 décembre 1992
 
 
 ###### Article L578
@@ -28786,6 +29049,32 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L5121-20 (M)
 	  - Code de la santé publique - art. L5121-9 (V)
 	  - Code de la santé publique - art. L5421-2 (V)
+
+
+###### Article L601-1
+
+Tout médicament destiné à la réalisation de préparations magistrales à l'officine et caractérisé par une dénomination
+spéciale est soumis aux dispositions de la présente section.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5121-4 (V)
+
+	**Créé par**:
+
+	  - Loi n°90-86 du 23 janvier 1990 - art. 34 () JORF 25 janvier 1990
 
 
 ###### Article L602
