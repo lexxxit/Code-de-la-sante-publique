@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1970-10-27
+Version Consolidée au 1971-01-03
 
 # Partie législative ancienne
 
@@ -2438,18 +2438,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Liens**:
 
 	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
-
-
-###### Article L35-7
-
-texte abrogé.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 ###### Article L35-8
@@ -6568,27 +6556,6 @@ délivrée par le ministre de la Santé publique et de la Population [*condition
 	**Abrogé par**:
 
 	  - Loi n°93-43 1994-01-18 art. 1 I JORF 19 janvier 1994
-
-
-###### Article L230
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°46-1834 du 20 août 1946 - art. 7 (Ab)
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
 
 
 ##### Paragraphe 2 : Sanatoriums.
@@ -10775,6 +10742,306 @@ l'aide sociale.
 	**Cite**:
 
 	  - Code de la famille et de l'aide sociale. - art. 189 (Ab)
+
+
+### Titre 6 : Lutte contre la toxicomanie
+
+###### Article L355-14
+
+Toute personne usant d'une façon illicite de substances ou plantes classées comme stupéfiants, est placée sous la
+surveillance de l'autorité sanitaire.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 28 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°86-602 du 14 mars 1986 - art. 11 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3411-1 (V)
+	  - Code de la santé publique - art. L3823-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. R5165 (M)
+
+
+#### Chapitre 1 : Dispositions particulières aux personnes signalées par le procureur de la République
+
+###### Article L355-15
+
+Chaque fois que le procureur de la République, par application de l'article L. 628-1, aura enjoint à une personne ayant fait
+un usage illicite de stupéfiants, de suivre une cure de désintoxication ou de se placer sous surveillance médicale, il en
+informera l'autorité sanitaire compétente. Celle-ci fait procéder à un examen médical et à une enquête sur la vie familiale,
+professionnelle et sociale de l'intéressé.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 28 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3413-1 (M)
+	  - Code de la santé publique - art. L3413-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L628-1 (Ab)
+
+
+###### Article L355-16
+
+1° Si, après examen médical, il apparaît que la personne est intoxiquée, l'autorité sanitaire lui enjoint de se présenter
+dans un établissement agréé choisi par l'intéressé, ou à défaut désigné d'office, pour suivre une cure de désintoxication.
+
+2° Lorsque la personne a commencé la cure à laquelle elle a été invitée, elle fait parvenir à l'autorité sanitaire un
+certificat médical  indiquant la date du début des soins, la durée probable du traitement, et l'établissement dans lequel ou
+sous la surveillance duquel aura lieu l'hospitalisation ou le traitement ambulatoire.
+
+3° L'autorité sanitaire contrôle le déroulement du traitement et informe régulièrement le parquet de la situation médicale et
+sociale de la personne.
+
+4° En cas d'interruption du traitement, le directeur de l'établissement ou le médecin responsable du traitement en informent
+immédiatement l'autorité sanitaire qui prévient le parquet.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 28 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 26 janvier 1988
+	  - TXT_SOURCE: Arrêté du 26 janvier 1988 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 26 janvier 1988 - art. 2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3413-2 (M)
+	  - Code de la santé publique - art. L3413-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L628-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L355-17
+
+1° Si, après examen médical, il apparaît à l'autorité sanitaire que l'état de la personne ne nécessite pas une cure de
+désintoxication, cette autorité lui enjoindra de se placer, tout le temps nécessaire, sous surveillance médicale, soit d'un
+médecin choisi par elle, soit d'un dispensaire d'hygiène sociale ou d'un établissement sanitaire agréé, public ou privé.
+
+2° Lorsque la personne s'est soumise à la surveillance médicale à laquelle elle a été invitée, elle fait parvenir à
+l'autorité sanitaire un certificat médical indiquant la date du début de cette surveillance et sa durée probable.
+
+3° L'autorité sanitaire contrôle le déroulement du traitement et informe régulièrement le parquet de la situation médicale et
+sociale de la personne.
+
+4° En cas d'interruption de la surveillance médicale, le médecin responsable du traitement en informe immédiatement
+l'autorité sanitaire qui prévient le parquet.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 28 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3413-3 (M)
+	  - Code de la santé publique - art. L3413-3 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L628-1 (Ab)
+	  - Code de la santé publique - art. R715-1-1 (M)
+
+
+#### Chapitre 2 : Dispositions particulières aux personnes signalées par les services médicaux et sociaux
+
+###### Article L355-18
+
+L'autorité sanitaire peut être saisie du cas d'une personne usant d'une façon illicite de stupéfiants soit par le certificat
+d'un médecin, soit par le rapport d'une assistante sociale. Elle fait alors procéder à un examen médical et à une enquête sur
+la vie familiale, professionnelle et sociale de l'intéressé.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 28 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3412-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L628-1 (Ab)
+
+
+###### Article L355-19
+
+Si, après examen médical, il apparaît que la personne est intoxiquée, l'autorité sanitaire lui enjoint d'avoir à se présenter
+dans un établissement agréé, choisi par l'intéressé, ou à défaut désigné d'office, pour suivre une cure de désintoxication et
+d'en apporter la preuve.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 28 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 26 janvier 1988
+	  - TXT_SOURCE: Arrêté du 26 janvier 1988 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 26 janvier 1988 - art. 2 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3412-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L628-1 (Ab)
+
+
+###### Article L355-20
+
+Si, après examen médical, il apparaît que l'état de la personne ne nécessite pas une cure de désintoxication, l'autorité
+sanitaire lui enjoindra de se placer, tout le temps nécessaire, sous surveillance médicale, soit du médecin choisi par elle,
+soit d'un dispensaire d'hygiène sociale ou d'un établissement agréé, public ou privé.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 28 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3412-3 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L628-1 (Ab)
+	  - Code de la santé publique - art. R715-1-1 (M)
+
+
+#### Chapitre 3 : Dispositions particulières aux personnes se présentant spontanément aux services de prévention ou de cure
+
+###### Article L355-21
+
+Les toxicomanes qui se présenteront spontanément dans un dispensaire ou dans un établissement hospitalier, afin d'y être
+traités, ne seront pas soumis aux dispositions indiquées ci-dessus. Ils pourront, s'ils le demandent expressément, bénéficier
+de l'anonymat au moment de l'admission. Cet anonymat ne pourra être levé que pour des causes autres que la répression de
+l'usage illicite de stupéfiants.
+
+Les personnes ayant bénéficié d'un traitement dans les conditions prévues à l'alinéa précédent pourront demander au médecin
+qui les aura traitées un certificat nominatif mentionnant les dates, la durée et l'objet du traitement.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 28 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3414-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L628-1 (Ab)
 
 
 ## LIVRE 4 : PROFESSIONS MEDICALES ET AUXILIAIRES MEDICAUX
@@ -22884,6 +23151,81 @@ maladie et aux bénéficiaires de l'aide sociale.
 
 #### Chapitre 1 : Substances vénéneuses.
 
+###### Article L626
+
+Seront punis d'un emprisonnement de deux mois à deux ans [*durée*] et d'une amende de 2.000 F à 20.000 F [*montant*], ou de
+l'une de ces deux peines seulement, ceux qui auront contrevenu aux dispositions des décrets en Conseil d'Etat concernant la
+production, le transport, l'importation, l'exportation, la détention, l'offre, la cession, l'acquisition et l'emploi des
+substances ou plantes ou la culture des plantes classées comme vénéneuses par voie réglementaire, ainsi que tout acte se
+rapportant à ces opérations.
+
+Les décrets prévus au présent article pourront également prohiber toutes opérations relatives à ces plantes et substances ;
+ils pourront notamment, après avis des académies nationales de médecine et de pharmacie, interdire la prescription et
+l'incorporation dans des préparations de certaines de ces plantes et substances ou des spécialités qui en contiennent.
+
+Les conditions de prescription et de délivrance de telles préparations sont fixées après avis des conseils nationaux de
+l'ordre des médecins et de l'ordre des pharmaciens.
+
+Dans tous les cas prévus au présent article, les tribunaux pourront, en outre, ordonner la confiscation des substances ou des
+plantes saisies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 58-1297 1958-12-23 ART. 10 : AVAIT ABROGE L'ARTICLE L626
+	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 17 février 1976 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°82-200 du 25 février 1982
+	  - TXT_SOURCE: Décret n°82-200 du 25 février 1982 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°82-200 du 25 février 1982 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°82-200 du 25 février 1982 - art. Annexe (Ab)
+	  - TXT_SOURCE: Décret n°82-818 du 22 septembre 1982
+	  - TXT_SOURCE: Décret n°82-818 du 22 septembre 1982 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 10 octobre 1989
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L630-1 : DISPOSITIONS PENALES RELATIVES AUX ETRANGERS
+
+	**Créé par**:
+
+	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+
+	**Modifié par**:
+
+	  - Loi n°80-512 1980-07-07 ART. 2 JORF 9 juillet 1980
+
+	**Cité par**:
+
+	  - Décret n°87-361 du 27 mai 1987 - art. 2 (V)
+	  - Arrêté du 9 juin 2004 - art. ANNEXE (V)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+	  - Code de la santé publique - art. L627 (M)
+	  - Code de la santé publique - art. L630-1 (Ab)
+	  - Code de la santé publique - art. L659 (Ab)
+	  - Code de la santé publique - art. L662 (Ab)
+	  - Code de la santé publique - art. L795-4 (Ab)
+	  - Code de la santé publique - art. R5146-53 (Ab)
+	  - Code de la santé publique - art. R5185 (M)
+	  - Code de la santé publique - art. R5226 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5132-8 (V)
+	  - Code de la santé publique - art. L5432-1 (V)
+
+
 ###### Article L627
 
 Seront punis d'un emprisonnement de deux ans à dix ans et d'une amende de 5.000 F à 50.000.000 F, ou de l'une de ces deux
@@ -23001,6 +23343,46 @@ le juge d'instruction. Tout procès-verbal dressé pour un autre objet sera frap
 	  - Code de la santé publique - art. L5132-8 (V)
 
 
+###### Article L627-1
+
+Dans les hypothèses prévues à l'article L. 627, le délai de garde à vue est celui prévu aux premier et second alinéas de
+l'article 63 du Code de procédure pénale.
+
+Toutefois, le procureur de la République, dans les cas visés aux articles 63 et 77 du Code de procédure pénale et le juge
+d'instruction, dans le cas prévu à l'article 154 du même code, peuvent, par une autorisation écrite, la prolonger pour une
+durée de quarante-huit heures.
+
+Une deuxième prolongation peut être accordée dans les mêmes conditions pour une durée supplémentaire de vingt-quatre heures.
+
+Dès le début de la garde à vue, le procureur de la République doit désigner un médecin expert qui examinera toutes les vingt-
+quatre heures la personne gardée à vue et délivrera après chaque examen un certificat médical motivé qui sera versé au
+dossier.
+
+D'autres examens médicaux pourront être demandés par la personne retenue. Ces examens médicaux seront de droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 154 (M)
+	  - CODE DE PROCEDURE PENALE - art. 63 (M)
+	  - CODE DE PROCEDURE PENALE - art. 77 (M)
+	  - Code de la santé publique - art. L627 (M)
+
+	**Cité par**:
+
+	  - CODE DE PROCEDURE PENALE - art. R117 (M)
+
+
 ###### Article L628-1
 
 Le procureur de la République pourra enjoindre aux personnes ayant fait un usage illicite de stupéfiants [*toxicomanes*] de
@@ -23102,6 +23484,158 @@ les règles fixées par l'article 148-1 (alinéas 2 à 4) du Code de procédure 
 	  - Code de la santé publique - art. L3424-1 (V)
 
 
+###### Article L628-3
+
+La juridiction de jugement pourra, de même, astreindre les personnes [*toxicomanes*] désignées à l'article précédent à subir
+une cure de désintoxication, notamment en confirmant l'ordonnance visée à l'article précédent ou en en prolongeant les
+effets. Dans ces deux derniers cas, cette mesure sera déclarée exécutoire par provision à titre de mesure de protection. Dans
+les autres cas, elle pourra, au même titre, être déclarée exécutoire par provision.
+
+Lorsqu'il aura été fait application des dispositions prévues à l'article L. 628-2 et au premier alinéa du présent article, la
+juridiction saisie pourra ne pas prononcer les peines prévues par l'article L. 628.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+
+	**Cité par**:
+
+	  - Décret n°71-690 du 19 août 1971 - art. 1 (Ab)
+	  - Code de la santé publique - art. L628-4 (Ab)
+	  - Code de la santé publique - art. L628-5 (Ab)
+	  - Code de la santé publique - art. L628-6 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3424-2 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L628 (Ab)
+	  - Code de la santé publique - art. L628-2 (Ab)
+
+
+###### Article L628-4
+
+Ceux qui se soustrairont à l'exécution d'une décision ayant ordonné la cure de désintoxication seront punis des peines
+prévues à l'article L. 628, sans préjudice, le cas échéant, d'une nouvelle application des dispositions des articles L. 628-2
+et L. 628-3.
+
+Toutefois, ces sanctions ne seront pas applicables [*non*] lorsque la cure de désintoxication constituera une obligation
+particulière imposée à une personne qui avait été condamnée à une peine d'emprisonnement assortie du sursis avec mise à
+l'épreuve.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3424-3 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L628 (Ab)
+	  - Code de la santé publique - art. L628-2 (Ab)
+	  - Code de la santé publique - art. L628-3 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L628-6 (Ab)
+	  - Code de la santé publique - art. L630-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L630-1 : DISPOSITIONS PENALES RELATIVES AUX ETRANGERS
+
+
+###### Article L628-5
+
+La cure de désintoxication prévue par les articles L. 628-2 et L.  628-3 sera subie soit dans un établissement spécialisé,
+soit sous surveillance médicale. L'autorité judiciaire sera informée de son déroulement et de ses résultats par le médecin
+responsable. Un décret en Conseil d'Etat fixera les conditions dans lesquelles la cure sera exécutée.
+
+Les dépenses d'aménagement des établissements de cure ainsi que les frais d'hospitalisation, de cure et de surveillance
+médicale entraînés par l'application des articles L. 628-1 à L. 628-3 seront pris en charge par l'Etat. Le décret visé ci-
+dessus fixera les modalités d'application de cette disposition.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+
+	**Cité par**:
+
+	  - Décret n°71-690 du 19 août 1971 - art. 3 (Ab)
+	  - Code de la santé publique - art. L628-6 (Ab)
+	  - Code de la sécurité sociale. - art. L174-17 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L628-1 (Ab)
+	  - Code de la santé publique - art. L628-2 (Ab)
+	  - Code de la santé publique - art. L628-3 (Ab)
+
+
+###### Article L628-6
+
+Lorsque le juge d'instruction ou la juridiction saisie aura ordonné à un inculpé de se placer sous surveillance médicale ou
+l'aura astreint à une cure de désintoxication, l'exécution de ces mesures sera soumise aux dispositions des articles L. 628-2
+à L. 628-5 ci-dessus, lesquelles font exception aux articles 138 (alinéa 2-10°) et suivants du Code de procédure pénale en ce
+qu'ils concernent la désintoxication.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+
+	**Cite**:
+
+	  - Code de procédure pénale 138 ET S.
+	  - Code de la santé publique - art. L628-2 (Ab)
+	  - Code de la santé publique - art. L628-3 (Ab)
+	  - Code de la santé publique - art. L628-4 (Ab)
+	  - Code de la santé publique - art. L628-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3424-5 (Ab)
+
+
 ###### Article L629
 
 Dans tous les cas prévus par les articles L. 627 et L. 628 [*opérations ou usage illicite de stupéfiants*], les tribunaux
@@ -23151,6 +23685,62 @@ article sera puni d'un emprisonnement de six mois au moins et de deux ans au plu
 
 	  - Code de la santé publique - art. L627 (M)
 	  - Code de la santé publique - art. L628 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L627 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L628 (Ab)
+
+
+###### Article L629-1
+
+En cas de poursuites exercées pour l'un des délits prévus aux articles L. 627 et L. 628 [*opérations ou usage illicite de
+stupéfiants*], le juge d'instruction pourra ordonner à titre provisoire, pour une durée de trois mois au plus, la fermeture
+de tout hôtel, maison meublée, pension, débit de boissons, restaurant, club, cercle, dancing, lieu de spectacle ou leurs
+annexes, ou lieu quelconque ouvert au public ou utilisé par le public, où ont été commis ces délits par l'exploitant ou avec
+sa complicité.
+
+Cette fermeture pourra, quelle qu'en ait été la durée, faire l'objet de renouvellement dans les mêmes formes pour une durée
+de trois mois au plus chacun.
+
+Les décisions prévues aux alinéas précédents et celles statuant sur les demandes de mainlevée peuvent faire l'objet d'un
+recours devant la chambre d'accusation dans les vingt-quatre heures de leur exécution ou de la notification faite aux parties
+intéressées [*délai*].
+
+Lorsqu'une juridiction de jugement est saisie, la mainlevée de la mesure de fermeture en cours, ou son renouvellement pour
+une durée de trois mois au plus chaque fois, est prononcée selon les règles fixées par l'article 148-1 (alinéas 2 à 4) du
+Code de procédure pénale.
+
+Sans préjudice de l'application des dispositions du titre III du code des débits de boissons et des mesures contre
+l'alcoolisme, le tribunal pourra, dans tous les cas visés à l'alinéa 1er, ordonner la fermeture de l'établissement pour une
+durée de trois mois à cinq ans et prononcer, le cas échéant, le retrait de la licence de débit de boissons ou de restaurant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+
+	**Cité par**:
+
+	  - Loi n°90-1010 du 14 novembre 1990 - art. 13 (M)
+	  - Code de la santé publique - art. L629-2 (M)
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 148-1 (M)
+	  - Code de la santé publique - art. L627 (M)
+	  - Code de la santé publique - art. L628 (Ab)
+	  - Code des débits de boissons TITRE 3
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3421-3 (V)
 
 	**Liens**:
 
@@ -23208,6 +23798,68 @@ tiré profit, si le délit a été commis par toute autre voie.
 
 	  - TXT_ASSOCIE: Code de la santé publique - art. L627 (M)
 	  - TXT_ASSOCIE: Code de la santé publique L630-1 : DISPOSITIONS PENALES RELATIVES AUX ETRANGERS
+
+
+###### Article L630-1
+
+Sans préjudice de l'application des articles 23 et suivants de l'ordonnance n° 45-2658 du 2 novembre 1945, les tribunaux
+pourront prononcer l'interdiction du territoire français, pour une durée de deux à cinq ans, contre tout étranger condamné
+pour les délits prévus par les articles L. 626, L. 628, L. 628-4 et L. 630. Ils pourront prononcer l'interdiction définitive
+du territoire français contre tout étranger condamné pour les délits prévus à l'article L. 627.
+
+Le condamné sera dans tous les cas soumis aux dispositions des articles 27 et 28 de l'ordonnance précitée.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Ordonnance 45-2658 1945-11-02 ART. 23 ET S., ART. 27, ART. 28
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 27 (M)
+	  - Ordonnance n°45-2658 du 2 novembre 1945 - art. 28 (M)
+	  - Code de la santé publique - art. L626 (M)
+	  - Code de la santé publique - art. L627 (M)
+	  - Code de la santé publique - art. L628 (Ab)
+	  - Code de la santé publique - art. L628-4 (Ab)
+	  - Code de la santé publique - art. L630 (M)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+
+	**Cité par**:
+
+	  - Loi n°90-1010 du 14 novembre 1990 - art. 13 (M)
+
+
+###### Article L630-2
+
+Les peines prévues au présent chapitre seront portées au double en cas de récidive, dans les conditions de l'article 58 du
+Code pénal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°70-1320 1970-12-31 ART. 2 JORF 3 janvier 1971
+
+	**Abrogé par**:
+
+	  - Loi n°92-1336 du 16 décembre 1992 - art. 223 (V) JORF 23 décembre 1992 en vigueur le 1er septembre 1993
+
+	**Cite**:
+
+	  - Code pénal 58
+	  - Code de la santé publique L626 A L630-2
 
 
 #### Chapitre 2 : Radio-éléments artificiels
@@ -24860,108 +25512,6 @@ public ou rattachés à un établissement public déjà existant.
 
 ##### Section 1 : Composition et fonctionnement.
 
-###### Article L681
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°59-957 du 3 août 1959
-	  - TXT_SOURCE: Décret n°59-957 du 3 août 1959 - art. 6-1 (Ab)
-	  - TXT_SOURCE: Décret n°59-957 du 3 août 1959 - art. 7 (Ab)
-
-	**Cité par**:
-
-	  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
-
-
-###### Article L682
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
-
-
-###### Article L683
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 11 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 12 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 13 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 14 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 15 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 16 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 17 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 18 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 19 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 20 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 21 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 22 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 23 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 24 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 25 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 26 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 27 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 28 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 29 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 7 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°60-805 du 2 août 1960 - art. 9 (Ab)
-
-	**Cité par**:
-
-	  - Loi n°68-690 du 31 juillet 1968 - art. 25 (V)
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
-
-
 ###### Article L684
 
 Les pharmaciens résidents sont nommés par le ministre de la santé publique et de la population [*autorité compétente*].
@@ -25015,6 +25565,80 @@ Les pharmaciens résidents sont nommés par le ministre de la santé publique et
 	**Abrogé par**:
 
 	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+
+
+##### Section 2 : Attributions.
+
+###### Article L686
+
+Les établissements publics nationaux visés à l'article L. 678, l'assistance publique de Paris, l'assistance publique de
+Marseille et les hospices civils de Lyon sont assujettis aux dispositions des articles L. 678, L. 680, L. 684, L. 685, L.
+696, L. 708, L. 709, du dernier alinéa de l'article L. 792 et de l'article L. 851 du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°64-707 1964-07-10 : PORTANT REORGANISATION DE LA REGION PARISIENNE
+	  - SPEC_APPLI: Loi n°70-1318 1970-12-31 ART. 54 : ABROGE L'ARTICLE L686, RETABLI PAR LA LOI 1319 DU 31 DECEMBRE 1970
+	  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972
+	  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°72-360 du 20 avril 1972 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 11 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 12 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 13 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 14 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 15 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 16 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 17 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 18 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 19 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 20 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°72-361 du 20 avril 1972 - art. 9 (V)
+
+	**Cité par**:
+
+	  - Loi n°64-707 du 10 juillet 1964 - art. 7 (V)
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
+	  - Décret n°92-1098 du 2 octobre 1992 - art. 3 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°70-1319 du 31 décembre 1970 - art. 2 () JORF 3 janvier 1970
+
+	**Abrogé par**:
+
+	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L678 (M)
+	  - Code de la santé publique - art. L680 (M)
+	  - Code de la santé publique - art. L684 (Ab)
+	  - Code de la santé publique - art. L685 (M)
+	  - Code de la santé publique - art. L696 (M)
+	  - Code de la santé publique - art. L708 (T)
+	  - Code de la santé publique - art. L709 (T)
+	  - Code de la santé publique - art. L792 (M)
+	  - Code de la santé publique - art. L851 (Ab)
 
 
 #### Chapitre 6 : Autres dispositions financières.
@@ -25296,136 +25920,6 @@ particuliers qui doivent être respectés.
 	**Anciens textes**:
 
 	  - Loi n°41-5060 1941-12-21 ART. 36
-
-
-#### Chapitre 10 : Régimes hospitaliers spéciaux
-
-##### Section 2 : Hospices civils de Lyon.
-
-###### Article L733
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
-
-	**Cité par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
-
-
-##### Section 3 : Assistance publique de Marseille.
-
-###### Article L734
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
-
-	**Cité par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
-
-
-### Titre 1er bis : Mesures générales relatives à l'équipement sanitaire.
-
-###### Article L734-2
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°60-939 du 5 septembre 1960 - art. 3 (Ab)
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
-
-
-###### Article L734-3
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
-
-	**Cité par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
-	  - Décret n°72-923 du 28 septembre 1972 - art. 32 (Ab)
-
-
-###### Article L734-4
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
-
-	**Cité par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
-
-
-###### Article L734-5
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier 1971
-
-	**Cité par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
 
 
 ### Titre 2 : Thermo-climatisme
@@ -29130,90 +29624,6 @@ son avis jusqu'à intervention de la décision du tribunal.
 	**Cité par**:
 
 	  - Décret n°89-822 du 7 novembre 1989 - art. 15 (V)
-
-
-###### Article L838
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L839
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L840
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L841
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L842
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L843
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article L844
-
-(article abrogé).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 ###### Article L845
