@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1989-06-14
+Version Consolidée au 1989-06-24
 
 # Partie législative ancienne
 
@@ -29489,7 +29489,9 @@ dispositions du présent chapitre ou des règlements pris pour son application.
 Les établissements mentionnés au présent paragraphe ne sont pas autorisés à délivrer au public les médicaments vétérinaires
 définis aux articles L. 606 et L. 607 du présent code [*interdiction*], sauf en ce qui concerne les aliments médicamenteux
 fournis aux groupements dans les conditions fixées à l'article L. 612 ou aux éleveurs sur prescription d'un docteur
-vétérinaire dans des conditions fixées par décret.
+vétérinaire dans des conditions fixées par décret. Le ministre chargé de l'agriculture peut acquérir directement auprès de
+ces établissements et peut faire utiliser par ses agents habilités à cet effet les médicaments vétérinaires et produits
+nécessaires à la réalisation des missions dont il est chargé au titre des dispositions de l'article 214 du code rural.
 
 **Nota:**
 
@@ -29505,7 +29507,11 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°82-1019 1982-12-03 art. 6 JORF 4 décembre 1982
+	  - Loi n°89-412 du 22 juin 1989 - art. 36 () JORF 24 juin 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -29517,6 +29523,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L606 (Ab)
 	  - Code de la santé publique - art. L607 (M)
 	  - Code de la santé publique - art. L612 (M)
+	  - Code rural 214
 
 	**Liens**:
 
@@ -29669,8 +29676,18 @@ autre dénomination [*motif*].
 
 ###### Article L617-4
 
-L'importation des médicaments vétérinaires est subordonnée à une autorisation [*condition*] délivrée par le ministre de la
-santé [*autorité compétente*].
+L'importation des médicaments vétérinaires est subordonnée à une autorisation [*condition*] délivrée par le ministre chargé
+de la santé [*autorité compétente*] ; en ce qui concerne, toutefois, les médicaments vétérinaires d'origine biologique, cette
+autorisation est accordée par le ministre chargé de l'agriculture.
+
+Lorsque l'état sanitaire l'exige, l'importation d'un médicament vétérinaire qui n'a pas fait l'objet d'une autorisation de
+mise sur le marché peut être autorisée par une décision conjointe du ministre chargé de l'agriculture et du ministre chargé
+de la santé ; cette décision fixe les conditions d'utilisation de ces médicaments.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -29679,9 +29696,9 @@ santé [*autorité compétente*].
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°75-409 1975-05-29 art. 2 JORF 30 mai 1975
+	  - Loi n°89-412 du 22 juin 1989 - art. 37 () JORF 24 juin 1989
 
 	**Nouveaux textes**:
 
