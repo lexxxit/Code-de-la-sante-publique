@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1960-03-30
+Version Consolidée au 1960-04-07
 
 # Partie législative ancienne
 
@@ -36428,6 +36428,86 @@ prorogé par le ministre.
 	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
+###### Article R5112-1
+
+Une autorisation d'ouverture est requise pour l'adjonction à une officine d'un établissement de fabrication.
+
+L'officine et l'établissement de fabrication doivent être exploités par la même personne physique ou morale et dans des
+conditions permettant au pharmacien ou aux pharmaciens intéressés d'assurer personnellement la direction effective de
+l'officine et de l'établissement et d'exercer, au moins à l'égard de ce dernier, celles des attributions définies à l'article
+R. 5113-2 qui sont de nature à lui être appliquées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5113-2 (M)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+	**Modifié par**:
+
+	  - Décret n°69-13 1969-01-02 art. 5 JORF 8 janvier 1969
+
+
+###### Article R5112-2
+
+L'exercice de la pharmacie d'officine est incompatible avec l'activité de grossiste-répartiteur ou de dépositaire. Toutefois,
+il peut être dérogé à cette règle par le ministre des affaires sociales en ce qui concerne les départements d'outre-mer, sous
+réserve que l'officine et l'établissement de vente ou distribution en gros soient exploités par la même personne physique ou
+morale et dans des conditions permettant au pharmacien ou aux pharmaciens intéressés d'assurer personnellement la direction
+effective de l'officine et de l'établissement de vente ou distribution en gros et d'exercer, au moins à l'égard de ce
+dernier, celles des attributions définies à l'article R. 5113-2 qui sont de nature à lui être appliquées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5113-2 (M)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+	**Modifié par**:
+
+	  - Décret n°69-13 1969-01-02 art. 6 JORF 8 janvier 1969
+
+
+###### Article R5112-3
+
+Le retrait d'autorisation d'ouverture prévu à l'article L. 598 du code de la santé publique est prononcé par le ministre de
+la santé publique et de la population. Il ne peut intervenir qu'après que l'intéressé ait été invité à fournir toutes
+explications.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L598 (M)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
 ##### Paragraphe 4 : Dispositions d'exécution.
 
 ###### Article R5116
@@ -36455,6 +36535,523 @@ ministre de l'industrie déterminent les modalités d'application des articles R
 	**Modifié par**:
 
 	  - Décret n°60-326 1960-04-05 ART. 4 JORF 7 avril 1960
+
+
+##### Paragraphe 3 : Fonctionnement des établissements
+
+##### 1° Exercice personnel de la profession.
+
+###### Article R5114-1
+
+Le pharmacien fabricant, grossiste-répartiteur ou dépositaire doit exercer personnellement sa profession.
+
+Tout acte pharmaceutique doit être effectué sous la surveillance effective d'un pharmacien qui a rempli les formalités
+prévues à l'article L. 514 du code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°69-13 1969-01-02 art. 11 JORF 8 janvier 1969
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L514 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5114-2 (Ab)
+	  - Code de la santé publique - art. R5114-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-39 (V)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+###### Article R5114-2
+
+Tout pharmacien fabricant, grossiste-répartiteur ou dépositaire doit, après son inscription à l'ordre, faire enregistrer son
+diplôme, conformément à l'article L. 514 du code de la santé publique.
+
+Le diplôme ne peut être enregistré que pour un seul établissement.
+
+En cas de cessation définitive de son activité ou en cas de cessation temporaire supérieure à un an, l'intéressé est tenu,
+sauf cas de force majeure, de demander l'annulation de l'enregistrement de son diplôme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°69-13 1969-01-02 art. 11 JORF 8 janvier 1969
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L514 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5009 (Ab)
+	  - Code de la santé publique - art. R5012 (Ab)
+	  - Code de la santé publique - art. R5114 (Ab)
+	  - Code de la santé publique - art. R5114-1 (Ab)
+	  - Code de la santé publique - art. R5115-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-40 (V)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+###### Article R5114-3
+
+Les pharmaciens mentionnés à l'article R. 5107 doivent être inscrits au tableau de l'ordre correspondant à leur activité ;
+leur diplôme est enregistré à cet effet.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°69-13 1969-01-02 art. 12 JORF 8 janvier 1969
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5107 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-41 (V)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+###### Article R5114-4
+
+Les pharmaciens et les sociétés propriétaires d'une officine et d'un établissement de fabrication dans les conditions prévues
+par les dispositions de l'article R. 5112-1 sont soumis à toutes les obligations imposées au fabricant.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+	**Modifié par**:
+
+	  - Décret n°69-13 1969-01-02 art. 13, art. 14 JORF 8 janvier 1969
+
+	**Liens**:
+
+	  - PEREMPTION: Décret n°98-79 du 11 février 1998 - art. 7 () JORF 13 février 1998
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R5114-5 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique R5112-1
+
+
+###### Article R5114-5
+
+I. - En cas d'absence ou d'empêchement des pharmaciens mentionnés à l'article R. 5107, le remplacement de ceux-ci ne peut
+excéder une année, sauf dans le cas de service national ou de rappel audit service. Dans ce cas la durée sus-indiquée est
+prolongée jusqu'à la cessation de l'empêchement.
+
+II. - Le remplacement des pharmaciens mentionnés au 1° de l'article R. 5107 est assuré dans les conditions ci-après fixées :
+
+Quand le remplacement ne dépasse pas trois mois, l'intéressé se fait remplacer par un pharmacien qu'il désigne et qui
+s'engage par écrit à assurer ledit remplacement. Ce remplaçant peut être l'un des pharmaciens assistants.
+
+Si le remplacement prévu à l'alinéa précédent dépasse quinze jours, l'intéressé doit faire connaître, par lettre recommandée,
+au pharmacien inspecteur régional de la santé et au président du conseil central dont il relève les nom, adresse et qualité
+du pharmacien qui le remplace.
+
+Quand le remplacement dépasse trois mois, il ne peut être assuré que par un pharmacien inscrit à la section D de l'ordre des
+pharmaciens et dont le diplôme a été enregistré pour cette activité. Ce pharmacien est désigné comme à l'alinéa précédent.
+
+III. - Le remplacement des pharmaciens mentionnés au 2° de l'article R. 5107 est assuré dans les conditions ci-après fixées :
+
+L'organe social compétent désigne un pharmacien responsable intérimaire qui doit satisfaire aux mêmes conditions que le
+titulaire et qui est appelé à participer à la gestion ou à la direction générale de la société pendant la durée de son
+intérim. Ce pharmacien est choisi de préférence parmi les pharmaciens ou pharmaciens assistants de la société.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°69-13 1969-01-02 art. 14 JORF 8 janvier 1969
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5107 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5114-4 (P)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R5114-6 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5114-6 (P)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+###### Article R5114-6
+
+En cas de décès du pharmacien fabricant, grossiste-répartiteur ou dépositaire, ou s'il fait l'objet d'une interdiction
+d'exercer, il doit être aussitôt procédé à la désignation d'un pharmacien responsable chargé d'assurer le fonctionnement de
+l'établissement.
+
+Ce pharmacien est désigné soit par les ayants droit du pharmacien décédé ou privé du droit d'exercer, soit par l'organe
+social compétent. Il doit être inscrit à l'ordre des pharmaciens et son diplôme doit être enregistré pour cette activité.
+
+Lorsque la désignation de ce pharmacien est faite à titre provisoire, elle ne peut avoir effet que pour un an au plus.
+
+Les dispositions de l'article R. 5114-5 sont applicables à la situation prévue au présent article dans toute la mesure où
+elles sont de nature à lui être appliquées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°69-13 1969-01-02 art. 15 JORF 8 janvier 1969
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5114-5 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5114-5 (M)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique R5114-7
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+##### 2° Autres obligations relatives au fonctionnement des établissements.
+
+###### Article R5115-1
+
+1° Les établissements visés à l'article L. 596 ne sont pas autorisés à délivrer au public les produits visés aux 1° et 2° de
+l'article L. 512.
+
+Cette disposition ne fait pas obstacle :
+
+1° A ce que les pharmaciens titulaires d'une officine et fabriquant des produits pharmaceutiques conformément aux
+dispositions de l'article R. 5112-1 débitent dans leur officine les spécialités qu'ils préparent ;
+
+2° A ce que les établissements visés à l'article L. 596 vendent directement aux praticiens habilités à les utiliser et en vue
+de l'emploi exclusif par ces praticiens pour leur usage professionnel :
+
+a) Les articles de pansement et de suture chirurgicale ;
+
+b) Les médicaments utilisés en diagnostic médical, en anesthésie, en allergologie ou d'usage dentaire dont la liste sera
+établie par arrêté du ministre de la santé publique et de la population ;
+
+3° A ce que ces mêmes établissements fournissent aux services ou centres procédant à des vaccinations collectives les
+produits nécessaires à ces vaccinations, sur commande écrite du médecin responsable.
+
+4° A ce que les mêmes établissements fournissent aux centres de planification ou d'éducation familiale sur commande écrite du
+pharmacien du centre ou du médecin autorisé par la décision d'agrément, les médicaments produits ou objets contraceptifs que
+les centres distribuent en application de l'article 4 de la loi n° 67-1176 du 28 décembre 1967, modifiée par la loi n°
+74-1026 du 4 décembre 1974.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Loi n°67-1176 du 28 décembre 1967 - art. 4 (M)
+	  - Loi n°74-1026 1974-12-04
+	  - Code de la santé publique - art. L512 (M)
+	  - Code de la santé publique - art. L596 (M)
+	  - Code de la santé publique L596, L512, R5112-1
+
+	**Modifié par**:
+
+	  - Décret n°80-756 du 18 septembre 1980 - art. 4 () JORF 27 septembre 1980
+	  - Décret n°62-509 1962-04-13 art. 2 JORF 19 avril 1962
+	  - Décret n°63-1227 1963-12-07 art. 1 JORF 13 décembre 1963
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5056 (Ab)
+	  - Code de la santé publique - art. R5104-106 (Ab)
+	  - Code de la santé publique - art. R5104-107 (Ab)
+	  - Code de la santé publique - art. R5201-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-42 (V)
+	  - Code de la santé publique - art. R5124-43 (V)
+	  - Code de la santé publique - art. R5124-44 (V)
+	  - Code de la santé publique - art. R5124-45 (V)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+###### Article R5115-2
+
+Pour chaque établissement de fabrication, le nombre de pharmaciens assistants prévus à l'article L. 600 2° du code de la
+santé publique est fixé comme suit, en fonction de l'effectif du personnel défini à l'article R. 5115-4 ci-dessous :
+
+Un pharmacien assistant pour un effectif de 20 à 35 ouvriers et employés ;
+
+Un deuxième pharmacien assistant pour un effectif de 36 à 75 ouvriers et employés ;
+
+Un troisième pharmacien assistant pour un effectif de 76 à 115 ouvriers et employés, et ainsi de suite par effectif de 40
+ouvriers et employés supplémentaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 12 avril 1999
+	  - TXT_SOURCE: Arrêté du 12 avril 1999 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 12 avril 1999 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 12 avril 1999 - art. 3 (Ab)
+
+	**Cité par**:
+
+	  - Arrêté du 12 avril 1999 - art. 1 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L600 (M)
+	  - Code de la santé publique - art. R5115-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-46 (V)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+###### Article R5115-3
+
+Pour chaque établissement mentionné aux deuxième et troisième alinéas de l'article R. 5106, le nombre de pharmaciens
+assistants est fixé comme suit, en fonction de l'effectif du personnel défini à l'article R. 5115-4 ci-dessous :
+
+Un pharmacien assistant pour un effectif de 40 à 100 ouvriers et employés ;
+
+Un deuxième pharmacien assistant pour un effectif de 101 à 175 ouvriers et employés ;
+
+Un troisième pharmacien assistant pour un effectif de 176 à 275 ouvriers et employés et ainsi de suite par effectif de 100
+ouvriers et employés supplémentaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°69-13 1969-01-02 art. 16 JORF 8 janvier 1969
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5106 (M)
+	  - Code de la santé publique - art. R5115-4 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5234 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+###### Article R5115-4
+
+Pour la computation de l'effectif des personnels visés aux articles R. 5115-2 et R. 5115-3 ci-dessus, il est tenu compte des
+personnes qui se livrent aux opérations suivantes :
+
+Achat et contrôle de matières premières ;
+
+Opérations de fabrication ;
+
+Contrôle des produits terminés ;
+
+Préparation des commandes en vue de la livraison aux pharmaciens ;
+
+Magasinage, vente et délivrance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5115-2 (M)
+	  - Code de la santé publique - art. R5115-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-47 (V)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+###### Article R5115-5
+
+Tout pharmacien assistant doit être inscrit à l'ordre des pharmaciens et faire enregistrer son diplôme pour cette activité.
+
+En cas d'absence supérieure à deux mois, il en est donné avis par l'employeur à l'inspecteur divisionnaire de la santé
+(inspection de la pharmacie) et au conseil central de l'ordre et il est pourvu par ledit employeur au remplacement de
+l'intéressé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-48 (V)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+###### Article R5115-6
+
+Les établissements visés à l'article L. 596 du code de la santé publique doivent fonctionner dans des conditions offrant
+toutes garanties pour la santé publique. Ils doivent posséder notamment :
+
+Des locaux aménagés, agencés et entretenus en fonction des opérations pharmaceutiques qui y sont effectuées ;
+
+Le matériel, les moyens et le personnel nécessaires à l'exercice de ces activités.
+
+Les grossistes-répartiteurs doivent posséder un stock de médicaments suffisant pour assurer l'approvisionnement des officines
+intéressées. La nature et l'importance de ce stock sont fixées par arrêté conjoint du ministre de la santé publique et de la
+population, du ministre de l'industrie et du ministre des finances et des affaires économiques.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L596 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5115-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-49 (V)
+	  - Code de la santé publique - art. R5124-50 (V)
+	  - Code de la santé publique - art. R5124-51 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
+
+
+###### Article R5115-7
+
+Les pharmaciens fabricants doivent pouvoir justifier, à tout moment, que tous les produits qu'ils utilisent, préparent et
+délivrent sont conformes aux caractéristiques auxquelles ils doivent répondre et qu'il a été procédé aux contrôles
+nécessaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5098-1 (M)
+	  - Code de la santé publique - art. R5115-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-52 (V)
+
+	**Créé par**:
+
+	  - Décret n°60-326 1960-04-05 art. 4 JORF 7 avril 1960
 
 
 ##### Section 2 : Spécialités pharmaceutiques
