@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1959-02-08
+Version Consolidée au 1959-03-06
 
 # Partie législative ancienne
 
@@ -32324,20 +32324,6 @@ motifs énumérés à l'article 378 du code de procédure civile.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R4234-28 (T)
-
-
-###### Article R*5044
-
-Il est interdit à un pharmacien frappé d'une peine d'interdiction d'exercer la pharmacie, d'occuper dans l'officine ou
-l'établissement dont il était responsable ou auquel il était attaché, une fonction quelconque, même subalterne et même non
-rétribuée.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 ##### Section 2 : Déontologie pharmaceutique
