@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1985-09-12
+Version Consolidée au 1985-11-21
 
 # Partie législative ancienne
 
@@ -47407,16 +47407,7 @@ c) La composition intégrale du médicament soit par unité de prise, soit par u
 usuels à l'exclusion des formules chimiques brutes, avec recours à la dénomination commune internationale des composants,
 chaque fois que celle-ci a été recommandée par l'Organisation mondiale de la santé ;
 
-d) La forme pharmaceutique, les mode et voie d'administration ;
-
-e) Les indications thérapeutiques proposées, contre-indications et effets secondaires ;
-
-f) La posologie usuelle ;
-
-g) La durée de conservation proposée.
-
-La demande peut être accompagnée d'un projet de fiche signalétique destinée à être diffusée auprès des médecins, après
-approbation par le ministre chargé de la santé et délivrance de l'autorisation de mise sur le marché.
+La demande est accompagnée d'un résumé des caractéristiques du produit défini à l'article R. 5128-1.
 
 Sans préjudice de l'application de la législation relative aux marques de fabrique, de commerce et de service, le nom de
 fantaisie mentionné en b ci-dessus doit être choisi de façon à éviter toute confusion avec d'autres médicaments et ne pas
@@ -47424,16 +47415,9 @@ induire en erreur sur la qualité ou les propriétés de la spécialité.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
 	**Modifié par**:
 
-	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-	  - Décret n°78-988 1978-09-20 ART. 6 JORF 6 octobre 1978
-	  - Décret n°60-326 1960-04-05 ART. 10 JORF 7 avril 1960
+	  - Décret n°85-1216 1985-10-30 art. 1 JORF 21 novembre 1985
 
 	**Cité par**:
 
@@ -47452,6 +47436,82 @@ induire en erreur sur la qualité ou les propriétés de la spécialité.
 	  - Code de la santé publique - art. R5138 (Ab)
 	  - Code de la santé publique - art. R5143 (M)
 	  - Code de la santé publique - art. R5144-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5128-1 (T)
+
+
+###### Article R5128-1
+
+Le résumé des caractéristiques du produit comporte les renseignements suivants :
+
+a) Dénomination de la spécialité ;
+
+b) Forme pharmaceutique ;
+
+c) Composition qualitative et quantitative en principes actifs et en constituants de l'excipient dont la connaissance est
+nécessaire à une bonne administration du médicament, en utilisant les dénominations communes internationales lorsqu'elles
+existent ou, à défaut, les dénominations de la pharmacopée européenne ou française ;
+
+d) Nom ou raison sociale et domicile ou siège social du demandeur de l'autorisation de mise sur le marché ;
+
+e) Nature du récipient ;
+
+f) Conditions de délivrance au public ;
+
+g) Durée de stabilité, si nécessaire après reconstitution du produit ou lorsque le récipient est ouvert pour la première
+fois ;
+
+h) Précautions particulières de conservation ;
+
+i) Incompatibilités majeures chimiques ou physiques ;
+
+j) Propriétés pharmacologiques et, dans la mesure ou ces renseignements sont utiles pour l'utilisation thérapeutique,
+éléments de pharmacocinétique ;
+
+k) Indications thérapeutiques ;
+
+l) Effets indésirables (fréquence et gravité) ;
+
+m) Mises en garde spéciales ;
+
+n) Contre-indications ;
+
+o) Précautions particulières d'emploi, notamment en cas de grossesse et d'allaitement, d'utilisation par des enfants ou des
+personnes âgées et dans des circonstances pathologiques particulières ;
+
+p) Effets sur la capacité de conduire des véhicules ou d'utiliser des machines ;
+
+q) Interactions médicamenteuses et autres ;
+
+r) Posologie et mode d'administration ;
+
+s) Surdosage : symptômes, conduite d'urgence, antidotes ;
+
+t) Date d'établissement du résumé des caractéristiques du produit.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-1216 1985-10-30 art. 2 JORF 21 novembre 1985
+
+	**Cité par**:
+
+	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
+	  - Code de la santé publique - art. R5049 (M)
+	  - Code de la santé publique - art. R5052-1 (M)
+	  - Code de la santé publique - art. R5128 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-22 (V)
+	  - Code de la santé publique - art. R5128-2 (M)
+
+	**Transféré par**:
+
+	  - Décret n°94-19 1993-12-31 art. 9 JORF 9 janvier 1994
 
 
 ###### Article R5129
@@ -47726,29 +47786,21 @@ toxicologiques, pharmacologiques et cliniques.
 
 ###### Article R5135
 
-L'autorisation de mise sur le marché est accordée par le ministre chargé de la santé [*autorité compétente*]. Avant de
-prendre sa décision, le ministre peut ordonner toute mesure d'instruction qu'il juge nécessaire.
+L'autorisation de mise sur le marché est accordée par le ministre chargé de la santé [*autorité compétente*]; elle est
+accompagnée du résumé des caractéristiques du produit mentionné à l'article R. 5128, tel qu'il est approuvé par le ministre.
+Avant de prendre sa décision, le ministre peut ordonner toute mesure d'instruction qu'il juge nécessaire.
 
 Le ministre se prononce dans un délai de cent vingt jours à compter de la date de présentation du dossier complet. A titre
-exceptionnel, ce délai peut être prorogé une fois de quatre-vingt-dix jours.
+exceptionel, ce délai peut être prorogé une fois de quatre vingt dix jours.
 
-Lorsque le ministre a recours à la faculté que lui confère l'article 5134 (e) [*demande de complément du dossier*], ces
+Lorsque le ministre a recours à la faculté que lui confère l'article R. 5134 (e) [*demande de complément de dossier*], ces
 délais sont suspendus jusqu'à ce que les informations complémentaires requises aient été fournies.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-
 	**Modifié par**:
 
-	  - Décret n°78-988 1978-09-20 ART. 11 JORF 6 octobre 1978
+	  - Décret n°85-1216 1985-10-30 art. 3 JORF 21 novembre 1985
 
 	**Cité par**:
 
@@ -47763,7 +47815,37 @@ délais sont suspendus jusqu'à ce que les informations complémentaires requise
 
 	**Cite**:
 
-	  - Code de la santé publique R5134 e
+	  - Code de la santé publique - art. R5128 (M)
+
+
+###### Article R5135-1
+
+Le titulaire de l'autorisation de mise sur le marché doit [*obligations*], après la délivrance de l'autorisation, modifier
+les méthodes de contrôle prévus au b) de l'article R. 5129 en fonction des progrès de la science et de l'évolution des
+techniques, de façon que la spécialité pharmaceutique soit contrôlée suivant les méthodes scientifiques généralement
+acceptées.
+
+Il soumet ces modifications des méthodes de contrôle à l'approbation du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°85-1216 1985-10-30 art. 4 JORF 21 novembre 1985
+
+	**Cité par**:
+
+	  - Décret n°96-653 du 16 juillet 1996 - art. 1 (Ab)
+	  - Décret n°2000-1194 du 5 décembre 2000 - art. 1 (Ab)
+	  - Décret n°2004-651 du 2 juillet 2004 - art. 1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-37 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5129 (M)
 
 
 ###### Article R5136
@@ -47818,16 +47900,17 @@ La décision de rejet doit être motivée et elle doit mentionner les voies et d
 
 ###### Article R5136-1
 
-Lorsque la demande a été présentée par l'intermédiaire du comité des spécialités pharmaceutiques institué par l'article 8 de
-la directive n° 75/319 du conseil des communautés européennes et en application de l'article 9 de cette directive :
+Lorsque la demande a été présentée en vue de l'extension en France d'une autorisation de mise sur le marché obtenue dans un
+autre pays membre de la Communauté économique européenne le ministre accorde l'autorisation ou fait usage de son droit
+d'opposition dans un délai de cent vingt jours à compter de la date qui lui est notifiée par le comité des spécialités
+pharmaceutiques [*point de départ*] institué par l'article 8 de la directive 75/319/C.E.E. du Conseil des communautés
+européennes.
 
-1° La notification à ce comité d'une éventuelle opposition à l'octroi de l'autorisation de mise sur le marché doit être faite
-dans les cent vingt jours [*délai*] suivant la date de transmission du dossier au ministre chargé de la santé ;
+Si le ministre estime ne pas pouvoir accorder l'autorisation de mise sur le marché, il transmet son opposition motivée au
+comité et au responsable de la mise sur le marché de la spécialité pharmaceutique.
 
-2° Le ministre doit statuer sur la demande d'autorisation de mise sur le marché dans les trente jours suivant la date à
-laquelle ledit "comité des spécialités pharmaceutiques" l'a informé soit de l'absence de toute opposition à l'octroi de
-l'autorisation, soit de l'avis qu'il a été amené à prendre à la suite d'oppositions formulées par un ou plusieurs Etats
-membres des communautés européennes.
+Après réception de l'avis du comité le ministre prononce sur la suite à donner à cet avis dans un délai de soixante jours et
+informe le comité de sa décision.
 
 **Liens relatifs à cet article**
 
@@ -47835,36 +47918,49 @@ membres des communautés européennes.
 
 	  - CEE DIRECTIVE 319 1975 ART. 8, ART. 9 CONSEIL
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
+	  - Décret n°85-1216 1985-10-30 art. 5 JORF 21 novembre 1985
+
+
+###### Article R5136-2
+
+Lorsque le titulaire d'une autorisation de mise sur le marché obtenue en France demande l'extension de cette autorisation
+dans au moins deux autres Etats membres des communautés européennes, il en informe le ministre chargé de la santé et lui
+transmet les éventuels compléments au dossier de la demande d'origine sur laquelle le ministre a statué. Il fournit, à la
+demande du ministre, tous renseignements et documents permettant d'établir l'identité des dossiers de demandes introduites
+auprès desdits Etats membres avec le dossier de la demande d'origine.
+
+Lorsque le titulaire d'une autorisation de mise sur le marché mentionné au premier alinéa du présent article reçoit une
+opposition de l'autorité compétente d'un autre Etat membre de la Communauté économique européenne il transmet immédiatement
+copie de sa demande au comité mentionné à l'article R. 5136-1.
+
+**Liens relatifs à cet article**
 
 	**Créé par**:
 
-	  - Décret n°78-988 1978-09-20 ART. 12 JORF 6 octobre 1978
+	  - Décret n°85-1216 1985-10-30 art. 6 JORF 21 novembre 1985
+
+	**Cite**:
+
+	  - Code de la santé publique R5136-1
 
 
 ###### Article R5137
 
-L'autorisation de mise sur le marché est renouvelable sur demande du titulaire présentée au plus tard quatre-vingts jours
-[*délai*] avant la date d'expiration.
+L'autorisation de mise sur le marché est renouvelable sur demande du titulaire présentée au plus tard trois mois avant la
+date d'expiration [*délai*].
 
 Elle n'est renouvelée que si le titulaire de l'autorisation de mise sur le marché atteste qu'à sa connaissance aucune
 modification ne serait intervenue dans les éléments produits à l'appui de la demande d'autorisation.
 
 L'autorisation n'est pas renouvelée si l'effet thérapeutique fait défaut.
 
-Si aucune décision n'est notifiée ou si aucune demande de justification complémentaire n'est adressée au demandeur dans un
-délai de quatre-vingts jours suivant la réception de sa demande, l'autorisation est considérée comme renouvelée à
-l'expiration de ce délai [*accord tacite*].
+Si aucune décision n'est notifiée ou si aucune demande de justification complémentaire n'est adressée au demandeur à la date
+d'expiration de l'autorisation de mise sur le marché, l'autorisation est considérée comme renouvelée à cette date [*accord
+tacite*].
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 	**Cité par**:
 
@@ -47875,13 +47971,9 @@ l'expiration de ce délai [*accord tacite*].
 	  - Décret n°2004-651 du 2 juillet 2004 - art. 1 (Ab)
 	  - Code de la santé publique - art. R5140 (Ab)
 
-	**Créé par**:
-
-	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-
 	**Modifié par**:
 
-	  - Décret n°78-988 1978-09-20 ART. 2 JORF 6 octobre 1978
+	  - Décret n°85-1216 1985-10-30 art. 7 JORF 21 novembre 1985
 
 	**Anciens textes**:
 
@@ -48279,26 +48371,26 @@ Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat.
 
 ###### Article R5143
 
-Sans préjudice des mentions exigées par d'autres dispositions législatives et réglementaires, l'étiquetage du récipient et du
-conditionnement d'une spécialité doivent porter les indications suivantes en caractères suffisamment lisibles [*mentions
-obligatoires*] :
+1°) Sans préjudice des mentions exigées par d'autres dispositions législatives et réglementaires, l'étiquetage du récipient
+et du conditionnement d'une spécialité doivent porter les indications suivantes en caractères suffisamment lisibles
+[*mentions obligatoires*] :
 
 a) La dénomination spéciale prévue à l'article L. 601 et à l'article R. 5128 du présent code ; lorsque la dénomination
 spéciale est un nom de fantaisie et que la spécialité ne comporte qu'un principe actif, la dénomination commune
-internationale recommandée par l'Organisation mondiale de la santé et, dans le cas où elle serait utile à la connaissance du
-produit, la dénomination scientifique doivent figurer en caractères très apparents immédiatement au-dessous du nom de
-fantaisie ;
+internationale quand elle existe, ou dans le cas contraire, celle de la pharmacopée européenne ou française, ou à défaut, et
+dans le cas où elle serait utile à la connaissance du produit, la dénomination scientifique du principe actif doivent figurer
+en caractères très apparents immédiatement au-dessous du nom de fantaisie ;
 
 b) La forme pharmaceutique, indication qui peut ne figurer que sur l'emballage extérieur ;
 
-c) La composition qualitative et quantitative en principes actifs par unité de prise ou en pourcentage suivant la forme
-pharmaceutique ; les dénominations communes internationales recommandées par l'Organisation mondiale de la santé doivent être
-employées chaque fois qu'elles existent ;
+c) La composition qualitative et quantitative en principes actifs par unité de prise ou, selon la forme d'administration,
+pour un volume ou un poids déterminés en utilisant les dénominations communes internationales lorsqu'elles existent ou, à
+défaut, celles de la pharmacopée européenne ou française ;
 
 d) Le mode d'administration ;
 
-e) La date limite d'utilisation, accompagnée, chaque fois que nécessaire, d'une mention précisant que cette date n'est
-valable que pour les médicaments dont le conditionnement n'a pas été ouvert et qui sont conservés dans des conditions
+e) La date limite d'utilisation en clair accompagnée, chaque fois que nécessaire, d'une mention précisant que cette date
+n'est valable que pour les médicaments dont le conditionnement n'a pas été ouvert et qui sont conservés dans des conditions
 convenables ;
 
 f) Le nom et l'adresse du responsable de la mise sur le marché et, lorsque celui-ci ne fabrique pas la spécialité
@@ -48313,45 +48405,41 @@ extérieur ;
 
 j) Les précautions particulières de conservation.
 
-Les mentions complémentaires précisées ci-après devront obligatoirement figurer sur une notice jointe au conditionnement de
-la spécialité pharmaceutique, si elles ne sont pas portées sur l'étiquetage :
+2° Lorsqu'une notice est jointe au conditionnement, elle doit comporter au moins les indications suivantes :
 
-Toutes indications relatives à l'utilisation de la spécialité pharmaceutique, telles que voie d'administration, durée du
+a) Nom ou raison sociale et domicile ou siège social du responsable de la mise sur le marché et, le cas échéant, du
+fabricant ;
+
+b) Dénomination et composition qualitative et quantitative de la spécialité pharmaceutique en principes actifs, en utilisant
+les dénominations communes internationales lorsqu'elles existent ou à défaut celles de la pharmacopée européenne ou
+française ;
+
+c) Toute indication relatives à l'utilisation de la spécialité pharmaceutique, telle que voie d'administration, durée du
 traitement lorsqu'elle doit être limitée, posologie usuelle ;
 
-Sauf décision contraire des autorités compétentes, les indications thérapeutiques, contre-indications, effets secondaires et
-précautions particulières d'emploi déterminées lors de l'autorisation de mise sur le marché ou à la suite de l'expérience
+d) Sauf décision contraire des autorités compétentes, les indications thérapeutiques, contre-indications, effets secondaires
+et précautions particulières d'emploi déterminées lors de l'autorisation de mise sur le marché ou à la suite de l'expérience
 acquise.
 
-Lorsqu'une spécialité est présentée en ampoules, les indications répondant aux dispositions précédentes doivent être
+3° La notice est obligatoire si les précisions mentionnées au c et d du 2° ci-dessus ne sont pas portées sur l'étiquetage du
+récipient et du conditionnement.
+
+4° Lorsqu'une spécialité est présentée en ampoules, les indications répondant aux dispositions précédentes doivent être
 mentionnées sur les emballages extérieurs.
 
 Les ampoules peuvent ne porter que les indications suivantes :
 
-La dénomination spéciale ;
+a) La dénomination spéciale ;
 
-Le numéro du lot de fabrication et la date de péremption et, sauf dérogations accordées par le ministre chargé de la santé,
-la composition quantitative en principes actifs et la voie d'administration.
+b) Le numéro du lot de fabrication et la date de péremption et, sauf dérogations accordées par le ministre chargé de la
+santé, la composition quantitative en principes actifs et la voie d'administration.
 
-Des arrêtés du ministre chargé de la santé détermineront, s'il y a lieu, les conditions particulières d'application du
+5° Des arrêtés du ministre chargé de la santé détermineront, s'il y a lieu, les conditions particulières d'application du
 présent article en ce qui concerne notamment les mentions à porter sur le conditionnement des spécialités pharmaceutiques
 destinées aux établissements hospitaliers et les signes distinctifs à faire figurer sur le conditionnement ou l'étiquette des
 médicaments lorsqu'il est nécessaire de signaler à l'attention des utilisateurs des précautions d'emploi à respecter.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
-
-	**Modifié par**:
-
-	  - Décret n°76-807 1976-08-24 ART. 6 JORF 26 août 1976
 
 	**Cité par**:
 
@@ -48366,6 +48454,10 @@ médicaments lorsqu'il est nécessaire de signaler à l'attention des utilisateu
 	  - Code de la santé publique - art. R5143-2 (Ab)
 	  - Code de la santé publique - art. R5143-3 (Ab)
 	  - Code de la santé publique - art. R5144-26 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°85-1216 1985-10-30 art. 8 JORF 21 novembre 1985
 
 	**Liens**:
 
