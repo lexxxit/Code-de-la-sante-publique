@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1977-05-05
+Version Consolidée au 1977-05-18
 
 # Partie législative ancienne
 
@@ -5539,106 +5539,6 @@ immédiatement les parents.
 	**Cite**:
 
 	  - Code de la santé publique - art. L166 (M)
-
-
-##### Section 3 : Placement de l'enfant en nourrice ou en garde
-
-##### Paragraphe 1 : Conditions exigées des nourrices ou gardiennes.
-
-###### Article L169
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°62-840 du 19 juillet 1962 - art. 1 (Ab)
-	  - Décret n°62-840 du 19 juillet 1962 - art. 11 (Ab)
-	  - Décret n°72-532 du 29 juin 1972 - art. 4 (V)
-	  - Décret n°78-474 du 29 mars 1978 - art. 9 (Ab)
-	  - Arrêté du 5 novembre 1975 - art. 19 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°77-505 1977-05-17 art. 5 JORF 18 mai 1977
-
-
-###### Article L170
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L167 (Ab)
-
-	**Abrogé par**:
-
-	  - Loi n°77-505 1977-05-17 art. 5 JORF 18 mai 1977
-
-
-##### Paragraphe 2 : Déclarations obligatoires en cas de placement de l'enfant en nourrice ou en garde.
-
-###### Article L172
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Loi n°77-505 1977-05-17 art. 5 JORF 18 mai 1977
-
-
-###### Article L173
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Loi n°77-505 1977-05-17 art. 5 JORF 18 mai 1977
-
-
-##### Paragraphe 3 : Salaire des nourrices ou gardiennes.
-
-###### Article L175
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Loi n°77-505 1977-05-17 art. 5 JORF 18 mai 1977
 
 
 #### Chapitre 5 : Du contrôle de certains établissements
