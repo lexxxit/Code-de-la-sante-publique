@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1985-05-11
+Version Consolidée au 1985-07-26
 
 # Partie législative ancienne
 
@@ -10201,16 +10201,26 @@ anticancéreux relevant de l'assistance publique dans les villes où cette admin
 
 ###### Article L326
 
-Le dépistage et la prophylaxie des maladies mentales et déficiences mentales et de l'alcoolisme, ainsi que la postcure des
-malades ayant fait l'objet de soins psychiatriques ou de cures antialcooliques, sont assurés par des dispensaires d'hygiène
-mentale fonctionnant dans le cadre des services départementaux d'hygiène sociale.
+La lutte contre les maladies mentales comporte des actions de prévention, de diagnostic et de soins.
+
+A cet effet, exercent leurs missions dans le cadre de circonscriptions géographiques, appelées secteurs psychiatriques
+[*dénomination*], les établissements assurant le service public hospitalier, les services dépendant de l'Etat, ainsi que
+toute personne de droit public ou privé ayant passé avec l'Etat une convention précisant les objectifs poursuivis, les
+catégories de bénéficiaires, les moyens mis en oeuvre et, le cas échéant, les relations avec les autres organismes agissant
+dans le domaine de la santé mentale.
+
+Il est institué un conseil départemental de santé mentale qui comprend [*composition*] notamment des représentants de l'Etat,
+des collectivités territoriales, des caisses d'assurance maladie, des représentants des personnels de santé mentale, des
+établissements d'hospitalisation publics ou privés.
+
+Dans chaque département, le nombre, la configuration des secteurs psychiatriques, la planification des équipements comportant
+ou non des possibilités d'hospitalisation nécessaires à la lutte contre les maladies mentales sont déterminés, après avis du
+conseil départemental de santé mentale, conformément aux dispositions des articles 5, 31, 44, 47, et 48 de la loi n° 70-1318
+du 31 décembre 1970 portant réforme hospitalière.
+
+Les conditions d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
 	**Cité par**:
 
@@ -10242,6 +10252,17 @@ mentale fonctionnant dans le cadre des services départementaux d'hygiène socia
 	  - Code de la santé publique - art. R713-9 (T)
 	  - Code de la sécurité sociale. - art. L174-11 (M)
 	  - Code de la sécurité sociale. - art. L174-12 (M)
+
+	**Cite**:
+
+	  - Loi n°70-1318 1970-12-31 art. 5, art. 31, art. 44, art. 47, art. 48
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 47 (M)
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 48 (M)
+	  - Loi n°70-1318 du 31 décembre 1970 - art. 5 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
 
 	**Liens**:
 
@@ -11750,11 +11771,458 @@ de ces peines.
 	  - Code de la santé publique - art. L353-4 (Ab)
 
 
-### TITRE 5 : TRAITEMENT DES ALCOOLIQUES DANGEREUX POUR AUTRUI.
+### Titre 5 : Lutte contre l'alcoolisme.
 
 ###### Article L355-1
 
-Tout alcoolique dangereux pour autrui est placé sous la surveillance de l'autorité sanitaire [*obligation*].
+L'Etat organise et coordonne la prévention et le traitement de l'alcoolisme, sans préjudice du dispositif prévu à l'article
+L. 326 du présent code.
+
+Les dépenses entraînées par l'application du présent article sont à la charge de l'Etat sans préjudice de la participation
+des régimes d'assurance maladie aux dépenses de soins.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 26 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Décret n°62-840 du 19 juillet 1962 - art. 8-1 (Ab)
+	  - Décret n°86-602 du 14 mars 1986 - art. 11 (Ab)
+	  - Décret n°88-279 du 24 mars 1988 - art. 16 (Ab)
+	  - Décret n°98-1229 du 29 décembre 1998 - art. 6 (Ab)
+	  - Code de la santé publique - art. R715-1-1 (M)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L326 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L3311-1 (M)
+	  - Code de la santé publique - art. L3822-2 (V)
+
+
+#### Chapitre 1 : Dépistage et surveillance sanitaire des alcooliques dangereux.
+
+###### Article L355-2
+
+Tout alcoolique présumé dangereux doit être signalé à l'autorité sanitaire par les autorités judiciaires ou administratives
+compétentes dans les deux cas suivants :
+
+Lorsque, à l'occasion de poursuites judiciaires, il résultera de l'instruction ou des débats des présomptions graves,
+précises et concordantes permettant de considérer la personne poursuivie comme atteinte d'intoxication alcoolique ;
+
+Sur le certificat d'un médecin des dispensaires, des organismes d'hygiène sociale, des hôpitaux, des établissements
+psychiatriques.
+
+L'autorité sanitaire peut également se saisir d'office à la suite du rapport d'une assistante sociale, lorsque celle-ci se
+sera rendu compte du danger qu'un alcoolique fait courir à autrui.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 26 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°54-439 du 15 avril 1954 - art. 2 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°75-544 du 30 juin 1975 - art. ANNEXE (M)
+	  - Code de l'environnement - art. R*223-10 (Ab)
+	  - Code rural - art. L223-21 (Ab)
+	  - Code rural - art. R*223-10 (Ab)
+	  - Code rural ancien - art. 367 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L355-3
+
+L'autorité sanitaire, saisie du cas d'un alcoolique signalé comme dangereux, fait procéder à une enquête complémentaire sur
+la vie familiale, professionnelle et sociale et, simultanément, à un examen médical complet de l'intéressé. Chaque fois que
+le maintien en liberté de l'alcoolique paraît possible, l'autorité sanitaire essaie par la persuasion de l'amener à
+s'amender. A cet effet, l'intéressé est placé sous la surveillance des dispensaires d'hygiène sociale ou des formations
+sanitaires diverses relevant d'organismes publics ou privés secondés par les sociétés antialcooliques reconnues d'utilité
+publique.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 26 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°54-439 du 15 avril 1954 - art. 3 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la consommation des boissons et des mesure - art. L83 (Ab)
+	  - Code de la santé publique - art. L355-10 (Ab)
+	  - Code de la santé publique - art. L355-11 (Ab)
+	  - Code de la santé publique - art. L355-4 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L355-10 : SANCTION
+
+
+#### Chapitre 2 : Modalités du traitement.
+
+###### Article L355-4
+
+Quand le maintien en liberté ne paraît pas possible ou en cas d'échec de la tentative de persuasion prévue à l'article L.
+355-3, et sur la requête d'une commission médicale, l'alcoolique estimé dangereux par elle peut être cité par le procureur de
+la République devant le tribunal de grande instance siégeant en chambre du conseil.
+
+Le tribunal, s'il reconnaît que l'alcoolique est dangereux, peut ordonner son placement dans l'un des établissements visés à
+l'article L. 355-7. Dans le mois de la signification de cette décision, l'appel pourra être interjeté devant la cour d'appel
+statuant en chambre du conseil. L'appel n'est pas suspensif.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 26 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°54-439 du 15 avril 1954 - art. 4 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°75-544 du 30 juin 1975 - art. ANNEXE (M)
+	  - Code de l'environnement - art. R*223-10 (Ab)
+	  - Code de la santé publique - art. L355-11 (Ab)
+	  - Code de la santé publique - art. L355-5 (Ab)
+	  - Code de la santé publique - art. L355-6 (Ab)
+	  - Code des débits de boissons et des mesures contre  - art. L90 (Ab)
+	  - Code rural - art. R*223-10 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L355-3 (Ab)
+	  - Code de la santé publique - art. L355-7 (Ab)
+
+
+###### Article L355-5
+
+Lorsqu'un alcoolique reconnu dangereux est en même temps atteint de troubles mentaux susceptibles de motiver son placement
+dans un hôpital psychiatrique, il lui est fait application des dispositions du chapitre II du titre IV du présent livre ainsi
+que des articles 31 à 40 de la loi du 30 juin 1838 non repris dans le présent code.
+
+Toutefois, dès que le passage de l'internement volontaire ou d'office prévu par ledit chapitre au placement dans un centre de
+rééducation pour alcooliques est jugé possible par le médecin chef du service, l'autorité sanitaire est saisie et soumet le
+cas à l'avis de la commission médicale. Il est, ensuite, procédé conformément aux dispositions de l'article L. 355-4.
+
+Lorsque l'alcoolique reconnu dangereux se trouve être détenu, pour une raison quelconque, le placement dans un centre de
+rééducation spécialisé a lieu à l'expiration de la détention.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 26 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte sous réserve des dispositions de l'article 27.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°1838-06-30 ART. 31 A 40
+	  - Code de la santé publique - art. L355-4 (Ab)
+	  - Code de la santé publique L326-2 A L332, L355-4
+
+	**Anciens textes**:
+
+	  - Loi n°54-439 du 15 avril 1954 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L355-6
+
+Le placement est ordonné pour six mois. Il peut, dans les conditions prévues à l'article L. 355-4, être prolongé pour de
+nouvelles périodes inférieures ou égales à six mois. Il prend fin dès que la guérison paraît obtenue.
+
+Pendant la durée de placement, des sorties d'essai pourront être autorisées par le médecin chef du centre de rééducation.
+
+L'alcoolique peut toujours demander à la commission médicale du lieu de placement à comparaître à nouveau devant le tribunal,
+en vue de mettre fin au placement.
+
+La commission doit, dans la quinzaine de la réception de la demande, la transmettre avec son avis motivé au procureur de la
+République, qui saisit immédiatement le tribunal dans le ressort duquel se trouve le centre de rééducation spécialisé, dans
+les conditions prévues à l'article L. 355-4.
+
+A sa sortie de l'établissement de cure, l'intéressé demeurera, pendant un an, sous la surveillance d'un dispensaire d'hygiène
+mentale ou, à défaut, d'hygiène sociale.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 26 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°54-439 du 15 avril 1954 - art. 7 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L355-4 (Ab)
+
+
+#### Chapitre 3 : Etablissements de soins.
+
+###### Article L355-7
+
+Dans un délai de six mois à compter de la publication du décret en Conseil d'Etat prévu à l'article L. 355-11, des centres de
+rééducation pour alcooliques devront être constitués par des sections spéciales créées ou aménagées auprès des hôpitaux
+existants. Dans tous les cas, ils seront dotés d'un régime particulier et adaptés à leur mission de rééducation. 
+
+Dans un délai de deux ans à compter de ladite publication, il sera créé des "centres de rééducation spécialisés" ayant pour
+but :
+
+La désintoxication des alcooliques et leur rééducation ;
+
+L'isolement de ceux d'entre eux qui constituent un danger pour eux-mêmes ou pour autrui.
+
+Un décret en Conseil d'Etat déterminera les cas dans lesquels les départements seront tenus, avec l'aide de l'Etat, de
+prendre des mesures nécessaires pour permettre le placement des alcooliques dangereux dans l'un des établissements visés au
+présent article, soit en procédant eux-mêmes, dans un établissement départemental, aux constructions et aménagements
+nécessaires, soit en créant, à cet effet, un établissement départemental, soit en traitant avec un établissement public ou
+privé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cité par**:
+
+	  - CODE GENERAL DES IMPOTS, CGI. - art. 1825 A (M)
+	  - Code de la santé publique - art. L355-13 (Ab)
+	  - Code de la santé publique - art. L355-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L355-11 (Ab)
+
+	**Anciens textes**:
+
+	  - Loi n°54-439 du 15 avril 1954 - art. 5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+#### Chapitre 4 : Dispositions financières
+
+###### Article L355-8
+
+Les frais de placement des alcooliques dangereux pour autrui sont couverts dans les mêmes conditions que pour les autres cas
+d'hospitalisation. Sont notamment applicables les lois sur la sécurité sociale et sur l'aide sociale. Les dépenses d'aide
+sociale résultant de l'application des présentes dispositions sont à la charge de l'Etat.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 26 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°54-439 du 15 avril 1954 - art. 9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°83-663 du 22 juillet 1983 - art. 49 () JORF 23 juillet 1983
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 26 (Ab)
+	  - Code de la santé publique - art. L355-13 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L355-9
+
+Un décret en Conseil d'Etat pris après avis du Conseil économique pour l'application des répercussions et conséquences du
+présent titre sur les lois d'aide sociale et de sécurité sociale déterminera les obligations auxquelles seront soumis les
+alcooliques reconnus dangereux qui bénéficient de ces lois, ainsi que les sanctions encourues en cas d'inexécution de ces
+obligations.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 26 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°54-439 du 15 avril 1954 - art. 14 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 26 (Ab)
+	  - Code de la santé publique - art. L355-13 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+#### Chapitre 6 : Modalités d'application.
+
+###### Article L355-11
+
+Un décret pris en la forme d'un décret en Conseil d'Etat déterminera :
+
+Les modalités de l'examen médical de l'alcoolique présumé dangereux prévu à l'article L. 355-3 ;
+
+La composition et l'organisation des commissions médicales prévues à l'article L. 355-4 ;
+
+Les mesures qui devront être prises pour faciliter la pratique des examens prévus à l'article 88 du Code des mesures
+concernant les débits de boissons et la lutte contre l'alcoolisme pour établir les diagnostics concernant l'alcoolisme.
+
+Les conditions d'établissement et de fonctionnement des centres et sections de rééducation spécialisés prévus à l'article L.
+355-7.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code des débits de boissons 88
+	  - Code de la santé publique - art. L355-3 (Ab)
+	  - Code de la santé publique - art. L355-4 (Ab)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°54-439 du 15 avril 1954 - art. 13 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L355-13 (Ab)
+	  - Code de la santé publique - art. L355-7 (Ab)
+
+
+###### Article L355-12
+
+Les conditions d'application des autres dispositions du présent titre sont déterminées par un décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -11765,20 +12233,58 @@ Tout alcoolique dangereux pour autrui est placé sous la surveillance de l'autor
 
 	**Anciens textes**:
 
-	  - Loi n°54-439 du 15 avril 1954 - art. 1 (Ab)
+	  - Loi n°54-439 du 15 avril 1954 - art. 15 (Ab)
 
-	**Cité par**:
+	**Modifié par**:
 
-	  - Décret n°62-840 du 19 juillet 1962 - art. 8-1 (Ab)
-	  - Décret n°86-602 du 14 mars 1986 - art. 11 (Ab)
-	  - Décret n°88-279 du 24 mars 1988 - art. 16 (Ab)
-	  - Décret n°98-1229 du 29 décembre 1998 - art. 6 (Ab)
-	  - Code de la santé publique - art. R715-1-1 (M)
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
-	  - Code de la santé publique - art. L3311-1 (M)
-	  - Code de la santé publique - art. L3822-2 (V)
+	  - Code de la santé publique - art. L3311-4 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L355-13 (Ab)
+
+
+###### Article L355-13
+
+Pour les départements de la Guadeloupe, de la Guyane française, de la Martinique et de la Réunion, un décret en Conseil
+d'Etat détermine les conditions d'application et les adaptations nécessaires du présent titre, notamment des articles L.
+355-7 et 355-8. Les décrets en Conseil d'Etat prévus aux articles L. 355-9, 355-11 et 355-12 ne sont pas applicables dans ces
+départements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Anciens textes**:
+
+	  - Loi n°54-439 du 15 avril 1954 - art. 16 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 8 () JORF 26 juillet 1985
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L355-11 (Ab)
+	  - Code de la santé publique - art. L355-12 (Ab)
+	  - Code de la santé publique - art. L355-7 (Ab)
+	  - Code de la santé publique - art. L355-8 (M)
+	  - Code de la santé publique - art. L355-9 (Ab)
 
 
 ### Titre 6 : Lutte contre la toxicomanie
@@ -15336,6 +15842,65 @@ et suivants.
 	  - Code de la santé publique - art. L4122-1 (M)
 
 
+###### Article L410
+
+Le conseil national [*autorité compétente*] fixe le montant unique de cotisation qui doit être versé par chaque médecin au
+conseil départemental ; il détermine également la quotité de cette cotisation qui doit être versée par le conseil
+départemental au conseil régional dont il relève et au conseil national.
+
+Les cotisations sont obligatoires.
+
+Le conseil national [*mission*] gère les biens de l'Ordre et peut créer ou subventionner des oeuvres intéressant la
+profession médicale ainsi que les oeuvres d'entraide.
+
+Il surveille la gestion des conseils départementaux qui doivent l'informer préalablement de la création et lui rendre compte
+de la gestion de tous les organismes dépendant de ces conseils.
+
+Il verse aux conseils départementaux une somme destinée à assurer une harmonisation de leurs charges sur le plan national
+[*compensation*].
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 431 : APPLICATION A L'ORDRE NATIONAL DES CHIRURGIENS DENTISTES.
+
+Code de la santé publique L445 :APPLICATION A L'ORDRE NATIONAL DES SAGES-FEMMES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 16 () JORF 26 juillet 1985
+
+	**Cité par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 13 (V)
+	  - Code de la santé publique - art. L410-1 (Ab)
+	  - Code de la santé publique - art. L431 (Ab)
+	  - Code de la santé publique - art. L445 (Ab)
+	  - Code de la santé publique - art. L491-7 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - TXT_ASSOCIE: Code de la santé publique - art. L431 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L445 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4122-2 (M)
+
+
 ###### Article L410-1
 
 Il est créé une commission de contrôle des comptes et placements financiers auprès du conseil national de l'ordre. Ses
@@ -18477,51 +19042,6 @@ des sceaux, ministre de la Justice, avec voix délibérative.
 	  - Code de la santé publique - art. L4132-4 (M)
 
 
-###### Article L410
-
-Le conseil national [*autorité compétente*] fixe le montant unique de cotisation qui doit être versé par chaque médecin au
-conseil départemental ; il détermine également la quotité de cette cotisation qui doit être versée par le conseil
-départemental au conseil régional dont il relève et au conseil national.
-
-Les cotisations sont obligatoires, sous peine de sanction disciplinaire prononcée par le conseil régional.
-
-Le conseil national [*mission*] gère les biens de l'ordre et peut créer ou subventionner des oeuvres intéressant la
-profession médicale ainsi que les oeuvres d'entraide.
-
-Il surveille la gestion des conseils départementaux qui doivent l'informer préalablement de la création et lui rendre compte
-de la gestion de tous les organismes dépendant de ces conseils.
-
-Il verse aux conseils départementaux une somme destinée à assurer une harmonisation de leurs charges sur le plan national
-[*compensation*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Loi n°72-660 1972-07-13 ART. 18 JORF 14 juillet 1972
-
-	**Cité par**:
-
-	  - Loi n°85-772 du 25 juillet 1985 - art. 13 (V)
-	  - Code de la santé publique - art. L410-1 (Ab)
-	  - Code de la santé publique - art. L431 (Ab)
-	  - Code de la santé publique - art. L445 (Ab)
-	  - Code de la santé publique - art. L491-7 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L4122-2 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique L445 : APPLICATION A L'ORDRE NATIONAL DES SAGES-FEMMES
-
-
 ###### Article L411
 
 La section disciplinaire du conseil national [*compétence*] est saisie des appels des décisions des conseils régionaux en
@@ -20103,6 +20623,59 @@ décembre 1971.
 
 #### Chapitre 1 : Masseur-kinésithérapeute
 
+###### Article L487
+
+Réserve faite des dérogations prévues à l'article L. 491, nul ne peut exercer la profession de masseur-kinésithérapeute,
+c'est-à-dire pratiquer le massage et la gymnastique médicale, s'il n'est muni du diplôme d'Etat de masseur-kinésithérapeute
+institué par l'article L. 488 du présent titre [*condition*].
+
+Lorsqu'ils agissent dans un but thérapeutique, les masseurs-kinésithérapeutes ne peuvent pratiquer leur art que sur
+ordonnance médicale [*obligation*].
+
+La définition du massage et de la gymnastique médicale est précisée par un décret en Conseil d'Etat, après avis de l'Académie
+nationale de médecine.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 9 () JORF 26 juillet 1985
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°86-1195 du 21 novembre 1986 - art. 1 (Ab)
+	  - Décret n°91-1009 du 2 octobre 1991 - art. 1 (Ab)
+	  - Décret n°92-785 du 6 août 1992 - art. 12 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 41 (Ab)
+	  - Décret n°96-879 du 8 octobre 1996
+	  - Décret n°97-44 du 21 janvier 1997 - art. 23 (Ab)
+	  - Code de la santé publique - art. L510-9-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L488 (Ab)
+	  - Code de la santé publique - art. L491 (Ab)
+
+
 ###### Article L488
 
 Il est créé un diplôme d'Etat de masseur-kinésithérapeute qui sera délivré après des études préparatoires et des épreuves
@@ -20273,6 +20846,48 @@ Guyane, de la Martinique et de la Réunion pendant trois années au moins avant 
 
 
 #### Chapitre 2 : Pédicure-podologue.
+
+###### Article L492
+
+Nul ne peut exercer la profession de pédicure-podologue et porter le titre de pédicure-podologue, accompagné ou non d'un
+qualificatif, s'il n'est muni du diplôme d'Etat (décret du 11 mai 1955) institué par l'article L. 494 du présent titre
+[*condition*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 41 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Décret n°1955-05-11
+	  - Code de la santé publique - art. L494 (M)
+
+	**Cité par**:
+
+	  - Décret n°58-1303 du 23 décembre 1958 - art. 20 (Ab)
+	  - Décret n°97-492 du 16 mai 1997 - art. 23 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°85-772 du 25 juillet 1985 - art. 10 () JORF 26 juillet 1985
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4322-2 (M)
+
 
 ###### Article L493
 
@@ -20686,135 +21301,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Abrogé par**:
 
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
-
-
-###### Article L504
-
-Pour l'application des articles L. 487 et L. 492, les personnes ayant la qualité de réfugié ou d'apatride sont assimilées aux
-français.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-857 1946-04-30 ART. 17
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cite**:
-
-	  - Code de la sécurité sociale L487, L492
-
-	**Créé par**:
-
-	  - Loi n°84-391 1984-06-25 ART. 10 JORF 26 MAI 1984
-
-	**Abrogé par**:
-
-	  - Loi n°85-772 du 25 juillet 1985 - art. 11 () JORF 26 juillet 1985
-
-
-### TITRE 3 : PROFESSION DE MASSEUR-KINESITHERAPEUTE
-
-#### CHAPITRE 1 : MASSEUR-KINESITHERAPEUTE.
-
-###### Article L487
-
-Réserve faite des dérogations prévues à l'article L. 491, nul ne peut exercer la profession de masseur-kinésithérapeute,
-c'est-à-dire pratiquer le massage et la gymnastique médicale, s'il n'est Français et muni du diplôme d'Etat de masseur-
-kinésithérapeute institué par l'article L. 488 du présent titre [*condition*]. Lorsqu'ils agissent dans un but thérapeutique,
-les masseurs-kinésithérapeutes ne peuvent pratiquer leur art que sur ordonnance médicale [*obligation*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-857 1946-04-30 ART. 1
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985
-	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 10 (Ab)
-	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 6 (Ab)
-	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 7 (Ab)
-	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 8 (Ab)
-	  - TXT_SOURCE: Décret n°85-918 du 26 août 1985 - art. 9 (Ab)
-
-	**Cité par**:
-
-	  - Décret n°86-1195 du 21 novembre 1986 - art. 1 (Ab)
-	  - Décret n°91-1009 du 2 octobre 1991 - art. 1 (Ab)
-	  - Décret n°92-785 du 6 août 1992 - art. 12 (Ab)
-	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 41 (Ab)
-	  - Décret n°96-879 du 8 octobre 1996
-	  - Décret n°97-44 du 21 janvier 1997 - art. 23 (Ab)
-	  - Code de la santé publique - art. L510-9-1 (Ab)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L488 (Ab)
-	  - Code de la santé publique - art. L491 (Ab)
-
-
-### TITRE 3 : PROFESSION DE PEDICURE-PODOLOGUE
-
-#### CHAPITRE 2 : PEDICURE-PODOLOGUE.
-
-###### Article L492
-
-Nul ne peut exercer la profession de pédicure-podologue et porter le titre de pédicure-podologue accompagné ou non d'un
-qualificatif, s'il n'est Français et muni du diplôme d'Etat institué par l'article L. 494 du présent titre [*condition*].
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°46-857 1946-04-30 ART. 6
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Décret n°58-1303 du 23 décembre 1958 - art. 20 (Ab)
-	  - Décret n°97-492 du 16 mai 1997 - art. 23 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°84-391 1984-05-25 ART. 9 JORF 26 MAI 1984
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985
-	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 4 (Ab)
-	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 5 (Ab)
-	  - TXT_SOURCE: Décret n°85-631 du 19 juin 1985 - art. 6 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L4322-2 (M)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L494 (M)
 
 
 ### Titre 3-1 : Professions d'orthophoniste et d'orthoptiste
@@ -24124,20 +24610,23 @@ collectivité territoriale de Mayotte.*]
 
 ###### Article L558
 
-Les inspecteurs de la pharmacie sont répartis dans les régions sanitaires, compte tenu du nombre des pharmaciens exerçant
-dans la région. Ils sont tenus au secret professionnel dans les conditions prévues à l'article 378 du Code pénal. Ils prêtent
-serment devant le tribunal de grande instance de leur résidence [*juridiction compétente*].
+Les inspecteurs de la pharmacie qui ne sont pas affectés dans les services de l'administration centrale sont répartis dans
+les régions, compte tenu de l'importance des activités relevant de l'inspection de la pharmacie dans chaque région.
+
+La compétence de certains inspecteurs de la pharmacie peut, en tant que de besoin, être étendue à certaines régions. Ils sont
+tenus au secret professionnel dans les conditions prévues à l'article 378 du Code pénal. Ils prêtent serment devant le
+tribunal de grande instance de leur résidence [*juridiction compétente*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte sous réserve des dispositions de l'article 45.*]
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Anciens textes**:
-
-	  - Loi n°41-3890 1941-09-11 ART. 50
+	  - Loi n°85-772 du 25 juillet 1985 - art. 20 () JORF 26 juillet 1985
 
 	**Cité par**:
 
