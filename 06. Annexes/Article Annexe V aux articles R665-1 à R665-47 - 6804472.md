@@ -149,6 +149,24 @@ la classe II a moyennant la dérogation suivante :
 produits de la classe II a sont fabriqués conformément à la documentation technique visée au point 3 de l'annexe VII et
 répondent aux exigences du livre V bis du code de la santé publique qui leur sont applicables.
 
+7. Application aux dispositifs, visés à l'annexe I-A, point 7.4 bis, et à l'annexe I-B, point 10 bis :
+
+Au terme de la fabrication de chaque lot de ces dispositifs, le fabricant informe l'organisme habilité de la libération de ce
+lot de dispositifs et lui transmet le certificat de libération du lot de la substance mentionnée à l'article R. 665-37-1
+utilisée dans ce dispositif, établi par l'Agence française de sécurité sanitaire des produits de santé, ou un laboratoire
+désigné à cet effet par un autre Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique
+européen.
+
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2004-802 du 29 juillet 2004,  l'abrogation des annexes du livre V bis prendra effet à
+la date de la  publication de chacun des arrêtés prévus aux articles R. 5211-7, R.  5211-16, R. 5211-24 et R. 5211-53 du code
+de la santé publique.
+
+L'arrêté  du 20 avril 2006 fixant les modalités d'application des procédures de  certification de la conformité définies aux
+articles R. 5211-39 à R.  5211-52, pris en application de l'article R. 5211-53 du code de la santé  publique, est paru au
+JORF du 8 juin 2006.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -158,8 +176,16 @@ répondent aux exigences du livre V bis du code de la santé publique qui leur s
 
 	**Modifié par**:
 
-	  - Décret n°2004-108 du 4 février 2004 - art. 1 () JORF 6 février 2004
+	  - Décret n°2004-413 du 13 mai 2004 - art. 2 () JORF 15 mai 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 4 (V)
 
 	**Cite**:
 
-	  - Code de la santé publique R665-33 à R665-35
+	  - Code de la santé publique - art. R665-13 (M)
+	  - Code de la santé publique - art. R665-23 (M)
+	  - Code de la santé publique - art. R665-32 (M)
+	  - Code de la santé publique - art. R665-37-1 (Ab)
+	  - Code de la santé publique R665-33 à R665-35, R665-13, annexe III, R665-32, R665-23, annexe, annexe VII, annexe I, R665-37-1

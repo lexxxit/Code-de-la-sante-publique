@@ -62,10 +62,17 @@ routine ; si les dispositifs sont destinés à administrer des médicaments, ils
 manière que leurs performances soient maintenues conformes à leur destination.
 
 7.4. Lorsqu'un dispositif incorpore, comme partie intégrante, une substance qui, si elle est utilisée séparément, est
-susceptible d'être considérée comme un médicament au sens de l'article L. 511 du code de la santé publique et qui peut agir
-sur le corps humain par une action accessoire à celle du dispositif, la sécurité, la qualité et l'utilité de cette substance
-doivent être vérifiées, en tenant compte de la destination du dispositif, par analogie avec les méthodes appropriées fixées
-par les articles R. 5117 à R. 5127 du code de la santé publique ;
+susceptible d'être considérée comme un médicament au sens de l'article L. 5111-1 du code de la santé publique, à l'exception
+des médicaments dérivés du sang, et qui peut agir sur le corps humain par une action accessoire à celle du dispositif, la
+sécurité, la qualité et l'utilité de cette substance doivent être vérifiées, en tenant compte de la destination du
+dispositif, par analogie avec les méthodes appropriées fixées par les articles R. 5117 à R. 5127 du code de la santé
+publique ;
+
+7.4 bis. Lorsqu'un dispositif incorpore comme partie intégrante une substance mentionnée à l'article R. 665-37-1 et qui peut
+agir sur le corps humain par une action accessoire à celle du dispositif, l'organisme habilité doit demander à l'Agence
+européenne pour l'évaluation des médicaments un avis scientifique sur la qualité et la sécurité de cette substance en tenant
+compte des méthodes appropriées, fixées notamment par les articles R. 5117 à R. 5127. L'utilité de cette substance en tant
+que partie intégrante du dispositif médical doit être vérifiée en tenant compte de la destination du dispositif. ;
 
 7.5. Les dispositifs doivent être conçus et fabriqués de manière à réduire au minimum les risques découlant des substances
 dégagées par le dispositif ;
@@ -316,6 +323,9 @@ peut être incluse dans le numéro du lot ou de série ;
 
 m) Le cas échéant, la méthode de stérilisation ;
 
+n) Dans le cas d'un dispositif visé à l'annexe I-A, point 7.4 bis, une mention indiquant que le dispositif incorpore comme
+partie intégrante une substance mentionnée à l'article R. 665-37-1. ;
+
 13.4. Si la destination du dispositif n'est pas évidente pour l'utilisateur, le fabricant doit la mentionner clairement sur
 l'étiquetage et dans la notice d'instruction ;
 
@@ -474,10 +484,18 @@ tenu de l'utilisation prévue du dispositif ;
 - au bon fonctionnement des systèmes de commandes, de programmation et de contrôle, y compris le logiciel.
 
 10. Lorsqu'un dispositif incorpore comme partie intégrante une substance qui, si elle est utilisée séparément, est
-susceptible d'être considérée comme un médicament selon la définition figurant à l'article L. 511 du code de la santé
-publique et dont l'action en combinaison avec le dispositif peut aboutir à sa biodisponibilité, la sécurité, la qualité et
-l'utilité de cette substance, en tenant compte de la destination du dispositif, doivent être vérifiées par analogie avec les
-méthodes appropriées prévues par les articles R. 5117 à R. 5127 du code de la santé publique.
+susceptible d'être considérée comme un médicament selon la définition figurant à l'article L. 5111-1 du code de la santé
+publique, à l'exception des médicaments dérivés du sang, et dont l'action en combinaison avec le dispositif peut aboutir à sa
+biodisponibilité, la sécurité, la qualité et l'utilité de cette substance, en tenant compte de la destination du dispositif,
+doivent être vérifiées par analogie avec les méthodes appropriées prévues par les articles R. 5117 à R. 5127 du code de la
+santé publique.
+
+10 bis. Lorsqu'un dispositif implantable actif incorpore comme partie intégrante une substance mentionnée à l'article R.
+665-37-1 et qui peut agir sur le corps humain par une action accessoire à celle du dispositif, l'organisme habilité doit
+demander à l'Agence européenne pour l'évaluation des médicaments un avis scientifique sur la qualité et la sécurité de cette
+substance en tenant compte des méthodes appropriées, fixées notamment par les articles R. 5117 à R. 5127. L'utilité de cette
+substance en tant que partie intégrante du dispositif médical doit être vérifiée en tenant compte de la destination du
+dispositif. ;
 
 11. Les dispositifs et, le cas échéant, les composants doivent être identifiés de façon à rendre possible toute action
 appropriée s'avérant nécessaire par suite de la découverte d'un risque potentiel lié aux dispositifs et aux composants.
@@ -536,6 +554,9 @@ cliniques ;
 - l'indication de la date limite d'implantation du dispositif en toute sécurité ;
 
 - les conditions de transport et de stockage du dispositif.
+
+- dans le cas d'un dispositif visé au point 10 bis de la présente partie, une mention indiquant que le dispositif incorpore
+comme partie intégrante une substance mentionnée à l'article R. 665-37-1.
 
 15. Lors de sa mise sur le marché, chaque dispositif doit être accompagné d'une notice d'instructions comprenant les éléments
 suivants :
@@ -596,11 +617,11 @@ instruments présents lors des investigations ou traitements et vice versa.
 	  - Décret n°61-501 1961-05-03
 	  - Décret n°66-450 1966-06-20
 	  - Décret n°86-1103 1986-10-02
-	  - Code de la santé publique - art. L511 (M)
+	  - Code de la santé publique - art. L5111-1 (M)
 	  - Code de la santé publique - art. R665-1 (M)
 	  - Code de la santé publique - art. R665-36 (M)
-	  - Code de la santé publique L511, R5117 à R5127, R665-1, R665-36
+	  - Code de la santé publique R665-1, L5111-1, R5117 à R5127, R665-36, r665-37-1, annexe I, annexe, annexe X
 
 	**Modifié par**:
 
-	  - Décret n°2004-108 du 4 février 2004 - art. 1 () JORF 6 février 2004
+	  - Décret n°2004-413 du 13 mai 2004 - art. 2 () JORF 15 mai 2004
