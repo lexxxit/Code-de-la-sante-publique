@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1974-05-21
+Version Consolidée au 1974-10-23
 
 # Partie législative ancienne
 
@@ -28882,6 +28882,107 @@ pharmaciens résidents des établissements visés à l'article L. 792.
 	  - Code de la santé publique - art. L893 (Ab)
 
 
+###### Article L809
+
+Nul ne peut être nommé à un emploi relevant des établissements visés à l'article L. 792 :
+
+1° S'il ne possède la nationalité française sous réserve des incapacités prévues par le code de la nationalité française ;
+
+2° S'il ne jouit de ses droits civiques et s'il n'est de bonne moralité ;
+
+3° S'il ne se trouve en position régulière au regard des lois sur le recrutement de l'armée ;
+
+4° S'il ne remplit les conditions d'aptitude physique exigées pour l'exercice de la fonction, et s'il n'est reconnu, soit
+indemne de toute affection tuberculeuse, cancéreuse ou mentale, soit définitivement guéri.
+
+Par dérogation aux dispositions du 4°, peuvent être titularisés dans les emplois des sanatoriums publics pour tuberculose
+pulmonaire, après une durée de service qui sera fixée par un texte pris en application de l'article L. 893 ci-après,
+d'anciens malades tuberculeux, susceptibles de fournir un certificat médical établi par un phtisiologue agréé, attestant
+qu'ils sont stabilisés et aptes à remplir les fonctions qu'ils postulent.
+
+Pour ces agents, la titularisation ne comporte pas l'accès au bénéfice éventuel des dispositions de l'article L. 856 ci-
+dessous en ce qui concerne l'octroi de congés de longue durée pour tuberculose, à moins qu'un examen médical postérieur,
+suivi de l'avis concordant du comité médical compétent, ait conclu à la guérison définitive.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°59-707 du 8 juin 1959 - art. 17 (V)
+	  - Décret n°62-132 du 2 février 1962 - art. 14 (Ab)
+	  - Décret n°62-132 du 2 février 1962 - art. 18 (Ab)
+	  - Décret n°62-569 du 15 mai 1962 - art. 14 (Ab)
+	  - Décret n°62-1198 du 3 octobre 1962 - art. 26 (Ab)
+	  - Décret n°64-748 du 17 juillet 1964 - art. 11 (Ab)
+	  - Décret n°64-748 du 17 juillet 1964 - art. 14 (Ab)
+	  - Décret n°64-748 du 17 juillet 1964 - art. 16 (Ab)
+	  - Décret n°64-748 du 17 juillet 1964 - art. 23 (Ab)
+	  - Décret n°64-748 du 17 juillet 1964 - art. 4 (Ab)
+	  - Décret n°64-748 du 17 juillet 1964 - art. 6 (Ab)
+	  - Décret n°64-748 du 17 juillet 1964 - art. 9 (Ab)
+	  - Décret n°64-942 du 3 septembre 1964 - art. 22 (Ab)
+	  - Décret n°64-942 du 3 septembre 1964 - art. 25 (Ab)
+	  - Décret n°68-97 du 10 janvier 1968 - art. 11 (V)
+	  - Décret n°68-97 du 10 janvier 1968 - art. 13 (M)
+	  - Décret n°68-97 du 10 janvier 1968 - art. 18 (M)
+	  - Décret n°68-97 du 10 janvier 1968 - art. 24 (V)
+	  - Décret n°68-97 du 10 janvier 1968 - art. 26 (V)
+	  - Décret n°68-97 du 10 janvier 1968 - art. 4 (V)
+	  - Décret n°68-97 du 10 janvier 1968 - art. 6 (V)
+	  - Décret n°68-132 du 9 février 1968 - art. 4 (M)
+	  - Décret n°70-1186 du 17 décembre 1970 - art. 8 (M)
+	  - Décret n°70-1186 du 17 décembre 1970 - art. 9 (Ab)
+	  - Décret n°71-988 du 3 décembre 1971 - art. 4 (V)
+	  - Décret n°71-988 du 3 décembre 1971 - art. 7 (V)
+	  - Décret n°72-849 du 11 septembre 1972 - art. 15 (V)
+	  - Décret n°72-849 du 11 septembre 1972 - art. 16 (V)
+	  - Décret n°72-877 du 12 septembre 1972 - art. 21 (M)
+	  - Décret n°72-877 du 12 septembre 1972 - art. 24 (Ab)
+	  - Décret n°73-317 du 6 mars 1973 - art. 16 (V)
+	  - Décret n°73-317 du 6 mars 1973 - art. 18 (V)
+	  - Décret n°73-317 du 6 mars 1973 - art. 22 (V)
+	  - Décret n°73-1094 du 29 novembre 1973 - art. 20 (Ab)
+	  - Décret n°73-1094 du 29 novembre 1973 - art. 25 (Ab)
+	  - Décret n°77-1536 du 21 décembre 1977 - art. 5 (V)
+	  - Décret n°77-1536 du 21 décembre 1977 - art. 9 (V)
+	  - Décret n°80-253 du 3 avril 1980 - art. 22 (V)
+	  - Décret n°80-253 du 3 avril 1980 - art. 27 (V)
+	  - Décret n°80-793 du 1 octobre 1980 - art. 19 (V)
+	  - Arrêté du 12 mars 1981 - art. 3 (V)
+	  - Arrêté du 12 mars 1981 - art. ANNEXE I (V)
+	  - Arrêté du 12 mars 1981 - art. ANNEXE II (V)
+	  - Arrêté du 12 mars 1981 - art. ANNEXE III (V)
+	  - Décret n°69-281 du 24 mars 1969 - art. 16 (V)
+	  - Décret n°69-281 du 24 mars 1969 - art. 19 (V)
+
+	**Modifié par**:
+
+	  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
+
+	**Abrogé par**:
+
+	  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L792 (M)
+	  - Code de la santé publique - art. L856 (M)
+	  - Code de la santé publique - art. L893 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983
+	  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983 - art. 1 (V)
+	  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°1983-11-02 du 2 novembre 1983 - art. 4 (V)
+
+
 ###### Article L811
 
 A l'exception des bénéficiaires de la législation sur les emplois réservés, titulaires d'un emploi de début à ce titre, nul
@@ -30430,6 +30531,41 @@ B. - Pourront être accordées :
 	  - Loi n°86-33 du 9 janvier 1986 - art. 133 () JORF 11 janvier 1986
 
 
+###### Article L852
+
+En cas de maladie dûment constatée par un certificat médical et le mettant dans l'impossibilité d'exercer ses fonctions,
+l'agent est de droit mis en congé.
+
+L'administration peut à tout moment faire procéder à la contre-visite du demandeur.
+
+Le comité médical compétent peut être saisi soit par l'administration, soit par l'intéressé des conclusions du médecin
+assermenté. L'intéressé peut faire entendre par le comité le médecin de son choix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°55-683 1955-05-20 art. 61
+
+	**Cité par**:
+
+	  - Décret n°56-1294 du 14 décembre 1956 - art. 12 (Ab)
+	  - Décret n°88-386 du 19 avril 1988 - art. 39 (V)
+
+	**Modifié par**:
+
+	  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
+
+	**Abrogé par**:
+
+	  - Décret n°88-386 du 19 avril 1988 - art. 39 (V) JORF 21 avril 1988
+
+
 ###### Article L853
 
 L'agent en congé de maladie conserve l'intégralité de son traitement pendant une durée de trois mois. Ce traitement est
@@ -30693,6 +30829,45 @@ l'administration.
 	**Abrogé par**:
 
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L860
+
+Les agents bénéficiaires d'un congé de maladie doivent se soumettre au contrôle exercé par l'administration.
+
+Ceux qui, au cours de ce congé, se livreront à une activité lucrative quelconque ne recevront aucune rémunération et seront
+passibles de sanctions disciplinaires.
+
+Sous peine des mêmes sanctions, les bénéficiaires de congés de longue durée obtenus en application de l'article L. 856
+doivent se soumettre au contrôle de l'administration et, en outre, au régime que nécessite leur état. Le temps pendant lequel
+la rémunération a été suspendue compte dans la période de congé en cours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Anciens textes**:
+
+	  - Décret n°55-683 1955-05-20 art. 69
+
+	**Abrogé par**:
+
+	  - Décret n°88-386 du 19 avril 1988 - art. 39 (V) JORF 21 avril 1988
+
+	**Cité par**:
+
+	  - Décret n°88-386 du 19 avril 1988 - art. 39 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L856 (M)
+
+	**Modifié par**:
+
+	  - Loi n°74-873 1974-10-22 art. 1 JORF 23 octobre 1974
 
 
 ###### Article L861
