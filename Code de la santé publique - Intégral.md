@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1970-07-01
+Version Consolidée au 1970-07-02
 
 # Partie législative ancienne
 
@@ -41340,6 +41340,85 @@ Article abrogé
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article R5229-2
+
+Les spécialités pharmaceutiques dans la composition desquelles entrent un ou plusieurs principes nouveaux ou qui constituent
+des associations nouvelles, ou encore qui se présentent avec de nouvelles indications thérapeutiques ou de nouveaux modes
+d'administration sont inscrites, par le ministre de la santé publique et de la sécurité sociale, sur la liste dite des
+médicaments nouveaux, lorsqu'elles ne sont pas soumises à la réglementation prévue aux articles R. 5169 et suivants, relatifs
+aux préparations contenant des substances inscrites aux tableaux A, B et C.
+
+Cette inscription est prononcée pour une durée de trois ans, soit à dater de la mise effective de la spécialité sur le
+marché, qui sera notifiée par le fabricant au ministre de la santé publique et de la sécurité sociale, soit à dater de
+l'inscription sur la liste des médicaments nouveaux, si celle-ci est postérieure à la mise effective sur le marché.
+
+Mention de cette inscription est, dans un cas comme dans l'autre, portée sur l'autorisation ministérielle prévue à l'article
+L. 601 (alinéa 2) du présent code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 2 JORF 30 MAI 1984
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique L601, R5169 et s.
+
+
+###### Article R5229-3
+
+Les spécialités pharmaceutiques inscrites sur la liste des médicaments nouveaux sont soumises, pour leur prescription, leur
+délivrance ou le renouvellement de leur prescription aux dispositions prévues aux articles R. 5179, R. 5180 et R. 5182 ci-
+dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 2 JORF 30 MAI 1984
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5179 (M)
+	  - Code de la santé publique - art. R5180 (M)
+	  - Code de la santé publique - art. R5182 (M)
+
+
+###### Article R5229-4
+
+Outre les indications prévues à l'article R. 5117 ci-dessus, le conditionnement extérieur et les étiquettes intérieures des
+spécialités pharmaceutiques inscrites sur la liste des médicaments nouveaux doivent comporter la mention : "A ne délivrer que
+sur prescription médicale", inscrite d'une manière très apparente en lettres noires sur fond blanc et entourée d'un cadre
+noir [*couleur*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 2 JORF 30 MAI 1984
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5117 (M)
 
 
 #### Chapitre 2 : Radio-éléments artificiels *radioactivité*
