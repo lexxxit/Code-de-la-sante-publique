@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-08-08
+Version Consolidée au 1992-08-12
 
 # Partie législative ancienne
 
@@ -76836,6 +76836,106 @@ selon des modalités fixées par le règlement intérieur de l'établissement.
 	**Cité par**:
 
 	  - Code de la santé publique - art. R716-3-43 (M)
+
+
+##### Sous-section 3 : Modalités de délégation de signature des directeurs
+
+###### Article D714-12-1
+
+Dans le cadre de ses compétences définies à l'article L. 714-12, le directeur d'un établissement public de santé peut, sous
+sa responsabilité, déléguer sa signature à un ou plusieurs membres du corps de direction des hôpitaux ou à un ou plusieurs
+fonctionnaires appartenant à un corps ou occupant un emploi classé dans la catégorie A ou la catégorie B, ou à un ou
+plusieurs pharmaciens des hôpitaux.
+
+Il peut en outre, le cas échéant, déléguer sa signature au directeur du centre de transfusion sanguine, conformément aux
+dispositions de l'article 9 du décret du 16 janvier 1954 susvisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Décret n°54-65 du 16 janvier 1954 - art. 9 (Ab)
+	  - Code de la santé publique - art. L714-12 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-783 du 6 août 1992 - art. 1 () JORF 12 août 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6143-33 (V)
+
+
+###### Article D714-12-2
+
+Toute délégation doit mentionner :
+
+a) Le nom et la fonction de l'agent auquel la délégation a été donnée ;
+
+b) La nature des actes délégués ;
+
+c) Eventuellement, les conditions ou réserves dont le directeur juge opportun d'assortir la délégation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-783 du 6 août 1992 - art. 1 () JORF 12 août 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6143-34 (V)
+
+
+###### Article D714-12-3
+
+Toute délégation de signature peut être retirée à tout moment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-783 du 6 août 1992 - art. 1 () JORF 12 août 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6143-35 (V)
+
+
+###### Article D714-12-4
+
+Les délégations sont communiquées au conseil d'administration et transmises sans délai au comptable de l'établissement
+lorsqu'elles concernent des actes liés à la fonction d'ordonnateur du budget.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-783 du 6 août 1992 - art. 1 () JORF 12 août 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6143-36 (V)
 
 
 ##### Section 2 : organes représentatifs
