@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-07-28
+Version Consolidée au 1994-07-30
 
 # Partie législative ancienne
 
@@ -5323,6 +5323,271 @@ Un décret en Conseil d'Etat précise les modalités d'application des articles 
 	  - Code de la santé publique L145-6 à L145-10
 
 
+### Titre 6 : Médecine prédictive et identification génétique
+
+###### Article L145-15
+
+L'examen des caractéristiques génétiques d'une personne ou son identification par empreintes génétiques, lorsqu'elle n'est
+pas réalisée dans le cadre d'une procédure judiciaire, ne peut être entrepris qu'à des fins médicales ou de recherche
+scientifique et qu'après avoir recueilli son consentement.
+
+Lorsque cet examen ou cette identification est effectué à des fins médicales, le consentement est recueilli par écrit. Les
+examens ou identifications à des fins de recherche scientifique sont régis par les dispositions du livre II bis du présent
+code.
+
+A titre exceptionnel, lorsque cette étude est entreprise à des fins médicales, le consentement de la personne peut ne pas
+être recueilli, dans son intérêt et dans le respect de sa confiance. Sous les mêmes réserves, le consentement peut également
+ne pas être recueilli lorsque l'identification d'une personne par ses empreintes génétiques est recherchée à des fins
+médicales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 22 () JORF 30 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1131-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-17 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-19 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L145-17 (Ab)
+	  - Code de la santé publique - art. L145-19 (Ab)
+	  - Code pénal - art. 226-25 (M)
+	  - Code pénal - art. 226-27 (M)
+
+
+###### Article L145-16
+
+Sont seules habilitées à procéder à des identifications par empreintes génétiques à des fins médicales ou de recherche
+scientifique les personnes ayant fait l'objet d'un agrément dans des conditions fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 22 () JORF 30 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1131-3 (V)
+	  - Code de la santé publique - art. L1131-6 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L145-20 (Ab)
+	  - Code pénal - art. 226-28 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-20 (Ab)
+
+
+###### Article L145-17
+
+Comme il est dit à l'article 226-25 du code pénal, le fait de procéder à l'étude des caractéristiques génétiques d'une
+personne à des fins médicales sans avoir préalablement recueilli son consentement dans les conditions prévues par l'article
+L. 145-15 est puni d'un an d'emprisonnement [*durée*] et de 100 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 22 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 226-25 (M)
+	  - Code de la santé publique - art. L145-15 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 226-25 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-15 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1132-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L145-21 (Ab)
+
+
+###### Article L145-18
+
+Comme il est dit à l'article 226-26 du code pénal, le fait de détourner de leurs finalités médicales ou de recherche
+scientifique les informations recueillies sur une personne au moyen de l'étude de ses caractéristiques génétiques est puni
+d'un an d'emprisonnement [*durée*] et de 100 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 22 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 226-26 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 226-26 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1132-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L145-21 (Ab)
+
+
+###### Article L145-19
+
+Comme il est dit à l'article 226-27 du code pénal, le fait de rechercher l'identification d'une personne par ses empreintes
+génétiques à des fins médicales sans recueillir préalablement son consentement dans les conditions prévues par l'article L.
+145-15 est puni d'un an d'emprisonnement [*durée*] et de 100 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 22 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 226-27 (M)
+	  - Code de la santé publique - art. L145-15 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 226-27 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-15 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1132-3 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L145-21 (Ab)
+
+
+###### Article L145-20
+
+Comme il est dit à l'article 226-28 du code pénal, le fait de rechercher l'identification d'une personne par ses empreintes
+génétiques à des fins qui ne seraient ni médicales ni scientifiques ou en dehors d'une mesure d'enquête ou d'instruction
+diligentée lors d'une procédure judiciaire est puni d'un an d'emprisonnement [*durée*] et de 100 000 F d'amende (1)
+[*montant*].
+
+Est puni des mêmes peines le fait de divulguer des informations relatives à l'identification d'une personne par ses
+empreintes génétiques ou de procéder à l'identification d'une personne par ses empreintes génétiques sans être titulaire de
+l'agrément prévu à l'article L. 145-16 du présent code.
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 22 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 226-28 (M)
+	  - Code de la santé publique - art. L145-16 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 226-28 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L145-16 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1132-4 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L145-21 (Ab)
+
+
+###### Article L145-21
+
+Comme il est dit à l'article 226-29 du code pénal, la tentative des infractions prévues aux articles 226-25, 226-26, 226-27
+et 226-28 dudit code auxquels renvoient les articles L. 145-17, L. 145-18, L. 145-19 et L. 145-20 du présent code est punie
+des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 22 () JORF 30 juillet 1994
+
+	**Cite**:
+
+	  - Code pénal - art. 226-25 (M)
+	  - Code pénal - art. 226-26 (M)
+	  - Code pénal - art. 226-27 (M)
+	  - Code pénal - art. 226-28 (M)
+	  - Code pénal - art. 226-29 (M)
+	  - Code de la santé publique - art. L145-17 (M)
+	  - Code de la santé publique - art. L145-18 (M)
+	  - Code de la santé publique - art. L145-19 (M)
+	  - Code de la santé publique - art. L145-20 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1132-5 (T)
+
+
 ## Livre 2 : Action sanitaire et médico-sociale en faveur de la famille, de l'enfance et de la jeunesse
 
 ### Titre 1 : Protection maternelle et infantile
@@ -5741,6 +6006,840 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2112-6 (V)
+
+
+#### Chapitre 2 bis : Assistance médicale à la procréation
+
+###### Article L152-1
+
+L'assistance médicale à la procréation      s'entend des pratiques cliniques et biologiques permettant la conception in
+vitro, le transfert d'embryons et l'insémination artificielle, ainsi que de toute technique d'effet équivalent permettant la
+procréation en dehors du processus naturel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2141-1 (M)
+	  - Code de la santé publique - art. L2141-1 (V)
+
+
+###### Article L152-2
+
+L'assistance médicale à la procréation est destinée à répondre à la demande parentale d'un couple.
+
+Elle a pour objet de remédier à l'infertilité dont le caractère pathologique a été médicalement diagnostiqué. Elle peut aussi
+avoir pour objet d'éviter la transmission à l'enfant d'une maladie d'une particulière gravité.
+
+L'homme et la femme formant le couple doivent être vivants, en âge de procréer, mariés ou en mesure d'apporter la preuve
+d'une vie commune d'au moins deux ans et consentants préalablement au transfert des embryons ou à l'insémination [*condition
+de validité*].
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 152-14 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. L152-14 (Ab)
+	  - Code de la santé publique - art. L152-3 (Ab)
+	  - Code de la santé publique - art. L152-5 (Ab)
+	  - Code de la santé publique - art. R152-5-7 (Ab)
+	  - Code de la santé publique - art. R152-5-9 (Ab)
+	  - Code de la santé publique - art. R162-33 (Ab)
+	  - Code de la santé publique - art. R184-1-7 (Ab)
+	  - Code pénal - art. 511-24 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-14 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2141-2 (M)
+	  - Code de la santé publique - art. L2141-2 (V)
+
+
+###### Article L152-3
+
+Un embryon ne peut être conçu in vitro que dans le cadre et selon les finalités d'une assistance médicale à la procréation
+telle que définie à l'article L. 152-2. Il ne peut être conçu avec des gamètes ne provenant pas d'un au moins des deux
+membres du couple.
+
+Compte tenu de l'état des techniques médicales, les deux membres du couple peuvent décider par écrit que sera tentée la
+fécondation d'un nombre d'ovocytes pouvant rendre nécessaire la conservation d'embryons, dans l'intention de réaliser leur
+demande parentale dans un délai de cinq ans.
+
+Les deux membres du couple sont consultés chaque année pendant cinq ans sur le point de savoir s'ils maintiennent leur
+demande parentale.
+
+Un décret en Conseil d'Etat détermine les obligations auxquelles sont tenus les établissements et les laboratoires au regard
+de leur conservation pendant la durée d'application de la loi n° 94-654 du 29 juillet 1994 relative au don et à l'utilisation
+des éléments et produits du corps humain, à l'assistance médicale à la procréation et au diagnostic prénatal, notamment
+lorsqu'ils cessent leur activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°94-654 1994-07-29
+	  - Code de la santé publique - art. L152-2 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2141-11 (M)
+	  - Code de la santé publique - art. L2141-3 (M)
+
+
+###### Article L152-4
+
+A titre exceptionnel, les deux membres du couple peuvent consentir par écrit à ce que les embryons conservés soient
+accueillis par un autre couple dans les conditions prévues à l'article L. 152-5.
+
+En cas de décès d'un membre du couple, le membre survivant est consulté par écrit sur le point de savoir s'il consent à ce
+que les embryons conservés soient accueillis par un autre couple dans les conditions prévues à l'article L. 152-5.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 152-11 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-11 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L152-11 (Ab)
+	  - Code de la santé publique - art. R152-5-1 (Ab)
+	  - Code pénal - art. 511-16 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L152-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2141-4 (T)
+
+
+###### Article L152-5
+
+A titre exceptionnel, un couple répondant aux conditions prévues à l'article L. 152-2 et pour lequel une assistance médicale
+à la procréation sans recours à un tiers donneur ne peut aboutir peut accueillir un embryon.
+
+L'accueil de l'embryon est subordonné à une décision de l'autorité judiciaire, qui reçoit préalablement le consentement écrit
+du couple à l'origine de sa conception. Le juge s'assure que le couple demandeur remplit les conditions prévues à l'article
+L. 152-2 et fait procéder à toutes investigations permettant d'apprécier les conditions d'accueil que ce couple est
+susceptible d'offrir à l'enfant à naître sur les plans familial, éducatif et psychologique.
+
+Le couple accueillant l'embryon et celui y ayant renoncé ne peuvent connaître leurs identités respectives [*anonymat*].
+
+Toutefois, en cas de nécessité thérapeutique, un médecin pourra accéder aux informations médicales non identifiantes
+concernant le couple ayant renoncé à l'embryon.
+
+Aucun paiement, quelle qu'en soit la forme, ne peut être alloué au couple ayant renoncé à l'embryon [*interdiction,
+gratuité*].
+
+L'accueil de l'embryon est subordonné à des règles de sécurité sanitaire. Ces règles comprennent notamment des tests de
+dépistage des maladies infectieuses.
+
+Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 152-11 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L152-11 (Ab)
+	  - Code de la santé publique - art. L152-16 (Ab)
+	  - Code de la santé publique - art. L152-4 (Ab)
+	  - Code de la santé publique - art. R152-5-1 (Ab)
+	  - Code de la santé publique - art. R152-5-4 (Ab)
+	  - Code de la santé publique - art. R152-5-7 (Ab)
+	  - Code de la santé publique - art. R152-5-8 (Ab)
+	  - Code de la santé publique - art. R152-5-9 (Ab)
+	  - Code pénal - art. 511-16 (M)
+	  - Code pénal - art. 511-25 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-11 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-16 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L152-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2141-11 (M)
+	  - Code de la santé publique - art. L2141-5 (T)
+
+
+###### Article L152-6
+
+L'assistance médicale à la procréation avec tiers donneur ne peut être pratiquée que comme ultime indication lorsque la
+procréation médicalement assistée à l'intérieur du couple ne peut aboutir.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2141-6 (Ab)
+
+
+###### Article L152-7
+
+Un embryon humain ne peut être conçu ni utilisé à des fins commerciales ou industrielles [*interdiction*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2141-7 (T)
+	  - Code de la santé publique - art. L2141-7 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L152-8
+
+La conception in vitro d'embryons humains à des fins d'étude, de recherche ou d'expérimentation est interdite.
+
+Toute expérimentation sur l'embryon est interdite.
+
+A titre exceptionnel, l'homme et la femme formant le couple peuvent accepter que soient menées des études sur leurs embryons.
+
+Leur décision est exprimée par écrit.
+
+Ces études doivent avoir une finalité médicale et ne peuvent porter atteinte à l'embryon.
+
+Elles ne peuvent être entreprises qu'après avis conforme de la commission mentionnée à l'article L. 184-3 ci-dessous dans des
+conditions définies par décret en Conseil d'Etat.
+
+La commission rend publique chaque année la liste des établissements où s'effectuent ces études, ainsi que leur objet.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 152-17 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. L152-17 (Ab)
+	  - Code de la santé publique - art. R152-8-1 (Ab)
+	  - Code de la santé publique - art. R184-3-10 (Ab)
+	  - Code pénal - art. 511-19 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-17 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L184-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2141-11 (M)
+	  - Code de la santé publique - art. L2141-11 (V)
+	  - Code de la santé publique - art. L2141-8 (M)
+
+
+###### Article L152-9
+
+Les actes cliniques et biologiques d'assistance médicale à la procréation, définis par décret en Conseil d'Etat, sont
+effectués sous la responsabilité d'un praticien nommément agréé à cet effet dans chaque établissement ou laboratoire autorisé
+à les pratiquer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2141-11 (M)
+	  - Code de la santé publique - art. L2141-11 (V)
+	  - Code de la santé publique - art. L2141-9 (M)
+	  - Code de la santé publique - art. L2141-9 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R152-9-1 (Ab)
+	  - Code de la santé publique - art. R152-9-2 (Ab)
+	  - Code de la santé publique - art. R152-9-5 (Ab)
+	  - Code de la santé publique - art. R184-3-8 (Ab)
+	  - Code de la santé publique - art. R673-5-8 (Ab)
+
+
+###### Article L152-10
+
+La mise en oeuvre de l'assistance médicale à la procréation doit être précédée d'entretiens particuliers des demandeurs avec
+les membres de l'équipe médicale pluridisciplinaire du centre, qui peut faire appel, en tant que de besoin, au service social
+institué au titre VI du code de la famille et de l'aide sociale.
+
+Ils doivent notamment :
+
+1° Vérifier la motivation de l'homme et de la femme formant le couple et leur rappeler les possibilités ouvertes par la loi
+en matière d'adoption ;
+
+2° Informer ceux-ci des possibilités de réussite et d'échec des techniques d'assistance médicale à la procréation, ainsi que
+de leur pénibilité ;
+
+3° Leur remettre un dossier-guide comportant notamment :
+
+a) Le rappel des dispositions législatives et réglementaires relatives à l'assistance médicale à la procréation ;
+
+b) Un descriptif de ces techniques ;
+
+c) Le rappel des dispositions législatives et réglementaires relatives à l'adoption, ainsi que l'adresse des associations et
+organismes susceptibles de compléter leur information à ce sujet.
+
+La demande ne peut être confirmée qu'à l'expiration d'un délai de réflexion d'un mois à l'issue du dernier entretien.
+
+La confirmation de la demande est faite par écrit.
+
+La mise en oeuvre de l'assistance médicale à la procréation est subordonnée à des règles de sécurité sanitaire définies par
+décret en Conseil d'Etat.
+
+L'assistance médicale à la procréation ne peut être mise en oeuvre par le médecin lorsque les demandeurs ne remplissent pas
+les conditions prévues par le présent chapitre ou lorsque le médecin, après concertation au sein de l'équipe
+pluridisciplinaire, estime qu'un délai de réflexion supplémentaire est nécessaire aux demandeurs dans l'intérêt de l'enfant à
+naître.
+
+Les époux ou les concubins qui, pour procréer, recourent à une assistance médicale nécessitant l'intervention d'un tiers
+donneur doivent préalablement donner, dans les conditions prévues par le code civil, leur consentement au juge ou au notaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 8 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. R152-5-7 (Ab)
+	  - Code de la santé publique - art. R162-33 (Ab)
+	  - Code de la santé publique - art. R184-1-5 (Ab)
+	  - Code de la santé publique - art. R673-5-6 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2141-10 (M)
+	  - Code de la santé publique - art. L2141-11 (M)
+
+
+###### Article L152-11
+
+Comme il est dit à l'article 511-16 du Code pénal, le fait d'obtenir des embryons humains sans respecter les conditions
+prévues aux articles L. 152-4 et L. 152-5 est puni de sept ans d'emprisonnement [*durée*] et de 700 000 F d'amende (1)
+[*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V) JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L152-19 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-16 (M)
+	  - Code de la santé publique - art. L152-4 (Ab)
+	  - Code de la santé publique - art. L152-5 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-4 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2152-2 (M)
+	  - Code de la santé publique - art. L2152-2 (T)
+
+
+###### Article L152-12
+
+Comme il est dit à l'article 511-15 du code pénal, le fait d'obtenir des embryons humains contre un paiement, quelle qu'en
+soit la forme, est puni de sept ans d'emprisonnement [*durée*] et de 700 000 F d'amende (1) [*montant*].
+
+Est puni des mêmes peines le fait d'apporter son entremise pour favoriser l'obtention d'embryons humains contre un paiement,
+quelle qu'en soit la forme, ou de remettre à des tiers, à titre onéreux, des embryons humains.
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-15 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 511-15 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L152-19 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2152-1 (M)
+	  - Code de la santé publique - art. L2152-1 (T)
+
+
+###### Article L152-13
+
+Comme il est dit à l'article 511-23 du Code pénal, le fait de divulguer une information nominative permettant d'identifier à
+la fois le couple qui a renoncé à un embryon et le couple qui l'a accueilli est puni de deux ans d'emprisonnement [*durée*]
+et de 200 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V) JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-23 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2152-7 (M)
+	  - Code de la santé publique - art. L2152-7 (T)
+
+
+###### Article L152-14
+
+Comme il est dit à l'article 511-24 du Code pénal, le fait de procéder à des activités d'assistance médicale à la procréation
+à des fins autres que celles définies à l'article L. 152-2 est puni de cinq ans d'emprisonnement [*durée*] et de 500 000 F
+d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V) JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-24 (M)
+	  - Code de la santé publique - art. L152-2 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2152-8 (M)
+
+
+###### Article L152-15
+
+Comme il est dit à l'article 511-17 du code pénal, le fait de procéder à la conception in vitro d'embryons humains à des fins
+industrielles ou commerciales est puni de sept ans d'emprisonnement [*durée*] et de 700 000 F d'amende (1) [*montant*].
+
+Est puni des mêmes peines le fait d'utiliser des embryons humains à des fins industrielles ou commerciales.
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 511-17 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-17 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2152-3 (M)
+	  - Code de la santé publique - art. L2152-3 (T)
+
+
+###### Article L152-16
+
+Comme il est dit à l'article 511-25 du Code pénal, le fait de procéder au transfert d'un embryon dans les conditions fixées à
+l'article L. 152-5 sans avoir pris connaissance des résultats des tests de dépistage de maladies infectieuses exigés en
+application de l'article précité est puni de deux ans d'emprisonnement [*durée*] et de 200 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V) JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-25 (M)
+	  - Code de la santé publique - art. L152-5 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2152-9 (M)
+	  - Code de la santé publique - art. L2152-9 (T)
+
+
+###### Article L152-17
+
+Comme il est dit à l'article 511-19 du code pénal, le fait de procéder à une étude ou une expérimentation sur l'embryon en
+violation des dispositions de l'article L. 152-8 du présent code est puni de sept ans d'emprisonnement [*durée*] et de 700
+000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 511-19 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L152-8 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-19 (M)
+	  - Code de la santé publique - art. L152-8 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L152-19 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2152-5 (M)
+	  - Code de la santé publique - art. L2152-5 (T)
+
+
+###### Article L152-18
+
+Comme il est dit à l'article 511-18 du code pénal, le fait de procéder à la conception in vitro d'embryons humains à des fins
+de recherche ou d'expérimentation est puni de sept ans d'emprisonnement [*durée*] et de 700 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-18 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 511-18 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2152-4 (M)
+	  - Code de la santé publique - art. L2152-4 (T)
+
+
+###### Article L152-19
+
+La tentative des délits prévus par les articles L. 152-11 et L. 152-17 est punie des mêmes peines. Comme il est dit à
+l'article 511-26 du code pénal, la tentative des délits prévus par l'article 511-15 dudit code auquel renvoie l'article L.
+152-12 du présent code est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-15 (M)
+	  - Code pénal - art. 511-26 (M)
+	  - Code de la santé publique - art. L152-11 (Ab)
+	  - Code de la santé publique - art. L152-12 (Ab)
+	  - Code de la santé publique - art. L152-17 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2152-10 (T)
+	  - Code de la santé publique - art. L2152-11 (T)
 
 
 #### Chapitre 3 : Actions de prévention concernant les futurs conjoints et parents
@@ -6671,21 +7770,17 @@ examen et discussion, que la poursuite de la grossesse met en péril grave la sa
 probabilité que l'enfant à naître soit atteint d'une affection d'une particulière gravité reconnue comme incurable au moment
 du diagnostic [*conditions*].
 
-L'un des deux médecins doit exercer son activité dans un établissement d'hospitalisation public ou dans un établissement
-d'hospitalisation privé satisfaisant aux conditions de l'article L. 176 et l'autre être inscrit sur une liste d'experts près
-la Cour de cassation ou près d'une cour d'appel.
+L'un des deux médecins doit exercer son activité dans un établissement public de santé ou dans un établissement de santé
+privé satisfaisant aux conditions de l'article L. 176 et l'autre être inscrit sur une liste d'experts près la Cour de
+cassation ou près d'une cour d'appel. En outre, si l'interruption de grossesse est envisagée au motif qu'il existe une forte
+probabilité que l'enfant à naître soit atteint d'une affection d'une particulière gravité reconnue comme incurable au moment
+du diagnostic, l'un de ces deux médecins doit exercer son activité dans un centre de diagnostic prénatal pluridisciplinaire.
 
-Un des exemplaires de la consultation est remis à l'intéressée :
-
-deux autres sont conservés par les médecins consultants.
+Un des exemplaires de la consultation est remis à l'intéressée ; deux autres sont conservés par les médecins consultants.
 
 **Nota:**
 
 [*Nota - Ordonnance 90-570 du 25 juin 1990 art. 7 : dispositions applicables à la collectivité territoriale de Mayotte.*]
-
-[*Nota : Loi 91-748 du 31 juillet 1991 art. 33 : dans les dispositions législatives, les mots "établissements publics de
-santé" sont substitués aux mots "établissements d'hospitalisation publics" et les mots "établissements de santé privés" sont
-substitués aux mots "établissements d'hospitalisation privés".*]
 
 **Liens relatifs à cet article**
 
@@ -6702,13 +7797,17 @@ substitués aux mots "établissements d'hospitalisation privés".*]
 	  - CODE PENAL - art. 317 (Ab)
 	  - Code de la santé publique - art. R162-29 (M)
 
-	**Modifié par**:
-
-	  - Loi n°89-899 du 18 décembre 1989 - art. 1 () JORF 19 décembre 1989
-
 	**Liens**:
 
 	  - SPEC_APPLI: Ordonnance 90-570 1990-06-25
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 13 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cite**:
 
@@ -6887,6 +7986,329 @@ L. 162-8.
 
 
 #### Chapitre 4 : Actions de prévention concernant l'enfant.
+
+###### Article L162-16
+
+Le diagnostic prénatal    s'entend des pratiques médicales ayant pour but de détecter in utero chez l'embryon ou le foetus
+une affection d'une particulière gravité. Il doit être précédé d'une consultation médicale de conseil génétique. 
+
+Les analyses de cytogénétique et de biologie en vue d'établir un diagnostic prénatal ne peuvent être pratiquées, dans des
+conditions prévues par décret en Conseil d'Etat, que dans des établissements publics de santé et des laboratoires d'analyses
+de biologie médicale autorisés selon les modalités prévues par les dispositions des sections 1 et 2 du chapitre II du titre
+Ier du livre VII. 
+
+Les autorisations prévues par le présent article sont délivrées pour une durée de cinq ans et sont accordées après avis de la
+Commission nationale de médecine et de biologie de la reproduction et du diagnostic prénatal instituée par l'article L. 184-3
+et du Comité national de l'organisation sanitaire et sociale. Pour les laboratoires d'analyses de biologie médicale, cette
+autorisation vaut inscription sur la liste prévue à l'article L. 759. 
+
+Des centres de diagnostic prénatal pluridisciplinaires sont créés dans des organismes et établissements de santé publics et
+privés à but non lucratif. Leurs missions, leur rôle auprès des autres intervenants en matière de diagnostic prénatal et les
+conditions de leur création et de leur agrément sont définis par décret en Conseil d'Etat.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 162-18 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 12 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 19 (V)
+	  - Arrêté du 27 mai 1997 - art. 1 (M)
+	  - Code de la santé publique - art. L162-17 (Ab)
+	  - Code de la santé publique - art. L162-18 (Ab)
+	  - Code de la santé publique - art. L184-6 (Ab)
+	  - Code de la santé publique - art. R162-16-1 (Ab)
+	  - Code de la santé publique - art. R162-16-2 (Ab)
+	  - Code de la santé publique - art. R162-18 (Ab)
+	  - Code de la santé publique - art. R162-38 (Ab)
+	  - Code de la santé publique - art. R184-3-9 (Ab)
+	  - Code pénal - art. 511-20 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L162-18 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L184-3 (Ab)
+	  - Code de la santé publique - art. L759 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2131-1 (M)
+	  - Code de la santé publique - art. L2131-1 (V)
+	  - Code de la santé publique - art. L2131-5 (M)
+	  - Code de la santé publique - art. L2131-5 (V)
+
+
+###### Article L162-17
+
+Le diagnostic [*préimplantatoire*] biologique effectué à partir de cellules prélevées sur l'embryon in vitro n'est autorisé
+qu'à titre exceptionnel dans les conditions suivantes :
+
+Un médecin exerçant son activité dans un centre de diagnostic prénatal pluridisciplinaire tel que défini par l'article L.
+162-16 doit attester que le couple, du fait de sa situation familiale, a une forte probabilité de donner naissance à un
+enfant atteint d'une maladie génétique d'une particulière gravité reconnue comme incurable au moment du diagnostic.
+
+Le diagnostic ne peut être effectué que lorsque a été préalablement et précisément identifiée, chez l'un des parents,
+l'anomalie ou les anomalies responsables d'une telle maladie.
+
+Les deux membres du couple expriment par écrit leur consentement à la réalisation du diagnostic.
+
+Le diagnostic ne peut avoir d'autre objet que de rechercher cette affection ainsi que les moyens de la prévenir et de la
+traiter.
+
+Il ne peut être réalisé que dans un établissement spécifiquement autorisé à cet effet après avis de la Commission nationale
+de médecine et de biologie de la reproduction et du diagnostic prénatal et dans des conditions définies par décret en Conseil
+d'Etat.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 162-20 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 14 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. L162-20 (Ab)
+	  - Code de la santé publique - art. R152-8-1 (Ab)
+	  - Code de la santé publique - art. R162-36 (Ab)
+	  - Code de la santé publique - art. R184-3-10 (Ab)
+	  - Code pénal - art. 511-21 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L162-16 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L162-20 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2131-4 (M)
+	  - Code de la santé publique - art. L2131-4 (V)
+	  - Code de la santé publique - art. L2131-5 (M)
+	  - Code de la santé publique - art. L2131-5 (V)
+
+
+###### Article L162-18
+
+Comme il est dit à l'article 511-20 du Code pénal, le fait de procéder au diagnostic prénatal sans avoir reçu l'autorisation
+mentionnée à l'article L. 162-16 est puni de deux ans d'emprisonnement [*durée*] et de 200 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V) JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-20 (M)
+	  - Code de la santé publique - art. L162-16 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L162-16 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2151-1 (M)
+	  - Code de la santé publique - art. L2151-1 (T)
+
+
+###### Article L162-19
+
+Le fait de procéder à une interruption de grossesse après diagnostic prénatal sans avoir respecté les modalités prévues par
+la loi est puni de deux ans d'emprisonnement [*durée*] et de 200 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2222-3 (M)
+	  - Code de la santé publique - art. L2222-3 (V)
+
+
+###### Article L162-20
+
+Comme il est dit à l'article 511-21 du Code pénal, le fait de méconnaître les dispositions de l'article L. 162-17 relatif au
+diagnostic préimplantatoire est puni de deux ans d'emprisonnement [*durée*] et de 200 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V) JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-21 (M)
+	  - Code de la santé publique - art. L162-17 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L162-17 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2151-2 (M)
+	  - Code de la santé publique - art. L2151-2 (V)
+
+
+###### Article L162-21
+
+Les personnes physiques coupables des infractions prévues à la section 4 du chapitre V, au chapitre II bis et au présent
+chapitre IV du présent titre encourent également la peine complémentaire d'interdiction, pour une durée de dix ans au plus,
+d'exercer l'activité professionnelle ou sociale dans l'exercice de laquelle ou à l'occasion de laquelle l'infraction a été
+commise [*sanction*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2153-1 (T)
+
+
+###### Article L162-22
+
+Comme il est dit à l'article 511-28 du code pénal, les personnes morales peuvent être déclarées responsables pénalement, dans
+les conditions prévues par l'article 121-2 dudit code, des infractions définies à la section 4 du chapitre V et au chapitre
+II bis du présent titre. Les peines encourues par les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du code pénal.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Arrêté du 12 novembre 1992 - art. 2 (V)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 511-28 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2153-2 (T)
+
 
 ###### Article L163
 
@@ -7624,6 +9046,330 @@ Les dispositions de l'article L. 164-1 du code de la sécurité sociale sont app
 
 	  - Code de la santé publique - art. L2323-1 (M)
 	  - Code de la santé publique - art. L2323-1 (V)
+
+
+##### Section 4 : Activités d'assistance médicale à la procréation
+
+###### Article L184-1
+
+Les activités cliniques d'assistance médicale à la procréation, à l'exception de l'insémination artificielle, ne peuvent être
+pratiquées que dans des établissements de santé.
+
+Les activités biologiques d'assistance médicale à la procréation ne peuvent être pratiquées que dans des établissements
+publics de santé et des laboratoires d'analyses de biologie médicale.
+
+A l'exception de l'insémination artificielle, les activités, tant cliniques que biologiques, d'assistance médicale à la
+procréation doivent être autorisées suivant les modalités prévues par les dispositions des sections 1 et 2 du chapitre II du
+titre Ier du livre VII. Cette autorisation vaut dérogation, au sens des dispositions du sixième alinéa de l'article L. 761,
+pour les laboratoires d'analyses médicales.
+
+Pour être autorisés à exercer ces activités, les établissements et les laboratoires mentionnés aux premier et deuxième
+alinéas du présent article doivent remplir les conditions déterminées en application des dispositions susmentionnées du livre
+VII et des conditions de fonctionnement définies par décret en Conseil d'Etat. Ce décret détermine également les obligations
+auxquelles sont tenus les établissements et les laboratoires au regard de la conservation des gamètes, notamment lorsqu'ils
+cessent leurs activités.
+
+L'autorisation porte sur une ou plusieurs des activités d'assistance médicale à la procréation, avec ou sans tiers donneur.
+Elle est délivrée pour une durée de cinq ans. Elle est accordée après avis de la Commission nationale de médecine et de
+biologie de la reproduction et du diagnostic prénatal instituée par l'article L. 184-3 et du Comité national de
+l'organisation sanitaire et sociale.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 184-7 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 11 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 19 (V)
+	  - Code de la santé publique - art. L184-6 (Ab)
+	  - Code de la santé publique - art. L184-7 (Ab)
+	  - Code de la santé publique - art. R152-8-4 (Ab)
+	  - Code de la santé publique - art. R152-9-2 (Ab)
+	  - Code de la santé publique - art. R152-9-6 (Ab)
+	  - Code de la santé publique - art. R162-38 (Ab)
+	  - Code de la santé publique - art. R184-1-1 (Ab)
+	  - Code de la santé publique - art. R184-3-8 (Ab)
+	  - Code pénal - art. 511-22 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L184-3 (Ab)
+	  - Code de la santé publique - art. L761 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L184-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2142-1 (M)
+	  - Code de la santé publique - art. L2142-1 (V)
+	  - Code de la santé publique - art. L2142-4 (M)
+	  - Code de la santé publique - art. L2142-4 (V)
+
+
+###### Article L184-2
+
+Tout établissement ou laboratoire autorisé à pratiquer des activités d'assistance médicale à la procréation ou de diagnostic
+prénatal, tout centre pluridisciplinaire de diagnostic prénatal est tenu de présenter au ministre chargé de la santé un
+rapport annuel d'activité suivant des modalités déterminées par arrêté de ce ministre.
+
+Il est également tenu d'établir et de conserver dans des conditions fixées par décret en Conseil d'Etat des registres
+relatifs aux gamètes et aux embryons qu'il conserve.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 11 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 10 février 1998 - art. 1 (V)
+	  - Arrêté du 10 février 1998 - art. 2 (V)
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. L184-4 (Ab)
+	  - Code de la santé publique - art. L673-5 (Ab)
+	  - Code de la santé publique - art. R162-25 (Ab)
+	  - Code de la santé publique - art. R184-3-11 (Ab)
+	  - Code de la santé publique - art. R184-3-13 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2131-2 (M)
+	  - Code de la santé publique - art. L2131-2 (V)
+	  - Code de la santé publique - art. L2142-2 (M)
+	  - Code de la santé publique - art. L2142-2 (V)
+	  - Code de la santé publique - art. L2142-4 (M)
+	  - Code de la santé publique - art. L2142-4 (V)
+
+
+###### Article L184-3
+
+La Commission nationale de médecine et de biologie de la reproduction et du diagnostic prénatal est chargée de donner un avis
+sur les demandes d'autorisation d'exercice des activités d'assistance médicale à la procréation et de diagnostic prénatal,
+sur les demandes d'agrément des centres pluridisciplinaires de diagnostic prénatal ainsi que sur les décisions de retrait
+d'autorisation. Elle participe au suivi et à l'évaluation du fonctionnement des établissements et laboratoires autorisés.
+
+Elle remet chaque année au ministre chargé de la santé un rapport portant sur l'évolution de la médecine et de la biologie de
+la reproduction et du diagnostic prénatal.
+
+La Commission nationale de médecine et de biologie de la reproduction et du diagnostic prénatal comprend des praticiens
+désignés sur proposition de leurs organisations représentatives, des personnalités choisies en raison de leur compétence dans
+les domaines de la procréation, de l'obstétrique, du diagnostic prénatal, du conseil génétique et du droit de la filiation et
+des représentants des administrations intéressées et des ordres professionnels ainsi qu'un représentant des associations
+familiales.
+
+La commission est présidée par un membre de la Cour de cassation, du Conseil d'Etat ou de la Cour des comptes désigné par
+décret.
+
+Un décret en Conseil d'Etat fixe la composition de la Commission nationale de médecine et de biologie de la reproduction et
+du diagnostic prénatal et détermine les modalités de son organisation et de son fonctionnement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 11 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°95-558 du 6 mai 1995 - art. 2 (Ab)
+	  - Code de la santé publique - art. L152-8 (Ab)
+	  - Code de la santé publique - art. L162-16 (Ab)
+	  - Code de la santé publique - art. L184-1 (Ab)
+	  - Code de la santé publique - art. L673-5 (Ab)
+	  - Code de la santé publique - art. R184-3-1 (Ab)
+	  - Code de la santé publique - art. R184-3-10 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2113-1 (V)
+	  - Code de la santé publique - art. L2113-3 (V)
+	  - Code de la santé publique - art. L2113-5 (V)
+
+
+###### Article L184-4
+
+Le ministre chargé de la santé communique à la Commission nationale de médecine et de biologie de la reproduction et du
+diagnostic prénatal le rapport mentionné à l'article L. 184-2 et tous documents utiles pour les besoins de sa mission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 11 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L184-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2113-2 (V)
+
+
+###### Article L184-5
+
+Les membres de la Commission nationale de médecine et de biologie de la reproduction et du diagnostic prénatal et les
+personnes appelées à collaborer à ses travaux sont tenus, dans les conditions et sous les peines prévues à l'article 226-13
+du code pénal, de garder secrètes les informations dont ils peuvent avoir connaissance en raison de leurs fonctions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 11 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2113-4 (V)
+
+
+###### Article L184-6
+
+Toute violation constatée dans un établissement ou un laboratoire, et du fait de celui-ci, des prescriptions législatives et
+réglementaires applicables à l'assistance médicale à la procréation ou au diagnostic prénatal entraîne le retrait temporaire
+ou définitif des autorisations prévues aux articles L. 184-1 et L. 162-16.
+
+Le retrait de l'autorisation est également encouru en cas de violation des prescriptions fixées par l'autorisation.
+
+Le retrait ne peut intervenir qu'après un délai d'un mois suivant une mise en demeure adressée par l'autorité administrative
+à l'établissement ou au laboratoire concerné et précisant les griefs. En cas de violation grave des dispositions de la loi n°
+94-654 du 29 juillet 1994 relative au don et à l'utilisation des éléments et produits du corps humain, à l'assistance
+médicale à la procréation et au diagnostic prénatal, l'autorisation peut être suspendue sans délai à titre conservatoire.
+
+La décision de retrait est prise après avis motivé de la Commission nationale de médecine et de biologie de la reproduction
+et du diagnostic prénatal. Elle est publiée au Journal officiel de la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Loi n°94-654 1994-07-29
+	  - Code de la santé publique - art. L162-16 (Ab)
+	  - Code de la santé publique - art. L184-1 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2131-3 (M)
+	  - Code de la santé publique - art. L2131-3 (V)
+	  - Code de la santé publique - art. L2142-3 (M)
+	  - Code de la santé publique - art. L2142-3 (V)
+
+
+###### Article L184-7
+
+Comme il est dit à l'article 511-22 du Code pénal, le fait de procéder à des activités d'assistance médicale à la procréation
+sans avoir recueilli l'autorisation prévue à l'article L. 184-1 est puni de deux ans d'emprisonnement et de 200 000 F
+d'amende (1).
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V) JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 18 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-22 (M)
+	  - Code de la santé publique - art. L184-1 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L184-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2152-6 (M)
+	  - Code de la santé publique - art. L2152-6 (T)
 
 
 #### Chapitre 6 : Financement.
@@ -40162,9 +41908,272 @@ peuvent être dispensés de la certification de conformité prévue par l'articl
 	  - Code de la santé publique - art. L665-4 (M)
 
 
-## Livre 6 : Utilisation thérapeutique de produits d'origine humaine
+## Livre 6 : Don et utilisation des éléments et produits du corps humain
 
-### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés
+### Titre 1 : Principes généraux applicables au don et à l'utilisation des éléments et produits du corps humain
+
+###### Article L665-10
+
+La cession et l'utilisation des éléments et produits du corps humain sont régies par les dispositions du chapitre II du titre
+Ier du livre Ier du code civil et par les dispositions du présent titre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 2 () JORF 30 juillet 1994
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°97-928 du 9 octobre 1997
+	  - TXT_SOURCE: Décret n°97-928 du 9 octobre 1997 - art. 2 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°2003-462 du 21 mai 2003 - art. 6 (V)
+	  - Code de la santé publique - art. L511-2 (Ab)
+	  - Code de la santé publique - art. L666-8 (Ab)
+	  - Code de la santé publique - art. L672-13 (Ab)
+	  - Code de la santé publique - art. L676-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1211-1 (V)
+
+
+###### Article L665-11
+
+Le prélèvement d'éléments du corps humain et la collecte de ses produits ne peuvent être pratiqués sans le consentement
+préalable du donneur. Ce consentement est révocable à tout moment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 2 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1211-2 (M)
+	  - Code de la santé publique - art. L1211-2 (V)
+
+
+###### Article L665-12
+
+Est interdite la publicité en faveur d'un don d'éléments ou de produits du corps humain au profit d'une personne déterminée
+ou au profit d'un établissement ou organisme déterminé. Cette interdiction ne fait pas obstacle à l'information du public en
+faveur du don d'éléments et produits du corps humain.
+
+Cette information est réalisée sous la responsabilité du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 2 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1211-3 (M)
+	  - Code de la santé publique - art. L1211-3 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L665-17 (Ab)
+	  - Code de la santé publique - art. L672-1 (Ab)
+
+
+###### Article L665-13
+
+Aucun paiement, quelle qu'en soit la forme, ne peut être alloué à celui qui se prête au prélèvement d'éléments de son corps
+ou à la collecte de ses produits [*interdiction de rémunération*]. Seul peut intervenir, le cas échéant, le remboursement des
+frais engagés selon des modalités fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 2 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. L665-17 (Ab)
+	  - Code de la santé publique - art. L672-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1211-4 (M)
+	  - Code de la santé publique - art. L1211-4 (V)
+	  - Code de la santé publique - art. L1211-9 (M)
+	  - Code de la santé publique - art. L1211-9 (V)
+
+
+###### Article L665-14
+
+Le donneur ne peut connaître l'identité du receveur, ni le receveur celle du donneur. Aucune information permettant
+d'identifier à la fois celui qui a fait don d'un élément ou d'un produit de son corps et celui qui l'a reçu ne peut être
+divulguée.
+
+Il ne peut être dérogé à ce principe d'anonymat qu'en cas de nécessité thérapeutique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 2 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. L672-1 (Ab)
+	  - Code de la santé publique - art. R665-80-7 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1211-5 (V)
+
+
+###### Article L665-15
+
+Le prélèvement d'éléments et la collecte de produits du corps humain à des fins thérapeutiques sont soumis à des règles de
+sécurité sanitaire définies par décret en Conseil d'Etat.
+
+Ces règles comprennent notamment des tests de dépistage des maladies transmissibles.
+
+Un décret en Conseil d'Etat fixe également les conditions dans lesquelles s'exerce la vigilance concernant les éléments et
+produits du corps humain, les produits, autres que les médicaments, qui en dérivent, ainsi que les dispositifs médicaux les
+incorporant, en particulier les informations que sont tenus de transmettre les utilisateurs ou des tiers.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 674-7, L. 675-12 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 2 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 9 octobre 1997 - art. 5 (Ab)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 6 (V)
+	  - Code de la santé publique - art. L665-17 (Ab)
+	  - Code de la santé publique - art. L672-1 (Ab)
+	  - Code de la santé publique - art. L674-7 (Ab)
+	  - Code de la santé publique - art. L675-12 (Ab)
+	  - Code de la santé publique - art. R673-10-4 (Ab)
+	  - Code de la santé publique - art. R673-14 (Ab)
+	  - Code pénal - art. 511-11 (M)
+	  - Code pénal - art. 511-8 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°97-928 du 9 octobre 1997
+	  - TXT_SOURCE: Décret n°97-928 du 9 octobre 1997 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-10 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-7 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-8 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-9 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L675-12 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1211-6 (M)
+	  - Code de la santé publique - art. L1211-7 (M)
+	  - Code de la santé publique - art. L1211-9 (M)
+	  - Code de la santé publique - art. L1211-9 (V)
+
+
+###### Article L665-16
+
+Ne sont pas soumis aux dispositions du présent titre les produits du corps humain pour lesquels il est d'usage de ne pas
+appliquer l'ensemble des principes qu'énoncent les articles L. 665-11 à L. 665-15. La liste de ces produits est fixée par
+décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1211-8 (V)
+	  - Code de la santé publique - art. L1211-9 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L665-17 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique L665-11 à L665-15
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 2 () JORF 30 juillet 1994
+
+
+### Titre 2 : Du sang humain
+
+#### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés
 
 ###### Article L666-1
 
@@ -40178,10 +42187,6 @@ du don, et de l'absence de profit, dans les conditions définies par le présent
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
@@ -40189,6 +42194,15 @@ du don, et de l'absence de profit, dans les conditions définies par le présent
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1221-1 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 ###### Article L666-2
@@ -40204,13 +42218,19 @@ chapitre.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1221-2 (M)
+	  - Code de la santé publique - art. L1221-2 (V)
 
 	**Cité par**:
 
@@ -40238,10 +42258,6 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
@@ -40252,9 +42268,19 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 
 	  - TXT_SOURCE: Décret n°94-611 du 20 juillet 1994
 
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1221-3 (M)
+	  - Code de la santé publique - art. L1221-3 (V)
 
 
 ###### Article L666-4
@@ -40275,10 +42301,6 @@ loi 93-5.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Arrêté du 7 février 1994 - art. Annexe (V)
@@ -40288,6 +42310,15 @@ loi 93-5.*]
 	  - Code de la santé publique - art. L668-5 (Ab)
 	  - Code de la santé publique - art. L671-4 (T)
 	  - Code de la santé publique - art. L675-4 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -40320,10 +42351,6 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
@@ -40332,8 +42359,18 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 	  - Code de la santé publique - art. L671-2 (T)
 	  - Code de la santé publique - art. L675-2 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L1221-5 (M)
 	  - Code de la santé publique - art. L1221-5 (V)
 
 
@@ -40350,16 +42387,14 @@ mentionnées à l'article L. 666-5 [*mineur ou majeur faisant l'objet d'une mesu
 [*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
 de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
 
+[*Nota - Code de la santé publique L. 675-5 : sanction pénale.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
 
 	**Cité par**:
 
@@ -40369,9 +42404,19 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 	  - Code de la santé publique - art. L671-5 (T)
 	  - Code de la santé publique - art. L675-5 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1221-6 (M)
+	  - Code de la santé publique - art. L1221-6 (V)
 
 	**Cite**:
 
@@ -40394,6 +42439,8 @@ Il ne peut être dérogé à ce principe d'anonymat qu'en cas de nécessité th�
 [*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
 de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
 
+[*Nota - Code de la santé publique L. 675-6 : sanction pénale.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -40401,16 +42448,21 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
 	  - Code de la santé publique - art. L666-8 (Ab)
 	  - Code de la santé publique - art. L671-6 (T)
 	  - Code de la santé publique - art. L675-6 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -40435,6 +42487,11 @@ dispositions du chapitre V ci-après ;
 3° Des réactifs de laboratoire, dont les caractéristiques et les conditions de préparation et d'utilisation sont définies par
 décret.
 
+4° Des préparations cellulaires réalisées, à partir du prélèvement de cellules souches hématopoïétiques et de cellules
+somatiques mononucléées, par des établissements ou organismes remplissant des conditions fixées par décret en Conseil d'Etat
+et autorisés par le ministre chargé de la santé, sur proposition de l'Agence française du sang lorsque la demande est
+présentée par un établissement de transfusion sanguine.
+
 Le sang et ses composants peuvent être utilisés dans le cadre d'une activité de recherche, qu'ils aient été ou non prélevés
 par des établissements de transfusion sanguine. Les principes mentionnés aux articles L. 666-3, L. 666-4, L. 666-5, L. 666-6
 et L. 666-7 sont également applicables dans ce cas, sans préjudice des dispositions du livre II bis relatives à la protection
@@ -40447,10 +42504,6 @@ réglementaire aux obligations définies par l'article L. 666-4.
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
 
 	**Cité par**:
 
@@ -40495,6 +42548,12 @@ réglementaire aux obligations définies par l'article L. 666-4.
 	  - TXT_SOURCE: Arrêté du 11 septembre 1998 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 11 septembre 1998 - art. 2 (V)
 
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 7 () JORF 30 juillet 1994
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1221-8 (M)
@@ -40520,10 +42579,6 @@ du sang, fixe les tarifs [*prix*] de cession des produits sanguins labiles.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
@@ -40535,6 +42590,11 @@ du sang, fixe les tarifs [*prix*] de cession des produits sanguins labiles.
 	  - Code de la sécurité sociale. - art. R161-42 (V)
 	  - Code de la sécurité sociale. - art. R321-1 (Ab)
 	  - Code de la sécurité sociale. - art. R615-37 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Nouveaux textes**:
 
@@ -40560,10 +42620,6 @@ Il peut en suspendre ou en interdire définitivement la distribution et l'utilis
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
@@ -40576,6 +42632,11 @@ Il peut en suspendre ou en interdire définitivement la distribution et l'utilis
 	  - Code de la santé publique - art. R5184 (Ab)
 	  - Code de la santé publique - art. R666-12-9 (Ab)
 	  - Code de la santé publique - art. R667-12 (M)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Liens**:
 
@@ -40614,9 +42675,10 @@ autorisation délivrée par le ministre chargé de la santé dans des conditions
 
 	  - TXT_ASSOCIE: Code de la santé publique - art. L675-1 (Ab)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 
 ###### Article L666-12
@@ -40643,13 +42705,14 @@ l'article 378 du code pénal est remplacée par la référence aux peines fixée
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°94-68 du 24 janvier 1994
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Cite**:
 
@@ -40672,22 +42735,28 @@ destinée à la seule information médicale ou à signaler l'emplacement des dé
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1221-11 (M)
+	  - Code de la santé publique - art. L1221-11 (V)
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L666-2 (M)
 
 
-### Chapitre 2 : Du comité de sécurité transfusionnelle et de l'Agence française du sang
+#### Chapitre 2 : Du comité de sécurité transfusionnelle et de l'Agence française du sang
 
-#### Section 1 : Du comité de sécurité transfusionnelle
+##### Section 1 : Du comité de sécurité transfusionnelle
 
 ###### Article L667-1
 
@@ -40704,14 +42773,23 @@ d'administration de l'Agence française du sang.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Décret n°93-312 du 9 mars 1993 - art. 4 (Ab)
 	  - Code de la santé publique - art. R667-4 (M)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 18 B : date d'entrée en vigueur
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V) JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1999
 
 
 ###### Article L667-2
@@ -40731,9 +42809,18 @@ incidence sur l'activité transfusionnelle.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 18 B : date d'entrée en vigueur
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V) JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1999
 
 
 ###### Article L667-3
@@ -40752,12 +42839,21 @@ relative à la sécurité transfusionnelle.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 18 B : date d'entrée en vigueur
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V) JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1999
 
 
-#### Section 2 : De l'Agence française du sang
+##### Section 2 : De l'Agence française du sang
 
 ###### Article L667-4
 
@@ -40770,10 +42866,6 @@ et placé sous la tutelle du ministre chargé de la santé.
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
 
 	**Liens**:
 
@@ -40824,11 +42916,21 @@ et placé sous la tutelle du ministre chargé de la santé.
 	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 7 (Ab)
 	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 8 (Ab)
 	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 9 (Ab)
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 18 B : date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Cité par**:
 
 	  - Décret n°95-755 du 1 juin 1995 - art. 2 (P)
 	  - Code de la santé publique - art. D666-3-5 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V) JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1999
 
 
 ###### Article L667-5
@@ -40895,10 +42997,6 @@ L'agence remet chaque année au Gouvernement un rapport sur l'activité de trans
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Décret n°93-312 du 9 mars 1993 - art. 15 (Ab)
@@ -40909,6 +43007,11 @@ L'agence remet chaque année au Gouvernement un rapport sur l'activité de trans
 	  - Code de la santé publique - art. R667-2 (M)
 	  - Code de la santé publique - art. R667-6 (Ab)
 	  - Code de la santé publique - art. R667-9 (M)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Nouveaux textes**:
 
@@ -40952,10 +43055,6 @@ techniques dont les membres sont nommés par arrêté du ministre chargé de la 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Décret n°93-312 du 9 mars 1993 - art. 16 (Ab)
@@ -40963,6 +43062,11 @@ techniques dont les membres sont nommés par arrêté du ministre chargé de la 
 	  - Code de la santé publique - art. R667-16 (M)
 	  - Code de la santé publique - art. R667-8 (Ab)
 	  - Code de la santé publique - art. R668-4-5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Nouveaux textes**:
 
@@ -40990,6 +43094,11 @@ prises par le président de l'agence, qui en rend compte au conseil d'administra
 	  - Code de la santé publique - art. R667-12 (M)
 	  - Code de la santé publique - art. R667-27 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1222-6 (V)
@@ -41001,10 +43110,6 @@ prises par le président de l'agence, qui en rend compte au conseil d'administra
 	  - Code de la santé publique - art. L668-4 (M)
 	  - Code de la santé publique - art. L668-5 (M)
 	  - Code de la santé publique - art. L668-8 (M)
-
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
 
 
 ###### Article L667-8
@@ -41039,9 +43144,10 @@ sont soumises aux obligations énoncées au deuxième alinéa du présent articl
 	  - Loi n°83-634 du 13 juillet 1983 - art. 3 (V)
 	  - Code pénal 175-1
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Cité par**:
 
@@ -41099,10 +43205,6 @@ ordinales compétentes.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Loi n°93-5 du 4 janvier 1993 - art. 14 (V)
@@ -41112,6 +43214,19 @@ ordinales compétentes.
 	  - Code de la santé publique - art. L676-5 (Ab)
 	  - Code de la santé publique - art. R667-28 (Ab)
 	  - Code de la santé publique - art. R668-5-4 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 18 B : date d'entrée en vigueur
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V) JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1999
 
 	**Cite**:
 
@@ -41134,9 +43249,18 @@ médicament [*organisme compétent*].
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 18 B : date d'entrée en vigueur
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V) JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1999
 
 
 ###### Article L667-11
@@ -41177,15 +43301,21 @@ chargés de la santé et du budget. Le prélèvement pour frais d'assiette et de
 	  - Code de la santé publique - art. L670-2 (Ab)
 	  - Code de la santé publique - art. R669-3 (Ab)
 
-	**Modifié par**:
-
-	  - Loi n°94-43 du 18 janvier 1994 - art. 52 () JORF 19 janvier 1994
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 28 janvier 1994
 	  - TXT_SOURCE: Arrêté du 28 janvier 1994 - art. 1 (V)
 	  - TXT_SOURCE: Arrêté du 28 janvier 1994 - art. 2 (V)
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 18 B : date d'entrée en vigueur
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V) JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1999
 
 
 ###### Article L667-12
@@ -41215,14 +43345,15 @@ du 2 janvier 1959 portant loi organique relative aux lois de finances ;
 	  - Ordonnance n°59-2 du 2 janvier 1959 - art. 5 (Ab)
 	  - Code de la sécurité sociale. - art. L174-2 (M)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Décret n°93-312 du 9 mars 1993 - art. 37 (Ab)
 	  - Code de la santé publique - art. R667-37 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 
 ###### Article L667-13
@@ -41239,16 +43370,17 @@ Conseil d'Etat.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1222-10 (M)
 
 
-### Chapitre 3 : Des établissements de transfusion sanguine
+#### Chapitre 3 : Des établissements de transfusion sanguine
 
 ###### Article L668-1
 
@@ -41295,11 +43427,11 @@ par décret en Conseil d'Etat.
 	**Cite**:
 
 	  - Loi n°82-610 1982-07-15 art. 21
+	  - Loi n°1908-04-19
 	  - Code de la santé publique - art. L666-2 (M)
 	  - Code de la santé publique - art. L670-2 (M)
 	  - Code de la santé publique - art. L670-3 (M)
 	  - Loi n°1901-07-01
-	  - Loi n°1908-04-19
 
 	**Cité par**:
 
@@ -41343,9 +43475,10 @@ par décret en Conseil d'Etat.
 	  - Code de la santé publique - art. R668-4 (Ab)
 	  - Code de la santé publique - art. R668-5-8 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Nouveaux textes**:
 
@@ -41373,10 +43506,6 @@ indique la zone de collecte de l'établissement.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Loi n°93-5 du 4 janvier 1993 - art. 8 (V)
@@ -41392,6 +43521,11 @@ indique la zone de collecte de l'établissement.
 	  - Code de la santé publique - art. R668-1-2 (Ab)
 	  - Code de la santé publique - art. R668-1-3 (M)
 	  - Code de la santé publique - art. R668-3 (M)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Nouveaux textes**:
 
@@ -41415,10 +43549,6 @@ produit afin qu'il soit procédé à son enregistrement.
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
 
 	**Cité par**:
 
@@ -41452,6 +43582,11 @@ produit afin qu'il soit procédé à son enregistrement.
 	  - TXT_SOURCE: Arrêté du 7 février 1994 - art. Annexe (V)
 	  - TXT_SOURCE: Arrêté du 16 juillet 1998
 
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
 
 ###### Article L668-4
 
@@ -41472,10 +43607,6 @@ sanguine.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
@@ -41494,14 +43625,24 @@ sanguine.
 	  - Code de la santé publique - art. R668-4-2 (Ab)
 	  - Code de la santé publique - art. R716-3-38-15 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 18 B : date d'entrée en vigueur
+	  - TXT_ASSOCIE: Code de la santé publique - art. L675-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V) JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1999
+
 	**Cite**:
 
 	  - Code de la santé publique - art. L668-1 (M)
 	  - Code de la santé publique - art. L668-3 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L675-1 (Ab)
 
 
 ###### Article L668-5
@@ -41523,10 +43664,6 @@ et avec l'autorisation de l'Agence française du sang.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Loi n°93-5 du 4 janvier 1993 - art. 14 (V)
@@ -41540,6 +43677,11 @@ et avec l'autorisation de l'Agence française du sang.
 	  - Code de la santé publique - art. R667-12 (M)
 	  - Code de la santé publique - art. R667-9 (Ab)
 	  - Code de la santé publique - art. R668-5-6 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Nouveaux textes**:
 
@@ -41563,6 +43705,19 @@ transfusion sanguine pour l'exercice d'une activité ou l'utilisation d'un équi
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 18 B : date d'entrée en vigueur
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V) JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1999
+
 	**Cité par**:
 
 	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
@@ -41572,10 +43727,6 @@ transfusion sanguine pour l'exercice d'une activité ou l'utilisation d'un équi
 
 	  - Code de la santé publique - art. L668-4 (M)
 	  - Code de la santé publique - art. L668-5 (M)
-
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
 
 
 ###### Article L668-7
@@ -41595,10 +43746,6 @@ régulièrement transmises par les établissements.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
@@ -41607,6 +43754,19 @@ régulièrement transmises par les établissements.
 	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
 	  - Code de la santé publique - art. Annexe II aux articles R668-1-1 à R668-21 (Ab)
 	  - Code de la santé publique - art. R716-3-38-15 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 18 B : date d'entrée en vigueur
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V) JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1999
 
 	**Cite**:
 
@@ -41633,10 +43793,6 @@ au premier alinéa doivent être inscrits.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
@@ -41649,6 +43805,11 @@ au premier alinéa doivent être inscrits.
 	  - Code de la santé publique - art. R667-12 (M)
 	  - Code de la santé publique - art. R667-8 (Ab)
 	  - Code de la santé publique - art. R667-9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Liens**:
 
@@ -41682,10 +43843,6 @@ Un décret en Conseil d'Etat fixe les conditions relatives aux qualifications et
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
@@ -41700,6 +43857,11 @@ Un décret en Conseil d'Etat fixe les conditions relatives aux qualifications et
 	  - Code de la santé publique - art. R668-2-22 (Ab)
 	  - Code de la santé publique - art. R668-2-23 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997
@@ -41712,6 +43874,11 @@ Un décret en Conseil d'Etat fixe les conditions relatives aux qualifications et
 	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997 - art. 7 (V)
 	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997 - art. 8 (V)
 	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997 - art. 9 (V)
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 18 B : date d'entrée en vigueur
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V) JORF 2 juillet 1998 en vigueur au plus tard le 31 décembre 1999
 
 
 ###### Article L668-10
@@ -41729,16 +43896,14 @@ de la santé et de l'économie et des finances.
 de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna. Pour sa rédaction, voir l'article 15 de la
 loi 93-5.*]
 
+[*Nota - Code de la santé publique L. 675-5 : sanction pénale.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
 
 	**Cité par**:
 
@@ -41748,6 +43913,11 @@ loi 93-5.*]
 	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V)
 	  - Code de la santé publique - art. L671-5 (T)
 	  - Code de la santé publique - art. L675-5 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Nouveaux textes**:
 
@@ -41794,10 +43964,6 @@ commission d'organisation de la transfusion sanguine.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
@@ -41811,6 +43977,11 @@ commission d'organisation de la transfusion sanguine.
 	  - Code de la santé publique - art. L675-8 (Ab)
 	  - Code de la santé publique - art. R667-12 (M)
 	  - Code de la santé publique - art. R667-9 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Nouveaux textes**:
 
@@ -41828,7 +43999,7 @@ commission d'organisation de la transfusion sanguine.
 	  - Code de la santé publique - art. L669-4 (M)
 
 
-### Chapitre 4 : Des schémas d'organisation de la transfusion sanguine
+#### Chapitre 4 : Des schémas d'organisation de la transfusion sanguine
 
 ###### Article L669-1
 
@@ -41844,9 +44015,10 @@ mentionnée à l'article L. 669-4.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 5 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Nouveaux textes**:
 
@@ -41869,14 +44041,15 @@ préparé par l'Agence française du sang et après avis de la commission d'orga
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 5 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
 	  - Code de la santé publique - art. R667-12 (M)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Nouveaux textes**:
 
@@ -41903,17 +44076,23 @@ Chaque schéma d'organisation de la transfusion sanguine détermine [*contenu*] 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 5 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Loi n°93-5 du 4 janvier 1993 - art. 14 (V)
 
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1224-1 (Ab)
+	  - Code de la santé publique - art. L1224-1 (V)
 
 
 ###### Article L669-4
@@ -41958,9 +44137,10 @@ transfusion sanguine dans le ressort du schéma [*domaine de compétence*].
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 5 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Nouveaux textes**:
 
@@ -41980,7 +44160,7 @@ transfusion sanguine dans le ressort du schéma [*domaine de compétence*].
 	  - Code de la santé publique - art. R669-5 (Ab)
 
 
-### Chapitre 5 : Des médicaments dérivés du sang et du Laboratoire français du fractionnement et des biotechnologies
+#### Chapitre 5 : Des médicaments dérivés du sang et du Laboratoire français du fractionnement et des biotechnologies
 
 ###### Article L670-1
 
@@ -41994,18 +44174,24 @@ soumis aux dispositions du livre V, sous réserve des dispositions du présent c
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 5 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Décret n°94-193 du 7 mars 1994 - art. 1 (Ab)
 	  - Décret n°94-193 du 7 mars 1994 - art. 6 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L5121-3 (Ab)
+	  - Code de la santé publique - art. L5121-3 (V)
 
 
 ###### Article L670-2
@@ -42043,10 +44229,6 @@ l'exploitation des brevets résultant de ses activités de recherche.
 	  - Loi n°82-610 1982-07-15 art. 21
 	  - Code de la santé publique - art. L596 (M)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 6 () JORF 5 janvier 1993
-
 	**Cité par**:
 
 	  - Décret n°93-372 du 18 mars 1993 - art. 1 (Ab)
@@ -42056,6 +44238,11 @@ l'exploitation des brevets résultant de ses activités de recherche.
 	  - Code de la santé publique - art. L668-1 (Ab)
 	  - Code de la santé publique - art. R5112-7 (Ab)
 	  - Code de la santé publique - art. R5113 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 
 ###### Article L670-3
@@ -42073,9 +44260,14 @@ pharmacien responsable qui participe à la direction générale de l'établissem
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 6 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cité par**:
 
@@ -42117,9 +44309,14 @@ renouvelée qu'en cas de persistance des conditions susnommées.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 6 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -42146,10 +44343,6 @@ lesquelles lesdits pharmaciens doivent être assistés ou remplacés.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 6 () JORF 5 janvier 1993
-
 	**Liens**:
 
 	  - TXT_SOURCE: Décret n°94-193 du 7 mars 1994
@@ -42163,9 +44356,18 @@ lesquelles lesdits pharmaciens doivent être assistés ou remplacés.
 	  - TXT_SOURCE: Décret n°94-193 du 7 mars 1994 - art. 8 (Ab)
 	  - TXT_SOURCE: Décret n°94-193 du 7 mars 1994 - art. 9 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 1 () JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
 	**Cité par**:
 
 	  - Décret n°98-79 du 11 février 1998 - art. 13 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -42176,14 +44378,15 @@ lesquelles lesdits pharmaciens doivent être assistés ou remplacés.
 	  - Code de la santé publique - art. L670-3 (M)
 
 
-### Chapitre 6 : Dispositions pénales
+### Titre 3 : Des organes, tissus, cellules et produits du corps humain
+
+#### Chapitre 1er : Des organes
+
+##### Section 1 : Dispositions communes
 
 ###### Article L671-1
 
-Le fait de procéder aux activités mentionnées aux articles L. 668-1, L. 668-4 et L. 668-5 sans être titulaire de l'agrément
-prévu à l'article L. 668-1 ou, le cas échéant, des autorisations prévues aux articles L. 666-11, L. 668-4 et L. 668-5, ou en
-violation des prescriptions fixées par ces agréments ou autorisations, est puni d'un emprisonnement de deux ans [*durée*] et
-d'une amende de 500 000 F [*Montant*].
+La moelle osseuse est considérée comme un organe pour l'application des dispositions du présent livre.
 
 **Liens relatifs à cet article**
 
@@ -42192,44 +44395,29 @@ d'une amende de 500 000 F [*Montant*].
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
-
-	**Transféré par**:
-
-	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
-
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L1235-2 (M)
 	  - Code de la santé publique - art. L1235-2 (V)
 	  - Code de la santé publique - art. L675-1 (Ab)
-	  - Code de la santé publique - art. L675-1 (P)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L666-11 (M)
-	  - Code de la santé publique - art. L668-1 (M)
-	  - Code de la santé publique - art. L668-4 (M)
-	  - Code de la santé publique - art. L668-5 (M)
 
 	**Cité par**:
 
 	  - Code de la santé publique - art. L678 (Ab)
 
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 
 ###### Article L671-2
 
-Le fait de prélever ou de tenter de prélever du sang sur une personne vivante sans qu'elle ait exprimé son consentement est
-puni d'un emprisonnement de cinq ans [*durée*] et d'une amende de 1 million de francs [*montant*].
-
-Est puni des mêmes peines le fait de prélever ou de tenter de prélever du sang en violation des dispositions de l'article L.
-666-5 sur une personne mineure ou sur une personne majeure faisant l'objet d'une mesure de protection légale.
-
-**Nota:**
-
-[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
-de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+Sauf dispositions contraires, les conditions d'application des dispositions du présent chapitre sont déterminées par décret
+en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -42240,38 +44428,43 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 
 	**Créé par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
 
-	**Transféré par**:
+	**Abrogé par**:
 
-	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1231-5 (Ab)
+	  - Code de la santé publique - art. L1232-6 (M)
 	  - Code de la santé publique - art. L1232-6 (V)
 	  - Code de la santé publique - art. L1233-3 (T)
+	  - Code de la santé publique - art. L1234-4 (M)
 	  - Code de la santé publique - art. L1234-4 (V)
+	  - Code de la santé publique - art. L1235-3 (T)
 	  - Code de la santé publique - art. L1235-3 (V)
 	  - Code de la santé publique - art. L675-2 (Ab)
 
-	**Cite**:
 
-	  - Code de la santé publique - art. L666-5 (M)
-
+##### Section 2 : Du prélèvement d'organes sur une personne vivante
 
 ###### Article L671-3
 
-Le fait d'obtenir ou de tenter d'obtenir d'une personne le prélèvement de son sang contre un paiement, quelle qu'en soit la
-forme, est puni d'un emprisonnement de cinq ans [*durée*] et d'une amende de 1 million de francs [*montant*].
+Le prélèvement d'organes sur une personne vivante, qui en fait le don, ne peut être effectué que dans l'intérêt thérapeutique
+direct d'un receveur. Le receveur doit avoir la qualité de père ou de mère, de fils ou de fille, de frère ou de soeur du
+donneur, sauf en cas de prélèvement de moelle osseuse en vue d'une greffe.
 
-Est puni des mêmes peines le fait d'apporter ou de tenter d'apporter son entremise pour favoriser l'obtention du sang contre
-un paiement, quelle qu'en soit la forme.
+En cas d'urgence, le donneur peut être le conjoint.
+
+Le donneur, préalablement informé des risques qu'il encourt et des conséquences éventuelles du prélèvement, doit exprimer son
+consentement devant le président du tribunal de grande instance, ou le magistrat désigné par lui. En cas d'urgence, le
+consentement est recueilli, par tout moyen, par le procureur de la République. Ce consentement est révocable sans forme et à
+tout moment.
 
 **Nota:**
 
-[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
-de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+[*Nota - Code de la santé publique L. 674-3 : sanction pénale.*]
 
 **Liens relatifs à cet article**
 
@@ -42282,11 +44475,11 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 
 	**Créé par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
 
-	**Transféré par**:
+	**Abrogé par**:
 
-	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Cité par**:
 
@@ -42299,6 +44492,7 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L1231-1 (M)
 	  - Code de la santé publique - art. L1231-1 (V)
 	  - Code de la santé publique - art. L675-3 (Ab)
 
@@ -42309,14 +44503,12 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 
 ###### Article L671-4
 
-Le fait d'utiliser sciemment ou de distribuer des produits sanguins sans qu'il ait été procédé aux analyses biologiques et
-aux tests de dépistage de maladies transmissibles requis en application de l'article L. 666-4 est puni d'un emprisonnement de
-deux ans [*durée*] et d'une amende de 500 000 F [*montant*].
+Aucun prélèvement d'organes, en vue d'un don, ne peut avoir lieu sur une personne vivante mineure ou sur une personne vivante
+majeure faisant l'objet d'une mesure de protection légale.
 
 **Nota:**
 
-[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
-de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+[*Nota - Code de la santé publique L. 674-3.: sanction pénale.*]
 
 **Liens relatifs à cet article**
 
@@ -42330,10 +44522,6 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 	  - Code de la santé publique - art. L1231-2 (V)
 	  - Code de la santé publique - art. L675-4 (Ab)
 
-	**Cite**:
-
-	  - Code de la santé publique - art. L666-4 (M)
-
 	**Cité par**:
 
 	  - Code de la santé publique - art. L671-5 (Ab)
@@ -42346,26 +44534,32 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 
 	**Créé par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
 
-	**Transféré par**:
+	**Abrogé par**:
 
-	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 ###### Article L671-5
 
-Le fait de modifier ou de tenter de modifier les caractéristiques du sang d'une personne avant prélèvement en infraction aux
-dispositions de l'article L. 666-6 est puni d'une amende de 300 000 F [*montant*], et en cas de récidive, d'une amende de 500
-000 F et d'un emprisonnement de six mois [*montant*].
+Par dérogation aux dispositions de l'article L. 671-4, un prélèvement de moelle osseuse peut être effectué sur un mineur au
+bénéfice de son frère ou de sa soeur.
 
-Est puni des mêmes peines le fait de contrevenir ou de tenter de contrevenir à l'obligation prescrite par l'article L.
-668-10.
+Ce prélèvement ne peut être pratiqué que sous réserve du consentement de chacun des titulaires de l'autorité parentale ou du
+représentant légal du mineur. Le consentement est exprimé devant le président du tribunal de grande instance ou le magistrat
+désigné par lui.
+
+En cas d'urgence, le consentement est recueilli, par tout moyen, par le procureur de la République.
+
+L'autorisation d'effectuer le prélèvement est accordée par un comité d'experts qui s'assure que le mineur a été informé du
+prélèvement envisagé en vue d'exprimer sa volonté, s'il y est apte.
+
+Le refus du mineur fait obstacle au prélèvement.
 
 **Nota:**
 
-[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
-de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+[*Nota - Code de la santé publique L. 674-3 : sanction pénale.*]
 
 **Liens relatifs à cet article**
 
@@ -42376,21 +44570,21 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 
 	**Créé par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
 
-	**Transféré par**:
+	**Abrogé par**:
 
-	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L1231-3 (M)
 	  - Code de la santé publique - art. L1231-3 (V)
 	  - Code de la santé publique - art. L675-5 (Ab)
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L666-6 (M)
-	  - Code de la santé publique - art. L668-10 (M)
+	  - Code de la santé publique - art. L671-4 (T)
 
 	**Cité par**:
 
@@ -42407,8 +44601,1796 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 
 ###### Article L671-6
 
-La divulgation d'informations permettant d'identifier à la fois le donneur et le receveur de sang, en violation de l'article
-L. 666-7, est punie d'un emprisonnement d'un an [*durée*] et d'une amende de 50 000 F [*montant*].
+Le comité d'experts mentionné à l'article L. 671-5 est composé de trois membres désignés pour trois ans par arrêté du
+ministre chargé de la santé. Il comporte deux médecins, dont un pédiatre, et une personnalité n'appartenant pas aux
+professions médicales.
+
+Le comité se prononce dans le respect des principes généraux et des règles énoncés par le titre Ier du présent livre. Il
+apprécie la justification médicale de l'opération, les risques que celle-ci est susceptible d'entraîner ainsi que ses
+conséquences prévisibles sur les plans physique et psychologique.
+
+Les décisions de refus d'autorisation prises par le comité d'experts ne sont pas motivées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1231-4 (M)
+	  - Code de la santé publique - art. L1231-4 (V)
+	  - Code de la santé publique - art. L675-6 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L671-5 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R665-70-3 (Ab)
+
+
+##### Section 3 : Du prélèvement d'organes sur une personne décédée
+
+###### Article L671-7
+
+Le prélèvement d'organes sur une personne décédée ne peut être effectué qu'à des fins thérapeutiques ou scientifiques et
+après que le constat de la mort a été établi dans des conditions définies par décret en Conseil d'Etat.
+
+Ce prélèvement peut être effectué dès lors que la personne concernée n'a pas fait connaître, de son vivant, son refus d'un
+tel prélèvement.
+
+Ce refus peut être exprimé par l'indication de sa volonté sur un registre national automatisé prévu à cet effet. Il est
+révocable à tout moment. Les conditions de fonctionnement et de gestion du registre sont déterminées par décret en Conseil
+d'Etat.
+
+Si le médecin n'a pas directement connaissance de la volonté du défunt, il doit s'efforcer de recueillir le témoignage de sa
+famille.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1232-1 (M)
+	  - Code de la santé publique - art. L1232-1 (V)
+	  - Code de la santé publique - art. L1232-6 (M)
+	  - Code de la santé publique - art. L1232-6 (V)
+	  - Code de la santé publique - art. L675-7 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L672-6 (Ab)
+	  - Code de la santé publique - art. R671-7-3 (Ab)
+	  - Code de la santé publique - art. R671-7-5 (Ab)
+	  - Code de la santé publique - art. R673-8-1 (Ab)
+
+
+###### Article L671-8
+
+Si la personne décédée était un mineur ou un majeur faisant l'objet d'une mesure de protection légale, le prélèvement en vue
+d'un don ne peut avoir lieu qu'à la condition que chacun des titulaires de l'autorité parentale ou le représentant légal y
+consente expressément par écrit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1232-2 (M)
+	  - Code de la santé publique - art. L1232-2 (V)
+	  - Code de la santé publique - art. L675-8 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L672-6 (Ab)
+	  - Code de la santé publique - art. R671-7-10 (Ab)
+
+
+###### Article L671-9
+
+Aucun prélèvement à des fins scientifiques autres que celles ayant pour but de rechercher les causes du décès ne peut être
+effectué sans le consentement du défunt exprimé directement ou par le témoignage de sa famille.
+
+Toutefois, lorsque le défunt est un mineur, ce consentement est exprimé par un des titulaires de l'autorité parentale.
+
+La famille est informée des prélèvements effectués en vue de rechercher les causes du décès.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1232-3 (M)
+	  - Code de la santé publique - art. L1232-3 (V)
+	  - Code de la santé publique - art. L1525-6 (V)
+	  - Code de la santé publique - art. L1533-6 (T)
+	  - Code de la santé publique - art. L1543-6 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L672-6 (Ab)
+
+
+###### Article L671-10
+
+Les médecins qui établissent le constat de la mort, d'une part, et ceux qui effectuent le prélèvement ou la transplantation,
+d'autre part, doivent faire partie d'unités fonctionnelles ou de services distincts.
+
+L'établissement français des greffes est informé de tout prélèvement visé au I de l'article L. 673-8.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1232-4 (M)
+	  - Code de la santé publique - art. L1232-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L673-8 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L678 (Ab)
+	  - Code de la santé publique - art. R671-7-3 (Ab)
+	  - Code de la santé publique - art. R673-10-2 (Ab)
+
+
+###### Article L671-11
+
+Les médecins ayant procédé à un prélèvement sur une personne décédée sont tenus de s'assurer de la restauration décente de
+son corps.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - CODE DES COMMUNES. - art. R363-11 (Ab)
+	  - Code général des collectivités territoriales - art. R2213-14 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1232-5 (M)
+	  - Code de la santé publique - art. L1232-5 (V)
+
+
+##### Section 4 : De l'autorisation des établissements effectuant des prélèvements d'organes en vue de dons
+
+###### Article L671-12
+
+Les prélèvements d'organes ne peuvent être effectués que dans des établissements de santé autorisés à cet effet par
+l'autorité administrative.
+
+L'autorisation est délivrée pour une durée de cinq ans. Elle est renouvelable.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 674-6 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 18 (Ab)
+	  - Loi n°94-654 du 29 juillet 1994 - art. 19 (V)
+	  - Code de la santé publique - art. L671-16 (Ab)
+	  - Code de la santé publique - art. L674-1 (Ab)
+	  - Code de la santé publique - art. L674-6 (Ab)
+	  - Code de la santé publique - art. L678 (Ab)
+	  - Code de la santé publique - art. L678-1 (Ab)
+	  - Code de la santé publique - art. R673-10-2 (Ab)
+	  - Code de la santé publique - art. R673-15 (Ab)
+	  - Code pénal - art. 511-7 (M)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1233-1 (M)
+	  - Code de la santé publique - art. L1233-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-6 (Ab)
+
+
+###### Article L671-13
+
+Aucune rémunération à l'acte ne peut être perçue par les praticiens effectuant des prélèvements d'organes au titre de cette
+activité [*interdiction, gratuité*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1233-2 (M)
+	  - Code de la santé publique - art. L1233-2 (V)
+
+
+###### Article L671-14
+
+Les conditions techniques, sanitaires et médicales et les conditions propres à garantir un fonctionnement conforme aux
+principes généraux énoncés au titre Ier du présent livre, que doivent remplir les établissements de santé pour pouvoir être
+autorisés à effectuer des prélèvements d'organes, sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1233-3 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L678 (Ab)
+
+
+##### Section 5 : Des transplantations d'organes
+
+###### Article L671-15
+
+Les dispositions de l'article L. 672-10 sont applicables aux organes lorsqu'ils peuvent être conservés. La liste de ces
+organes est fixée par décret.
+
+Pour l'application aux organes de ces dispositions, la délivrance de l'autorisation mentionnée à l'article L. 672-10 est
+subordonnée aux conditions prévues à l'article L. 672-14.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D671-15 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1234-1 (M)
+	  - Code de la santé publique - art. L1234-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L672-10 (M)
+	  - Code de la santé publique - art. L672-14 (M)
+
+
+###### Article L671-16
+
+Les transplantations d'organes sont effectuées dans les établissements de santé autorisés à cet effet dans des conditions
+prévues par les dispositions des sections 1 et 2 du chapitre II du titre Ier du livre VII du présent code.
+
+Peuvent recevoir l'autorisation d'effectuer des transplantations d'organes les établissements qui sont autorisés à effectuer
+des prélèvements d'organes en application de l'article L. 671-12 et qui, en outre, assurent des activités d'enseignement
+médical et de recherche médicale dans les conditions prévues par les dispositions de l'ordonnance n° 58-1373 du 30 décembre
+1958 relative à la création de centres hospitaliers et universitaires, à la réforme de l'enseignement médical et au
+développement de la recherche médicale, ainsi que les établissements de santé liés par convention aux précédents dans le
+cadre du service public hospitalier.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 674-6 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Ordonnance 58-1373 1958-12-30
+	  - Code de la santé publique - art. L671-12 (Ab)
+
+	**Cité par**:
+
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 18 (Ab)
+	  - Loi n°94-654 du 29 juillet 1994 - art. 19 (V)
+	  - Arrêté du 24 novembre 1994 - art. 1 (V)
+	  - Code de la santé publique - art. L674-1 (Ab)
+	  - Code de la santé publique - art. L674-6 (Ab)
+	  - Code de la santé publique - art. L678 (Ab)
+	  - Code de la santé publique - art. R673-10-2 (Ab)
+	  - Code de la santé publique - art. R673-15 (Ab)
+	  - Code pénal - art. 511-7 (M)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1234-2 (M)
+	  - Code de la santé publique - art. L1234-2 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-6 (Ab)
+
+
+###### Article L671-17
+
+Aucune rémunération à l'acte ne peut être perçue par les praticiens effectuant des transplantations d'organes au titre de ces
+activités [*interdiction, gratuité*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 5 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1234-3 (M)
+	  - Code de la santé publique - art. L1234-3 (V)
+
+
+#### Chapitre 2 : Des tissus, cellules et produits
+
+##### Section 1 : Dispositions communes
+
+###### Article L672-1
+
+Les tissus, cellules et produits humains prélevés à l'occasion d'une intervention médicale et le placenta, lorsqu'ils sont
+conservés en vue d'une utilisation ultérieure, sont soumis aux seules dispositions des articles L. 665-12, L. 665-13, L.
+665-14, L. 665-15 et de la section 4 du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 1 avril 1997 - art. ANNEXE (V)
+	  - Code de la santé publique - art. R665-70-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1245-2 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L665-12 (Ab)
+	  - Code de la santé publique - art. L665-13 (Ab)
+	  - Code de la santé publique - art. L665-14 (Ab)
+	  - Code de la santé publique - art. L665-15 (Ab)
+
+
+###### Article L672-2
+
+Les dispositions des sections 2 et 3 du présent chapitre s'appliquent sous réserve des dispositions du livre II bis relatives
+à la protection des personnes qui se prêtent à des recherches biomédicales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1245-3 (M)
+	  - Code de la santé publique - art. L1245-3 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L678 (Ab)
+
+
+###### Article L672-3
+
+Sauf dispositions contraires, les modalités d'application du présent chapitre sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1241-4 (M)
+	  - Code de la santé publique - art. L1241-4 (V)
+	  - Code de la santé publique - art. L1242-3 (M)
+	  - Code de la santé publique - art. L1242-3 (V)
+	  - Code de la santé publique - art. L1243-7 (M)
+	  - Code de la santé publique - art. L1243-7 (V)
+	  - Code de la santé publique - art. L1244-9 (M)
+	  - Code de la santé publique - art. L1244-9 (V)
+	  - Code de la santé publique - art. L1245-5 (M)
+	  - Code de la santé publique - art. L1245-5 (V)
+
+
+##### Section 2 : Du prélèvement de tissus et de cellules et de la collecte des produits du corps humain en vue de dons
+
+###### Article L672-4
+
+Le prélèvement de tissus ou de cellules ou la collecte des produits du corps humain sur une personne vivante ne peut être
+effectué que dans un but thérapeutique ou scientifique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1241-1 (M)
+
+
+###### Article L672-5
+
+Aucun prélèvement de tissus ou de cellules, aucune collecte de produits du corps humain ne peut avoir lieu sur une personne
+vivante mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de protection légale [*interdiction*].
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 674-5 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1241-2 (M)
+	  - Code de la santé publique - art. L1241-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L674-5 (Ab)
+	  - Code pénal - art. 511-5 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-5 (Ab)
+
+
+###### Article L672-6
+
+Un décret en Conseil d'Etat fixe les situations médicales et les conditions dans lesquelles le prélèvement de tissus et de
+cellules et la collecte de produits du corps humain sur une personne décédée sont autorisés.
+
+Un tel prélèvement ne peut être effectué qu'à des fins thérapeutiques ou scientifiques et dans les conditions prévues aux
+articles L. 671-7, L. 671-8 et L. 671-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°97-928 du 9 octobre 1997 - art. 2 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1241-3 (M)
+	  - Code de la santé publique - art. L1241-4 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L671-7 (T)
+	  - Code de la santé publique - art. L671-8 (T)
+	  - Code de la santé publique - art. L671-9 (Ab)
+
+
+##### Section 3 : De l'autorisation des établissements et organismes effectuant des prélèvements de tissus ou de cellules du corps humain en vue de dons
+
+###### Article L672-7
+
+Les prélèvements de tissus et cellules du corps humain en vue de dons ne peuvent être effectués que dans des établissements
+de santé autorisés à cet effet par l'autorité administrative.
+
+L'autorisation est délivrée pour une durée de cinq ans. Elle est renouvelable.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 674-6 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 19 (V)
+	  - Code de la santé publique - art. L674-1 (Ab)
+	  - Code de la santé publique - art. L674-6 (Ab)
+	  - Code de la santé publique - art. L678 (Ab)
+	  - Code pénal - art. 511-7 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1242-1 (M)
+	  - Code de la santé publique - art. L1242-1 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-6 (Ab)
+
+
+###### Article L672-8
+
+Aucune rémunération à l'acte ne peut être perçue par les praticiens effectuant des prélèvements de tissus au titre de cette
+activité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1242-2 (M)
+	  - Code de la santé publique - art. L1242-2 (V)
+
+
+###### Article L672-9
+
+Les conditions techniques, sanitaires et médicales et les conditions propres à garantir un fonctionnement conforme aux
+principes généraux énoncés au titre Ier du présent livre, que doivent remplir les établissements de santé pour pouvoir être
+autorisés à effectuer des prélèvements de tissus, sont déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1242-3 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L678 (Ab)
+
+
+##### Section 4 : De la conservation et de l'utilisation des tissus et cellules du corps humain
+
+###### Article L672-10
+
+Peuvent assurer la transformation, la conservation, la distribution et la cession des tissus et cellules les établissements
+publics de santé et les organismes à but non lucratif autorisés à cet effet par l'autorité administrative. Cette autorisation
+est accordée pour une durée de cinq ans. Elle peut être renouvelée.
+
+L'autorisation d'effectuer la transformation des prélèvements ou l'établissement des cultures cellulaires, ainsi que leur
+conservation, leur distribution et leur cession, peut être accordée dans les mêmes formes à d'autres organismes pour les
+activités requérant une haute technicité. Les conditions d'application du présent article sont déterminées par décret en
+Conseil d'Etat.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 674-6 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 19 (V)
+	  - Arrêté du 9 octobre 1995 - art. 2 (Ab)
+	  - Décret n°96-327 du 16 avril 1996 - art. 4 (V)
+	  - Décret n°97-1186 du 24 décembre 1997 - art. 14 (V)
+	  - Arrêté du 29 décembre 1998 - art. 2 (V)
+	  - Décret n°2000-156 du 23 février 2000 - art. 3 (V)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+	  - Code de la santé publique - art. L666-8 (Ab)
+	  - Code de la santé publique - art. L671-15 (Ab)
+	  - Code de la santé publique - art. L672-11 (M)
+	  - Code de la santé publique - art. L672-14 (Ab)
+	  - Code de la santé publique - art. L672-15 (Ab)
+	  - Code de la santé publique - art. L674-1 (Ab)
+	  - Code de la santé publique - art. L674-6 (Ab)
+	  - Code de la santé publique - art. L678 (Ab)
+	  - Code de la santé publique - art. L678-2 (Ab)
+	  - Code de la santé publique - art. R672-12 (Ab)
+	  - Code de la santé publique - art. R672-15 (Ab)
+	  - Code de la santé publique - art. R672-9 (Ab)
+	  - Code de la santé publique - art. R673-10-8 (Ab)
+	  - Code de la santé publique - art. R673-16 (Ab)
+	  - Code de la santé publique - art. R673-17 (Ab)
+	  - Code de la santé publique - art. R673-22 (Ab)
+	  - Code de la santé publique - art. R673-8-15-1 (Ab)
+	  - Code de la santé publique - art. R716-9-2 (Ab)
+	  - Code pénal - art. 511-7 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°99-741 du 30 août 1999
+	  - TXT_ASSOCIE: Décret n°99-741 du 30 août 1999 - art. 1 ()
+	  - TXT_ASSOCIE: Décret n°99-741 du 30 août 1999 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-741 du 30 août 1999 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1542-13 (V)
+
+
+###### Article L672-11
+
+Le prélèvement, le traitement, la transformation, la manipulation et la distribution des produits cellulaires destinés à la
+mise en oeuvre de greffes, d'immunothérapie, de thérapie cellulaire somatique ou de thérapie génique somatique sont régis par
+les dispositions du titre Ier du présent livre dans des conditions définies par décret en Conseil d'Etat.
+
+Lorsque ces produits cellulaires constituent des médicaments, ces activités sont régies par les dispositions du livre V.
+
+Lorsqu'ils ne constituent pas des médicaments, leur prélèvement, leur transformation, leur conservation et leur distribution
+sont réalisés par des établissements ou organismes remplissant des conditions fixées par décret en Conseil d'Etat et
+autorisés par l'autorité administrative compétente.
+
+Les décrets en Conseil d'Etat visés aux articles L. 666-8 (4°), L. 672-10 et au présent article garantissent l'unité du
+régime juridique applicable au prélèvement, au traitement, à la transformation, à la manipulation et à la distribution des
+produits cellulaires destinés à la mise en oeuvre de greffes, d'immunothérapie, de thérapie cellulaire somatique ou de
+thérapie génique somatique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Loi n°96-452 du 28 mai 1996 - art. 17 () JORF 29 mai 1996
+
+	**Cité par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 19 (V)
+	  - Décret n°2000-156 du 23 février 2000 - art. 4 (V)
+	  - Code de la santé publique - art. R673-21 (Ab)
+	  - Code de la santé publique - art. R673-22 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-8 (M)
+	  - Code de la santé publique - art. L672-10 (M)
+
+
+###### Article L672-12
+
+La transformation, la distribution et la cession des tissus et cellules sont, en tant que de besoin, assujetties à des
+règles, notamment financières et économiques, propres à assurer le respect des dispositions du titre Ier du présent livre, et
+fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1243-7 (M)
+	  - Code de la santé publique - art. L1243-7 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L676-4 (Ab)
+	  - Code de la santé publique - art. L678 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L676-4 (Ab)
+
+
+###### Article L672-13
+
+Les greffes de tissus et de cellules ne peuvent être effectuées que dans des établissements de santé.
+
+Les activités requérant une haute technicité ou nécessitant des dispositions particulières dans l'intérêt de la santé
+publique, déterminées par décret en Conseil d'Etat dans les conditions prévues par les sections 1 et 2 du chapitre II du
+titre Ier du livre VII du présent code, ne peuvent être pratiquées que dans des établissements de santé autorisés à cet
+effet.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 674-6 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 19 (V)
+	  - Code de la santé publique - art. L209-18-5 (Ab)
+	  - Code de la santé publique - art. L672-14 (Ab)
+	  - Code de la santé publique - art. L674-1 (Ab)
+	  - Code de la santé publique - art. L674-6 (Ab)
+	  - Code de la santé publique - art. L678 (Ab)
+	  - Code de la santé publique - art. R673-8-15-1 (Ab)
+	  - Code pénal - art. 511-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1243-4 (V)
+	  - Code de la santé publique - art. L1243-7 (V)
+	  - Code de la santé publique - art. L1542-14 (V)
+	  - Code de la santé publique - art. L1542-15 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-6 (Ab)
+
+
+###### Article L672-14
+
+La délivrance des autorisations mentionnées aux articles L. 672-10 et L. 672-13 est subordonnée à des conditions techniques,
+sanitaires ou médicales et, en tant que de besoin, financières, ainsi qu'à des conditions propres à garantir un
+fonctionnement conforme aux principes généraux énoncés par le titre Ier du présent livre.
+
+Ces conditions et les modalités de délivrance sont fixées pour chacune des autorisations par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 6 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L671-15 (Ab)
+	  - Code de la santé publique - art. L678 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L672-10 (M)
+	  - Code de la santé publique - art. L672-13 (M)
+
+
+##### Section 5 : Dispositions spécifiques au don et à l'utilisation de gamètes
+
+###### Article L673-1
+
+Le don de gamètes    consiste en l'apport par un tiers de spermatozoïdes ou d'ovocytes en vue d'une assistance médicale à la
+procréation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 10 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1244-1 (M)
+	  - Code de la santé publique - art. L1244-1 (V)
+
+
+###### Article L673-2
+
+Le donneur doit faire partie d'un couple ayant procréé. Le consentement du donneur et celui de l'autre membre du couple sont
+recueillis par écrit. Il en est de même du consentement des deux membres du couple receveur, qui peut être révoqué, avant
+toute intervention, par l'un ou l'autre des membres du couple.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 10 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. R665-70-3 (Ab)
+	  - Code de la santé publique - art. R673-5-5 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1244-2 (M)
+	  - Code de la santé publique - art. L1244-2 (V)
+
+
+###### Article L673-3
+
+Toute insémination artificielle par sperme frais provenant d'un don et tout mélange de sperme sont interdits.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 675-13 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 10 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. L675-13 (Ab)
+	  - Code pénal - art. 511-12 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1244-3 (M)
+	  - Code de la santé publique - art. L1244-3 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L675-13 (Ab)
+
+
+###### Article L673-4
+
+Le recours aux gamètes d'un même donneur ne peut délibérément conduire à la naissance de plus de cinq enfants [*nombre*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 10 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. R673-5-9 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1244-4 (M)
+	  - Code de la santé publique - art. L1244-4 (V)
+
+
+###### Article L673-5
+
+Les activités de recueil, traitement, conservation et cession de gamètes ne peuvent être pratiquées que dans les organismes
+et établissements de santé publics et privés à but non lucratif autorisés à cet effet par l'autorité administrative, suivant
+les modalités prévues par les dispositions des sections 1 et 2 du chapitre II du titre Ier du livre VII. Aucune rémunération
+à l'acte ne peut être perçue par les praticiens au titre de ces activités.
+
+Pour être autorisés à exercer ces activités, les organismes et établissements visés au premier alinéa doivent remplir les
+conditions déterminées en application des dispositions susmentionnées du livre VII et des conditions définies par décret en
+Conseil d'Etat propres à garantir un fonctionnement conforme aux principes généraux prévus par le titre Ier du présent livre.
+Ce décret détermine également les obligations auxquelles sont tenus ces organismes et établissements au regard de la
+conservation des gamètes, notamment lorsqu'ils cessent leurs activités.
+
+L'autorisation porte sur une ou plusieurs activités. Elle est délivrée pour une durée de cinq ans. Elle est accordée après
+avis de la Commission nationale de médecine et de biologie de la reproduction et du diagnostic prénatal instituée à l'article
+L. 184-3 et du Comité national de l'organisation sanitaire et sociale.
+
+Tout organisme ou établissement autorisé à exercer ces activités est tenu de présenter au ministre chargé de la santé le
+rapport annuel d'activité prévu à l'article L. 184-2.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 675-16 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 10 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 19 (V)
+	  - Arrêté du 12 janvier 1999 - art. 1 (Ab)
+	  - Code de la santé publique - art. L673-6 (Ab)
+	  - Code de la santé publique - art. L674-1 (Ab)
+	  - Code de la santé publique - art. L675-16 (Ab)
+	  - Code de la santé publique - art. R152-9-2 (Ab)
+	  - Code de la santé publique - art. R152-9-6 (Ab)
+	  - Code de la santé publique - art. R184-3-11 (Ab)
+	  - Code de la santé publique - art. R184-3-13 (Ab)
+	  - Code de la santé publique - art. R184-3-8 (Ab)
+	  - Code de la santé publique - art. R673-5-1 (Ab)
+	  - Code pénal - art. 511-14 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 12 janvier 1999
+	  - TXT_SOURCE: Arrêté du 12 janvier 1999 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 12 janvier 1999 - art. ANNEXE (V)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L675-16 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1244-5 (M)
+	  - Code de la santé publique - art. L1244-5 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L184-2 (Ab)
+	  - Code de la santé publique - art. L184-3 (Ab)
+
+
+###### Article L673-6
+
+Les organismes et établissements autorisés dans les conditions prévues à l'article L. 673-5 fournissent aux autorités
+sanitaires les informations utiles relatives aux donneurs. Un médecin peut accéder aux informations médicales non
+identifiantes en cas de nécessité thérapeutique concernant un enfant conçu par une assistance médicale à la procréation avec
+tiers donneur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 10 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. R673-5-8 (Ab)
+	  - Code de la santé publique - art. R673-5-9 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1244-6 (M)
+	  - Code de la santé publique - art. L1244-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L673-5 (Ab)
+
+
+###### Article L673-7
+
+Le bénéfice d'un don de gamètes ne peut en aucune manière être subordonné à la désignation par le couple receveur d'une
+personne ayant volontairement accepté de procéder à un tel don en faveur d'un couple tiers anonyme.
+
+**Nota:**
+
+[*Nota - Code de la santé publique L. 675-14 : sanction pénale.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 10 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Arrêté du 12 janvier 1999 - art. ANNEXE (Ab)
+	  - Code de la santé publique - art. L675-14 (Ab)
+	  - Code pénal - art. 511-13 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1244-7 (M)
+	  - Code de la santé publique - art. L1244-7 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L675-14 (Ab)
+
+
+#### Chapitre 2 bis : De l'Etablissement français des greffes
+
+###### Article L673-8
+
+I. Peuvent seules bénéficier d'une greffe d'organes, de moelle, de cornée ou d'autres tissus dont la liste est fixée par
+arrêté après avis de l'établissement public, les personnes, quel que soit leur lieu de résidence, qui sont inscrites sur une
+liste nationale.
+
+II. Il est créé un établissement public national, dénommé Etablissement français des greffes, placé sous la tutelle du
+ministre chargé de la santé.
+
+L'Etablissement français des greffes est chargé de l'enregistrement de l'inscription des patients sur la liste définie au
+paragraphe I du présent article, de la gestion de celle-ci et de l'attribution des greffons, qu'ils aient été prélevés en
+France ou hors du territoire national.
+
+L'Etablissement français des greffes est, en outre, notamment chargé :
+
+- de promouvoir le don d'organes, de moelle, de cornée ou d'autres tissus en participant à l'information du public ;
+
+- d'établir et de soumettre à homologation par arrêté du ministre chargé de la santé les règles de répartition et
+d'attribution des greffons ; celles-ci devront prendre en considération le caractère d'urgence que peuvent revêtir certaines
+indications de greffe ;
+
+- de préparer les règles de bonnes pratiques qui doivent s'appliquer au prélèvement, à la conservation, au transport et à la
+transformation de l'ensemble des parties et produits du corps humain : ces règles sont homologuées par arrêté du ministre
+chargé de la santé ;
+
+- de donner un avis au ministre chargé de la santé en ce qui concerne les organismes autorisés à importer et à exporter les
+tissus et les cellules issus du corps humain ;
+
+- de donner un avis au ministre chargé de la santé sur les autorisations prévues aux articles L. 712-8 à L. 712-20 du code de
+la santé publique.
+
+L'Etablissement français des greffes est soumis à un régime administratif, budgétaire, financier et comptable, et à un
+contrôle de l'Etat, adaptés à la nature particulière de ses missions et déterminés par voie réglementaire. Il peut recruter
+des personnels contractuels, de droit public ou privé. Il peut conclure avec ces agents des contrats à durée indéterminée.
+
+L'établissement est doté d'un conseil médical et scientifique. Ce conseil est consulté par le directeur pour toutes les
+missions et avis de nature médicale et scientifique confiés à l'établissement. Sa composition et les modalités de nomination
+de ses membres sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Anciens textes**:
+
+	  - Loi n°94-43 du 18 janvier 1994 - art. 56 (T)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 4 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Décret n°94-870 du 10 octobre 1994 - art. 6 (Ab)
+	  - Arrêté du 24 novembre 1994 - art. 1 (V)
+	  - Décret n°95-755 du 1 juin 1995 - art. 2 (P)
+	  - Décret n°98-372 du 14 mai 1998 - art. 1 (Ab)
+	  - Code de la santé publique - art. L671-10 (Ab)
+	  - Code de la santé publique - art. L672-14 (Ab)
+	  - Code de la santé publique - art. R673-8-1 (Ab)
+	  - Code de la santé publique - art. R673-8-13 (M)
+	  - Code de la santé publique - art. R673-8-15-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1251-1 (V)
+	  - Code de la santé publique - art. L1252-1 (Ab)
+	  - Code de la santé publique - art. L1252-2 (Ab)
+	  - Code de la santé publique - art. L1252-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique L712-8 à L712-20
+
+
+###### Article L673-9
+
+Les ressources de l'Etablissement français des greffes comprennent :
+
+1° Des subventions de l'Etat ;
+
+2° Une dotation globale versée dans les conditions prévues par l'article L. 174-2 du code de la sécurité sociale dont les
+modalités de fixation et de révision sont déterminées par décret en Conseil d'Etat ;
+
+3° Des taxes et redevances créées à son bénéfice ;
+
+4° Des produits divers, dons et legs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 4 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1252-3 (Ab)
+	  - Code de la santé publique - art. L1252-4 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R673-9-1 (Ab)
+	  - Code de la santé publique - art. R673-9-5 (Ab)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. L174-2 (M)
+
+
+#### Chapitre 3 : Sanctions pénales et administratives relatives à l'utilisation des éléments et produits du corps humain
+
+###### Article L674-1
+
+Toute violation constatée dans un établissement ou un organisme, et du fait de celui-ci, des prescriptions législatives et
+réglementaires relatives aux prélèvements et aux transplantations d'organes, aux prélèvements, à la conservation et à
+l'utilisation de tissus ou aux greffes de tissus ou de cellules du corps humain entraîne le retrait temporaire ou définitif
+des autorisations prévues aux articles L. 671-12, L. 671-16, L. 672-7, L. 672-10, L. 672-13 et L. 673-5.
+
+Le retrait de l'autorisation est également encouru en cas de violation des prescriptions fixées par l'autorisation.
+
+Le retrait ne peut intervenir qu'après un délai d'un mois suivant une mise en demeure adressée par l'autorité administrative
+à l'établissement ou l'organisme concerné et précisant les griefs. En cas d'urgence tenant à la sécurité des personnes
+faisant l'objet des activités en cause, une suspension provisoire peut être prononcée à titre conservatoire.
+
+La décision de retrait est publiée au Journal officiel de la République française.
+
+En cas de retrait de l'autorisation prévue à l'article L. 673-5, la décision est prise après avis motivé de la Commission
+nationale de médecine et de biologie de la reproduction et du diagnostic prénatal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 15 () JORF 30 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1245-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L671-12 (Ab)
+	  - Code de la santé publique - art. L671-16 (Ab)
+	  - Code de la santé publique - art. L672-10 (M)
+	  - Code de la santé publique - art. L672-13 (M)
+	  - Code de la santé publique - art. L672-7 (Ab)
+	  - Code de la santé publique - art. L673-5 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L678 (Ab)
+	  - Code de la santé publique - art. R671-11 (Ab)
+	  - Code de la santé publique - art. R672-19 (Ab)
+	  - Code de la santé publique - art. R673-10-2 (Ab)
+	  - Code de la santé publique - art. R673-18 (Ab)
+	  - Code de la santé publique - art. R673-23 (Ab)
+
+
+###### Article L674-2
+
+Comme il est dit à l'article 511-2 du code pénal, le fait d'obtenir d'une personne l'un de ses organes contre un paiement,
+quelle qu'en soit la forme, est puni de sept ans d'emprisonnement [*durée*] et de 700 000 F d'amende (1) [*montant*].
+
+Est puni des mêmes peines le fait d'apporter son entremise pour favoriser l'obtention d'un organe contre le paiement de
+celui-ci, ou de céder à titre onéreux un tel organe du corps d'autrui.
+
+Les mêmes peines sont applicables dans le cas où l'organe obtenu dans les conditions prévues au premier alinéa provient d'un
+pays étranger.
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 15 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 511-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1272-1 (M)
+
+
+###### Article L674-3
+
+Comme il est dit à l'article 511-3 du code pénal, le fait de prélever un organe sur une personne vivante majeure sans que le
+consentement de celle-ci ait été recueilli dans les conditions prévues à l'article L. 671-3 du présent code est puni de sept
+ans d'emprisonnement [*durée*] et de 700 000 F d'amende (1) [*montant*].
+
+Est puni des mêmes peines le fait de prélever un organe sur un donneur vivant mineur ou sur un donneur vivant majeur faisant
+l'objet d'une mesure de protection légale sans avoir respecté les conditions prévues aux articles L. 671-4 et L. 671-5 du
+présent code.
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 15 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 511-3 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L671-3 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L671-4 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L671-5 (Ab)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-3 (M)
+	  - Code de la santé publique - art. L671-3 (T)
+	  - Code de la santé publique - art. L671-4 (T)
+	  - Code de la santé publique - art. L671-5 (T)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1272-2 (M)
+	  - Code de la santé publique - art. L1272-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L678 (Ab)
+
+
+###### Article L674-4
+
+Comme il est dit à l'article 511-4 du code pénal, le fait d'obtenir d'une personne le prélèvement de tissus, de cellules ou
+de produits de son corps contre un paiement, quelle qu'en soit la forme, est puni de cinq ans d'emprisonnement [*durée*] et
+de 500 000 F d'amende (1) [*montant*].
+
+Est puni des mêmes peines le fait d'apporter son entremise pour favoriser l'obtention de tissus, de cellules ou de produits
+humains contre un paiement, quelle qu'en soit la forme, ou de céder à titre onéreux des tissus, des cellules ou des produits
+du corps d'autrui.
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 15 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-4 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 511-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1272-3 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L678 (M)
+
+
+###### Article L674-5
+
+Comme il est dit à l'article 511-5 du code pénal, le fait de prélever un tissu ou des cellules ou de collecter un produit sur
+une personne vivante majeure sans qu'elle ait exprimé son consentement est puni de cinq ans d'emprisonnement [*durée*] et de
+500 000 F d'amende (1) [*montant*].
+
+Est puni des mêmes peines le fait de prélever un tissu ou des cellules ou de collecter un produit sur une personne vivante
+mineure ou sur une personne vivante majeure faisant l'objet d'une mesure de protection légale sans avoir respecté les
+conditions prévues par l'article L. 672-5 du présent code.
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 15 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-5 (M)
+	  - Code de la santé publique - art. L672-5 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 511-5 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L672-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1272-4 (M)
+	  - Code de la santé publique - art. L1272-4 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L678 (Ab)
+
+
+###### Article L674-6
+
+Comme il est dit à l'article 511-7 du code pénal, le fait de procéder à des prélèvements d'organes ou des transplantations
+d'organes, à des prélèvements ou des greffes de tissus, à la conservation ou à la transformation de tissus ou à la greffe de
+cellules dans un établissement n'ayant pas obtenu l'autorisation prévue par les articles L. 671-12, L. 671-16, L. 672-7, L.
+672-10 et L. 672-13 est puni de deux ans d'emprisonnement [*durée*] et de 200 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V) JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L678 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 15 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-7 (M)
+	  - Code de la santé publique - art. L671-12 (Ab)
+	  - Code de la santé publique - art. L671-16 (Ab)
+	  - Code de la santé publique - art. L672-10 (M)
+	  - Code de la santé publique - art. L672-13 (M)
+	  - Code de la santé publique - art. L672-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1272-5 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L671-12 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L671-16 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L672-10 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L672-13 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L672-7 (Ab)
+
+
+###### Article L674-7
+
+Le fait de procéder à la distribution ou à la cession d'organes, de tissus, de cellules et produits humains en vue d'un don
+sans qu'aient été respectées les règles de sécurité sanitaire exigées en application des dispositions de l'article L. 665-15
+est puni de deux ans d'emprisonnement [*durée*] et de 200 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Nota:**
+
+[*Nota - Loi 94-630 du 25 juillet 1994 art. 17 : le début du texte proposé par l'article 15 de la loi n° 94-654 est ainsi
+rédigé :
+
+Comme il est dit à l'article 511-8 du code pénal, le fait ....*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+	  - Code de la santé publique - art. L678 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 15 () JORF 30 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1272-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L665-15 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L665-15 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L665-15-1 (Ab)
+
+
+###### Article L675-1
+
+Le fait de procéder aux activités mentionnées aux articles L. 668-1, L. 668-4 et L. 668-5 sans être titulaire de l'agrément
+prévu à l'article L. 668-1 ou, le cas échéant, des autorisations prévues aux articles L. 666-11, L. 668-4 et L. 668-5, ou en
+violation des prescriptions fixées par ces agréments ou autorisations, est puni d'un emprisonnement de deux ans [*durée*] et
+d'une amende de 500 000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 16 (V) JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1271-1 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-11 (M)
+	  - Code de la santé publique - art. L668-1 (M)
+	  - Code de la santé publique - art. L668-4 (M)
+	  - Code de la santé publique - art. L668-5 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L666-11 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L668-1 (M)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L668-4 (M)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. L671-1 (T)
+
+
+###### Article L675-2
+
+Le fait de prélever ou de tenter de prélever du sang sur une personne vivante sans qu'elle ait exprimé son consentement est
+puni d'un emprisonnement de cinq ans [*durée*] et d'une amende de 1 million de francs (1) [*montant*].
+
+Est puni des mêmes peines le fait de prélever ou de tenter de prélever du sang en violation des dispositions de l'article L.
+666-5 sur une personne mineure ou sur une personne majeure faisant l'objet d'une mesure de protection légale.
+
+(1) Amende applicable depuis le 1er août 1994.
 
 **Nota:**
 
@@ -42424,31 +46406,216 @@ de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Fu
 
 	**Créé par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
-
-	**Transféré par**:
-
+	  - Loi n°94-654 du 29 juillet 1994 - art. 16 (V) JORF 30 juillet 1994
 	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
-	  - Code de la santé publique - art. L1231-4 (V)
-	  - Code de la santé publique - art. L675-6 (Ab)
+	  - Code de la santé publique - art. L1271-2 (M)
+	  - Code de la santé publique - art. L1271-2 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-5 (M)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. L671-2 (T)
+
+
+###### Article L675-3
+
+Le fait d'obtenir ou de tenter d'obtenir d'une personne le prélèvement de son sang contre un paiement, quelle qu'en soit la
+forme, est puni d'un emprisonnement de cinq ans [*durée*] et d'une amende de 1 million de francs (1) [*montant*].
+
+Est puni des mêmes peines le fait d'apporter ou de tenter d'apporter son entremise pour favoriser l'obtention du sang contre
+un paiement, quelle qu'en soit la forme.
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 16 (V) JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1271-3 (M)
+	  - Code de la santé publique - art. L1271-3 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. L671-3 (T)
+
+
+###### Article L675-4
+
+Le fait d'utiliser sciemment ou de distribuer des produits sanguins sans qu'il ait été procédé aux analyses biologiques et
+aux tests de dépistage de maladies transmissibles requis en application de l'article L. 666-4 est puni d'un emprisonnement de
+deux ans [*durée*] et d'une amende de 500 000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 16 (V) JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1271-4 (M)
+	  - Code de la santé publique - art. L1271-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-4 (M)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. L671-4 (T)
+
+
+###### Article L675-5
+
+Le fait de modifier ou de tenter de modifier les caractéristiques du sang d'une personne avant prélèvement en infraction aux
+dispositions de l'article L. 666-6 est puni d'une amende de 300 000 F (1) [*montant*], et en cas de récidive, d'une amende de
+500 000 F (1) et d'un emprisonnement de six mois [*montant*].
+
+Est puni des mêmes peines le fait de contrevenir ou de tenter de contrevenir à l'obligation prescrite par l'article L.
+668-10.
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 16 (V) JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1271-5 (M)
+	  - Code de la santé publique - art. L1271-5 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L666-6 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L668-10 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-6 (M)
+	  - Code de la santé publique - art. L668-10 (M)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. L671-5 (T)
+
+
+###### Article L675-6
+
+La divulgation d'informations permettant d'identifier à la fois le donneur et le receveur de sang, en violation de l'article
+L. 666-7, est punie d'un emprisonnement d'un an [*durée*] et d'une amende de 50 000 F (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 16 (V) JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1271-6 (M)
+	  - Code de la santé publique - art. L1271-6 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L666-7 (Ab)
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L666-7 (M)
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code de la santé publique - art. R665-70-3 (Ab)
+	  - Code de la santé publique - art. L671-6 (T)
 
 
-###### Article L671-7
+###### Article L675-7
 
-Est puni d'un emprisonnement d'un an [*durée*] et d'une amende de 50 000 F [*montant*] le fait de céder du sang ou des
+Est puni d'un emprisonnement d'un an [*durée*] et d'une amende de 50 000 F (1) [*montant*] le fait de céder du sang ou des
 produits labiles dérivés du sang à un tarif différent de celui qui résulte de l'arrêté pris pour l'application de l'article
 L. 666-9.
+
+(1) Amende applicable depuis le 1er août 1994.
 
 **Liens relatifs à cet article**
 
@@ -42459,83 +46626,41 @@ L. 666-9.
 
 	**Créé par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
-
-	**Transféré par**:
-
+	  - Loi n°94-654 du 29 juillet 1994 - art. 16 (V) JORF 30 juillet 1994
 	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
-	  - Code de la santé publique - art. L1232-1 (V)
-	  - Code de la santé publique - art. L1232-6 (V)
-	  - Code de la santé publique - art. L675-7 (Ab)
+	  - Code de la santé publique - art. L1271-7 (M)
+	  - Code de la santé publique - art. L1271-7 (V)
 
 	**Cite**:
 
 	  - Code de la santé publique - art. L666-9 (M)
 
-	**Cité par**:
+	**Anciens textes**:
 
-	  - Code de la santé publique - art. L672-6 (Ab)
-	  - Code de la santé publique - art. R671-7-3 (Ab)
-	  - Code de la santé publique - art. R671-7-5 (Ab)
-	  - Code de la santé publique - art. R673-8-1 (Ab)
+	  - Code de la santé publique - art. L671-7 (T)
 
 
-###### Article L671-8
+###### Article L675-8
 
-Les dispositions prévues par les articles 1er à 3 de la loi du 1er août 1905 en ce qui concerne la falsification des
-substances médicamenteuses, l'exposition, la mise en vente ou la vente de substances médicamenteuses falsifiées sont
-applicables au sang humain, à ses composants, ainsi qu'aux produits labiles qui en sont dérivés.
+Les dispositions prévues par les articles L. 213-1, L. 213-2 et L. 213-3 du code de la consommation en ce qui concerne la
+falsification des substances médicamenteuses, l'exposition, la mise en vente ou la vente de substances médicamenteuses
+falsifiées sont applicables au sang humain, à ses composants, ainsi qu'aux produits labiles qui en sont dérivés.
 
 Est puni des mêmes peines le fait de distribuer un produit labile ne figurant pas sur la liste prévue à l'article L. 666-8 ou
 un produit dont la distribution a été suspendue en application du dernier alinéa de l'article L. 666-10 ou du II de l'article
 L. 668-11.
 
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
-
-	**Transféré par**:
-
-	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L1232-2 (V)
-	  - Code de la santé publique - art. L675-8 (Ab)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L666-8 (M)
-	  - Code de la santé publique - art. L668-11 (M)
-	  - Loi n°1905-08-01 art. 1 à 3
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L672-6 (Ab)
-	  - Code de la santé publique - art. R671-7-10 (Ab)
-
-
-###### Article L671-9
-
-Les personnes coupables des délits prévus au présent chapitre encourent également la peine complémentaire d'interdiction
-d'exercer l'activité professionnelle ou sociale dans l'exercice de laquelle ou à l'occasion de laquelle l'infraction a été
-commise.
-
 **Nota:**
 
-[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
-de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna. Pour sa rédaction, voir l'article 15 de la
-loi 93-5.*]
+[*Nota : Loi 93-949 du 26 juillet 1993 art. 4 : les références à la loi du 1er août 1905 sont remplaçées par les références
+au code de la consommation correspondantes.*]
 
 **Liens relatifs à cet article**
 
@@ -42544,25 +46669,459 @@ loi 93-5.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Nouveaux textes**:
+	**Liens**:
 
-	  - Code de la santé publique - art. L1232-3 (V)
-	  - Code de la santé publique - art. L1525-6 (V)
-	  - Code de la santé publique - art. L1533-6 (T)
-	  - Code de la santé publique - art. L1543-6 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L672-6 (Ab)
+	  - TXT_ASSOCIE: Loi n°93-949 1993-07-26 art. 4
 
 	**Créé par**:
 
-	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+	  - Loi n°94-654 du 29 juillet 1994 - art. 16 (V) JORF 30 juillet 1994
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 	**Abrogé par**:
 
-	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
+	**Cite**:
+
+	  - Code de la consommation - art. L213-1 (M)
+	  - Code de la consommation - art. L213-2 (V)
+	  - Code de la consommation - art. L213-3 (M)
+	  - Code de la santé publique - art. L666-10 (M)
+	  - Code de la santé publique - art. L666-8 (M)
+	  - Code de la santé publique - art. L668-11 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1271-8 (M)
+	  - Code de la santé publique - art. L1271-8 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. L671-8 (T)
+
+
+###### Article L675-9
+
+Comme il est dit à l'article 511-6 du code pénal, le fait de recueillir ou de prélever des gamètes sur une personne vivante
+sans son consentement écrit est puni de cinq ans d'emprisonnement [*durée*] et de 500 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 17 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 511-6 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1273-1 (M)
+	  - Code de la santé publique - art. L1273-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L675-18 (Ab)
+
+
+###### Article L675-10
+
+Comme il est dit à l'article 511-9 du code pénal, le fait d'obtenir des gamètes contre un paiement, quelle qu'en soit la
+forme, à l'exception du paiement des prestations assurées par les établissements effectuant la préparation et la conservation
+de ces gamètes, est puni de cinq ans d'emprisonnement [*durée*] et de 500 000 F d'amende (1) [*montant*].
+
+Est puni des mêmes peines le fait d'apporter son entremise pour favoriser l'obtention de gamètes contre un paiement, quelle
+qu'en soit la forme, ou de remettre à des tiers, à titre onéreux, des gamètes provenant de dons.
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 17 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code pénal - art. 511-9 (M)
+
+	**Cite**:
+
+	  - Code pénal - art. 511-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1273-2 (M)
+	  - Code de la santé publique - art. L1273-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L675-18 (Ab)
+
+
+###### Article L675-11
+
+Comme il est dit à l'article 511-10 du code pénal, le fait de divulguer une information permettant à la fois d'identifier une
+personne ou un couple qui a fait don de gamètes et le couple qui les a reçus est puni de deux ans d'emprisonnement [*durée*]
+et de 200 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V) JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 17 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-10 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1273-3 (M)
+	  - Code de la santé publique - art. L1273-3 (V)
+
+
+###### Article L675-12
+
+Comme il est dit à l'article 511-11 du code pénal, le fait de recueillir ou de prélever des gamètes sur une personne vivante
+en vue d'une assistance médicale à la procréation sans procéder aux tests de dépistage des maladies transmissibles exigés en
+application de l'article L. 665-15 est puni de deux ans d'emprisonnement [*durée*] et de 200 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V) JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 17 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-11 (M)
+	  - Code de la santé publique - art. L665-15 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1273-4 (M)
+	  - Code de la santé publique - art. L1273-4 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L665-15 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique - art. L665-15-1 (Ab)
+
+
+###### Article L675-13
+
+Comme il est dit à l'article 511-12 du code pénal, le fait de procéder à une insémination artificielle par sperme frais ou
+mélange de sperme provenant de dons en violation de l'article L. 673-3 est puni de deux ans d'emprisonnement [*durée*] et de
+200 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V) JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 17 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-12 (M)
+	  - Code de la santé publique - art. L673-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1273-5 (M)
+	  - Code de la santé publique - art. L1273-5 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L673-3 (Ab)
+
+
+###### Article L675-14
+
+Comme il est dit à l'article 511-13 du code pénal, le fait de subordonner le bénéfice d'un don de gamètes à la désignation
+par le couple receveur d'une personne ayant volontairement accepté de procéder à un tel don en faveur d'un couple tiers en
+violation de l'article L. 673-7 est puni de deux ans d'emprisonnement [*durée*] et de 200 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V) JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 17 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-13 (M)
+	  - Code de la santé publique - art. L673-7 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1273-6 (M)
+	  - Code de la santé publique - art. L1273-6 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L673-7 (Ab)
+
+
+###### Article L675-15
+
+Les personnes physiques coupables des infractions prévues au présent chapitre encourent également la peine complémentaire
+d'interdiction, pour une durée de dix ans au plus, d'exercer l'activité professionnelle ou sociale dans l'exercice de
+laquelle ou à l'occasion de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 17 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1274-1 (V)
+
+
+###### Article L675-16
+
+Comme il est dit à l'article 511-14 du code pénal, le fait de procéder à des activités de recueil, de traitement, de
+conservation et de cession de gamètes provenant de dons sans avoir recueilli l'autorisation prévue à l'article L. 673-5 est
+puni de deux ans d'emprisonnement [*durée*] et de 200 000 F d'amende (1) [*montant*].
+
+(1) Amende applicable depuis le 1er août 1994.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V) JORF 26 juillet 1994
+
+	**Cité par**:
+
+	  - Loi n°94-630 du 25 juillet 1994 - art. 17 (V)
+
+	**Modifié par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 17 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-14 (M)
+	  - Code de la santé publique - art. L673-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1273-7 (M)
+	  - Code de la santé publique - art. L1273-7 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L673-5 (Ab)
+
+
+###### Article L675-17
+
+Comme il est dit à l'article 511-28 du code pénal, les personnes morales peuvent être déclarées responsables pénalement, dans
+les conditions prévues par l'article 121-2 dudit code, des infractions définies au présent chapitre. Les peines encourues par
+les personnes morales sont :
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
+
+2° Les peines mentionnées à l'article 131-39 du code pénal.
+
+L'interdiction mentionnée au 2° de l'article 131-39 du code pénal porte sur l'activité dans l'exercice ou à l'occasion de
+l'exercice de laquelle l'infraction a été commise.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 17 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (M)
+	  - Code pénal - art. 131-38 (M)
+	  - Code pénal - art. 131-39 (MMN)
+	  - Code pénal - art. 511-28 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1274-2 (V)
+
+
+###### Article L675-18
+
+Comme il est dit à l'article 511-26 du code pénal, la tentative des délits prévus par les articles 511-2, 511-3, 511-4,
+511-5, 511-6 et 511-9 dudit code auxquels renvoient les articles L. 674-2 à L. 674-5, L. 675-9 et L. 675-10 du présent code
+est punie des mêmes peines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 17 () JORF 30 juillet 1994
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code pénal - art. 511-2 (M)
+	  - Code pénal - art. 511-26 (M)
+	  - Code pénal - art. 511-3 (M)
+	  - Code pénal - art. 511-4 (M)
+	  - Code pénal - art. 511-5 (M)
+	  - Code pénal - art. 511-6 (M)
+	  - Code pénal - art. 511-9 (M)
+	  - Code de la santé publique - art. L675-10 (Ab)
+	  - Code de la santé publique - art. L675-9 (Ab)
+	  - Code de la santé publique L674-2 à L674-5, L675-9, L675-10
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1274-3 (M)
+	  - Code de la santé publique - art. L1274-3 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L678 (Ab)
+
+
+## Livre 6 : Utilisation thérapeutique de produits d'origine humaine
 
 ## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires
 
