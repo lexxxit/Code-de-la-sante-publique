@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1991-01-23
+Version Consolidée au 1991-02-06
 
 # Partie législative ancienne
 
@@ -51337,22 +51337,21 @@ officiel de la République française.
 
 La commission mentionnée à l'article R. 5146-38 comprend [*composition*] :
 
-1. Cinq membres de droit :
+1. Trois membres de droit :
 
-- le directeur de la pharmacie et du médicament au ministère de la santé ou son représentant ;
+a) Le directeur de la pharmacie et du médicament au ministère chargé de la santé ou son représentant ;
 
-- le directeur général de l'alimentation au ministère de l'agriculture ou son représentant ;
+b) Le directeur général de l'alimentation au ministère chargé de l'agriculture ou son représentant ;
 
-- le directeur général du Laboratoire national de la santé ou son représentant ;
+c) Le directeur général du Laboratoire national de la santé ou son représentant ;
 
-- le directeur du Laboratoire central de recherches vétérinaires ou son représentant ;
+2. Deux membres du Centre national d'études vétérinaires et alimentaires désignés par le directeur de cet organisme et
+choisis l'un parmi les chefs de département et l'autre parmi les directeurs de laboratoires, ou leurs représentants ;
 
-- le directeur du Laboratoire national des médicaments vétérinaires ou son représentant.
-
-2. Six membres nommés, pour une durée de trois ans, par le ministre chargé de la santé et par le ministre de l'agriculture,
-en raison de leur compétence scientifique, notamment dans le domaine de la pharmacologie humaine, de la chimie analytique, de
-la pharmacie galénique, de la toxicologie expérimentale, de la pharmacologie expérimentale, de la pharmacologie animale, de
-la pathologie et de la thérapeutique.
+3. Neuf membres nommés pour une durée de trois ans par le ministre chargé de la santé et par le ministre chargé de
+l'agriculture en raison de leur compétence scientifique, notamment dans le domaine de la pharmacologie humaine, de la chimie
+analytique, de la pharmacie galénique, de la toxicologie expérimentale, de la pharmacologie animale, de la pathologie, de la
+thérapeutique et des biotechnologies.
 
 **Liens relatifs à cet article**
 
@@ -51361,13 +51360,13 @@ la pathologie et de la thérapeutique.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Modifié par**:
-
-	  - Décret n°87-623 1987-07-30 art. 2 JORF 5 août 1987
-
 	**Cité par**:
 
 	  - Arrêté du 9 novembre 1987 - art. 1 (V)
+
+	**Modifié par**:
+
+	  - Décret n°91-143 du 4 février 1991 - art. 1 () JORF 6 février 1991
 
 	**Liens**:
 
@@ -51384,7 +51383,7 @@ la pathologie et de la thérapeutique.
 
 ###### Article R5146-39-1
 
-Six suppléants sont désignés dans les mêmes conditions que les membres titulaires autres que les membres de droit. Ils
+Neuf suppléants sont désignés dans les mêmes conditions que les membres titulaires autres que les membres de droit. Ils
 remplacent les titulaires soit en cas d'empêchement, soit s'il se produit une vacance en cours de mandat.
 
 Le président et le vice-président sont désignés par le ministre chargé de la santé et par le ministre de l'agriculture parmi
@@ -51400,9 +51399,9 @@ vétérinaire et des membres de la commission de sécurité des consommateurs.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-623 1987-07-30 art. 2 JORF 5 août 1987
+	  - Décret n°91-143 du 4 février 1991 - art. 2 () JORF 6 février 1991
 
 	**Liens**:
 
