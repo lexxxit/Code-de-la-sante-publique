@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1976-07-10
+Version Consolidée au 1976-08-26
 
 # Partie législative ancienne
 
@@ -40448,6 +40448,41 @@ médicaments du ministère de la santé.
 	  - Code de la santé publique - art. R5122-8 (V)
 
 
+###### Article R5047-1
+
+Le visa de publicité est délivré sous le numéro d'ordre se rapportant à un ou plusieurs modes déterminés de diffusion. Toute
+publicité diffusée sous quelque forme que ce soit doit faire mention du numéro sous lequel le visa a été délivré.
+
+Le visa de publicité ne comporte aucune garantie en ce qui concerne les propriétés et les effets du produit. Il est accordé
+pour une durée qui ne peut excéder cinq ans ni, pour les spécialités pharmaceutiques, la durée de l'autorisation de mise sur
+le marché.
+
+Il peut être retiré par décision motivée du ministre chargé de la santé, après avis de la commission de contrôle de la
+publicité. Le bénéficiaire du visa doit, avant que la commission soit saisie, être mis à même de présenter ses observations
+écrites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°76-807 1976-08-24 art. 1 JORF 26 août 1976
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5050 (Ab)
+	  - Code de la santé publique - art. R5051 (Ab)
+	  - Code de la santé publique - art. R5051-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-9 (V)
+
+
 ###### Article R5048
 
 Les mentions qui figurent sur les conditionnements, récipients, prospectus ou notices des spécialités pharmaceutiques sont
@@ -40701,6 +40736,32 @@ Toute délivrance d'échantillon d'un médicament soumis au régime des stupéfi
 
 ##### Section 1 : Dispositions générales.
 
+###### Article R5045
+
+Les dispositions du présent chapitre sont applicables à toute publicité faite, sous quelque forme que ce soit, pour des
+médicaments.
+
+Elles s'appliquent également à la publicité faite en faveur des établissements pharmaceutiques et des officines, ainsi qu'à
+la publicité ou à la propagande relatives aux produits prévus à l'article L. 551 (2e alinéa) du présent code et aux objets,
+appareils et méthodes prévus à l'article L. 552 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°73-209 1973-02-22 art. 1 JORF 1er mars 1973
+	  - Décret n°76-807 1976-08-24 art. 1 JORF 26 août 1976
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-1 (V)
+
+
 ###### Article R5046
 
 La publicité faite à l'étranger, en langue française, pour des médicaments, produits, objets, appareils et méthodes vendus ou
@@ -40818,6 +40879,85 @@ jugera utile.
 	  - Code de la santé publique - art. R5122-23 (Ab)
 
 
+###### Article R5055-1
+
+La commission prévue à l'article précédent est constituée comme suit :
+
+Deux professeurs d'unité d'enseignement et de recherche de médecine ;
+
+Deux professeurs d'unité d'enseignement et de recherche de pharmacie ;
+
+Un membre du conseil national de l'ordre des pharmaciens ;
+
+Un membre du conseil national de l'ordre des médecins ;
+
+Deux médecins omnipraticiens ;
+
+Deux pharmaciens d'officine ;
+
+Deux personnalités choisies en raison de leur compétence en matière de publicité ;
+
+Un représentant du ministre de l'économie et des finances ;
+
+Un représentant du ministre chargé de l'industrie ;
+
+Un représentant du ministre chargé du commerce ;
+
+Un représentant du ministre de l'agriculture (service de la répression des fraudes et du contrôle de la qualité) ;
+
+Un représentant des organisations de consommateurs faisant partie du comité national de la consommation ;
+
+Un représentant de l'institut national de la consommation ;
+
+Deux représentants du ministre chargé de la santé.
+
+Les membres de cette commission sont nommés pour une période de trois ans par arrêté du ministre chargé de la santé. Des
+suppléants sont désignés en nombre égal dans les mêmes conditions.
+
+Le président et le vice-président, désignés pour un an par le ministre, sont choisis alternativement parmi les professeurs de
+médecine et de pharmacie membres titulaires de la commission. Lorsque le président est professeur de médecine, le vice-
+président est professeur de pharmacie et inversement. En cas de partage égal des voix, le président de séance a voix
+prépondérante.
+
+La commission peut faire appel à des experts, qui siègent avec voix consultative, et le ministre chargé de la santé peut lui
+demander d'en entendre.
+
+L'instruction des dossiers peut être confiée à des rapporteurs choisis soit parmi les membres de la commission, soit une
+liste établie par arrêté du ministre chargé de la santé. Les rapporteurs pris en dehors de la commission siègent avec voix
+consultative.
+
+Le secrétariat de la commission est assuré par le service central de la pharmacie et des médicaments au ministère de la
+santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°73-209 1973-02-22 art. 2 JORF 1er mars 1973
+
+	**Modifié par**:
+
+	  - Décret n°76-807 1976-08-24 art. 5 JORF 26 août 1976
+
+	**Cité par**:
+
+	  - Arrêté du 7 août 1991 - art. 1 (V)
+	  - Code de la santé publique - art. R5045-2 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5055 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-27 (Ab)
+
+
 ###### Article R5055-2
 
 La commission instituée par l'article R. 5055 peut être saisie :
@@ -40912,6 +41052,59 @@ de séance est prépondérante.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5122-24 (Ab)
+
+
+##### Section 3 : Dispositions concernant la publicité pour les produits présentés comme favorisant le diagnostic, la prévention ou le traitement des maladies.
+
+###### Article R5052-1
+
+Les dispositions de la section II ci-dessus sont applicables à la publicité et à la propagande faites en faveur des produits
+présentés comme favorisant le diagnostic, la prévention ou le traitement des maladies, des affections relevant de la
+pathologie chirurgicale et du dérèglement physiologique, sous réserve des adaptations ci-après :
+
+1° En ce qui concerne l'ensemble des dispositions :
+
+Les termes "médicaments, spécialités, ou médicaments spécialisés" doivent s'entendre comme s'appliquant aux produits relevant
+de la présente section ;
+
+Les termes "fabricants, grossistes-répartiteurs, dépositaires de produits pharmaceutiques" doivent s'entendre comme
+s'appliquant aux fabricants et revendeurs en gros ou au détail des produits relevant de la présente section.
+
+2° En ce qui concerne l'article R. 5048, les mentions figurant sur les conditionnements, récipients, prospectus ou notices
+sont dispensées du visa de publicité lorsqu'elles comportent exclusivement les indications suivantes :
+
+Le nom et la composition du produit ;
+
+Le nom et l'adresse du fabricant ;
+
+Le mode d'emploi ;
+
+Le prix de vente au public.
+
+3° En ce qui concerne l'article R. 5050, ne sont pas exigées les mentions énumérées dans les n° 3, 5, 6, 7, 8, 13, 14 et 15
+du paragraphe A. Les mentions prévues dans les n° 1 et 4 sont remplacées respectivement par le nom et la composition du
+produit, et la mention de la situation du produit par rapport aux législations sociales, prévue au n° 16, n'est pas
+nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°76-807 1976-08-24 art. 2 JORF 26 août 1976
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5048 (M)
+	  - Code de la santé publique - art. R5050 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-20 (V)
 
 
 #### Chapitre 5 : De l'inspection de la pharmacie
