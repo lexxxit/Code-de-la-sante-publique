@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1974-12-05
+Version Consolidée au 1975-01-18
 
 # Partie législative ancienne
 
@@ -4455,6 +4455,722 @@ reçoivent.
 	  - Loi n°89-899 du 18 décembre 1989 - art. 3 () JORF 19 décembre 1989
 
 
+#### Chapitre 3 bis : Interruption volontaire de la grossesse
+
+##### Section 1 : Interruption volontaire de la grossesse pratiquée avant la fin de la dixième semaine.
+
+###### Article L162-1
+
+La femme enceinte que son état place dans une situation de détresse peut demander à un médecin l'interruption de sa
+grossesse. Cette interruption ne peut être pratiquée [*conditions*] qu'avant la fin de la dixième semaine de grossesse [*date
+limite*].
+
+**Nota:**
+
+[*Nota : LOI 75-17 du 17 janvier 1975 ART. 2, ART. 11 :
+
+période d'application.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+
+	**Cité par**:
+
+	  - Arrêté du 10 septembre 1992 - art. 12 (V)
+	  - Arrêté du 10 septembre 1992 - art. 7 (V)
+	  - Code de la santé publique - art. L162-3 (Ab)
+	  - Code de la santé publique - art. L162-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2212-1 (M)
+
+
+###### Article L162-2
+
+L'interruption volontaire d'une grossesse ne peut être pratiquée que par un médecin [*condition*].
+
+Elle ne peut avoir lieu que dans un établissement d'hospitalisation public ou dans un établissement d'hospitalisation privé
+satisfaisant aux dispositions de l'article L. 176.
+
+**Nota:**
+
+[*Nota : LOI 75-17 17 janvier 1975 ART. 2, ART. 11 : période d'application. Code de la santé publique L. 162-13 : disposition
+applicable à l'IVG pratiquée pour motif thérapeutique.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L162-13 (M)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L162-13 (Ab)
+	  - Code de la santé publique - art. L162-15 (Ab)
+	  - Code de la santé publique - art. L162-6 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L176 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2212-2 (M)
+
+
+###### Article L162-3
+
+Le médecin sollicité par une femme en vue de l'interruption de sa grossesse doit, dès la première visite [*obligation*] :
+
+1° Informer celle-ci des risques médicaux qu'elle encourt pour elle-même et pour ses maternités futures, et de la gravité
+biologique de l'intervention qu'elle sollicite ;
+
+2° Lui remettre un dossier-guide, mis à jour au moins une fois par an [*périodicité*], comportant notamment :
+
+a) Le rappel des dispositions de l'article 1er de la loi n° 75-17 du 17 janvier 1975, ainsi que des dispositions de l'article
+L. 162-1 du présent code qui limite l'interruption de la grossesse au cas où la femme enceinte se trouve placée par son état
+dans une situation de détresse ;
+
+b) L'énumération des droits, aides et avantages garantis par la loi aux familles, aux mères, célibataires ou non, et à leurs
+enfants, ainsi que des possibilités offertes par l'adoption d'un enfant à naître ;
+
+c) La liste et les adresses des organismes visés à l'article L. 162-4, ainsi que des associations et organismes susceptibles
+d'apporter une aide morale ou matérielle aux intéressés ;
+
+d) La liste et les adresses des établissements où sont effectuées des interruptions volontaires de la grossesse.
+
+Un arrêté précise dans quelles conditions les directions départementales des affaires sanitaires et sociales assurent la
+réalisation et la diffusion des dossiers-guides destinés aux médecins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Loi n°75-17 1975-01-17 ART. 1
+	  - Code de la santé publique - art. L162-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 13 mai 1975
+	  - TXT_SOURCE: Arrêté du 13 mai 1975 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 13 mai 1975 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 13 mai 1975 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 13 mai 1975 - art. 4 (AbD)
+	  - TXT_SOURCE: Arrêté du 13 mai 1975 - art. Annexe (V)
+	  - TXT_SOURCE: Arrêté du 29 décembre 1987
+	  - TXT_SOURCE: Arrêté du 29 janvier 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 janvier 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 janvier 1988 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 29 janvier 1988 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 25 novembre 1980
+	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. Annexe (Ab)
+	  - TXT_SOURCE: Arrêté du 7 août 1989
+	  - TXT_SOURCE: Arrêté du 7 août 1989 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 7 août 1989 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 7 août 1989 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 7 août 1989 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 7 août 1989 - art. Annexe I (V)
+	  - TXT_SOURCE: Arrêté du 7 août 1989 - art. Annexe II (V)
+
+	**Cité par**:
+
+	  - Arrêté du 13 mai 1975 - art. 1 (V)
+	  - Décret n°80-632 du 5 août 1980 - art. 1 (Ab)
+	  - Arrêté du 29 janvier 1988 - art. 1 (Ab)
+	  - Ordonnance no 90-570 du 25 juin 1990 portant exten - art. 7 (Ab)
+	  - Arrêté du 22 août 1984 - art. 1 (Ab)
+	  - Arrêté du 22 août 1984 - art. 5 (Ab)
+	  - Arrêté du 25 novembre 1980 - art. 1 (Ab)
+	  - Arrêté du 7 août 1989 - art. 1 (V)
+	  - Code de la santé publique - art. L162-4 (Ab)
+	  - Code de la santé publique - art. L162-5 (Ab)
+	  - Code de la santé publique - art. L162-6 (Ab)
+	  - Code de la santé publique - art. L162-8 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°79-1204 du 31 décembre 1979 - art. 4 () JORF 1ER janvier 1980
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2212-3 (M)
+
+
+###### Article L162-4
+
+Une femme s'estimant placée dans la situation [*de détresse*] visée à l'article L. 162-1 doit, après la démarche prévue à
+l'article L. 162-3, consulter [*obligatoirement*] un établissement d'information, de consultation ou de conseil familial, un
+centre de planification ou d'éducation familiale, un service social ou un autre organisme agréé qui devra lui délivrer une
+attestation de consultation.
+
+Cette consultation comporte un entretien particulier au cours duquel une assistance et des conseils appropriés à la situation
+de l'intéressée lui sont apportés, ainsi que les moyens nécessaires pour résoudre les problèmes sociaux posés, en vue
+notamment de permettre à celle-ci de garder son enfant. A cette occasion, lui sont communiqués les noms et adresses des
+personnes qui, soit à titre individuel, soit au nom d'un organisme, d'un service ou d'une association, seraient susceptibles
+d'apporter une aide morale ou matérielle aux femmes et aux couples confrontés aux problèmes de l'accueil de l'enfant.
+
+Sauf en ce qui concerne les établissements hospitaliers publics ces consultations ne peuvent se dérouler à l'intérieur des
+établissements dans lesquels sont pratiquées des interruptions volontaires de la grossesse [*lieu*].
+
+Les personnels des organismes visés au premier alinéa sont soumis aux dispositions de l'article 378 du Code pénal [*secret
+professionnel*].
+
+Chaque fois que cela est possible, le couple participe à la consultation et à la décision à prendre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-17 1975-01-17 ART. 2, 11 : PERIODE D'APPLICATION
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Décret n°75-353 1975-05-13
+	  - TXT_SOURCE: Décret n°75-353 du 13 mai 1975
+	  - TXT_SOURCE: Décret n°75-353 du 13 mai 1975 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°75-353 du 13 mai 1975 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°75-353 du 13 mai 1975 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°75-353 du 13 mai 1975 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1975
+	  - TXT_SOURCE: Arrêté du 28 novembre 1975 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1975 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1975 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1975 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1975 - art. 5 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1975 - art. 6 (V)
+	  - TXT_SOURCE: Arrêté du 28 novembre 1975 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 25 novembre 1980
+	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 25 novembre 1980 - art. Annexe (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+
+	**Cité par**:
+
+	  - Décret n°75-353 du 13 mai 1975 - art. 1 (Ab)
+	  - Décret n°75-353 du 13 mai 1975 - art. 2 (Ab)
+	  - Décret n°75-353 du 13 mai 1975 - art. 3 (Ab)
+	  - Décret n°75-353 du 13 mai 1975 - art. 4 (Ab)
+	  - Arrêté du 28 novembre 1975 - art. 1 (V)
+	  - Arrêté du 28 novembre 1975 - art. 5 (V)
+	  - Décret n°80-632 du 5 août 1980 - art. 1 (Ab)
+	  - Décret n°90-740 du 14 août 1990 - art. 6 (V)
+	  - Décret n°92-784 du 6 août 1992 - art. 1 (Ab)
+	  - Décret n°93-454 du 23 mars 1993 - art. 2 (Ab)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+	  - Code de la santé publique - art. L162-3 (Ab)
+	  - Code de la santé publique - art. L162-5 (Ab)
+	  - Code de la santé publique - art. L162-6 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°79-1204 du 31 décembre 1979 - art. 5 () JORF 1ER janvier 1980
+
+	**Cite**:
+
+	  - Code pénal 378
+	  - Code de la santé publique - art. L162-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2212-4 (M)
+
+
+###### Article L162-5
+
+Si la femme renouvelle, après les consultations prévues aux articles L. 162-3 et L. 162-4, sa demande d'interruption de
+grossesse, le médecin doit lui demander une confirmation écrite [*obligatoire*] ; il ne peut accepter cette confirmation
+qu'après l'expiration d'un délai d'une semaine suivant la première demande de la femme, sauf au cas où le terme des dix
+semaines risquerait d'être dépassé, le médecin étant seul juge de l'opportunité de sa décision. En outre, cette confirmation
+ne peut intervenir qu'après l'expiration d'un délai de deux jours suivant l'entretien prévu à l'article L. 162-4, ce délai
+pouvant être inclus dans celui d'une semaine prévu ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-17 1975-01-17 ART. 2, 11 : PERIODE D'APPLICATION
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+
+	**Modifié par**:
+
+	  - Loi n°79-1204 du 31 décembre 1979 - art. 6 () JORF 1ER janvier 1980
+
+	**Cité par**:
+
+	  - Décret n°80-632 du 5 août 1980 - art. 1 (Ab)
+	  - Code de la santé publique - art. L162-6 (Ab)
+	  - Code de la santé publique - art. L162-8 (Ab)
+	  - Code de la santé publique - art. L6314-1 (V)
+	  - Code de la santé publique - art. L6315-1 (T)
+	  - Code de la santé publique - art. L6325-1 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L162-3 (M)
+	  - Code de la santé publique - art. L162-4 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2212-5 (M)
+
+
+###### Article L162-6
+
+En cas de confirmation, le médecin peut pratiquer lui-même l'interruption de grossesse dans les conditions fixées au deuxième
+alinéa de l'article L. 162-2. S'il ne pratique pas lui-même l'intervention, il restitue à la femme sa demande pour que celle-
+ci soit remise au médecin choisi par elle et lui délivre en outre un certificat attestant qu'il s'est conformé aux
+dispositions des articles L. 162-3 et L. 162-5.
+
+Le directeur de l'établissement d'hospitalisation dans lequel une femme demande son admission en vue d'une interruption
+volontaire de la grossesse doit se faire remettre et conserver pendant au moins un an [*durée*] les attestations justifiant
+qu'elle a satisfait aux consultations prescrites aux articles L. 162-3 à L. 162-5.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-17 1975-01-17 ART. 2, 11 : PERIODE D'APPLICATION
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+
+	**Modifié par**:
+
+	  - Loi n°79-1204 du 31 décembre 1979 - art. 6 () JORF 1ER janvier 1980
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L162-2 (M)
+	  - Code de la santé publique - art. L162-3 (M)
+	  - Code de la santé publique - art. L162-4 (M)
+	  - Code de la santé publique - art. L162-5 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2212-6 (M)
+
+
+###### Article L162-7
+
+Si la femme est mineure célibataire, le consentement de l'une des personnes qui exerce l'autorité parentale ou, le cas
+échéant, du représentant légal est requis [*obligation*]. Ce consentement devra être accompagné de celui de la mineure
+célibataire enceinte, ce dernier étant donné en dehors de la présence des parents ou du représentant légal.
+
+**Nota:**
+
+[*Nota : LOI 75-17 17 janvier 1975 ART. 2, ART. 11 : période d'application.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+
+	**Cité par**:
+
+	  - Décret n°75-750 du 7 août 1975 - art. 16 (Ab)
+	  - Ordonnance no 90-570 du 25 juin 1990 portant exten - art. 8 (Ab)
+	  - Code de la santé publique - art. L162-11 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°79-1204 du 31 décembre 1979 - art. 6 () JORF 1ER janvier 1980
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2212-7 (M)
+
+
+###### Article L162-8
+
+Un médecin n'est jamais tenu [*non obligation*] de pratiquer une interruption volontaire de la grossesse mais il doit
+informer, au plus tard lors de la première visite, l'intéressée de son refus. Il est, en outre, tenu de se conformer aux
+obligations mentionnées aux articles L. 162-3 et L. 162-5.
+
+Aucune sage-femme, aucun infirmier ou infirmière, aucun auxiliaire médical, quel qu'il soit, n'est tenu de concourir à une
+interruption de grossesse.
+
+Un établissement d'hospitalisation privé peut refuser que des interruptions volontaires de grossesse soient pratiquées dans
+ses locaux.
+
+Toutefois, dans le cas où l'établissement a demandé à participer à l'exécution du service public hospitalier ou conclu un
+contrat de concession, en application de la loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière, ce refus ne peut
+être opposé que si d'autres établissements sont en mesure de répondre aux besoins locaux.
+
+Les catégories d'établissements publics qui sont tenus de disposer des moyens permettant la pratique des interruptions
+volontaires de la grossesse sont fixées par décret.
+
+Dans les établissements hospitaliers appartenant aux catégories mentionnées à l'alinéa précédent, le conseil d'administration
+désigne le service dans lequel les interruptions volontaires de la grossesse sont pratiquées.
+
+Lorsque le chef de service concerné refuse d'en assumer la responsabilité, le conseil d'administration doit créer une unité
+dotée des moyens permettant la pratique des interruptions volontaires de la grossesse.
+
+**Nota:**
+
+[*Nota : LOI 75-17 17 janvier 1975 ART. 2, ART. 11 : période d'application. Code de la santé publique L. 162-13 : disposition
+applicable à l'IVG pratiquée pour motif thérapeutique.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Loi n°70-1318 1970-12-31
+	  - Code de la santé publique - art. L162-3 (M)
+	  - Code de la santé publique - art. L162-5 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°80-285 du 17 avril 1980
+	  - TXT_SOURCE: Décret n°80-285 du 17 avril 1980 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°80-285 du 17 avril 1980 - art. 2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L162-13 (M)
+	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988
+	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988 - art. 3 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+
+	**Modifié par**:
+
+	  - Loi n°79-1204 du 31 décembre 1979 - art. 6 () JORF 1ER janvier 1980
+
+	**Cité par**:
+
+	  - Décret n°82-826 du 27 septembre 1982 - art. 4 (Ab)
+	  - Ordonnance no 90-570 du 25 juin 1990 portant exten - art. 9 (Ab)
+	  - Décret n°90-740 du 14 août 1990 - art. 6 (V)
+	  - Code de déontologie des sages-femmes. - art. 24 (Ab)
+	  - Code de la santé publique - art. L162-13 (Ab)
+	  - Décret n°88-59 du 18 janvier 1988 - art. 3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2212-8 (M)
+
+
+###### Article L162-9
+
+Tout établissement dans lequel est pratiquée une interruption de grossesse doit assurer, après l'intervention, l'information
+[*obligatoire*] de la femme en matière de régulation des naissances [*contraception*].
+
+**Nota:**
+
+[*Nota : LOI 75-17 du 17 janvier 1975 ART. 2, ART. 11 : période d'application. Code de la santé publique L. 162-13 :
+disposition applicable à l'IVG pratiquée pour motif thérapeutique.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°80-285 du 17 avril 1980
+	  - TXT_SOURCE: Décret n°80-285 du 17 avril 1980 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°80-285 du 17 avril 1980 - art. 2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L162-13 (M)
+	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988
+	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°88-59 du 18 janvier 1988 - art. 3 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+
+	**Cité par**:
+
+	  - Décret n°82-826 du 27 septembre 1982 - art. 4 (Ab)
+	  - Décret n°90-740 du 14 août 1990 - art. 6 (V)
+	  - Code de la santé publique - art. L162-13 (Ab)
+	  - Code de la santé publique - art. L178 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2212-9 (M)
+
+
+###### Article L162-10
+
+Toute interruption de grossesse doit faire l'objet d'une déclaration [*bulletin statistique*] établie par le médecin et
+adressée par l'établissement où elle est pratiquée au médecin inspecteur régional de la santé ; cette déclaration ne fait
+aucune mention de l'identité de la femme [*anonymat*].
+
+**Nota:**
+
+[*Nota : LOI 75-17 du 17 janvier 1975 ART. 2, ART. 11 : période d'application. Code de la santé publique L. 162-13 :
+disposition applicable à l'IVG pratiquée pour motif thérapeutique.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 11 (Ab)
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 7 novembre 1989
+	  - TXT_SOURCE: Arrêté du 7 novembre 1989 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 7 novembre 1989 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 19 août 1975
+	  - TXT_SOURCE: Arrêté du 19 août 1975 - art. 1 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L162-13 (M)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+
+	**Cité par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 16 (Ab)
+	  - Décret n°75-750 du 7 août 1975 - art. 18 (Ab)
+	  - Décret n°80-632 du 5 août 1980 - art. 2 (Ab)
+	  - Arrêté du 7 novembre 1989 - art. 1 (V)
+	  - Arrêté du 7 novembre 1989 - art. 2 (V)
+	  - Code de la santé publique - art. L162-13 (Ab)
+	  - Code de la santé publique - art. L178 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2212-10 (M)
+
+
+###### Article L162-11
+
+L'interruption de grossesse n'est autorisée pour une femme étrangère que si celle-ci justifie de conditions de résidence
+fixées par voie réglementaire.
+
+Les femmes célibataires étrangères âgées de moins de dix-huit ans [*mineures*] doivent en outre se soumettre aux conditions
+prévues à l'article L. 162-7.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°75-17 1975-01-17 ART. 2, 11 : PERIODE D'APPLICATION
+	  - SPEC_APPLI: Loi n°75-17 du 17 janvier 1975 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°75-354 du 13 mai 1975
+	  - TXT_SOURCE: Décret n°75-354 du 13 mai 1975 - art. 2 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 4 () JORF 18 janvier 1975
+
+	**Cité par**:
+
+	  - Décret n°75-750 du 7 août 1975 - art. 17 (Ab)
+	  - Décret n°90-740 du 14 août 1990 - art. 6 (V)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 6 (V)
+	  - Code de la santé publique - art. L178 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L162-7 (M)
+
+
+##### Section 2 : Interruption volontaire de la grossesse pratiquée pour motif thérapeutique.
+
+###### Article L162-12
+
+L'interruption volontaire d'une grossesse peut, à toute époque, être pratiquée si deux [*nombre*] médecins attestent, après
+examen et discussion, que la poursuite de la grossesse met en péril grave la santé de la femme ou qu'il existe une forte
+probabilité que l'enfant à naître soit atteint d'une affection d'une particulière gravité reconnue comme incurable au moment
+du diagnostic [*conditions*].
+
+L'un des deux médecins doit exercer son activité dans un établissement d'hospitalisation public ou dans un établissement
+d'hospitalisation privé satisfaisant aux conditions de l'article L. 176 et l'autre être inscrit sur une liste d'experts près
+la Cour de cassation ou près d'une cour d'appel.
+
+Un des exemplaires de la consultation est remis à l'intéressée :
+
+deux autres sont conservés par les médecins consultants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 5 () JORF 18 janvier 1975
+
+	**Cité par**:
+
+	  - Décret n°75-750 du 7 août 1975 - art. 16 (Ab)
+	  - Décret n°80-632 du 5 août 1980 - art. 1 (Ab)
+	  - Arrêté du 10 septembre 1992 - art. 7 (V)
+	  - CODE PENAL - art. 317 (Ab)
+	  - Code de la santé publique - art. R162-29 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L176 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2213-1 (M)
+
+
+###### Article L162-13
+
+Les dispositions des articles L. 162-2 et L. 162-8 à L. 162-10 sont applicables à l'interruption volontaire de la grossesse
+pratiquée pour motif thérapeutique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 5 () JORF 18 janvier 1975
+
+	**Cité par**:
+
+	  - Code de déontologie des sages-femmes. - art. 24 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique - art. L162-10 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L162-2 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L162-8 (Ab)
+	  - SPEC_APPLI: Code de la santé publique - art. L162-9 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L162-10 (M)
+	  - Code de la santé publique - art. L162-2 (M)
+	  - Code de la santé publique - art. L162-8 (M)
+	  - Code de la santé publique - art. L162-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2213-2 (M)
+
+
+##### Section 3 : Dispositions communes *à l'IVG pratiquée avant la fin de la dixième semaine ou pour motif thérapeutique*.
+
+###### Article L162-14
+
+Un décret en Conseil d'Etat fixera les conditions d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2212-11 (M)
+	  - Code de la santé publique - art. L2213-3 (M)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 6 () JORF 18 janvier 1975
+
+
 #### Chapitre 4 : Protection des enfants
 
 ##### Section 1 : Carnet de santé.
@@ -5007,6 +5723,34 @@ prévu audit article ou s'il contrevient aux dispositions des articles L. 162-6,
 	**Anciens textes**:
 
 	  - Décret n°1939-07-29 ART. 95
+
+
+###### Article L178-1
+
+Dans les établissements visés à l'article L. 176 le nombre [*maximum*] d'interruptions volontaires de grossesse pratiquées
+chaque année ne pourra être supérieur au quart du total des actes chirurgicaux et obstétricaux.
+
+Tout dépassement entraînera la fermeture de l'établissement pendant un an. En cas de récidive, la fermeture sera définitive
+[*sanction*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Loi n°75-17 du 17 janvier 1975 - art. 7 () JORF 18 janvier 1975
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L176 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L2322-4 (Ab)
 
 
 ###### Article L179
