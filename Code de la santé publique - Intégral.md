@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1995-03-04
+Version Consolidée au 1995-03-14
 
 # Partie législative ancienne
 
@@ -68976,6 +68976,28 @@ moins cinq ans après sa libération.
 	  - Code de la santé publique - art. R5124-56 (V)
 
 
+###### Article R5115-12
+
+Lorsque le pharmacien responsable d'une entreprise ou d'un organisme fabricant ou exploitant un médicament ou produit
+mentionné à la présente section a connaissance, après la commercialisation d'un lot de médicaments ou de produits, d'un
+incident ou d'un accident survenu lors de la fabrication ou de la distribution de ce lot et susceptible d'entraîner un risque
+pour la santé publique, il doit immédiatement en faire la déclaration au directeur général de l'Agence du médicament.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 5 () JORF 14 mars 1995
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5115-15 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5124-58 (V)
+
+
 ##### Section 2 : Médicaments et produits soumis à autorisation
 
 ##### Paragraphe 1 : Expérimentation des médicaments
@@ -75510,28 +75532,29 @@ La date de l'exécution de l'ordonnance doit être portée par le pharmacien sur
 
 #### Chapitre 2 bis : Pharmacovigilance
 
-##### Section 1 : Organisation de la pharmacovigilance.
+##### Section 1 : Règles générales de pharmacovigilance
+
+##### § 1. Dispositions générales
 
 ###### Article R5144-1
 
-Il est institué auprès du ministre chargé de la santé une Commission nationale de la pharmacovigilance dont la mission est
-[*attributions*] :
+La pharmacovigilance a pour objet la surveillance du risque d'effet indésirable résultant de l'utilisation des médicaments et
+produits à usage humain mentionnés à l'article L. 511-1, des produits mentionnés à l'article L. 658-11 et des médicaments et
+produits contraceptifs mentionnés à l'article 2 du décret n° 69-104 du 3 février 1969.
 
-1° De recueillir et d'évaluer les informations sur les effets inattendus ou toxiques des médicaments postérieurement à la
-délivrance de l'autorisation de mise sur le marché mentionnée à l'article L. 601 ;
-
-2° De donner un avis au ministre chargé de la santé sur les mesures à prendre, notamment en application des articles L. 601
-et L. 605, pour faire cesser les incidents et accidents qui se sont révélés liés à l'emploi d'un médicament ou à l'emploi
-simultané de plusieurs médicaments ;
-
-3° De proposer au ministre chargé de la santé les enquêtes et travaux qu'elle estime utiles à l'exercice de la
-pharmacovigilance.
+La présente section définit des règles générales relatives à la pharmacovigilance exercée sur l'ensemble des médicaments et
+produits visés au précédent alinéa. Ces règles s'appliquent à la pharmacovigilance exercée sur les médicaments dérivés du
+sang et sur les autres médicaments d'origine humaine sous réserve des règles particulières prévues pour ces médicaments par
+le 11° de l'article L.  605.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Cite**:
 
-	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+	  - Décret n°69-104 du 3 février 1969 - art. 2 (M)
+	  - Code de la santé publique - art. L511-1 (M)
+	  - Code de la santé publique - art. L605 (M)
+	  - Code de la santé publique - art. L658-11 (M)
 
 	**Cité par**:
 
@@ -75552,10 +75575,13 @@ pharmacovigilance.
 	  - Code de la santé publique - art. R5144-8 (Ab)
 	  - Code de la santé publique - art. R5144-9 (Ab)
 
-	**Cite**:
+	**Modifié par**:
 
-	  - Code de la santé publique - art. L601 (M)
-	  - Code de la santé publique - art. L605 (M)
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
 
 	**Nouveaux textes**:
 
@@ -75564,49 +75590,25 @@ pharmacovigilance.
 
 ###### Article R5144-2
 
-La Commission nationale de la pharmacovigilance comprend [*composition*] :
+La pharmacovigilance comporte :
 
-1° Quatre [*nombre*] membres de droit :
+- le signalement des effets indésirables mentionnés à l'article R. 5144-1 et le recueil des informations les concernant ;
 
-Le directeur général de la santé ou son représentant ;
+- l'enregistrement, l'évaluation et l'exploitation de ces informations dans un but de prévention ;
 
-Le directeur général de l'Agence du médicament ou son représentant ;
+- la réalisation de toutes études et de tous travaux concernant la sécurité d'emploi des médicaments et produits mentionnés à
+l'article R. 5144-1.
 
-Le directeur des hôpitaux ou son représentant ;
-
-Le directeur général de l'Institut national de la santé et de la recherche médicale (I.N.S.E.R.M.) [*INSERM*] ou son
-représentant.
-
-2° Vingt-sept membres nommés par le ministre chargé de la santé pour une durée de trois ans :
-
-Onze cliniciens dont au moins trois médecins généralistes ;
-
-Dix toxicologues ou pharmacologues ;
-
-Trois pharmaciens hospitaliers ;
-
-Un pharmacien d'officine ;
-
-Une personnalité scientifique proposée par le ministre chargé de la consommation ;
-
-Une personnalité compétente en matière de pharmacovigilance dans l'industrie pharmaceutique.
-
-Vingt-sept suppléants sont désignés dans les mêmes conditions que les membres titulaires.
-
-Le président et le vice-président sont désignés par le ministre chargé de la santé [*autorité compétente*] parmi les membres
-de la commission.
-
-En cas d'absence du président et du vice-président, le ministre chargé de la santé nomme un président de séance.
-
-La commission peut faire appel à des experts consultants choisis sur une liste établie par le directeur général de l'Agence
-du médicament.
+L'exercice de la pharmacovigilance peut impliquer la recherche et l'analyse des données contenues dans le dossier préclinique
+d'expérimentation animale ou dans le dossier des essais cliniques d'un médicament ou produit, ainsi que des informations
+relatives à la fabrication, à la conservation, à la vente, à la délivrance et aux pratiques de consommation, de prescription
+et d'administration aux patients de ce médicament ou produit.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-982 1993-08-05 art. 8 I, II JORF 7 août 1993
-	  - Décret n°93-982 du 5 août 1993 - art. 8 () JORF 7 août 1993
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
 
 	**Nouveaux textes**:
 
@@ -75619,45 +75621,64 @@ du médicament.
 	  - Code de la santé publique - art. R5144-3 (M)
 	  - Code de la santé publique - art. R5144-6 (Ab)
 
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-1 (M)
+
 
 ###### Article R5144-3
 
-Les travaux de la Commission nationale sont préparés par un comité technique présidé par le président de la commission
-nationale ou, en son absence, par le vice-président.
+La pharmacovigilance s'exerce :
 
-Le comité technique comprend [*composition*] les membres de droit de la commission et un représentant de chacun des centres
-régionaux de pharmacovigilance mentionnés à l'article R. 5144-6.
+- pour les médicaments et produits devant faire l'objet de l'autorisation de mise sur le marché prévue à l'article L. 601,
+après la délivrance de cette autorisation ;
 
-Le comité est chargé [*attributions*] notamment de coordonner la collecte des informations ainsi que les enquêtes et travaux
-demandés aux centres régionaux.
+- pour les médicaments mentionnés à l'article L. 601-2, après la délivrance de l'autorisation temporaire d'utilisation ;
 
-Il peut faire appel pour tout ou partie de ses travaux aux experts mentionnés à l'article R. 5144-2.
+- pour les médicaments homéopathiques mentionnés à l'article L. 601-3, après l'enregistrement prévu par cet article ;
 
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R5121-152 (V)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. R5144-2 (M)
-	  - Code de la santé publique - art. R5144-6 (M)
-
-
-###### Article R5144-4
-
-Le secrétariat de la Commission nationale et celui du comité technique sont assurés par l'Agence du médicament.
+- pour les produits mentionnés à l'article L. 658-11, après la délivrance de l'autorisation prévue par cet article.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 8 () JORF 7 août 1993
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. L601-2 (M)
+	  - Code de la santé publique - art. L601-3 (M)
+	  - Code de la santé publique - art. L658-11 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-152 (V)
+
+
+###### Article R5144-4
+
+Pour l'application du présent chapitre, on entend par :
+
+- effet indésirable : une réaction nocive et non voulue, se produisant aux posologies normalement utilisées chez l'homme pour
+la prophylaxie, le diagnostic ou le traitement d'une maladie ou la modification d'une fonction physiologique, ou résultant
+d'un mésusage du médicament ou produit ;
+
+- effet indésirable grave : un effet indésirable létal, ou susceptible de mettre la vie en danger, ou entraînant une
+invalidité ou une incapacité, ou provoquant ou prolongeant une hospitalisation ;
+
+- effet indésirable inattendu : un effet indésirable qui n'est pas mentionné dans le résumé des caractéristiques du produit
+mentionné à l'article R. 5128 ;
+
+- mésusage : une utilisation non conforme aux recommandations du résumé des caractéristiques du produit mentionné à l'article
+R. 5128, à l'exclusion de l'usage abusif.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
 
 	**Cité par**:
 
@@ -75670,25 +75691,44 @@ Le secrétariat de la Commission nationale et celui du comité technique sont as
 
 	  - Code de la santé publique - art. R5121-153 (V)
 
+	**Cite**:
+
+	  - Code de la santé publique - art. R5128 (M)
+
+
+##### § 2. Organisation de la pharmacovigilance
+
+##### 1. Système national de pharmacovigilance
 
 ###### Article R5144-5
 
-La Commission nationale rassemble et exploite :
+Il est institué un système national de pharmacovigilance.
 
-1° Les informations que recueillent les centres régionaux mentionnés à l'article R. 5144-6 sur les effets inattendus ou
-toxiques des médicaments ;
+Ce système comprend :
 
-2° Les informations qui doivent lui être transmises en application de l'article R. 5144-9 par les titulaires d'autorisation
-de mise sur le marché d'un médicament au sujet des effets inattendus ou toxiques de ce médicament.
+- l'Agence du médicament ;
 
-La commission peut en outre être directement informée, notamment par les centres de traitement des intoxications, les
-médecins ou les pharmaciens.
+- la Commission nationale de pharmacovigilance, mentionnée à l'article R. 5144-9, et son comité technique, prévu à l'article
+R. 5144-12 ;
+
+- les centres régionaux de pharmacovigilance mentionnés à l'article R. 5144-14 ;
+
+- les membres des professions de santé et les entreprises ou organismes mentionnés aux articles R. 5144-19 à R. 5144-21,
+ainsi que les pharmacies à usage intérieur mentionnées à l'article L. 595-1.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L595-1 (M)
+	  - Code de la santé publique - art. R5144-12 (M)
+	  - Code de la santé publique - art. R5144-14 (M)
+	  - Code de la santé publique - art. R5144-9 (M)
+	  - Code de la santé publique R5144-9, R5144-12, R5144-14, R5144-19 à R5144-21, L595-1
 
 	**Nouveaux textes**:
 
@@ -75698,29 +75738,48 @@ médecins ou les pharmaciens.
 
 	  - Code de la santé publique - art. R5144-18 (Ab)
 
-	**Cite**:
 
-	  - Code de la santé publique - art. R5144-6 (M)
-	  - Code de la santé publique - art. R5144-9 (M)
-
+##### 2. Rôle de l'Agence du médicament
 
 ###### Article R5144-6
 
-La création et l'organisation des centres régionaux de pharmacovigilance ainsi que les modalités de leur représentation au
-comité technique font l'objet de conventions conclues par le directeur de l'Agence du médicament soit avec un centre
-hospitalier régional faisant partie d'un centre hospitalier et universitaire doté d'un service de pharmacologie clinique ou
-de pharmacologie, soit avec un centre de traitement des intoxications. Ces conventions sont communiquées pour information au
-ministre chargé de la santé.
+L'Agence du médicament assure la mise en oeuvre du système national de pharmacovigilance. Elle définit les orientations de la
+pharmacovigilance, anime et coordonne les actions des différents intervenants et veille au respect des procédures de
+surveillance organisées par le présent chapitre.
+
+Elle reçoit les déclarations et les rapports qui sont adressés à son directeur général, en application de l'article R.
+5144-20, par les entreprises et organismes exploitant des médicaments ou produits mentionnés à l'article R. 5144-1, ainsi que
+les informations qui lui sont transmises, en application de l'article R. 5144-14, par les centres régionaux de
+pharmacovigilance.
+
+Le directeur général de l'agence peut demander aux centres régionaux de pharmacovigilance de mener à bien toutes enquêtes et
+tous travaux de pharmacovigilance.
+
+Il peut également demander aux centres antipoison mentionnés à l'article L. 711-9 de lui fournir les informations et
+d'effectuer les études qu'il estime utiles dans un but de pharmacovigilance.
+
+Les entreprises et organismes exploitant des médicaments ou produits mentionnés à l'article R. 5144-1 doivent, sur demande
+motivée du directeur général de l'agence, fournir toute information mentionnée au second alinéa de l'article R. 5144-2 ou
+effectuer toutes enquêtes et tous travaux concernant les risques d'effets indésirables que ces médicaments ou produits sont
+susceptibles de présenter. Les informations, enquêtes ou travaux ainsi demandés doivent être nécessaires à l'exercice de la
+pharmacovigilance.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 8 () JORF 7 août 1993
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5121-155 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-1 (M)
+	  - Code de la santé publique - art. R5144-14 (M)
+	  - Code de la santé publique - art. R5144-2 (M)
+	  - Code de la santé publique - art. R5144-20 (M)
 
 	**Cité par**:
 
@@ -75731,31 +75790,15 @@ ministre chargé de la santé.
 
 ###### Article R5144-7
 
-Les centres régionaux sont chargés [*attributions*] pour le compte de la Commission nationale de pharmacovigilance :
-
-1° De recueillir les déclarations que doivent leur transmettre, en application de l'article R 5144-8, les médecins,
-chirurgiens-dentistes et sages-femmes ;
-
-2° De recueillir systématiquement les informations sur les effets inattendus ou toxiques des médicaments qui doivent leur
-être communiquées par les établissements publics d'hospitalisation ou les établissements participant à l'exécution du service
-public hospitalier ;
-
-3° De réunir les informations de même nature qui leur sont transmises par les autres établissements d'hospitalisation, ou, à
-titre individuel, notamment par des pharmaciens et des infirmières ou infirmiers ;
-
-4° De conduire les enquêtes et travaux demandés par le ministre chargé de la santé ou par le directeur général de l'Agence du
-médicament ;
-
-5° De contribuer au développement de l'information en matière de pharmacovigilance ;
-
-6° De contribuer au progrès scientifique concernant les méthodes de pharmacovigilance ainsi que la connaissance de la nature
-et des mécanismes des effets inattendus ou toxiques des médicaments.
+Après exploitation des informations recueillies, le directeur général de l'Agence du médicament prend, le cas échéant, les
+mesures appropriées pour assurer la sécurité d'emploi des médicaments et produits mentionnés à l'article R. 5144-1 et pour
+faire cesser les incidents et accidents qui se sont révélés liés à leur emploi, ou saisit les autorités compétentes.
 
 **Liens relatifs à cet article**
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 8 () JORF 7 août 1993
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
 
 	**Nouveaux textes**:
 
@@ -75763,21 +75806,22 @@ et des mécanismes des effets inattendus ou toxiques des médicaments.
 
 	**Cite**:
 
-	  - Code de la santé publique - art. R5144-8 (M)
+	  - Code de la santé publique - art. R5144-1 (M)
 
-
-##### Section 2 : Déclarations obligatoires.
 
 ###### Article R5144-8
 
-Tout médecin, chirurgien-dentiste ou sage-femme, ayant constaté un effet inattendu ou toxique susceptible d'être dû à un
-médicament qu'il a prescrit doit [*obligation*] en faire la déclaration immédiate au centre régional de pharmacovigilance.
+Le directeur général de l'Agence du médicament informe l'Agence européenne pour l'évaluation des médicaments de tout effet
+indésirable grave concernant un médicament qui lui a été déclaré ou notifié, au plus tard quinze jours après cette
+déclaration ou cette notification.
+
+Le cas échéant, il informe dans le même délai l'entreprise ou l'organisme exploitant le médicament ou le produit concerné.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
 
 	**Nouveaux textes**:
 
@@ -75790,21 +75834,25 @@ médicament qu'il a prescrit doit [*obligation*] en faire la déclaration imméd
 	  - Code de la santé publique - art. R5144-7 (M)
 
 
+##### 3. Commission nationale de pharmacovigilance
+
 ###### Article R5144-9
 
-Le titulaire de l'autorisation de mise sur le marché d'un médicament doit déclarer à la Commission nationale de la
-pharmacovigilance tout effet inattendu ou toxique susceptible d'être dû à ce médicament et dont il a connaissance.
+Il est institué auprès du ministre chargé de la santé une Commission nationale de pharmacovigilance dont la mission est :
 
-Cette déclaration est effectuée semestriellement [*périodicité*] au cours de la première année qui suit la commercialisation
-du médicament ou la modification de l'autorisation de mise sur le marché, consécutive à un changement de composants, à de
-nouvelles indications thérapeutiques ou à de nouveaux modes d'administration. Elle est effectuée annuellement pour les années
-suivantes.
+1° D'évaluer les informations sur les effets indésirables des médicaments et produits mentionnés à l'article R. 5144-1 ;
+
+2° De donner un avis au ministre chargé de la santé et au directeur général de l'Agence du médicament sur les mesures à
+prendre pour faire cesser les incidents et accidents qui se sont révélés liés à l'emploi de ces médicaments et produits ;
+
+3° De proposer au ministre chargé de la santé et au directeur général de l'Agence du médicament les enquêtes et travaux
+qu'elle estime utiles à l'exercice de la pharmacovigilance.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
 
 	**Cité par**:
 
@@ -75816,30 +75864,89 @@ suivantes.
 
 	  - Code de la santé publique - art. R5121-159 (Ab)
 
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-1 (M)
+
 
 ###### Article R5144-10
 
-Lorsque, dans un établissement de préparation de produits pharmaceutiques, un pharmacien ou un médecin est chargé de la
-pharmacovigilance, le nom de ce pharmacien ou de ce médecin doit être communiqué à la Commission nationale de la
-pharmacovigilance par le pharmacien responsable de l'établissement.
+I. - La Commission nationale de pharmacovigilance comprend :
+
+1° Quatre membres de droit :
+
+Le directeur général de la santé ou son représentant ;
+
+Le directeur général de l'Agence du médicament ou son représentant ;
+
+Le directeur des hôpitaux ou son représentant ;
+
+Le directeur général de l'Institut national de la santé et de la recherche médicale ou son représentant.
+
+2° Trente et un membres nommés par le ministre chargé de la santé pour une durée de trois ans :
+
+- onze cliniciens dont au moins trois médecins généralistes ;
+
+- dix pharmacologues ou toxicologues ;
+
+- trois pharmaciens hospitaliers ;
+
+- un pharmacien d'officine ;
+
+- une personnalité scientifique proposée par le ministre chargé de la consommation ;
+
+- une personnalité compétente en matière de pharmacovigilance exercée dans les entreprises exploitant des médicaments ou
+produits mentionnés à l'article R. 5144-1 ;
+
+- un médecin choisi sur une liste de deux noms proposés par l'Académie nationale de médecine ;
+
+- un pharmacien choisi sur une liste de deux noms proposés par l'Académie nationale de pharmacie ;
+
+- deux personnalités choisies en raison de leur compétence en pharmaco-épidémiologie.
+
+Trente et un suppléants sont désignés dans les mêmes conditions que les membres titulaires. Ils remplacent ces derniers en
+cas d'empêchement. Ils leur succédent s'il se produit une vacance en cours de mandat, pour la durée du mandat restant à
+courir.
+
+Le président et le vice-président sont désignés par le ministre chargé de la santé parmi les membres de la commission. Le
+vice-président supplée le président en cas d'empêchement.
+
+La commission a la faculté d'entendre toute personne qualifiée. Elle peut faire appel à des rapporteurs et à des experts
+consultants désignés par le directeur général de l'Agence du médicament après avis du président de la commission.
+
+II. - Les membres de la commission doivent, lors de leur nomination, adresser au directeur général de l'Agence du médicament
+une déclaration mentionnant les liens directs ou indirects qu'ils peuvent avoir avec les entreprises dont les produits sont
+susceptibles de faire l'objet d'une évaluation par la commission. Ils s'engagent à signaler toute modification concernant ces
+liens.
+
+Les membres de la commission ne peuvent prendre part ni aux délibérations ni au vote s'ils ont un intérêt direct ou indirect
+à l'affaire examinée.
+
+**Nota:**
+
+[*Nota - Décret 95-278 du 13 mars 1995 art. 4 : les dispositions du I, relatives à la composition de la Commission nationale
+ne sont applicables qu'à compter du 1er juillet 1995.*]
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
 
 	**Cité par**:
 
 	  - Décret n°95-278 du 13 mars 1995 - art. 4 (Ab)
 	  - Code de la santé publique - art. R5144-12 (Ab)
 
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-1 (M)
+
 
 ###### Article R5144-11
 
-Les déclarations mentionnées aux articles R. 5144-8 et R. 5144-9 sont faites sur des imprimés dont le modèle est déterminé
-par arrêté du ministre chargé de la santé [*autorité compétente*] sur proposition du directeur général de l'Agence du
-médicament.
+Sans préjudice du secret professionnel auquel peuvent être astreints, dans les conditions prévues à l'article 226-13 du code
+pénal, les membres, les rapporteurs et les experts de la commission, les délibérations de celle-ci sont confidentielles.
 
 **Liens relatifs à cet article**
 
@@ -75850,16 +75957,394 @@ médicament.
 
 	**Modifié par**:
 
-	  - Décret n°93-982 du 5 août 1993 - art. 8 () JORF 7 août 1993
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Cite**:
+
+	  - Code pénal - art. 226-13 (M)
 
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5121-166 (Ab)
 
+
+###### Article R5144-12
+
+Sauf cas d'urgence, les travaux de la commission nationale sont préparés par un comité technique présidé par le président de
+la commission nationale ou, en son absence, par le vice-président.
+
+Le comité comprend les membres de droit de la commission nationale et un représentant de chacun des centres régionaux de
+pharmacovigilance.
+
+Il est chargé :
+
+- de coordonner la collecte des informations sur les effets indésirables des médicaments et produits mentionnés à l'article
+R. 5144-1 ;
+
+- d'évaluer les informations collectées ;
+
+- de coordonner, de recenser et d'évaluer les enquêtes et travaux demandés aux centres régionaux de pharmacovigilance et aux
+entreprises ou organismes exploitant des médicaments ou produits mentionnés à l'article R. 5144-1.
+
+Le comité peut faire appel pour tout ou partie de ses travaux aux experts mentionnés au I de l'article R. 5144-10.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R1341-17 (Ab)
+	  - Code de la santé publique - art. R145-5-9 (Ab)
+	  - Code de la santé publique - art. R5144-16 (Ab)
+	  - Code de la santé publique - art. R5144-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-164 (V)
+
 	**Cite**:
 
-	  - Code de la santé publique - art. R5144-8 (M)
-	  - Code de la santé publique - art. R5144-9 (M)
+	  - Code de la santé publique - art. R5144-1 (M)
+	  - Code de la santé publique - art. R5144-10 (M)
+
+
+###### Article R5144-13
+
+Le secrétariat de la commission nationale et celui du comité technique sont assurés par l'Agence du médicament.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-165 (Ab)
+
+
+##### 4. Centres régionaux de pharmacovigilance
+
+###### Article R5144-14
+
+Les centres régionaux de pharmacovigilance sont chargés :
+
+1° De recueillir les déclarations que doivent leur adresser, en application de l'article R. 5144-19, les médecins, les
+chirurgiens-dentistes, les sages-femmes et les pharmaciens ;
+
+2° De recueillir les informations relatives aux effets indésirables des médicaments ou produits mentionnés à l'article R.
+5144-1 qui doivent leur être communiquées par les établissements publics de santé, par les centres antipoison et par les
+établissements de santé privés qui assurent l'exécution du service public hospitalier ou sont associés à son fonctionnement ;
+
+3° De réunir les informations de même nature qui leur sont transmises par les autres établissements de santé ou, à titre
+individuel, par les membres de professions de santé ;
+
+4° De transmettre au directeur général de l'Agence du médicament les informations recueillies en application des 1°, 2° et
+3°, celles qui concernent des effets indésirables graves devant lui être transmises sans délai ;
+
+5° De remplir auprès du ministre chargé de la santé et du directeur général de l'Agence du médicament une mission
+d'expertise, en conduisant les études et travaux qui leur sont demandés par ces autorités et en procédant à l'évaluation des
+informations relatives aux effets indésirables ;
+
+6° De contribuer au développement des connaissances sur les méthodes de la pharmacovigilance et sur la nature et les
+mécanismes des effets indésirables des médicaments et produits mentionnés à l'article R. 5144-1.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Cité par**:
+
+	  - Arrêté du 12 avril 2005 - art. 2 (Ab)
+	  - Code de la santé publique - art. D711-9-1 (Ab)
+	  - Code de la santé publique - art. R5144-5 (Ab)
+	  - Code de la santé publique - art. R5144-6 (Ab)
+	  - Code de la santé publique - art. R5146-41-14 (Ab)
+	  - Code de la santé publique - art. R5146-41-18 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-167 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-1 (M)
+	  - Code de la santé publique - art. R5144-19 (Ab)
+
+
+###### Article R5144-15
+
+Les centres régionaux de pharmacovigilance doivent en outre, sur leur territoire géographique d'intervention :
+
+- contribuer au développement de l'information en matière de pharmacovigilance, notamment en renseignant les membres des
+professions de santé et en participant à leur formation,
+
+- remplir une mission d'expertise et de conseil en matière de pharmacovigilance auprès des établissements de santé, en
+collaboration avec les pharmacies à usage intérieur de ces établissements,
+
+- porter à la connaissance des instances compétentes en matière de pharmacodépendance les constatations d'usage abusif ou
+détourné d'un médicament.
+
+Ils doivent, au sein de l'établissement dans lequel ils sont implantés, donner avis et conseils en matière de
+pharmacovigilance aux membres des professions de santé et aux patients, participer aux activités de pharmacologie clinique et
+de pharmaco-épidémiologie et remplir une mission d'expertise et de conseil auprès des instances consultatives spécialisées de
+l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-168 (T)
+
+
+###### Article R5144-16
+
+Les centres régionaux de pharmacovigilance sont agréés par arrêtés du ministre chargé de la santé pris sur proposition du
+directeur général de l'Agence du médicament. L'arrêté agréant un centre détermine son territoire d'intervention.
+
+Pour être agréés, les centres régionaux de pharmacovigilance doivent être constitués au sein d'une structure de
+pharmacologie, de pharmacologie clinique ou de toxicologie clinique d'un établissement public de santé, sous la forme d'une
+unité fonctionnelle ou, si l'établissement a fait usage de la faculté prévue par l'article L. 714-25-2, d'une unité
+distincte.
+
+Le responsable du centre doit être un médecin formé à la pharmacologie ou à la toxicologie clinique.
+
+L'agrément mentionné au premier alinéa peut être retiré en cas de non-respect des dispositions du présent chapitre.
+
+Les modalités de fonctionnement des centres régionaux de pharmacovigilance, notamment les conditions dans lesquelles ils
+accomplissent les missions qui leur sont confiées par l'Agence du médicament, ainsi que la désignation de leurs représentants
+au comité technique mentionné à l'article R. 5144-12, font l'objet de conventions conclues entre le directeur général de
+l'Agence du médicament et les établissements de santé dans lesquels les centres sont agréés. Ces conventions doivent
+respecter les dispositions du présent chapitre et être conformes à une convention type établie par un arrêté du ministre
+chargé de la santé pris sur proposition du directeur général de l'Agence du médicament. Elles sont communiquées pour
+information au ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Cité par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 3 (Ab)
+	  - Code de la santé publique - art. D711-9-7 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-25-2 (M)
+	  - Code de la santé publique - art. R5144-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-169 (V)
+
+
+##### 5. Dispositions diverses
+
+###### Article R5144-17
+
+Toute entreprise ou tout organisme exploitant un médicament ou produit mentionné à l'article R. 5144-1 doit se doter d'un
+service de pharmacovigilance. Le nom du responsable de ce service, médecin ou pharmacien, doit être communiqué à l'Agence du
+médicament par le pharmacien responsable de l'entreprise ou de l'organisme.
+
+Le service est chargé de recueillir l'ensemble des informations portées à la connaissance de l'entreprise ou de l'organisme
+et relatives aux effets indésirables des médicaments ou produits qu'il exploite, de préparer les déclarations et rapports
+mentionnés à l'article R. 5144-20 et de veiller à ce que les demandes du directeur général de l'Agence du médicament
+mentionnées au dernier alinéa de l'article R. 5144-6 trouvent une réponse complète et rapide.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-178 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-1 (M)
+	  - Code de la santé publique - art. R5144-20 (M)
+	  - Code de la santé publique - art. R5144-6 (M)
+
+
+###### Article R5144-18
+
+Les centres régionaux de pharmacovigilance et les services de pharmacovigilance des entreprises ou organismes exploitant un
+médicament ou produit mentionné à l'article R. 5144-1 sont soumis aux bonnes pratiques de pharmacovigilance dont les
+principes sont définis par arrêté du ministre chargé de la santé pris sur proposition du directeur général de l'Agence du
+médicament.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-179 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-1 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5144-20 (Ab)
+	  - Code de la santé publique - art. R5144-24 (Ab)
+
+
+##### § 3. Obligations de signalement
+
+###### Article R5144-19
+
+Tout médecin, chirurgien-dentiste ou sage-femme ayant constaté un effet indésirable grave ou inattendu susceptible d'être dû
+à un médicament ou produit mentionné à l'article R. 5144-1, qu'il l'ait ou non prescrit, doit en faire la déclaration
+immédiate au centre régional de pharmacovigilance.
+
+De même, tout pharmacien ayant eu connaissance d'un effet indésirable grave ou inattendu susceptible d'être dû à un
+médicament ou produit mentionné à l'article R. 5144-1 qu'il a délivré doit également le déclarer aussitôt au centre régional
+de pharmacovigilance.
+
+Tout membre d'une profession de santé ayant fait la même constatation peut également en informer le centre régional de
+pharmacovigilance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-170 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5142-22 (Ab)
+	  - Code de la santé publique - art. R5144-14 (Ab)
+	  - Code de la santé publique - art. R5144-20-1 (T)
+	  - Code de la santé publique - art. R5144-20-2 (Ab)
+	  - Code de la santé publique - art. R5144-21 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-1 (M)
+
+
+###### Article R5144-20
+
+L'entreprise ou l'organisme exploitant un médicament ou produit mentionné à l'article R. 5144-1 doit déclarer immédiatement
+au directeur général de l'Agence du médicament tout effet indésirable grave susceptible d'être dû à ce médicament ou produit
+qui lui a été signalé, notamment par les personnes mentionnées à l'article L. 551-7 qui font de l'information par démarchage
+ou de la prospection pour des médicaments.
+
+L'entreprise ou l'organisme mentionné ci-dessus transmet au directeur général de l'Agence du médicament un rapport présentant
+la synthèse des informations relatives à l'ensemble des effets indésirables qu'il a déclarés ou qui lui ont été signalés et
+de toutes les informations utiles à l'évaluation des risques et des bénéfices liés à l'emploi des médicaments ou produits
+qu'il exploite :
+
+- immédiatement sur demande ;
+
+- semestriellement durant les deux ans suivant l'autorisation de mise sur le marché du médicament ou produit, ou sa
+modification lorsqu'elle est consécutive à un changement de composants, à de nouvelles indications thérapeutiques ou à de
+nouveaux modes d'administration ;
+
+- annuellement les trois années suivantes, puis tous les cinq ans.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L551-7 (Ab)
+	  - Code de la santé publique - art. R5144-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-171 (V)
+	  - Code de la santé publique - art. R5121-172 (V)
+	  - Code de la santé publique - art. R5121-173 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5142-22 (Ab)
+	  - Code de la santé publique - art. R5142-27 (Ab)
+	  - Code de la santé publique - art. R5144-17 (Ab)
+	  - Code de la santé publique - art. R5144-20-1 (T)
+	  - Code de la santé publique - art. R5144-20-2 (Ab)
+	  - Code de la santé publique - art. R5144-21 (Ab)
+	  - Code de la santé publique - art. R5144-38 (Ab)
+	  - Code de la santé publique - art. R5144-6 (Ab)
+
+
+###### Article R5144-21
+
+Les modalités des déclarations et du rapport de synthèse mentionnés aux articles R. 5144-19 et R. 5144-20 sont déterminées
+par arrêté du ministre chargé de la santé, pris sur proposition du directeur général de l'Agence du médicament.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-177 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-19 (Ab)
+	  - Code de la santé publique - art. R5144-20 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5144-35 (Ab)
+
+
+###### Article R5144-22
+
+Les obligations de déclaration et de signalement prévues par la présente section s'appliquent sans préjudice de celles que
+prévoit, pour les médicaments autorisés par l'Agence européenne pour l'évaluation des médicaments, le règlement (CEE) n°
+2309/93 du Conseil du 22 juillet 1993.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 1 () JORF 14 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-180 (V)
+
+	**Cite**:
+
+	  - Règlement CEE Conseil 2309-93 1993-07-22
 
 
 ### Titre 1 bis : Agence du médicament
