@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1961-08-30
+Version Consolidée au 1961-09-02
 
 # Partie législative ancienne
 
@@ -25995,41 +25995,6 @@ limites de leurs circonscriptions respectives.
 	**Abrogé par**:
 
 	  - Loi n°86-17 1986-01-06 art. 80 JORF 8 janvier 1986
-
-
-#### Section 2 : Conseil supérieur d'hygiène publique de France.
-
-###### Article L780
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°61-859 du 1 août 1961 - art. 3 (Ab)
-	  - Décret n°97-293 du 27 mars 1997 - art. 2 (Ab)
-
-
-###### Article L781
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°97-293 du 27 mars 1997 - art. 2 (Ab)
 
 
 #### Section 3 : Conseil permanent d'hygiène sociale.
