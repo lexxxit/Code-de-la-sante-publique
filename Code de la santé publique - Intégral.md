@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1968-07-01
+Version Consolidée au 1968-12-22
 
 # Partie législative ancienne
 
@@ -37387,6 +37387,32 @@ caractéristiques qu'elle doit comporter.
 	  - Code de la santé publique - art. L625 (Ab)
 
 
+###### Article R5147 bis
+
+L'estampillage [*de tout produit non remboursés*] prévu à l'article L. 625 est réalisé par le pharmacien au moyen d'une
+marque appliquée à l'encre indélébile et débordant de part et d'autre de la vignette ou d'un tampon à l'encre indélébile
+portant la mention "annulée".
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°68-1148 1968-12-16 art. 2 JORF 22 décembre 1968
+
+	**Abrogé par**:
+
+	  - Décret n°97-1321 du 30 décembre 1997 - art. 3 () JORF 1er janvier 1998
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L625 (Ab)
+
+
 ###### Article R5148
 
 La vignette prévue à l'article précédent doit être jointe par tous les intéressés à l'appui des demandes de remboursement
@@ -37427,6 +37453,48 @@ prestations en ce qui concerne la possibilité de prise en charge non plus qu'en
 	**Modifié par**:
 
 	  - Décret n°61-39 1961-01-12 art. 2 JORF 13 janvier 1961
+
+
+###### Article R5148 bis
+
+En application des dispositions de l'article L. 625 bis du présent code, lorsqu'une spécialité pharmaceutique est présentée
+sous plusieurs conditionnements, différents quant à la contenance et au nombre d'unités thérapeutiques, le pharmacien est
+tenu de délivrer aux bénéficiaires d'un régime d'assurance maladie et aux bénéficiaires de l'aide sociale le conditionnement
+le plus approprié à la posologie et à la durée du traitement prescrit. En l'absence d'indication du médecin traitant sur la
+posologie et la durée du traitement, le pharmacien est tenu de délivrer le plus petit modèle de conditionnement
+commercialisé.
+
+Il ne peut être délivré en une seule fois une quantité de médicaments correspondant à une durée de traitement supérieure à un
+mois. Lorsque la prescription médicale comporte une durée de traitement supérieure, le médecin traitant, pour permettre la
+prise en charge de ces médicaments au titre d'un régime d'assurance maladie ou au titre de l'aide sociale, doit expressément
+mentionner sur l'ordonnance le nombre des renouvellements nécessaires par périodes maximales d'un mois dans la limite de six
+mois de traitement.
+
+Toutefois, pour les médicaments contraceptifs, la délivrance peut être effectuée pour une durée de trois mois. Les
+renouvellements sont autorisés, à la condition qu'il en soit fait mention sur l'ordonnance et dans la limite d'un an de
+traitement.
+
+La date de l'exécution de l'ordonnance doit être portée par le pharmacien sur celle-ci ainsi que sur la feuille de soins
+[*mentions obligatoires*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°75-317 1975-05-05 art. 1 JORF 6 mai 1975
+
+	**Cite**:
+
+	  - Code de la santé publique L625 bis
+
+	**Créé par**:
+
+	  - Décret n°68-1148 1968-12-16 art. 2 JORF 22 décembre 1968
 
 
 ### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS
