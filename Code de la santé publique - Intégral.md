@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1958-12-12
+Version Consolidée au 1958-12-21
 
 # Partie législative ancienne
 
@@ -1204,6 +1204,331 @@ leur publication au Journal officiel [*délai*].
 	**Anciens textes**:
 
 	  - Loi n°1902-02-15 ART. 8
+
+
+#### Chapitre 3 : Des eaux potables
+
+###### Article L19
+
+Sans préjudice des dispositions des sections I et II du présent chapitre et de celles qui régissent les entreprises
+exploitant les eaux minérales, quiconque offre au public de l'eau en vue de l'alimentation humaine, à titre onéreux ou à
+titre gratuit et sous quelque forme que ce soit, y compris la glace alimentaire, est tenu de s'assurer que cette eau est
+propre à la consommation [*obligation*].
+
+Est interdite pour la préparation et la conservation de toutes denrées et marchandises destinées à l'alimentation humaine
+l'utilisation d'eau non potable.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1321-1 (M)
+	  - Code de la santé publique - art. L1324-3 (M)
+	  - Code de la santé publique - art. L1523-5 (M)
+	  - Code de la santé publique - art. L1523-5 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L46 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L46 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L46 : dispositions pénales
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Cite**:
+
+	  - Code de la santé publique L20 A L24
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 1
+
+
+##### Section 1 : Des distributions publiques.
+
+###### Article L21
+
+Tout concessionnaire d'une distribution d'eau potable est tenu, dans les conditions fixées par un décret en Conseil d'Etat,
+de faire vérifier la qualité de l'eau qui fait l'objet de cette distribution [*obligation*].
+
+Les méthodes de correction à mettre éventuellement en oeuvre doivent être approuvées par le ministre de la santé publique et
+de la population, sur avis motivé du conseil supérieur d'hygiène publique de France.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°89-3 du 3 janvier 1989 - art. 7 (Ab)
+	  - Arrêté du 29 mai 1997 - art. 10 (V)
+	  - Code de la santé publique - art. L22 (Ab)
+	  - Code de la santé publique - art. L46 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1321-10 (M)
+	  - Code de la santé publique - art. L1321-10 (V)
+	  - Code de la santé publique - art. L1321-4 (M)
+	  - Code de la santé publique - art. L1324-3 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L46 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L46 : dispositions penales
+	  - SPEC_APPLI: Code de la santé publique L51 : non applicable aux ateliers et manufactures
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 1
+
+
+###### Article L22
+
+Si le captage et la distribution d'eau potable sont faits en régie, les obligations [*de vérification et de correction*]
+prévues à l'article L. 21 incombent à la collectivité intéressée avec le concours du bureau d'hygiène s'il en existe un dans
+la commune et sous la surveillance du directeur départemental de la santé [*charge, responsabilité*].
+
+Les mêmes obligations incombent aux collectivités en ce qui concerne les puits publics, sources, nappes souterraines ou
+superficielles ou cours d'eau servant à l'alimentation collective des habitants.
+
+En cas d'inobservation par une collectivité des obligations énoncées au présent article, le préfet, après mise en demeure
+restée sans résultat, prend les mesures nécessaires. Il est procédé à ces mesures aux frais des communes [*charge
+financière*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1321-5 (Ab)
+	  - Code de la santé publique - art. L1321-5 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L21 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 3
+
+
+###### Article L23
+
+En cas de condamnation du concessionnaire par application des dispositions de l'article L. 46, le ministre de la santé
+publique et de la population peut, après avoir entendu le concessionnaire et demandé l'avis du conseil municipal, prononcer
+la déchéance de la concession [*sanctions*], sauf recours devant la juridiction administrative [*compétente*]. La décision du
+ministre est prise après avis du conseil supérieur d'hygiène publique de France.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1321-6 (M)
+	  - Code de la santé publique - art. L1321-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L46 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 3
+
+
+##### Section 2 : Des distributions privées.
+
+###### Article L24
+
+L'embouteillage de l'eau destinée à la consommation publique ainsi que le captage et la distribution d'eau d'alimentation
+humaine par un réseau d'adduction privé sont soumis à l'autorisation du préfet [*condition administrative préalable*]. 
+
+Cette autorisation peut être suspendue ou retirée par le préfet dans les conditions déterminées par le décret en Conseil
+d'Etat prévu à l'article L. 25-1 du présent code.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1321-10 (M)
+	  - Code de la santé publique - art. L1321-7 (M)
+	  - Code de la santé publique - art. L1324-3 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L25-1 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L46 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L46 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L46 : dispositions penales
+	  - SPEC_APPLI: Code de la santé publique L51 : non applicable aux ateliers et manufactures
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 7
+
+
+##### Section 3 : Dispositions communes *aux distributions publiques et privées*
+
+###### Article L25
+
+Sont interdites les amenées par canaux à ciel ouvert d'eau destinée à l'alimentation humaine à l'exception de celles qui,
+existant à la date du 30 octobre 1935, ont fait l'objet de travaux d'aménagement garantissant que l'eau livrée est propre à
+la consommation.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1321-8 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L46 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L46 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L46 : dispositions pénales
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 9
+
+
+###### Article L25-1
+
+Un décret en Conseil d'Etat pris après avis du conseil supérieur d'hygiène publique de France déterminera les modalités
+d'application des dispositions du présent chapitre et notamment celles du contrôle de leur exécution ainsi que les conditions
+dans lesquelles les personnes ou entreprises visées par lesdites dispositions devront rembourser les frais de ce contrôle.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Cité par**:
+
+	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 129 (V)
+	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 13 (V)
+	  - Code de la santé publique - art. L24 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1321-10 (M)
+	  - Code de la santé publique - art. L1321-10 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : non applicable aux ateliers et manufectures
 
 
 #### Chapitre 4 : Salubrité des immeubles
