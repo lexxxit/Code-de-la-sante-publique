@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1972-07-14
+Version Consolidée au 1972-11-30
 
 # Partie législative ancienne
 
@@ -39214,6 +39214,294 @@ toxicologiques, pharmacologiques et cliniques.
 	  - Décret n°78-988 1978-09-20 ART. 10 JORF 6 octobre 1978
 
 
+###### Article R5135
+
+L'autorisation de mise sur le marché est accordée par le ministre chargé de la santé [*autorité compétente*]. Avant de
+prendre sa décision, le ministre peut ordonner toute mesure d'instruction qu'il juge nécessaire.
+
+Le ministre se prononce dans un délai de cent vingt jours à compter de la date de présentation du dossier complet. A titre
+exceptionnel, ce délai peut être prorogé une fois de quatre-vingt-dix jours.
+
+Lorsque le ministre a recours à la faculté que lui confère l'article 5134 (e) [*demande de complément du dossier*], ces
+délais sont suspendus jusqu'à ce que les informations complémentaires requises aient été fournies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+
+	**Modifié par**:
+
+	  - Décret n°78-988 1978-09-20 ART. 11 JORF 6 octobre 1978
+
+	**Cité par**:
+
+	  - Décret n°95-1172 du 6 novembre 1995 - art. 18 (T)
+	  - Décret n°95-1172 du 6 novembre 1995 - art. 20 (T)
+	  - Code de la santé publique - art. R5045-3 (P)
+	  - Code de la santé publique - art. R5095 (Ab)
+	  - Code de la santé publique - art. R5140 (Ab)
+	  - Code de la santé publique - art. R5142-15-13 (Ab)
+	  - Code de la santé publique - art. R5142-15-2 (Ab)
+	  - Code de la santé publique - art. R5142-25 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique R5134 e
+
+
+###### Article R5136
+
+Le ministre chargé de la santé publique [*autorité compétente*] refuse l'autorisation de mise sur le marché [*motifs*] :
+
+a) Si la documentation et les renseignements fournis à l'appui de la demande ne satisfont pas aux prescriptions de la
+présente section et, en particulier, à celles des articles R. 5128 à R. 5133 et R. 5143 ;
+
+b) Si la spécialité est nocive dans les conditions normales d'emploi ;
+
+c) Si l'intérêt thérapeutique fait défaut ou est insuffisamment justifié par le demandeur ;
+
+d) Si la spécialité n'a pas la composition qualitative et quantitative déclarée ;
+
+e) Si les moyens à mettre en oeuvre pour appliquer la méthode de fabrication et les procédés de contrôle ne sont pas de
+nature à garantir la qualité du produit au stade de la fabrication en série.
+
+La demande d'autorisation ne peut être rejetée qu'après que le demandeur a été invité à fournir ses justifications.
+
+La décision de rejet doit être motivée et elle doit mentionner les voies et délais de recours qui lui sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R5121-42 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5128 (M)
+	  - Code de la santé publique - art. R5129 (M)
+	  - Code de la santé publique - art. R5130 (M)
+	  - Code de la santé publique - art. R5131 (M)
+	  - Code de la santé publique - art. R5132 (M)
+	  - Code de la santé publique - art. R5133 (M)
+	  - Code de la santé publique - art. R5143 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5140 (Ab)
+
+
+###### Article R5137
+
+L'autorisation de mise sur le marché est renouvelable sur demande du titulaire présentée au plus tard quatre-vingts jours
+[*délai*] avant la date d'expiration.
+
+Elle n'est renouvelée que si le titulaire de l'autorisation de mise sur le marché atteste qu'à sa connaissance aucune
+modification ne serait intervenue dans les éléments produits à l'appui de la demande d'autorisation.
+
+L'autorisation n'est pas renouvelée si l'effet thérapeutique fait défaut.
+
+Si aucune décision n'est notifiée ou si aucune demande de justification complémentaire n'est adressée au demandeur dans un
+délai de quatre-vingts jours suivant la réception de sa demande, l'autorisation est considérée comme renouvelée à
+l'expiration de ce délai [*accord tacite*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°72-642 du 3 juillet 1972 - art. 3 (Ab)
+	  - Décret n°93-1322 du 20 décembre 1993 - art. 1 (Ab)
+	  - Décret n°96-653 du 16 juillet 1996 - art. 1 (Ab)
+	  - Décret n°2000-1194 du 5 décembre 2000 - art. 1 (Ab)
+	  - Décret n°2004-651 du 2 juillet 2004 - art. 1 (Ab)
+	  - Code de la santé publique - art. R5140 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+
+	**Modifié par**:
+
+	  - Décret n°78-988 1978-09-20 ART. 2 JORF 6 octobre 1978
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R5121-45 (V)
+
+
+###### Article R5138
+
+Tout changement du titulaire de l'autorisation de mise sur le marché est subordonné à une autorisation du ministre chargé de
+la santé [*autorité compétente*].
+
+La demande comporte les mentions prévues à l'article R. 5128 du présent code et elle est accompagnée d'un dossier comprenant
+[*contenu*] :
+
+a) Une copie, certifiée conforme par le titulaire, de l'autorisation de mise sur le marché ;
+
+b) L'accord dudit titulaire sur le transfert de l'autorisation de mise sur le marché ;
+
+c) La désignation des lieux de fabrication, de contrôle et de conditionnement ;
+
+d) L'engagement du demandeur de se soumettre à l'ensemble des conditions auxquelles a été subordonnée l'autorisation de mise
+sur le marché et, notamment, de respecter les méthodes de fabrication et de contrôle ;
+
+e) Les comptes rendus des contrôles, effectués par le demandeur dans le respect desdites méthodes ;
+
+f) la formule de préparation avec, notamment, toutes indications utiles sur le récipient ;
+
+g) La compétence des nouveaux modèles destinés à la vente ;
+
+h) Le projet de nouvel étiquetage et, si elle est prévue, de la notice ;
+
+i) Copie des décisions autorisant la fabrication de la spécialité concernée et délivrée selon le cas, soit en vertu de la
+législation nationale du fabricant, soit en application des articles R. 5108 et R. 5110 ou, le cas échéant, copie des
+récépissés des demandes d'autorisation si lesdites demandes n'ont pas encore donné lieu à décision.
+
+Dans le cas de fusion ou d'apport partiel d'actifs, les sociétés intéressées peuvent déposer une demande de transfert des
+autorisations de mise sur le marché avant que la fusion ou l'apport ne soit définitivement réalisé. Elles fournissent, à
+l'appui de leur demande, le protocole d'accord de principe concernant la fusion ou l'apport. Le transfert est accordé sous la
+condition suspensive de la réalisation définitive qui doit être notifiée au ministre chargé de la santé publique.
+
+En cas de silence de l'administration, le transfert est réputé être autorisé [*tacitement*] à l'expiration d'un délai de deux
+mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+
+	**Modifié par**:
+
+	  - Décret n°78-988 1978-09-20 ART. 13 JORF 6 octobre 1978
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5108 (M)
+	  - Code de la santé publique - art. R5110 (M)
+	  - Code de la santé publique - art. R5128 (M)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R5121-46 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5140 (Ab)
+
+
+###### Article R5139
+
+Le ministre chargé de la santé [*autorité compétente*] peut, par décision motivée indiquant les voies et délais de recours,
+suspendre, pour une période ne pouvant pas excéder un an, ou retirer une autorisation de mise sur le marché. La décision de
+retrait ne peut intervenir qu'après que le titulaire de l'autorisation a été invité à fournir ses explications [*droit de
+défense*].
+
+Ces décisions interviennent lorsqu'il apparaît que la spécialité pharmaceutique est nocive dans les conditions normales
+d'emploi ou que l'effet thérapeutique fait défaut ou que la spécialité n'a pas la composition qualitative et quantitative
+déclarée.
+
+L'autorisation de mise sur le marché est également suspendue ou retirée lorsqu'il apparaît que les renseignements fournis à
+l'occasion de la demande d'autorisation de mise sur le marché sont erronés, que les conditions prévues à la présente section
+ne sont pas ou ne sont plus remplies ou que les contrôles n'ont pas été effectués.
+
+Sans préjudice de l'application des dispositions du troisième alinéa de l'article R. 5140, la décision de suspension ou de
+retrait fait l'objet des autres mesures de publicité que le ministre juge nécessaire d'ordonner.
+
+Lorsque l'autorisation est suspendue ou retirée, le titulaire doit prendre toutes dispositions utiles, notamment auprès des
+détenteurs de stocks, pour faire cesser la distribution de la spécialité. Si ces dispositions n'interviennent pas dans des
+délais compatibles avec l'intérêt de la santé publique, le ministre prend toutes mesures appropriées.
+
+Indépendamment des décisions de suspension ou de retrait d'autorisation de mise sur le marché, et pour les motifs qui
+justifient de telles décisions, le ministre chargé de la santé peut interdire la délivrance d'une spécialité pharmaceutique
+en limitant, le cas échéant, cette interdiction aux seuls lots de fabrication faisant l'objet d'une contestation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+
+	**Modifié par**:
+
+	  - Décret n°78-988 1978-09-20 ART. 14 JORF 6 octobre 1978
+
+	**Cité par**:
+
+	  - Décret n°99-338 du 3 mai 1999 - art. 2 (Ab)
+	  - Code de la santé publique - art. R5139-1 (Ab)
+	  - Code de la santé publique - art. R5140 (Ab)
+	  - Code de la santé publique - art. R5142-28 (Ab)
+	  - Code de la santé publique - art. R5142-29 (M)
+	  - Code de la santé publique - art. R5144-20-1 (Ab)
+
+
+###### Article R5142
+
+En dehors des cas prévus aux articles R. 5060 à R. 5089, le ministre chargé de la santé fait procéder, par les inspecteurs de
+la pharmacie, à des prélèvements de spécialités pharmaceutiques pour s'assurer de leur conformité à la formule déclarée.
+
+Les échantillons prélevés, destinés au laboratoire national de la santé, sont rassemblés dans des sachets munis d'une
+étiquette précisant le nom et le numéro du lot de fabrication de la spécialité, la date du prélèvement, son motif et le nom
+de l'inspecteur qui l'a effectué [*mentions obligatoires*].
+
+Ces prélèvements ne donnent lieu à aucun paiement à la charge de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+
+	**Modifié par**:
+
+	  - Décret n°78-988 1978-09-20 ART. 16 JORF 6 octobre 1978
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-61 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique R5060 à R5089
+
+
 ###### Article R5142-1
 
 Article abrogé
@@ -39228,6 +39516,158 @@ Article abrogé
 	**Abrogé par**:
 
 	  - Décret n°78-988 1978-09-20 art. 16 JORF 6 octobre 1978
+
+
+##### PARAGRAPHE 3 : PRESENTATION ET DENOMINATION DES MEDICAMENTS SPECIALISES.
+
+###### Article R5143
+
+Sans préjudice des mentions exigées par d'autres dispositions législatives et réglementaires, l'étiquetage du récipient et du
+conditionnement d'une spécialité doivent porter les indications suivantes en caractères suffisamment lisibles [*mentions
+obligatoires*] :
+
+a) La dénomination spéciale prévue à l'article L. 601 et à l'article R. 5128 du présent code ; lorsque la dénomination
+spéciale est un nom de fantaisie et que la spécialité ne comporte qu'un principe actif, la dénomination commune
+internationale recommandée par l'Organisation mondiale de la santé et, dans le cas où elle serait utile à la connaissance du
+produit, la dénomination scientifique doivent figurer en caractères très apparents immédiatement au-dessous du nom de
+fantaisie ;
+
+b) La forme pharmaceutique, indication qui peut ne figurer que sur l'emballage extérieur ;
+
+c) La composition qualitative et quantitative en principes actifs par unité de prise ou en pourcentage suivant la forme
+pharmaceutique ; les dénominations communes internationales recommandées par l'Organisation mondiale de la santé doivent être
+employées chaque fois qu'elles existent ;
+
+d) Le mode d'administration ;
+
+e) La date limite d'utilisation, accompagnée, chaque fois que nécessaire, d'une mention précisant que cette date n'est
+valable que pour les médicaments dont le conditionnement n'a pas été ouvert et qui sont conservés dans des conditions
+convenables ;
+
+f) Le nom et l'adresse du responsable de la mise sur le marché et, lorsque celui-ci ne fabrique pas la spécialité
+pharmaceutique, le nom et l'adresse du fabricant ;
+
+g) Le numéro d'identification administrative de la spécialité ;
+
+h) Le numéro du lot de fabrication ;
+
+i) Le nombre d'unités de prise ou, à défaut, la contenance du récipient, cette mention pouvant ne figurer que sur l'emballage
+extérieur ;
+
+j) Les précautions particulières de conservation.
+
+Les mentions complémentaires précisées ci-après devront obligatoirement figurer sur une notice jointe au conditionnement de
+la spécialité pharmaceutique, si elles ne sont pas portées sur l'étiquetage :
+
+Toutes indications relatives à l'utilisation de la spécialité pharmaceutique, telles que voie d'administration, durée du
+traitement lorsqu'elle doit être limitée, posologie usuelle ;
+
+Sauf décision contraire des autorités compétentes, les indications thérapeutiques, contre-indications, effets secondaires et
+précautions particulières d'emploi déterminées lors de l'autorisation de mise sur le marché ou à la suite de l'expérience
+acquise.
+
+Lorsqu'une spécialité est présentée en ampoules, les indications répondant aux dispositions précédentes doivent être
+mentionnées sur les emballages extérieurs.
+
+Les ampoules peuvent ne porter que les indications suivantes :
+
+La dénomination spéciale ;
+
+Le numéro du lot de fabrication et la date de péremption et, sauf dérogations accordées par le ministre chargé de la santé,
+la composition quantitative en principes actifs et la voie d'administration.
+
+Des arrêtés du ministre chargé de la santé détermineront, s'il y a lieu, les conditions particulières d'application du
+présent article en ce qui concerne notamment les mentions à porter sur le conditionnement des spécialités pharmaceutiques
+destinées aux établissements hospitaliers et les signes distinctifs à faire figurer sur le conditionnement ou l'étiquette des
+médicaments lorsqu'il est nécessaire de signaler à l'attention des utilisateurs des précautions d'emploi à respecter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+
+	**Modifié par**:
+
+	  - Décret n°76-807 1976-08-24 ART. 6 JORF 26 août 1976
+
+	**Cité par**:
+
+	  - Décret n°79-822 du 19 septembre 1979 - art. 93-2 (Ab)
+	  - Arrêté du 3 mai 1999 - art. 1 (V)
+	  - Code de la santé publique - art. R5048 (M)
+	  - Code de la santé publique - art. R5049 (M)
+	  - Code de la santé publique - art. R5136 (Ab)
+	  - Code de la santé publique - art. R5142-15-4 (Ab)
+	  - Code de la santé publique - art. R5142-27 (M)
+	  - Code de la santé publique - art. R5143-1 (Ab)
+	  - Code de la santé publique - art. R5143-2 (Ab)
+	  - Code de la santé publique - art. R5143-3 (Ab)
+	  - Code de la santé publique - art. R5144-26 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 3 mai 1999
+	  - TXT_SOURCE: Arrêté du 3 mai 1999 - art. 1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. R5128 (M)
+
+
+###### Article R5143-1
+
+A titre exceptionnel, le ministre chargé de la santé publique peut, sur demande motivée du titulaire de l'autorisation de
+mise sur le marché, l'autoriser à présenter sous un seul [*nombre*] conditionnement plusieurs spécialités ayant obtenu
+chacune une autorisation de mise sur le marché.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+
+	**Modifié par**:
+
+	  - Décret n°78-988 1978-09-20 ART. 2 JORF 6 octobre 1978
+
+
+###### Article R5144
+
+Un arrêté du ministre chargé de la santé détermine, en tant que de besoin, les modalités d'application de la présente
+section. Cet arrêté précise, s'il y a lieu, les mentions à porter sur le conditionnement des spécialités pharmaceutiques
+destinées aux établissements hospitaliers et les signes distinctifs à faire figurer sur le conditionnement et l'étiquette des
+médicaments lorsqu'il est nécessaire de signaler à l'attention de l'utilisateur des précautions d'emploi à respecter.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°72-1062 1972-11-21 ART. 1 JORF 30 novembre 1972
+
+	**Modifié par**:
+
+	  - Décret n°76-807 1976-08-24 ART. 7 JORF 26 août 1976
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-202 (V)
 
 
 #### Chapitre 4 : Agrément des spécialités pharmaceutiques, des produits sous cachet et des sérums et vaccins pour l'usage des collectivités publiques et des institutions de sécurite sociale
