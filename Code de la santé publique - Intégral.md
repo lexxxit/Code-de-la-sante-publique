@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-03-27
+Version Consolidée au 1992-04-01
 
 # Partie législative ancienne
 
@@ -64711,6 +64711,310 @@ l'article L. 601.
 ## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires
 
 ### Titre 1 : Etablissements de santé
+
+#### Chapitre 1 A : Principes fondamentaux
+
+##### Section 1 : Du dossier médical et de l'information des personnes accueillies dans les établissements de santé publics ou privés
+
+###### Article R710-2-1
+
+Un dossier médical est constitué pour chaque patient hospitalisé dans un établissement de santé public ou privé. Ce dossier
+contient au moins les documents suivants :
+
+I. - Les documents établis au moment de l'admission et durant le séjour, à savoir :
+
+a) La fiche d'identification du malade ;
+
+b) Le document médical indiquant le ou les motifs de l'hospitalisation ;
+
+c) Les conclusions de l'examen clinique initial et des examens cliniques successifs pratiqués par tout médecin appelé au
+chevet du patient ;
+
+d) Les comptes rendus des explorations para-cliniques et des examens complémentaires significatifs, notamment le résultat des
+examens d'anatomie et de cytologie pathologiques ;
+
+e) La fiche de consultation préanesthésique, avec ses conclusions et les résultats des examens demandés, et la feuille de
+surveillance anesthésique ;
+
+f) Le ou les comptes rendus opératoires ou d'accouchement ;
+
+g) Les prescriptions d'ordre thérapeutique ;
+
+h) Lorsqu'il existe, le dossier de soins infirmiers.
+
+II. - Les documents établis à la fin de chaque séjour hospitalier, à savoir :
+
+a) Le compte rendu d'hospitalisation, avec notamment le diagnostic de sortie ;
+
+b) Les prescriptions établies à la sortie du patient ;
+
+c) Le cas échéant, la fiche de synthèse contenue dans le dossier de soins infirmiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
+
+	**Cité par**:
+
+	  - Décret n°2002-637 du 29 avril 2002 - art. 2 (Ab)
+	  - Décret n°2002-780 du 3 mai 2002 - art. ANNEXE (V)
+	  - CODE DE PROCEDURE PENALE - art. D375 (V)
+	  - Code de la santé publique - art. R145-7 (Ab)
+	  - Code de la santé publique - art. R666-12-16 (Ab)
+	  - Code de la santé publique - art. R710-2-2 (M)
+	  - Code de la santé publique - art. R710-2-6 (M)
+
+
+###### Article R710-2-2
+
+La communication du dossier médical intervient, sur la demande de la personne qui est ou a été hospitalisée ou de son
+représentant légal, ou de ses ayants droit en cas de décès, par l'intermédiaire d'un praticien qu'ils désignent à cet effet.
+
+Avant toute communication, l'établissement de santé doit s'assurer de l'identité du demandeur et s'informer de la qualité du
+praticien désigné.
+
+Le praticien désigné prend connaissance du dossier, à son choix :
+
+a) Soit par consultation sur place ;
+
+b) Soit par l'envoi par l'établissement de la reproduction des documents mentionnés à l'article R. 710-2-1, aux frais de la
+personne qui sollicite la communication, sans que ces frais puissent excéder le coût réel des charges de fonctionnement ainsi
+créées.
+
+Le praticien communique les informations médicales au patient ou à son représentant légal dans le respect des règles de
+déontologie, et aux ayants droit dans le respect des règles du secret médical.
+
+Les établissements de santé ne sont pas tenus de satisfaire les demandes de communication manifestement abusives par leur
+nombre ou leur caractère systématique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1112-2 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R710-1-7 (Ab)
+	  - Code de la santé publique - art. R710-2-4 (M)
+	  - Code de la santé publique - art. R710-2-7 (Ab)
+	  - Code de la santé publique - art. R714-41 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R710-2-1 (M)
+
+
+###### Article R710-2-3
+
+Dans le cas où le praticien qui a prescrit l'hospitalisation demande communication du dossier médical du patient, cette
+communication ne peut intervenir qu'après accord de celui-ci, ou de son représentant légal, ou de ses ayants droit en cas de
+décès.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-41 (Ab)
+
+
+###### Article R710-2-4
+
+Si un dossier médical a été constitué pour un patient reçu en consultation externe dans un établissement de santé public ou
+privé, la communication de ce dossier intervient, sur la demande des personnes mentionnées au premier alinéa de l'article R.
+710-2-2, dans les conditions fixées par cet article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1112-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R710-2-2 (M)
+
+
+###### Article R710-2-5
+
+Dans les établissements publics de santé et les établissements privés participant à l'exécution du service public
+hospitalier, la communication du dossier médical est assurée par le praticien responsable de la structure médicale concernée
+ou par tout membre du corps médical de l'établissement désigné par lui à cet effet.
+
+Dans les établissements de santé privés ne participant pas à l'exécution du service public hospitalier, cette communication
+est assurée par le médecin qui a constitué le dossier. En l'absence de ce médecin, elle est assurée par le ou les médecins
+désignés à cet effet par le président de la conférence médicale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R145-7 (Ab)
+
+
+###### Article R710-2-6
+
+A la fin de chaque séjour hospitalier, les documents mentionnés au II de l'article R. 710-2-1, ainsi que tous autres jugés
+nécessaires, sont adressés dans un délai de huit jours au praticien que le patient ou son représentant légal aura désigné
+afin d'assurer la continuité des soins. Il est alors établi des doubles de ces mêmes documents qui demeurent dans le dossier
+du patient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1112-6 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R710-2-1 (M)
+
+
+###### Article R710-2-7
+
+Dans tous les cas, le directeur de l'établissement veille à ce que toutes mesures soient prises pour assurer la communication
+du dossier médical conformément aux règles définies ci-dessus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1112-7 (M)
+
+
+###### Article R710-2-8
+
+Les établissements publics de santé et les établissements privés participant à l'exécution du service public hospitalier sont
+tenus d'informer par lettre le praticien désigné par le malade hospitalisé ou sa famille de la date et de l'heure de
+l'admission du malade et du service concerné. Ils l'invitent en même temps à prendre contact avec le service hospitalier, à
+fournir tous renseignements utiles sur le malade et à manifester éventuellement le désir d'être informé sur l'évolution de
+l'état de ce dernier.
+
+En cours d'hospitalisation, le chef de service communique au praticien désigné dans les mêmes conditions que ci-dessus et qui
+en a fait la demande écrite toutes informations significatives relatives à l'état du malade.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1112-8 (M)
+
+
+###### Article R710-2-9
+
+Dans les établissements publics de santé et les établissements privés participant à l'exécution du service public
+hospitalier, les dossiers médicaux sont conservés conformément à la réglementation relative aux archives hospitalières.
+
+Dans les établissements de santé privés ne participant pas à l'exécution du service public hospitalier, les dossiers médicaux
+sont conservés dans l'établissement sous la responsabilité des médecins qui les ont constitués ou de celle des médecins
+désignés à cet effet par le président de la conférence médicale.
+
+Dans tous les cas, le directeur de l'établissement veille à ce que toutes dispositions soient prises pour assurer la garde et
+la confidentialité des dossiers conservés dans l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R1112-9 (V)
+
+
+###### Article R710-2-10
+
+Lorsqu'un établissement de santé privé ne participant pas à l'exécution du service public hospitalier cesse ses activités,
+les dossiers médicaux, sous réserve des tris nécessaires, peuvent faire l'objet d'un don à un service public d'archives par
+voie contractuelle entre le directeur de l'établissement et l'autorité administrative compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-329 du 30 mars 1992 - art. 1 () JORF 1er avril 1992
+
 
 #### Chapitre 1 : Missions et obligations des établissements de santé
 
