@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1984-05-26
+Version Consolidée au 1984-05-30
 
 # Partie législative ancienne
 
@@ -50506,6 +50506,359 @@ La date de l'exécution de l'ordonnance doit être portée par le pharmacien sur
 	  - Décret n°68-1148 1968-12-16 art. 2 JORF 22 décembre 1968
 
 
+#### Chapitre 2 bis : Pharmacovigilance
+
+##### Section 1 : Organisation de la pharmacovigilance.
+
+###### Article R5144-1
+
+Il est institué auprès du ministre chargé de la santé une Commission nationale de la pharmacovigilance dont la mission est
+[*attributions*] :
+
+1° De recueillir et d'évaluer les informations sur les effets inattendus ou toxiques des médicaments postérieurement à la
+délivrance de l'autorisation de mise sur le marché mentionnée à l'article L. 601 ;
+
+2° De donner un avis au ministre chargé de la santé sur les mesures à prendre, notamment en application des articles L. 601
+et L. 605, pour faire cesser les incidents et accidents qui se sont révélés liés à l'emploi d'un médicament ou à l'emploi
+simultané de plusieurs médicaments ;
+
+3° De proposer au ministre chargé de la santé les enquêtes et travaux qu'elle estime utiles à l'exercice de la
+pharmacovigilance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+	**Cité par**:
+
+	  - Arrêté du 7 août 1991 - art. 1 (V)
+	  - Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
+	  - Code de la santé publique - art. R5089-15 (Ab)
+	  - Code de la santé publique - art. R5144-10 (Ab)
+	  - Code de la santé publique - art. R5144-12 (Ab)
+	  - Code de la santé publique - art. R5144-14 (Ab)
+	  - Code de la santé publique - art. R5144-17 (Ab)
+	  - Code de la santé publique - art. R5144-18 (M)
+	  - Code de la santé publique - art. R5144-19 (Ab)
+	  - Code de la santé publique - art. R5144-2 (Ab)
+	  - Code de la santé publique - art. R5144-20 (Ab)
+	  - Code de la santé publique - art. R5144-20-1 (Ab)
+	  - Code de la santé publique - art. R5144-6 (Ab)
+	  - Code de la santé publique - art. R5144-7 (Ab)
+	  - Code de la santé publique - art. R5144-8 (Ab)
+	  - Code de la santé publique - art. R5144-9 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. L605 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-150 (V)
+
+
+###### Article R5144-2
+
+La Commission nationale de la pharmacovigilance comprend [*composition*] :
+
+1° Cinq [*nombre*] membres de droit :
+
+Le directeur général de la santé ou son représentant ;
+
+Le directeur de la pharmacie et du médicament ou son représentant ;
+
+Le directeur des hôpitaux ou son représentant ;
+
+Le directeur général de l'Institut national de la santé et de la recherche médicale (I.N.S.E.R.M.) [*INSERM*] ou son
+représentant ;
+
+Le directeur du Laboratoire national de la santé ou son représentant.
+
+2° Vingt-sept membres nommés par le ministre chargé de la santé pour une durée de trois ans :
+
+Onze cliniciens dont au moins trois médecins généralistes ;
+
+Dix toxicologues ou pharmacologues ;
+
+Trois pharmaciens hospitaliers ;
+
+Un pharmacien d'officine ;
+
+Une personnalité scientifique proposée par le ministre chargé de la consommation ;
+
+Une personnalité compétente en matière de pharmacovigilance dans l'industrie pharmaceutique.
+
+Vingt-sept suppléants sont désignés dans les mêmes conditions que les membres titulaires.
+
+Le président et le vice-président sont désignés par le ministre chargé de la santé [*autorité compétente*] parmi les membres
+de la commission.
+
+En cas d'absence du président et du vice-président, le ministre chargé de la santé nomme un président de séance.
+
+La commission peut faire appel à des experts consultants choisis sur une liste établie par arrêté du ministre chargé de la
+santé.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-151 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5139 (Ab)
+	  - Code de la santé publique - art. R5144-18 (Ab)
+	  - Code de la santé publique - art. R5144-3 (M)
+	  - Code de la santé publique - art. R5144-6 (Ab)
+
+
+###### Article R5144-3
+
+Les travaux de la Commission nationale sont préparés par un comité technique présidé par le président de la commission
+nationale ou, en son absence, par le vice-président.
+
+Le comité technique comprend [*composition*] les membres de droit de la commission et un représentant de chacun des centres
+régionaux de pharmacovigilance mentionnés à l'article R. 5144-6.
+
+Le comité est chargé [*attributions*] notamment de coordonner la collecte des informations ainsi que les enquêtes et travaux
+demandés aux centres régionaux.
+
+Il peut faire appel pour tout ou partie de ses travaux aux experts mentionnés à l'article R. 5144-2.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-152 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-2 (M)
+	  - Code de la santé publique - art. R5144-6 (M)
+
+
+###### Article R5144-4
+
+Le secrétariat de la Commission nationale et celui du comité technique sont assurés par la direction de la pharmacie et du
+médicament.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5047-5 (Ab)
+	  - Code de la santé publique - art. R5142-15-15 (Ab)
+	  - Code de la santé publique - art. R5204 (Ab)
+	  - Code de la santé publique - art. R5218-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-153 (V)
+
+
+###### Article R5144-5
+
+La Commission nationale rassemble et exploite :
+
+1° Les informations que recueillent les centres régionaux mentionnés à l'article R. 5144-6 sur les effets inattendus ou
+toxiques des médicaments ;
+
+2° Les informations qui doivent lui être transmises en application de l'article R. 5144-9 par les titulaires d'autorisation
+de mise sur le marché d'un médicament au sujet des effets inattendus ou toxiques de ce médicament.
+
+La commission peut en outre être directement informée, notamment par les centres de traitement des intoxications, les
+médecins ou les pharmaciens.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-154 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5144-18 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-6 (M)
+	  - Code de la santé publique - art. R5144-9 (M)
+
+
+###### Article R5144-6
+
+La création et l'organisation des centres régionaux de pharmacovigilance ainsi que les modalités de leur représentation au
+comité technique font l'objet de conventions conclues par le ministre chargé de la santé soit avec un centre hospitalier
+régional faisant partie d'un centre hospitalier et universitaire doté d'un service de pharmacologie clinique ou de
+pharmacologie, soit avec un centre de traitement des intoxications.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-155 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5144-17 (Ab)
+	  - Code de la santé publique - art. R5144-3 (M)
+	  - Code de la santé publique - art. R5144-5 (M)
+
+
+###### Article R5144-7
+
+Les centres régionaux sont chargés [*attributions*] pour le compte de la Commission nationale de pharmacovigilance :
+
+1° De recueillir les déclarations que doivent leur transmettre, en application de l'article R 5144-8, les médecins,
+chirurgiens-dentistes et sages-femmes ;
+
+2° De recueillir systématiquement les informations sur les effets inattendus ou toxiques des médicaments qui doivent leur
+être communiquées par les établissements publics d'hospitalisation ou les établissements participant à l'exécution du service
+public hospitalier ;
+
+3° De réunir les informations de même nature qui leur sont transmises par les autres établissements d'hospitalisation, ou, à
+titre individuel, notamment par des pharmaciens et des infirmières ou infirmiers ;
+
+4° De conduire les enquêtes et travaux demandés par le ministre chargé de la santé ;
+
+5° De contribuer au développement de l'information en matière de pharmacovigilance ;
+
+6° De contribuer au progrès scientifique concernant les méthodes de pharmacovigilance ainsi que la connaissance de la nature
+et des mécanismes des effets inattendus ou toxiques des médicaments.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-156 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-8 (M)
+
+
+##### Section 2 : Déclarations obligatoires.
+
+###### Article R5144-8
+
+Tout médecin, chirurgien-dentiste ou sage-femme, ayant constaté un effet inattendu ou toxique susceptible d'être dû à un
+médicament qu'il a prescrit doit [*obligation*] en faire la déclaration immédiate au centre régional de pharmacovigilance.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-157 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5142-26 (M)
+	  - Code de la santé publique - art. R5144-11 (M)
+	  - Code de la santé publique - art. R5144-7 (M)
+
+
+###### Article R5144-9
+
+Le titulaire de l'autorisation de mise sur le marché d'un médicament doit déclarer à la Commission nationale de la
+pharmacovigilance tout effet inattendu ou toxique susceptible d'être dû à ce médicament et dont il a connaissance.
+
+Cette déclaration est effectuée semestriellement [*périodicité*] au cours de la première année qui suit la commercialisation
+du médicament ou la modification de l'autorisation de mise sur le marché, consécutive à un changement de composants, à de
+nouvelles indications thérapeutiques ou à de nouveaux modes d'administration. Elle est effectuée annuellement pour les années
+suivantes.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+	**Cité par**:
+
+	  - Décret n°2003-633 du 2 juillet 2003 - art. 2 (Ab)
+	  - Code de la santé publique - art. R5144-11 (M)
+	  - Code de la santé publique - art. R5144-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-159 (Ab)
+
+
+###### Article R5144-10
+
+Lorsque, dans un établissement de préparation de produits pharmaceutiques, un pharmacien ou un médecin est chargé de la
+pharmacovigilance, le nom de ce pharmacien ou de ce médecin doit être communiqué à la Commission nationale de la
+pharmacovigilance par le pharmacien responsable de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+	**Cité par**:
+
+	  - Décret n°95-278 du 13 mars 1995 - art. 4 (Ab)
+	  - Code de la santé publique - art. R5144-12 (Ab)
+
+
+###### Article R5144-11
+
+Les déclarations mentionnées aux articles R. 5144-8 et R. 5144-9 sont faites sur des imprimés dont le modèle est déterminé
+par arrêté du ministre chargé de la santé [*autorité compétente*].
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Décret n°84-402 1984-05-24 ART. 1 JORF 30 MAI 1984
+
+	**Cité par**:
+
+	  - Arrêté du 23 novembre 1984 - art. 1 (V)
+	  - Arrêté du 12 avril 1990 - art. 1 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5121-166 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5144-8 (M)
+	  - Code de la santé publique - art. R5144-9 (M)
+
+
 ### TITRE 3 : RESTRICTION AU COMMERCE DE CERTAINES SUBSTANCES ET DE CERTAINS OBJETS
 
 #### CHAPITRE 1 : SUBSTANCES VENENEUSES
@@ -54252,87 +54605,6 @@ judiciaire compétente et à l'office central pour la répression du trafic illi
 	**Modifié par**:
 
 	  - Décret n°57-429 1957-04-02 ART. 2 JORF 5 avril
-
-
-#### Chapitre 1er bis : Produits cosmétiques et produits d'hygiène corporelle renfermant certaines substances vénéneuses.
-
-###### Article R5229-2
-
-Les spécialités pharmaceutiques dans la composition desquelles entrent un ou plusieurs principes nouveaux ou qui constituent
-des associations nouvelles, ou encore qui se présentent avec de nouvelles indications thérapeutiques ou de nouveaux modes
-d'administration sont inscrites, par le ministre de la santé publique et de la sécurité sociale, sur la liste dite des
-médicaments nouveaux, lorsqu'elles ne sont pas soumises à la réglementation prévue aux articles R. 5169 et suivants, relatifs
-aux préparations contenant des substances inscrites aux tableaux A, B et C.
-
-Cette inscription est prononcée pour une durée de trois ans, soit à dater de la mise effective de la spécialité sur le
-marché, qui sera notifiée par le fabricant au ministre de la santé publique et de la sécurité sociale, soit à dater de
-l'inscription sur la liste des médicaments nouveaux, si celle-ci est postérieure à la mise effective sur le marché.
-
-Mention de cette inscription est, dans un cas comme dans l'autre, portée sur l'autorisation ministérielle prévue à l'article
-L. 601 (alinéa 2) du présent code.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°84-402 1984-05-24 ART. 2 JORF 30 MAI 1984
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L601 (M)
-	  - Code de la santé publique L601, R5169 et s.
-
-
-###### Article R5229-3
-
-Les spécialités pharmaceutiques inscrites sur la liste des médicaments nouveaux sont soumises, pour leur prescription, leur
-délivrance ou le renouvellement de leur prescription aux dispositions prévues aux articles R. 5179, R. 5180 et R. 5182 ci-
-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°84-402 1984-05-24 ART. 2 JORF 30 MAI 1984
-
-	**Cite**:
-
-	  - Code de la santé publique - art. R5179 (M)
-	  - Code de la santé publique - art. R5180 (M)
-	  - Code de la santé publique - art. R5182 (M)
-
-
-###### Article R5229-4
-
-Outre les indications prévues à l'article R. 5117 ci-dessus, le conditionnement extérieur et les étiquettes intérieures des
-spécialités pharmaceutiques inscrites sur la liste des médicaments nouveaux doivent comporter la mention : "A ne délivrer que
-sur prescription médicale", inscrite d'une manière très apparente en lettres noires sur fond blanc et entourée d'un cadre
-noir [*couleur*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Décret n°84-402 1984-05-24 ART. 2 JORF 30 MAI 1984
-
-	**Cite**:
-
-	  - Code de la santé publique - art. R5117 (M)
 
 
 #### Chapitre 2 : Radio-éléments artificiels *radioactivité*
