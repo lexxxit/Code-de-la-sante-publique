@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-08-23
+Version Consolidée au 1992-08-27
 
 # Partie législative ancienne
 
@@ -77902,6 +77902,115 @@ d'établissement pour remplir leurs missions.
 	**Liens**:
 
 	  - TXT_SOURCE: Code de la santé publique - art. L714-17 (M)
+
+
+##### Section 2 : Organisation des soins et fonctionnement médical
+
+###### Article D714-21-1
+
+Les professeurs des universités-praticiens hospitaliers et les professeurs des universités-praticiens hospitaliers des
+centres de soins, d'enseignement et de recherche dentaires qui bénéficient d'une prolongation d'activité en application de la
+loi n° 86-1304 du 23 décembre 1986 peuvent exercer des fonctions hospitalières en qualité de consultants dans les conditions
+fixées par le présent décret.
+
+Les fonctions hospitalières prévues aux deux derniers alinéas de l'article L. 714-21 peuvent être exercées dans une structure
+de l'établissement.
+
+En dehors de l'établissement et dans des conditions permettant l'accomplissement de leurs fonctions universitaires, elles
+peuvent consister en missions d'expertise ou de conseil relatifs à la santé publique soit dans les services déconcentrés de
+la circonscription régionale où est situé l'établissement dont ils relèvent, soit dans les services centraux de l'Etat.
+
+Les consultants demeurent rattachés à leur établissement d'origine.
+
+Dans les cas mentionnés au troisième alinéa du présent article, une convention prévoit les modalités de mise à disposition et
+les conditions dans lesquelles le service d'accueil rembourse la rémunération hospitalière à l'établissement d'origine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Loi n°86-1304 1986-12-23
+	  - Code de la santé publique - art. L714-21 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-826 du 20 août 1992 - art. 1 () JORF 27 août 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6151-2 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D714-21-2 (M)
+
+
+##### Section 3 : Organisation des soins et fonctionnement médical
+
+###### Article D714-21-2
+
+La nature et l'organisation des fonctions et missions mentionnées aux deuxième et troisième alinéas de l'article D. 714-21-1
+sont fixées au moment de la demande pour une durée d'un an renouvelable par tacite reconduction. Elles peuvent être révisées
+à tout moment avec l'accord du consultant.
+
+Les consultants sont nommés par le représentant de l'Etat dans la région.
+
+Les fonctions des consultants cessent lorsqu'il est mis fin à leur maintien en activité en surnombre sur le plan
+universitaire conformément à la loi n° 86-1304 du 23 décembre 1986.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Loi n°86-1304 1986-12-23
+	  - Code de la santé publique - art. D714-21-1 (M)
+
+	**Créé par**:
+
+	  - Décret n°92-826 du 20 août 1992 - art. 1 () JORF 27 août 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6151-3 (V)
+
+
+###### Article D714-21-3
+
+Les professeurs des universités - praticiens hospitaliers, consultants, demeurent régis par le décret n° 84-135 du 24 février
+1984 modifié.
+
+Les professeurs des universités - praticiens hospitaliers des centres de soins, d'enseignement et de recherche dentaires,
+consultants, demeurent régis par le décret n° 90-92 du 24 janvier 1990.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Décret n°84-135 1984-02-24
+	  - Décret n°90-92 1990-01-24
+
+	**Créé par**:
+
+	  - Décret n°92-826 du 20 août 1992 - art. 1 () JORF 27 août 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D6151-1 (V)
 
 
 ## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé
