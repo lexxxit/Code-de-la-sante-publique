@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-05-12
+Version Consolidée au 1994-06-25
 
 # Partie législative ancienne
 
@@ -64760,6 +64760,282 @@ renouvellement quiquennal de l'autorisation de mise sur le marché ou à l'occas
 	  - Décret n°94-19 du 5 janvier 1994 - art. 17 () JORF 9 janvier 1994
 	  - Décret n°94-19 du 5 janvier 1994 - art. 21 () JORF 9 janvier 1994
 	  - Décret n°94-19 du 5 janvier 1994 - art. 7 () JORF 9 janvier 1994
+
+
+##### Paragraphe 2 bis : Importation et exportation des médicaments
+
+##### Importation
+
+###### Article R5142-11
+
+Les médicaments faisant l'objet d'une autorisation de mise sur le marché doivent, lors de leur entrée sur le territoire
+douanier, être accompagnés d'une ampliation de cette autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-511 du 20 juin 1994 - art. 1 () JORF 25 juin 1994
+
+
+###### Article R5142-12
+
+Tout médicament qui n'est pas pourvu d'une autorisation de mise sur le marché et qui n'est pas autorisé au titre du quatrième
+alinéa de l'article L. 601-2 doit, avant son entrée sur le territoire douanier, faire l'objet d'une autorisation
+d'importation délivrée par le directeur général de l'Agence du médicament, en application de l'article 17 de la loi n°
+92-1477 du 31 décembre 1992.
+
+Cette autorisation doit accompagner le médicament importé lors de son entrée sur le territoire douanier.
+
+Une autorisation est requise pour chaque opération d'importation.
+
+Toutefois, l'importation par des particuliers de médicaments qu'ils transportent personnellement et en quantité compatible
+avec un usage personnel est dispensée d'autorisation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Loi n°92-1477 1992-12-31 art. 17
+	  - Code de la santé publique - art. L601-2 (M)
+
+	**Créé par**:
+
+	  - Décret n°94-511 du 20 juin 1994 - art. 1 () JORF 25 juin 1994
+
+
+###### Article R5142-13
+
+Les particuliers ne peuvent importer un médicament pas voie postale qu'en quantité compatible avec un usage personnel.
+
+S'ils ne peuvent justifier de l'existence de l'autorisation de mise sur le marché dans les conditions prévues à l'article R.
+5142-11, ils sont tenus de solliciter, avant cette importation, l'autorisation mentionnée à l'article R. 5142-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-511 du 20 juin 1994 - art. 1 () JORF 25 juin 1994
+
+	**Cite**:
+
+	  - Code de la santé publique R5142-11, R5142-12
+
+
+###### Article R5142-14
+
+La demande d'autorisation d'importation doit indiquer le pays de provenance du médicament, sa dénomination, sa forme
+pharmaceutique, sa posologie et son mode d'administration, et doit préciser les quantités importées.
+
+Cette demande est accompagnée :
+
+1° Pour les médicaments importés en vue d'une recherche biomédicale, de la lettre d'intention prévue aux articles L. 209-12,
+R. 2032 et R. 2033 ; toutefois, lorsque la mise en oeuvre d'une recherche présente un caractère d'urgence, ce document peut
+être remplacé par l'avis du comité consultatif de protection des personnes dans la recherche biomédicale ou, si cet avis n'a
+pas encore été donné, par l'accusé de réception du projet de recherche mentionné à l'article R. 2016 ;
+
+2° Pour les médicaments importés en vue d'études analytiques, pharmacologiques ou toxicologiques, d'une lettre de
+l'importateur justifiant leur utilisation ;
+
+3° Pour les médicaments mentionnés aux deuxième et troisième alinéas de l'article L. 601-2 destinés à traiter des pathologies
+graves ou à soigner des patients atteints de maladies rares, d'une copie de l'autorisation temporaire d'utilisation ou de la
+demande tendant à obtenir cette autorisation ;
+
+4° Pour un médicament importé par voie postale par un particulier, de l'ordonnance prescrivant le médicament.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-511 du 20 juin 1994 - art. 1 () JORF 25 juin 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L209-12 (M)
+	  - Code de la santé publique - art. L601-2 (M)
+	  - Code de la santé publique - art. R2016 (Ab)
+	  - Code de la santé publique - art. R2032 (M)
+	  - Code de la santé publique - art. R2033 (M)
+
+
+###### Article R5142-15
+
+L'autorisation temporaire d'utilisation prévue au quatrième alinéa de l'article L. 601-2 pour les médicaments importés à
+l'intention de malades nommément désignés vaut autorisation d'importation. Lors de leur entrée sur le territoire douanier,
+ces médicaments doivent être accompagnés d'une ampliation de ladite décision d'autorisation temporaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-511 du 20 juin 1994 - art. 1 () JORF 25 juin 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601-2 (M)
+
+
+##### Exportation
+
+###### Article R5142-16
+
+Le certificat en vue de l'exportation prévu au premier alinéa de l'article L. 603 et concernant la possession de
+l'autorisation d'ouverture mentionnée à l'article L. 598 est délivré :
+
+1. Par le directeur général de l'Agence du médicament pour les établissements cités au 1° de l'article R. 5108 ;
+
+2. Par le ministre chargé de la santé pour les établissements cités au 2° du même article.
+
+Le certificat concernant les bonnes pratiques de fabrication est délivré par le directeur général de l'Agence du médicament.
+
+La durée de validité de ces certificats est de trois ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-511 du 20 juin 1994 - art. 1 () JORF 25 juin 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L598 (M)
+	  - Code de la santé publique - art. L603 (M)
+	  - Code de la santé publique - art. R5108 (M)
+
+
+###### Article R5142-17
+
+I.  Lorsque, en application du deuxième alinéa de l'article L. 603, le directeur général de l'Agence du médicament envisage
+d'interdire l'exportation d'un médicament, il notifie au préalable son intention et ses motifs à l'établissement
+pharmaceutique effectuant l'exportation.
+
+Celui-ci dispose d'un délai d'un mois pour présenter ses observations.
+
+En cas d'urgence, le directeur général de l'Agence du médicament peut interdire immédiatement l'exportation pour une durée
+maximale de six mois.
+
+Les décisions d'interdiction sont motivées. Elle sont notifiées par le directeur général de l'agence à l'établissement
+pharmaceutique effectuant l'exportation qui prend toutes dispositions utiles, notamment auprès d'autres détenteurs de stocks,
+pour faire cesser l'exportation.
+
+II.  Lorsque l'exportation d'un médicament est interdite en application du troisième alinéa de l'article L. 603, le titulaire
+de l'autorisation de mise sur le marché suspendue ou retirée prend toutes dispositions utiles pour faire cesser
+l'exportation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-511 du 20 juin 1994 - art. 1 () JORF 25 juin 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L603 (M)
+
+
+###### Article R5142-18
+
+La déclaration prévue au quatrième alinéa de l'article L. 603 est adressée à l'Agence du médicament par l'établissement
+pharmaceutique exportateur avant l'exportation d'un médicament, lorsqu'il s'agit de la première exportation de ce médicament
+vers l'Etat d'importation.
+
+Cette déclaration est accompagnée d'un dossier comprenant :
+
+a) La dénomination du médicament ;
+
+b) Ses indications thérapeutiques ;
+
+c) Sa présentation ;
+
+d) Toutes informations pharmacologiques, toxicologiques et cliniques permettant d'apprécier les risques liés à son
+utilisation ;
+
+e) Toutes informations chimiques, technologiques, pharmaceutiques et biologiques permettant de garantir la qualité des
+médicaments et notamment les méthodes de fabrication et de contrôle.
+
+Toute modification relative aux médicaments et aux éléments figurant dans le dossier fait l'objet d'une déclaration
+complémentaire auprès de l'Agence du médicament.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-511 du 20 juin 1994 - art. 1 () JORF 25 juin 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L603 (M)
+
+
+##### Dispositions applicables aux médicaments classés comme stupéfiants ou psychotropes
+
+###### Article R5142-19
+
+Les dispositions du présent paragraphe 2 bis s'appliquent à l'importation et à l'exportation :
+
+1° Des médicaments classés comme stupéfiants ou auxquels la réglementation des stupéfiants est appliquée en tout ou partie ;
+
+2° Des médicaments classés comme psychotropes.
+
+Ces médicaments restent néanmoins soumis, par ailleurs, aux dispositions particulières qui les concernent respectivement et
+qui sont édictées aux articles R. 5173, R. 5209 et R. 5186.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-511 du 20 juin 1994 - art. 1 () JORF 25 juin 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5173 (M)
+	  - Code de la santé publique - art. R5186 (M)
+	  - Code de la santé publique - art. R5209 (M)
 
 
 #### CHAPITRE 3 : PHARMACIE VETERINAIRE
