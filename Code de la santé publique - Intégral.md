@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1992-04-01
+Version Consolidée au 1992-04-03
 
 # Partie législative ancienne
 
@@ -67494,6 +67494,8 @@ l'établissement qu'ils représentent.
 
 ##### Section 1 : Organisation administrative et financière
 
+##### Sous-section 1 : Création, transformation et suppression des établissements publics de sante
+
 ###### Article R714-1-1
 
 Sans préjudice de l'application des dispositions de l'article L. 712-8 :
@@ -67512,9 +67514,9 @@ territoriales de rattachement et après avis du comité régional de l'organisat
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-371 1992-04-01 art. 1 I JORF 3 avril 1992
 
 	**Cité par**:
 
@@ -67550,9 +67552,9 @@ et donations sont reportés sur cette collectivité ou cet établissement avec l
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-371 1992-04-01 art. 1 I JORF 3 avril 1992
 
 	**Cité par**:
 
@@ -67568,8 +67570,6 @@ et donations sont reportés sur cette collectivité ou cet établissement avec l
 
 	  - Code de la santé publique - art. R6141-11 (V)
 
-
-##### Sous-section 1 : Création, transformation et suppression des établissements publics de sante
 
 ###### Article R714-1-3
 
@@ -67601,9 +67601,9 @@ dossier.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°92-272 du 26 mars 1992 - art. 2 () JORF 27 mars 1992
+	  - Décret n°92-371 1992-04-01 art. 1 I JORF 3 avril 1992
 
 	**Cite**:
 
@@ -67613,6 +67613,1012 @@ dossier.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R6141-12 (V)
+
+
+##### Sous-section 2 : Composition et fonctionnement du conseil d'administration
+
+###### Article R714-2-1
+
+Sous réserve des dispositions de l'article 714-2-6, les conseils d'administration des centres hospitaliers et des centres
+hospitaliers régionaux ayant le caractère d'établissement publics de santé communaux sont composés de vingt-trois membres, à
+savoir :
+
+1° Le maire de la commune, ou son représentant désigné en son sein par le conseil municipal sur proposition du maire,
+président ;
+
+2° Trois membres du conseil municipal de la commune autres que ceux mentionnés au 1° ;
+
+3° Un membre du conseil général du département dans lequel est située la commune ;
+
+4° Un membre du conseil régional ;
+
+5° Six représentants des organismes de sécurité sociale, dont :
+
+a) Trois représentants de la caisse régionale d'assurance maladie ;
+
+b) Un représentant de la caisse chargée du versement de la dotation globale ;
+
+c) Deux représentants de régime d'assurance maladie autres que celui auquel appartient la caisse chargée du versement de la
+dotation globale, déterminés par le préfet du département en fonction de l'importance relative des frais exposés dans
+l'établissement considéré par chacun de ces régimes pour leurs ressortissants ; à défaut d'accord entre les organismes de ces
+régimes le préfet détermine sur la même base les organismes appelés à désigner ces représentants.
+
+6° Le président et le vice-président de la commission médicale d'établissement ;
+
+7° Deux autres membres de la commission médicale d'établissement ;
+
+8° Un membre de la commission du service de soins infirmiers ;
+
+9° Trois représentants des personnels titulaires relevant du titre IV du statut général des fonctionnaires ;
+
+10° Trois personnalités connues pour leurs travaux sur les problèmes hospitaliers ou leur attachement à la cause
+hospitalière, dont :
+
+a) Un médecin non hospitalier, n'exerçant pas dans l'établissement ;
+
+b) Un représentant non hospitalier des professions paramédicales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-2-2 (Ab)
+	  - Code de la santé publique - art. R714-2-3 (Ab)
+	  - Code de la santé publique - art. R714-2-4 (Ab)
+	  - Code de la santé publique - art. R714-2-5 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique 714-2-6
+
+
+###### Article R714-2-2
+
+Sous réserve des dispositions de l'article R. 714-2-6, les conseils d'administration des centres hospitaliers et des centres
+hospitaliers régionaux ayant le caractère d'établissements publics de santé intercommunaux sont composés :
+
+1° De trois représentants des conseils municipaux des communes concernées, aucune commune ne pouvant avoir plus de deux
+sièges ;
+
+2° Du maire de la commune siège de l'établissement, ou de son représentant désigné en son sein par le conseil municipal de
+ladite commune sur proposition du maire ;
+
+3° D'un membre du conseil général du département dans lequel est située la commune siège de l'établissement ;
+
+4° D'un membre du conseil régional ;
+
+5° De six représentants des organismes de sécurité sociale, dont :
+
+a) Trois représentants de la caisse régionale d'assurance maladie ;
+
+b) Un représentant de la caisse chargée du versement de la dotation globale ;
+
+c) Deux représentants de régimes d'assurance maladie autres que celui auquel appartient la caisse chargée du versement de la
+dotation globale, déterminés par le préfet du département en fonction de l'importance relative des frais exposés dans
+l'établissement considéré par chacun de ces régimes pour leurs ressortissants ; à défaut d'accord entre les organismes de ces
+régimes, le préfet détermine sur la même base les organismes appelés à désigner ces représentants ;
+
+6° Des onze membres mentionnés aux 6° à 10° de l'article R. 714-2-1.
+
+Sous réserve des dispositions du dernier alinéa de l'article L. 714-2, le président du conseil d'administration est élu par
+le conseil parmi les représentants des conseils municipaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D714-2-1 (Ab)
+	  - Code de la santé publique - art. R714-2-25 (Ab)
+	  - Code de la santé publique - art. R714-2-7 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-2 (M)
+	  - Code de la santé publique - art. R714-2-1 (M)
+	  - Code de la santé publique - art. R714-2-6 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-2 (V)
+
+
+###### Article R714-2-3
+
+Sous réserve des dispositions des articles R. 714-2-4 et R. 714-2-6, les conseils d'administration des centres hospitaliers
+et des centres hospitaliers régionaux ayant le caractère d'établissements publics de santé départementaux sont composés de
+vingt-trois membres, à savoir, outre les dix-sept membres mentionnés aux 5° à 10° de l'article R. 714-2-1 :
+
+1° Le président du conseil général, ou son représentant désigné en son sein par le conseil général sur proposition du
+président de ce dernier, président ;
+
+2° Trois membres du conseil général autres que ceux mentionnés au 1° ;
+
+3° Le maire de la commune siège de l'établissement, ou son représentant désigné en son sein par le conseil municipal de
+ladite commune sur proposition du maire ;
+
+4° Un membre du conseil régional.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-2-1 (M)
+	  - Code de la santé publique - art. R714-2-4 (M)
+	  - Code de la santé publique - art. R714-2-6 (M)
+
+
+###### Article R714-2-4
+
+Lorsqu'un établissement public de santé départemental est situé dans un département autre que le département auquel il est
+rattaché, le conseil d'administration comprend, outre les dix-sept membres mentionnés aux 5° à 10° de l'article R. 714-2-1
+[*composition*] :
+
+1° Le président du conseil général du département de rattachement, ou son représentant désigné en son sein par le conseil
+général sur proposition du président de ce dernier, président ;
+
+2° Deux conseillers généraux du département de rattachement, autres que ceux mentionnés au 1° ;
+
+3° Un conseiller général du département sur le territoire duquel est situé l'établissement ;
+
+4° Le maire de la commune siège de l'établissement, ou son représentant désigné en son sein par le conseil municipal de
+ladite commune sur proposition du maire ;
+
+5° Un membre du conseil régional de la région dans laquelle l'établissement a son siège.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-2-1 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-2-3 (M)
+
+
+###### Article R714-2-5
+
+La composition des conseils d'administration des centres hospitaliers et des centres hospitaliers régionaux ayant le
+caractère d'établissements publics de santé interdépartementaux est fixée comme suit :
+
+1° Quatre représentants des conseils généraux des départements intéressés, aucun département ne pouvant avoir plus de deux
+sièges ;
+
+2° Le maire de la commune siège de l'établissement, ou son représentant désigné en son sein par le conseil municipal de
+ladite commune sur proposition du maire ;
+
+3° Un membre du conseil régional de la région dans laquelle l'établissement a son siège ;
+
+4° Six représentants des organismes de sécurité sociale dont :
+
+a) Trois représentants de la ou des caisses régionales d'assurance maladie correspondant aux départements intéressés ;
+
+b) Un représentant de la caisse chargée du versement de la dotation globale ;
+
+c) Deux représentants de régimes d'assurance maladie autres que celui auquel est rattachée la caisse chargée du versement de
+la dotation globale, déterminés par le préfet du département où l'établissement a son siège en fonction de l'importance
+relative des fraix exposés dans l'établissement considéré par lesdits régimes pour leurs ressortissants ; à défaut d'accord
+entre les organismes de ces régimes, le préfet détermine sur la même base les organismes appelés à désigner ces
+représentants.
+
+5° Le président et le vice-président de la commission médicale d'établissement ;
+
+6° Deux autres membres de la commission médicale d'établissement ;
+
+7° Un membre de la commission du service de soins infirmiers ;
+
+8° Trois représentants des personnels titulaires relevant du titre IV du statut général des fonctionnaires ;
+
+9° Trois personnalités qualifiées dont un médecin et un représentant des professions paramédicales n'exerçant pas dans
+l'établissement.
+
+Sous réserve des dispositions du dernier alinéa de l'article L. 714-2, le président du conseil d'administration est élu par
+le conseil parmi les représentants des conseils généraux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D714-2-1 (Ab)
+	  - Code de la santé publique - art. R714-2-25 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-5 (M)
+
+
+###### Article R714-2-6
+
+Les conseils d'administration des centres hospitaliers universitaires sont composés comme suit :
+
+I. - Lorsque le centre hospitalier universitaire est un établissement communal, le conseil d'administration comprend trente-
+deux membres, à savoir :
+
+1° Le maire de la commune, ou son représentant désigné en son sein par le conseil municipal sur proposition du maire,
+président ;
+
+2° Trois membres du conseil municipal autres que ceux désignés au 1° ;
+
+3° Deux membres du conseil général du département dans lequel est située la commune ;
+
+4° Deux membres du conseil régional de la région dans laquelle est située la commune ;
+
+5° Huit représentants des organismes de sécurité sociale, dont :
+
+a) Quatre représentants de la caisse régionale d'assurance maladie ;
+
+b) Deux représentants de la caisse chargée du versement de la dotation globale ;
+
+c) Deux représentants de régimes d'assurance maladie autres que celui auquel appartient la caisse chargée du versement de la
+dotation globale, déterminés par le préfet du département où l'établissement a son siège en fonction de l'importance relative
+des frais exposés dans l'établissement considéré par chacun de ces régimes pour leurs ressortissants ; à défaut d'accord
+entre les organismes de chacun de ces régimes, le préfet détermine sur la même base les organismes appelés à désigner ces
+représentants ;
+
+6° Le président et le vice-président de la commission médicale d'établissement ou, au cas où l'un d'eux est en même temps
+directeur de l'unité de formation et de recherche intéressée ou président du comité de coordination de l'enseignement
+médical, un membre de la commission médicale d'établissement ;
+
+7° Quatre autres membres de la commission médicale d'établissement ;
+
+8° Un membre de la commission du service de soins infirmiers ;
+
+9° Cinq représentants des personnels titulaires relevant du titre IV du statut général des fonctionnaires ;
+
+10° Trois personnalités connues pour leurs travaux sur les problèmes hospitaliers ou leur attachement à la cause
+hospitalière, dont un médecin non hospitalier n'exerçant pas dans l'établissement et un représentant non hospitalier des
+professions paramédicales ;
+
+11° Le directeur de l'unité de formation et de recherche médicale intéressée ou, en cas de pluralité d'unités de formation et
+de recherche intéressées, le président du comité de coordination de l'enseignement médical.
+
+II. - Le conseil d'administration du centre hospitalier universitaire de Pointe-à-Pitre - Les Abymes est composé comme suit :
+
+1° Le président du conseil général, ou son représentant désigné en son sein par le conseil général sur proposition de son
+président, président ;
+
+2° Trois membres du conseil général autres que ceux désignés au 1° ;
+
+3° Les maires des communes de Pointe-à-Pitre et des Abymes, ou leurs représentants désignés en leur sein par les conseils
+municipaux desdites communes sur proposition desdits maires ;
+
+4° Deux membres du conseil régional ;
+
+5° Huit représentants des organismes de sécurité sociale, dont :
+
+a) Six représentants de la caisse générale de sécurité sociale ;
+
+b) Deux représentants des autres régimes d'assurance maladie ; dans le cas où ces régimes ne sont pas institués, ces sièges
+sont attribués à la caisse générale de sécurité sociale.
+
+6° Le président et le vice-président de la commission médicale d'établissement, ou, au cas où l'un d'eux est en même temps
+directeur de l'unité de formation et de recherche intéressée ou président du comité de coordination de l'enseignement
+médical, un membre de la commission médicale d'établissement ;
+
+7° Quatre autres membres de la commission médicale d'établissement ;
+
+8° Un membre de la commission du service de soins infirmiers ;
+
+9° Cinq représentants des personnels titulaires relevant du titre IV du statut général des fonctionnaires ;
+
+10° Trois personnalités connues pour leurs travaux sur les problèmes hospitaliers ou leur attachement à la cause
+hospitalière, dont un médecin non hospitalier n'exerçant pas dans l'établissement et un représentant non hospitalier des
+professions paramédicales ;
+
+11° Le directeur de l'unité de formation et de recherche médicale intéressée ou, en cas de pluralité d'unité de formation et
+de recherche intéressées, le président du comité de coordination de l'enseignement médical.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-6 (V)
+	  - Code de la santé publique - art. R6143-7 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R714-2-1 (Ab)
+	  - Code de la santé publique - art. R714-2-2 (Ab)
+	  - Code de la santé publique - art. R714-2-3 (Ab)
+	  - Code de la santé publique - art. R714-2-8 (M)
+
+
+###### Article R714-2-7
+
+I. - Les conseils d'administration des hôpitaux locaux ayant le caractère d'établissements publics de santé communaux sont
+composés de dix-neuf membres, à savoir :
+
+1° Le maire de la commune, ou son représentant désigné en son sein par le conseil municipal sur proposition du maire,
+président ;
+
+2° Deux membres du conseil municipal de la commune autres que ceux désignés au 1° ;
+
+3° Deux membres du conseil général du département dans lequel est situé la commune ;
+
+4° Cinq représentants des organismes de sécurité sociale, dont :
+
+a) Deux représentants de la caisse régionale d'assurance maladie ;
+
+b) Un représentant de la caisse chargée du versement de la dotation globale ;
+
+c) Deux représentants de régimes d'assurance maladie autres que celui auquel appartient la caisse chargée du versement de la
+dotation globale, déterminés par le préfet du département en fonction de l'importance relative des frais exposés dans
+l'établissement considéré par chacun de ces régimes pour leur ressortissants ; à défaut d'accord entre les organismes de ces
+régimes, le préfet détermine sur la même base les organismes appelés à désigner ces représentants ;
+
+5° Le président et le vice-président de la commission médicale d'établissement ;
+
+6° Un autre membre de la commission médicale d'établissement ;
+
+7° Un membre de la commission du service de soins infirmiers ;
+
+8° Deux représentants des personnels titulaires relevant du titre IV du statut général des fonctionnaires ;
+
+9° Trois personnalités connues pour leurs travaux sur les problèmes hospitaliers ou leur attachement à la cause hospitalière,
+dont un médecin non hospitalier n'exerçant pas dans l'établissement et un représentant non hospitalier des professions
+paramédicales.
+
+II. - Lorsque l'hôpital local est un hôpital intercommunal, le conseil d'administration comprend :
+
+1° Les trois membres mentionnés au 1° de l'article R. 714-2-2 ;
+
+2° Le maire de la commune siège de l'établissement, ou son représentant désigné en son sein par le conseil municipal de
+ladite commune sur proposition du maire ;
+
+3° Un membre du conseil général du département dans lequel est située la commune siège de l'établissement ;
+
+4° Cinq représentants des organismes de sécurité sociale, dont :
+
+a) Trois représentants de la caisse régionale d'assurance maladie ;
+
+b) Un représentant de la caisse chargée du versement de la dotation globale ;
+
+c) Un représentant d'un régime d'assurance maladie autre que celui auquel appartient la caisse chargée du versement de la
+dotation globale, déterminé par le préfet du département en fonction de l'importance relative des frais exposés dans
+l'établissement considéré par ledit régime pour ses ressortissants ; à défaut d'accord entre les organismes de ce régime, le
+préfet détermine sur la même base l'organisme appelé à désigner l'intéressé ;
+
+5° Le président et le vice-président de la commission médicale d'établissement ;
+
+6° Un autre membre de la commission médicale d'établissement ;
+
+7° Un membre de la commission du service de soins infirmiers ;
+
+8° Deux représentants des personnels titulaires relevant du titre IV du statut général des fonctionnaires ;
+
+9° Trois personnalités connues pour leurs travaux sur les problèmes hospitaliers ou leur attachement à la cause hospitalière,
+dont un médecin non hospitalier n'exerçant pas dans l'établissement et un représentant non hospitalier des professions
+paramédicales.
+
+Sous réserve des dispositions du dernier alinéa de l'article L. 714-2, le président du conseil d'administration est élu par
+le conseil parmi les représentants des conseils municipaux.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D714-2-1 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-2 (M)
+	  - Code de la santé publique - art. R714-2-2 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-10 (V)
+	  - Code de la santé publique - art. R6143-8 (V)
+	  - Code de la santé publique - art. R6143-9 (V)
+
+
+###### Article R714-2-8
+
+Pour les établissements publics de santé situés dans les départements d'outre-mer, et sans préjudice des dispositions
+particulières du II de l'article R. 714-2-6, les sièges attribués en métropole à la caisse régionale d'assurance maladie et à
+la caisse chargée du versement de la dotation globale sont attribués nombre pour nombre à la caisse générale de sécurité
+sociale.
+
+Dans ces établissements, s'il n'y a pas lieu de représenter des régimes d'assurance maladie autres que ceux gérés par la
+caisse générale de sécurité sociale, le ou les sièges attribués en métropole à ces régimes sont attribués à ladite caisse
+générale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-14 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-2-6 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-4 (Ab)
+	  - Code de la santé publique - art. R716-3-64 (Ab)
+	  - Code de la santé publique - art. R726-8 (Ab)
+
+
+###### Article R714-2-9
+
+Un arrêté du préfet du département dans lequel l'établissement a son siège fixe la composition nominative du conseil
+d'administration de celui-ci.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Cité par**:
+
+	  - Décret n°92-371 du 1 avril 1992 - art. 3 (Ab)
+	  - Code de la santé publique - art. R716-3-24 (Ab)
+	  - Code de la santé publique - art. R716-3-4 (Ab)
+	  - Code de la santé publique - art. R716-3-64 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-16 (V)
+
+
+###### Article R714-2-10
+
+Les membres des conseils d'administration qui tombent sous le coup des incompatibilités ou incapacités prévues à l'article L.
+714-3 sont déclarés démissionnaires d'office par le préfet du département dans lequel l'établissement a son siège. Il est
+pourvu à leur remplacement dans le délai d'un mois.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-22 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-24 (M)
+	  - Code de la santé publique - art. R716-3-43 (Ab)
+	  - Code de la santé publique - art. R726-8 (Ab)
+
+
+###### Article R714-2-11
+
+Le directeur de l'établissement ou, en cas d'empêchement, son représentant assiste avec voix consultative aux séances du
+conseil d'administration. Il peut se faire assister par les collaborateurs de son choix.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-23 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-4 (Ab)
+	  - Code de la santé publique - art. R716-3-43 (Ab)
+
+
+###### Article R714-2-12
+
+Peuvent assister aux séances du conseil d'administration, avec voix consultative, le ou les préfets du ou des départements
+intéressés, le directeur régional des affaires sanitaires et sociales, le médecin inspecteur régional de la santé, ou leurs
+représentants, le ou les directeurs départementaux des affaires sanitaires et sociales, le ou les médecins inspecteurs de la
+santé ou leurs représentants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-24 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-4 (Ab)
+	  - Code de la santé publique - art. R716-3-43 (M)
+
+
+###### Article R714-2-13
+
+Chaque conseil d'administration élit un vice-président pour trois ans. En cas d'empêchement du président et du vice-
+président, la présidence des séances du conseil appartient au plus âgé des membres présents.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-25 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-4 (M)
+	  - Code de la santé publique - art. R716-3-64 (Ab)
+
+
+###### Article R714-2-14
+
+Le mandat des membres du conseil d'administration prend fin en même temps que le mandat ou les fonctions au titre desquels
+les intéressés ont été élus ou désignés.
+
+Le mandat des membres élus par le conseil général expire lors de chaque renouvellement de cette assemblée.
+
+En cas de suspension ou de dissolution du conseil régional, du conseil général, du conseil municipal ou du conseil
+d'administration d'un organisme de sécurité sociale, le mandat est continué jusqu'au jour du remplacement des membres en
+cause du conseil d'administration par la nouvelle assemblée.
+
+Le mandat des membres désignés par les organisations syndicales les plus représentatives expire lors de chaque renouvellement
+du comité technique d'établissement ; lorsque les représentants du personnel sont élus, la durée de leur mandat est fixée à
+trois ans.
+
+La durée du mandat des personnes nommées par le préfet est fixée à trois ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-15 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-24 (M)
+	  - Code de la santé publique - art. R716-3-62 (Ab)
+	  - Code de la santé publique - art. R726-8 (Ab)
+
+
+###### Article R714-2-15
+
+Tout membre qui, sans motif légitime, s'abstient pendant six mois consécutifs d'assister aux séances du conseil
+d'administration est réputé démissionnaire [*absence*]. Cette démission est constatée par le préfet. L'intéressé est remplacé
+dans le délai d'un mois.
+
+Si un membre cesse ses fonctions avant l'expiration normale de son mandat, il est pourvu, dans le délai d'un mois, à son
+remplacement dans les mêmes formes. En ce cas, les fonctions du nouveau membre prennent fin à l'époque où auraient cessé
+celles du membre qu'il a remplacé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Cité par**:
+
+	  - Décret n°95-236 du 2 mars 1995 - art. 4 (Ab)
+	  - Code de la santé publique - art. R716-3-4 (Ab)
+	  - Code de la santé publique - art. R716-3-64 (Ab)
+	  - Code de la santé publique - art. R726-8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-16 (V)
+
+
+###### Article R714-2-16
+
+Des autorisations spéciales d'absence n'entrant pas en compte dans le calcul des congés annuels sont accordées, dans les
+conditions prévues au 4° du premier alinéa de l'article 45 du titre IV du statut général des fonctionnaires, aux agents
+rémunérés des établissements publics de santé membres des conseils d'administration pour leur permettre d'accomplir leur
+mission au sein de ces conseils.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-17 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-24 (M)
+
+
+###### Article R714-2-17
+
+Les fonctions de membre des conseils d'administration sont gratuites.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-18 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-24 (M)
+
+
+###### Article R714-2-18
+
+Le nombre minimum des séances du conseil d'administration de chaque établissement public de santé est fixé par le règlement
+intérieur de l'établissement. Il ne peut être inférieur à quatre séances par an.
+
+Le conseil d'administration doit être réuni sur demande écrite soit de la moitié au moins de ses membres, soit de l'autorité
+exerçant le contrôle de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Cité par**:
+
+	  - Décret n°99-1231 du 31 décembre 1999 - art. 6 (Ab)
+	  - Code de la santé publique - art. R714-2-19 (Ab)
+	  - Code de la santé publique - art. R716-3-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-26 (V)
+
+
+###### Article R714-2-19
+
+Le conseil d'administration se réunit sur convocation de son président ou, en cas d'absence ou d'empêchement de celui-ci, du
+vice-président.
+
+Les modalités de convocation sont fixées par le règlement intérieur de l'établissement. L'ordre du jour est arrêté par le
+président ou le vice-président du conseil d'administration et adressé, sauf en cas d'urgence, au moins sept jours à l'avance
+à l'ensemble des membres du conseil d'administration ainsi qu'aux personnes qui y siègent avec voix consultative.
+
+En cas d'urgence, le délai peut être abrégé par le président ou le vice-président sans pouvoir toutefois être inférieur à un
+jour franc. Le président ou le vice-président en rend compte au conseil d'administration qui se prononce définitivement sur
+l'urgence et peut décider le renvoi de la discussion, pour tout ou partie, à l'ordre du jour d'une séance ultérieure.
+
+Le président ou le vice-président ne peuvent refuser de convoquer le conseil d'administration si la demande en a été formulée
+dans les conditions prévues au deuxième alinéa de l'article R. 714-2-18 ; dans ce cas, la convocation doit intervenir dans le
+délai maximum de sept jours et le président ou le vice-président sont tenus d'inscrire à l'ordre du jour la ou les questions
+qui ont motivé la demande de séance.
+
+A défaut de convocation par le président ou le vice-président dans les conditions prévues au précédent alinéa, la convocation
+est effectuée par l'autorité exerçant le contrôle de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Cité par**:
+
+	  - Décret n°99-1231 du 31 décembre 1999 - art. 6 (Ab)
+	  - Code de la santé publique - art. R716-3-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-27 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R714-2-18 (M)
+
+
+###### Article R714-2-20
+
+Les séances du conseil d'administration ne sont pas publiques. La police de l'assemblée appartient au président qui peut
+suspendre la séance ou prononcer son renvoi. Dans ce cas, le conseil d'administration doit obligatoirement être convoqué à
+nouveau dans un délai de quinze jours.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-28 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-24 (M)
+
+
+###### Article R714-2-21
+
+Le conseil d'administration ne peut délibérer valablement que lorsque la majorité des membres en exercice assistent à la
+séance [*quorum*].
+
+Toutefois, quand, après une convocation régulièrement faite, la majorité requise n'est pas atteinte, la délibération prise
+après la deuxième convocation, qui doit avoir lieu à trois jours d'intervalle au moins et à huit jours au plus, est valable
+quel que soit le nombre des membres présents.
+
+En cas de vote, celui-ci a lieu au scrutin secret si l'un des membres présents en fait la demande.
+
+En cas de partage des voix, il est procédé à un second tour de scrutin. En cas de nouvelle égalité, sauf vote à scrutin
+secret, la voix du président est prépondérante.
+
+Le vote par correspondance et le vote par procuration ne sont pas admis.
+
+Lorsque le conseil d'administration examine des questions individuelles, l'avis est donné hors la présence du membre du
+conseil dont la situation est examinée ou de toute personne ayant avec l'intéressé un lieu de parenté et d'alliance jusqu'au
+quatrième degré inclus. Les votes ont lieu au scrutin secret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-29 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-4 (Ab)
+
+
+###### Article R714-2-22
+
+Le secrétariat est assuré à la diligence du directeur de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-30 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-4 (Ab)
+
+
+###### Article R714-2-23
+
+Les délibérations sont conservées dans un registre spécial confié à la garde du directeur de l'établissement. Ce registre est
+tenu à la disposition des administrateurs qui peuvent le consulter sur place. Ils peuvent également obtenir des copies ou
+extraits des délibérations.
+
+Les administrateurs reçoivent un compte rendu de séance dans les quinze jours suivant chaque réunion du conseil
+d'administration.
+
+Les copies, extraits ou comptes rendus des délibérations ne peuvent toutefois être utilisés que sous réserve du respect des
+prescriptions de l'article L. 378 du code pénal.
+
+En outre, les administrateurs ainsi que les personnes siégeant avec voix consultative sont tenus à une obligation de
+discrétion à l'égard des informations présentant un caractère confidentiel et données comme telles par le président.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Cite**:
+
+	  - Code pénal L378
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-19 (V)
+
+
+###### Article R714-2-24
+
+Les membres des conseils d'administration ayant exercé leurs fonctions pendant douze années peuvent, s'ils cessent leurs
+fonctions à l'expiration de cette période, recevoir l'honorariat, qui leur est conféré par le préfet du département sur le
+territoire duquel l'établissement a son siège, après avis du directeur départemental des affaires sanitaires et sociales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-371 1992-04-01 art. 1 II JORF 3 avril 1992
+
+	**Cité par**:
+
+	  - Décret n°95-236 du 2 mars 1995 - art. 4 (Ab)
+	  - Décret n°99-1231 du 31 décembre 1999 - art. 6 (Ab)
+	  - Code de la santé publique - art. R716-3-24 (Ab)
+	  - Code de la santé publique - art. R716-3-4 (Ab)
+	  - Code de la santé publique - art. R716-3-64 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6143-20 (V)
 
 
 ##### Section 3 : Organisation des soins et fonctionnement médical
@@ -68849,6 +69855,147 @@ opération sont également données ou renouvelées par le ministre chargé de l
 	**Cite**:
 
 	  - Code de la santé publique - art. D712-15 (M)
+
+
+#### Chapitre IV : Les établissements publics de santé
+
+##### Section 1 : Organisation administrative et financière
+
+##### Sous-section 2 : Modalités d'élection ou de désignation des membres des conseils d'administration
+
+###### Article D714-2-1
+
+Les membres des conseils d'administration des établissements publics de santé mentionnés aux articles R. 714-2-1 à R.
+714-2-8, qui ne sont ni président ni membres de droit, sont, suivant le cas, élus ou désignés dans les conditions suivantes :
+
+1° Les représentants des conseils municipaux, généraux et régionaux sont élus en leur sein par lesdits conseils conformément
+aux règles de ces assemblées.
+
+Toutefois, à défaut d'accord entre les conseils municipaux intéressés pour la désignation des représentants desdits conseils
+aux conseils d'administration des établissements intercommunaux mentionnés à l'article R. 714-2-2 et au II de l'article R.
+714-2-7, les maires des communes concernées se réunissent en un collège qui élit trois représentants choisis au sein des
+conseils municipaux.
+
+De même, à défaut d'accord entre les conseils généraux des départements intéressés pour la désignation des représentants
+desdits conseils aux conseils d'administration des établissements interdépartementaux mentionnés à l'article R. 714-2-5, les
+présidents de ces conseils généraux se réunissent en un collège qui élit quatre représentants choisis au sein desdits
+conseils.
+
+2° Les représentants des caisses d'assurance maladie sont désignés par les conseils d'administration de ces caisses.
+
+3° Les représentants de la commission médicale d'établissement et le représentant de la commission du service de soins
+infirmiers sont élus en leur sein par lesdites commissions, au scrutin uninominal secret et à la majorité absolue. Si cette
+majorité n'est pas atteinte au premier tour, un deuxième tour est organisé ; la majorité relative suffit au second tour ; en
+cas de partage des voix, le plus âgé est élu.
+
+4° Les représentants des personnels titulaires relevant du titre IV du statut général des fonctionnaires sont désignés par le
+préfet du département dans lequel l'établissement a son siège, sur proposition des organisations syndicales les plus
+représentatives dans l'établissement.
+
+La représentativité des organismes syndicaux est appréciée compte tenu du nombre total de voix recueillies dans chaque
+établissement par ces organisations à l'occasion des élections au comité technique d'établissement. La répartition des sièges
+s'opère proportionnellement au nombre de voix recueillies par chaque organisation syndicale avec répartition des restes à la
+plus forte moyenne. En cas d'égalité des suffrages obtenus, l'ordre d'attribution des sièges entre les différentes
+organisations est déterminé par voie de tirage au sort.
+
+Dans le cas où il n'existe pas d'organisation syndicale dans l'établissement ou lorsqu'il est fait application du dernier
+alinéa de l'article L. 714-17, les représentants du personnel sont élus au scrutin uninominal à un tour parmi les personnels
+titulaires par l'ensemble de ces personnels. En cas d'égalité des voix, le siège est attribué au candidat le plus âgé.
+
+5. Les personnalités connues pour leurs travaux sur les problèmes hospitaliers ou leur attachement à la cause hospitalière
+sont nommées par le préfet du département dans lequel l'établissement a son siège. Parmi ces personnalités :
+
+a) Le médecin est nommé sur proposition conjointe du conseil départemental de l'ordre des médecins et des syndicats
+départementaux des médecins les plus représentatifs. En cas de désaccord, le conseil, d'une part, et les syndicats, d'autre
+part, présentent une liste de trois médecins ; le préfet choisit le médecin parmi les six personnes ainsi proposées ;
+
+b) le représentant des professions paramédicales est choisi parmi les personnes présentées par les organisations
+professionnelles représentatives au niveau national qui ont en outre une représentation au niveau régional. Il est tenu
+compte dans ce choix de l'orientation médicale de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-372 du 1 avril 1992 - art. 1 () JORF 3 avril 1992
+
+	**Cité par**:
+
+	  - Arrêté du 16 février 1993 - art. 1 (V)
+	  - Code de la santé publique - art. R716-3-22 (M)
+	  - Code de la santé publique - art. R716-3-24 (M)
+	  - Code de la santé publique - art. R716-3-40 (M)
+	  - Code de la santé publique - art. R716-3-41 (M)
+
+	**Abrogé par**:
+
+	  - Décret n°96-945 du 30 octobre 1996 - art. 4 (Ab) JORF 31 octobre 1996
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-17 (M)
+	  - Code de la santé publique - art. R714-2-2 (M)
+	  - Code de la santé publique - art. R714-2-5 (M)
+	  - Code de la santé publique - art. R714-2-7 (M)
+	  - Code de la santé publique R714-2-1 à R714-2-8, R714-2-2, R714-2-7, R714-2-5, L714-17
+
+
+###### Article D714-2-2
+
+L'incompatibilité prévue au 3° du premier alinéa de l'article L. 714-3 est opposable aux représentants du personnel lorsque
+l'établissement de santé privé défini audit article et l'établissement public de santé sont situés dans le même secteur
+sanitaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-372 du 1 avril 1992 - art. 1 () JORF 3 avril 1992
+
+	**Abrogé par**:
+
+	  - Décret n°96-945 du 30 octobre 1996 - art. 4 (Ab) JORF 31 octobre 1996
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L714-3 (M)
+
+
+###### Article D714-2-3
+
+Dans les établissements comportant des unités de soins de longue durée, le représentant des familles de personnes accueillies
+dans ces unités, qui assiste aux séances du conseil d'administration avec voix consultative, est nommé par le préfet du
+département dans lequel l'établissement a son siège, sur une liste de trois personnes proposées par les familles intéressées
+selon des modalités fixées par le règlement intérieur de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°92-372 du 1 avril 1992 - art. 1 () JORF 3 avril 1992
+
+	**Abrogé par**:
+
+	  - Décret n°96-945 du 30 octobre 1996 - art. 4 (Ab) JORF 31 octobre 1996
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3-43 (M)
 
 
 ## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires.&lt;L&gt; Titre Ier : Etablissements de santé
