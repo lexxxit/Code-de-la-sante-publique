@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1991-01-12
+Version Consolidée au 1991-01-20
 
 # Partie législative ancienne
 
@@ -699,20 +699,32 @@ personnes qui résident dans une région contaminée ou qui, du fait de leur pro
 
 ###### Article L10
 
-Toute personne qui exerce, dans un établissement ou organisme public ou privé de prévention ou de soins appartenant aux
-catégories dont la liste est établie par arrêté conjoint du ministre de la santé publique et de la population et du ministre
-du travail, une activité professionnelle l'exposant à des risques de contamination, doit être immunisée contre la variole,
-les fièvres typhoïde et paratyphoïde A et B, la diphtérie, le tétanos et la poliomyélite [*vaccinations obligatoires*].
+Toute personne qui, dans un établissement ou organisme public ou privé de prévention ou de soins, exerce une activité
+professionnelle l'exposant à des risques de contamination doit être immunisée contre l'hépatite B, la diphtérie, le tétanos
+et la poliomyélite.
 
-Les conditions de cette immunisation sont fixées par arrêté du ministre de la Santé publique et de la Population pris après
-consultation du Conseil supérieur d'hygiène publique et compte tenu, en particulier, des contre-indications médicales.
+En outre, les personnes qui exercent une activité professionnelle dans un laboratoire d'analyses de biologie médicale doivent
+être immunisées contre la fièvre typhoïde.
 
-Les dépenses entraînées par ces vaccinations sont à la charge des établissements ou organismes employeurs.
+Un arrêté conjoint du ministre chargé de la santé et du ministre chargé du travail, pris après avis du Conseil supérieur
+d'hygiène publique de France, détermine les catégories d'établissements et organismes concernés.
+
+Tout élève ou étudiant d'un établissement préparant à l'exercice des professions médicales et des autres professions de santé
+dont la liste est déterminée par arrêté du ministre chargé de la santé, qui est soumis à l'obligation d'effectuer une part de
+ses études dans un établissement ou organisme public ou privé de prévention ou de soins, doit être immunisé contre les
+maladies visées à l'alinéa premier du présent article [*vaccinations obligatoires*].
+
+Les établissements ou organismes employeurs ou, pour les élèves et étudiants, les établissements ayant reçu leur inscription,
+prennent à leur charge les dépenses entraînées par ces vaccinations.
+
+Les conditions de l'immunisation prévue au présent article sont fixées par arrêté du ministre chargé de la santé pris après
+avis du Conseil supérieur d'hygiène publique de France et compte tenu, en particulier, des contre-indications médicales.
 
 **Nota:**
 
-[*Nota : Code de la santé publique L. 51 : dispositions applicables aux ateliers et manufactures.*]    [*Nota - Ordonnance
-90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
+[*Nota : Code de la santé publique L. 51 : dispositions applicables aux ateliers et manufactures.
+
+Ordonnance 90-570 du 25 juin 1990 art. 1 : dispositions applicables à la collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -724,10 +736,6 @@ Les dépenses entraînées par ces vaccinations sont à la charge des établisse
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Modifié par**:
-
-	  - Loi n°64-643 1964-07-01 art. 2 JORF 2 juillet 1964
 
 	**Cité par**:
 
@@ -820,9 +828,22 @@ Les dépenses entraînées par ces vaccinations sont à la charge des établisse
 	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 8 (Ab)
 	  - TXT_SOURCE: Arrêté du 28 juillet 1965 - art. 9 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°91-73 du 18 janvier 1991 - art. 1 () JORF 20 janvier 1991
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
 	**Nouveaux textes**:
 
+	  - Code de la santé publique - art. L3111-4 (M)
 	  - Code de la santé publique - art. L3111-4 (V)
+	  - Code de la santé publique - art. R3116-3 (V)
+	  - Code de la santé publique - art. R3116-4 (V)
+	  - Code de la santé publique - art. R3116-5 (V)
+	  - Code de la santé publique - art. R3116-8 (V)
 
 
 ###### Article L10-1
@@ -7382,6 +7403,9 @@ Les recherches biomédicales ne peuvent être effectuées que [*conditions d'exp
 - dans des conditions matérielles et techniques adaptées à l'essai et compatibles avec les impératifs de rigueur scientifique
 et de sécurité des personnes qui se prêtent à ces recherches.
 
+Les recherches biomédicales concernant le domaine de l'odontologie ne peuvent être effectuées que sous la direction et la
+surveillance d'un chirurgien-dentiste et d'un médecin justifiant d'une expérience appropriée.
+
 **Nota:**
 
 [*Nota - Code de la santé publique L. 209-23 : les dispositions du livre 2 bis sont applicables aux collectivités
@@ -7394,9 +7418,9 @@ territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
+	  - Loi n°91-73 du 18 janvier 1991 - art. 2 () JORF 20 janvier 1991
 
 	**Cité par**:
 
@@ -23832,6 +23856,80 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L4363-6 (M)
 
 
+### Titre 5-1 : Dispositions communes aux professions de pédicure-podologue, opticien-lunetier et audioprothésiste.
+
+###### Article L510-8 bis
+
+Peuvent exercer la profession de pédicure-podologue, d'opticien-lunetier détaillant ou d'audioprothésiste, sans posséder les
+diplômes, certificats, titres ou autorisations exigés, respectivement par les articles L. 494, L. 505 et L. 510-2, les
+ressortissants d'un Etat membre des communautés européennes qui ont suivi avec succès un cycle d'études dont la durée et les
+modalités sont fixées par décret en Conseil d'Etat et qui justifient de diplômes, certificats ou autres titres, permettant
+l'exercice de la profession dans l'Etat membre d'origine ou de provenance délivrés [*conditions*]:
+
+a) Soit par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans la
+Communauté ;
+
+b) Soit par un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre qui
+a reconnu les diplômes, certificats ou autres titres certifiant que le titulaire de ces diplômes, certificats ou autres
+titres a une expérience professionnelle dans cet Etat de trois ans au moins.
+
+Lorsque la formation de l'intéressé porte sur des matières substantiellement différentes de celles qui figurent au programme
+des diplômes et certificats respectivement mentionnés par les articles L. 494, L. 505 et L. 510-2 ou lorsqu'une ou plusieurs
+des activités professionnelles dont l'exercice est subordonné auxdits diplômes et certificats ne sont pas réglementés dans
+l'Etat membre d'origine ou de provenance ou sont réglementés de manière différente, le ministre chargé de la santé peut
+exiger que l'intéressé choisisse, soit de se soumettre à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation.
+
+Un décret en Conseil d'Etat détermine les mesures nécessaires à l'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°91-73 du 18 janvier 1991 - art. 4 () JORF 20 janvier 1991
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 3 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 4 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°91-1012 du 2 octobre 1991
+	  - TXT_SOURCE: Décret n°91-1012 du 2 octobre 1991 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°91-1012 du 2 octobre 1991 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°91-1012 du 2 octobre 1991 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°91-1012 du 2 octobre 1991 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°91-1012 du 2 octobre 1991 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°91-1012 du 2 octobre 1991 - art. 6 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 3 (V)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 4 (V)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Décret n°91-1012 du 2 octobre 1991 - art. 3 (Ab)
+	  - Décret n°97-492 du 16 mai 1997 - art. 12 (Ab)
+	  - Arrêté du 17 septembre 1997 - art. 3 (V)
+	  - Décret n°97-1185 du 19 décembre 1997 - art. Annexe (V)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4322-4 (M)
+	  - Code de la santé publique - art. L4361-4 (M)
+	  - Code de la santé publique - art. L4362-3 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L494 (M)
+	  - Code de la santé publique - art. L505 (M)
+	  - Code de la santé publique - art. L510-2 (M)
+
+
 ### Titre 5 bis : Profession de diététicien
 
 ###### Article L510-8-1
@@ -23951,6 +24049,87 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L4372-1 (V)
+
+
+###### Article L510-9-1
+
+Peuvent exercer la profession de masseur kinésithérapeute, d'orthophoniste ou d'orthoptiste, sans posséder les diplômes,
+certificats, titres ou autorisations exigés respectivement par les articles L. 487 et L. 491, L. 504-2 et L. 504-4, les
+ressortissants d'un Etat membre des communautés européennes qui ont suivi avec succès une formation théorique et pratique
+post-secondaire d'une durée minimale de trois ans ou d'une durée équivalente à temps partiel, dans une université ou un
+établissement d'enseignement supérieur ou dans un autre établissement du même niveau de formation d'un Etat membre et qui
+justifient [*conditions*]:
+
+1° De diplômes, certificats ou autres titres permettant l'exercice de la profession dans l'Etat membre d'origine ou de
+provenance délivrés :
+
+a) Soit par l'autorité compétente de cet Etat et sanctionnant une formation acquise de façon prépondérante dans la
+Communauté ;
+
+b) Soit par un pays tiers, à condition que soit fournie une attestation émanant de l'autorité compétente de l'Etat membre qui
+a reconnu les diplômes, certificats ou autres titres certifiant que le titulaire de ces diplômes, certificats ou titres a une
+expérience professionnelle dans cet Etat de trois ans au moins ;
+
+2° Ou de l'exercice à plein temps de la profession pendant deux ans au moins au cours des dix années précédentes dans un Etat
+membre d'origine ou de provenance qui ne réglemente pas l'accès ou l'exercice de cette profession à condition que cet
+exercice soit attesté par l'autorité compétente de cet Etat membre.
+
+Lorsque la formation de l'intéressé porte sur des matières substantiellement différentes de celles qui figurent au programme
+des diplômes et certificats respectivement mentionnés par les articles L. 487, L. 504-2 et L. 504-4 ou lorsqu'une ou
+plusieurs des activités professionnelles dont l'exercice est subordonné auxdits diplômes et certificats ne sont pas
+réglementées de manière différente, le ministre chargé de la santé peut exiger que l'intéressé choisisse soit de se soumettre
+à une épreuve d'aptitude, soit d'accomplir un stage d'adaptation dont la durée ne peut excéder trois ans.
+
+Un décret en Conseil d'Etat détermine les mesures nécessaires à l'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°91-73 du 18 janvier 1991 - art. 5 () JORF 20 janvier 1991
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 3 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 4 (V)
+	  - TXT_ASSOCIE: Arrêté du 2 octobre 1991 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°91-1009 du 2 octobre 1991 - art. 6 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 3 (V)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 4 (V)
+	  - TXT_ASSOCIE: Arrêté du 13 décembre 1991 - art. 5 (V)
+
+	**Cité par**:
+
+	  - Décret n°91-1009 du 2 octobre 1991 - art. 3 (Ab)
+	  - Décret n°97-44 du 21 janvier 1997 - art. 14 (Ab)
+	  - Arrêté du 17 septembre 1997 - art. 3 (V)
+	  - Décret n°97-1185 du 19 décembre 1997 - art. Annexe (VT)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 5 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4321-4 (M)
+	  - Code de la santé publique - art. L4341-4 (M)
+	  - Code de la santé publique - art. L4342-4 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L487 (M)
+	  - Code de la santé publique - art. L491 (Ab)
+	  - Code de la santé publique - art. L504-2 (Ab)
+	  - Code de la santé publique - art. L504-4 (Ab)
 
 
 ### Titre 6 : Dispositions diverses
@@ -24419,6 +24598,56 @@ collectivité territoriale de Mayotte.*]
 
 	  - Code de la santé publique - art. L4211-6 (V)
 	  - Code de la santé publique - art. L4212-3 (V)
+
+
+###### Article L513-1
+
+Les essais non cliniques destinés à évaluer les propriétés et l'innocuité des médicaments à usage humain ou vétérinaire et
+des produits mentionnés à l'alinéa premier de l'article L. 658-11 doivent être conformes aux bonnes pratiques de laboratoire.
+
+Les bonnes pratiques de laboratoire doivent garantir la qualité et l'intégrité des résultats des essais. Elles concernent
+l'organisation du laboratoire et les conditions dans lesquelles ces essais sont prévus, réalisés et rapportés.
+
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°91-73 du 18 janvier 1991 - art. 3 () JORF 20 janvier 1991
+
+	**Cité par**:
+
+	  - Arrêté du 9 décembre 1996 - art. ANNEXE (V)
+	  - Code de la santé publique - art. L562-1 (M)
+	  - Code de la santé publique - art. L567-9 (Ab)
+	  - Code de la santé publique - art. L617-22-1 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5121-7 (M)
+	  - Code de la santé publique - art. L5121-7 (V)
+	  - Code de la santé publique - art. L5136-4 (Ab)
+	  - Code de la santé publique - art. L5141-4 (M)
+	  - Code de la santé publique - art. L5141-4 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L658-11 (M)
 
 
 ###### Article L514
@@ -26493,16 +26722,17 @@ diagnostic ou la modification de l'état physique ou physiologique, la restaurat
 fonctions organiques, est soumise aux dispositions prévues à l'alinéa 1er du présent article et au décret pris pour son
 application.
 
-La publicité ou la propagande, sous quelque forme que ce soit, relative aux préservatifs masculins en tant que moyen de
-prévention contre les maladies transmises par voie sexuelle [*mst*] est soumise aux dispositions prévues au premier alinéa du
-présent article et au décret pris pour son application.
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Cité par**:
 
@@ -26533,7 +26763,7 @@ présent article et au décret pris pour son application.
 
 	**Modifié par**:
 
-	  - Loi n°87-39 du 27 janvier 1987 - art. 21 () JORF 28 janvier 1987
+	  - Loi n°91-73 du 18 janvier 1991 - art. 7 () JORF 20 janvier 1991
 
 	**Nouveaux textes**:
 
@@ -26551,14 +26781,14 @@ présent article et au décret pris pour son application.
 
 ###### Article L552
 
-La publicité ou la propagande, sous quelque forme que ce soit, relative aux objets, appareils et méthodes, à l'exclusion des
-objets visés au troisième alinéa de l'article L. 551, présentés comme favorisant le diagnostic, la prévention ou le
-traitement des maladies, des affections relevant de la pathologie chirurgicale et des dérèglements physiologiques, le
-diagnostic ou la modification de l'état physique ou physiologique, la restauration, la correction ou la modification des
-fonctions organiques, peut être interdite par le ministère chargé de la santé lorsqu'il n'est pas établi que lesdits objets,
-appareils et méthodes possèdent les propriétés annoncées. Le ministre chargé de la santé peut aussi, après avis de la
-commission prévue à l'alinéa 2 du présent article, soumettre cette publicité ou propagande à l'obligation de mentionner les
-avertissements et précautions d'emplois nécessaires à l'information du consommateur [*condition*].
+La publicité ou la propagande, sous quelque forme que ce soit, relative aux objets, appareils et méthodes, présentés comme
+favorisant le diagnostic, la prévention ou le traitement des maladies, des affections relevant de la pathologie chirurgicale
+et des dérèglements physiologiques, le diagnostic ou la modification de l'état physique ou physiologique, la restauration, la
+correction ou la modification des fonctions organiques, peut être interdite par le ministère chargé de la santé lorsqu'il
+n'est pas établi que lesdits objets, appareils et méthodes possèdent les propriétés annoncées. Le ministre chargé de la santé
+peut aussi, après avis de la commission prévue à l'alinéa 2 du présent article, soumettre cette publicité ou propagande à
+l'obligation de mentionner les avertissements et précautions d'emplois nécessaires à l'information du consommateur
+[*condition*].
 
 L'interdiction est prononcée après avis d'une commission et après que le fabricant, importateur ou distributeur desdits
 objets et appareils ou le promoteur desdites méthodes aura été appelé à présenter ses observations. Elle prend effet trois
@@ -26569,16 +26799,21 @@ et aux agents de publicité ou de diffusion.
 Un décret en Conseil d'Etat déterminera les conditions d'application du présent article et notamment la composition et les
 modalités de fonctionnement de la commission prévue à l'alinéa précédent.
 
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Modifié par**:
 
-	  - Loi n°87-39 du 27 janvier 1987 - art. 21 () JORF 28 janvier 1987
+	  - Loi n°91-73 du 18 janvier 1991 - art. 7 () JORF 20 janvier 1991
 
 	**Nouveaux textes**:
 
@@ -26591,10 +26826,6 @@ modalités de fonctionnement de la commission prévue à l'alinéa précédent.
 	  - TXT_ASSOCIE: Code de la santé publique - art. L518 (M)
 	  - TXT_ASSOCIE: Code de la santé publique - art. L556 (Ab)
 	  - TXT_ASSOCIE: Code de la santé publique L518, L556 : DISPOSITIONS PENALES
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L551 (M)
 
 	**Cité par**:
 
@@ -26832,9 +27063,15 @@ Les inspecteurs de la pharmacie [*attributions*] contrôlent dans les officines,
 dépôts de médicaments en quelques mains qu'ils soient, l'exécution de toutes les prescriptions des lois et règlements qui se
 rapportent à l'exercice de la pharmacie.
 
-Ils constituent pour chaque établissement industriel ou commercial, fonctionnant sous la responsabilité d'un ou plusieurs
-pharmaciens, un dossier d'inspection dont la composition est fixée par arrêté ministériel et qui est déposé au siège de
-l'inspection divisionnaire de la santé [*lieu*].
+Ils contrôlent également la qualité des matières premières à usage pharmaceutique dans les établissements de fabrication et
+de distribution.
+
+Ils contrôlent, si nécessaire, la qualité des conditionnements à usage pharmaceutique en contact avec les médicaments.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
@@ -26845,8 +27082,12 @@ l'inspection divisionnaire de la santé [*lieu*].
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°91-73 du 18 janvier 1991 - art. 3 () JORF 20 janvier 1991
 
 	**Nouveaux textes**:
 
@@ -26863,7 +27104,49 @@ l'inspection divisionnaire de la santé [*lieu*].
 
 	**Anciens textes**:
 
-	  - Loi n°41-3890 1941-09-11 ART. 53
+	  - Loi n°41-3890 1941-09-11 art. 53
+
+
+###### Article L562-1
+
+Les pharmaciens inspecteurs de la santé contrôlent la conformité aux bonnes pratiques de laboratoire, mentionnées à l'article
+L. 513-1, des essais non cliniques et des établissements où ils sont réalisés, lorsque ces essais portent sur des médicaments
+ou des produits à usage humain énoncés aux articles L. 511 et L. 658-11, ainsi que sur des substances ou produits destinés à
+entrer dans leur composition.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
+collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°91-73 du 18 janvier 1991 - art. 3 () JORF 20 janvier 1991
+
+	**Abrogé par**:
+
+	  - Loi n°93-5 1993-01-04 art. 16 2° JORF 5 janvier 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L511 (M)
+	  - Code de la santé publique - art. L513-1 (Ab)
+	  - Code de la santé publique - art. L658-11 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5425-1 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L793-10 (Ab)
 
 
 ###### Article L563
@@ -31227,6 +31510,43 @@ au code de la consommation correspondantes.*]
 	  - Code de la santé publique - art. L5414-2 (M)
 
 
+###### Article L617-22-1
+
+Les pharmaciens inspecteurs de la santé et les vétérinaires inspecteurs contrôlent la conformité aux bonnes pratiques de
+laboratoire, mentionnées à l'article L. 513-1 du présent code, des essais non cliniques et des établissements où ils sont
+réalisés, lorsque ces essais portent sur des médicaments ou produits à usage vétérinaire, ainsi que sur des substances ou
+produits destinés à entrer dans leur composition.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°91-73 du 18 janvier 1991 - art. 3 () JORF 20 janvier 1991
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°93-949 1993-07-26 art. 4
+	  - TXT_ASSOCIE: Code de la santé publique L617-23 : DISPOSITIONS PENALES
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L513-1 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5146-3 (Ab)
+
+
 ##### Section 9 : Dispositions pénales et mesures administratives
 
 ###### Article L617-23
@@ -34253,9 +34573,10 @@ L'homologation n'exonère pas le fabricant ou le titulaire de l'homologation de 
 encourir dans les conditions du droit commun en raison de la fabrication ou de la mise sur le marché du produit ou appareil
 concerné.
 
-Un décret en Conseil d'Etat fixe les conditions relatives à l'obtention, à l'usage et au maintien de l'homologation ainsi que
-les règles de procédure et la composition de la commission. Il détermine les dispositions transitoires applicables aux
-produits et appareils mis sur le marché avant l'entrée en vigueur de la procédure d'homologation.
+Un décret en Conseil d'Etat fixe les conditions relatives à l'obtention, à la durée, à l'usage et au maintien de
+l'homologation ainsi que les règles de procédure et la composition de la commission. Il détermine les dispositions
+transitoires applicables aux produits et appareils mis sur le marché avant l'entrée en vigueur de la procédure
+d'homologation.
 
 En cas d'infraction aux dispositions du présent article ou des textes pris pour son application, l'autorité administrative
 peut ordonner la suspension de la commercialisation et le retrait des produits ou appareils commercialisés [*sanctions*].
@@ -34263,16 +34584,17 @@ peut ordonner la suspension de la commercialisation et le retrait des produits o
 Ne sont pas soumis aux dispositions du présent article les produits et appareils qui font l'objet de dispositions spécifiques
 du présent code.
 
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Loi n°87-575 du 24 juillet 1987 - art. 13 () JORF 25 juillet 1987
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
 
 	**Liens**:
 
@@ -34282,7 +34604,6 @@ du présent code.
 	**Cité par**:
 
 	  - Décret n°90-899 du 1 octobre 1990 - art. 2 (V)
-	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 48 (Ab)
 	  - Arrêté du 19 avril 1994 - art. Annexe (M)
 	  - Décret n°95-292 du 16 mars 1995 - art. 5 (Ab)
 	  - Arrêté du 10 mai 1995 - art. 1 (V)
@@ -34290,6 +34611,11 @@ du présent code.
 	  - Code de la santé publique - art. L665-2 (Ab)
 	  - Code de la santé publique - art. R5274 (Ab)
 	  - Code de la santé publique - art. R5277-1 (Ab)
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 48 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°91-73 du 18 janvier 1991 - art. 6 () JORF 20 janvier 1991
 
 
 ## Livre 6 : Utilisation thérapeutique de produits d'origine humaine
@@ -36293,9 +36619,9 @@ et les attributions de cette commission sont fixées par décret.
 ###### Article L760
 
 Sous réserve des accords ou conventions susceptibles d'être passés avec des régimes ou des organismes d'assurance maladie ou
-des établissements hospitaliers publics, les personnes physiques et les sociétés et organismes qui exploitent un laboratoire
-d'analyses de biologie médicale ne peuvent consentir à des tiers, sous quelque forme que ce soit, des ristournes pour les
-analyses ou examens dont ils sont chargés [*interdiction*].
+des établissements hospitaliers publics ou privés, les personnes physiques et les sociétés et organismes qui exploitent un
+laboratoire d'analyses de biologie médicale ne peuvent consentir à des tiers, sous quelque forme que ce soit, des ristournes
+pour les analyses ou examens dont ils sont chargés [*interdiction*].
 
 Ils ne peuvent passer un accord ou une convention accordant à un tiers la totalité ou une quote-part des revenus provenant de
 l'activité du laboratoire d'analyses de biologie médicale.
@@ -36312,18 +36638,10 @@ laboratoire qui a effectué ces analyses.
 
 **Liens relatifs à cet article**
 
-	**Anciens textes**:
-
-	  - Décret n°1939-11-29 ART. 21
-
 	**Codifié par**:
 
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Créé par**:
-
-	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
 
 	**Cité par**:
 
@@ -36333,11 +36651,19 @@ laboratoire qui a effectué ces analyses.
 	  - Décret n°94-1049 du 2 décembre 1994 - art. 4 (Ab)
 	  - Code de la santé publique - art. L761-17 (Ab)
 
+	**Modifié par**:
+
+	  - Loi n°91-73 du 18 janvier 1991 - art. 15 () JORF 20 janvier 1991
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique - art. L761-17 (Ab)
 	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
 	  - TXT_ASSOCIE: Code de la santé publique L761-17 : DISPOSITIONS PENALES
+
+	**Anciens textes**:
+
+	  - Décret n°1939-11-29 ART. 21
 
 
 ##### Section 2 : Dispositions applicables aux directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale.
@@ -36855,6 +37181,9 @@ ne peuvent faire l'objet d'un compte rendu écrit ;
 d'analyses de biologie médicale et dans les conditions fixées par un décret en Conseil d'Etat, des actes d'anatomie et de
 cytologie pathologiques.
 
+Cependant, l'article L. 759 du code de la santé publique est applicable à ceux de ces médecins qui effectuent les actes de
+cytogénétique en vue d'établir un diagnostic prénatal relatif à l'enfant à naître.
+
 **Liens relatifs à cet article**
 
 	**Liens**:
@@ -36873,7 +37202,7 @@ cytologie pathologiques.
 
 	**Modifié par**:
 
-	  - Loi n°87-39 du 27 janvier 1987 - art. 28 () JORF 28 janvier 1987
+	  - Loi n°91-73 du 18 janvier 1991 - art. 11 () JORF 20 janvier 1991
 
 	**Cité par**:
 
@@ -36888,6 +37217,7 @@ cytologie pathologiques.
 
 	**Cite**:
 
+	  - Code de la santé publique - art. L759 (M)
 	  - Code de la santé publique - art. L761-13 (M)
 	  - Code de la santé publique - art. L761-14 (M)
 
