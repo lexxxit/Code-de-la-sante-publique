@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1962-03-07
+Version Consolidée au 1962-04-19
 
 # Partie législative ancienne
 
@@ -35764,6 +35764,76 @@ Le silence gardé par le préfet à l'expiration du délai de trois mois équiva
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5125-13 (V)
+
+
+##### Paragraphe 6 : Produits officinaux divisés
+
+###### Article R5098-1
+
+Les produits visés à l'avant-dernier alinéa de l'article L. 569, c'est-à-dire les drogues simples, les produits chimiques et
+les préparations stables décrites par le Codex ou par le formulaire national, peuvent être préparés et divisés à l'avance par
+un fabricant et mis en vente par le pharmacien d'officine, sous les réserves suivantes :
+
+1° Ils doivent figurer sur une liste spéciale établie par arrêté du ministre de la santé publique et de la population ; leur
+mention sur cette liste entraîne leur inscription à la nomenclature du tarif pharmaceutique national.
+
+2° L'étiquetage du récipient qui les renferme ainsi que celui de leur emballage éventuel doit respecter, outre les règles
+prévues par l'article R. 5094, les dispositions fixées ci-après :
+
+a) La dénomination du produit ne peut être que celle du Codex ou du formulaire national.
+
+b) Le nom et l'adresse du pharmacien sont ceux du pharmacien d'officine qui le débite. En aucun cas ce nom ne peut suivre la
+dénomination du produit ou y être accolé.
+
+c) L'étiquette du récipient ainsi que celle de l'emballage éventuel doivent porter le numéro de l'autorisation ministérielle
+d'ouverture de l'établissement fabricant, à l'exclusion du nom de celui-ci, et le numéro du contrôle effectué en application
+des dispositions de l'article R. 5115-7.
+
+d) Dans le cas de solutés injectables, la voie d'administration doit être précisée.
+
+e) Aucune mention autre que celles prévues à l'article R. 5094 ou celles limitativement énumérées par le présent article,
+notamment aucune indication thérapeutique, ne doit figurer sur les récipients ou leur emballage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L569 (M)
+	  - Code de la santé publique - art. R5094 (M)
+	  - Code de la santé publique - art. R5115-7 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-60 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°62-509 1962-04-13 art. 1 JORF 19 avril 1962
+
+
+###### Article R5098-2
+
+Les produits officinaux divisés doivent satisfaire aux exigences du Codex.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-61 (Ab)
+
+	**Créé par**:
+
+	  - Décret n°62-509 1962-04-13 art. 1 JORF 19 avril 1962
 
 
 ##### Section 2 : Exercice personnel de la profession
