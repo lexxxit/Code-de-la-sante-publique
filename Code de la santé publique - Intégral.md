@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1994-07-21
+Version Consolidée au 1994-07-22
 
 # Partie législative ancienne
 
@@ -97050,6 +97050,123 @@ restituée.
 
 
 # Partie réglementaire ancienne - Décrets simples
+
+## Livre VI : Utilisation thérapeutique de produits d'origine humaine
+
+### Chapitre Ier : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés
+
+###### Article D666-3-1
+
+Le don de sang ou de composants du sang ne peut donner lieu à aucune rémunération, directe ou indirecte [*gratuit*].
+
+Sont notamment prohibés à ce titre, outre tout paiement en espèces, toute remise de bons d'achat, coupons de réduction et
+autres documents permettant d'obtenir un avantage consenti par un tiers, ainsi que tout don d'objet de valeur, toute
+prestation ou tout octroi d'avantages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D1221-1 (V)
+
+
+###### Article D666-3-2
+
+La rémunération versée par l'employeur au donneur, au titre de l'exercice de son activité professionnelle, peut être
+maintenue pendant la durée consacrée au don sans constituer un paiement au sens de l'article L. 671-3, pour autant que la
+durée de l'absence n'excède pas le temps nécessaire au déplacement entre lieu de travail et lieu de prélèvement et, le cas
+échéant, au retour, ainsi qu'à l'entretien et aux examens médicaux, aux opérations de prélèvement et à la période de repos et
+de collation jugée médicalement nécessaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L671-3 (T)
+
+
+###### Article D666-3-3
+
+Sont également autorisées la remise au donneur des marques de reconnaissance prévues par la réglementation en vigueur ainsi
+que l'offre d'une collation consécutive au don.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D1221-3 (V)
+
+
+###### Article D666-3-4
+
+Est autorisé le remboursement aux donneurs de sang, par les établissements de transfusion sanguine, des frais de transports
+exposés lors du don, à l'exclusion de tout remboursement forfaitaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. D1221-4 (V)
+
+
+###### Article D666-3-5
+
+L'Agence française du sang, instituée par l'article L. 667-4, est chargée de veiller au respect des dispositions qui
+précèdent en vertu des missions et des compétences qu'elle tient des articles L. 667-5 et L. 667-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°94-611 du 20 juillet 1994 - art. 1 () JORF 22 juillet 1994
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L667-4 (M)
+	  - Code de la santé publique - art. L667-5 (M)
+	  - Code de la santé publique - art. L667-9 (M)
+
 
 ## Livre VII : Etablissements de santé, thermo-climatisme, laboratoires
 
