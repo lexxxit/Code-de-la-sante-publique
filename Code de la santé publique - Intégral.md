@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1995-02-26
+Version Consolidée au 1995-03-04
 
 # Partie législative ancienne
 
@@ -58408,16 +58408,23 @@ prescriptions réglementaires en vigueur ou qu'il n'est plus en mesure d'assurer
 	  - Code de la santé publique - art. R1341-9 (V)
 
 
+### Titre 5 : Dossier de suivi médical et carnet médical
+
+#### Chapitre 1 : Dossier de suivi médical
+
 ###### Article R145-6
 
-L'organisme agréé mentionné à l'article L. 145-2, le centre antipoison mentionné à l'article R. 145-4, les autres centres
-antipoison et les autorités administratives prennent toutes dispositions utiles pour que les informations qui leur ont été
-signalées comme relevant du secret industriel et commercial ne soient accessibles qu'aux personnes qu'ils ont désignées pour
-en assurer la garde et qui sont astreintes au secret professionnel.
+Le médecin généraliste mentionné au premier alinéa de l'article L. 145-7 doit, quel que soit son mode d'exercice, être
+inscrit en cette qualité à un tableau de l'ordre des médecins ou être dispensé de cette inscription en tant que médecin
+appartenant aux cadres actifs du service de santé des armées.
 
-**Nota:**
+Le médecin chargé de la tenue du dossier de suivi médical d'un patient assure la synthèse de l'ensemble des informations
+médicales mentionnées à l'article R. 145-9 et éclaire la démarche de soins du patient, en vue notamment d'éviter les risques
+d'interaction médicamenteuse et de redondance des actes et prescriptions.
 
-[*Nota - Il y a deux articles R. 145-6 en vigueur.*]
+Pour la coordination du suivi médical du patient, il est en liaison, dans le respect des règles déontologiques, avec les
+autres professionnels de santé dispensant des soins au patient, et notamment avec les autres médecins auxquels il transmet
+toutes informations utiles sur l'état de celui-ci.
 
 **Liens relatifs à cet article**
 
@@ -58428,16 +58435,16 @@ en assurer la garde et qui sont astreintes au secret professionnel.
 
 	**Créé par**:
 
-	  - Décret n°94-22 1994-01-10 art. 1 JORF 11 janvier 1994
+	  - Décret n°95-234 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
 
-	**Transféré par**:
+	**Abrogé par**:
 
-	  - Décret n°95-646 du 9 mai 1995 - art. 1 (V) JORF 10 mai 1995
+	  - Décret n°96-925 1996-10-18 art. 3 2° JORF 20 octobre 1996
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L145-2 (Ab)
-	  - Code de la santé publique - art. R145-4 (M)
+	  - Code de la santé publique - art. L145-7 (Ab)
+	  - Code de la santé publique - art. R145-9 (Ab)
 
 	**Nouveaux textes**:
 
@@ -58446,28 +58453,19 @@ en assurer la garde et qui sont astreintes au secret professionnel.
 
 ###### Article R145-7
 
-Les dispositions prévues à l'article R. 145-2 à R. 145-6 ne s'appliquent pas :
+Les médecins, les chirurgiens-dentistes et les sages-femmes exerçant hors des établissements de santé, publics ou privés,
+communiquent au médecin chargé de la tenue du dossier de suivi médical du patient une copie ou une synthèse des informations
+médicales qu'ils détiennent et dont ils estiment utile qu'elles soient insérées dans ce dossier, telles que comptes rendus ou
+résultats d'examens cliniques et paracliniques, comptes rendus des actes et des interventions, prescriptions et conclusions
+s'y rapportant.
 
-1° Aux médicaments à usage humain ou vétérinaire tels que définis aux articles L. 511 et L. 607 ;
+Lorsqu'un patient est hospitalisé, les établissements de santé, publics ou privés, satisfont à l'obligation prévue par
+l'article L. 145-8 en communiquant, à la sortie du patient, au médecin chargé de la tenue du dossier de suivi médical, dans
+les conditions prévues à l'article R. 710-2-5, les documents énumérés au II de l'article R. 710-2-1.
 
-2° Aux produits cosmétiques et d'hygiène corporelle tels que définis à l'article L. 658-1 ;
-
-3° Aux insecticides et acaricides destinés à être appliqués sur l'homme et aux produits destinés à l'entretien ou à
-l'application des lentilles de contact visés à l'article L. 658-11 ;
-
-4° Aux produits antiparasitaires à usage agricole définis par la loi du 2 novembre 1943 validée et modifiée relative à
-l'organisation du contrôle des produits antiparasitaires à usage agricole ;
-
-5° Aux denrées alimentaires et leurs composants ;
-
-6° Aux aliments pour animaux et leurs composants ;
-
-7° Aux déchets visés par la loi n° 75-633 du 15 juillet 1975 relative à l'élimination des déchets et à la récupération des
-matériaux.
-
-**Nota:**
-
-[*Nota - Il y a deux articles R. 145-7 en vigueur.*]
+Lorsqu'un patient est reçu en consultation externe dans un établissement de santé, l'établissement communique au médecin en
+charge de la tenue du dossier, dans les conditions prévues au deuxième alinéa ci-dessus, les informations qui sont
+mentionnées au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -58476,23 +58474,19 @@ matériaux.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Cite**:
-
-	  - Loi n°75-633 1975-07-15
-	  - Code de la santé publique - art. L511 (M)
-	  - Code de la santé publique - art. L607 (M)
-	  - Code de la santé publique - art. L658-1 (M)
-	  - Code de la santé publique - art. L658-11 (M)
-	  - Code de la santé publique - art. R145-2 (M)
-	  - Loi n°1943-11-02
-
 	**Créé par**:
 
-	  - Décret n°94-22 1994-01-10 art. 1 JORF 11 janvier 1994
+	  - Décret n°95-234 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
 
-	**Transféré par**:
+	**Abrogé par**:
 
-	  - Décret n°95-646 du 9 mai 1995 - art. 1 (V) JORF 10 mai 1995
+	  - Décret n°96-925 1996-10-18 art. 3 2° JORF 20 octobre 1996
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L145-8 (Ab)
+	  - Code de la santé publique - art. R710-2-1 (M)
+	  - Code de la santé publique - art. R710-2-5 (M)
 
 	**Nouveaux textes**:
 
@@ -58502,6 +58496,215 @@ matériaux.
 
 	  - Code de la santé publique - art. R145-8 (Ab)
 	  - Code de la santé publique - art. R145-9 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Conseil d'Etat n°168008 1996-07-03 : le conseil d'Etat a annulé le 2° alinéa de l'art. R145-7 inséré par le décret 95-234 du 1er mars 1995
+
+
+###### Article R145-8
+
+La transmission au médecin chargé de la tenue du dossier de suivi médical des différentes informations médicales mentionnées
+à l'article R. 145-7 doit être datée et signée par le praticien ; elle est faite dans le respect des règles déontologiques
+fixées par les décrets n° 67-671 du 22 juillet 1967, n° 79-506 du 28 juin 1979 et n° 91-779 du 8 août 1991, et notamment dans
+le respect des intérêts du patient qui peut, le cas échéant, s'opposer à la transmission de certaines de ces informations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Décret n°67-671 1967-07-22
+	  - Décret n°79-506 1979-06-28
+	  - Décret n°91-779 1991-08-08
+	  - Code de la santé publique - art. R145-7 (T)
+
+	**Créé par**:
+
+	  - Décret n°95-234 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°96-925 1996-10-18 art. 3 2° JORF 20 octobre 1996
+
+
+###### Article R145-9
+
+Le dossier de suivi médical comporte les éléments nécessaires à l'identification du patient ; il contient, outre les
+informations décrites à l'article R. 145-7, la mention des actes et prescriptions effectués par le médecin chargé de la tenue
+de ce dossier, ainsi que ses conclusions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-234 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°96-925 1996-10-18 art. 3 2° JORF 20 octobre 1996
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R145-6 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R145-7 (T)
+
+
+###### Article R145-10
+
+Un arrêté du ministre chargé de la santé fixe, après avis du Conseil national de l'ordre des médecins :
+
+1° Les modalités de transmission du dossier à un autre médecin choisi par le patient en cas de cessation définitive
+d'activité ou de décès du médecin qui en assurait la tenue ;
+
+2° Les modalités d'accès au dossier d'un médecin choisi par le patient en cas de cessation temporaire d'activité du médecin
+chargé de sa tenue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-234 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°96-925 1996-10-18 art. 3 2° JORF 20 octobre 1996
+
+
+#### Chapitre 2 : Carnet médical
+
+###### Article R145-11
+
+Le modèle du carnet médical délivré, en application de l'article L. 145-9, à tout patient pour lequel est établi un dossier
+de suivi médical est fixé par arrêté des ministres chargés de la santé et de la sécurité sociale.
+
+Le carnet comporte les éléments nécessaires à l'identification du patient à l'exclusion de son nom patronymique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-234 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°96-925 1996-10-18 art. 3 2° JORF 20 octobre 1996
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L145-9 (Ab)
+
+
+###### Article R145-12
+
+Lorsque le patient est assuré social ou ayant droit d'un assuré social, le carnet médical lui est délivré, conformément à
+l'article R. 161-8-4 du code de la sécurité sociale, par l'organisme d'assurance maladie dont il relève.
+
+Lorsque le patient n'est pas assuré social ou ayant droit d'un assuré social, le carnet lui est délivré, par l'intermédiaire
+du médecin qui en fait la demande, par la caisse primaire d'assurance maladie dans la circonscription de laquelle est
+installé le cabinet du médecin.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-234 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°96-925 1996-10-18 art. 3 2° JORF 20 octobre 1996
+
+	**Cite**:
+
+	  - Code de la sécurité sociale. - art. R161-8-4 (Ab)
+
+
+###### Article R145-13
+
+Le visa du carnet médical par le médecin chargé de la tenue du dossier de suivi médical du patient et par les autres médecins
+qui dispensent leurs soins à ce patient, prévu par l'article L. 145-9, comporte la date des soins, le cachet et la signature
+du praticien.
+
+Les informations médicales utiles au suivi du patient et à la coordination des soins qui lui sont dispensés, notamment la
+mention des actes effectués et celle des examens et traitements prévus à l'article L. 324-1 du code de la sécurité sociale,
+sont portées sur le carnet médical par chacun de ces médecins dans le respect des règles déontologiques et avec l'accord du
+patient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-234 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°96-925 1996-10-18 art. 3 2° JORF 20 octobre 1996
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L145-9 (Ab)
+	  - Code de la sécurité sociale. - art. L324-1 (M)
+
+
+###### Article R145-14
+
+I. - Le carnet médical d'un patient hospitalisé est rempli :
+
+1° Dans les établissements publics de santé et les établissements de santé privés participant à l'exécution du service public
+hospitalier, par le praticien responsable de chaque structure médicale ayant pris en charge l'intéressé ou par tout autre
+membre du corps médical de ladite structure, désigné par le praticien responsable ;
+
+2° Dans les autres établissements de santé, par le ou les médecins ayant pris en charge l'intéressé.
+
+II. - Le carnet médical d'un patient reçu dans un établissement de santé en consultation externe est rempli par le médecin
+consulté.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-234 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°96-925 1996-10-18 art. 3 2° JORF 20 octobre 1996
 
 
 ## Livre 2 bis : Protection des personnes qui se prêtent à des recherches biomédicales
@@ -104623,6 +104826,451 @@ réception. Elles doivent être motivées.
 
 
 #### Chapitre 6 : Expérimentation et dispositions diverses
+
+##### Section 1 : Expérimentations
+
+##### Sous-section 1 : Régime expérimental relatif à l'autorisation d'installation d'équipements matériels lourds
+
+###### Article R716-1
+
+Dans la ou les régions sanitaires déterminées par les arrêtés interministériels prévus à l'article L. 716-1, la personne
+physique ou morale qui souhaite passer un contrat en vue d'être autorisée à exploiter, à titre expérimental, un équipement
+matériel lourd défini aux articles L. 712-19 et R. 712-2 et figurant sur la liste établie par ces arrêtés adresse sa demande
+au préfet de région en l'assortissant du budget prévionnel d'exploitation de cet équipement et, sauf dans le cas mentionné au
+II de l'article R. 716-5, de propositions tendant à la compensation intégrale des dépenses résultant pour les organismes
+d'assurance maladie de la mise en service de l'équipement en cause.
+
+Le dossier doit comprendre en outre :
+
+1° Pour les établissements publics de santé : l'avis de la commission médicale et du conseil d'administration de
+l'établissement ;
+
+2° Pour les établissements de santé privés : l'avis de la commission médicale mentionnée à l'article L. 715-8 ou de la
+conférence médicale mentionnée à l'article L. 715-12.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-233 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-19 (M)
+	  - Code de la santé publique - art. L715-12 (M)
+	  - Code de la santé publique - art. L715-8 (M)
+	  - Code de la santé publique - art. L716-1 (M)
+	  - Code de la santé publique - art. R712-2 (M)
+	  - Code de la santé publique - art. R716-5 (Ab)
+
+
+###### Article R716-2
+
+La demande de passation du contrat est instruite par :
+
+1° Le préfet du département et la caisse d'assurance maladie mentionnée à l'article R. 174-1 du code de la sécurité sociale
+lorsque cette demande émane d'un établissement public de santé, d'un établissement de santé privé participant au service
+public hospitalier ou d'un des établissements mentionnés aux articles L. 162-23 à L. 162-25 du même code ;
+
+2° Le préfet de région et la caisse régionale d'assurance maladie, en liaison avec les autres organismes d'assurance maladie,
+dans les autres cas.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-233 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-3 (Ab)
+
+	**Cite**:
+
+	  - Code de la sécurité sociale R174-1, L162-23 à L162-25
+	  - Code de la sécurité sociale. - art. R174-1 (M)
+
+
+###### Article R716-3
+
+Après concertation avec le demandeur et les organismes d'assurance maladie mentionnés à l'article R. 716-2 et s'il apparaît
+que l'exploitation de l'équipement est de nature à mieux répondre aux besoins de la population et à contribuer à la maîtrise
+des dépenses de santé, le préfet de région transmet, d'une part, aux ministres chargés de la santé et de la sécurité sociale
+et, d'autre part, à la Caisse nationale d'assurance maladie des travailleurs salariés, à la caisse centrale de mutualité
+sociale agricole et à la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non
+agricoles le projet de contrat d'expérimentation prévu par l'article L. 716-1, accompagné de tous documents et avis
+permettant aux éventuels cocontractants d'apprécier l'opportunité de cette expérimentation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-233 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L716-1 (M)
+	  - Code de la santé publique - art. R716-2 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-4 (Ab)
+
+
+###### Article R716-4
+
+I. - Le contrat ne peut être conclu que s'il comporte les stipulations prévues aux articles R. 716-5 à R. 716-7 et si
+l'équipement matériel lourd satisfait aux conditions techniques de fonctionnement mentionnées au 3° de l'article L. 712-9.
+
+II. - Le contrat est conclu entre le demandeur, les ministres chargés de la santé et de la sécurité sociale et deux au moins
+des caisses mentionnées à l'article R. 716-3, dont la Caisse nationale d'assurance maladie des travailleurs salariés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-233 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-9 (M)
+	  - Code de la santé publique - art. R716-3 (Ab)
+	  - Code de la santé publique R716-5 à R716-7, L712-9, R716-3
+
+
+###### Article R716-5
+
+I. - Lorsque le contrat a pour objet d'installer un équipement matériel lourd autre que ceux qui sont définis au II ci-après,
+il prévoit :
+
+1° La suppression de lits, de places, d'équipement(s) matériel(s) lourd(s) ou d'activités de soins mentionnées à l'article
+R.712-2, ayant fait l'objet d'une autorisation en application de l'article L. 712-8, ou, à défaut, la réduction de
+prestations en nature à la charge des organismes d'assurance maladie, permettant de compenser intégralement les dépenses
+résultant, pour ces organismes, de la mise en service de l'équipement ;
+
+2° Le calendrier de mise en oeuvre des mesures prévues au 1°.
+
+La suppression de lits, de places, d'équipement(s) matériel(s) lourd(s) ou d'activités de soins, mentionnée ci-dessus, est
+subordonnée à la condition que les besoins de la population, tels qu'ils sont définis par la carte sanitaire, demeurent
+satisfaits.
+
+II. - Lorsque le contrat a pour objet l'installation d'un équipement matériel lourd ayant un caractère innovant du fait des
+techniques mises en oeuvre ou de l'utilisation nouvelle de techniques existantes, il fixe les modalités particulières
+d'exploitation et de tarification et comporte une évaluation prévisionnelle des incidences financières de celles-ci sur le
+montant des dépenses à la charge des organismes d'assurance maladie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-233 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-8 (M)
+	  - Code de la santé publique - art. R712-2 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-1 (Ab)
+	  - Code de la santé publique - art. R716-6 (Ab)
+	  - Code de la santé publique - art. R716-7 (Ab)
+	  - Code de la santé publique - art. R716-8 (Ab)
+
+
+###### Article R716-6
+
+Sans préjudice des dispositions des articles L. 710-4 et L. 710-6, le contrat doit comporter en annexe un protocole
+d'évaluation financière et médicale de l'utilisation de l'équipement matériel lourd permettant de mesurer, outre la qualité
+des examens de diagnostic et des soins dispensés, soit le caractère effectif de la compensation obtenue par les mesures
+mentionnées au I de l'article R. 716-5, soit les avantages effectifs de l'équipement matériel lourd de caractère innovant en
+ce qui concerne tant les modalités d'exploitation que la tarification.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-233 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L710-4 (M)
+	  - Code de la santé publique - art. L710-6 (Ab)
+	  - Code de la santé publique - art. R716-5 (Ab)
+	  - Code de la santé publique L710-4, L710-6, annexe, R716-5
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-7 (Ab)
+
+
+###### Article R716-7
+
+Le contrat fixe les obligations de chacun des cocontractants et doit notamment prévoir :
+
+1° Que l'exploitant de l'équipement matériel lourd adressera aux cocontractants, qui lui feront part de leurs observations,
+un rapport annuel d'évaluation établi sur la base du protocole mentionné à l'article R. 716-6 ;
+
+2° Que les organismes d'assurance maladie fourniront aux services de l'Etat les éléments leur permettant de vérifier que
+l'exécution du contrat n'entraîne pas de charges supplémentaires au titre du fonctionnement d'autres installations,
+équipements matériels lourds ou établissements de santé existant dans la même région ou groupe de régions sanitaires ;
+
+3° Que dans le cas où la compensation intégrale prévue au I de l'article R. 716-5 ne peut pas être réalisée dès la mise en
+service de l'équipement matériel lourd, cette compensation doit être globalement obtenue au plus tard à la fin de la deuxième
+année suivant l'installation de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-233 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R716-5 (Ab)
+	  - Code de la santé publique - art. R716-6 (Ab)
+
+
+###### Article R716-8
+
+La conclusion du contrat vaut autorisation de l'équipement matériel lourd, sous réserve de la visite de conformité, prévue à
+l'article L. 712-12, à l'occasion de laquelle est vérifiée, s'il y a lieu, la suppression des lits, places, équipements et
+activités de soins mentionnés au I de l'article R. 716-5.
+
+L'équipement ainsi autorisé est inscrit à l'inventaire des installations mentionné à l'article R. 712-3, sauf s'il s'agit
+d'un équipement défini au II de l'article R. 716-5.
+
+Le Comité national de l'organisation sanitaire et sociale est informé de la conclusion du contrat ; le comité régional de
+l'organisation sanitaire et sociale est également informé lorsque le contrat porte sur les équipements dont l'autorisation
+relève de la compétence du préfet de région.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-233 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-12 (M)
+	  - Code de la santé publique - art. R712-3 (M)
+	  - Code de la santé publique - art. R716-5 (Ab)
+
+
+###### Article R716-9
+
+Les lits, places, activités de soins ou équipements matériels lourds supprimés font l'objet, à la date de mise en service de
+l'équipement, d'un arrêté de retrait d'autorisation pris par le préfet de région, ou par le ministre chargé de la santé en
+application du deuxième alinéa de l'article L. 712-6.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-233 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-6 (M)
+
+
+###### Article R716-10
+
+La durée du contrat est égale à la durée de validité de l'autorisation afférente à l'équipement matériel lourd en cause,
+telle qu'elle est fixée par l'article R. 712-48.
+
+A défaut d'installation de l'équipement matériel lourd dans les deux ans suivant la signature du contrat, celui-ci est
+résilié de plein droit.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-233 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R712-48 (M)
+
+
+###### Article R716-11
+
+L'autorisation d'installation de l'équipement matériel lourd est indissociable de l'exécution du contrat. Elle ne peut faire
+l'objet d'une cession.
+
+L'exploitant peut résilier le contrat à tout moment. Dans ce cas, l'autorisation est retirée dans les conditions prévues au
+second alinéa de l'article R. 716-13.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-233 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R716-13 (Ab)
+
+
+###### Article R716-12
+
+A l'expiration du contrat, les dispositions du présent code relatives au renouvellement de l'autorisation sont applicables à
+l'équipement matériel lourd autorisé à titre expérimental.
+
+Si le renouvellement de l'autorisation est accordé, l'équipement matériel lourd est inscrit à l'inventaire des installations
+mentionné à l'article R. 712-3, dans le cas où il ne l'avait pas été.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-233 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R712-3 (M)
+
+
+###### Article R716-13
+
+S'il apparaît que l'exploitant ne respecte pas, en tout ou en partie, ses engagements, le contrat peut être résilié à
+l'initiative de l'un ou l'autre des autres signataires du contrat à partir du premier jour suivant la période de trois ans
+prévue au cinquième alinéa de l'article L. 716-1.
+
+Dans ce cas, l'autorisation est retirée par décision ministérielle notifiée à l'exploitant et aux organismes d'assurance
+maladie, qui devront cesser le paiement des actes liés au fonctionnement de l'équipement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-233 du 1 mars 1995 - art. 1 () JORF 4 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2005-840 2005-07-20 art. 4 1° JORF 26 juillet 2005
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L716-1 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R716-11 (Ab)
+
 
 ##### Section 2 : Dispositions particulières à l'Assistance publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'Assistance publique de Marseille et aux établissements publics nationaux
 
