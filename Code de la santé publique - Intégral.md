@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1990-01-25
+Version Consolidée au 1990-03-28
 
 # Partie législative ancienne
 
@@ -52553,7 +52553,9 @@ Ne sont pas soumis aux dispositions de la présente section [*hors champ d'appli
 substances classées à des doses ou concentrations trop faibles pour justifier qu'ils soient soumis auxdites dispositions ;
 les formes ou voies d'administration de ces médicaments ou produits, leur composition, les doses ou concentrations maximales
 de substances qu'ils renferment sont fixées par arrêtés du ministre chargé de la santé pris après avis de l'Académie
-nationale de pharmacie et de la commission prévue à l'article R. 5140 ;
+nationale de pharmacie et de la commission prévue à l'article R. 5140 ainsi que de la commission des stupéfiants et des
+psychotropes prévue à l'article R. 5182 lorsqu'il s'agit de médicaments ou produits stupéfiants ou psychotropes ou
+susceptibles d'être utilisés pour leur effet psychoactif.
 
 2° Les médicaments mentionnés à l'article R. 5190 qui sont destinés à la médecine vétérinaire et renferment des substances
 classées à des doses ou concentrations trop faibles pour justifier qu'ils soient soumis auxdites dispositions ; les formes ou
@@ -52567,10 +52569,6 @@ l'agriculture pris après avis de la commission constituée à cet effet.
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Modifié par**:
-
-	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 	**Liens**:
 
@@ -52590,6 +52588,10 @@ l'agriculture pris après avis de la commission constituée à cet effet.
 	  - Code de la santé publique - art. R5194 (M)
 	  - Code de la santé publique - art. R5217 (Ab)
 
+	**Modifié par**:
+
+	  - Décret n°90-275 du 27 mars 1990 - art. 1 () JORF 28 mars 1990
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5132-2 (V)
@@ -52597,6 +52599,7 @@ l'agriculture pris après avis de la commission constituée à cet effet.
 	**Cite**:
 
 	  - Code de la santé publique - art. R5140 (M)
+	  - Code de la santé publique - art. R5182 (M)
 	  - Code de la santé publique - art. R5190 (M)
 
 
@@ -53902,7 +53905,11 @@ qui relèvent de la liste II.
 ###### Article R5208
 
 Une prescription de médicaments ou produits relevant des listes I et II ne peut être faite pour une durée de traitement
-supérieure à douze mois.
+supérieure à douze mois. Toutefois, pour des motifs de santé publique, pour certains médicaments ou produits, cette durée
+peut être réduite par arrêté du ministre de la santé après avis des conseils nationaux de l'ordre des médecins et de l'ordre
+des pharmaciens et de la commission prévue à l'article R. 5140, ainsi qu'après avis de la commission des stupéfiants et des
+psychotropes prévue à l'article R. 5182 lorsqu'il s'agit de substances psychotropes ou susceptibles d'être utilisées pour
+leur effet psychoactif.
 
 Les pharmaciens et opticiens-lunetiers ne sont autorisés à effectuer la première délivrance de ces médicaments ou produits
 que sur présentation d'une ordonnance datant de moins de trois mois.
@@ -53920,10 +53927,6 @@ Les dispensateurs sont tenus d'exécuter les renouvellements selon les modalité
 
 **Liens relatifs à cet article**
 
-	**Modifié par**:
-
-	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
 	**Liens**:
 
 	  - TXT_SOURCE: Arrêté du 10 octobre 1989
@@ -53936,6 +53939,10 @@ Les dispensateurs sont tenus d'exécuter les renouvellements selon les modalité
 	  - TXT_SOURCE: Arrêté du 17 octobre 1983 - art. Annexe 2 (Ab)
 	  - SPEC_APPLI: Code de la santé publique R5190 : champ d'application de la présente section
 
+	**Modifié par**:
+
+	  - Décret n°90-275 du 27 mars 1990 - art. 2 () JORF 28 mars 1990
+
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5132-21 (V)
@@ -53943,6 +53950,8 @@ Les dispensateurs sont tenus d'exécuter les renouvellements selon les modalité
 
 	**Cite**:
 
+	  - Code de la santé publique - art. R5140 (M)
+	  - Code de la santé publique - art. R5182 (M)
 	  - Code de la santé publique - art. R5202 (M)
 
 	**Cité par**:
