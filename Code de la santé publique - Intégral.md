@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1967-10-13
+Version Consolidée au 1967-12-29
 
 # Partie législative ancienne
 
@@ -23044,76 +23044,6 @@ ou en ayant tiré profit, si le délit a été commis par toute autre voie.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2221-1 (Ab)
-
-
-###### Article L648
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 1 (V)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 3 (Ab)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 4 (M)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 5 (Ab)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 6 (M)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 6 bis (Ab)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 7 (Ab)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 8 (Ab)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 9 (V)
-
-	**Cité par**:
-
-	  - Ordonnance no 90-570 du 25 juin 1990 portant exten - art. 4 (Ab)
-	  - Décret n°90-740 du 14 août 1990 - art. 4 (V)
-	  - Rapport - art. 4 (V)
-	  - Rapport au Président de la République relatif à l' - art. 4 (V)
-	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
-	  - Code de la santé publique - art. L149 (Ab)
-	  - Code de la santé publique - art. L793-4 (Ab)
-
-
-###### Article L649
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 1 (V)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 3 (Ab)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 4 (M)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 5 (Ab)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 6 (M)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 6 bis (Ab)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 7 (Ab)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 8 (Ab)
-	  - TXT_ASSOCIE: Loi n°67-1176 du 28 décembre 1967 - art. 9 (V)
-
-	**Cité par**:
-
-	  - Ordonnance no 90-570 du 25 juin 1990 portant exten - art. 4 (Ab)
-	  - Décret n°90-740 du 14 août 1990 - art. 4 (V)
-	  - Rapport - art. 4 (V)
-	  - Rapport au Président de la République relatif à l' - art. 4 (V)
-	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
-	  - Code de la santé publique - art. L149 (Ab)
-	  - Code de la santé publique - art. L793-4 (Ab)
 
 
 ###### Article L650
