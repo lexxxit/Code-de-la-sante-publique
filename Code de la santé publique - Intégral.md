@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1968-05-09
+Version Consolidée au 1968-05-16
 
 # Partie législative ancienne
 
@@ -5898,22 +5898,6 @@ Article abrogé
 
 ##### Paragraphe 2 : Sanatoriums.
 
-###### Article L231
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L250 (Ab)
-
-
 ###### Article L232
 
 Tout sanatorium doit être en mesure d'assurer un service social, soit par une assistante sociale dépendant directement de
@@ -5933,20 +5917,6 @@ l'établissement, soit avec le concours d'une assistante mise partiellement à s
 	**Anciens textes**:
 
 	  - Ordonnance 45-2575 1945-10-31 ART. 9
-
-
-##### Paragraphe 3 : Etablissements de postcure.
-
-###### Article L233
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 ##### Paragraphe 4 : Préventoriums
