@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1960-07-27
+Version Consolidée au 1960-07-29
 
 # Partie législative ancienne
 
@@ -26458,20 +26458,6 @@ d'administration prévu par ce décret. Décret 74-390 du 9 mai 1974 : Modifie l
 	**Cité par**:
 
 	  - Code de la sécurité sociale. - art. D412-79 (V)
-
-
-##### Section 2 : Ecole nationale de la santé publique.
-
-###### Article L791
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 ## LIVRE 9 : PERSONNEL
