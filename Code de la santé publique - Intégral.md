@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1958-12-21
+Version Consolidée au 1958-12-24
 
 # Partie législative ancienne
 
@@ -11659,6 +11659,38 @@ et suivants.
 
 ##### SECTION 4 : DISPOSITIONS PENALES.
 
+###### Article L375
+
+En ce qui concerne spécialement l'exercice illégal de la médecine, de l'art dentaire ou de la pratique des accouchements, les
+médecins, les chirurgiens dentistes et les sages-femmes, les conseils de l'Ordre et les syndicats intéressés pourront saisir
+les tribunaux par voie de citations directes, données dans les termes de l'article 182 du Code d'instruction criminelle
+[*code de procédure pénale art. 388*], sans préjudice de la faculté de se porter, s'il y a lieu, partie civile, dans toute
+poursuite intentée par le ministère public [*recours*].
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 ART. 11
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1297 1958-12-23 ART. 19 JORF 24 DECEMBRE 1958
+
+	**Cite**:
+
+	  - CODE DE PROCEDURE PENALE - art. 388 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4161-4 (V)
+
+
 ###### Article L376
 
 L'exercice illégal de la profession de médecin ou de chirurgien dentiste est puni d'une amende de 3.600 F à 30.000 F et, en
@@ -11692,18 +11724,6 @@ des articles L. 363, 364 et 365.
 	**Cité par**:
 
 	  - Loi n°2002-1062 du 6 août 2002 - art. 14 (V)
-
-
-###### Article L377
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 ###### Article L378
