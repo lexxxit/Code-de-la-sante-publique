@@ -192,7 +192,9 @@ contrôlées en fonction du but prévu ;
 
 11.5.2. Les dispositifs émettant des rayonnements ionisants destinés au radiodiagnostic sont conçus et fabriqués de façon à
 atteindre une qualité d'image et/ou de résultat convenant au but médical prévu tout en réduisant au minimum l'exposition du
-patient et de l'utilisateur aux rayonnements ;
+patient et de l'utilisateur aux rayonnements. Ces dispositifs sont équipés, lorsque cela est techniquement possible, d'un
+dispositif permettant à l'utilisateur d'être renseigné sur la quantité de rayonnements produite par l'appareil au cours de la
+procédure radiologique.
 
 11.5.3. Les dispositifs émettant des rayonnements ionisants destinés à la radiothérapie doivent être conçus et fabriqués de
 façon à permettre une surveillance et un contrôle fiables de la dose administrée, du type et de l'énergie du faisceau et, le
@@ -393,7 +395,7 @@ p) Le degré de précision indiqué pour les dispositifs de mesurage ;
 q) Lors de sa mise sur le marché, chaque dispositif doit être accompagné d'une notice d'instructions comprenant les éléments
 suivants :
 
-- l'année d'imposition du marquage CE ;
+- l'année d'apposition du marquage CE ;
 
 - les informations nécessaires permettant au médecin de sélectionner le dispositif adéquat ainsi que le logiciel et les
 accessoires adaptés ;
@@ -605,6 +607,15 @@ indésirables doivent être fondées sur des données cliniques établies en con
 (1) On entend par risques d'interférence réciproques les influences négatives sur le dispositif provoquées par des
 instruments présents lors des investigations ou traitements et vice versa.
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2004-802 du 29 juillet 2004, l'abrogation des annexes du livre V bis prendra effet à
+la date de la publication de chacun des arrêtés prévus aux articles R. 5211-7, R. 5211-16, R. 5211-24 et R. 5211-53 du code
+de la santé publique.
+
+L'arrêté du 20 avril 2006 fixant les conditions de mise en oeuvre des exigences essentielles applicables aux dispositifs
+médicaux, pris en application de l'article R. 5211-24 du code de la santé publique, est paru au JORF du 19 mai 2006.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -624,4 +635,8 @@ instruments présents lors des investigations ou traitements et vice versa.
 
 	**Modifié par**:
 
-	  - Décret n°2004-413 du 13 mai 2004 - art. 2 () JORF 15 mai 2004
+	  - Décret n°2004-547 du 15 juin 2004 - art. 1 () JORF 16 juin 2004
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 4 (V)
