@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1958-10-24
+Version Consolidée au 1958-10-26
 
 # Partie législative ancienne
 
@@ -1416,6 +1416,414 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ##### Section 1 : Evacuation des eaux usées.
 
+###### Article L33
+
+Le raccordement des immeubles aux égouts disposés pour recevoir les eaux usées domestiques et établis sous la voie publique à
+laquelle ces immeubles ont accès soit directement, soit par l'intermédiaire de voies privées ou de servitudes de passage, est
+obligatoire avant le 1er octobre 1961 [*date limite*] ou dans le délai de deux ans à compter de la mise en service de l'égout
+si celle-ci est postérieure au 1er octobre 1958.
+
+Un arrêté interministériel déterminera les catégories d'immeubles pour lesquelles un arrêté du maire, approuvé par le préfet,
+pourra accorder soit des prolongations de délais qui ne pourront excéder une durée de dix ans, soit des exonérations de
+l'obligation prévue au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1004 1958-10-23 ART. 1 JORF 26 octobre 1958
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 19 juillet 1960 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 19 juillet 1960 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 19 juillet 1960 - art. 3 (V)
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Cité par**:
+
+	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 2 (Ab)
+	  - Arrêté du 22 décembre 1994 - art. 32 (Ab)
+	  - CODE DES COMMUNES. - art. L372-7 (Ab)
+	  - Code de la santé publique - art. L35-1 (Ab)
+	  - Code général des collectivités territoriales - art. L2224-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-1 (M)
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 ART. 4
+
+
+###### Article L34
+
+Lors de la construction d'un nouvel égout ou de l'incorporation d'un égout pluvial à un réseau disposé pour recevoir les eaux
+usées d'origine domestique, la commune peut exécuter d'office les parties des branchements situées sous la voie publique,
+jusques et y compris le regard le plus proche des limites du domaine public.
+
+Pour les immeubles édifiés postérieurement à la mise en service de l'égout, la commune peut se charger, à la demande des
+propriétaires, de l'exécution de la partie des branchements visés ci-dessus.
+
+Ces parties de branchements sont incorporées au réseau public, propriété de la commune qui en assure désormais l'entretien.
+
+La commune est autorisée à se faire rembourser par les propriétaires intéressés [*charge financière*] tout ou partie des
+dépenses entraînées par ces travaux, diminuées des subventions éventuellement obtenues et majorées de 10 p. 100 pour frais
+généraux, suivant des modalités à fixer par délibération du conseil municipal approuvée par l'autorité supérieure
+[*montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1004 1958-10-23 ART. 1 JORF 26 octobre 1958
+
+	**Cité par**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 29 (Ab)
+	  - CODE DES COMMUNES. - art. L231-8 (M)
+	  - CODE DES COMMUNES. - art. L253-2 (Ab)
+	  - Code de la santé publique - art. L35 (Ab)
+	  - Code de la santé publique - art. L35-6 (Ab)
+	  - Code de la santé publique - art. L35-8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-2 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L35-6 : MODE DE RECOUVREMENT
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 ART. 5
+
+
+###### Article L35
+
+Dans le cas où le raccordement se fait par l'intermédiaire d'une voie privée, et sans préjudice des dispositions de la loi du
+15 mai 1930 relative à l'assainissement d'office et au classement d'office des voies privées de Paris, les dépenses des
+travaux entrepris par la commune pour l'exécution de la partie publique des branchements, telle qu'elle est définie à
+l'article L. 34, sont remboursées par les propriétaires [*charge financière*], soit de la voie privée, soit des immeubles
+riverains de cette voie, à raison de l'intérêt de chacun à l'exécution des travaux, dans les conditions fixées au dernier
+alinéa de l'article L. 34 [*montant*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Décret n°1935-10-30 art. 6
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Loi n°1930-05-15
+	  - Code de la santé publique - art. L34 (M)
+
+	**Modifié par**:
+
+	  - Ordonnance 58-1004 1958-10-23 art. 1 JORF 26 octobre 1958
+
+	**Cité par**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 29 (Ab)
+	  - CODE DES COMMUNES. - art. L231-8 (M)
+	  - CODE DES COMMUNES. - art. L253-2 (Ab)
+	  - Code de la santé publique - art. L35-6 (Ab)
+	  - Code de la santé publique - art. L35-8 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-3 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L35-6 : MODE DE RECOUVREMENT
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
+###### Article L35-1
+
+Tous les ouvrages nécessaires pour amener les eaux usées à la partie publique du branchement sont à la charge exclusive des
+propriétaires et doivent être réalisés dans les conditions fixées à l'article L. 33.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Ordonnance 58-1004 1958-10-23 ART. 2 JORF 26 octobre 1958
+
+	**Cité par**:
+
+	  - Arrêté du 22 décembre 1994 - art. 24 (Ab)
+	  - Code de la santé publique - art. L35-10 (Ab)
+	  - Code de la santé publique - art. L35-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-4 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L33 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
+###### Article L35-2
+
+Dès l'établissement du branchement, les fosses et autres installations de même nature seront mises hors d'état de servir ou
+de créer des nuisances à venir, par les soins et aux frais du propriétaire [*charge*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Ordonnance 58-1004 1958-10-23 art. 2 JORF 26 octobre 1958
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-5 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L35-3 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
+###### Article L35-3
+
+Faute par le propriétaire de respecter les obligations édictées aux articles L. 35-1 et L. 35-2, la commune peut, après mise
+en demeure, procéder d'office et aux frais de l'intéressé [*charge*] aux travaux indispensables [*sanction*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Ordonnance 58-1004 1958-10-23 art. 2 JORF 26 octobre 1958
+
+	**Cité par**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 29 (Ab)
+	  - CODE DES COMMUNES. - art. L253-2 (Ab)
+	  - Code de la santé publique - art. L35-10 (Ab)
+	  - Code de la santé publique - art. L35-6 (Ab)
+	  - Code de la santé publique - art. L35-8 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-6 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L35-1 (M)
+	  - Code de la santé publique - art. L35-2 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L35-6 : MODE DE RECOUVREMENT
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
+###### Article L35-4
+
+Les propriétaires des immeubles édifiés postérieurement à la mise en service de l'égout auquel ces immeubles doivent être
+raccordés peuvent être astreints par la commune, pour tenir compte de l'économie par eux réalisée en évitant une installation
+d'évacuation ou d'épuration individuelle réglementaire, à verser une participation s'élevant au maximum à 80 p. 100 du coût
+de fourniture et de pose d'une telle installation [*montant à charge*].
+
+Une délibération du conseil municipal approuvée par l'autorité supérieure détermine les conditions de perception de cette
+participation.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Ordonnance 58-1004 1958-10-23 art. 2 JORF 26 octobre 1958
+
+	**Cité par**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 29 (Ab)
+	  - CODE DES COMMUNES. - art. L253-2 (Ab)
+	  - Code de l'urbanisme - art. L332-6 (M)
+	  - Code de l'urbanisme - art. L332-6-1 (M)
+	  - Code de la santé publique - art. L35-6 (Ab)
+	  - Code de la santé publique - art. L35-8 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-7 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique L35-6 : MODE DE RECOUVREMENT
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
+###### Article L35-5
+
+Tant que le propriétaire ne s'est pas conformé aux obligations prévues aux articles qui précèdent, il est astreint au
+paiement d'une somme au moins équivalente à la redevance qu'il aurait payée si son immeuble avait été raccordé au réseau et
+qui pourra être majorée dans une proportion fixée par le conseil municipal dans la limite de 100 p. 100 [*sanction,
+montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°65-997 1965-11-29 ART. 75 II ET V date d'entrée en vigueur 1ER janvier 1968
+
+	**Cité par**:
+
+	  - Décret n°82-954 du 9 novembre 1982 - art. Annexe (V)
+	  - CODE DES COMMUNES. - art. L253-2 (Ab)
+	  - CODE DES COMMUNES. - art. L372-7 (Ab)
+	  - CODE DES COMMUNES. - art. R*372-18 (M)
+	  - Code général des collectivités territoriales - art. L2224-12 (M)
+	  - Loi n°48-1360 du 1 septembre 1948 - art. 38 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-8 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Créé par**:
+
+	  - Ordonnance 58-1004 1958-10-23 ART. 2 JORF 26 octobre 1958
+
+
+###### Article L35-6
+
+Les sommes dues par le propriétaire en vertu des articles L. 34, L. 35, L. 35-3 et L. 35-4 seront recouvrées [*mode*] comme
+en matière de contributions directes. Les réclamations seront présentées et jugées comme en matière de contributions
+directes.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Ordonnance 58-1004 1958-10-23 art. 2 JORF 26 octobre 1958
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-9 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L34 (M)
+	  - Code de la santé publique - art. L35 (Ab)
+	  - Code de la santé publique - art. L35-3 (Ab)
+	  - Code de la santé publique - art. L35-4 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L35-8 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+
 ###### Article L35-7
 
 texte abrogé.
@@ -1426,6 +1834,126 @@ texte abrogé.
 
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+
+###### Article L35-8
+
+Tout déversement d'eaux usées, autres que domestiques, dans les égouts publics doit être préalablement autorisé par la
+collectivité à laquelle appartiennent les ouvrages qui seront empruntés par ces eaux usées avant de rejoindre le milieu
+naturel [*autorisation administrative obligatoire*].
+
+L'autorisation fixe, suivant la nature du réseau à emprunter ou des traitements mis en oeuvre, les caractéristiques que
+doivent présenter ces eaux usées pour être reçues.
+
+Cette autorisation peut être subordonnée à la participation de l'auteur du déversement aux dépenses de premier établissement,
+d'entretien et d'exploitation entraînées par la réception de ces eaux [*condition d'attribution*].
+
+Cette participation s'ajoute à la perception des sommes pouvant être dues par les intéressés au titre des articles L. 34, L.
+35, L.  35-3 et L. 35-4 ; les dispositions de l'article L. 35-6 lui sont applicables [*mode de recouvrement*].
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Ordonnance 58-1004 1958-10-23 art. 2 JORF 26 octobre 1958
+
+	**Cité par**:
+
+	  - Loi n°66-1069 du 31 décembre 1966 - art. 29 (Ab)
+	  - Décret n°73-502 du 21 mai 1973 - art. 2 (Ab)
+	  - Loi n°90-1247 du 29 décembre 1990 - art. 6 (Ab)
+	  - Arrêté du 4 mai 1992 - art. 12 (Ab)
+	  - Décret n°94-469 du 3 juin 1994 - art. 22 (Ab)
+	  - Arrêté du 22 décembre 1994 - art. 4 (Ab)
+	  - Arrêté du 21 juin 1996 - art. 11 (Ab)
+	  - Arrêté du 2 avril 1997 - art. Annexe I (VT)
+	  - Arrêté du 30 juin 1997 - art. Annexe I (V)
+	  - Arrêté du 30 juin 1997 - art. Annexe I (VD)
+	  - Arrêté du 30 juin 1997 - art. Annexe I (VT)
+	  - Arrêté du 2 février 1998 - art. 34 (V)
+	  - Arrêté du 3 avril 2000 - art. 12 (V)
+	  - Arrêté du 12 mars 2003 - art. 62 (V)
+	  - Arrêté du 23 novembre 1979 - art. Annexe ART. 29 (V)
+	  - CODE DES COMMUNES. - art. L231-8 (M)
+	  - CODE DES COMMUNES. - art. L253-2 (Ab)
+	  - CODE DES COMMUNES. - art. R*372-12 (M)
+	  - CODE DES COMMUNES. - art. R*372-13 (Ab)
+	  - Code général des collectivités territoriales - art. R2333-127 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°73-502 1973-05-21 : INFRACTIONS
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-10 (M)
+	  - Code de la santé publique - art. R1336-1 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L34 (M)
+	  - Code de la santé publique - art. L35 (Ab)
+	  - Code de la santé publique - art. L35-3 (Ab)
+	  - Code de la santé publique - art. L35-4 (Ab)
+	  - Code de la santé publique - art. L35-6 (Ab)
+
+
+###### Article L35-9
+
+Les dispositions de la présente section sont applicables aux collectivités publiques soumises à une législation spéciale
+ayant le même objet.
+
+Toutefois, l'assemblée compétente suivant le cas peut décider, par délibération qui devra intervenir avant le 31 décembre
+1958, que ces dispositions ne seront pas applicables à la collectivité intéressée. Cette décision pourra être abrogée à toute
+époque.
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 1 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Circulaire 1970-07-07 JORF 7 AOUT
+	  - SPEC_APPLI: Code de la santé publique L51 : NON APPLICABLE AUX ATELIERS ET MANUFACTURES
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1331-12 (M)
+
+	**Créé par**:
+
+	  - Ordonnance 58-1004 1958-10-23 art. 2 JORF 26 octobre 1958
+
+	**Cité par**:
+
+	  - Loi n°90-1247 du 29 décembre 1990 - art. 6 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 
 ##### Section 2 : Des ilôts insalubres
