@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1964-07-11
+Version Consolidée au 1964-07-12
 
 # Partie législative ancienne
 
@@ -25062,48 +25062,6 @@ particuliers qui doivent être respectés.
 
 
 #### Chapitre 10 : Régimes hospitaliers spéciaux
-
-##### Section 1 : Administration générale de l'Assistance publique à Paris.
-
-###### Article L726
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Loi n°64-707 du 10 juillet 1964 - art. 7 (V) JORF 12 juillet 1964
-
-	**Cité par**:
-
-	  - Loi n°64-707 du 10 juillet 1964 - art. 7 (V)
-
-
-###### Article L732
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Abrogé par**:
-
-	  - Loi n°64-707 du 10 juillet 1964 - art. 7 (V) JORF 12 juillet 1964
-
-	**Cité par**:
-
-	  - Loi n°64-707 du 10 juillet 1964 - art. 7 (V)
-
 
 ##### Section 2 : Hospices civils de Lyon.
 
