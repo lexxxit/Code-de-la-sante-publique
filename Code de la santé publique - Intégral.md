@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-01-01
+Version Consolidée au 1993-01-05
 
 # Partie législative ancienne
 
@@ -8226,8 +8226,9 @@ territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 
 ###### Article L209-13
 
-Les médecins inspecteurs de la santé et les pharmaciens inspecteurs de la santé ont qualité [*autorités compétentes*] pour
-veiller au respect des dispositions du présent livre et des textes réglementaires pris pour son application.
+Les médecins inspecteurs de la santé et, dans la limite de leurs attributions, les inspecteurs de l'Agence du médicament ont
+qualité [*autorités compétentes*] pour veiller au respect des dispositions du présent livre et des textes réglementaires pris
+pour son application.
 
 **Nota:**
 
@@ -8241,9 +8242,9 @@ territoriales de Saint-Pierre-et-Miquelon et de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 1 () JORF 22 décembre 1988
+	  - Loi n°93-5 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -25408,8 +25409,8 @@ collectivité territoriale de Mayotte sous réserve des dispositions de l'articl
 ###### Article L513
 
 La préparation et la délivrance des vaccins, sérums et allergènes, lorsqu'ils sont préparés spécialement pour un seul
-individu, peuvent être effectuées par toute personne ayant obtenu une autorisation du ministre chargé de la santé publique,
-après avis de l'Académie nationale de médecine [*compétence*].
+individu, peuvent être effectuées par toute personne ayant obtenu une autorisation de l'Agence du médicament, après avis de
+l'Académie nationale de médecine [*compétence*].
 
 Un décret précisera les conditions dans lesquelles sont accordées lesdites autorisations.
 
@@ -25424,10 +25425,6 @@ collectivité territoriale de Mayotte.*]
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Modifié par**:
-
-	  - Ordonnance n°59-250 du 4 février 1959 - art. 4 () JORF 8 février 1959
 
 	**Liens**:
 
@@ -25448,6 +25445,10 @@ collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. L567-4 (M)
 	  - Code de la santé publique - art. L761 (Ab)
 	  - Code de la santé publique - art. R5005 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -26522,7 +26523,7 @@ collectivité territoriale de Mayotte.*]
 ###### Article L529
 
 Le conseil central des fabricants de produits spécialisés, gérant de la section B de l'Ordre des pharmaciens, est composé de
-treize [*nombre*] membres désignés ou élus pour quatre ans [*durée*] par tous les pharmaciens inscrits sur le tableau de la
+quatorze [*nombre*] membres désignés ou élus pour quatre ans [*durée*] par tous les pharmaciens inscrits sur le tableau de la
 section B de l'Ordre.
 
 Ce conseil central comprend :
@@ -26530,7 +26531,8 @@ Ce conseil central comprend :
 Deux professeurs ou maîtres de conférences des Facultés de pharmacie, pharmaciens, nommés par le ministre de la Santé
 publique sur la proposition du ministre de l'Education nationale ;
 
-Un inspecteur de la pharmacie représentant, à titre consultatif, le ministre de la Santé publique ;
+Un inspecteur de l'Agence du médicament, un inspecteur de la pharmacie représentant, à titre consultatif, le ministre chargé
+de la santé ;
 
 Huit pharmaciens fabricants de produits spécialisés, élus ;
 
@@ -26543,14 +26545,18 @@ collectivité territoriale de Mayotte.*]
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-
 	**Anciens textes**:
 
 	  - Ordonnance n°45-919 du 5 mai 1945 - art. 12, v. init.
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -27223,10 +27229,10 @@ collectivité territoriale de Mayotte.*]
 
 ###### Article L541
 
-Les inspecteurs de la pharmacie, les pharmaciens fonctionnaires ou assimilés du ministère de la Santé publique, les
-pharmaciens fonctionnaires ou assimilés du ministère de l'Education nationale, n'exerçant pas par ailleurs d'activité
-pharmaceutique, et les pharmaciens appartenant au cadre actif du service de santé des armées de terre, de mer et de l'air, ne
-sont inscrits sur aucun tableau de l'Ordre [*non*].
+Les inspecteurs de la pharmacie, les inspecteurs de l'Agence du médicament, les pharmaciens fonctionnaires ou assimilés du
+ministère de la Santé publique, les pharmaciens fonctionnaires ou assimilés du ministère de l'Education nationale, n'exerçant
+pas par ailleurs d'activité pharmaceutique, et les pharmaciens appartenant au cadre actif du service de santé des armées de
+terre, de mer et de l'air, ne sont inscrits sur aucun tableau de l'Ordre [*non*].
 
 **Nota:**
 
@@ -27253,6 +27259,10 @@ collectivité territoriale de Mayotte.*]
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L4222-7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993
 
 
 ###### Article L542
@@ -27640,8 +27650,8 @@ La publicité ou la propagande, sous quelque forme que ce soit, relative aux obj
 favorisant le diagnostic, la prévention ou le traitement des maladies, des affections relevant de la pathologie chirurgicale
 et des dérèglements physiologiques, le diagnostic ou la modification de l'état physique ou physiologique, la restauration, la
 correction ou la modification des fonctions organiques, peut être interdite par le ministère chargé de la santé lorsqu'il
-n'est pas établi que lesdits objets, appareils et méthodes possèdent les propriétés annoncées. Le ministre chargé de la santé
-peut aussi, après avis de la commission prévue à l'alinéa 2 du présent article, soumettre cette publicité ou propagande à
+n'est pas établi que lesdits objets, appareils et méthodes possèdent les propriétés annoncées. L'Agence du médicament peut
+aussi, après avis de la commission prévue à l'alinéa 2 du présent article, soumettre cette publicité ou propagande à
 l'obligation de mentionner les avertissements et précautions d'emplois nécessaires à l'information du consommateur
 [*condition*].
 
@@ -27668,7 +27678,7 @@ collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°91-73 du 18 janvier 1991 - art. 7 () JORF 20 janvier 1991
+	  - Loi n°93-5 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -27927,26 +27937,31 @@ collectivité territoriale de Mayotte.*]
 
 ###### Article L562
 
-Les inspecteurs de la pharmacie [*attributions*] contrôlent dans les officines, les établissements pharmaceutiques, les
-dépôts de médicaments en quelques mains qu'ils soient, l'exécution de toutes les prescriptions des lois et règlements qui se
-rapportent à l'exercice de la pharmacie.
+Sous réserve des dispositions de l'article L. 567-9, les inspecteurs de la pharmacie contrôlent l'application des lois et
+règlements relatifs à la pharmacie :
 
-Ils contrôlent également la qualité des matières premières à usage pharmaceutique dans les établissements de fabrication et
-de distribution.
+a) Dans les établissements fabriquant, important ou exportant des objets de pansements ou tous articles présentés comme
+conformes à la pharmacopée ;
 
-Ils contrôlent, si nécessaire, la qualité des conditionnements à usage pharmaceutique en contact avec les médicaments.
+b) Dans les établissements distribuant en gros des médicaments à usage humain, des objets et produits mentionnés à l'article
+L. 512 ;
 
-**Nota:**
+c) Dans les établissements distribuant en gros des matières premières à usage pharmaceutique ;
 
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
-collectivité territoriale de Mayotte.*]
+d) Dans les établissements distribuant au détail ou délivrant au public les médicaments, objets ou produits mentionnés à
+l'article L. 512 ;
+
+e) Dans les établissements de santé ;
+
+f) Dans les dépôts de médicaments, en quelques mains qu'ils soient.
+
+Dans les établissements mentionnés à l'article L. 617-21, les inspecteurs de la pharmacie participent au contrôle de
+l'application des dispositions du chapitre III du titre II du présent livre.
+
+Dans les laboratoires d'analyses de biologie médicale, ils participent au contrôle des dispositions du chapitre Ier du titre
+III du livre VII.
 
 **Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1943-06-01 JORF 27 JUIN : COMPOSITION DU DOSSIER D'INSPECTION
-	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
 
 	**Codifié par**:
 
@@ -27955,7 +27970,13 @@ collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°91-73 du 18 janvier 1991 - art. 3 () JORF 20 janvier 1991
+	  - Loi n°93-5 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L512 (M)
+	  - Code de la santé publique - art. L567-9 (M)
+	  - Code de la santé publique - art. L617-21 (M)
 
 	**Nouveaux textes**:
 
@@ -27970,9 +27991,9 @@ collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. R5059 (Ab)
 	  - Code de la santé publique - art. R5062 (Ab)
 
-	**Anciens textes**:
+	**Liens**:
 
-	  - Loi n°41-3890 1941-09-11 art. 53
+	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
 
 
 ###### Article L562-1
@@ -28019,14 +28040,15 @@ collectivité territoriale de Mayotte.*]
 
 ###### Article L563
 
-Les inspecteurs de la pharmacie [*attributions*] signalent les infractions aux règles professionnelles constatées dans
-l'exercice de la pharmacie, font les enquêtes prescrites par les directeurs départementaux de la santé ou demandées par les
-présidents des conseils centraux et des conseils régionaux de l'Ordre des pharmaciens.
+Les inspecteurs de la pharmacie signalent [*attributions*] aux autorités compétentes les manquements aux règles
+professionnelles de la pharmacie qu'ils constatent dans l'exercice de leurs fonctions.
+
+Ils font les enquêtes prescrites par l'autorité hiérarchique ou demandées par les instances ordinales compétentes.
 
 **Nota:**
 
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
-collectivité territoriale de Mayotte.*]
+[*Nota : Code de la santé publique L567-11 : les dispositions de l'article L563, premier alinéa, sont applicables à
+l'exercice des fonctions des inspecteurs de l'agence.*]
 
 **Liens relatifs à cet article**
 
@@ -28047,31 +28069,38 @@ collectivité territoriale de Mayotte.*]
 
 	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
 
-	**Anciens textes**:
+	**Modifié par**:
 
-	  - Loi n°41-3890 1941-09-11 art. 54
+	  - Loi n°93-5 1993-01-04 art. 16 3° JORF 5 janvier 1993
 
 
 ###### Article L564
 
-Dans tous les établissements qu'ils sont chargés d'inspecter, les pharmaciens inspecteurs de la santé [*autorité compétente*]
-ont qualité pour rechercher et constater les infractions aux dispositions du présent livre, aux dispositions du livre II bis,
-en application de l'article L. 209-13 dudit livre, aux lois sur la répression des fraudes et plus généralement à toutes les
-lois qui concernent l'exercice de la pharmacie et aux textes réglementaires pris pour leur application. Toutefois les
-infractions en matière de contrôle des prix, sont constatées et poursuivies dans les conditions prévues par les lois
-spéciales à la matière.
+Dans tous les établissements mentionnés à l'article L. 562 et dans tous les lieux publics, les pharmaciens inspecteurs de la
+santé ont qualité pour [*attributions*] rechercher et constater les infractions aux dispositions du présent livre, aux lois
+sur la répression des fraudes et aux lois et règlements qui concernent l'exercice de la pharmacie. Même en dehors des
+établissements précités, les pharmaciens inspecteurs ont qualité pour rechercher et constater les infractions aux
+dispositions des articles L. 551 et L. 552.
 
-Même en dehors des établissements mentionnés à l'alinéa 1er, les inspecteurs de la pharmacie ont qualité pour rechercher et
-constater les infractions aux dispositions des articles L. 551 et L. 552 [*relatives à la publicité*].
+Outre les officiers et agents de police judiciaire agissant conformément aux dispositions du code de procédure pénale, les
+inspecteurs de la pharmacie peuvent rechercher et constater par procès-verbal les infractions aux dispositions législatives
+et réglementaires dont ils contrôlent l'application conformément à l'article L. 562.
 
-Dans tous les cas où les inspecteurs de la pharmacie relèvent un fait susceptible d'impliquer des poursuites pénales,
-l'inspecteur divisionnaire de la santé transmet le dossier au procureur de la République compétent ; avis de cette
-transmission est adressé au président du conseil central ou du conseil régional intéressé [*procédure*].
+Les inspecteurs peuvent accéder aux locaux, terrains ou moyens de transport à usage professionnel utilisés par les personnels
+et les établissements qu'ils sont chargés d'inspecter. Ils peuvent demander la communication de tous documents professionnels
+et en prendre copie, prélever des échantillons, recueillir, sur convocation ou sur place, les renseignements ou
+justifications. Les inspecteurs ne peuvent accéder à ces locaux que pendant leurs heures d'ouverture, lorsqu'ils sont ouverts
+au public et, dans les autres cas, qu'entre 8 heures et 20 heures. Ils ne peuvent accéder aux locaux qui servent pour partie
+de domicile aux intéressés.
+
+Le procureur de la République est préalablement informé des opérations envisagées en vue de la recherche des infractions par
+les inspecteurs. Il peut s'opposer à ces opérations. Les procès-verbaux lui sont transmis dans les cinq jours suivant leur
+établissement. Une copie en est également remise à l'intéressé.
 
 **Nota:**
 
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 42 : le présent article du code de la santé publique s'applique à la
-collectivité territoriale de Mayotte.*]
+[*Nota : Code de la santé publique L567-11 : les dispositions de l'article L564, 3ème et 4ème alinéa, sont applicables à
+l'exercice des fonctions des inspecteurs de l'agence.*]
 
 **Liens relatifs à cet article**
 
@@ -28080,21 +28109,15 @@ collectivité territoriale de Mayotte.*]
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Anciens textes**:
-
-	  - Loi n°41-3890 1941-09-11 art. 55
-	  - Loi n°42-855 1942-09-09 art. 1
-	  - Code de la santé publique - art. L564-1 (T)
-
 	**Modifié par**:
 
-	  - Loi n°88-1138 du 20 décembre 1988 - art. 3 () JORF 22 décembre 1988
+	  - Loi n°93-5 1993-01-04 art. 16 3° JORF 5 janvier 1993
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L209-13 (M)
 	  - Code de la santé publique - art. L551 (M)
 	  - Code de la santé publique - art. L552 (M)
+	  - Code de la santé publique - art. L562 (M)
 
 	**Cité par**:
 
@@ -28105,9 +28128,65 @@ collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. R5057 (Ab)
 	  - Code de la santé publique - art. R5062 (Ab)
 
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. L564-1 (T)
+
 	**Liens**:
 
 	  - TXT_ASSOCIE: Code de la santé publique L518 : DISPOSITIONS PENALES
+
+
+###### Article L564-1
+
+Les inspecteurs de la pharmacie peuvent, dans les mêmes lieux et les mêmes conditions de temps que ceux qui sont mentionnés à
+l'article L. 564, procéder à la saisie des objets ou produits mentionnés à l'article L. 512 sur autorisation judiciaire
+donnée par ordonnance du président du tribunal de grande instance dans le ressort duquel sont situés les objets ou produits
+concernés, ou d'un juge délégué par lui.
+
+La demande doit comporter tous les éléments d'information de nature à justifier la saisie. Celle-ci s'effectue sous
+l'autorité et le contrôle du juge qui l'a autorisée.
+
+Les produits et objets saisis sont immédiatement inventoriés. L'inventaire est annexé au procès-verbal sur les lieux. Les
+originaux du procès-verbal et de l'inventaire sont transmis, dans les cinq jours [*délai*] suivant leur établissement, au
+juge qui a ordonné la saisie.
+
+Le président du tribunal de grande instance ou le juge délégué par lui peut, d'office, à tout moment, ou sur la demande de
+l'intéressé, ordonner la main-levée de la saisie.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L567-11 : les dispositions de l'article L564-1 sont applicables à l'exercice des fonctions
+des inspecteurs de l'agence.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 1993-01-04 art. 16 4° JORF 5 janvier 1993
+
+	**Liens**:
+
+	  - SPEC_APPLI: Loi n°98-535 1998-07-01 art. 29 : date d'entrée en vigueur
+
+	**Transféré par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 25 () JORF 2 juillet 1998
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L512 (M)
+	  - Code de la santé publique - art. L564 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L564 (Ab)
+	  - Code de la santé publique - art. L564 (M)
 
 
 ###### Article L565
@@ -28215,6 +28294,518 @@ collectivité territoriale de Mayotte.*]
 	**Anciens textes**:
 
 	  - Loi n°41-3890 1941-09-11 art. 57
+
+
+### Titre 1 bis : Agence du médicament
+
+#### Chapitre 1er : Dispositions générales
+
+###### Article L567-1
+
+Afin de garantir l'indépendance, la compétence scientifique et l'efficacité administrative des études et des contrôles
+relatifs à la fabrication, aux essais, aux propriétés thérapeutiques et à l'usage des médicaments, en vue d'assurer, au
+meilleur coût, la santé et la sécurité de la population et de contribuer au développement des activités industrielles et de
+recherche pharmaceutiques, il est créé un établissement public de l'Etat dénommé "Agence du médicament".
+
+Cet établissement public est soumis à un régime administratif, budgétaire, financier et comptable et à un contrôle de l'Etat,
+adaptés à la nature particulière de ses missions, définis par le présent titre et précisés par voie réglementaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 17 (M)
+	  - Décret n°95-755 du 1 juin 1995 - art. 2 (P)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 6 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°93-295 du 8 mars 1993
+	  - TXT_SOURCE: Décret n°93-295 du 8 mars 1993 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°93-295 du 8 mars 1993 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°93-295 du 8 mars 1993 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°93-295 du 8 mars 1993 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°93-295 du 8 mars 1993 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°93-295 du 8 mars 1993 - art. 9 (Ab)
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 8 () JORF 2 juillet 1998
+
+
+###### Article L567-2
+
+L'agence [*du médicament*] est chargée [*attributions*] :
+
+1° De participer à l'application des lois et règlements relatifs :
+
+a) Aux essais, à la fabrication, à l'importation, à l'exportation, à la mise sur le marché des médicaments à usage humain,
+des produits mentionnés à l'article L. 658-11 ainsi que des produits et objets contraceptifs mentionnés par la loi n° 67-1176
+du 28 décembre 1967 relative à la régulation des naissances ;
+
+b) Aux substances stupéfiantes, psychotropes, aux autres substances vénéneuses utilisées en médecine, aux réactifs de
+laboratoire destinés aux analyses de biologie médicale et aux réactifs mentionnés au 2° de l'article L. 512 ;
+
+2° Du fonctionnement de la commission de la transparence ;
+
+3° De recueillir et d'évaluer les informations sur les effets inattendus ou toxiques des médicaments et produits mentionnés
+au a du 1° ainsi que sur les usages abusifs et les dépendances susceptibles d'être entraînées par des substances psycho-
+actives et de prendre en la matière toute mesure utile pour préserver la santé publique ;
+
+4° De proposer toute mesure contribuant au développement de la recherche et des activités industrielles dans le domaine du
+médicament ;
+
+5° D'appliquer les dispositions du premier alinéa de l'article L. 551 ;
+
+6° De préparer la pharmacopée ;
+
+7° De procéder à toutes expertises et contrôles techniques relatifs à la qualité :
+
+a) Des produits et objets mentionnés au présent article, des substances entrant dans leur composition et des produits
+utilisés pour la désinfection des locaux ;
+
+b) Des méthodes et moyens de fabrication, de conditionnement ou de contrôle correspondants ;
+
+8° De proposer aux ministres chargés de la santé et de la sécurité sociale toute mesure intéressant les domaines relevant de
+leur compétence ;
+
+9° De participer, à la demande du ministre chargé de la santé, à l'élaboration et à la mise en oeuvre des règles
+communautaires et des accords internationaux et à la représentation de la France dans les organisations internationales
+compétentes ;
+
+10° De recueillir les données, notamment en terme d'évaluation scientifique et technique, nécessaires à la préparation des
+décisions relatives à la politique du médicament et de participer à l'application des décisions prises en la matière ;
+
+11° De mener toutes études, recherches, actions de formation ou d'information dans les domaines relevant de sa compétence.
+
+L'agence peut, en outre, à la demande des services concernés, procéder à tous contrôles ou expertises techniques relatifs à
+la qualité des eaux minérales ou de sources, de leurs conditions de captage, de transport et de conditionnement et à la
+qualité des analyses de biologie médicale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°67-1176 1967-12-28
+	  - Code de la santé publique - art. L512 (M)
+	  - Code de la santé publique - art. L551 (M)
+	  - Code de la santé publique - art. L658-11 (M)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Arrêté du 28 avril 1994 - art. 2 (V)
+	  - Arrêté du 28 avril 1994 - art. 3 (V)
+	  - Décret n°98-385 du 18 mai 1998 - art. 3 (M)
+	  - Code de la santé publique - art. L567-9 (Ab)
+	  - Code de la santé publique - art. R5089-2 (Ab)
+
+
+#### Chapitre 2 : Conseil d'administration, direction générale et personnel
+
+###### Article L567-3
+
+L'Agence du médicament est administrée par un conseil d'administration. Elle est dirigée par un directeur général.
+
+Le conseil d'administration de l'agence est composé de sept représentants de l'Etat, de cinq personnalités choisies en raison
+de leur compétence en matière de médicament et de deux représentants du personnel.
+
+Le collège des personnalités choisies en raison de leur compétence doit compter trois [*nombre*] personnalités scientifiques,
+dont un médecin et un pharmacien, un représentant de l'industrie pharmaceutique et un représentant des organismes de sécurité
+sociale.
+
+Un conseil scientifique, dont la composition est fixée par voie réglementaire, veille [*attributions*] à la cohérence de la
+politique scientifique de l'agence. Il assiste le président et le directeur général.
+
+Le président du conseil d'administration et le directeur général sont nommés par décret en conseil des ministres. Le
+président est choisi parmi les personnalités scientifiques appartenant au collège défini au troisième alinéa du présent
+article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5089-15 (Ab)
+	  - Code de la santé publique - art. R5089-5 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 8 () JORF 2 juillet 1998
+
+
+###### Article L567-4
+
+Les décisions relatives aux autorisations, suspensions, retraits ou interdictions prévues par les articles L. 513, L. 601, L.
+603 et L. 658-11 du présent code et par la loi n° 67-1176 du 28 décembre 1967 précitée sont prises par le directeur général
+de l'agence [*autorité compétente*].
+
+Les décisions prises par le directeur général en application du présent article ne sont susceptibles d'aucun recours
+hiérarchique.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 17 : date d'entrée en vigueur du premier alinéa de l'article L567-4 du code de la
+santé publique.*]
+
+[*Nota : Décret 93-295 du 8 mars 1993 art. 8 : les dispositions prévues au premier alinéa de l'article L567-4 du code de la
+santé publique à la date d'installation du conseil d'administration, et au plus tard le 30 juin 1993.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°93-295 du 8 mars 1993 - art. 8 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°93-295 du 8 mars 1993 - art. 8 (Ab)
+	  - Loi n°93-5 du 4 janvier 1993 - art. 17 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L513 (M)
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. L603 (M)
+	  - Code de la santé publique - art. L658-11 (M)
+	  - Loi n°67-1176 1967-12-28
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+
+###### Article L567-5
+
+L'agence peut recruter des agents contractuels, de droit public ou privé. Elle peut passer avec ces agents des contrats à
+durée indéterminée [*gestion du personnel*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°98-365 du 13 mai 1998 - art. 1 (Ab)
+	  - Code de la santé publique - art. R5089-25 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 8 () JORF 2 juillet 1998
+
+
+###### Article L567-6
+
+Les agents contractuels [*obligations du personnel*] :
+
+1° Sont tenus au secret et à la discrétion professionnels dans les mêmes conditions que celles qui sont définies à l'article
+26 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires ;
+
+2° Ne peuvent par eux-mêmes ou par personnes interposée avoir, dans les établissements contrôlés par l'agence ou en relation
+avec elle, aucun intérêt de nature à compromettre leur indépendance.
+
+Des dispositions réglementaires définissent les activités privées qu'en raison de leur nature les agents contractuels de
+l'agence ayant cessé définitivement leurs fonctions ne peuvent exercer ; elles peuvent prévoir que cette interdiction sera
+limitée dans le temps.
+
+Les personnes collaborant occasionnellement aux travaux de l'agence ne peuvent sous les peines prévues à l'article 175-1 du
+code pénal prêter leur concours à une mission relative à une affaire dans laquelle elles auraient un intérêt direct ou
+indirect ; elles sont soumises aux obligations énoncées au 1°.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 26 (V)
+	  - Code pénal 175-1
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 8 () JORF 2 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L617-14 (Ab)
+
+
+#### Chapitre 3 : Régime financier
+
+###### Article L567-7
+
+Les ressources [*financières*] de l'agence sont constituées :
+
+1° Par les subventions de l'Etat ;
+
+2° Par les redevances et taxes perçues en application des articles L. 602 et L. 602-1 du présent code, de l'article 33 de la
+loi de finances pour 1968 (n° 67-1114 du 21 décembre 1967), du II de l'article 70 de la loi de finances pour 1972 (n° 71-1061
+du 29 décembre 1971), de l'article 109 de la loi de finances pour 1979 (n° 78-1239 du 29 décembre 1978) et des articles 19 et
+21 de la loi n° 93-5 du 4 janvier 1993 relative à la sécurité en matière de transfusion sanguine et de médicament ;
+
+3° Par les redevances pour services rendus établies par décret dans les conditions prévues à l'article 5 de l'ordonnance n°
+59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances ;
+
+4° Par des produits divers, dons et legs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Ordonnance n°59-2 du 2 janvier 1959 - art. 5 (Ab)
+	  - Loi n°67-1114 du 21 décembre 1967 - art. 33, v. init.
+	  - Loi n°71-1061 du 29 décembre 1971 - art. 70, v. init.
+	  - Loi n°78-1239 du 29 décembre 1978 - art. 109, v. init.
+	  - Loi n°93-5 1993-01-04 art. 21, art. 23
+	  - Code de la santé publique - art. L602 (M)
+	  - Code de la santé publique - art. L602-1 (M)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993 rectificatif JORF 30 janvier 1993
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5089-24-1 (Ab)
+	  - Code de la santé publique - art. R5089-24-3 (Ab)
+
+
+###### Article L567-8
+
+L'agence peut attribuer des subventions dans des conditions fixées par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 8 () JORF 2 juillet 1998
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L567-12 (Ab)
+
+
+#### Chapitre 4 : Inspection
+
+###### Article L567-9
+
+L'agence dispose d'inspecteurs qui sont chargés [*attributions*] de veiller à l'application des lois et règlements mentionnés
+à l'article L. 567-2 et de contrôler notamment :
+
+1° Le respect des bonnes pratiques de fabrication des médicaments et des produits mentionnés à l'article L. 658-11 ;
+
+2° La qualité des matières premières à usage pharmaceutique dans les établissements qui fabriquent ou distribuent ces
+matières premières ;
+
+3° La qualité des conditionnements à usage pharmaceutique en contact avec les médicaments ;
+
+4° La conformité aux bonnes pratiques de laboratoire mentionnées à l'article L. 513-1 des essais non cliniques et des
+établissements où ils sont réalisés, lorsque ces essais portent sur des médicaments à usage humain ou des produits mentionnés
+aux articles L. 511 et L. 658-11, ainsi que sur des substances ou produits destinés à entrer dans leur composition ;
+
+5° Le respect des dispositions du livre II bis et des textes réglementaires pris pour son application relatifs aux essais
+cliniques des médicaments et produits mentionnés à l'article L. 567-2.
+
+Pour l'exercice des contrôles exigeant une compétence pharmaceutique, les inspecteurs de l'agence doivent être titulaires du
+diplôme de pharmacien.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L511 (M)
+	  - Code de la santé publique - art. L513-1 (Ab)
+	  - Code de la santé publique - art. L567-2 (M)
+	  - Code de la santé publique - art. L658-11 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L562 (M)
+	  - Code de la santé publique - art. L676-5 (M)
+	  - Code de la santé publique - art. R5056-1 (M)
+	  - Code de la santé publique - art. R5089-16 (Ab)
+	  - Code de la santé publique - art. R5089-19 (Ab)
+
+
+###### Article L567-10
+
+Les inspecteurs de l'agence sont habilités et assermentés dans des conditions définies par voie réglementaire.
+
+Les dispositions de l'article 25 de la loi n° 83-634 du 13 juillet 1983 précitée ainsi que celles de l'article L. 565 leur
+sont applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°83-634 1983-07-13 art. 25
+	  - Code de la santé publique - art. L565 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°83-634 1983-07-13 art. 25
+	  - TXT_ASSOCIE: Code de la santé publique - art. L565 (M)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L567-11 (Ab)
+
+
+###### Article L567-11
+
+Outre les officiers et agents de police judiciaire agissant conformément aux dispositions du code de procédure pénale, les
+inspecteurs de l'agence peuvent rechercher et constater par procès-verbal les infractions aux dispositions législatives et
+réglementaires dont ils contrôlent l'application conformément à l'article L. 567-10.
+
+Les dispositions des articles L. 563, premier alinéa, L. 564, troisième et quatrième alinéa, L. 564-1 et L. 567 sont
+applicables à l'exercice des fonctions des inspecteurs de l'agence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 8 () JORF 2 juillet 1998
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L563 (M)
+	  - Code de la santé publique - art. L567-10 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5089-16 (Ab)
+
+
+###### Article L567-12
+
+Les conditions d'application des dispositions du présent titre sont, à l'exclusion des mesures prévues à l'article L. 567-8,
+définies par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L567-8 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 8 () JORF 2 juillet 1998
+
+
+###### Article L567-13
+
+Le directeur général de l'agence établit tous les ans [*périodicité*] un rapport sur l'activité de celle-ci, qui est adressé
+au Gouvernement et aux deux assemblées du Parlement. Ce rapport est rendu public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 1 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5089-10 (Ab)
 
 
 ### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie
@@ -30406,8 +30997,8 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 Tout médicament ou produit pharmaceutique ou tout autre médicament fabriqué industriellement ainsi que tout générateur,
 trousse ou précurseur doit faire l'objet, avant sa commercialisation ou sa distribution à titre gratuit, en gros ou au
-détail, d'une autorisation de mise sur le marché [*condition de vente*] délivrée par le ministre chargé de la santé
-[*autorité compétente*].
+détail, d'une autorisation de mise sur le marché [*condition de vente*] délivrée par l'Agence du médicament [*autorité
+compétente*].
 
 Cette autorisation peut être assortie de conditions adéquates. Elle n'est accordée que lorsque le fabricant justifie :
 
@@ -30520,10 +31111,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 11 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 19 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 20 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 24 () JORF 11 décembre 1992
+	  - Loi n°93-5 du 4 janvier 1993 - art. 18 () JORF 5 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -30578,10 +31166,10 @@ de l'article L. 601 et susceptible de se substituer à eux ;
 - sont importés en vue de leur prescription à des malades nommément désignés, sous la responsabilité de leur médecin
 traitant, dès lors qu'ils sont autorisés à l'étranger.
 
-L'utilisation de ces médicaments est autorisée, pour une durée limitée, par le ministre chargé de la santé, avec l'accord
-préalable du titulaire des droits d'exploitation du médicament dans le cas prévu au deuxième alinéa du présent article ou à
-la demande du médecin traitant dans le cas prévu au quatrième alinéa. Cette autorisation peut être suspendue ou retirée si
-les conditions prévues au présent article ne sont plus remplies ou pour des motifs de santé publique.
+L'utilisation de ces médicaments est autorisée, pour une durée limitée, par l'Agence du médicament, avec l'accord préalable
+du titulaire des droits d'exploitation du médicament dans le cas prévu au deuxième alinéa du présent article ou à la demande
+du médecin traitant dans le cas prévu au quatrième alinéa. Cette autorisation peut être suspendue ou retirée si les
+conditions prévues au présent article ne sont plus remplies ou pour des motifs de santé publique.
 
 Un décret en Conseil d'Etat fixe les conditions d'octroi, de suspension ou de retrait de cette autorisation.
 
@@ -30592,9 +31180,9 @@ Un décret en Conseil d'Etat fixe les conditions d'octroi, de suspension ou de r
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 21 () JORF 11 décembre 1992
+	  - Loi n°93-5 du 4 janvier 1993 - art. 18 () JORF 5 janvier 1993
 
 	**Liens**:
 
@@ -30651,13 +31239,12 @@ Un décret en Conseil d'Etat fixe les conditions d'octroi, de suspension ou de r
 
 ###### Article L602
 
-Toute demande d'autorisation de mise sur le marché doit être accompagnée du versement d'un droit fixe dont le montant sera
-fixé par décret.
+Toute demande d'autorisation de mise sur le marché doit être accompagnée du versement d'un droit progréssif dont le montant
+sera fixé par décret dans la limite de 100.000 F.
 
-**Nota:**
+Son montant est versé à l'Agence du médicament.
 
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+Les dispositions du III de l'article L. 602-3 sont applicables à ce droit.
 
 **Liens relatifs à cet article**
 
@@ -30680,8 +31267,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 11 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 19 () JORF 11 décembre 1992
+	  - Loi n°93-5 1993-01-04 art. 16 6° JORF 5 janvier 1993
 
 	**Liens**:
 
@@ -30698,11 +31284,15 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	  - Code de la santé publique - art. L5121-16 (M)
 
+	**Cite**:
+
+	  - Code de la santé publique - art. L602-3 (M)
+
 
 ###### Article L602-1
 
-Les médicaments et produits bénéficiaires d'une autorisation du ministre chargé de la santé publique sont frappées d'une taxe
-annuelle perçue au profit de l'Etat.
+Les médicaments et produits bénéficiaires d'une autorisation de l'Agence du médicament sont frappées d'une taxe annuelle
+perçue au profit de l'Agence du médicament.
 
 **Nota:**
 
@@ -30718,9 +31308,8 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 11 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 19 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 24 () JORF 11 décembre 1992
+	  - Loi n°93-5 1993-01-04 art. 16 II, 7° JORF 5 janvier 1993
+	  - Loi n°93-5 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993
 
 	**Cité par**:
 
@@ -30741,13 +31330,13 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L602-2
 
-I. - La taxe annuelle prévue à l'article précédent est fixée à 1.000 F [*montant*] par médicament et produit bénéficiant
-d'une autorisation de mise sur le marché. Elle est due par le titulaire de cette autorisation.
+I. - La taxe annuelle prévue à l'article précédent est fixée par décret dans la limite de 20 000 F [*montant*] par médicament
+et produit bénéficiant d'une autorisation de mise sur le marché. Elle est due par le titulaire de cette autorisation.
 
-II. - La taxe n'est pas exigible pour les médicaments ou produits dont les ventes, à l'exclusion des ventes à l'exportation
+II. - La taxe n'est pas exigible pour les médicaments ou produits dont les ventes, à l'exclusion des ventes à l'exportation,
 n'ont pas atteint, au cours de l'année civile précédente, un montant hors taxe de 500.000 F.
 
-III. - Lorsqu'un médicament et produit est présenté en plusieurs conditionnements d'une contenance différente, c'est le
+III. - Lorsqu'un médicament ou produit est présenté en plusieurs conditionnements d'une contenance différente, c'est le
 montant total des ventes du médicament ou produit, sous ses différents conditionnements, qui doit être retenu pour
 l'application des dispositions précédentes.
 
@@ -30769,10 +31358,11 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°92-1279 1992-12-08 art. 11, art. 19, art. 24 II, III, art. IV JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 11 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 19 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 24 () JORF 11 décembre 1992
+	  - Loi n°93-5 1993-01-04 art. 16 8° JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
 
 	**Nouveaux textes**:
 
@@ -30793,11 +31383,11 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L602-3
 
-I. - Les redevables de la taxe [*obligation*] sont tenus d'adresser au ministre de la santé, au plus tard le 31 mars de
+I. - Les redevables de la taxe [*obligation*] sont tenus d'adresser a l'Agence du médicament, au plus tard le 31 mars de
 chaque année [*date limite*], une déclaration indiquant les médicaments et produits donnant lieu au paiement de la taxe.
-Cette déclaration est établie conformément au modèle fixé par arrêté du ministre de la santé.
+Cette déclaration est établie conformément au modèle fixé par arrêté de l'Agence du médicament. 
 
-II. - En l'absence de déclaration dans le délai fixé ou en cas de déclaration inexacte, le ministre de la santé peut procéder
+II. - En l'absence de déclaration dans le délai fixé ou en cas de déclaration inexacte, l'Agence du médicament peut procéder
 à une taxation d'office qui entraîne l'application d'une pénalité de 10 p. 100 pour retard de déclaration et de 50 p. 100
 pour défaut ou insuffisance de déclaration [*montant*].
 
@@ -30832,9 +31422,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 11 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 19 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 24 () JORF 11 décembre 1992
+	  - Loi n°93-5 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -30882,23 +31470,22 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ###### Article L603
 
-Un établissement pharmaceutique exportant un médicament [*à l'étranger*] doit demander au ministre chargé de la santé de
-certifier qu'il possède l'autorisation mentionnée à l'article L. 598. Un établissement pharmaceutique fabriquant un
-médicament en vue de son exportation doit demander de plus au ministre chargé de la santé de certifier qu'il s'est doté des
-bonnes pratiques de fabrication prévues à l'article L. 600. Un Etat non membre de la Communauté européenne important un
-médicament peut effectuer les mêmes demandes.
+Un établissement pharmaceutique exportant un médicament [*à l'étranger*] doit demander à l'Agence du médicament de certifier
+qu'il possède l'autorisation mentionnée à l'article L. 598. Un établissement pharmaceutique fabriquant un médicament en vue
+de son exportation doit demander de plus à l'Agence du médicament de certifier qu'il s'est doté des bonnes pratiques de
+fabrication prévues à l'article L. 600. Un Etat non membre de la Communauté européenne important un médicament peut effectuer
+les mêmes demandes.
 
-Le ministre chargé de la santé peut, pour des raisons de santé publique, interdire l'exportation de médicaments qui ne
+L'Agence du médicament peut, pour des raisons de santé publique, interdire l'exportation de médicaments qui ne
 bénéficieraient pas d'une autorisation de mise sur le marché telle que définie dans l'article L. 601 du présent code ou qui
 seraient susceptibles de faire courir aux patients concernés des risques non proportionnés aux bénéfices escomptés.
 
-Le ministre chargé de la santé interdit l'exportation de médicaments dont l'autorisation de mise sur le marché aurait été
-suspendue ou retirée pour des raisons de santé publique.
+L'Agence du médicament interdit l'exportation de médicaments dont l'autorisation de mise sur le marché aurait été suspendue
+ou retirée pour des raisons de santé publique.
 
 Lorsque le médicament exporté ne bénéficie pas d'une autorisation de mise sur le marché, l'établissement pharmaceutique qui
-l'exporte fournit au ministre chargé de la santé une déclaration expliquant les raisons pour lesquelles cette autorisation
-n'est pas disponible. Le ministre chargé de la santé communique ces raisons au ministre chargé de la santé du pays
-importateur.
+l'exporte fournit à l'Agence du médicament une déclaration expliquant les raisons pour lesquelles cette autorisation n'est
+pas disponible. L'Agence du médicament communique ces raisons au ministre chargé de la santé du pays importateur.
 
 Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
@@ -30929,9 +31516,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 11 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 19 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 22 () JORF 11 décembre 1992
+	  - Loi n°93-5 du 4 janvier 1993 - art. 18 () JORF 5 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -30953,8 +31538,8 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 ###### Article L604
 
 Lorsqu'un médicament ou produit soumis à l'autorisation de mise sur le marché prévue à l'article L. 601 est commercialisé,
-l'établissement pharmaceutique qui l'exploite communique, sans délai, la date de cette commercialisation au ministre chargé
-de la santé.
+l'établissement pharmaceutique qui l'exploite communique, sans délai, la date de cette commercialisation à l'Agence du
+médicament.
 
 **Liens relatifs à cet article**
 
@@ -30968,11 +31553,9 @@ de la santé.
 	  - Loi n°68-1 du 2 janvier 1968 - art. 72 (Ab)
 	  - Code de la santé publique - art. L605 (M)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 11 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 19 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 23 () JORF 11 décembre 1992
+	  - Loi n°93-5 du 4 janvier 1993 - art. 18 () JORF 5 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -30991,9 +31574,9 @@ de la santé.
 ###### Article L604-1
 
 L'établissement pharmaceutique exploitant un médicament ou produit soumis aux dispositions de la présente section informe
-immédiatement le ministre chargé de la santé de toute action qu'il a engagée pour en suspendre la commercialisation, le
-retirer du marché ou en retirer un lot déterminé. Il doit en indiquer la raison si celle-ci concerne l'efficacité du
-médicament ou produit ou la protection de la santé publique.
+immédiatement l'Agence du médicament de toute action qu'il a engagée pour en suspendre la commercialisation, le retirer du
+marché ou en retirer un lot déterminé. Il doit en indiquer la raison si celle-ci concerne l'efficacité du médicament ou
+produit ou la protection de la santé publique.
 
 **Liens relatifs à cet article**
 
@@ -31002,11 +31585,9 @@ médicament ou produit ou la protection de la santé publique.
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 11 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 19 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 23 () JORF 11 décembre 1992
+	  - Loi n°93-5 du 4 janvier 1993 - art. 18 () JORF 5 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -31054,10 +31635,8 @@ certains médicaments ;
 10° Les règles applicables à la pharmacovigilance exercée sur les médicaments postérieurement à la délivrance de
 l'autorisation administrative de mise sur le marché.
 
-**Nota:**
-
-[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 46 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+11° Les règles particulières applicables à la pharmacovigilance exercée sur les médicaments dérivés du sang et les autres
+médicaments d'origine humaine.
 
 **Liens relatifs à cet article**
 
@@ -31068,10 +31647,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	**Modifié par**:
 
-	  - Loi n°92-1279 1992-12-08 art. 11, art. 19, art. 24 I, III, V JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 11 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 19 () JORF 11 décembre 1992
-	  - Loi n°92-1279 du 8 décembre 1992 - art. 24 () JORF 11 décembre 1992
+	  - Loi n°93-5 du 4 janvier 1993 - art. 12 () JORF 5 janvier 1993
 
 	**Cité par**:
 
@@ -33054,7 +33630,7 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 L'achat, la fourniture, la prise en charge et l'utilisation par les collectivités publiques des médicaments [*spécialisés et
 vétérinaires*] définis aux articles L. 601, 605 et 606 ci-dessus sont limités dans les conditions prévues ci-dessous aux
-produits agréés dont la liste est établie par le ministre de la Santé publique.
+produits agréés dont la liste est établie par l'Agence du médicament.
 
 **Liens relatifs à cet article**
 
@@ -33111,6 +33687,10 @@ produits agréés dont la liste est établie par le ministre de la Santé publiq
 	  - Code de la sécurité sociale. - art. R163-8 (M)
 	  - Code de la sécurité sociale. - art. R163-9 (M)
 	  - Code général des impôts, CGI. - art. 281 nonies (V)
+
+	**Modifié par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -35740,14 +36320,17 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 L'inspection des conditions de fabrication et de conditionnement, de contrôle et de stockage des matières premières et des
 produits finis, dans les établissements de fabrication, de conditionnement ou d'importation de produits cosmétiques ou
-d'hygiène corporelle, est confiée aux médecins et aux pharmaciens inspecteurs de la santé, ainsi qu'à toutes les personnes
-habilitées à constater les infractions à la loi du 1er août 1905 sur la répression des fraudes dans la vente des marchandises
-et les falsifications des denrées alimentaires et des produits agricoles [*autorités compétentes*].
+d'hygiène corporelle, est confiée aux médecins et aux pharmaciens inspecteurs de la santé, aux inspecteurs de l'Agence du
+médicament, ainsi qu'à toutes les personnes habilitées à constater les infractions aux articles L. 213-1 et s. du code de la
+consommation [*autorités compétentes*].
 
 **Nota:**
 
 [*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 48 : le présent article du code de la santé publique, en vigueur au 7
 avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+[*Nota : Loi 93-949 du 26 juillet 1993 art. 4 : les références à la loi du 1er août 1905 sont remplaçées par les références
+au code de la consommation correspondantes.*]
 
 **Liens relatifs à cet article**
 
@@ -35755,6 +36338,16 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Loi n°93-5 1993-01-04 art. 16 9° JORF 5 janvier 1993
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Loi n°93-949 1993-07-26 art. 4
+	  - TXT_ASSOCIE: Code de la santé publique - art. L658-9 (M)
+	  - TXT_ASSOCIE: Code de la santé publique L658-10 : DISPOSITIONS PENALES
 
 	**Cité par**:
 
@@ -35764,18 +36357,9 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Arrêté du 25 juin 1986 - art. 3 (V)
 	  - Code de la santé publique - art. L658-10 (P)
 
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L658-9 (M)
-	  - TXT_ASSOCIE: Code de la santé publique L658-10 : DISPOSITIONS PENALES
-
 	**Cite**:
 
-	  - Loi n°1905-08-01
-
-	**Créé par**:
-
-	  - Loi n°75-604 1975-07-10 art. 2 JORF 11 juillet 1975
+	  - Code de la consommation - art. L213-1 (M)
 
 
 ###### Article L658-9
@@ -35833,7 +36417,7 @@ au code de la consommation correspondantes.*]
 
 Les insecticides et les acaricides destinés à être appliqués sur l'homme et les produits destinés à l'entretien ou
 l'application des lentilles de contact doivent, avant leur mise sur le marché à titre onéreux ou à titre gratuit, faire
-l'objet d'une autorisation [*obligatoire*] par le ministre chargé de la santé [*autorité compétente*].
+l'objet d'une autorisation [*obligatoire*] par l'Agence du médicament [*autorité compétente*].
 
 Cette autorisation peut être assortie de conditions adéquates ;
 
@@ -35849,7 +36433,7 @@ Cette autorisation est délivrée pour une durée de cinq ans ;
 
 elle est ensuite renouvelable par période quinquennale.
 
-Elle peut être suspendue ou supprimée par le ministre chargé de la santé.
+Elle peut être suspendue ou supprimée par l'Agence du médicament.
 
 L'accomplissement des formalités prévues au présent article n'a pas pour effet d'exonérer le fabricant de la responsabilité
 qu'il peut encourir dans les conditions du droit commun en raison de la fabrication ou de la mise sur le marché du produit.
@@ -35869,10 +36453,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 	  - Décret n°53-1001 1953-10-05 (décret de codification)
 	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Loi n°78-699 1978-07-06 art. 4 JORF 7 juillet 1978
 
 	**Cité par**:
 
@@ -35924,6 +36504,10 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	  - Code de la santé publique - art. R5266-15 (Ab)
 	  - Code de la santé publique - art. R5266-16 (Ab)
 	  - Code de la santé publique - art. R5266-2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 16 () JORF 5 janvier 1993
 
 	**Nouveaux textes**:
 
@@ -36301,387 +36885,9 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ### Chapitre unique : Utilisation thérapeutique du sang humain, de son plasma et de leurs dérivés
 
-###### Article L666
-
-Le sang humain, son plasma et leurs dérivés, dont la liste est fixée par décret, ne peuvent être utilisés que sous contrôle
-médical et à des fins strictement thérapeutiques médico-chirurgicales *condition*.
-
-Toutefois, ces dispositions ne sont pas applicables aux sérums antimicrobiens ou antitoxiques, d'origine humaine.
-
-**Nota:**
-
-*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 278 quater (M)
-	  - Code général des impôts, CGI. - art. 281 nonies (V)
-	  - Décret n°88-1270 du 28 décembre 1988 - art. 1 (Ab)
-	  - Décret n°91-1185 du 18 novembre 1991 - art. 1 (Ab)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 279 (M)
-	  - CODE GENERAL DES IMPOTS, CGI. - art. 281 octies (M)
-	  - Code de la santé publique - art. L671 (P)
-	  - Code de la santé publique - art. L675 (P)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°1972-11-15 : LISTE DES PRODUITS SANGUINS D'ORIGINE HUMAINE A USAGE THERAPEUTIQUE
-	  - TXT_SOURCE: Décret n°88-1270 du 28 décembre 1988
-	  - TXT_SOURCE: Décret n°88-1270 du 28 décembre 1988 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°88-1270 du 28 décembre 1988 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°88-1270 du 28 décembre 1988 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°88-1270 du 28 décembre 1988 - art. 4 (Ab)
-	  - TXT_ASSOCIE: Décret n°91-1185 du 18 novembre 1991
-	  - TXT_ASSOCIE: Décret n°91-1185 du 18 novembre 1991 - art. 1 (Ab)
-	  - TXT_ASSOCIE: Décret n°91-1185 du 18 novembre 1991 - art. 2 (Ab)
-	  - TXT_ASSOCIE: Décret n°91-1185 du 18 novembre 1991 - art. 3 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°52-854 1952-07-21 art. 1
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-
-#### Section 1 : Préparation, conservation et distribution des produits sanguins
-
-###### Article L667
-
-Le sang humain ne peut être prélevé que par un docteur en médecine ou sous sa direction et sa responsabilité.
-
-La préparation de sang humain, de son plasma et de leurs dérivés, ne peut être effectuée que par un docteur en médecine ou
-par un pharmacien *compétence*, ou sous leur direction et leur responsabilité, uniquement dans les établissements agréés par
-le ministre de la Santé publique et de la Population, après avis d'une commission consultative de la transfusion sanguine,
-dont la composition est fixée par un arrêté du même ministre. L'arrêté portant retrait de l'agrément est pris dans les mêmes
-formes ;
-
-il doit être motivé.
-
-Les caractéristiques du sang humain ne peuvent être modifiées avant le prélèvement que par un docteur en médecine opérant
-uniquement dans les établissements prévus à l'alinéa précédent.
-
-Cette modification ne peut être faite qu'avec le consentement écrit *condition de forme* du donneur volontaire, ce dernier
-ayant été préalablement averti par écrit trois jours à l'avance des risques qu'il court *délai*.
-
-Les organismes dont relèvent les établissements ci-dessus visés assument, même sans faute, la responsabilité des risques
-courus par les donneurs en fonction des opérations visées aux alinéas 3 et 4 ci-dessus et doivent contracter une assurance
-couvrant, sans limitation de somme, la responsabilité de ces établissements du fait de ces risques. Cette assurance doit
-comporter des garanties au moins égales à celles qui seront définies par un arrêté pris conjointement par le ministre de la
-santé publique et de la population et le ministre des finances et des affaires économiques.
-
-Les litiges auxquels peut donner lieu l'application de l'alinéa précédent sont soumis aux tribunaux judiciaires *juridiction
-compétente*.
-
-**Nota:**
-
-*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1977-07-11 JORF 24 juillet
-	  - TXT_ASSOCIE: Décret n°54-65 1954-01-16 : RELATIF A LA CREATION ET AU CONTROLE DES ETABLISSEMENTS DE TRANSFUSION SANGUINE
-	  - TXT_SOURCE: Arrêté du 18 décembre 1987
-	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 5 (V)
-	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 6 (V)
-	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 7 (V)
-	  - TXT_SOURCE: Arrêté du 18 décembre 1987 - art. 8 (V)
-	  - TXT_ASSOCIE: Arrêté du 29 juillet 1992
-	  - TXT_ASSOCIE: Arrêté du 29 juillet 1992 - art. 1 (V)
-	  - TXT_ASSOCIE: Arrêté du 29 juillet 1992 - art. 2 (V)
-	  - TXT_ASSOCIE: Arrêté du 29 juillet 1992 - art. Annexe (V)
-	  - TXT_ASSOCIE: Arrêté du 29 juillet 1992 - art. Annexe 1 (V)
-	  - TXT_ASSOCIE: Arrêté du 29 juillet 1992 - art. Annexe 2 (V)
-	  - TXT_ASSOCIE: Arrêté du 2 novembre 1992
-	  - TXT_ASSOCIE: Arrêté du 2 novembre 1992 - art. Annexe (V)
-	  - TXT_ASSOCIE: Arrêté du 2 novembre 1992 - art. Unique (V)
-	  - TXT_ASSOCIE: Code de la santé publique L675-1 : DISPOSITIONS PENALES
-
-	**Anciens textes**:
-
-	  - Loi n°52-854 1952-07-21 art. 2
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°74-431 du 14 mai 1974 - art. 10 (Ab)
-	  - Arrêté du 18 décembre 1987 - art. 1 (V)
-	  - Arrêté du 2 novembre 1992 - art. Unique (V)
-	  - Arrêté du 3 novembre 1986 - art. 12 (Ab)
-	  - Code de la santé publique - art. L675 (P)
-	  - Code de la santé publique - art. R5184 (M)
-
-
-###### Article L668
-
-Le sang humain, son plasma et leurs dérivés sont déposés soit dans les établissements autorisés à les préparer, soit dans les
-établissements de soins désignés par le ministre de la santé publique et de la population *lieu*. Ils restent sous la
-surveillance d'un médecin ou d'un pharmacien.
-
-Toutefois, les produits dont la stabilité est assurée peuvent être déposés dans les officines de pharmacie. La liste de ces
-produits, les conditions de leur dépôt et de leur conservation, sont fixées par arrêté du ministre de la santé publique et de
-la population.
-
-**Nota:**
-
-*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°52-854 1952-07-21 art. 3
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°88-976 du 13 octobre 1988 - art. 13 (V)
-	  - Code de la santé publique - art. L675 (P)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Arrêté du 24 novembre 1986
-	  - TXT_SOURCE: Arrêté du 24 novembre 1986 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 24 novembre 1986 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 24 novembre 1986 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 24 novembre 1986 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 24 novembre 1986 - art. 5 (V)
-	  - TXT_SOURCE: Arrêté du 24 novembre 1986 - art. 6 (V)
-
-
-###### Article L669
-
-Le ministre de la Santé publique et de la Population [*autorité compétente*] peut, par arrêté, réglementer la délivrance des
-substances mentionnées à l'article précédent. Cette délivrance ne peut être faite que sur ordonnance médicale.
-
-**Nota:**
-
-*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°52-854 1952-07-21 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L675 (P)
-
-
-###### Article L670
-
-Le contrôle de la préparation, de la conservation et de la qualité de ces substances, ainsi que de leur détention et de leur
-délivrance pourra être exercé à tout moment par des personnes qualifiées, désignées par arrêté du ministre de la Santé
-publique et de la Population.
-
-**Nota:**
-
-*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°52-854 1952-07-21 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L672 (P)
-	  - Code de la santé publique - art. L675 (P)
-
-
 #### Section 2 : Dispositions diverses
 
-##### Paragraphe 1 : Interdiction de la publicité
-
-###### Article L671
-
-Est interdite toute publicité concernant la distribution des substances visées à l'article L. 666 ci-dessus, à l'exception de
-celle destinée à la seule information médicale ou à signaler l'emplacement des dépôts.
-
-**Nota:**
-
-*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°52-854 1952-07-21 art. 6
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L666 (P)
-
-
-##### Paragraphe 2 : Dispositions financières
-
-###### Article L672
-
-Les frais de contrôle visés à l'article L. 670 ci-dessus seront à la charge de l'Etat et imputés au budget du ministère de la
-Santé publique et de la Population.
-
-**Nota:**
-
-*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°52-854 1952-07-21 art. 4
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L670 (P)
-
-
-###### Article L673
-
-Les prix des opérations concernant le sang humain, son plasma et leurs dérivés, tant au stade de la préparation et du dépôt
-qu'à celui de leur délivrance, à titre onéreux, sont fixés par arrêté du ministre de la Santé publique et de la Population de
-façon à exclure tout profit.
-
-**Nota:**
-
-*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Arrêté 1976-08-20 : TARIF DE CESSION DES PRODUITS SANGUINS
-	  - TXT_SOURCE: Arrêté du 9 mars 1989
-	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 1 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 2 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 3 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 4 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 5 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 6 (V)
-	  - TXT_SOURCE: Arrêté du 9 mars 1989 - art. 7 (V)
-	  - TXT_ASSOCIE: Code de la santé publique L674 : DISPOSITIONS PENALES
-
-	**Anciens textes**:
-
-	  - Loi n°52-854 1952-07-21 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L674 (P)
-
-
 ##### Paragraphe 3 : Dispositions pénales
-
-###### Article L674
-
-Toute infraction aux arrêtés visés à l'article L. 673 ci-dessus est punie d'un emprisonnement de trois mois à un an [*durée*]
-et d'une amende de 360 F à 30.000 F [*montant*] ou de l'une de ces deux peines seulement.
-
-**Nota:**
-
-*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°52-854 1952-07-21 art. 5
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L673 (P)
-
-
-###### Article L675
-
-Les dispositions prévues par la loi du 1er août 1905 en ce qui concerne la falsification des substances médicamenteuses, la
-détention, la mise en vente ou la vente de substances médicamenteuses falsifiées, sont applicables à la préparation, la
-détention et la délivrance, à titre gratuit ou onéreux, du sang humain, de son plasma et de leurs dérivés effectuées en
-infraction aux dispositions des articles L. 666 à 670 ci-dessus.
-
-**Nota:**
-
-*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7
-avril 1992, s'applique à la collectivité territoriale de Mayotte.*
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°52-854 1952-07-21 art. 7
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L666 (P)
-	  - Code de la santé publique - art. L667 (P)
-	  - Code de la santé publique - art. L668 (P)
-	  - Code de la santé publique - art. L669 (P)
-	  - Code de la santé publique - art. L670 (P)
-	  - Loi n°1905-08-01
-
 
 ###### Article L675-1
 
@@ -36717,34 +36923,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*
 	  - Code de la santé publique L667 AL. 3, AL. 4, AL. 5
 
 
-###### Article L676
-
-Les autres infractions aux dispositions du présent chapitre et aux règlements d'administration publique pris pour son
-application seront punies d'une amende de 1.300 F à 3.000 F *1* *montant*.
-
-**Nota:**
-
-*Nota - (1) taux résultant de la loi 89-469 du 10 juillet 1989.
-
-Ordonnance 92-1070 du 1er octobre 1992 art. 51 : le présent article du code de la santé publique, en vigueur au 7 avril 1992,
-s'applique à la collectivité territoriale de Mayotte.*
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Loi n°52-854 1952-07-21 art. 8
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Cite**:
-
-	  - Code de la santé publique L666 à L677
-
-
 ##### Paragraphe 4 : Modalités d'application
 
 ###### Article L677
@@ -36770,6 +36948,2406 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1263-1 (T)
+
+
+### Chapitre 1er : De la collecte du sang humain et de ses composants et de la préparation de leurs produits dérivés
+
+###### Article L666-1
+
+La transfusion sanguine s'effectue dans l'intérêt du receveur et relève des principes éthiques du bénévolat et de l'anonymat
+du don, et de l'absence de profit, dans les conditions définies par le présent livre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1221-1 (V)
+
+
+###### Article L666-2
+
+La collecte du sang humain ou de ces composants en vue d'une utilisation thérapeutique ne peut être faite que par les
+établissements de transfusion sanguine agréés mentionnés au chapitre III ci-après et dans les conditions prévues au présent
+chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1221-2 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L666-13 (Ab)
+	  - Code de la santé publique - art. L668-1 (M)
+	  - Code de la santé publique - art. L668-2 (Ab)
+
+
+###### Article L666-3
+
+Le prélèvement ne peut être fait qu'avec le consentement du donneur par un médecin ou sous sa direction et sa responsabilité.
+
+Aucune rémunération ne peut être allouée au donneur [*principe du don*], sans préjudice du remboursement des frais exposés,
+dans des conditions fixées par décret.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
+	  - Code de la santé publique - art. L666-8 (Ab)
+	  - Code de la santé publique - art. L670-4 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°94-611 du 20 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1221-3 (M)
+
+
+###### Article L666-4
+
+Le sang, ses composants et leurs dérivés ne peuvent être distribués ni utilisés sans qu'aient été faits [*obligations*] des
+analyses biologiques et des tests de dépistage de maladies transmissibles, dans des conditions définies par décret.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna. Pour sa rédaction, voir l'article 15 de la
+loi 93-5.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Arrêté du 7 février 1994 - art. Annexe (V)
+	  - Arrêté du 4 janvier 1995 - art. Annexe (V)
+	  - Arrêté du 29 novembre 1996
+	  - Code de la santé publique - art. L666-8 (Ab)
+	  - Code de la santé publique - art. L668-5 (Ab)
+	  - Code de la santé publique - art. L671-4 (T)
+	  - Code de la santé publique - art. L675-4 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1221-4 (M)
+	  - Code de la santé publique - art. L1522-3 (V)
+	  - Code de la santé publique - art. L1532-3 (V)
+	  - Code de la santé publique - art. L1542-5 (V)
+
+
+###### Article L666-5
+
+Aucun prélèvement de sang ou de ses composants en vue d'une utilisation thérapeutique pour autrui ne peut avoir lieu sur une
+personne mineure ou sur une personne majeure faisant l'objet d'une mesure de protection légale.
+
+Toutefois, s'agissant des mineurs, un prélèvement peut être effectué à titre exceptionnel, lorsque des motifs tirés de
+l'urgence thérapeutique et de la compatibilité tissulaire l'exigent.
+
+Le prélèvement ne peut alors être opéré qu'à la condition que chacun des titulaires de l'autorité parentale y consente
+expressément par écrit [*conditions de forme*]. Le refus de la personne mineure fait obstacle au prélèvement.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
+	  - Code de la santé publique - art. L666-6 (Ab)
+	  - Code de la santé publique - art. L666-8 (Ab)
+	  - Code de la santé publique - art. L671-2 (T)
+	  - Code de la santé publique - art. L675-2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1221-5 (V)
+
+
+###### Article L666-6
+
+Les caractéristiques du sang ne peuvent être modifiées avant le prélèvement en vue d'une utilisation thérapeutique pour
+autrui que par un médecin [*autorité compétente*] et dans les établissements de transfusion sanguine. Cette modification ne
+peut intervenir qu'avec le consentement écrit [*forme*] du donneur, ce dernier ayant été préalablement averti par écrit des
+risques qu'il encourt et des conséquences éventuelles du prélèvement. Elle ne peut pas être réalisée sur les personnes
+mentionnées à l'article L. 666-5 [*mineur ou majeur faisant l'objet d'une mesure de protection légale*].
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
+	  - Code de la santé publique - art. L666-8 (Ab)
+	  - Code de la santé publique - art. L670-4 (Ab)
+	  - Code de la santé publique - art. L671-5 (T)
+	  - Code de la santé publique - art. L675-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1221-6 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-5 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L675-5 (Ab)
+
+
+###### Article L666-7
+
+Le receveur ne peut connaître l'identité du donneur, ni le donneur celle du receveur. Aucune information permettant
+d'identifier à la fois celui qui a fait don de son sang et celui qui l'a reçu ne peut être divulguée.
+
+Il ne peut être dérogé à ce principe d'anonymat qu'en cas de nécessité thérapeutique.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
+	  - Code de la santé publique - art. L666-8 (Ab)
+	  - Code de la santé publique - art. L671-6 (T)
+	  - Code de la santé publique - art. L675-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1221-7 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L675-6 (Ab)
+
+
+###### Article L666-8
+
+Peuvent être préparés à partir du sang ou de ses composants [*dérivés*] :
+
+1° Des produits sanguins labiles, comprenant notamment le sang total, le plasma et les cellules sanguines d'origine humaine,
+dont la liste et les caractéristiques sont établies par des règlements de l'Agence française du sang, homologués par le
+ministre chargé de la santé et publiés au Journal officiel de la République française ;
+
+2° Des produits stables préparés industriellement, qui constituent des médicaments dérivés du sang et sont régis par les
+dispositions du chapitre V ci-après ;
+
+3° Des réactifs de laboratoire, dont les caractéristiques et les conditions de préparation et d'utilisation sont définies par
+décret.
+
+Le sang et ses composants peuvent être utilisés dans le cadre d'une activité de recherche, qu'ils aient été ou non prélevés
+par des établissements de transfusion sanguine. Les principes mentionnés aux articles L. 666-3, L. 666-4, L. 666-5, L. 666-6
+et L. 666-7 sont également applicables dans ce cas, sans préjudice des dispositions du livre II bis relatives à la protection
+des personnes qui se prêtent à des recherches biomédicales et des dérogations qui peuvent être apportées par voie
+réglementaire aux obligations définies par l'article L. 666-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 11 (V)
+	  - Arrêté du 27 septembre 1993 - art. Annexe (Ab)
+	  - Arrêté du 8 décembre 1994 - art. Annexe I (V)
+	  - Arrêté du 30 mars 1998 - art. 3 (Ab)
+	  - Arrêté du 30 mars 1998 - art. Annexe I (Ab)
+	  - Code de la santé publique - art. L667-5 (M)
+	  - Code de la santé publique - art. L671-8 (T)
+	  - Code de la santé publique - art. L672-11 (M)
+	  - Code de la santé publique - art. L675-8 (Ab)
+	  - Code de la santé publique - art. R665-80-1 (Ab)
+	  - Code de la santé publique - art. R667-12 (M)
+	  - Code de la santé publique - art. R673-10-9 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 27 septembre 1993
+	  - TXT_SOURCE: Arrêté du 27 septembre 1993 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 27 septembre 1993 - art. Annexe (Ab)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1993
+	  - TXT_SOURCE: Arrêté du 15 novembre 1993 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1993 - art. Annexe (V)
+	  - TXT_SOURCE: Arrêté du 15 novembre 1993 - art. Préambule (V)
+	  - TXT_SOURCE: Arrêté du 5 avril 1994
+	  - TXT_SOURCE: Arrêté du 5 avril 1994 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 5 avril 1994 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 5 avril 1994 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 5 avril 1994 - art. Annexe (V)
+	  - TXT_SOURCE: Arrêté du 23 décembre 1997
+	  - TXT_SOURCE: Arrêté du 23 décembre 1997 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 23 décembre 1997 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 5 février 1998
+	  - TXT_SOURCE: Arrêté du 5 février 1998 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 30 mars 1998
+	  - TXT_SOURCE: Arrêté du 30 mars 1998 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 30 mars 1998 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 30 mars 1998 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 30 mars 1998 - art. Annexe I (Ab)
+	  - TXT_SOURCE: Arrêté du 11 septembre 1998
+	  - TXT_SOURCE: Arrêté du 11 septembre 1998 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 11 septembre 1998 - art. 2 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1221-8 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-3 (M)
+	  - Code de la santé publique - art. L666-4 (M)
+	  - Code de la santé publique - art. L666-5 (M)
+	  - Code de la santé publique - art. L666-6 (M)
+	  - Code de la santé publique - art. L666-7 (M)
+
+
+###### Article L666-9
+
+Un arrêté du ministre chargé de la santé et du ministre chargé de la sécurité sociale, pris après avis de l'Agence française
+du sang, fixe les tarifs [*prix*] de cession des produits sanguins labiles.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
+	  - Arrêté du 27 septembre 1993 - art. Annexe (Ab)
+	  - Arrêté du 30 mars 1998 - art. Annexe I (Ab)
+	  - Code de la santé publique - art. L671-7 (T)
+	  - Code de la santé publique - art. L675-7 (Ab)
+	  - Code de la santé publique - art. R667-12 (M)
+	  - Code de la sécurité sociale. - art. R161-42 (V)
+	  - Code de la sécurité sociale. - art. R321-1 (Ab)
+	  - Code de la sécurité sociale. - art. R615-37 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1221-9 (V)
+
+
+###### Article L666-10
+
+Les produits sanguins labiles destinés à une utilisation thérapeutique directe sont conservés dans les établissements de
+transfusion sanguine ou dans les établissements de santé autorisés à cet effet par le ministre chargé de la santé après avis
+de l'Agence française du sang. Ils restent sous la surveillance d'un médecin ou d'un pharmacien. Un décret précise la section
+de l'ordre national des pharmaciens dont ledit pharmacien doit relever.
+
+Le ministre chargé de la santé peut, par arrêté pris après avis de l'Agence française du sang, réglementer la délivrance et
+l'utilisation des produits sanguins labiles. Cette délivrance ne peut être faite que sur ordonnance médicale.
+
+Il peut en suspendre ou en interdire définitivement la distribution et l'utilisation dans l'intérêt de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
+	  - Arrêté du 8 décembre 1994 - art. Annexe I (V)
+	  - Décret n°95-565 du 6 mai 1995 - art. 1 (Ab)
+	  - Décret n°2003-462 du 21 mai 2003 - art. 5 (V)
+	  - Code de la santé publique - art. L667-9 (Ab)
+	  - Code de la santé publique - art. L668-11 (M)
+	  - Code de la santé publique - art. L675-8 (Ab)
+	  - Code de la santé publique - art. R5184 (Ab)
+	  - Code de la santé publique - art. R666-12-9 (Ab)
+	  - Code de la santé publique - art. R667-12 (M)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°95-565 du 6 mai 1995
+	  - TXT_SOURCE: Décret n°95-565 du 6 mai 1995 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°95-565 du 6 mai 1995 - art. 2 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1221-10 (V)
+
+
+###### Article L666-11
+
+Toute importation, par quelque organisme que ce soit, d'un produit sanguin labile est subordonnée [*obligation*] à une
+autorisation délivrée par le ministre chargé de la santé dans des conditions définies par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1221-12 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L671-1 (T)
+	  - Code de la santé publique - art. L675-1 (Ab)
+	  - Loi n°92-1477 du 31 décembre 1992 - art. 18 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L675-1 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+
+###### Article L666-12
+
+Un décret en Conseil d'Etat fixe les règles d'hémo-vigilance, et notamment la nature des informations nécessaires à la
+surveillance des effets de l'utilisation des produits sanguins labiles que les praticiens sont tenus de fournir, ainsi que
+les conditions d'exercice de cette surveillance. Les personnes qui ont à connaître de ces informations sont tenues au secret
+professionnel dans les conditions et sous les peines prévues à l'article 378 du code pénal.
+
+On entend par hémo-vigilance [*définition*] l'ensemble des procédures de surveillance organisées depuis la collecte du sang
+et de ses composants jusqu'au suivi des receveurs, en vue de recueillir et d'évaluer les informations sur les effets
+inattendus ou indésirables résultant de l'utilisation thérapeutique des produits sanguins labiles et d'en prévenir
+l'apparition.
+
+**Nota:**
+
+[*Nota - Loi n° 92-1336 du 16 décembre 1992 art. 333 : à partir du 1er septembre 1993, la référence aux peines prévues par
+l'article 378 du code pénal est remplacée par la référence aux peines fixées par l'article 226-13 du code pénal.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°94-68 du 24 janvier 1994
+
+	**Cite**:
+
+	  - Code pénal 378
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1221-13 (V)
+
+
+###### Article L666-13
+
+Est interdite toute publicité concernant la distribution des substances visées à l'article L. 666-2, à l'exception de celle
+destinée à la seule information médicale ou à signaler l'emplacement des dépôts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 2 () JORF 5 janvier 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1221-11 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-2 (M)
+
+
+### Chapitre 2 : Du comité de sécurité transfusionnelle et de l'Agence française du sang
+
+#### Section 1 : Du comité de sécurité transfusionnelle
+
+###### Article L667-1
+
+Il est institué auprès du ministre chargé de la santé un Comité de sécurité transfusionnelle dont les membres sont choisis
+pour leur compétence médicale et scientifique et nommés par un arrêté du ministre chargé de la santé.
+
+Les fonctions de membre du Comité de sécurité transfusionnelle sont incompatibles avec celles de membre du conseil
+d'administration de l'Agence française du sang.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°93-312 du 9 mars 1993 - art. 4 (Ab)
+	  - Code de la santé publique - art. R667-4 (M)
+
+
+###### Article L667-2
+
+Le Comité de sécurité transfusionnelle est chargé [*attributions*] :
+
+- d'évaluer les conditions dans lesquelles est assurée la sécurité transfusionnelle et de proposer toute mesure utile
+destinée à améliorer cette sécurité sur l'ensemble de l'activité transfusionnelle ;
+
+- d'alerter le ministre chargé de la santé sur toutes les questions d'ordre médical ou scientifique qui peuvent avoir une
+incidence sur l'activité transfusionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+
+
+###### Article L667-3
+
+Le Comité de sécurité transfusionnelle peut se saisir [*saisine*] de toute question relative à la sécurité transfusionnelle
+et adresser des recommandations au ministre chargé de la santé auquel il remet chaque année [*périodicité*] un rapport sur la
+sécurité transfusionnelle. Ce rapport est rendu public.
+
+Il peut également être saisi par le ministre de la santé ou le président de l'Agence française du sang de toute question
+relative à la sécurité transfusionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+
+
+#### Section 2 : De l'Agence française du sang
+
+###### Article L667-4
+
+Il est créé un établissement public de l'Etat à caractère administratif [*nature juridique*] dénommé Agence française du sang
+et placé sous la tutelle du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 10 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 25 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 26 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 27 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 28 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 29 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 30 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 31 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 32 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 33 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 34 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 35 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 36 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 37 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 38 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 39 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 40 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 41 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 42 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 43 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 44 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 45 (V)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 46 (V)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°93-312 du 9 mars 1993 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°95-755 du 1 juin 1995 - art. 2 (P)
+	  - Code de la santé publique - art. D666-3-5 (Ab)
+
+
+###### Article L667-5
+
+L'Agence française du sang a pour objet [*buts*] de contribuer à la définition et à l'application de la politique de
+transfusion sanguine, de coordonner et de contrôler l'activité et la gestion des établissements de transfusion sanguine et
+d'assurer des missions d'intérêt général afin de garantir à la fois la plus grande sécurité possible et la satisfaction des
+besoins en matière de transfusion sanguine et de favoriser l'adaptation de l'activité transfusionnelle aux évolutions
+médicales, scientifiques et technologiques, dans le respect des principes éthiques.
+
+A cette fin, elle est notamment chargée [*attributions*] :
+
+1° Au titre de la contribution à la définition et à l'application de la politique de transfusion sanguine :
+
+a) De promouvoir le don du sang et les conditions de sa bonne utilisation ainsi que de veiller au strict respect des
+principes éthiques par l'ensemble de la chaîne transfusionnelle ;
+
+b) De donner aux autorités compétentes de l'Etat des avis sur les conditions techniques, sanitaires, médicales et de gestion
+auxquelles sont soumis les établissements de transfusion sanguine, sur les tarifs de cession des produits sanguins labiles
+ainsi que sur toute mesure concernant l'organisation de la transfusion sanguine, la distribution et l'utilisation des
+produits sanguins ;
+
+c) D'établir et de soumettre à l'homologation du ministre chargé de la santé les règlements mentionnés au 1° de l'article L.
+666-8 et à l'article L. 668-3 et de veiller à leur application ;
+
+d) De préparer les projets des schémas d'organisation de la transfusion sanguine prévus au chapitre IV ci-après et de veiller
+à leur application ;
+
+e) De recueillir ou faire recueillir toutes données sur l'activité de transfusion sanguine, notamment en vue des actions
+d'hémovigilance ;
+
+2° Au titre du contrôle et de la coordination de l'activité des établissements de transfusion sanguine :
+
+a) De prendre les décisions d'agrément ou d'approbation, d'autorisation, de retrait ou de suspension prévues aux articles L.
+668-1, L. 668-4, L. 668-5, L. 668-8 et L. 668-11 ;
+
+b) De veiller au respect des dispositions législatives et réglementaires applicables aux établissements de transfusion
+sanguine ainsi que des conditions auxquelles sont subordonnés les agréments et autorisations dont ils bénéficient ;
+
+c) De gérer le fonds d'orientation de la transfusion sanguine ;
+
+d) De participer à la formation des personnels des établissements de transfusion sanguine ;
+
+e) De favoriser et de coordonner, en liaison avec les organismes de recherche, l'activité de recherche des établissements de
+transfusion sanguine et de promouvoir la diffusion des connaissances scientifiques et techniques dans l'activité
+transfusionnelle ;
+
+3° Au titre des missions d'intérêt national relatives à l'activité de transfusion sanguine ;
+
+a) De tenir un fichier national des donneurs de groupes rares et de coordonner l'activité des laboratoires de référence ;
+
+b) De procéder à des expertises techniques et des actions d'évaluation de l'activité de transfusion sanguine ;
+
+c) De participer à l'organisation et à l'acheminement des secours en cas de catastrophe nationale ou internationale
+nécessitant de recourir aux moyens de transfusion sanguine, dans le cadre des lois et règlements applicables à ces
+événements.
+
+L'agence remet chaque année au Gouvernement un rapport sur l'activité de transfusion sanguine. Ce rapport est rendu public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°93-312 du 9 mars 1993 - art. 15 (Ab)
+	  - Décret n°93-312 du 9 mars 1993 - art. 2 (Ab)
+	  - Décret n°93-312 du 9 mars 1993 - art. 9 (Ab)
+	  - Code de la santé publique - art. D666-3-5 (Ab)
+	  - Code de la santé publique - art. R667-15 (M)
+	  - Code de la santé publique - art. R667-2 (M)
+	  - Code de la santé publique - art. R667-6 (Ab)
+	  - Code de la santé publique - art. R667-9 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1222-1 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-8 (M)
+	  - Code de la santé publique - art. L668-1 (M)
+	  - Code de la santé publique - art. L668-11 (M)
+	  - Code de la santé publique - art. L668-3 (M)
+	  - Code de la santé publique - art. L668-4 (M)
+	  - Code de la santé publique - art. L668-5 (M)
+	  - Code de la santé publique - art. L668-8 (M)
+
+
+###### Article L667-6
+
+L'Agence française du sang est administrée par [*fonctionnement*] un conseil d'administration composé, outre son président,
+pour moitié de représentants de l'Etat et pour l'autre moitié de représentants des organismes d'assurance maladie, des
+associations de patients et de donneurs ainsi que du personnel de l'agence et de personnalités qualifiées, notamment des
+praticiens.
+
+Le conseil d'administration de l'agence comprend, en outre, deux représentants des établissements de santé, un représentant
+des établissements de transfusion sanguine et un représentant des personnels de ces derniers établissements, siégeant avec
+voix consultative.
+
+Le président du conseil d'administration est nommé par décret en conseil des ministres. Les autres membres du conseil sont
+nommés par décret.
+
+Le président du conseil d'administration assure [*attributions*] la direction de l'agence, dans le cadre des orientations
+définies par le conseil d'administration, dont il exécute les délibérations.
+
+L'agence comprend, en outre, un conseil scientifique chargé de donner des avis sur les questions médicales, scientifiques et
+techniques dont les membres sont nommés par arrêté du ministre chargé de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°93-312 du 9 mars 1993 - art. 16 (Ab)
+	  - Code de la santé publique - art. R667-10 (Ab)
+	  - Code de la santé publique - art. R667-16 (M)
+	  - Code de la santé publique - art. R667-8 (Ab)
+	  - Code de la santé publique - art. R668-4-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1222-5 (V)
+
+
+###### Article L667-7
+
+Les décisions relatives aux agréments, approbations, autorisations et retraits prévus aux articles L. 668-1, L. 668-4, L.
+668-8 et L. 668-11 sont prises par le président de l'agence [*autorité compétente*] après avis du conseil d'administration.
+Les autorisations prévues à l'article L. 668-5 et les décisions relatives aux suspensions prévues à l'article L. 668-11 sont
+prises par le président de l'agence, qui en rend compte au conseil d'administration.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
+	  - Décret n°93-312 du 9 mars 1993 - art. 27 (Ab)
+	  - Code de la santé publique - art. R667-12 (M)
+	  - Code de la santé publique - art. R667-27 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1222-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L668-1 (M)
+	  - Code de la santé publique - art. L668-11 (M)
+	  - Code de la santé publique - art. L668-4 (M)
+	  - Code de la santé publique - art. L668-5 (M)
+	  - Code de la santé publique - art. L668-8 (M)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+
+
+###### Article L667-8
+
+Le personnel de l'agence comprend, outre des agents régis par le statut général de la fonction publique, des agents
+contractuels qui peuvent être recrutés, le cas échéant sous contrat à durée indéterminée, par dérogation à l'article 3 de la
+loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires.
+
+Les agents contractuels sont tenus au secret professionnel et à la discrétion professionnelle dans les mêmes conditions que
+celles définies à l'article 26 de la loi n° 83-634 du 13 juillet 1983 précitée.
+
+Ils ne peuvent, par eux-mêmes ou par personne interposée, avoir, dans les établissements contrôlés par l'agence ou en
+relation avec elle, aucun intérêt susceptible de compromettre leur indépendance.
+
+Un décret en Conseil d'Etat définit les activités privées qu'en raison de leur nature, les agents contractuels de l'agence
+ayant définitivement cessé leurs fonctions ne peuvent exercer, le cas échéant, pendant une durée limitée.
+
+Les autres personnes collaborant aux travaux de l'agence ne peuvent, sous les peines prévues à l'article 175-1 du code pénal,
+prêter leur concours à une mission relative à une affaire dans laquelle elles auraient un intérêt direct ou indirect ; elles
+sont soumises aux obligations énoncées au deuxième alinéa du présent article.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°83-634 du 13 juillet 1983 - art. 26 (V)
+	  - Loi n°83-634 du 13 juillet 1983 - art. 3 (V)
+	  - Code pénal 175-1
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V)
+	  - Arrêté du 25 avril 2013 (V)
+	  - Arrêté du 2 août 2013 (V)
+	  - Code de la santé publique - art. R668-2-1 (Ab)
+	  - Code de la santé publique - art. R668-2-2 (Ab)
+	  - Code de la santé publique - art. R668-2-3 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1222-10 (M)
+	  - Code de la santé publique - art. L1222-7 (M)
+
+
+###### Article L667-9
+
+L'agence dispose, parmi ses agents, d'inspecteurs qui sont chargés de veiller au respect des lois et règlements applicables
+aux établissements de transfusion sanguine et qui contrôlent [*attributions*] notamment à ce titre :
+
+1° Les conditions de préparation, de conservation et de délivrance des produits sanguins ;
+
+2° L'application des bonnes pratiques mentionnées à l'article L. 668-3 ;
+
+3° La gestion administrative et financière des établissements.
+
+Les inspecteurs de l'agence sont habilités et assermentés dans des conditions définies par voie réglementaire. Outre les
+officiers et agents de police judiciaire agissant conformément aux dispositions du code de procédure pénale, ils peuvent
+rechercher et constater par procès-verbal les infractions aux dispositions législatives et réglementaires dont ils contrôlent
+l'application. Pour l'exercice de leur mission, ils ont accès aux locaux des établissements de transfusion sanguine.
+
+En outre, les inspecteurs de l'agence contrôlent l'application des décisions de suspension ou d'interdiction de la
+distribution et de l'utilisation des produits sanguins labiles prévues aux articles L. 666-10 et L. 668-11.
+
+Les inspecteurs consacrent l'intégralité de leur activité professionnelle aux tâches qui leur sont confiées. Ils ne peuvent
+exercer à titre professionnel aucune activité privée lucrative de quelque nature que ce soit. Les conditions dans lesquelles
+il peut être dérogé à cette disposition sont fixées par décret.
+
+Les dispositions de l'article L. 565 leur sont applicables en ce qui concerne les établissements de transfusion sanguine
+qu'ils contrôlent.
+
+Ils peuvent être assistés dans leurs missions par des experts et procéder à des inspections conjointes avec les services
+compétents de l'Etat, avec lesquels ils échangent toutes informations relatives à l'activité des établissements de
+transfusion sanguine.
+
+Le président de l'Agence française du sang peut signaler les manquements constatés par les inspecteurs de l'agence aux règles
+des professions de médecin et de pharmacien, respectivement aux autorités mentionnées à l'article L. 418 et aux autorités
+ordinales compétentes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 14 (V)
+	  - Décret n°93-312 du 9 mars 1993 - art. 28 (Ab)
+	  - Code de la santé publique - art. D666-3-5 (Ab)
+	  - Code de la santé publique - art. L668-7 (Ab)
+	  - Code de la santé publique - art. L676-5 (Ab)
+	  - Code de la santé publique - art. R667-28 (Ab)
+	  - Code de la santé publique - art. R668-5-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L418 (Ab)
+	  - Code de la santé publique - art. L565 (M)
+	  - Code de la santé publique - art. L666-10 (M)
+	  - Code de la santé publique - art. L668-11 (M)
+	  - Code de la santé publique - art. L668-3 (M)
+
+
+###### Article L667-10
+
+Pour le contrôle des produits sanguins exercé par l'Agence française du sang, les analyses sont faites par l'Agence du
+médicament [*organisme compétent*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+
+
+###### Article L667-11
+
+Il est créé un fonds d'orientation de la transfusion sanguine. Ce fonds est géré par l'Agence française du sang qui attribue
+à ce titre des subventions aux établissements pour l'application des schémas d'organisation de la transfusion sanguine prévus
+au chapitre IV, le développement et la coordination de l'activité de recherche ainsi que la formation de leurs personnels.
+
+Les ressources [*financières*] du fonds d'orientation sont constituées par une contribution à la charge des établissements de
+transfusion sanguine et, le cas échéant, par la part des excédents d'exploitation affectée dans les conditions de l'article
+L. 670-2.
+
+Cette contribution est calculée sur le montant hors taxe des cessions en France de produits sanguins labiles par les
+établissements de transfusion sanguine. Elle est due par ces établissements et est exigible à la date de livraison des
+produits. Elle est constatée, recouvrée et contrôlée comme en matière de taxe sur la valeur ajoutée avec les sûretés,
+garanties, privilèges et sanctions applicables à cette taxe. Les réclamations sont présentées, instruites et jugées comme
+pour cette taxe.
+
+Son taux, compris entre 10 et 15 p. 100 du montant des cessions, contribution comprise, est fixé par arrêté des ministres
+chargés de la santé et du budget. Le prélèvement pour frais d'assiette et de recouvrement perçu par l'Etat est fixé à 2,5 p.
+100 du montant de la contribution.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 14 (V)
+	  - Arrêté du 29 mars 1996 - art. 6 (Ab)
+	  - Arrêté du 23 décembre 1997 - art. 6 (Ab)
+	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. Annexe II aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. L669-4 (M)
+	  - Code de la santé publique - art. L670-2 (Ab)
+	  - Code de la santé publique - art. R669-3 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 28 janvier 1994
+	  - TXT_SOURCE: Arrêté du 28 janvier 1994 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 28 janvier 1994 - art. 2 (V)
+
+
+###### Article L667-12
+
+Les ressources [*financières*] de l'agence comprennent :
+
+1° Des subventions de l'Etat ;
+
+2° Une dotation globale versée dans les conditions prévues par l'article L. 174-2 du code de la sécurité sociale. Un décret
+en Conseil d'Etat détermine notamment les modalités de fixation et de révision de cette dotation globale de l'agence par
+l'autorité compétente de l'Etat ;
+
+3° Des redevances pour services rendus établies par décret dans les conditions définies à l'article 5 de l'ordonnance n° 59-2
+du 2 janvier 1959 portant loi organique relative aux lois de finances ;
+
+4° Des produits divers, des dons et legs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Ordonnance n°59-2 du 2 janvier 1959 - art. 5 (Ab)
+	  - Code de la sécurité sociale. - art. L174-2 (M)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°93-312 du 9 mars 1993 - art. 37 (Ab)
+	  - Code de la santé publique - art. R667-37 (Ab)
+
+
+###### Article L667-13
+
+Des dispositions réglementaires déterminent, en tant que de besoin, les mesures d'application du présent chapitre, et
+notamment les modalités d'organisation et de fonctionnement de l'Agence française du sang ainsi que les conditions d'exercice
+de la tutelle et du contrôle financier de l'Etat sur l'agence. Sauf dispositions contraires, elles sont prises par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 3 () JORF 5 janvier 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1222-10 (M)
+
+
+### Chapitre 3 : Des établissements de transfusion sanguine
+
+###### Article L668-1
+
+Les établissements de transfusion sanguine exercent une mission de santé publique dans le cadre du service public de la
+transfusion sanguine. Outre la collecte du sang ou de ses composants mentionnée à l'article L. 666-2, la préparation des
+produits sanguins labiles et leur distribution ne peuvent être faites que par des établissements de transfusion sanguine,
+sous la direction et la responsabilité d'un médecin ou d'un pharmacien.
+
+Sous réserve des dispositions de l'article L. 670-2, ces établissements ont vocation à développer toute activité liée à la
+transfusion sanguine, au conseil et au suivi des actes de transfusion. Ils peuvent notamment être autorisés à distribuer des
+médicaments dérivés du sang dans les conditions prévues à l'article L. 670-3 et à les dispenser aux malades qui y sont
+traités. Ils peuvent, en outre, à titre accessoire, être autorisés à exercer d'autres activités de santé, notamment des
+activités de soins et de laboratoire d'analyse de biologie médicale, conformément aux règles applicables à ces activités.
+
+Les établissements de transfusion sanguine doivent être agréés par l'Agence française du sang dans les conditions définies à
+l'article L. 668-2.
+
+Peuvent seuls être agréés en qualité d'établissements de transfusion sanguine :
+
+1° Les associations à but non lucratif régies par la loi du 1er juillet 1901 relative au contrat d'association ou par la loi
+d'Empire du 19 avril 1908 dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
+
+2° Les groupements d'intérêt public constitués à cet effet entre des établissements publics de santé et, le cas échéant,
+entre un ou plusieurs établissements publics de santé et d'autres personnes morales de droit public ou privé ; les
+dispositions de l'article 21 de la loi n° 82-610 du 15 juillet 1982 d'orientation et de programmation pour la recherche et le
+développement technologique de la France sont applicables à ces groupements d'intérêt public. L'approbation de la convention
+constitutive vaut agrément.
+
+3° Les structures mentionnées au deuxième alinéa de l'article L. 716-3.
+
+Les statuts des associations ou les conventions constitutives des groupements d'intérêt public mentionnés aux 1° et 2° ci-
+dessus doivent être conformes à des statuts types ou à une convention type définis par décret en Conseil d'Etat.
+
+Le statut particulier du centre de transfusion sanguine des armées, placé sous l'autorité du ministre de la défense, est fixé
+par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°82-610 1982-07-15 art. 21
+	  - Code de la santé publique - art. L666-2 (M)
+	  - Code de la santé publique - art. L670-2 (M)
+	  - Code de la santé publique - art. L670-3 (M)
+	  - Loi n°1901-07-01
+	  - Loi n°1908-04-19
+
+	**Cité par**:
+
+	  - Décret n°84-131 du 24 février 1984 - art. 46 bis (M)
+	  - Décret n°84-131 du 24 février 1984 - art. 47 (M)
+	  - Décret n°84-135 du 24 février 1984 - art. 36 (M)
+	  - Décret n°85-384 du 29 mars 1985 - art. 35 bis (M)
+	  - Décret n°85-384 du 29 mars 1985 - art. 36 (M)
+	  - Décret n°88-976 du 13 octobre 1988 - art. 13 (M)
+	  - Décret n°90-92 du 24 janvier 1990 - art. 43 (V)
+	  - Loi n°93-5 du 4 janvier 1993 - art. 8 (V)
+	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
+	  - Loi n°95-116 du 4 février 1995 - art. 24 (V)
+	  - Arrêté du 20 juillet 1995 - art. 1 (V)
+	  - Décret n°96-182 du 7 mars 1996 - art. 34 (Ab)
+	  - Décret n°96-182 du 7 mars 1996 - art. 35 (Ab)
+	  - Arrêté du 23 décembre 1997 - art. 7 (Ab)
+	  - Décret n°2017-603 du 21 avril 2017 - art. 5
+	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. Annexe II aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. D666-4-4 (Ab)
+	  - Code de la santé publique - art. L667-5 (M)
+	  - Code de la santé publique - art. L667-7 (M)
+	  - Code de la santé publique - art. L668-11 (M)
+	  - Code de la santé publique - art. L668-2 (M)
+	  - Code de la santé publique - art. L668-4 (Ab)
+	  - Code de la santé publique - art. L669-4 (M)
+	  - Code de la santé publique - art. L671-1 (T)
+	  - Code de la santé publique - art. L675-1 (Ab)
+	  - Code de la santé publique - art. L716-3 (Ab)
+	  - Code de la santé publique - art. R5115-1 (M)
+	  - Code de la santé publique - art. R5143-5-2 (M)
+	  - Code de la santé publique - art. R5143-5-3 (T)
+	  - Code de la santé publique - art. R667-12 (M)
+	  - Code de la santé publique - art. R668-1 (T)
+	  - Code de la santé publique - art. R668-1-1 (M)
+	  - Code de la santé publique - art. R668-1-3 (M)
+	  - Code de la santé publique - art. R668-1-6 (Ab)
+	  - Code de la santé publique - art. R668-2-1 (M)
+	  - Code de la santé publique - art. R668-3 (Ab)
+	  - Code de la santé publique - art. R668-4 (Ab)
+	  - Code de la santé publique - art. R668-5-8 (M)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1223-1 (M)
+	  - Code de la santé publique - art. L1223-6 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L675-1 (Ab)
+
+
+###### Article L668-2
+
+L'agrément [*par l'Agence française du sang*] mentionné à l'article L. 668-1 est accordé pour une durée déterminée. Il est
+renouvelable. Il est subordonné à des conditions [*d'obtention*] techniques, sanitaires et médicales définies par un décret
+en Conseil d'Etat pris après avis de l'Agence française du sang, qui fixe également la durée de l'agrément.
+
+La décision d'agrément ou d'approbation, qui doit être compatible avec le schéma d'organisation de la transfusion sanguine,
+indique la zone de collecte de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 8 (V)
+	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
+	  - Décret n°99-1143 du 29 décembre 1999 - art. 7 (Ab)
+	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. Annexe II aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. D668-8-2 (M)
+	  - Code de la santé publique - art. L668-1 (M)
+	  - Code de la santé publique - art. L668-11 (Ab)
+	  - Code de la santé publique - art. R667-12 (M)
+	  - Code de la santé publique - art. R668-1-1 (Ab)
+	  - Code de la santé publique - art. R668-1-2 (Ab)
+	  - Code de la santé publique - art. R668-1-3 (M)
+	  - Code de la santé publique - art. R668-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1223-2 (V)
+	  - Code de la santé publique - art. L1223-6 (V)
+
+
+###### Article L668-3
+
+Les établissements de transfusion sanguine doivent se doter de bonnes pratiques dont les principes sont définis par un
+règlement établi par l'Agence française du sang, homologué par arrêté du ministre chargé de la santé et publié au Journal
+officiel de la République française.
+
+Avant distribution d'un nouveau produit sanguin labile, l'établissement qui le prépare doit communiquer à l'Agence française
+du sang les informations relatives aux caractéristiques, à la préparation, au contrôle, à l'efficacité et à la sécurité du
+produit afin qu'il soit procédé à son enregistrement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
+	  - Arrêté du 27 septembre 1993 - art. Annexe (Ab)
+	  - Arrêté du 7 février 1994 - art. Annexe (V)
+	  - Arrêté du 8 décembre 1994 - art. Annexe I (V)
+	  - Arrêté du 4 janvier 1995 - art. Annexe (V)
+	  - Arrêté du 27 septembre 1996 - art. 2 (V)
+	  - Arrêté du 30 mars 1998 - art. Annexe I (Ab)
+	  - Code de la santé publique - art. L667-5 (Ab)
+	  - Code de la santé publique - art. L667-9 (Ab)
+	  - Code de la santé publique - art. L668-11 (M)
+	  - Code de la santé publique - art. L668-4 (Ab)
+	  - Code de la santé publique - art. R667-12 (M)
+	  - Code de la santé publique - art. R668-1-4 (Ab)
+	  - Code de la santé publique - art. R668-2-1 (Ab)
+	  - Code de la santé publique - art. R668-2-5 (Ab)
+	  - Code de la santé publique - art. R668-4-3 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Arrêté du 22 septembre 1993
+	  - TXT_ASSOCIE: Arrêté du 22 septembre 1993 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 22 septembre 1993 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 22 septembre 1993 - art. 3 (V)
+	  - TXT_ASSOCIE: Arrêté du 22 septembre 1993 - art. Annexe (V)
+	  - TXT_SOURCE: Arrêté du 7 février 1994
+	  - TXT_SOURCE: Arrêté du 7 février 1994 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 7 février 1994 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 7 février 1994 - art. Annexe (V)
+	  - TXT_SOURCE: Arrêté du 16 juillet 1998
+
+
+###### Article L668-4
+
+Un décret en Conseil d'Etat fixe la liste des activités, des productions et des équipements, d'un coût élevé ou nécessitant
+des dispositions particulières dans l'intérêt de la santé publique, notamment de la sécurité ou de l'efficacité de la
+transfusion sanguine, qui, indépendamment de l'agrément prévu par l'article L. 668-1, doivent faire l'objet d'autorisations
+spécifiques données par l'Agence française du sang aux établissements de transfusion sanguine pour une durée déterminée
+renouvelable.
+
+Ces autorisations sont subordonnées au respect des conditions et principes visés à l'article L. 668-3 ainsi qu'à des
+obligations d'évaluation périodique. Elles doivent être compatibles avec les schémas d'organisation de la transfusion
+sanguine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
+	  - Arrêté du 27 septembre 1993 - art. Annexe (Ab)
+	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. Annexe II aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. L667-5 (M)
+	  - Code de la santé publique - art. L667-7 (M)
+	  - Code de la santé publique - art. L668-11 (M)
+	  - Code de la santé publique - art. L668-6 (Ab)
+	  - Code de la santé publique - art. L669-4 (M)
+	  - Code de la santé publique - art. L671-1 (T)
+	  - Code de la santé publique - art. L675-1 (Ab)
+	  - Code de la santé publique - art. R667-12 (M)
+	  - Code de la santé publique - art. R668-4-1 (M)
+	  - Code de la santé publique - art. R668-4-2 (Ab)
+	  - Code de la santé publique - art. R716-3-38-15 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L668-1 (M)
+	  - Code de la santé publique - art. L668-3 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L675-1 (Ab)
+
+
+###### Article L668-5
+
+Les établissements de transfusion sanguine ne peuvent recourir à des produits sanguins labiles issus de collectes faites en
+dehors du territoire français qu'avec l'autorisation de l'Agence française du sang.
+
+Cette autorisation ne peut être accordée que si les besoins de la transfusion sanguine l'exigent et à la condition que le
+sang ou les produits dérivés en cause présentent des garanties suffisantes au regard de la sécurité de la transfusion
+sanguine, notamment qu'il soit justifié de l'accomplissement des obligations édictées à l'article L. 666-4.
+
+Les exportations de produits sanguins labiles ne peuvent être effectuées que par les établissements de transfusion sanguine
+et avec l'autorisation de l'Agence française du sang.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 14 (V)
+	  - Code de la santé publique - art. L667-5 (M)
+	  - Code de la santé publique - art. L667-7 (Ab)
+	  - Code de la santé publique - art. L668-11 (M)
+	  - Code de la santé publique - art. L668-6 (Ab)
+	  - Code de la santé publique - art. L669-4 (M)
+	  - Code de la santé publique - art. L671-1 (T)
+	  - Code de la santé publique - art. L675-1 (Ab)
+	  - Code de la santé publique - art. R667-12 (M)
+	  - Code de la santé publique - art. R667-9 (Ab)
+	  - Code de la santé publique - art. R668-5-6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1222-3 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-4 (M)
+
+
+###### Article L668-6
+
+Les autorisations prévues aux articles L. 668-4 et L. 668-5 peuvent être assorties de conditions particulières imposées dans
+l'intérêt de la santé publique et subordonnées à la conclusion d'une convention avec un ou plusieurs autres établissements de
+transfusion sanguine pour l'exercice d'une activité ou l'utilisation d'un équipement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. Annexe II aux articles R668-1-1 à R668-21 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L668-4 (M)
+	  - Code de la santé publique - art. L668-5 (M)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
+
+
+###### Article L668-7
+
+Chaque établissement de transfusion sanguine est tenu [*obligation*] de fournir à l'Agence française du sang toute
+information médicale, administrative et financière nécessaire au contrôle de son activité. Ces informations peuvent être
+recueillies sur pièces ou sur place, dans le respect du secret professionnel, notamment par les inspecteurs mentionnés à
+l'article L. 667-9.
+
+En outre, l'Agence française du sang détermine la teneur et la périodicité des informations qui doivent lui être
+régulièrement transmises par les établissements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
+	  - Arrêté du 4 janvier 1995 - art. Annexe (V)
+	  - Arrêté du 4 août 1994 - art. Annexe (V)
+	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. Annexe II aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. R716-3-38-15 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L667-9 (M)
+
+
+###### Article L668-8
+
+Seuls peuvent être nommés directeurs des établissements de transfusion sanguine des médecins ou des pharmaciens inscrits au
+tableau de l'ordre professionnel dont ils relèvent et figurant sur une liste d'aptitude.
+
+Leur nomination par le conseil d'administration de l'établissement est subordonnée à un agrément délivré, pour une durée
+limitée, par l'Agence française du sang et renouvelable.
+
+Un décret détermine les conditions dans lesquelles la liste d'aptitude prévue au premier alinéa est établie, et notamment la
+formation spécialisée et l'expérience pratique que les directeurs doivent justifier ainsi que la durée de l'agrément. Le même
+décret précise d'autre part la section de l'ordre national des pharmaciens au tableau de laquelle les pharmaciens mentionnés
+au premier alinéa doivent être inscrits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
+	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. Annexe II aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. D668-8-6 (M)
+	  - Code de la santé publique - art. L667-5 (M)
+	  - Code de la santé publique - art. L667-7 (M)
+	  - Code de la santé publique - art. L668-11 (M)
+	  - Code de la santé publique - art. R667-12 (M)
+	  - Code de la santé publique - art. R667-8 (Ab)
+	  - Code de la santé publique - art. R667-9 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°95-491 du 27 avril 1995
+	  - TXT_SOURCE: Décret n°95-491 du 27 avril 1995 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°95-491 du 27 avril 1995 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°95-924 du 17 août 1995
+	  - TXT_SOURCE: Code de la santé publique - art. D668-8-1 (Ab)
+	  - TXT_SOURCE: Code de la santé publique - art. D668-8-2 (Ab)
+	  - TXT_SOURCE: Code de la santé publique - art. D668-8-3 (Ab)
+	  - TXT_SOURCE: Code de la santé publique - art. D668-8-4 (Ab)
+	  - TXT_SOURCE: Code de la santé publique - art. D668-8-5 (Ab)
+	  - TXT_SOURCE: Code de la santé publique - art. D668-8-6 (Ab)
+	  - TXT_SOURCE: Code de la santé publique - art. D668-8-7 (Ab)
+	  - TXT_SOURCE: Code de la santé publique - art. D668-8-8 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1223-4 (M)
+
+
+###### Article L668-9
+
+Un décret en Conseil d'Etat fixe les conditions relatives aux qualifications et aux rémunérations des personnels des
+établissements de transfusion sanguine pour les catégories d'emploi qu'il détermine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
+	  - Arrêté du 4 janvier 1995 - art. Annexe (V)
+	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. Annexe II aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. R668-2-10 (Ab)
+	  - Code de la santé publique - art. R668-2-14 (Ab)
+	  - Code de la santé publique - art. R668-2-15 (Ab)
+	  - Code de la santé publique - art. R668-2-18 (Ab)
+	  - Code de la santé publique - art. R668-2-20 (Ab)
+	  - Code de la santé publique - art. R668-2-22 (Ab)
+	  - Code de la santé publique - art. R668-2-23 (Ab)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997
+	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997 - art. 2 (V)
+	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997 - art. 3 (V)
+	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997 - art. 4 (V)
+	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997 - art. 5 (V)
+	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997 - art. 6 (V)
+	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997 - art. 7 (V)
+	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997 - art. 8 (V)
+	  - TXT_SOURCE: Décret n°97-1104 du 26 novembre 1997 - art. 9 (V)
+
+
+###### Article L668-10
+
+Les établissements de transfusion sanguine assument, même sans faute, la responsabilité des risques encourus par les donneurs
+à raison des opérations de prélèvement.
+
+Ces établissements doivent contracter une assurance couvrant leur responsabilité du fait de ces risques. Cette assurance doit
+comporter des garanties au moins égales à celles qui sont définies par un arrêté pris conjointement par les ministres chargés
+de la santé et de l'économie et des finances.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna. Pour sa rédaction, voir l'article 15 de la
+loi 93-5.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 14 (V)
+	  - Loi n°93-5 du 4 janvier 1993 - art. 15 (Ab)
+	  - Arrêté du 22 septembre 1993 - art. Annexe (V)
+	  - Loi n°98-535 du 1 juillet 1998 - art. 18 (V)
+	  - Code de la santé publique - art. L671-5 (T)
+	  - Code de la santé publique - art. L675-5 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1222-9 (V)
+	  - Code de la santé publique - art. L1522-4 (V)
+	  - Code de la santé publique - art. L1542-6 (V)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L675-5 (Ab)
+
+
+###### Article L668-11
+
+I. - Toute violation constatée dans un établissement de transfusion sanguine, et du fait de celui-ci, des prescriptions
+législatives et réglementaires qui lui sont applicables peut entraîner le retrait temporaire ou définitif des agréments et
+autorisations mentionnés aux articles L. 668-1, L. 668-4, L. 668-5 et L. 668-8.
+
+Le retrait de l'agrément ou de l'autorisation est également encouru en cas de violation des prescriptions qu'il fixe ou de
+non-respect des principes des bonnes pratiques mentionnés à l'article L. 668-3.
+
+Le retrait ne peut intervenir qu'après mise en demeure adressée à l'établissement de prendre toute mesure propre à remédier à
+la violation ou au manquement constaté, ou de fournir toutes les explications nécessaires. Cette mise en demeure est faite
+par écrit par le président de l'Agence française du sang, datée et signée, et fixe un délai d'exécution ou de réponse qui ne
+peut excéder un mois. Le retrait est prononcé après avis de la commission d'organisation de la transfusion sanguine
+mentionnée à l'article L. 669-4.
+
+En cas d'urgence tenant à la sécurité des personnes, une suspension de l'agrément ou de l'autorisation peut être prononcée à
+titre conservatoire par le président de l'agence qui en informe dans un délai de quinze jours la commission d'organisation de
+la transfusion sanguine.
+
+Les statuts de l'association ou la convention constitutive du groupement d'intérêt public fixent les règles de dévolution des
+actifs de l'établissement de transfusion sanguine en cas de retrait définitif d'agrément et de dissolution.
+
+II. - Sans préjudice des pouvoirs conférés au ministre chargé de la santé par le troisième alinéa de l'article L. 666-10, le
+président de l'Agence française du sang peut, en cas d'urgence tenant à la sécurité des personnes, suspendre à titre
+conservatoire la distribution d'un produit par un établissement déterminé. Il en informe dans un délai de quinze jours la
+commission d'organisation de la transfusion sanguine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 4 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
+	  - Décret n°99-151 du 4 mars 1999 - art. 11 (Ab)
+	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. D668-8-3 (M)
+	  - Code de la santé publique - art. L667-5 (M)
+	  - Code de la santé publique - art. L667-7 (M)
+	  - Code de la santé publique - art. L667-9 (Ab)
+	  - Code de la santé publique - art. L671-8 (T)
+	  - Code de la santé publique - art. L675-8 (Ab)
+	  - Code de la santé publique - art. R667-12 (M)
+	  - Code de la santé publique - art. R667-9 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1223-5 (V)
+	  - Code de la santé publique - art. L1223-6 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-10 (M)
+	  - Code de la santé publique - art. L668-1 (M)
+	  - Code de la santé publique - art. L668-3 (M)
+	  - Code de la santé publique - art. L668-4 (M)
+	  - Code de la santé publique - art. L668-5 (M)
+	  - Code de la santé publique - art. L668-8 (M)
+	  - Code de la santé publique - art. L669-4 (M)
+
+
+### Chapitre 4 : Des schémas d'organisation de la transfusion sanguine
+
+###### Article L669-1
+
+Dans des conditions fixées par décret en Conseil d'Etat, le ministre chargé de la santé détermine, après avis de l'Agence
+française du sang, les ressorts territoriaux, dans le cadre desquels sont élaborés les schémas d'organisation de la
+transfusion sanguine, la durée de ces schémas ainsi que la composition et les modalités de fonctionnement de la commission
+mentionnée à l'article L. 669-4.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 5 () JORF 5 janvier 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1224-4 (T)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L669-4 (M)
+
+
+###### Article L669-2
+
+Chaque schéma d'organisation de la transfusion sanguine est arrêté par le ministre chargé de la santé, sur la base du projet
+préparé par l'Agence française du sang et après avis de la commission d'organisation de la transfusion sanguine compétente.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 5 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°93-312 du 9 mars 1993 - art. 12 (Ab)
+	  - Code de la santé publique - art. R667-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1224-2 (Ab)
+
+
+###### Article L669-3
+
+Chaque schéma d'organisation de la transfusion sanguine détermine [*contenu*] :
+
+1° La zone de collecte de chaque établissement ;
+
+2° La répartition des activités entre les établissements de transfusion sanguine et, le cas échéant, leur regroupement ;
+
+3° Les installations et les équipements nécessaires pour satisfaire les besoins en matière de transfusion sanguine ;
+
+4° Les modalités de coopération entre les établissements de transfusion sanguine ainsi que, le cas échéant, celles relatives
+à la coopération entre les établissements de santé et les établissements de transfusion sanguine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 5 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 14 (V)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1224-1 (Ab)
+
+
+###### Article L669-4
+
+Dans le ressort territorial de chaque schéma d'organisation de la transfusion sanguine, il est institué une commission
+d'organisation de la transfusion sanguine comprenant [*composition*] :
+
+1° Des représentants de l'Etat ;
+
+2° Des représentants des collectivités territoriales ;
+
+3° Des représentants des établissements de transfusion sanguine ;
+
+4° Des représentants des personnels de ces établissements ;
+
+5° Des représentants des établissements de santé ;
+
+6° Des représentants des associations de donneurs de sang ;
+
+7° Des représentants des professions de santé ;
+
+8° Des représentants des patients et de leurs associations ;
+
+9° Des personnalités qualifiées ;
+
+10° Des représentants des organismes d'assurance maladie.
+
+La commission est consultée sur le projet de schéma d'organisation de la transfusion sanguine et ses modifications, sur la
+délivrance et le retrait des agréments et autorisations visés aux articles L. 668-1, L. 668-4 et L. 668-5, ainsi que sur
+l'attribution des subventions prévues à l'article L. 667-11.
+
+Lorsque le président de l'Agence française du sang prend une décision d'autorisation en application de l'article L. 668-5, il
+en informe la commission d'organisation de la transfusion sanguine dans un délai de quinze jours.
+
+La commission peut être également consultée par l'Agence française du sang sur toute autre question concernant l'activité de
+transfusion sanguine dans le ressort du schéma [*domaine de compétence*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 5 () JORF 5 janvier 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1224-3 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L667-11 (M)
+	  - Code de la santé publique - art. L668-1 (M)
+	  - Code de la santé publique - art. L668-4 (M)
+	  - Code de la santé publique - art. L668-5 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L668-11 (M)
+	  - Code de la santé publique - art. L669-1 (Ab)
+	  - Code de la santé publique - art. R669-5 (Ab)
+
+
+### Chapitre 5 : Des médicaments dérivés du sang et du Laboratoire français du fractionnement et des biotechnologies
+
+###### Article L670-1
+
+Les produits stables préparés à partir du sang et de ses composants constituent des médicaments dérivés du sang et sont
+soumis aux dispositions du livre V, sous réserve des dispositions du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 5 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°94-193 du 7 mars 1994 - art. 1 (Ab)
+	  - Décret n°94-193 du 7 mars 1994 - art. 6 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5121-3 (Ab)
+
+
+###### Article L670-2
+
+Seul un groupement d'intérêt public dénommé Laboratoire français du fractionnement et des biotechnologies peut préparer les
+médicaments mentionnés à l'article précédent à partir du sang ou de ses composants collectés par les établissements de
+transfusion sanguine. Il exerce également des activités de recherche et de production concernant des médicaments susceptibles
+de se substituer aux produits dérivés du sang.
+
+Les dispositions de l'article 21 de la loi n° 82-610 du 15 juillet 1982 précitée sont applicables au Laboratoire français du
+fractionnement qui peut associer à l'Agence française du sang notamment des établissements de transfusion sanguine et des
+établissements visés à l'article L. 596.
+
+Le conseil d'administration comprend, outre des représentants des membres du groupement, des personnalités qualifiées en
+raison de leurs compétences en matière scientifique, médicale ou industrielle. La majorité des droits au conseil
+d'administration est détenue par des personnes morales de droit public.
+
+Le conseil d'administration détermine chaque année la part des excédents d'exploitation qui sont affectés aux activités de
+recherche et, le cas échéant, au fonds d'orientation mentionné à l'article L. 667-11.
+
+Un décret fixe en tant que de besoin les modalités d'organisation et de fonctionnement du Laboratoire français du
+fractionnement et des biotechnologies, compte tenu de la spécificité de ses missions. Ce décret détermine notamment les
+conditions dans lesquelles le laboratoire peut associer les personnes morales de droit privé mentionnées au deuxième alinéa à
+l'exploitation des brevets résultant de ses activités de recherche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cite**:
+
+	  - Loi n°82-610 1982-07-15 art. 21
+	  - Code de la santé publique - art. L596 (M)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 6 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Décret n°93-372 du 18 mars 1993 - art. 1 (Ab)
+	  - Décret n°94-193 du 7 mars 1994 - art. 1 (Ab)
+	  - Décret n°94-193 du 7 mars 1994 - art. 6 (Ab)
+	  - Code de la santé publique - art. L667-11 (Ab)
+	  - Code de la santé publique - art. L668-1 (Ab)
+	  - Code de la santé publique - art. R5112-7 (Ab)
+	  - Code de la santé publique - art. R5113 (Ab)
+
+
+###### Article L670-3
+
+Les règles de la section 1 du chapitre II du titre II du livre V sont applicables au Laboratoire français du fractionnement
+et des biotechnologies sous réserve des dispositions du présent chapitre et, s'ils vendent en gros des médicaments dérivés du
+sang, aux établissements de transfusion sanguine, sous réserve des dispositions du chapitre III du présent livre. Le
+Laboratoire français du fractionnement et des biotechnologies et les établissements concernés doivent être dotés d'un
+pharmacien responsable qui participe à la direction générale de l'établissement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 6 () JORF 5 janvier 1993
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. Annexe I aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. Annexe II aux articles R668-1-1 à R668-21 (Ab)
+	  - Code de la santé publique - art. L668-1 (Ab)
+	  - Code de la santé publique - art. L670-5 (Ab)
+	  - Code de la santé publique - art. R5012 (M)
+	  - Code de la santé publique - art. R5105 (Ab)
+	  - Code de la santé publique - art. R5106 (Ab)
+	  - Code de la santé publique - art. R5106-1 (Ab)
+	  - Code de la santé publique - art. R5108 (Ab)
+	  - Code de la santé publique - art. R5112-3 (Ab)
+	  - Code de la santé publique - art. R5115-1 (Ab)
+	  - Code de la santé publique - art. R5115-17 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5124-15 (V)
+
+
+###### Article L670-4
+
+L'autorisation de mise sur le marché prévue par l'article L. 601 ne peut être attribuée pour un médicament dérivé du sang que
+lorsqu'il est préparé à partir de sang ou de composants du sang prélevés dans les conditions définies aux articles L. 666-3 à
+L. 666-7.
+
+Toutefois, à titre exceptionnel, une autorisation de mise sur le marché peut, par dérogation, être délivrée à un médicament
+préparé à partir de sang ou de composants de sang prélevés dans des conditions non conformes au second alinéa de l'article L.
+666-3 ou aux articles L. 666-6 et L. 666-7 si ce médicament apporte une amélioration en termes d'efficacité ou de sécurité
+thérapeutiques ou si des médicaments équivalents ne sont pas disponibles en quantité suffisante pour satisfaire les besoins
+sanitaires. Dans ce cas, l'autorisation de mise sur le marché est délivrée pour une durée de deux ans qui ne peut être
+renouvelée qu'en cas de persistance des conditions susnommées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 6 () JORF 5 janvier 1993
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5121-11 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L601 (M)
+	  - Code de la santé publique - art. L666-3 (M)
+	  - Code de la santé publique - art. L666-6 (M)
+	  - Code de la santé publique L601, L666-3 à L666-7, L666-3, L666-6
+
+
+###### Article L670-5
+
+Un décret en Conseil d'Etat fixe, en tant que de besoin, les conditions d'application du présent chapitre. Il précise les
+sections de l'ordre auxquelles appartiennent les pharmaciens mentionnés à l'article L. 670-3. Il définit les conditions dans
+lesquelles lesdits pharmaciens doivent être assistés ou remplacés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 6 () JORF 5 janvier 1993
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°94-193 du 7 mars 1994
+	  - TXT_SOURCE: Décret n°94-193 du 7 mars 1994 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°94-193 du 7 mars 1994 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°94-193 du 7 mars 1994 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°94-193 du 7 mars 1994 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°94-193 du 7 mars 1994 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°94-193 du 7 mars 1994 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°94-193 du 7 mars 1994 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°94-193 du 7 mars 1994 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°94-193 du 7 mars 1994 - art. 9 (Ab)
+
+	**Cité par**:
+
+	  - Décret n°98-79 du 11 février 1998 - art. 13 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L5124-18 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L670-3 (M)
+
+
+### Chapitre 6 : Dispositions pénales
+
+###### Article L671-1
+
+Le fait de procéder aux activités mentionnées aux articles L. 668-1, L. 668-4 et L. 668-5 sans être titulaire de l'agrément
+prévu à l'article L. 668-1 ou, le cas échéant, des autorisations prévues aux articles L. 666-11, L. 668-4 et L. 668-5, ou en
+violation des prescriptions fixées par ces agréments ou autorisations, est puni d'un emprisonnement de deux ans [*durée*] et
+d'une amende de 500 000 F [*Montant*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+
+	**Transféré par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1235-2 (V)
+	  - Code de la santé publique - art. L675-1 (Ab)
+	  - Code de la santé publique - art. L675-1 (P)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-11 (M)
+	  - Code de la santé publique - art. L668-1 (M)
+	  - Code de la santé publique - art. L668-4 (M)
+	  - Code de la santé publique - art. L668-5 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L678 (Ab)
+
+
+###### Article L671-2
+
+Le fait de prélever ou de tenter de prélever du sang sur une personne vivante sans qu'elle ait exprimé son consentement est
+puni d'un emprisonnement de cinq ans [*durée*] et d'une amende de 1 million de francs [*montant*].
+
+Est puni des mêmes peines le fait de prélever ou de tenter de prélever du sang en violation des dispositions de l'article L.
+666-5 sur une personne mineure ou sur une personne majeure faisant l'objet d'une mesure de protection légale.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+
+	**Transféré par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1231-5 (Ab)
+	  - Code de la santé publique - art. L1232-6 (V)
+	  - Code de la santé publique - art. L1233-3 (T)
+	  - Code de la santé publique - art. L1234-4 (V)
+	  - Code de la santé publique - art. L1235-3 (V)
+	  - Code de la santé publique - art. L675-2 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-5 (M)
+
+
+###### Article L671-3
+
+Le fait d'obtenir ou de tenter d'obtenir d'une personne le prélèvement de son sang contre un paiement, quelle qu'en soit la
+forme, est puni d'un emprisonnement de cinq ans [*durée*] et d'une amende de 1 million de francs [*montant*].
+
+Est puni des mêmes peines le fait d'apporter ou de tenter d'apporter son entremise pour favoriser l'obtention du sang contre
+un paiement, quelle qu'en soit la forme.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+
+	**Transféré par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. D666-3-2 (Ab)
+	  - Code de la santé publique - art. L674-3 (Ab)
+	  - Code de la santé publique - art. L678 (Ab)
+	  - Code de la santé publique - art. R665-70-3 (Ab)
+	  - Code de la santé publique - art. R671-3-1 (Ab)
+	  - Code pénal - art. 511-3 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1231-1 (V)
+	  - Code de la santé publique - art. L675-3 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-3 (Ab)
+
+
+###### Article L671-4
+
+Le fait d'utiliser sciemment ou de distribuer des produits sanguins sans qu'il ait été procédé aux analyses biologiques et
+aux tests de dépistage de maladies transmissibles requis en application de l'article L. 666-4 est puni d'un emprisonnement de
+deux ans [*durée*] et d'une amende de 500 000 F [*montant*].
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1231-2 (V)
+	  - Code de la santé publique - art. L675-4 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-4 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L671-5 (Ab)
+	  - Code de la santé publique - art. L674-3 (Ab)
+	  - Code pénal - art. 511-3 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-3 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+
+	**Transféré par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+
+###### Article L671-5
+
+Le fait de modifier ou de tenter de modifier les caractéristiques du sang d'une personne avant prélèvement en infraction aux
+dispositions de l'article L. 666-6 est puni d'une amende de 300 000 F [*montant*], et en cas de récidive, d'une amende de 500
+000 F et d'un emprisonnement de six mois [*montant*].
+
+Est puni des mêmes peines le fait de contrevenir ou de tenter de contrevenir à l'obligation prescrite par l'article L.
+668-10.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+
+	**Transféré par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1231-3 (V)
+	  - Code de la santé publique - art. L675-5 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-6 (M)
+	  - Code de la santé publique - art. L668-10 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L671-6 (Ab)
+	  - Code de la santé publique - art. L674-3 (Ab)
+	  - Code de la santé publique - art. R665-70-3 (Ab)
+	  - Code de la santé publique - art. R671-3-7 (Ab)
+	  - Code pénal - art. 511-3 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L674-3 (Ab)
+
+
+###### Article L671-6
+
+La divulgation d'informations permettant d'identifier à la fois le donneur et le receveur de sang, en violation de l'article
+L. 666-7, est punie d'un emprisonnement d'un an [*durée*] et d'une amende de 50 000 F [*montant*].
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+
+	**Transféré par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1231-4 (V)
+	  - Code de la santé publique - art. L675-6 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-7 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R665-70-3 (Ab)
+
+
+###### Article L671-7
+
+Est puni d'un emprisonnement d'un an [*durée*] et d'une amende de 50 000 F [*montant*] le fait de céder du sang ou des
+produits labiles dérivés du sang à un tarif différent de celui qui résulte de l'arrêté pris pour l'application de l'article
+L. 666-9.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+
+	**Transféré par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1232-1 (V)
+	  - Code de la santé publique - art. L1232-6 (V)
+	  - Code de la santé publique - art. L675-7 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-9 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L672-6 (Ab)
+	  - Code de la santé publique - art. R671-7-3 (Ab)
+	  - Code de la santé publique - art. R671-7-5 (Ab)
+	  - Code de la santé publique - art. R673-8-1 (Ab)
+
+
+###### Article L671-8
+
+Les dispositions prévues par les articles 1er à 3 de la loi du 1er août 1905 en ce qui concerne la falsification des
+substances médicamenteuses, l'exposition, la mise en vente ou la vente de substances médicamenteuses falsifiées sont
+applicables au sang humain, à ses composants, ainsi qu'aux produits labiles qui en sont dérivés.
+
+Est puni des mêmes peines le fait de distribuer un produit labile ne figurant pas sur la liste prévue à l'article L. 666-8 ou
+un produit dont la distribution a été suspendue en application du dernier alinéa de l'article L. 666-10 ou du II de l'article
+L. 668-11.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+
+	**Transféré par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1232-2 (V)
+	  - Code de la santé publique - art. L675-8 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L666-8 (M)
+	  - Code de la santé publique - art. L668-11 (M)
+	  - Loi n°1905-08-01 art. 1 à 3
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L672-6 (Ab)
+	  - Code de la santé publique - art. R671-7-10 (Ab)
+
+
+###### Article L671-9
+
+Les personnes coupables des délits prévus au présent chapitre encourent également la peine complémentaire d'interdiction
+d'exercer l'activité professionnelle ou sociale dans l'exercice de laquelle ou à l'occasion de laquelle l'infraction a été
+commise.
+
+**Nota:**
+
+[*Nota : Loi 93-5 du 4 janvier 1993 art. 15 : le présent article du code de la santé publique est applicable aux territoires
+de la Nouvelle-Calédonie, de la Polynésie française et des îles Wallis et Futuna. Pour sa rédaction, voir l'article 15 de la
+loi 93-5.*]
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L1232-3 (V)
+	  - Code de la santé publique - art. L1525-6 (V)
+	  - Code de la santé publique - art. L1533-6 (T)
+	  - Code de la santé publique - art. L1543-6 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L672-6 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°93-5 du 4 janvier 1993 - art. 7 () JORF 5 janvier 1993
+
+	**Abrogé par**:
+
+	  - Loi n°94-654 du 29 juillet 1994 - art. 3 () JORF 30 juillet 1994
 
 
 ## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires
@@ -42090,6 +44668,11 @@ Les conditions d'application de la section 3 du chapitre Ier et celles du chapit
 publique - hôpitaux de Paris, aux hospices civils de Lyon, à l'assistance publique de Marseille et aux établissements publics
 nationaux sont déterminées par voie réglementaire.
 
+Une ou plusieurs structures de ces établissements, dotées de l'autonomie financière et administrative, peuvent être agréées
+en qualité d'établissement de transfusion sanguine dans des conditions déterminées par voie réglementaire. Ces structures
+sont soumises au contrôle de l'Agence française du sang dans les mêmes conditions que les établissements mentionnés aux 1° et
+2° de l'article L. 668-1.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -42097,9 +44680,9 @@ nationaux sont déterminées par voie réglementaire.
 	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
 	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°91-748 du 31 juillet 1991 - art. 13 () JORF 2 août 1991
+	  - Loi n°93-5 du 4 janvier 1993 - art. 9 () JORF 5 janvier 1993
 
 	**Liens**:
 
