@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1991-08-02
+Version Consolidée au 1991-09-10
 
 # Partie législative ancienne
 
@@ -17738,6 +17738,66 @@ et suivants.
 	  - Code de la santé publique - art. L491-7 (Ab)
 
 
+###### Article L411
+
+La section disciplinaire du conseil national [*compétence*] est saisie des appels des décisions des conseils régionaux en
+matière de discipline, d'élection au conseil de l'ordre, d'inscription au tableau et de suspension temporaire du droit
+d'exercer en cas d'infirmité ou d'état pathologique rendant dangereux l'exercice de la médecine.
+
+L'appel est formé par une déclaration au secrétariat du conseil national [*condition de forme*]. Cette déclaration doit être
+faite par le ministre, le préfet, le procureur de la République, le directeur départemental de la santé, le conseil
+départemental de l'Ordre intéressé ou le syndicat des médecins ou par le médecin intéressé, dans les trente jours de la
+notification [*délai d'appel*].
+
+L'appel a un effet suspensif, sauf en matière d'inscription au tableau. Toutefois, lorsque la réinscription au tableau est
+demandée par application des dispositions de l'article L. 428, l'appel a également un effet suspensif.
+
+En matière disciplinaire, lorsque les faits ont été portés à la connaissance de l'autorité qui a saisi le conseil régional
+par un organisme de sécurité sociale, celui-ci reçoit notification de la décision du conseil régional et peut faire appel.
+
+Les décisions rendues par la section disciplinaire du conseil national ne sont susceptibles de recours que devant le Conseil
+d'Etat dans les conditions du droit commun.
+
+**Nota:**
+
+[*Nota : Les paragraphes 2 à 5 constituent des dispositions réglementaires.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-484 1988-04-27 art. 18 JORF 3 mai 1988
+	  - Décret n°91-887 du 4 septembre 1991 - art. 6 () JORF 10 septembre 1991
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4122-3 (M)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L428 (Ab)
+
+
 ##### Section 3 : Inscription aux tableaux départementaux de l'Ordre
 
 ###### Article L412
@@ -35111,359 +35171,6 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L1263-1 (T)
-
-
-## Livre 7 : Hôpitaux et hospices publics, thermo-climatisme, laboratoires
-
-### Titre 1 : Hôpitaux et hospices publics
-
-#### Chapitre 1 : Nature et rôle des hôpitaux et hospices publics.
-
-###### Article L678
-
-Les hôpitaux et hospices publics constituent des établissements publics communaux, intercommunaux, départementaux,
-interdépartementaux ou nationaux.
-
-Les hôpitaux pourvoient aux examens de médecine préventive et de diagnostic, au traitement avec ou sans hospitalisation des
-malades, blessés, convalescents et femmes enceintes, y compris, notamment, le cas échéant, leur réadaptation fonctionnelle,
-ainsi qu'à l'isolement prophylactique. Ils peuvent également comprendre un ou plusieurs services d'hospice.
-
-Les hospices pourvoient à l'hébergement des vieillards, infirmes et incurables et leur assurent, le cas échéant, les soins
-nécessaires. Lorsqu'ils ne reçoivent que des vieillards, ces établissements sont dénommés maisons de retraite.
-
-Les hôpitaux, maternités et hospices fonctionnant actuellement comme des services non personnalisés de collectivités
-publiques seront, dans l'année qui suivra la promulgation de la présente ordonnance, par décret, érigés en établissement
-public ou rattachés à un établissement public déjà existant.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Décret n°61-607 du 14 juin 1961 - art. 2 (Ab)
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab)
-	  - Loi n°75-535 du 30 juin 1975 - art. 31 (Ab)
-	  - Code de la santé publique - art. L686 (Ab)
-	  - Code de la santé publique - art. L706-1 (Ab)
-
-	**Modifié par**:
-
-	  - Loi n°70-1318 du 31 décembre 1970 - art. 54 (Ab) JORF 3 janvier
-
-	**Liens**:
-
-	  - SPEC_APPLI: Loi n°75-535 1975-06-30 ART. 32 : JUSQU'A LEUR TRANSFORMATION CONFORMEMENT AUX DISPOSITIONS DE L'ART. 23 LES HOSPICES EXISTANT A LA DATE DE PROMULGATION DE LA LOI DU 30 JUIN 1975 DEMEURENT SOUMIS AUX DISPOSITIONS APPLICABLES A CETTE DATE
-
-	**Abrogé par**:
-
-	  - Loi n°91-748 du 31 juillet 1991 - art. 16 () JORF 2 août 1991
-
-
-### Titre 2 : Thermo-climatisme
-
-#### Chapitre 1 : Sources d'eaux minérales
-
-##### Section 2 : Dispositions pénales.
-
-###### Article L747
-
-L'exécution, sans autorisation ou sans déclaration préalable, dans le périmètre de protection, de l'un des travaux mentionnés
-dans l'article L. 737 ci-dessus, la reprise des travaux interdits ou suspendus administrativement en vertu des articles L.
-738, 739 et 740, sont punies d'une amende de 5.000 F à 10.000 F [*montant*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L737 (M)
-	  - Code de la santé publique - art. L738 (M)
-	  - Code de la santé publique - art. L739 (M)
-	  - Code de la santé publique - art. L740 (M)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L749 (Ab)
-	  - Code de la santé publique - art. L750 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R1324-3 (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°1856-07-14 ART. 13
-
-
-###### Article L748
-
-Les infractions aux règlements d'administration publique prévues au dernier alinéa de l'article L. 751 du présent chapitre
-sont punies d'une amende de 1.300 F à 3.000 F [*1*] [*montant*].
-
-**Nota:**
-
-[*Nota - (1) taux résultant de la loi 89-469 du 10 juillet 1989.*]
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L749 (Ab)
-	  - Code de la santé publique - art. L750 (Ab)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L751 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R1324-4 (V)
-	  - Code de la santé publique - art. R1324-6 (M)
-
-	**Anciens textes**:
-
-	  - Loi n°1856-07-14 ART. 14
-
-
-### Titre 3 : Laboratoires
-
-#### Chapitre 1 : Laboratoires d'analyses de biologie médicale
-
-##### Section 4 : Dispositions pénales.
-
-###### Article L761-17
-
-Les infractions aux dispositions du premier alinéa de l'article L. 757 et aux dispositions des premier et deuxième alinéas de
-l'article L. 760 sont punies d'un emprisonnement d'un à six mois [*durée*] et d'une amende de 2.000 à 40.000 F [*montant*] ou
-de l'une de ces deux peines seulement.
-
-En cas d'infraction au premier alinéa de l'article L. 757, le tribunal peut, en outre, prononcer la confiscation du matériel
-ayant servi à l'activité illégale ainsi que la fermeture du laboratoire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L6214-2 (V)
-	  - Code de la santé publique - art. L6214-3 (V)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L757 (M)
-	  - Code de la santé publique - art. L760 (M)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L761-23 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
-	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
-
-	**Créé par**:
-
-	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
-
-
-###### Article L761-18
-
-Les infractions aux dispositions des articles L. 756, L. 761-1 et L. 761-2 et des alinéas 2 et 3 de l'article L. 761 sont
-punies d'un emprisonnement d'un à six mois [*durée*] et d'une amende de 2.000 à 40.000 F [*montant*] ou de l'une de ces deux
-peines seulement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L6214-6 (V)
-	  - Code de la santé publique - art. L6214-7 (V)
-	  - Code de la santé publique - art. L6222-2 (V)
-	  - Code de la santé publique - art. L6222-4 (V)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L756 (M)
-	  - Code de la santé publique - art. L761 (M)
-	  - Code de la santé publique - art. L761-1 (M)
-	  - Code de la santé publique - art. L761-2 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L761 (Ab)
-	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
-	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L761-20 (Ab)
-	  - Code de la santé publique - art. L761-23 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
-
-
-###### Article L761-19
-
-Les infractions aux dispositions du premier alinéa de l'article L. 761 sont punies d'une amende de 2.000 à 20.000 F
-[*montant*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L6222-3 (V)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L761 (M)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L761-23 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
-	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
-
-	**Créé par**:
-
-	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
-
-
-###### Article L761-21
-
-Les infractions aux dispositions de l'article L. 761-12 [*publicité*] sont punies d'une amende de 2.000 à 20.000 F
-[*montant*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L6214-4 (V)
-	  - Code de la santé publique - art. L6222-3 (V)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L761-12 (M)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L761-23 (Ab)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
-	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
-
-	**Créé par**:
-
-	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
-
-
-###### Article L761-22
-
-Toute personne physique ou morale passant avec un directeur ou directeur adjoint de laboratoire ou une société exploitant un
-laboratoire un contrat ou avenant mentionné aux articles L. 761-4 et L. 761-5 doit le faire par écrit [*condition de
-forme*] ; le refus de rédaction d'un écrit du fait du contractant est puni d'une amende de 3.000 à 40.000 F [*montant*].
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L6222-5 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L761-23 (Ab)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L761-4 (M)
-	  - Code de la santé publique - art. L761-5 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la santé publique L761-11 : HORS CHAMP D'APPLICATION
-	  - TXT_ASSOCIE: Code de la santé publique L761-23 : RECIDIVE
-
-	**Créé par**:
-
-	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
-
-
-#### Chapitre 2 : Manipulation des produits d'origine microbienne, réglementation et dispositions pénales.
-
-###### Article L765
-
-Toute infraction aux dispositions des articles L. 762 et 763 ci-dessus est passible d'une amende de 1.800 F à 30.000 F
-[*montant*].
-
-En cas de récidive, l'amende peut être portée au double et le jugement ordonner la fermeture de l'établissement.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Décret n°1940-05-20 ART. 5
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L762 (M)
-	  - Code de la santé publique - art. L763 (M)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L764 (Ab)
-
-	**Créé par**:
-
-	  - Décret n°75-626 1975-07-11 ART. 1 JORF 13 juillet 1975
 
 
 ## Livre 7 : Etablissements de santé, thermoclimatisme, laboratoires
