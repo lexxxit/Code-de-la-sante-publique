@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1983-07-23
+Version Consolidée au 1983-11-11
 
 # Partie législative ancienne
 
@@ -11779,37 +11779,6 @@ Tout alcoolique dangereux pour autrui est placé sous la surveillance de l'autor
 
 	  - Code de la santé publique - art. L3311-1 (M)
 	  - Code de la santé publique - art. L3822-2 (V)
-
-
-#### CHAPITRE 4 : DISPOSITIONS FINANCIERES.
-
-###### Article L355-8
-
-Les frais de placement sont couverts dans les mêmes conditions que pour les autres cas d'hospitalisation. Sont notamment
-applicables les lois sur la sécurité sociale et les lois sur l'aide sociale. Dans ce dernier cas, les dépenses résultant de
-l'application des présentes dispositions sont inscrites au budget départemental et sont réparties entre l'Etat, le
-département et les communes [*charge financière*] dans les conditions fixées par l'article 189 du Code de la famille et de
-l'aide sociale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Anciens textes**:
-
-	  - Loi n°54-439 du 15 avril 1954 - art. 9 (Ab)
-
-	**Cité par**:
-
-	  - Ordonnance no 92-1070 du 1er octobre 1992 portant  - art. 26 (Ab)
-	  - Code de la santé publique - art. L355-13 (Ab)
-
-	**Cite**:
-
-	  - Code de la famille et de l'aide sociale. - art. 189 (Ab)
 
 
 ### Titre 6 : Lutte contre la toxicomanie
@@ -34817,48 +34786,6 @@ sont convoqués à l'assemblée plénière du conseil supérieur, avec voix dél
 	**Abrogé par**:
 
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
-
-
-### Chapitre 3 : Institut national de la santé et de la recherche médicale
-
-#### Ecole nationale de la santé publique
-
-##### Section 1 : Institut national de la santé et de la recherche médicale.
-
-###### Article L785
-
-Il est créé à Paris un établissement public qui prend le nom d'Institut national de la santé et de la recherche médicale.
-
-Cet établissement rattaché au ministère de la santé publique et de la population est doté de la personnalité civile et de
-l'autonomie financière.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
-	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
-
-	**Abrogé par**:
-
-	  - Décret n°83-975 du 10 novembre 1983 - art. 1 (V) JORF 11 novembre
-
-	**Cité par**:
-
-	  - Décret n°83-975 du 10 novembre 1983 - art. 1 (V)
-	  - Code de la sécurité sociale. - art. D412-79 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°84-934 du 17 octobre 1984
-	  - TXT_SOURCE: Décret n°84-934 du 17 octobre 1984 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°84-934 du 17 octobre 1984 - art. 2 (Ab)
-	  - TXT_SOURCE: Décret n°84-934 du 17 octobre 1984 - art. 3 (Ab)
-	  - TXT_SOURCE: Décret n°84-934 du 17 octobre 1984 - art. Annexe (Ab)
-
-	**Anciens textes**:
-
-	  - Loi n°41-4968 1941-11-30 ART. 1
 
 
 ## LIVRE 9 : PERSONNEL
