@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1987-07-31
+Version Consolidée au 1987-08-05
 
 # Partie législative ancienne
 
@@ -46980,9 +46980,14 @@ notamment auprès des détenteurs de stocks, pour faire cesser la distribution d
 
 ###### Article R5146-38
 
-Les décisions portant autorisation de mise sur le marché, renouvellement ou changement de titulaire d'une telle autorisation
-ainsi que les décisions de suspension ou de suppression sont publiées par extrait au Journal officiel de la République
-française.
+Les décisions mentionnées aux articles R. 5146-33 à R. 5146-37, à l'exclusion des mesures de suspension, sont prises après
+avis de la commission constituée à cet effet.
+
+Elles ne peuvent faire l'objet d'un recours contentieux qu'après l'exercice d'un recours gracieux qui lui-même doit être
+soumis pour avis à la commission ci-dessus mentionnée.
+
+Les décisions prévues aux articles R. 5146-33, R. 5146-35, R. 5146-36 et R. 5146-37 sont publiées par extrait au Journal
+officiel de la République française.
 
 **Liens relatifs à cet article**
 
@@ -46991,9 +46996,9 @@ française.
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°77-635 1977-06-10 ART. 1 JORF 23 juin 1977
+	  - Décret n°87-623 1987-07-30 art. 1 JORF 5 août 1987
 
 	**Liens**:
 
@@ -47004,6 +47009,14 @@ française.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5141-47 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5146-33 (M)
+	  - Code de la santé publique - art. R5146-34 (M)
+	  - Code de la santé publique - art. R5146-35 (M)
+	  - Code de la santé publique - art. R5146-36 (M)
+	  - Code de la santé publique - art. R5146-37 (M)
 
 	**Cité par**:
 
@@ -47017,32 +47030,24 @@ française.
 
 ###### Article R5146-39
 
-Les recours gracieux dirigés contre les décisions prises en vertu des dispositions des articles R. 5146-34 à R. 5146-37 sont
-soumis, pour avis, à une commission dont les membres sont désignés par le ministre de la santé et le ministre de
-l'agriculture [*autorités compétentes*].
+La commission mentionnée à l'article R. 5146-38 comprend [*composition*] :
 
-Cette commission est présidée par un membre du conseil d'Etat en activité ou en retraite élu par l'assemblée générale du
-conseil d'Etat pour six ans [*durée du mandat*]. Elle comprend en outre [*composition*] :
+1. Cinq membres de droit :
 
-a) deux professeurs d'école vétérinaire désignés par le ministre de l'agriculture ;
+- le directeur de la pharmacie et du médicament au ministère de la santé ou son représentant ;
 
-b) un professeur de médecine et un professeur de pharmacie désignés par le ministre de la santé ;
+- le directeur général de l'alimentation au ministère de l'agriculture ou son représentant ;
 
-c) le chef du service central de la pharmacie et des médicaments au ministère de la santé ;
+- le directeur général du Laboratoire national de la santé ou son représentant ;
 
-d) le directeur de la qualité au ministère de l'agriculture ;
+- le directeur du Laboratoire central de recherches vétérinaires ou son représentant ;
 
-e) le directeur général du laboratoire national de la santé ;
+- le directeur du Laboratoire national des médicaments vétérinaires ou son représentant.
 
-f) le directeur du laboratoire national de contrôle des médicaments vétérinaires.
-
-Le mandat des membres prévus en a et b ci-dessus est de trois ans [*durée*]. Des membres suppléants en nombre égal à celui
-des titulaires sont désignés dans les mêmes conditions.
-
-Un arrêté conjoint du ministre de la santé et du ministre de l'agriculture fixe les modalités de fonctionnement de la
-commission.
-
-Le recours gracieux prévu au présent article est un préalable obligatoire à l'exercice du recours contentieux.
+2. Six membres nommés, pour une durée de trois ans, par le ministre chargé de la santé et par le ministre de l'agriculture,
+en raison de leur compétence scientifique, notamment dans le domaine de la pharmacologie humaine, de la chimie analytique, de
+la pharmacie galénique, de la toxicologie expérimentale, de la pharmacologie expérimentale, de la pharmacologie animale, de
+la pathologie et de la thérapeutique.
 
 **Liens relatifs à cet article**
 
@@ -47053,7 +47058,7 @@ Le recours gracieux prévu au présent article est un préalable obligatoire à 
 
 	**Modifié par**:
 
-	  - Décret n°82-165 1982-02-08 ART. 2 JORF 16 FEVRIER 1982
+	  - Décret n°87-623 1987-07-30 art. 2 JORF 5 août 1987
 
 	**Cité par**:
 
@@ -47069,10 +47074,164 @@ Le recours gracieux prévu au présent article est un préalable obligatoire à 
 
 	**Cite**:
 
-	  - Code de la santé publique - art. R5146-34 (M)
-	  - Code de la santé publique - art. R5146-35 (M)
-	  - Code de la santé publique - art. R5146-36 (M)
-	  - Code de la santé publique - art. R5146-37 (M)
+	  - Code de la santé publique - art. R5146-38 (M)
+
+
+###### Article R5146-39-1
+
+Six suppléants sont désignés dans les mêmes conditions que les membres titulaires autres que les membres de droit. Ils
+remplacent les titulaires soit en cas d'empêchement, soit s'il se produit une vacance en cours de mandat.
+
+Le président et le vice-président sont désignés par le ministre chargé de la santé et par le ministre de l'agriculture parmi
+les membres de la commission.
+
+La commission a la faculté d'entendre toute personne qualifiée, et notamment les représentants de l'industrie pharmaceutique
+vétérinaire et des membres de la commission de sécurité des consommateurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°87-623 1987-07-30 art. 2 JORF 5 août 1987
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°91-143 du 4 février 1991
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-51 (V)
+
+
+###### Article R5146-39-2
+
+La durée totale des mandats successifs que peuvent exercer en qualité tant de titulaire que de suppléant les membres autres
+que les membres de droit de la commission mentionnée à l'article R. 5146-38 ne peut excéder six ans.
+
+En cas de vacance survenant au cours d'un mandat, le mandat du suppléant appelé à remplacer un membre titulaire, ou celui
+d'un membre nouveau appelé à remplacer un suppléant prend fin à la même date que le mandat du membre remplacé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°87-623 1987-07-30 art. 2 JORF 5 août 1987
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-50 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5146-38 (M)
+
+
+###### Article R5146-39-3
+
+Les membres de la commission mentionnée à l'article R. 5146-38 ne peuvent être ni salariés d'un établissement de préparation
+de produits pharmaceutiques vétérinaires, ni avoir un intérêt financier direct ou indirect dans un tel établissement
+[*incompatibilité, interdiction*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°87-623 1987-07-30 art. 2 JORF 5 août 1987
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-48 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5146-38 (M)
+
+
+###### Article R5146-39-4
+
+Le président de la commission désigne un rapporteur dans chaque affaire. La commission peut faire appel à des experts.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°87-623 1987-07-30 art. 2 JORF 5 août 1987
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-52 (V)
+
+
+###### Article R5146-39-5
+
+Sans préjudice du secret professionnel auquel sont astreints, dans les conditions prévues à l'article 378 du code pénal, les
+membres, les rapporteurs et les experts de la commission mentionnée à l'article R. 5146-38, les délibérations de celle-ci
+sont secrètes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°87-623 1987-07-30 art. 2 JORF 5 août 1987
+
+	**Cite**:
+
+	  - Code pénal 378
+	  - Code de la santé publique - art. R5146-38 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-53 (V)
+
+
+###### Article R5146-39-6
+
+Des arrêtés conjoints du ministre chargé de la santé et du ministre de l'agriculture fixent les conditions de fonctionnement
+de la commission mentionnée à l'article R. 5146-38.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°87-623 1987-07-30 art. 2 JORF 5 août 1987
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5141-54 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5146-38 (M)
 
 
 ##### Paragraphe 4 : Prélèvements d'échantillons.
