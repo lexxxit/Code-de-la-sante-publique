@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1995-03-14
+Version Consolidée au 1995-03-16
 
 # Partie législative ancienne
 
@@ -62565,1503 +62565,6 @@ motifs énumérés à l'article 378 du code de procédure civile.
 	  - Code de la santé publique - art. R4234-28 (T)
 
 
-##### Section 2 : Déontologie pharmaceutique
-
-###### Article R*5015-1
-
-Les dispositions de la présente section s'imposent à tous les pharmaciens et sociétés d'exercice libéral inscrits à l'un des
-tableaux de l'ordre.
-
-Les infractions à ces dispositions relèvent de la juridiction disciplinaire de l'ordre, sans préjudice des poursuites pénales
-qu'elles seraient susceptibles d'entraîner.
-
-Les pharmaciens membres d'une société pharmaceutique ne sauraient considérer leur appartenance à la société comme les
-dispensant, à titre personnel, de leurs obligations.
-
-Les pharmaciens exerçant des missions de service public qui exercent une activité pharmaceutique motivant leur inscription à
-l'un des tableaux de l'ordre restent soumis pour cette activité à la juridiction de l'ordre. Ils ne peuvent être traduits en
-chambre de discipline que sur la demande ou avec l'accord des autorités administratives dont ils relèvent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 1
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°69-505 du 24 mai 1969 - art. 6 (Ab)
-
-	**Modifié par**:
-
-	  - Décret n°93-982 du 5 août 1993 - art. 2 () JORF 7 août 1993
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-1 (V)
-
-
-##### Paragraphe 1 : Devoirs généraux des pharmaciens
-
-##### 1) Dispositions générales.
-
-###### Article R*5015-2
-
-Le pharmacien doit s'abstenir de tout fait ou manifestation de nature à déconsidérer la profession, même en dehors de
-l'exercice de celle-ci.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 2
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-2 (V)
-
-
-###### Article R*5015-3
-
-Il est interdit à tout pharmacien inscrit à l'un des tableaux de l'ordre d'exercer, en même temps que la pharmacie, toute
-autre activité incompatible avec la dignité professionnelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 3
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-3 (V)
-
-
-##### 2) Du concours du pharmacien à l'oeuvre de protection de la santé.
-
-###### Article R*5015-4
-
-Le pharmacien est au service du public. Il doit faire preuve du même dévouement envers tous les malades.
-
-Quelle que soit sa fonction ou sa spécialité, hors le seul cas de force majeure, le pharmacien doit, dans la limite de ses
-connaissances, porter secours à un malade en danger immédiat, si des soins médicaux ne peuvent lui être assurés.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 4
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-4 (V)
-
-
-###### Article R*5015-5
-
-Sauf ordre écrit des autorités qualifiées, le pharmacien ne peut quitter son poste si l'intérêt du public exige qu'il y
-reste. Le pharmacien détaillant ne peut fermer son officine qu'après s'être assuré que les malades pourront recevoir chez un
-autre pharmacien, suffisamment proche, les secours dont ils auront besoin.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 5
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article R*5015-6
-
-Les pharmaciens sont tenus de prêter leur concours aux services de médecine sociale et de collaborer à l'oeuvre des pouvoirs
-publics tendant à la protection et à la préservation de la santé publique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 6
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article R*5015-7
-
-Afin de ne pas compromettre le fonctionnement rationnel et le développement normal des services ou institutions de médecine
-sociale, les pharmaciens observent dans l'exercice de leur activité professionnelle les règles imposées par les statuts des
-collectivités publiques ou privées à condition qu'elles ne soient pas contraires aux lois et règlements qui régissent
-l'exercice de la pharmacie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 7
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-7 (V)
-
-
-###### Article R*5015-8
-
-Le pharmacien ne doit favoriser, ni par ses conseils, ni par ses actes, des pratiques contraires aux bonnes moeurs.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 8
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-8 (V)
-
-
-###### Article R*5015-9
-
-Le secret professionnel s'impose à tous les pharmaciens, sauf dérogations établies par la loi.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 9
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-9 (V)
-
-
-###### Article R*5015-10
-
-Afin d'assurer le respect du secret professionnel, le pharmacien s'abstiendra de discuter en public, notamment à l'officine,
-des questions relatives aux maladies de ses clients.
-
-Il évitera toute allusion de nature à compromettre le secret professionnel dans ses publications.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 10
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-10 (V)
-
-
-##### 3) De la responsabilité et de l'indépendance des pharmaciens.
-
-###### Article R*5015-11
-
-L'exercice personnel de la pharmacie consiste pour le pharmacien à préparer et à délivrer lui-même les médicaments ou à
-surveiller attentivement l'exécution de tous les actes pharmaceutiques qu'il n'accomplit pas lui-même.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 11
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-11 (V)
-
-
-###### Article R*5015-12
-
-Toute officine doit porter, de façon apparente, le nom du ou des pharmaciens propriétaires, ou s'il s'agit d'une officine
-exploitée en société, le nom du ou des pharmaciens gérants responsables.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 12
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R*5015-27 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-12 (V)
-
-
-###### Article R*5015-13
-
-Dans les établissements de fabrication ou de vente en gros de produits pharmaceutiques, le nom du ou des pharmaciens
-responsables doit figurer sur l'étiquetage des médicaments.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 13
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-13 (V)
-
-
-###### Article R*5015-14
-
-Le pharmacien assistant est le diplômé qui, inscrit à l'Ordre, apporte son concours à un pharmacien titulaire d'un
-établissement pharmaceutique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 14
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-14 (V)
-
-
-###### Article R*5015-15
-
-Le pharmacien titulaire d'un établissement pharmaceutique qui se fait suppléer dans ses fonctions par un pharmacien
-assistant, doit s'assurer de l'inscription préalable de ce dernier au tableau de l'Ordre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 15
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-15 (V)
-
-
-###### Article R*5015-16
-
-Les conseils de l'Ordre réunis en chambre de discipline apprécient dans quelle mesure le pharmacien titulaire est responsable
-disciplinairement des actes professionnels accomplis par le pharmacien assistant.
-
-En cas de fautes commises par le pharmacien assistant, la responsabilité disciplinaire de ce dernier et celle du pharmacien
-titulaire peuvent être simultanément engagées, eu égard aux devoirs de surveillance qui incombent à l'employeur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 16
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-16 (V)
-
-
-###### Article R*5015-17
-
-S'il est dans l'incapacité d'exercer personnellement et s'il ne se fait pas remplacer conformément aux dispositions
-réglementaires, aucun pharmacien ne doit maintenir ouvert un établissement pharmaceutique.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 17
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4234-2 (V)
-	  - Code de la santé publique - art. R4235-17 (V)
-
-
-###### Article R*5015-18
-
-Toute cessation d'activité professionnelle, toute modification intervenant dans la direction pharmaceutique ou dans la
-structure sociale d'une entreprise, tout transfert de locaux pharmaceutiques doit être l'objet d'une déclaration à la section
-compétente de l'Ordre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 18
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4234-3 (V)
-	  - Code de la santé publique - art. R4235-18 (V)
-
-
-###### Article R*5015-19
-
-Qu'ils soient titulaires, gérants, assistants ou remplaçants, les pharmaciens ne doivent, en aucun cas, conclure de
-convention tendant à l'aliénation, même partielle, de leur indépendance technique dans l'exercice de leur profession.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 19
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4234-4 (V)
-	  - Code de la santé publique - art. R4235-19 (V)
-
-
-###### Article R*5015-20
-
-Le pharmacien chargé de la gérance d'une officine après décès du titulaire, doit se voir reconnaître la même indépendance
-technique qu'avait ce titulaire lui-même.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 20
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-20 (V)
-
-
-###### Article R*5015-21
-
-Les contrats de location de marques doivent respecter l'indépendance technique des pharmaciens exploitants.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 21
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-21 (V)
-
-
-###### Article R*5015-22
-
-Il est interdit aux pharmaciens gérants, remplaçants ou assistants, d'accepter une rémunération qui ne soit pas
-proportionnée, compte tenu des usages, avec les fonctions et les responsabilités qu'ils assument. D'autre part, il est
-interdit aux pharmaciens titulaires d'établissements de proposer une semblable rémunération.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 22
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-22 (V)
-
-
-##### 4) De la tenue des établissements pharmaceutiques.
-
-###### Article R*5015-23
-
-La préparation et la délivrance des médicaments et plus généralement tous les actes pharmaceutiques doivent être effectués
-avec un soin minutieux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 23
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-23 (V)
-
-
-###### Article R*5015-24
-
-Les établissements pharmaceutiques doivent être installés dans des locaux bien adaptés aux activités qui s'y exercent et
-convenablement équipés et tenus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 24
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-24 (V)
-
-
-###### Article R*5015-25
-
-Tout produit se trouvant dans un établissement pharmaceutique doit pouvoir être identifié par son nom, qui doit être porté
-sur une étiquette disposée de façon appropriée. Cette étiquette doit être conforme au modèle réglementaire éventuel.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 25
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-25 (V)
-
-
-##### Paragraphe 2 : Interdiction de certains procédés dans la recherche de la clientèle
-
-##### 1) De la publicité.
-
-###### Article R*5015-26
-
-Les pharmaciens doivent s'interdire de solliciter la clientèle par des procédés et moyens contraires à la dignité de leur
-profession, même lorsque ces procédés et moyens ne sont pas expressément prohibés par la législation en vigueur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 26
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-26 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R5015-29 (Ab)
-
-
-###### Article R*5015-27
-
-Les inscriptions portées sur les officines en application des dispositions de l'article R. 5015-12, ne peuvent être
-accompagnées que des seuls titres universitaires hospitaliers et scientifiques dont la liste est établie par le conseil
-national de l'Ordre.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 27
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. R*5015-12 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-27 (V)
-
-
-###### Article R*5015-28
-
-A l'exception de celles qu'impose la législation commerciale ou industrielle, les seules indications que les pharmaciens
-puissent faire figurer sur leurs en-têtes de lettres, papiers d'affaires ou dans les annuaires, sont :
-
-1° Celles qui facilitent leurs relations avec leurs clients ou fournisseurs telles que : noms, prénoms, adresses, numéros de
-téléphone, jours et heures d'ouverture, numéros de comptes de chèques postaux ;
-
-2° L'énoncé des différentes activités qu'ils exercent ;
-
-3° Les titres et fonctions retenus à cet effet par le conseil national de l'Ordre ;
-
-4° Les distinctions honorifiques reconnues par la République Française.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 28
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-28 (V)
-
-
-###### Article R*5015-29
-
-Toute publicité auprès du corps médical et pharmaceutique doit être véridique et loyale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 29
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-29 (V)
-
-
-##### 2) De la concurrence déloyale.
-
-###### Article R*5015-30
-
-Il est rigoureusement interdit aux pharmaciens de porter atteinte au principe du libre choix du pharmacien par les malades en
-octroyant directement ou indirectement à certains d'entre eux des avantages que la loi ne leur aurait pas explicitement
-dévolus.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 30
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-30 (V)
-
-
-###### Article R*5015-31
-
-Il est notamment interdit d'accorder à l'ayant droit d'un service médico-pharmaceutique collectif le remplacement d'un
-produit par une autre fourniture, même considérée comme ayant une valeur équivalente ou supérieure.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 31
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-31 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R5015-33 (Ab)
-
-
-###### Article R*5015-32
-
-Les pharmaciens doivent se refuser à établir tout certificat ou attestation de complaisance.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 32
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-32 (V)
-
-
-###### Article R*5015-33
-
-Les pharmaciens investis de mandats électifs ou administratifs ne doivent pas en user pour accroître leur clientèle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 33
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-33 (V)
-
-
-##### 3) Prohibition de certaines conventions ou ententes
-
-###### Article R*5015-34
-
-Sont réputés contraires à la moralité professionnelle toute convention ou tout acte ayant pour objet de spéculer sur la santé
-ainsi que le partage avec des tiers de la rémunération des services du pharmacien.
-
-Sont en particulier interdits :
-
-1° Tous versements et acceptations non explicitement autorisés, de sommes d'argent entre les praticiens ;
-
-2° Tous versements et acceptations de commissions entre les pharmaciens et toutes autres personnes ;
-
-3° Toute ristourne en argent ou en nature sur le prix d'un produit ou d'un service ;
-
-4° Tout acte de nature à procurer à un client un avantage illicite ;
-
-5° Toute facilité accordée à quiconque se livre à l'exercice illégal de la pharmacie.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 34
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-34 (V)
-
-
-###### Article R*5015-35
-
-Tout compérage entre pharmaciens et médecins auxiliaires médicaux ou toutes autres personnes est interdit.
-
-Par définition, le compérage est l'intelligence entre deux ou plusieurs personnes en vue d'avantages obtenus au détriment du
-malade ou des tiers.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 35
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-35 (V)
-
-
-###### Article R*5015-36
-
-Ne sont pas comprises dans les ententes et conventions prohibées entre pharmaciens et membres du corps médical celles qui
-tendent au versement de droits d'auteur ou d'inventeur. De même les membres du corps médical peuvent être associés aux
-pharmaciens pour la préparation et la vente en gros des produits pharmaceutiques, conformément aux dispositions de la loi et
-des codes de déontologie qui les concernent.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 36
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-36 (V)
-
-
-###### Article R*5015-37
-
-Les pharmaciens peuvent recevoir les redevances qui leur seraient reconnues pour leur contribution à l'étude ou à la mise au
-point de médicaments ou d'appareils dès lors que ceux-ci ont été prescrits ou conseillés par d'autres qu'eux-mêmes.
-
-Ils peuvent verser dans les mêmes conditions les redevances reconnues aux praticiens auxquels les lient des contrats.
-
-Lorsque l'inventeur a prescrit lui-même l'objet de son invention, le versement et l'acceptation des redevances sont
-subordonnés à l'autorisation de l'Ordre dont relève cet inventeur, si la prescription a lieu de manière habituelle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 37
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-37 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R5015-45 (Ab)
-
-
-###### Article R*5015-38
-
-Les comptes rendus d'analyses émanant d'un laboratoire peuvent porter facultativement les titres hospitaliers et
-scientifiques du directeur de ce laboratoire. Ils doivent toujours en porter la signature, même si les analyses ont été
-faites pour le compte d'un pharmacien ne possédant pas de laboratoire enregistré ou agréé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 38
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-38 (V)
-
-
-##### Paragraphe 3 : Relations avec des agents de l'administration.
-
-###### Article R*5015-39
-
-Les pharmaciens doivent tenir informé le conseil de l'Ordre dont ils relèvent des contrats de fournitures passés avec les
-administrations.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 39
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-39 (V)
-
-
-###### Article R*5015-40
-
-Les pharmaciens doivent s'efforcer de maintenir des relations confiantes avec les autorités administratives.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 40
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-40 (V)
-
-
-###### Article R*5015-41
-
-Ils doivent donner aux aux agents chargés de l'inspection dans les établissements qu'ils dirigent toutes facilités pour
-qu'ils puissent accomplir leur mission.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 41
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Modifié par**:
-
-	  - Décret n°93-982 du 5 août 1993 - art. 2 () JORF 7 août 1993
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-41 (V)
-
-
-###### Article R*5015-42
-
-Tout pharmacien qui croit avoir à se plaindre d'un agent de l'administration et qui désire obtenir réparation, peut
-s'adresser dans ce but au conseil de la section de l'Ordre dont il relève qui donne à l'affaire la suite qu'elle comporte.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 42
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-42 (V)
-
-
-##### Paragraphe 4 : Des règles à observer dans les relations avec le public.
-
-###### Article R*5015-43
-
-Seuls les pharmaciens d'officine sont habilités à délivrer les médicaments au public et aux collectivités publiques et
-privées dépourvues d'officines autorisées dans les formes légales. Toutefois, cette disposition ne s'applique pas aux cas
-d'urgence ou aux exceptions prévues par la loi de façon expresse.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 43
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-43 (V)
-
-
-###### Article R*5015-44
-
-Chaque fois qu'il est nécessaire, le pharmacien doit inciter ses clients à consulter un médecin.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 44
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-44 (V)
-
-
-###### Article R*5015-45
-
-Les pharmaciens ne peuvent modifier une prescription qu'avec l'accord exprès et préalable de son auteur.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 45
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-45 (V)
-
-
-###### Article R*5015-46
-
-Ils doivent répondre avec circonspection aux demandes faites par les malades ou par leurs préposés pour connaître la nature
-de la maladie traitée ou la valeur des moyens curatifs prescrits ou appliqués.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 46
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-46 (V)
-
-
-###### Article R*5015-47
-
-Ils doivent s'abstenir de formuler un diagnostic ou un pronostic sur la maladie au traitement de laquelle ils sont appellés à
-collaborer. Notamment, ils doivent éviter de commenter médicalement auprès des malades ou de leurs préposés les conclusions
-des analyses qui leur sont demandées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 47
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-47 (V)
-
-
-##### Paragraphe 5 : Relations avec les membres des professions médicales
-
-##### 1) Relations avec les membres des professions non pharmaceutiques.
-
-###### Article R*5015-48
-
-Les pharmaciens doivent s'efforcer de créer entre eux-mêmes et les autres membres du corps médical des sentiments d'estime et
-de confiance. Ils doivent en toute occasion se montrer courtois à leur égard.
-
-Ils doivent, dans leurs rapports professionnels avec les membres du corps médical, et notamment les médecins, chirurgiens
-dentistes et sages-femmes, respecter l'indépendance de ceux-ci.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Arrêté du 31 mars 1999 - art. 6 (V)
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 48
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-48 (V)
-
-
-###### Article R*5015-49
-
-La citation de travaux scientifiques dans une publication, de quelque nature qu'elle soit, doit être fidèle et
-scrupuleusement loyale.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 49
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-49 (V)
-
-
-###### Article R*5015-50
-
-Les pharmaciens doivent éviter tous agissements tendant à nuire aux autres membres du corps médical vis-à-vis de leur
-clientèle.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 50
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-50 (V)
-
-
-###### Article R*5015-51
-
-Les pharmaciens doivent veiller à ce que des consultations médicales ne soient jamais données dans l'officine et par qui que
-ce soit. Cette interdiction garde sa rigueur envers les pharmaciens docteurs en médecine bénéficiaires des dispositions de
-l'article L. 569.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 51
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L569 (M)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R*5015-52 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-51 (V)
-
-
-###### Article R*5015-52
-
-Tout projet de contrat d'association entre un ou plusieurs pharmaciens d'une part et un ou plusieurs membres d'une ou
-plusieurs des professions visées à l'article précédent d'autre part, doit être soumis à l'agrément du conseil national de
-l'Ordre. Celui-ci s'assurera, sur avis du conseil régional ou central compétent que les règles de la déontologie
-pharmaceutique sont respectées, et notamment que la dignité et l'indépendance du pharmacien sont sauvegardées.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 52
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. R*5015-51 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-52 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R5053-3 (Ab)
-
-
-##### 2) Relations des pharmaciens avec leurs collaborateurs.
-
-###### Article R*5015-53
-
-Les pharmaciens doivent traiter avec équité et bienveillance tous ceux, quels qu'ils soient, qui collaborent avec eux.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 53
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-53 (V)
-
-
-###### Article R*5015-54
-
-Ils doivent exiger d'eux une conduite en accord avec les prescriptions de la présente section.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 54
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-54 (V)
-
-
-###### Article R*5015-55
-
-Les pharmaciens assistants doivent être traités en confrères par les titulaires qu'ils assistent et par les autres
-pharmaciens.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 55
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-55 (V)
-
-
-##### 3) Devoirs des maîtres de stage.
-
-###### Article R*5015-56
-
-Le pharmacien agréé est un maître, et l'étudiant stagiaire son élève.
-
-Le pharmacien agréé s'engage à donner à l'étudiant stagiaire une instruction pratique en l'associant aux activités techniques
-de son officine. Il doit lui inspirer l'amour et le respect de la profession et lui donner l'exemple des qualités
-professionnelles.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 56
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-56 (V)
-
-
-###### Article R*5015-57
-
-Nul pharmacien ne doit prétendre à instruire un stagiaire s'il ne dispose pas du temps nécessaire pour assurer lui-même son
-instruction et s'il ne possède pas le matériel utile.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 57
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-57 (V)
-	  - Code de la santé publique - art. R4235-58 (V)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. R5053-3 (Ab)
-
-
-###### Article R*5015-58
-
-Le maître de stage doit pouvoir compter sur la fidélité, l'obéissance et le respect de son élève, qui doit l'aider dans la
-mesure de ses connaissances. Les différends entre pharmaciens et stagiaires doivent être portés à la connaissance des
-conseils régionaux, exception faite de ceux relatifs à l'enseignement qui sont de la compétence de l'Université.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 58
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-59 (V)
-
-
-##### 4) Devoirs des anciens gérants, remplaçants, assistants et stagiaires.
-
-###### Article R*5015-59
-
-Devenus pharmaciens, les étudiants stagiaires ne doivent pas exercer leur art en faisant à leurs anciens maîtres une
-concurrence injuste. Les anciens gérants après décès, remplaçants et assistants ont la même obligation vis-à-vis de leurs
-anciens employeurs ou maîtres.
-
-Notamment un pharmacien qui, soit pendant, soit après ses études, remplace ou assiste un de ses confrères, ne doit pas
-s'installer, pendant un délai de deux ans, dans un établissement où sa présence permette une concurrence directe avec le
-pharmacien qu'il a remplacé ou assisté, à moins qu'il n'y ait entre les intéressés un accord qui doit être notifié au conseil
-compétent. S'il y a désaccord, le différend peut être soumis à ce conseil.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 59
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-60 (V)
-
-
-##### 5) Devoirs de confraternité.
-
-###### Article R*5015-60
-
-Tous les pharmaciens inscrits à l'Ordre se doivent mutuellement aide et assistance pour l'accomplissement de leurs devoirs
-professionnels. En toutes circonstances, ils doivent faire preuve de loyauté les uns envers les autres et de solidarité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 60
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-61 (V)
-
-
-###### Article R*5015-61
-
-Tout contrat passé entre pharmaciens doit être sincère et juste. Les obligations qui en découlent doivent être accomplies
-dans un large esprit de confraternité.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 61
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-
-###### Article R*5015-62
-
-Les pharmaciens doivent s'interdire d'inciter les collaborateurs d'un confrère à quitter celui-ci. Avant de prendre à leur
-service l'ancien collaborateur d'un confrère du proche voisinage ou d'un concurrent direct, ils doivent en informer celui-ci.
-Toute contestation à ce sujet doit être soumise à la décision du conseil régional ou du conseil central intéressé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 62
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-62 (V)
-
-
-###### Article R*5015-63
-
-Toute dénonciation injustifiée ou faite dans le dessein de nuire à un confrère peut entraîner une sanction disciplinaire.
-Toute parole ou tout acte pouvant porter un préjudice matériel ou moral à un confrère au point de vue professionnel est
-punissable, même s'il a lieu dans le privé.
-
-**Liens relatifs à cet article**
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 63
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-63 (V)
-
-
-###### Article R*5015-64
-
-En raison de leur devoir de confraternité les pharmaciens qui ont entre eux un différend d'ordre professionnel doivent tenter
-de se réconcilier. S'ils ne peuvent y réussir, ils en aviseront le président du conseil régional ou du conseil central
-compétent.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Arrêté du 26 mars 2003 - art. 6 (VT)
-
-	**Anciens textes**:
-
-	  - Code de déontologie des pharmaciens 64
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R4235-64 (V)
-
-
 ##### Section 1 bis : Inscription au tableau
 
 ###### Article R5014-1
@@ -64264,6 +62767,57 @@ Cette inscription ne dispense pas les pharmaciens exerçant dans la société de
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R4222-4 (V)
+
+
+##### Section 2 : Code de déontologie des pharmaciens
+
+###### Article R5015-1
+
+Les dispositions de la présente section constituent le code de déontologie des pharmaciens prévu à l'article L. 538-1. Elles
+s'imposent à tous les pharmaciens et sociétés d'exercice libéral inscrits à l'un des tableaux de l'ordre.
+
+Elles s'imposent également aux étudiants en pharmacie autorisés à faire des remplacements dans les conditions fixées par les
+dispositions prises en application des articles L. 580 et L. 761-10.
+
+Les infractions à ces dispositions relèvent de la juridiction disciplinaire de l'ordre, sans préjudice des poursuites pénales
+qu'elles seraient susceptibles d'entraîner.
+
+Quelles que soient les personnes morales au sein desquelles ils exercent, les pharmaciens ne sauraient considérer cette
+circonstance comme les dispensant à titre personnel de leurs obligations.
+
+Les pharmaciens qui exercent une mission de service public, notamment dans un établissement public de santé ou dans un
+laboratoire d'analyses de biologie médicale public, et qui sont inscrits à ce titre à l'un des tableaux de l'ordre, ne
+peuvent être traduits en chambre de discipline que sur la demande ou avec l'accord des autorités administratives dont ils
+relèvent.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°69-505 du 24 mai 1969 - art. 6 (Ab)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L538-1 (Ab)
+	  - Code de la santé publique - art. L580 (Ab)
+	  - Code de la santé publique - art. L761-10 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-1 (V)
 
 
 #### Chapitre 4 : Réglementation de la publicité
@@ -66478,6 +65032,2153 @@ jugement d'acquittement.
 	**Cite**:
 
 	  - Code de la santé publique - art. R5073 (M)
+
+
+### Titre 1 : Dispositions communes à tous les pharmaciens
+
+#### Chapitre 1 : Devoirs généraux
+
+###### Article R5015-2
+
+Le pharmacien exerce sa mission dans le respect de la vie et de la personne humaine.
+
+Il doit contribuer à l'information et à l'éducation du public en matière sanitaire et sociale. Il contribue notamment à la
+lutte contre la toxicomanie, les maladies sexuellement transmissibles et le dopage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-2 (V)
+
+
+###### Article R5015-3
+
+Le pharmacien doit veiller à préserver la liberté de son jugement professionnel dans l'exercice de ses fonctions. Il ne peut
+aliéner son indépendance sous quelque forme que ce soit.
+
+Il doit avoir en toutes circonstances un comportement conforme à ce qu'exigent la probité et la dignité de la profession. Il
+doit s'abstenir de tout fait ou manifestation de nature à déconsidérer la profession, même en dehors de l'exercice de celle-
+ci.
+
+Le pharmacien doit se refuser à établir toute facture ou attestation de complaisance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-3 (V)
+
+
+###### Article R5015-4
+
+Un pharmacien ne peut exercer une autre activité que si ce cumul n'est pas exclu par la réglementation en vigueur et s'il est
+compatible avec la dignité professionnelle et avec l'obligation d'exercice personnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-4 (V)
+
+
+###### Article R5015-5
+
+Le secret professionnel s'impose à tous les pharmaciens dans les conditions établies par la loi.
+
+Tout pharmacien doit en outre veiller à ce que ses collaborateurs soient informés de leurs obligations en matière de secret
+professionnel et à ce qu'ils s'y conforment.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-5 (V)
+
+
+###### Article R5015-6
+
+Le pharmacien doit faire preuve du même dévouement envers toutes les personnes qui ont recours à son art.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-6 (V)
+
+
+###### Article R5015-7
+
+Tout pharmacien doit, quelle que soit sa fonction et dans la limite de ses connaissances et de ses moyens, porter secours à
+toute personne en danger immédiat, hors le cas de force majeure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-7 (V)
+
+
+###### Article R5015-8
+
+Les pharmaciens sont tenus de prêter leur concours aux actions entreprises par les autorités compétentes en vue de la
+protection de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-8 (V)
+
+
+###### Article R5015-9
+
+Dans l'intérêt du public, le pharmacien doit veiller à ne pas compromettre le bon fonctionnement des institutions et régimes
+de protection sociale. Il se conforme, dans l'exercice de son activité professionnelle, aux règles qui régissent ces
+institutions et régimes.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-9 (V)
+
+
+###### Article R5015-10
+
+Le pharmacien doit veiller à ne jamais favoriser, ni par ses conseils ni par ses actes, des pratiques contraires à la
+préservation de la santé publique.
+
+Il doit contribuer à la lutte contre le charlatanisme, notamment en s'abstenant de fabriquer, distribuer ou vendre tous
+objets ou produits ayant ce caractère.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-10 (V)
+
+
+###### Article R5015-11
+
+Les pharmaciens ont le devoir d'actualiser leurs connaissances.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-11 (V)
+
+
+###### Article R5015-12
+
+Tout acte professionnel doit être accompli avec soin et attention, selon les règles de bonnes pratiques correspondant à
+l'activité considérée.
+
+Les officines, les pharmacies à usage intérieur, les établissements pharmaceutiques et les laboratoires d'analyses de
+biologie médicale doivent être installés dans des locaux spécifiques, adaptés aux activités qui s'y exercent et
+convenablement équipés et tenus.
+
+Dans le cas d'un désaccord portant sur l'application des dispositions de l'alinéa qui précède et opposant un pharmacien à un
+organe de gestion ou de surveillance, le pharmacien en avertit sans délai le président du conseil central compétent de
+l'ordre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R*5015-27 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-12 (V)
+
+
+###### Article R5015-13
+
+L'exercice personnel auquel est tenu le pharmacien consiste pour celui-ci à exécuter lui-même les actes professionnels, ou à
+en surveiller attentivement l'exécution s'il ne les accomplit pas lui-même.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-13 (V)
+
+
+###### Article R5015-14
+
+Tout pharmacien doit définir par écrit les attributions des pharmaciens qui l'assistent ou auxquels il donne délégation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-14 (V)
+
+
+###### Article R5015-15
+
+Tout pharmacien doit s'assurer de l'inscription de ses assistants, délégués ou directeurs adjoints au tableau de l'ordre.
+
+Tout pharmacien qui se fait remplacer dans ses fonctions doit veiller à ce que son remplaçant satisfasse aux conditions
+requises pour ce faire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-15 (V)
+
+
+###### Article R5015-16
+
+Les instances disciplinaires de l'ordre apprécient dans quelle mesure un pharmacien est responsable disciplinairement des
+actes professionnels accomplis par un autre pharmacien placé sous son autorité.
+
+Les responsabilités disciplinaires respectives de l'un et de l'autre peuvent être simultanément engagées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-16 (V)
+
+
+###### Article R5015-17
+
+Toute cessation d'activité professionnelle, tout transfert des locaux professionnels ainsi que toute modification intervenant
+dans la propriété, la direction pharmaceutique ou la structure sociale d'une officine, d'une entreprise pharmaceutique, de la
+gérance d'une pharmacie à usage intérieur ou d'un laboratoire d'analyses de biologie médicale, doit faire l'objet d'une
+déclaration au conseil compétent de l'ordre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-2 (V)
+	  - Code de la santé publique - art. R4235-17 (V)
+
+
+###### Article R5015-18
+
+Le pharmacien ne doit se soumettre à aucune contrainte financière, commerciale, technique ou morale, de quelque nature que ce
+soit, qui serait susceptible de porter atteinte à son indépendance dans l'exercice de sa profession, notamment à l'occasion
+de la conclusion de contrats, conventions ou avenants à objet professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-3 (V)
+	  - Code de la santé publique - art. R4235-18 (V)
+
+
+###### Article R5015-19
+
+Il est interdit à tout pharmacien d'accepter, ou de proposer à un confrère, une rémunération qui ne soit pas proportionnée,
+compte tenu des usages, avec les fonctions et les responsabilités assumées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4234-4 (V)
+	  - Code de la santé publique - art. R4235-19 (V)
+
+
+###### Article R5015-20
+
+Les pharmaciens doivent veiller à maintenir des relations confiantes avec les autorités administratives. Ils doivent donner
+aux membres des corps d'inspection compétents toutes facultés pour l'accomplissement de leurs missions.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-20 (V)
+
+
+#### Chapitre 2 : Interdiction de certains procédés de recherche de la clientèle et prohibition de certaines conventions ou ententes
+
+###### Article R5015-21
+
+Il est interdit aux pharmaciens de porter atteinte au libre choix du pharmacien par la clientèle. Ils doivent s'abstenir de
+tout acte de concurrence déloyale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-21 (V)
+
+
+###### Article R5015-22
+
+Il est interdit aux pharmaciens de solliciter la clientèle par des procédés et moyens contraires à la dignité de la
+profession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-22 (V)
+
+
+###### Article R5015-23
+
+Les pharmaciens investis de mandats électifs, administratifs ou de fonctions honorifiques ne doivent pas en user pour
+accroître leur clientèle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-23 (V)
+
+
+###### Article R5015-24
+
+Outre celles qu'impose la législation commerciale ou industrielle, les seules indications que les pharmaciens peuvent faire
+figurer sur leurs en-têtes de lettres et papiers d'affaires sont :
+
+1. Celles qui facilitent leurs relations avec leurs clients ou fournisseurs, telles que : adresses, jours et heures
+d'ouverture, numéros de téléphone et de télécopie, numéros de comptes de chèques ;
+
+2. L'énoncé des différentes activités qu'ils exercent ;
+
+3. Le cas échéant, le nom ou le sigle de l'association, du groupement ou du réseau professionnel dont ils sont membres ; en
+ce qui concerne les officines et les laboratoires d'analyses de biologie médicale, ce nom ou ce sigle ne peut prévaloir sur
+la dénomination de l'officine ou du laboratoire ;
+
+4. Les titres et fonctions retenus à cet effet par le conseil national de l'ordre ;
+
+5. Les distinctions honorifiques reconnues par la République française.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-24 (V)
+
+
+###### Article R5015-25
+
+Est strictement interdit comme contraire à la moralité professionnelle tout acte ou toute convention ayant pour objet ou pour
+effet de permettre au pharmacien de tirer indûment profit de l'état de santé d'un patient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-25 (V)
+
+
+###### Article R5015-26
+
+Il est interdit aux pharmaciens de consentir des facilités à quiconque se livre à l'exercice illégal de la pharmacie, de la
+médecine ou de toute autre profession de santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-26 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5015-29 (Ab)
+
+
+###### Article R5015-27
+
+Tout compérage entre pharmaciens et médecins, membres des autres professions de santé ou toutes autres personnes est
+interdit.
+
+On entend par compérage l'intelligence entre deux ou plusieurs personnes en vue d'avantages obtenus au détriment du patient
+ou de tiers.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-27 (V)
+
+
+###### Article R5015-28
+
+Les pharmaciens doivent s'abstenir d'organiser ou de participer à des manifestations touchant à la pharmacie ou à la biologie
+médicale qui ne répondraient pas à des objectifs scientifiques, techniques ou d'enseignement et qui leur procureraient des
+avantages matériels, à moins que ceux-ci ne soient négligeables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-28 (V)
+
+
+###### Article R5015-29
+
+Sont autorisées les conventions afférentes au versement de droits d'auteur ou d'inventeur.
+
+Sous réserve des dispositions de l'article R. 5015-26, les pharmaciens peuvent recevoir des redevances pour leur contribution
+à l'invention, l'étude ou à la mise au point de médicaments, dispositifs médicaux, appareils de laboratoire, techniques ou
+méthodes.
+
+Ils peuvent verser, pour de telles inventions, études ou mises au point, les redevances convenues aux personnes auxquelles
+ils sont liés par contrat ou par convention.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R*5015-26 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-29 (V)
+
+
+###### Article R5015-30
+
+Toute information ou publicité, lorsqu'elle est autorisée, doit être véridique, loyale et formulée avec tact et mesure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-30 (V)
+
+
+#### Chapitre 3 : Relations avec les membres du corps médical, les membres des autres professions de santé et les vétérinaires
+
+###### Article R5015-31
+
+Les pharmaciens doivent entretenir de bons rapports avec les membres du corps médical, les membres des autres professions de
+santé et les vétérinaires et respecter leur indépendance professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-31 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5015-33 (Ab)
+
+
+###### Article R5015-32
+
+La citation de travaux scientifiques dans une publication, de quelque nature qu'elle soit, doit être fidèle et
+scrupuleusement loyale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-32 (V)
+
+
+###### Article R5015-33
+
+Les pharmaciens doivent éviter tous agissements tendant à nuire aux praticiens mentionnés à l'article R. 5015-31 vis-à-vis de
+leur clientèle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R*5015-31 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-33 (V)
+
+
+#### Chapitre 4 : Devoirs de confraternité
+
+###### Article R5015-34
+
+Tous les pharmaciens inscrits à l'ordre se doivent mutuellement aide et assistance pour l'accomplissement de leurs devoirs
+professionnels. En toutes circonstances, ils doivent faire preuve de loyauté et de solidarité les uns envers les autres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-34 (V)
+
+
+###### Article R5015-35
+
+Les pharmaciens doivent traiter en confrères les pharmaciens placés sous leur autorité et ne doivent pas faire obstacle à
+l'exercice de leurs mandats professionnels.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-35 (V)
+
+
+###### Article R5015-36
+
+Il est interdit aux pharmaciens d'inciter tout collaborateur d'un confrère à rompre son contrat de travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-36 (V)
+
+
+###### Article R5015-37
+
+Un pharmacien qui, soit pendant, soit après ses études, a remplacé, assisté ou secondé un de ses confrères durant une période
+d'au moins six mois consécutifs ne peut, à l'issue de cette période et pendant deux ans, entreprendre l'exploitation d'une
+officine ou d'un laboratoire d'analyses de biologie médicale où sa présence permette de concurrencer directement le confrère
+remplacé, assisté ou secondé, sauf accord exprès de ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-37 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5015-45 (Ab)
+
+
+###### Article R5015-38
+
+Un pharmacien ne peut faire usage de documents ou d'informations à caractère interne dont il a eu connaissance dans
+l'exercice de ses fonctions chez son ancien employeur ou maître de stage, sauf accord exprès de ce dernier.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-38 (V)
+
+
+###### Article R5015-39
+
+Un pharmacien doit s'abstenir de toute dénonciation injustifiée ou faite dans le dessein de nuire à un confrère.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-39 (V)
+
+
+###### Article R5015-40
+
+Les pharmaciens qui ont entre eux un différend d'ordre professionnel doivent tenter de le résoudre. S'ils n'y parviennent
+pas, ils en avisent le président du conseil régional ou central compétent de l'ordre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-40 (V)
+
+
+#### Chapitre 5 : Relations entre maîtres de stage et stagiaires
+
+###### Article R5015-41
+
+Les pharmaciens concernés ont le devoir de se préparer à leur fonction de maître de stage en perfectionnant leurs
+connaissances et en se dotant des moyens adéquats. Nul pharmacien ne peut prétendre former un stagiaire s'il n'est pas en
+mesure d'assurer lui-même cette formation.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-41 (V)
+
+
+###### Article R5015-42
+
+Le pharmacien maître de stage s'engage à dispenser au stagiaire une formation pratique en l'associant à l'ensemble des
+activités qu'il exerce.
+
+Il doit s'efforcer de lui montrer l'exemple des qualités professionnelles et du respect de la déontologie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-42 (V)
+
+
+###### Article R5015-43
+
+Les maîtres de stage rappellent à leurs stagiaires les obligations auxquelles ils sont tenus, notamment le respect du secret
+professionnel pour les faits connus durant les stages.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-43 (V)
+
+
+###### Article R5015-44
+
+Le maître de stage a autorité sur son stagiaire. Les différends entre maîtres de stage et stagiaires sont portés à la
+connaissance du président du conseil de l'ordre compétent, exception faite de ceux relatifs à l'enseignement universitaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-44 (V)
+
+
+###### Article R5015-45
+
+Les dispositions de l'article R. 5015-37 sont applicables aux anciens stagiaires devenus pharmaciens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R*5015-37 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-45 (V)
+
+
+### Titre 2 : Dispositions propres à différents modes d'exercice
+
+#### Chapitre 1 : Pharmaciens exerçant dans les officines et les pharmacies à usage intérieur
+
+###### Article R5015-46
+
+Les dispositions du présent chapitre s'appliquent aux pharmaciens d'officine et, en tant qu'elles les concernent, aux
+pharmaciens exerçant dans les pharmacies à usage intérieur ainsi qu'à ceux qui exercent dans tous les autres organismes
+habilités à dispenser des médicaments.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-46 (V)
+
+
+##### Section 1 : Participation à la protection de la santé
+
+###### Article R5015-47
+
+Il est interdit au pharmacien de délivrer un médicament non autorisé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-47 (V)
+
+
+###### Article R5015-48
+
+Le pharmacien doit assurer dans son intégralité l'acte de dispensation du médicament, associant à sa délivrance :
+
+1. L'analyse pharmaceutique de l'ordonnance médicale si elle existe ;
+
+2. La préparation éventuelle des doses à administrer ;
+
+3. La mise à disposition des informations et les conseils nécessaires au bon usage du médicament.
+
+Il a un devoir particulier de conseil lorsqu'il est amené à délivrer un médicament qui ne requiert pas une prescription
+médicale.
+
+Il doit, par des conseils appropriés et dans le domaine de ses compétences, participer au soutien apporté au patient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Cité par**:
+
+	  - Arrêté du 31 mars 1999 - art. 6 (V)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-48 (V)
+
+
+###### Article R5015-49
+
+Les pharmaciens sont tenus de participer aux services de garde et d'urgence prévus à l'article L. 588-1 ou organisés par les
+autorités compétentes pour les soins aux personnes hospitalisées.
+
+Les pharmaciens titulaires veillent à ce que leur officine satisfasse aux obligations imposées par ce service.
+
+Le pharmacien d'officine porte à la connaissance du public soit les noms et adresses de ses proches confrères en mesure de
+procurer aux malades les médicaments et secours dont ils pourraient avoir besoin, soit ceux des autorités publiques
+habilitées à communiquer ces renseignements.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L588-1 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-49 (V)
+
+
+###### Article R5015-50
+
+Aucun pharmacien ne peut maintenir une officine ouverte, ou une pharmacie à usage intérieur en fonctionnement, s'il n'est pas
+en mesure d'exercer personnellement ou s'il ne se fait pas effectivement et régulièrement remplacer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-50 (V)
+
+
+###### Article R5015-51
+
+Le pharmacien chargé de la gérance d'une officine après décès du titulaire doit, tout en tenant compte des intérêts légitimes
+des ayants droit, exiger de ceux-ci qu'ils respectent son indépendance professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R*5015-52 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-51 (V)
+
+
+##### Section 2 : De la tenue des officines
+
+###### Article R5015-52
+
+Toute officine doit porter de façon lisible de l'extérieur le nom du ou des pharmaciens propriétaires, copropriétaires ou
+associés en exercice. Les noms des pharmaciens assistants peuvent être également mentionnés.
+
+Ces inscriptions ne peuvent être accompagnées que des seuls titres universitaires, hospitaliers et scientifiques dont la
+liste est établie par le Conseil national de l'ordre des pharmaciens.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-52 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5053-3 (Ab)
+
+
+###### Article R5015-53
+
+La présentation intérieure et extérieure de l'officine doit être conforme à la dignité professionnelle.
+
+La signalisation extérieure de l'officine ne peut comporter, outre sa dénomination, que les emblèmes et indications ci-
+après :
+
+a) Croix grecque de couleur verte, lumineuse ou non ;
+
+b) Caducée pharmaceutique de couleur verte, lumineux ou non, tel que reconnu par le ministère chargé de la santé en tant
+qu'emblème officiel des pharmaciens français et constitué par une coupe d'Hygie et un serpent d'Epidaure ;
+
+c) Le cas échéant, le nom ou le sigle de l'association, du groupement ou du réseau dont le pharmacien est membre ; ce nom ou
+ce sigle ne saurait prévaloir sur la dénomination ou l'identité de l'officine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-53 (V)
+
+
+###### Article R5015-54
+
+Les pharmaciens ne doivent pas aliéner leur indépendance et leur identité professionnelles à l'occasion de l'utilisation de
+marques ou d'emblèmes collectifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-54 (V)
+
+
+###### Article R5015-55
+
+L'organisation de l'officine ou de la pharmacie à usage intérieur doit assurer la qualité de tous les actes qui y sont
+pratiqués.
+
+Le pharmacien veille à ce que le public ne puisse accéder directement aux médicaments et à ce que ceux-ci soient dispensés
+avec la discrétion que requiert le respect du secret professionnel.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-55 (V)
+
+
+###### Article R5015-56
+
+Les activités spécialisées de l'officine entrant dans le champ professionnel du pharmacien doivent être exercées conformément
+aux réglementations qui leur sont propres.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-56 (V)
+
+
+##### Section 3 : Information et publicité
+
+###### Article R5015-57
+
+I. - L'information en faveur d'une officine de pharmacie dans les annuaires ou supports équivalents est limitée comme suit :
+
+1° A la rubrique "Pharmacie", sont seules autorisées les mentions des noms et adresses et des numéros de téléphone et de
+télécopie ;
+
+2° A toute autre rubrique, ne peuvent figurer que les annonces relatives aux activités spécialisées autorisées dans
+l'officine ;
+
+Les mentions prévues aux 1° et 2° ci-dessus ne peuvent revêtir, par leur présentation et leur dimension, une importance telle
+qu'elle leur confère un caractère publicitaire.
+
+II. - La publicité pour les médicaments, produits et articles dont la vente est réservée aux pharmaciens ne peut s'effectuer
+que conformément à la réglementation en vigueur.
+
+III. - La publicité pour les produits ou articles dont la vente n'est pas réservée aux pharmaciens est admise à condition
+de :
+
+1. Demeurer loyale ;
+
+2. Se présenter sur un support compatible avec la dignité de la profession ;
+
+3. Observer tact et mesure dans sa forme et son contenu ;
+
+4. Ne pas être trompeuse pour le consommateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-57 (V)
+	  - Code de la santé publique - art. R4235-58 (V)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5053-3 (Ab)
+
+
+###### Article R5015-58
+
+Les vitrines des officines et les emplacements aménagés pour être visibles de l'extérieur ne peuvent servir à présenter que
+les activités dont l'exercice en pharmacie est licite. Sous réserve de la réglementation en vigueur en matière de concurrence
+et de publicité et des obligations légales en matière d'information sur les prix pratiqués, ces vitrines et emplacements ne
+sauraient être utilisés aux fins de solliciter la clientèle par des procédés et moyens contraires à la dignité de la
+profession.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-58 (V)
+	  - Code de la santé publique - art. R4235-59 (V)
+
+
+###### Article R5015-59
+
+Les pharmaciens doivent tenir informé le conseil de l'ordre dont ils relèvent des contrats ou accords de fournitures ou de
+prestations de services qu'ils ont conclus avec les établissements tant publics que privés ainsi qu'avec les établissements
+de santé ou de protection sociale. Il en est de même pour les conventions de délégation de paiement conclues avec les
+organismes de sécurité sociale, les mutuelles ou les assureurs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-59 (V)
+	  - Code de la santé publique - art. R4235-60 (V)
+
+
+##### Section 4 : Règles à observer dans les relations avec le public
+
+###### Article R5015-60
+
+Lorsque l'intérêt de la santé du patient lui paraît l'exiger, le pharmacien doit refuser de dispenser un médicament. Si ce
+médicament est prescrit sur une ordonnance, le pharmacien doit informer immédiatement le prescripteur de son refus et le
+mentionner sur l'ordonnance.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-60 (V)
+	  - Code de la santé publique - art. R4235-61 (V)
+
+
+###### Article R5015-61
+
+Le pharmacien ne peut modifier une prescription qu'avec l'accord exprès et préalable de son auteur, sauf en cas d'urgence et
+dans l'intérêt du patient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°99-486 du 11 juin 1999 - art. 9 () JORF 12 juin 1999
+
+
+###### Article R5015-62
+
+Chaque fois qu'il lui paraît nécessaire, le pharmacien doit inciter ses patients à consulter un praticien qualifié.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-62 (V)
+
+
+###### Article R5015-63
+
+Le pharmacien doit s'abstenir de formuler un diagnostic sur la maladie au traitement de laquelle il est appelé à collaborer.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-63 (V)
+
+
+###### Article R5015-64
+
+Le pharmacien ne doit pas, par quelque procédé ou moyen que ce soit, inciter ses patients à une consommation abusive de
+médicaments.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Cité par**:
+
+	  - Arrêté du 26 mars 2003 - art. 6 (VT)
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-64 (V)
+
+
+###### Article R5015-65
+
+Tous les prix doivent être portés à la connaissance du public conformément à la réglementation économique en vigueur.
+
+Lorsque le pharmacien est, en vertu de la réglementation en vigueur, appelé à fixer librement les prix pratiqués dans son
+officine, il doit y procéder avec tact et mesure.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-65 (V)
+
+
+###### Article R5015-66
+
+Aucune consultation médicale ou vétérinaire ne peut être donnée dans l'officine. Cette interdiction s'applique aussi aux
+pharmaciens qui sont en même temps médecin, chirurgien-dentiste, sage-femme ou vétérinaire.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-66 (V)
+
+
+###### Article R5015-67
+
+Il est interdit au pharmacien de mettre à la disposition de personnes étrangères à l'officine, à quelque titre que ce soit,
+onéreux ou gratuit, tout ou partie de ses locaux professionnels pour l'exercice de toute autre profession. Seules les
+activités spécialisées réglementairement prévues sont autorisées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-67 (V)
+
+
+#### Chapitre 2 : Devoirs des pharmaciens exerçant dans les entreprises et les établissements pharmaceutiques de fabrication et de distribution en gros
+
+###### Article R5015-68
+
+Le pharmacien responsable mentionné aux articles L. 596, L. 596-1 et L. 615 doit veiller au respect de l'éthique
+professionnelle ainsi que de toutes les prescriptions édictées dans l'intérêt de la santé publique.
+
+Il doit en outre veiller à définir avec précision les attributions des pharmaciens et du personnel placé sous son autorité.
+Il doit former ce dernier aux règles de bonnes pratiques.
+
+Le pharmacien délégué est tenu, dans les limites de sa délégation, aux mêmes obligations.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L596 (M)
+	  - Code de la santé publique - art. L596-1 (M)
+	  - Code de la santé publique - art. L615 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-68 (V)
+
+
+###### Article R5015-69
+
+Le pharmacien responsable et les pharmaciens placés sous son autorité doivent s'interdire de discréditer un confrère ou une
+entreprise concurrente.
+
+Le pharmacien responsable est tenu de veiller à l'exactitude de l'information scientifique, médicale et pharmaceutique et de
+la publicité, ainsi qu'à la loyauté de leur utilisation. Il s'assure que la publicité faite à l'égard des médicaments est
+réalisée de façon objective et qu'elle n'est pas trompeuse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-69 (V)
+
+
+###### Article R5015-70
+
+Le pharmacien responsable doit vérifier que toutes dispositions sont prises pour son remplacement en cas d'absence. Il doit
+veiller à ce que son remplaçant satisfasse aux conditions requises.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-70 (V)
+
+
+#### Chapitre 3 : Devoirs des pharmaciens biologistes
+
+###### Article R5015-71
+
+Le pharmacien biologiste doit veiller au respect de l'éthique professionnelle ainsi que de toutes les prescriptions édictées
+dans l'intérêt de la santé publique. Il accomplit sa mission en mettant en oeuvre des méthodes scientifiques appropriées et,
+s'il y a lieu, en se faisant aider de conseils éclairés.
+
+Il doit surveiller avec soin l'exécution des examens qu'il ne pratique pas lui-même. Il doit, dans le cas d'un contrat de
+collaboration entre laboratoires, s'assurer que les analyses confiées au laboratoire sont exécutées avec la plus grande
+sécurité pour le patient.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-71 (V)
+
+
+###### Article R5015-72
+
+L'information scientifique auprès du corps médical ou pharmaceutique mentionnée à l'article L. 761-12 ne saurait être
+détounée à des fins publicitaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L761-12 (M)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-72 (V)
+
+
+###### Article R5015-73
+
+Outre les indications qui doivent figurer en vertu de la réglementation en vigueur sur tous documents émanant de son
+laboratoire, le pharmacien biologiste ne peut faire figurer sur ces documents que tout ou partie des indications suivantes :
+
+1. Le numéro de téléphone et de télécopie ;
+
+2. Le numéro de compte courant postal ou bancaire ;
+
+3. Les activités exercées figurant dans l'autorisation préfectorale ;
+
+4. Le cas échéant, le nom ou le sigle de l'association, du groupement ou du réseau dont le laboratoire est membre, ladite
+mention ne pouvant cependant prévaloir sur l'identification du laboratoire ;
+
+5. Les titres et fonctions reconnus par le Conseil national de l'ordre des pharmaciens ;
+
+6. Les distinctions honorifiques reconnues par la République française.
+
+Le pharmacien biologiste peut également faire figurer ces indications dans un annuaire professionnel.
+
+Ces indications, comme celles qui sont inscrites selon les dispositions réglementaires en vigueur sur la plaque
+professionnelle apposée à la porte des locaux du laboratoire ou de l'immeuble dans lequel ce dernier est installé, doivent
+être présentées avec discrétion selon les usages des professions libérales.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-73 (M)
+	  - Code de la santé publique - art. R4235-73 (V)
+
+
+###### Article R5015-74
+
+Le pharmacien biologiste peut refuser d'exécuter un prélèvement ou une analyse pour des motifs tirés de l'intérêt du patient
+ou du caractère illicite de la demande.
+
+S'il refuse pour d'autres motifs, il doit fournir au patient tous renseignements utiles pour lui permettre de faire exécuter
+ce prélèvement ou cette analyse.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-74 (V)
+
+
+###### Article R5015-75
+
+Le pharmacien biologiste ne doit pas réduire ses honoraires dans une intention de concurrence déloyale ou au détriment de la
+qualité des prestations qu'il fournit. Dans le cas de contrat de collaboration entre laboratoires, les honoraires concernant
+les transmissions doivent être fixés avec tact et mesure.
+
+Il doit s'interdire de collecter les prélèvements aux fins d'analyses dès lors que cette pratique constituerait une
+concurrence déloyale au détriment de ses confrères.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-75 (V)
+
+
+###### Article R5015-76
+
+Un pharmacien biologiste ne peut ouvrir un laboratoire d'analyses de biologie médicale dans un immeuble où est déjà installé
+un autre laboratoire d'analyses de biologie médicale sans l'accord du ou des directeurs et directeurs adjoints et, à défaut,
+sans l'autorisation du conseil de la section compétente de l'ordre des pharmaciens. L'autorisation ne peut être refusée que
+pour des motifs tirés d'un risque de confusion pour le public ou de l'intérêt des malades.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-76 (V)
+
+
+###### Article R5015-77
+
+Le pharmacien chargé de la gérance d'un laboratoire après décès du titulaire doit, tout en tenant compte des intérêts
+légitimes des ayants droit, exiger de ceux-ci qu'ils respectent son indépendance professionnelle.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°95-284 du 14 mars 1995 - art. 1 () JORF 16 mars 1995
+
+	**Abrogé par**:
+
+	  - Décret n°2004-802 2004-07-29 art. 4 JORF 8 août 2004
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R4235-77 (V)
 
 
 ### Titre 2 : Dispositions particulières aux divers modes d'exercice de la pharmacie
