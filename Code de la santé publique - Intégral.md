@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1977-01-01
+Version Consolidée au 1977-05-05
 
 # Partie législative ancienne
 
@@ -21398,6 +21398,37 @@ collectivité territoriale de Mayotte.*]
 
 	  - Code de la santé publique - art. L532 (Ab)
 	  - Code de la santé publique - art. L534 (Ab)
+
+
+###### Article L535-1
+
+Le conseil central des pharmaciens directeurs et directeurs adjoints de laboratoires d'analyses de biologie médicale publics
+et privés gérant la section G de l'ordre des pharmaciens est composé de douze [*nombre*] membres nommés ou élus pour quatre
+ans [*durée*] par tous les pharmaciens inscrits au tableau de la section G de l'ordre.
+
+Ce conseil central comprend :
+
+Un professeur ou maître de conférences des unités d'enseignement et de recherche de pharmacie, pharmacien, nommé par le
+ministre chargé de la santé sur proposition du ministre chargé des universités ;
+
+Un inspecteur de la pharmacie représentant, à titre consultatif, le ministre chargé de la santé ;
+
+Dix pharmaciens biologistes élus.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Créé par**:
+
+	  - Décret n°77-470 1977-05-03 art. 5 JORF 5 mai 1977
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4232-15 (V)
 
 
 ###### Article L536
