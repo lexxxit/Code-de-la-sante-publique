@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1964-12-18
+Version Consolidée au 1965-06-30
 
 # Partie législative ancienne
 
@@ -17339,6 +17339,42 @@ programme sont fixés par décret pris sur le rapport du ministre de la Santé p
 	  - Code de la santé publique - art. L4322-3 (V)
 
 
+###### Article L496
+
+Les personnes qui ont fait la preuve qu'elles exerçaient régulièrement la profession de pédicure au 1er mai 1946 et qui ont
+reçu une autorisation [*condition d'exercice*] peuvent effectuer, leur vie durant, les actes de la compétence des pédicures
+possesseurs du diplôme institué par le présent titre. Mention de leur autorisation est portée sur un registre spécial déposé
+à la préfecture.
+
+Peuvent en outre obtenir l'autorisation de pratiquer les actes de la compétence des pédicures, les personnes qui justifieront
+de l'exercice régulier de leur profession dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la
+Réunion à la publication de la loi n° 65-497 du 29 juin 1965.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Loi n°46-857 1946-04-30 ART. 10
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Loi n°65-497 1965-06-29
+
+	**Modifié par**:
+
+	  - Loi n°65-497 1965-06-29 ART. 3 JORF 30 JUIN 1965
+
+	**Cité par**:
+
+	  - Décret n°89-609 du 1 septembre 1989 - art. 2 (M)
+	  - Décret n°97-492 du 16 mai 1997 - art. 12 (Ab)
+
+
 ### TITRE 3 : PROFESSIONS DE MASSEUR-KINESITHERAPEUTE ET DE PEDICURE CHAPITRE 3 : DISPOSITIONS COMMUNES ET DISPOSITIONS PENALES.
 
 ###### Article L497
@@ -17777,6 +17813,58 @@ fixées audit alinéa, en saisir les préfets intéressés [*recours*] (1).
 	**Abrogé par**:
 
 	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+
+###### Article L506-1
+
+A titre transitoire et par dérogation aux dispositions de l'article L. 505 ci-dessus, peuvent également obtenir
+l'autorisation d'exercer la profession d'opticien-lunetier les personnes qui justifieront avoir exercé dans les départements
+de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion la profession d'opticien-lunetier pendant deux années au
+moins [*durée*] avant la publication de la loi n° 65-497 du 29 juin 1965 et qui, à cette date seront âgées de vingt-cinq ans
+au moins.
+
+Sont dispensées de cette condition d'âge les personnes qui auront exercé cette profession à titre de chef d'entreprise, de
+directeur effectif ou de gérant pendant la même période.
+
+Les personnes visées au présent article devront, à peine de forclusion, adresser dans le délai d'un an à dater de la
+publication de la loi n° 65-497 du 29 juin 1965 par lettre recommandée avec accusé de réception, au préfet de leur résidence
+professionnelle, une demande accompagnée de tous documents justificatifs et précisant leur état civil, la date et le lieu de
+leur installation ainsi que les conditions dans lesquelles elles exerçaient ou avaient exercé.
+
+Les justifications fournies devront être reconnues exactes par les commissions d'optique-lunetterie prévues à l'article L.
+507 modifié du Code de la santé publique.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-356 1958-04-03 (LOI DE VALIDATION)
+
+	**Cite**:
+
+	  - Loi n°65-497 1965-06-29
+	  - Code de la santé publique - art. L505 (M)
+
+	**Créé par**:
+
+	  - Loi n°65-497 1965-06-29 art. 4 JORF 30 juin 1965
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4362-7 (Ab)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Code de la santé publique - art. L505 (Ab)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. L507 (Ab)
 
 
 ###### Article L507
