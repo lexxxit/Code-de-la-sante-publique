@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1962-01-17
+Version Consolidée au 1962-03-07
 
 # Partie législative ancienne
 
@@ -24763,18 +24763,6 @@ Article abrogé
 	**Cité par**:
 
 	  - Loi n°64-707 du 10 juillet 1964 - art. 7 (V)
-
-
-###### Article L731
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
 
 ###### Article L732
