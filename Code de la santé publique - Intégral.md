@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1988-12-31
+Version Consolidée au 1989-01-01
 
 # Partie législative ancienne
 
@@ -51248,6 +51248,57 @@ les intéressés.
 	  - SPEC_APPLI: Code de la santé publique R5182 : champ d'application du paragraphe 3
 
 
+###### Article R5178
+
+Les personnes titulaires de l'autorisation prévue à l'article R. 5171 sont tenues de dresser un état annuel indiquant
+[*mentions obligatoires*] pour chaque stupéfiant :
+
+1° Les quantités reçues ;
+
+2° Les quantités utilisées pour la fabrication ou la transformation, en indiquant la nature et la quantité des produits
+obtenus ;
+
+3° Les quantités cédées ;
+
+4° Les stocks en fin d'année, y compris les stocks de produits en cours de transformation.
+
+Cet état, qui couvre l'année civile écoulée, est adressé au ministre chargé de la santé [*autorité compétente*] au plus tard
+le 15 février [*date limite*].
+
+L'autorisation prévue à l'article R. 5171 peut imposer à son titulaire l'établissement et la production au cours de chaque
+année civile de plusieurs états récapitulatifs.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988 en vigueur le 1er janvier 1989
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 5 (Ab) JORF 31 décembre 1988 en vigueur le 1er janvier 1989
+
+	**Cité par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 5 (Ab)
+	  - Arrêté du 21 décembre 1990 - art. 5 (V)
+	  - Code de la santé publique - art. R5209 (Ab)
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5132-83 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5171 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code de la santé publique R5150 : champ d'application de la présente section
+
+
 ###### Article R5179
 
 Sont interdits la production, la mise sur le marché, l'emploi et l'usage des substances suivantes, de leurs sels et des
@@ -51725,49 +51776,6 @@ chargé de la santé concernant l'application des dispositions du présent parag
 	**Cite**:
 
 	  - Code de la santé publique - art. R5182 (M)
-
-
-##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE
-
-##### PARAGRAPHE 2 : REGIME DES SUBSTANCES DANGEREUSES (TABLEAU C) ET DES PREPARATIONS QUI LES CONTIENNENT.
-
-###### Article R5178
-
-Les substances inscrites au tableau C et leurs dilutions, à l'exception des médicaments spécialisés, doivent être conservées
-dans un endroit où n'ont pas accès les personnes étrangères à l'établissement.
-
-Les récipients contenant lesdites substances doivent comporter le nom des substances tel qu'il figure au tableau C.
-
-Cette inscription doit être faite en caractères noirs très apparents sur une étiquette verte [*couleur*] fixée de telle sorte
-qu'elle ne puisse pas être involontairement détachée.
-
-Elle doit être accompagnée de la mention "DANGEREUX" inscrite en caractères noirs très apparents sur une bande de couleur
-verte, faisant le tour de l'enveloppe ou du récipient.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Modifié par**:
-
-	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
-
-	**Cité par**:
-
-	  - Décret n°88-1232 du 28 décembre 1988 - art. 5 (Ab)
-	  - Arrêté du 21 décembre 1990 - art. 5 (V)
-	  - Code de la santé publique - art. R5209 (Ab)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R5132-83 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code de la santé publique R5170 : NON APPLICATION AUX PREPARATIONS MEDICAMENTEUSES DESTINEES A LA MEDECINE HUMAINE ET VETERINAIRE RENFERMANT DES SUBSTANCES VENENEUSES A DES DOSES FIXEES PAR ARRETE
 
 
 ##### Section 3 : Médicaments, produits insecticides et acaricides destinés à être appliqués sur l'homme, produits destinés à l'entretien ou à l'application des lentilles oculaires de contact
