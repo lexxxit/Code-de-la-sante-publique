@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1970-07-17
+Version Consolidée au 1970-10-27
 
 # Partie législative ancienne
 
@@ -36057,6 +36057,29 @@ l'organisme.
 	  - Code de la santé publique - art. R5091-9 (Ab)
 
 
+###### Article R5091-1
+
+La gérance de deux ou trois pharmacies d'établissements ou d'organismes peut être confiée à un même pharmacien à condition
+que ce dernier n'exerce aucune autre activité professionnelle, que ces pharmacies se trouvent dans un périmètre permettant à
+l'intéressé d'assurer quotidiennement son service dans chaque établissement et que la capacité totale des établissements soit
+inférieure à 500 lits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°70-977 1970-10-26 art. 1 JORF 27 octobre 1970
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5091-6 (Ab)
+
+
 ###### Article R5091-2
 
 Dans les établissements comptant au moins 500 lits, la gérance de la pharmacie doit être confiée à un pharmacien n'ayant pas
@@ -36086,6 +36109,211 @@ Les pharmaciens assistants ne peuvent exercer aucune autre activité professionn
 	**Cité par**:
 
 	  - Code de la santé publique - art. R5091-5 (Ab)
+
+
+###### Article R5091-3
+
+Pour la détermination du nombre de lits d'un établissement, trois lits d'hospice ou d'établissement de cure comptent pour
+deux lits. Dans les autres établissements chaque lit compte pour une unité.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°70-977 1970-10-26 art. 1 JORF 27 octobre 1970
+
+	**Cité par**:
+
+	  - Arrêté du 6 mars 1989 - art. 2 (V)
+
+
+###### Article R5091-4
+
+Le contrat de gérance conclu pour l'application des articles R. 5091 à R. 5091-2 doit être établi conformément à un des
+contrats types fixés par arrêté du ministre de la santé publique et de la sécurité sociale, après avis du conseil national de
+l'ordre des pharmaciens et du conseil supérieur de la pharmacie.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°70-977 1970-10-26 art. 1 JORF 27 octobre 1970
+
+	**Liens**:
+
+	  - TXT_SOURCE: Arrêté du 6 mars 1989
+	  - TXT_SOURCE: Arrêté du 6 mars 1989 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 6 mars 1989 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 6 mars 1989 - art. Annexe (V)
+
+	**Cité par**:
+
+	  - Arrêté du 6 mars 1989 - art. 1 (V)
+	  - Code de la santé publique - art. R5091-7 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique R5091 à R5091-2
+
+
+###### Article R5091-5
+
+Avant d'accepter leurs fonctions les pharmaciens appelés à gérer une pharmacie dans les cas prévus à l'article R. 5091,
+lorsqu'ils n'exercent pas d'autre activité professionnelle, et à l'article R. 5091-2 doivent souscrire à la préfecture une
+déclaration qui y est enregistrée après avis du pharmacien inspecteur régional de la santé.
+
+A cette déclaration sont jointes les justifications propres à établir que l'intéressé remplit les conditions prévues à
+l'article L. 514 et celles qui sont prévues respectivement aux articles R. 5091 et R. 5091-2.
+
+Si l'une ou plusieurs de ces conditions ne sont pas remplies, l'enregistrement est refusé par décision motivée du préfet.
+
+Si aucune décision n'est intervenue dans le délai de deux mois à compter du dépôt de la déclaration, l'enregistrement de
+celle-ci est de droit à l'expiration de ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°70-977 1970-10-26 art. 1 JORF 27 octobre 1970
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L514 (M)
+	  - Code de la santé publique - art. R5091 (M)
+	  - Code de la santé publique - art. R5091-2 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5091-7 (Ab)
+
+
+###### Article R5091-6
+
+Les pharmaciens appelés à gérer une pharmacie dans les cas prévus à l'article R. 5091, lorsqu'ils exercent une autre activité
+professionnelle, et à l'article R. 5091-1, doivent obtenir l'autorisation préalable du préfet donnée après avis du conseil
+central de la section D de l'ordre des pharmaciens, du chef du service régional de l'action sanitaire et sociale et du
+pharmacien inspecteur régional de la santé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°70-977 1970-10-26 art. 1 JORF 27 octobre 1970
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5091 (M)
+	  - Code de la santé publique - art. R5091-1 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5091-7 (Ab)
+
+
+###### Article R5091-7
+
+Les dispositions des articles R. 5091-4, R. 5091-5 et R. 5091-6 ne sont pas applicables aux pharmaciens nommés dans un emploi
+de titulaire relevant d'une collectivité ou d'un établissement public et soumis à un statut de droit public.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°70-977 1970-10-26 art. 1 JORF 27 octobre 1970
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5091-4 (M)
+	  - Code de la santé publique - art. R5091-5 (M)
+	  - Code de la santé publique - art. R5091-6 (M)
+
+
+###### Article R5091-8
+
+Dans les départements où les malades relevant de l'aide sociale sont approvisionnés en médicaments par des établissements de
+soins publics, le préfet peut autoriser un médecin de l'établissement à délivrer directement des médicaments à cette
+catégorie de malades à défaut de pharmacien ou en cas d'absence du pharmacien de l'établissement.
+
+L'autorisation est donnée après avis du chef du service régional de l'action sanitaire et sociale, du médecin inspecteur
+régional de la santé et du pharmacien inspecteur régional de la santé. Le préfet peut fixer les modalités de délivrance des
+médicaments.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°70-977 1970-10-26 art. 1 JORF 27 octobre 1970
+
+
+###### Article R5091-9
+
+La demande d'ouverture, d'acquisition ou de transfert d'une pharmacie par une société mutualiste ou une union de sociétés
+mutualistes doit être présentée dans la forme prescrite par arrêté du ministre de la santé publique et de la sécurité sociale
+qui fixe également les pièces à produire à l'appui de la demande.
+
+Le ministre statue sur la demande après avis du préfet, du chef du service régional de l'action sanitaire et sociale, du
+directeur régional de la sécurité sociale, du pharmacien inspecteur régional de la santé, du conseil régional de l'ordre des
+pharmaciens, du conseil supérieur de la pharmacie et du conseil supérieur de la mutualité ou de sa section permanente.
+
+Les autorités et organismes mentionnés à l'alinéa précédent doivent émettre leur avis dans un délai de deux mois à partir de
+la date à laquelle ils sont saisis, faute de quoi il sera passé outre.
+
+La gérance des pharmacies mentionnées à l'article L. 577 bis du présent code doit être confiée à un pharmacien n'ayant pas
+d'activité professionnelle autre, le cas échéant, que celle qui est prévue à l'article R. 5091.
+
+En cas de fusion de sociétés mutualistes ou d'unions de sociétés mutualistes, propriétaires d'une ou de plusieurs pharmacies,
+la société mutualiste ou l'union des sociétés mutualistes résultant de la fusion en fait la déclaration dans le délai de
+quinze jours aux préfets des départements dans lesquels se trouvent situées ces pharmacies.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°70-977 1970-10-26 art. 1 JORF 27 octobre 1970
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5091 (M)
+	  - Code de la santé publique L577 bis, R5091
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5125-25 (V)
 
 
 ##### Paragraphe 1 : Exploitation des officines
