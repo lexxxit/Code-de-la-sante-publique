@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1991-01-20
+Version Consolidée au 1991-01-23
 
 # Partie législative ancienne
 
@@ -43716,8 +43716,8 @@ dont la délivrance n'est pas obligatoirement soumise à prescription médicale,
 présent code, et qui ne sont pas remboursés par les organismes de sécurité sociale, en application des articles R. 163-1 à R.
 163-12 du code de la sécurité sociale, ainsi que la publicité relative aux produits et objets mentionnés aux deuxième et
 troisième alinéas de l'article L. 551 sont soumises à une autorisation du ministre chargé de la santé dénommée visa de
-publicité et délivrée après avis de la commission de contrôle de la publicité. Ce visa est réputé acquis au terme d'un délai
-d'un mois après l'avis de ladite commission.
+publicité et délivrée après avis de la commission chargée du contrôle de la publicité et de la diffusion de recommandations
+sur le bon usage des médicaments. Ce visa est réputé acquis au terme d'un délai d'un mois après l'avis de ladite commission.
 
 Pour les autres médicaments toute publicité auprès du public est interdite.
 
@@ -43737,7 +43737,7 @@ Pour les autres médicaments toute publicité auprès du public est interdite.
 
 	**Modifié par**:
 
-	  - Décret n°87-772 du 23 septembre 1987 - art. 2 () JORF 24 septembre 1987
+	  - Décret n°91-87 du 21 janvier 1991 - art. 6 () JORF 23 janvier 1991
 
 	**Cite**:
 
@@ -43822,7 +43822,7 @@ le marché.
 ###### Article R5047-4
 
 Il peut être mis fin à l'autorisation de publicité par décision motivée du ministre chargé de la santé, après avis de la
-commission de contrôle de la publicité.
+commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments.
 
 Le bénéficiaire du visa doit, avant que la commission ne donne son avis, être mis à même de présenter ses observations
 écrites ou d'être entendu par la commission.
@@ -43837,9 +43837,9 @@ pour une durée d'un mois au plus. La commission doit être saisie dans ce déla
 	  - Décret n°53-1001 1953-10-05 (Décret de codification)
 	  - Loi n°58-356 1958-04-03 (Loi de validation)
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Décret n°87-772 du 23 septembre 1987 - art. 2 () JORF 24 septembre 1987
+	  - Décret n°91-87 du 21 janvier 1991 - art. 6 () JORF 23 janvier 1991
 
 	**Nouveaux textes**:
 
@@ -44476,6 +44476,212 @@ personnes appelées à prescrire ou délivrer ce médicament, produit ou objet o
 	  - Code de la santé publique - art. R5124-65 (V)
 
 
+##### Section 5 : Commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments
+
+###### Article R5054
+
+La commission chargée du contrôle de la publicité et de la diffusion de recommandations sur le bon usage des médicaments est
+composée de :
+
+1. Sept membres de droit :
+
+a) Le directeur de la pharmacie et du médicament ou son représentant ;
+
+b) Le directeur général de la santé ou son représentant ;
+
+c) Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
+
+d) Le directeur de la sécurité sociale ou son représentant ;
+
+e) Le chef du service juridique et technique de l'information ou son représentant ;
+
+f) Le président du Conseil national de l'ordre des pharmaciens ou son représentant ;
+
+g) Le président du Conseil national de l'ordre des médecins ou son représentant ;
+
+2. Trois personnalités, médecins ou pharmaciens, choisies par le ministre chargé de la santé sur des listes de trois noms
+proposées respectivement par la Caisse nationale de l'assurance maladie des travailleurs salariés, la Caisse nationale
+d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles et la caisse centrale de secours
+mutuels agricoles ;
+
+3. Deux membres représentant des commissions instituées auprès du ministre chargé de la santé :
+
+a) Le président de la commission prévue à l'article R. 5140 du code de la santé publique ou son représentant ;
+
+b) Le président de la commission de la transparence prévue à l'article R. 163-9 du code de la sécurité sociale ou son
+représentant ;
+
+4. Dix-huit membres choisis par le ministre chargé de la santé, dont :
+
+a) Deux représentants des organismes représentatifs des fabricants de produits pharmaceutiques ;
+
+b) Un représentant des organismes de consommateurs faisant partie du Conseil national de la consommation ;
+
+c) Deux personnalités choisies en raison de leur compétence en matière de publicité ;
+
+d) Deux représentants de la presse médicale ;
+
+e) Une personnalité choisie en raison de sa compétence en matière de visite médicale ;
+
+f) Dix personnalités choisies en raison de leur compétence en matière de médicament ; ces personnalités ne peuvent ni être
+salariées d'un établissement de préparation ou de vente en gros de produits pharmaceutiques ni avoir un intérêt financier
+direct ou indirect dans un tel établissement.
+
+Le président et le vice-président de la commission sont désignés parmi ses membres par le ministre chargé de la santé.
+
+Le vice-président supplée le président en cas d'empêchement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°91-87 du 21 janvier 1991 - art. 2 () JORF 23 janvier 1991
+	  - Décret n°91-87 du 21 janvier 1991 - art. 3 () JORF 23 janvier 1991
+
+	**Cité par**:
+
+	  - Arrêté du 7 août 1991 - art. 1 (V)
+	  - Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
+	  - Décret n°2003-633 du 2 juillet 2003 - art. 2 (Ab)
+	  - Code de la santé publique - art. R5046-2 (Ab)
+	  - Code de la santé publique - art. R5046-4 (Ab)
+	  - Code de la santé publique - art. R5047-5 (Ab)
+	  - Code de la santé publique - art. R5089-15 (Ab)
+	  - Code de la sécurité sociale. - art. D162-2-2 (V)
+	  - Code de la sécurité sociale. - art. D162-2-4 (M)
+	  - Code de la sécurité sociale. - art. R163-5 (M)
+	  - Code de la sécurité sociale. - art. R163-7 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5140 (M)
+	  - Code de la sécurité sociale. - art. R163-9 (M)
+
+
+###### Article R5054-1
+
+A l'exception des membres de droit, les membres de la commission sont nommés pour une période de trois ans renouvelable par
+arrêté du ministre chargé de la santé. Des suppléants sont désignés en nombre égal et dans les mêmes conditions.
+
+En cas de vacance survenant au cours d'un mandat, le mandat du suppléant appelé à remplacer un membre titulaire ou celui du
+membre nouveau appelé à remplacer un suppléant prend fin à la même date que celui du membre remplacé.
+
+La commission peut faire appel à des experts qui siègent avec voix consultative et le ministre chargé de la santé peut lui
+demander d'en entendre.
+
+L'instruction des dossiers peut être confiée à des rapporteurs extérieurs à la commission, désignés par le directeur de la
+pharmacie et du médicament, sur proposition du président de la commission.
+
+Ces rapporteurs peuvent être appelés à siéger à la commission avec voix consultative.
+
+Des groupes de travail peuvent être créés par le directeur de la pharmacie et du médicament, sur proposition du président,
+notamment en vue de préparer les avis de la commission.
+
+La commission se réunit sur convocation de son président ou du ministre de la santé.
+
+Les délibérations ne sont valables que si la moitié des membres de la commission sont présents.
+
+Les résultats des votes sont acquis à la majorité des votes exprimés. En cas de partage des voix, celle du président est
+prépondérante.
+
+Les délibérations sont secrètes.
+
+Le secrétariat de la commission et des groupes de travail est assuré par la direction de la pharmacie et du médicament.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°91-87 du 21 janvier 1991 - art. 2 () JORF 23 janvier 1991
+
+
+###### Article R5054-2
+
+I. - La commission est consultée sur les demandes et les retraits de visas de publicité dans les conditions fixées à la
+section I.
+
+II. - Lorsque la publicité n'est pas soumise à autorisation, le ministre chargé de la santé peut, en cas d'inobservation des
+dispositions applicables, et par dérogation à l'article R. 5045-2, mettre en demeure le responsable de la mise sur le marché
+de modifier une publicité dans un délai déterminé. En cas de non-respect de cette mise en demeure, après avis de la
+commission, il peut prononcer l'interdiction de la publicité incriminée.
+
+Après avis de la commission, le ministre peut :
+
+1. Interdire une publicité ;
+
+2. Interdire la poursuite d'une campagne publicitaire ;
+
+3. Interdire une publicité ou la poursuite d'une campagne publicitaire et exiger soit la diffusion, par les mêmes moyens ou
+des moyens équivalents, d'un rectificatif approuvé par la commission, soit l'envoi de lettres rectificatives aux
+destinataires de la publicité et ce aux frais de l'établissement.
+
+Le ministre rend publiques les mesures d'interdiction. Ces mesures ne peuvent être prises qu'après que l'intéressé a été
+avisé et, s'il le désire, entendu par la commission.
+
+En cas d'urgence, le ministre peut suspendre, sans consultation préalable de la commission et pour une durée de trois mois au
+plus, la diffusion d'une publicité manifestement contraire aux dispositions applicables. La commission doit être saisie dans
+ce délai.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°91-87 du 21 janvier 1991 - art. 2 () JORF 23 janvier 1991
+	  - Décret n°91-87 du 21 janvier 1991 - art. 4 () JORF 23 janvier 1991
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R5045-2 (M)
+
+
+###### Article R5054-3
+
+La commission peut, à la demande du ministre ou de sa propre initiative, formuler des avis sur :
+
+a) Les pratiques risquant de détourner l'usage d'un médicament des indications mentionnées dans l'autorisation de mise sur le
+marché ;
+
+b) Le déroulement de campagnes publicitaires ;
+
+c) L'utilisation promotionnelle des différents médias.
+
+La commission peut également émettre, à la demande du ministre, ou de sa propre initiative, des recommandations sur le bon
+usage des médicaments.
+
+Le ministre chargé de la santé peut rendre publics les avis et recommandations de la commission.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°91-87 du 21 janvier 1991 - art. 2 () JORF 23 janvier 1991
+	  - Décret n°91-87 du 21 janvier 1991 - art. 5 () JORF 23 janvier 1991
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R5122-47 (Ab)
+
+
 ##### Section 3 : Dispositions concernant la publicité relative aux médicaments, produits et objets mentionnés à l'article L. 551, destinée aux personnes appelées à prescrire ou délivrer ces médicaments, produits et objets ou à les utiliser dans l'exercice de leur art.
 
 ###### Article R5052
@@ -44549,6 +44755,10 @@ b) Les risques d'accoutumance ou de dépendance ;
 
 c) Le mode de surveillance du malade pour déceler les accidents éventuels.
 
+Toute présentation orale d'une spécialité pharmaceutique doit être accompagnée de la remise d'une fiche signalétique
+comportant le résumé des caractéristiques du médicament prévu à l'article R. 5128-1 ainsi que les mentions exigées par la
+législation sur les prix et la législation sociale. Cette fiche doit être parfaitement lisible.
+
 **Liens relatifs à cet article**
 
 	**Codifié par**:
@@ -44558,11 +44768,10 @@ c) Le mode de surveillance du malade pour déceler les accidents éventuels.
 
 	**Modifié par**:
 
-	  - Décret n°87-772 du 23 septembre 1987 - art. 2 () JORF 24 septembre 1987
+	  - Décret n°91-87 du 21 janvier 1991 - art. 1 () JORF 23 janvier 1991
 
 	**Cite**:
 
-	  - Code de la santé publique - art. L551 (M)
 	  - Code de la santé publique - art. L601 (M)
 	  - Code de la santé publique - art. R5128-1 (T)
 
@@ -44612,178 +44821,6 @@ Ce dépôt donne lieu au versement d'une redevance, dont le montant est fixé pa
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. R5122-22 (V)
-
-
-##### Section 5 : Commission de contrôle de la publicité.
-
-###### Article R5054
-
-La commission de contrôle de la publicité est composée de :
-
-1° Six membres de droit :
-
-- le directeur de la pharmacie et du médicament ou son représentant ;
-
-- le directeur général de la santé ou son représentant ;
-
-- le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
-
-- le directeur général de l'industrie ou son représentant ;
-
-- le président du Conseil national de l'ordre des pharmaciens ou son représentant ;
-
-- le président du Conseil national de l'ordre des médecins ou son représentant ;
-
-2° Treize membres choisis par le ministre chargé de la santé, dont :
-
-- deux représentants des organismes représentatifs des fabricants de produits pharmaceutiques ;
-
-- un représentant des organismes de consommateurs faisant partie du Conseil national de la consommation ;
-
-- deux personnalités choisies en raison de leur compétence en matière de publicité ;
-
-- huit personnalités choisies en raison de leur compétence en matière de médicaments, dont au moins un médecin omnipraticien,
-un pharmacien d'officine, un membre de l'académie nationale de médecine et un membre de l'académie nationale de pharmacie ;
-ces personnalités ne peuvent ni être salariées d'un établissement de préparation ou de vente en gros de produits
-pharmaceutiques ni avoir un intérêt financier direct ou indirect dans un tel établissement.
-
-Le président et le vice-président de la commission sont désignés parmi ses membres par le ministre chargé de la santé. Le
-vice-président supplée le président en cas d'absence ou d'empêchement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Modifié par**:
-
-	  - Décret n°87-772 du 23 septembre 1987 - art. 2 () JORF 24 septembre 1987
-
-	**Cité par**:
-
-	  - Arrêté du 7 août 1991 - art. 1 (V)
-	  - Décret n°93-295 du 8 mars 1993 - art. 5 (Ab)
-	  - Décret n°2003-633 du 2 juillet 2003 - art. 2 (Ab)
-	  - Code de la santé publique - art. R5046-2 (Ab)
-	  - Code de la santé publique - art. R5046-4 (Ab)
-	  - Code de la santé publique - art. R5047-5 (Ab)
-	  - Code de la santé publique - art. R5089-15 (Ab)
-	  - Code de la sécurité sociale. - art. D162-2-2 (V)
-	  - Code de la sécurité sociale. - art. D162-2-4 (M)
-	  - Code de la sécurité sociale. - art. R163-5 (M)
-	  - Code de la sécurité sociale. - art. R163-7 (V)
-
-
-###### Article R5054-1
-
-A l'exception des membres de droit, les membres de la commission sont nommés pour une période de trois ans renouvelable par
-arrêté du ministre chargé de la santé. Des suppléants sont désignés en nombre égal et dans les mêmes conditions.
-
-En cas de vacance survenant au cours d'un mandat, le mandat du suppléant appelé à remplacer un membre titulaire ou celui du
-membre nouveau appelé à remplacer un suppléant prend fin à la même date que celui du membre remplacé.
-
-La commission peut faire appel à des experts qui siègent avec voix consultative et le ministre chargé de la santé peut lui
-demander d'en entendre.
-
-L'instruction des dossiers peut être confiée à des rapporteurs extérieurs à la commission, désignés par le directeur de la
-pharmacie et du médicament, sur proposition du président de la commission.
-
-Ces rapporteurs peuvent être appelés à siéger à la commission avec voix consultative.
-
-Des groupes de travail peuvent être créés par le directeur de la pharmacie et du médicament, sur proposition du président,
-notamment en vue de préparer les avis de la commission.
-
-La commission se réunit sur convocation de son président ou du ministre de la santé.
-
-Les délibérations ne sont valables que si la moitié des membres de la commission sont présents.
-
-Les résultats des votes sont acquis à la majorité des votes exprimés. En cas de partage des voix, celle du président est
-prépondérante.
-
-Les délibérations sont secrètes.
-
-Le secrétariat de la commission et des groupes de travail est assuré par la direction de la pharmacie et du médicament.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°87-772 du 23 septembre 1987 - art. 2 () JORF 24 septembre 1987
-
-
-###### Article R5054-2
-
-I. - La commission de contrôle de la publicité est consultée sur les demandes et les retraits de visas de publicité dans les
-conditions fixées à la section I.
-
-II. - Lorsque la publicité n'est pas soumise à autorisation, le ministre chargé de la santé peut, après avis de la
-commission, en cas d'inobservation des dispositions applicables :
-
-a) Mettre en garde le responsable de la mise sur le marché ;
-
-b) Le mettre en demeure de modifier une campagne publicitaire dans un délai déterminé ;
-
-c) Interdire la poursuite de la diffusion ;
-
-d) Interdire la poursuite de la diffusion et exiger soit la diffusion par les mêmes moyens ou des moyens équivalents d'un
-rectificatif approuvé par la commission, soit l'envoi de lettres rectificatives aux destinataires de la publicité et ce aux
-frais de l'établissement.
-
-Le ministre peut rendre ces mesures publiques.
-
-Les mesures prévues aux c et d ci-dessus ne peuvent être prises qu'après que l'intéressé ait été avisé et, s'il le désire,
-entendu par la commission.
-
-En cas d'urgence, le ministre peut suspendre, sans consultation préalable de la commission et pour une durée de trois mois au
-plus, la diffusion d'une publicité manifestement contraire aux dispositions applicables. La commission doit être saisie dans
-ce délai.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°87-772 du 23 septembre 1987 - art. 2 () JORF 24 septembre 1987
-
-
-###### Article R5054-3
-
-La commission peut, à la demande du ministre ou de sa propre initiative, formuler des avis sur :
-
-a) Les pratiques risquant de détourner l'usage d'un médicament des indications mentionnées dans l'autorisation de mise sur le
-marché ;
-
-b) Le déroulement de campagnes publicitaires ;
-
-c) L'utilisation promotionnelle des différents médias.
-
-Ces avis peuvent être rendus publics.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°87-772 du 23 septembre 1987 - art. 2 () JORF 24 septembre 1987
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. R5122-47 (Ab)
 
 
 #### Chapitre 5 : De l'inspection de la pharmacie
