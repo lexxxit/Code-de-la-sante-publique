@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-03-13
+Version Consolidée au 1993-03-18
 
 # Partie législative ancienne
 
@@ -75135,6 +75135,65 @@ mentionnés à l'article L. 711-2. Leur nombre est constaté par le préfet de d
 
 	  - Code de la santé publique - art. R713-1-3 (M)
 	  - Code de la santé publique - art. R713-2 (T)
+
+
+###### Article R713-1-7
+
+Le directeur départemental des affaires sanitaires et sociales et le médecin inspecteur de la santé publique, ou leurs
+représentants, peuvent assister, avec voix consultative, aux réunions de la conférence.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°97-240 du 17 mars 1997 - art. 2 (Ab) JORF du 18 mars 1997
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6131-7 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R713-6 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R725-2 (M)
+
+
+###### Article R713-1-11
+
+La conférence sanitaire de secteur institue en son sein une commission chargée de promouvoir des actions de coopération entre
+tous les établissements de santé du secteur, notamment en matière d'utilisation conjointe d'équipements matériels lourds, de
+gestion de services communs, de prévention, d'éducation pour la santé et de formation continue.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°97-240 du 17 mars 1997 - art. 2 (Ab) JORF du 18 mars 1997
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. R6131-11 (V)
+
+	**Anciens textes**:
+
+	  - Code de la santé publique - art. R713-10 (T)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R725-2 (Ab)
 
 
 ###### Article R713-1-13
