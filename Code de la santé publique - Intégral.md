@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1969-01-08
+Version Consolidée au 1969-01-31
 
 # Partie législative ancienne
 
@@ -3505,40 +3505,6 @@ concourant à l'application du présent titre.
 	**Nouveaux textes**:
 
 	  - Code de la santé publique - art. L2112-6 (V)
-
-
-##### Section 3 : Dispositions spéciales du département de la Seine.
-
-###### Article L154
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Décret n°78-397 du 17 mars 1978 - art. 2 (Ab)
-	  - Décret n°92-143 du 14 février 1992 - art. 2 (Ab)
-	  - Code de la santé publique - art. L155 (Ab)
-	  - Code de la santé publique - art. L186 (Ab)
-	  - Code de la santé publique - art. L190 (Ab)
-	  - Code de la sécurité sociale. - art. D615-4 (Ab)
-	  - Code de la sécurité sociale. - art. L331-2 (M)
-	  - Code de la sécurité sociale. - art. L534-1 (Ab)
-	  - Code de la sécurité sociale. - art. R534-2 (Ab)
-	  - Code de la sécurité sociale. - art. R534-4 (Ab)
-	  - Code du service national - art. R*233-1 (V)
-	  - Code du travail - art. L122-25-3 (M)
-
-	**Nouveaux textes**:
-
-	  - Code de la santé publique - art. L2122-1 (V)
-	  - Code de la santé publique - art. L2421-2 (V)
 
 
 #### Chapitre 2 : Du certificat prénuptial.
