@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1961-08-03
+Version Consolidée au 1961-08-30
 
 # Partie législative ancienne
 
@@ -23355,27 +23355,6 @@ remplacé par un renvoi à un décret en Conseil d'Etat.
 
 	  - Loi n°1918-08-14 ART. 2
 	  - Ordonnance 45-2529 1945-10-26 ART. 1
-
-
-###### Article L653
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (Décret de codification)
-	  - Loi n°58-356 1958-04-03 (Loi de validation)
-
-	**Cité par**:
-
-	  - Code de la santé publique - art. L656 (Ab)
-	  - Code de la santé publique - art. R5243 (Ab)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Code de la santé publique - art. L656 (Ab)
 
 
 ###### Article L654
