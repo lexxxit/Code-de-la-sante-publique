@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1976-08-26
+Version Consolidée au 1977-01-01
 
 # Partie législative ancienne
 
@@ -11945,6 +11945,221 @@ avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
 
 ##### SECTION 1 : CONDITIONS AUXQUELLES EST SUBORDONNE L'EXERCICE DE LA PROFESSION.
 
+###### Article L356
+
+Nul ne peut exercer la profession de médecin [*interdiction*], de chirurgien dentiste ou de sage-femme en France s'il n'est
+[*condition*] :
+
+1° Titulaire d'un diplôme, certificat ou autre titre mentionné à l'article L. 356-2 ou bénéficiaire des dispositions
+transitoires de la loi du 30 novembre 1892 ou des dispositions spéciales aux praticiens alsaciens et lorrains (arrêté du 24
+septembre 1919, loi du 13 juillet 1921, loi du 10 août 1924, décret du 5 juillet 1922 ratifié par la loi du 13 décembre 1924,
+loi du 31 décembre 1924, loi du 18 août 1927) ou aux praticiens sarrois (lois des 26 juillet 1935 et 27 juillet 1937) ;
+
+2° De nationalité française, citoyen andorran ou ressortissant de l'un des Etats membres de la Communauté économique
+européenne, du Maroc ou de la Tunisie, sous réserve de l'application, le cas échéant, soit des règles fixées aux alinéas 4 à
+9 du présent article, soit de celles qui découlent d'engagements internationaux autres que ceux mentionnés à l'alinéa 4 ci-
+après.
+
+Toutefois, lorsqu'un Etat étranger accorde à des médecins, chirurgiens dentistes ou sages-femmes nationaux français ou
+ressortissants français, le droit d'exercer leur profession sur son territoire, le ressortissant de cet Etat peut être
+autorisé à pratiquer son art en France par arrêté du ministre de la Santé publique et de la Population, si des accords ont
+été passés à cet effet avec cet Etat et si l'équivalence de la valeur scientifique du diplôme est reconnue par le ministre de
+l'Education nationale [*condition*]. Ces accords, conclus avec l'agrément du ministre de la Santé publique et de la
+Population, devront comporter obligatoirement la parité effective et stipuleront le nombre des praticiens étrangers que
+chacun des deux pays autorisera à exercer sur son territoire [*mentions obligatoires*]. Les autorisations seront données
+individuellement, après avis des organisations syndicales nationales et des ordres intéressés, aux praticiens ayant satisfait
+à l'examen de culture générale tel qu'il est prévu dans le décret du 15 janvier 1947, cet examen comportant en plus une
+épreuve écrite sur la connaissance des lois médico-sociales affectée d'un coefficient égal à celui de la composition
+française. Elles pourront être retirées à tout moment.
+
+En outre, le ministre chargé de la Santé publique peut, après avis d'une commission comprenant notamment des délégués des
+conseils nationaux des ordres et des organisations syndicales nationales des professions intéressées, choisis par ces
+organismes, autoriser individuellement à exercer :
+
+- Des personnes étrangères titulaires d'un diplôme français permettant l'exercice de la profession ;
+
+- Des personnes françaises ou étrangères, titulaires d'un diplôme étranger de valeur scientifique reconnue équivalente par le
+ministre chargé des universités à celle d'un diplôme français permettant l'exercice de la profession et qui ont subi avec
+succès des épreuves définies par voie réglementaire.
+
+Le nombre maximum de ces autorisations est fixé chaque année par voie réglementaire, en accord avec la commission prévue ci-
+dessus et compte tenu du mode d'exercice de la profession.
+
+Lorsqu'un établissement hospitalier, établi sur le territoire français par un organisme étranger, a obtenu la reconnaissance
+d'utilité publique avant le 10 juin 1949 [*date*], le ministre de la Santé publique et de la Population peut autoriser, par
+arrêté individuel, certains praticiens attachés à cet établissement à exercer leur art en France, par dérogation aux
+dispositions des paragraphes 1er et 2ème du présent article et après avis des organisations nationales intéressées. Ces
+praticiens devront être inscrits au tableau de l'Ordre intéressé. Le nombre maximum par établissement hospitalier de ces
+praticiens autorisés est fixé par arrêté conjoint du ministre de la Santé publique et de la Population et du ministre des
+Affaires étrangères, et l'autorisation n'est valable que pour la période durant laquelle lesdits praticiens sont
+effectivement attachés à cet établissement ;
+
+3° Inscrit à un tableau de l'Ordre des médecins, à un tableau de l'Ordre des chirurgiens dentistes ou à un tableau de l'Ordre
+des sages-femmes.
+
+Toutefois, cette dernière condition ne s'applique pas [*non*] aux médecins, chirurgiens dentistes et sages-femmes appartenant
+aux cadres actifs du service de santé des armées. Elle ne s'applique pas non plus à ceux des médecins, chirurgiens dentistes
+ou sages-femmes qui, ayant la qualité de fonctionnaire de l'Etat ou d'agent titulaire d'une collectivité locale ne sont pas
+appelés, dans l'exercice de leurs fonctions, à exercer la médecine ou l'art dentaire ou à pratiquer des accouchements.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Arrêté 1919-09-24
+	  - Décret n°1922-07-05
+	  - Décret n°1947-01-15
+	  - Loi n°1892-11-30
+	  - Loi n°1921-07-13
+	  - Loi n°1924-08-10
+	  - Loi n°1924-12-13
+	  - Loi n°1924-12-31
+	  - Loi n°1927-08-18
+	  - Loi n°1935-07-26
+	  - Loi n°1937-07-27
+
+	**Anciens textes**:
+
+	  - Ordonnance n°45-2184 du 24 septembre 1945 - art. 1, v. init.
+	  - Loi n°49-757 1949-06-09
+
+	**Cité par**:
+
+	  - Décret n°48-1671 du 26 octobre 1948 - art. 1 (Ab)
+	  - Loi n°71-1026 du 24 décembre 1971 - art. 8 (V)
+	  - Arrêté du 17 septembre 1973 - art. 1 (V)
+	  - Ordonnance n°77-1102 du 26 septembre 1977 - art. 27 (Ab)
+	  - Décret n°81-291 du 30 mars 1981 - art. 10 (Ab)
+	  - Décret n°87-788 du 28 septembre 1987 - art. 2 (M)
+	  - Décret n°87-788 du 28 septembre 1987 - art. 5 (Ab)
+	  - Arrêté du 30 août 1988 - art. 6 (V)
+	  - Décret n°88-903 du 30 août 1988 - art. 1 (Ab)
+	  - Arrêté du 13 septembre 1988 - art. 5 (V)
+	  - Arrêté du 6 mars 1989 - art. 9 (Ab)
+	  - Arrêté du 5 juin 1989 - art. 6 (V)
+	  - Décret n°89-611 du 1 septembre 1989 - art. 1 (V)
+	  - Décret n°89-611 du 1 septembre 1989 - art. 2 (V)
+	  - Arrêté du 12 décembre 1990 - art. 1 (V)
+	  - Arrêté du 16 décembre 1990 - art. 1 (Ab)
+	  - Arrêté du 31 janvier 1991 - art. 2 (V)
+	  - Arrêté du 31 janvier 1991 - art. 3 (V)
+	  - Arrêté du 9 août 1991 - art. 2 (Ab)
+	  - Décret n°92-785 du 6 août 1992 - art. 9 (Ab)
+	  - Arrêté du 5 mars 1993 - art. 1 (V)
+	  - Décret n°94-661 du 27 juillet 1994 - art. 1 (Ab)
+	  - Arrêté du 2 novembre 1994 - art. Annexe A (V)
+	  - Décret n°95-43 du 10 janvier 1995 - art. 1 (Ab)
+	  - Loi n°95-116 du 4 février 1995 - art. 3 (Ab)
+	  - Arrêté du 18 avril 1995 - art. 1 (V)
+	  - Arrêté du 18 avril 1995 - art. 2 (V)
+	  - Arrêté du 18 avril 1995 - art. 5 (V)
+	  - Décret n°95-569 du 6 mai 1995 - art. 2 (M)
+	  - Décret n°95-569 du 6 mai 1995 - art. 3 (V)
+	  - Décret n°95-569 du 6 mai 1995 - art. 4 (M)
+	  - Décret n°98-1127 du 14 décembre 1998 - art. 13 (Ab)
+	  - Arrêté du 25 février 1999 - art. 2 (Ab)
+	  - Décret n°99-517 du 25 juin 1999 - art. 2 (M)
+	  - Décret n°99-517 du 25 juin 1999 - art. 4 (M)
+	  - Décret n°99-517 du 25 juin 1999 - art. 5 (Ab)
+	  - Loi n°99-641 du 27 juillet 1999 - art. 60 (M)
+	  - Décret n°99-1039 du 10 décembre 1999 - art. 58 (V)
+	  - Arrêté du 10 février 2000 - art. 2 (V)
+	  - Décret n°2004-802 du 29 juillet 2004 - art. 6 (V)
+	  - Arrêté du 4 août 1994 - art. Annexe (V)
+	  - Arrêté du 4 décembre 1975 - art. 1 (Ab)
+	  - Code de la santé publique - art. D712-53 (Ab)
+	  - Code de la santé publique - art. D712-67 (Ab)
+	  - Code de la santé publique - art. L356-1 (Ab)
+	  - Code de la santé publique - art. L356-2 (Ab)
+	  - Code de la santé publique - art. L357-1 (Ab)
+	  - Code de la santé publique - art. L372 (Ab)
+	  - Code de la santé publique - art. L373 (Ab)
+	  - Code de la santé publique - art. L374 (Ab)
+	  - Code de la santé publique - art. L472-15 (Ab)
+	  - Code de la santé publique - art. R5143-5-2 (M)
+	  - Code de la santé publique - art. R5143-5-3 (T)
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°71-1026 du 24 décembre 1971 - art. 2 () JORF 25 DECEMBRE 1971
+	  - Loi n°72-661 1972-07-13 ART. 1 JORF 14 JUILLET 1972
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°73-642 du 5 juillet 1973
+	  - TXT_SOURCE: Décret n°73-642 du 5 juillet 1973 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°73-642 du 5 juillet 1973 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°73-642 du 5 juillet 1973 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°73-642 du 5 juillet 1973 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°73-642 du 5 juillet 1973 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°73-642 du 5 juillet 1973 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°82-1079 du 17 décembre 1982
+	  - TXT_SOURCE: Décret n°82-1079 du 17 décembre 1982 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°82-1079 du 17 décembre 1982 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°86-659 du 18 mars 1986
+	  - TXT_SOURCE: Décret n°86-659 du 18 mars 1986 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°86-659 du 18 mars 1986 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°86-659 du 18 mars 1986 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°86-659 du 18 mars 1986 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°86-659 du 18 mars 1986 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°86-659 du 18 mars 1986 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°86-659 du 18 mars 1986 - art. 7 (Ab)
+	  - TXT_SOURCE: Arrêté du 16 décembre 1990
+	  - TXT_SOURCE: Arrêté du 16 décembre 1990 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 16 décembre 1990 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 16 décembre 1990 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 16 décembre 1990 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 22 février 1993
+	  - TXT_SOURCE: Arrêté du 5 mars 1993
+	  - TXT_SOURCE: Arrêté du 5 mars 1993 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 18 avril 1995
+	  - TXT_SOURCE: Arrêté du 18 avril 1995 - art. 1 (V)
+	  - TXT_SOURCE: Arrêté du 18 avril 1995 - art. 2 (V)
+	  - TXT_SOURCE: Arrêté du 18 avril 1995 - art. 3 (V)
+	  - TXT_SOURCE: Arrêté du 18 avril 1995 - art. 4 (V)
+	  - TXT_SOURCE: Arrêté du 18 avril 1995 - art. 5 (V)
+	  - TXT_ASSOCIE: Arrêté du 17 août 1995
+	  - TXT_SOURCE: Arrêté du 12 décembre 1995
+	  - TXT_SOURCE: Décret n°98-383 du 13 mai 1998
+	  - TXT_SOURCE: Décret n°98-383 du 13 mai 1998 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 1 juillet 1998
+	  - TXT_ASSOCIE: Arrêté du 25 février 1999
+	  - TXT_ASSOCIE: Arrêté du 25 février 1999 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 25 février 1999 - art. 2 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 1 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 10 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 11 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 2 (M)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 3 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 4 (M)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 5 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 6 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 7 (M)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 8 (Ab)
+	  - TXT_ASSOCIE: Décret n°99-517 du 25 juin 1999 - art. 9 (Ab)
+	  - TXT_ASSOCIE: Arrêté du 21 juin 2000
+	  - TXT_ASSOCIE: Arrêté du 21 juin 2000 - art. 1 (V)
+	  - TXT_ASSOCIE: Arrêté du 21 juin 2000 - art. 2 (V)
+	  - TXT_ASSOCIE: Arrêté du 21 juin 2000 - art. 3 (V)
+	  - TXT_ASSOCIE: Arrêté du 21 juin 2000 - art. 4 (V)
+	  - TXT_ASSOCIE: Arrêté du 21 juin 2000 - art. 5 (V)
+	  - TXT_ASSOCIE: Arrêté du 21 juin 2000 - art. 6 (V)
+	  - TXT_ASSOCIE: Arrêté du 21 juin 2000 - art. 7 (V)
+	  - TXT_SOURCE: Arrêté du 4 décembre 1975
+	  - TXT_SOURCE: Arrêté du 4 décembre 1975 - art. 1 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 décembre 1975 - art. 2 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 décembre 1975 - art. 3 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 décembre 1975 - art. 4 (Ab)
+	  - TXT_SOURCE: Arrêté du 4 décembre 1975 - art. 5 (Ab)
+	  - TXT_ASSOCIE: Code de la santé publique L357 : DEROGATION POUR CERTAINS ETRANGERS
+
+
 ###### Article L357
 
 Par dérogation aux dispositions des 1° et 2° de l'article L. 356 et sous réserve des dispositions transitoires prévues à
@@ -12619,6 +12834,47 @@ et suivants.
 	  - Code de la santé publique - art. L4163-7 (V)
 
 
+###### Article L367-1
+
+Tout médecin non titulaire du diplôme français d'Etat de docteur en médecine est tenu, dans tous les cas où il fait état de
+son titre ou de sa qualité de médecin, de faire figurer le lieu et l'établissement universitaire où il a obtenu le diplôme,
+titre ou certificat lui permettant d'exercer la médecine    .
+
+**Nota:**
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 2 : le présent article est applicable dans les départements d'outre-mer et les
+collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon sous réserve des adaptations prévues aux articles L466
+et suivants.
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 2, art. 3 : conditions d'application
+	  - SPEC_APPLI: Ordonnance n°2000-189 du 2 mars 2000 - art. 2 ()
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4111-5 (M)
+	  - Code de la santé publique - art. L4111-5 (V)
+
+
 ##### Paragraphe 3 : Règles propres à l'exercice de la profession de chirurgien-dentiste
 
 ###### Article L368
@@ -12901,6 +13157,54 @@ et suivants.
 	  - Code de la santé publique - art. L469-8 (Ab)
 	  - Code de la santé publique - art. L472-19 (Ab)
 	  - Code de la santé publique - art. L472-7 (Ab)
+
+
+###### Article L374
+
+Exerce illégalement la pratique des accouchements [*interdiction*] :
+
+1° Toute personne qui, non munie d'un diplôme, certificat ou autre titre mentionné à l'article L. 356-2 et exigé pour
+l'exercice de la profession de médecin ou de sage-femme et n'étant pas bénéficiaire des dispositions transitoires ou
+spéciales, comme il est dit à l'article L. 372 ci-dessus, pratique habituellement des accouchements ;
+
+2° Toute sage-femme qui pratique habituellement des accouchements sans satisfaire à la condition [*de nationalité*] posée au
+2° de l'article L. 356, compte tenu, le cas échéant, des exceptions apportées à celle-ci par le présent code, et notamment
+par ses articles L. 357 et L. 357-1.
+
+3° Toute sage-femme qui pratique habituellement des accouchements sans être inscrite au tableau de l'ordre des sages-femmes,
+lorsque cette inscription est obligatoire ou alors qu'elle est sous le coup d'une peine d'interdiction temporaire d'exercer
+prononcée en vertu des articles L. 423 et L. 454 ci-après.
+
+**Liens relatifs à cet article**
+
+	**Anciens textes**:
+
+	  - Ordonnance 45-2184 1945-09-24 ART. 10
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (DECRET DE CODIFICATION)
+	  - Loi n°58-346 1958-04-03 (LOI DE VALIDATION)
+
+	**Modifié par**:
+
+	  - Loi n°72-661 1972-07-13 art. 6 JORF 14 juillet 1972
+	  - Loi n°76-1288 1976-12-31 art. 8 JORF 1er janvier 1977
+
+	**Cité par**:
+
+	  - Décret n°89-611 du 1 septembre 1989 - art. 1 (V)
+	  - Code de déontologie des sages-femmes. - art. 18 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L356 (M)
+	  - Code de la santé publique - art. L356-2 (M)
+	  - Code de la santé publique - art. L357 (Ab)
+	  - Code de la santé publique - art. L357-1 (Ab)
+	  - Code de la santé publique - art. L372 (Ab)
+	  - Code de la santé publique - art. L423 (M)
+	  - Code de la santé publique - art. L454 (Ab)
 
 
 ##### SECTION 4 : DISPOSITIONS PENALES.
@@ -14542,6 +14846,71 @@ et suivants.
 
 
 ##### Section 3 : Inscription aux tableaux départementaux de l'Ordre
+
+###### Article L413
+
+Le médecin qui demande son inscription au tableau prévu à l'article L. 412 doit faire la preuve d'une connaissance suffisante
+de la langue française [*condition*].
+
+Lorsque cette preuve ne résulte pas du dossier accompagnant la demande d'inscription, la vérification est faite par le
+médecin inspecteur départemental de la santé.
+
+Une nouvelle vérification peut être faite à la demande de l'intéressé par le médecin inspecteur régional de la santé.
+
+**Nota:**
+
+[*Nota : Code de la santé publique L. 453 : APPLICATION AUX SAGES-FEMMES.*]
+
+[*Nota : Ordonnance 92-1070 du 1er octobre 1992 art. 31 : le présent article du code de la santé publique, en vigueur au 7
+avril 1992, s'applique à la collectivité territoriale de Mayotte.*]
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 2 : le présent article est applicable dans les départements d'outre-mer et les
+collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon sous réserve des adaptations prévues aux articles L466
+et suivants.
+
+Nota : Ordonnance 2000-189 2000-03-02 art. 3 : le présent article est applicable dans le territoire des îles Wallis-et-Futuna
+et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations prévues aux articles L472
+et suivants.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Cité par**:
+
+	  - Décret n°59-878 du 18 juillet 1959 - art. 1 (M)
+	  - Code de la santé publique - art. L441 (Ab)
+	  - Code de la santé publique - art. L453 (Ab)
+	  - Code de la santé publique - art. L462 (Ab)
+	  - Code de la santé publique - art. L469-10 (Ab)
+	  - Code de la santé publique - art. L472-10 (Ab)
+
+	**Créé par**:
+
+	  - Loi n°76-1288 1976-12-31 art. 11 JORF 1er janvier 1977
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 2000-189 2000-03-02 art. 3 : conditions d'application
+	  - SPEC_APPLI: Code de la santé publique - art. L453 (Ab)
+	  - SPEC_APPLI: Décret n°63-1017 1963-10-07 : AVAIT REMPLACE L'art. L413 PAR DES DISPOSITIONS REGLEMENTAIRES, A ETE ABROGE PAR LE Décret 77-456 1977-04-28 art. 15
+
+	**Abrogé par**:
+
+	  - Ordonnance 2000-548 2000-06-15 art. 4 I JORF 22 juin 2000
+
+	**Nouveaux textes**:
+
+	  - Code de la santé publique - art. L4112-2 (M)
+	  - Code de la santé publique - art. L4112-2 (V)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L412 (M)
+
 
 ###### Article L414
 
