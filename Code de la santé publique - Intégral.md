@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-03-18
+Version Consolidée au 1993-03-21
 
 # Partie législative ancienne
 
@@ -74771,6 +74771,149 @@ sociale.*]
 
 	  - Code de la santé publique - art. L712-16 (M)
 	  - Code de la santé publique - art. L715-2 (Ab)
+
+
+###### Article R712-48
+
+La durée de validité des autorisations mentionnées à l'article L. 712-8 du code de la santé publique, initiales ou
+renouvelées, est fixée ainsi qu'il suit :
+
+I. - Cinq ans pour :
+
+a) Les appareils de circulation sanguine extracorporelle mentionnés au II-1 de l'article R. 712-2 ;
+
+b) Les activités de soins mentionnées aux 1, 3, 4, 5, 6, 9 et 11 du III de l'article R. 712-2 ;
+
+c) Les structures pratiquant l'anesthésie ou la chirurgie ambulatoires mentionnées au b de l'article R. 712-2-1.
+
+II. - Sept ans pour :
+
+a) Les équipements matériels lourds énumérés au II de l'article R. 712-2 à l'exception des appareils de circulation sanguine
+extracorporelle ;
+
+b) Les activités de traitement de l'insuffisance rénale chronique mentionnées au III-10 de l'article R. 712-2.
+
+III. - Dix ans pour :
+
+a) Les installations correspondant aux disciplines ou groupes de disciplines mentionnées aux 1 à 6 du I de l'article R.
+712-2, y compris les structures de soins alternatives à l'hospitalisation mentionnées aux a et c de l'article R. 712-2-1 ;
+
+b) Les activités de soins mentionnées aux 2, 7, 8 et 12 du III de l'article R. 712-2.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de validation)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-407 du 17 mars 1993 - art. 1 () JORF 21 mars 1993
+
+	**Cité par**:
+
+	  - Décret n°97-615 du 30 mai 1997 - art. 9 (Ab)
+	  - Décret n°2002-1197 du 23 septembre 2002 - art. 4 (M)
+	  - Décret n°2004-1289 du 26 novembre 2004 - art. 3 (Ab)
+	  - Décret n°2005-434 du 6 mai 2005 - art. 10 (V)
+	  - Code de la santé publique - art. R712-51 (Ab)
+	  - Code de la santé publique - art. R716-10 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-8 (M)
+	  - Code de la santé publique - art. R712-2 (M)
+	  - Code de la santé publique - art. R712-2-1 (Ab)
+
+
+###### Article R712-49
+
+La durée de validité d'une autorisation est comptée à partir du jour où est constaté le résultat positif de la visite de
+conformité prévue à l'article L. 712-12 [*point de départ*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de validation)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-407 du 17 mars 1993 - art. 1 () JORF 21 mars 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-12 (M)
+
+
+###### Article R712-50
+
+Le remplacement d'un équipement matériel lourd autorisé avant l'échéance de l'autorisation met fin à celle-ci. Il est
+subordonné au renouvellement de l'autorisation, lequel peut être refusé pour l'un ou plusieurs des motifs mentionnés au II de
+l'article R. 712-42.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de validation)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Créé par**:
+
+	  - Décret n°93-407 du 17 mars 1993 - art. 1 () JORF 21 mars 1993
+
+	**Cite**:
+
+	  - Code de la santé publique - art. R712-42 (M)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R712-51 (Ab)
+
+
+###### Article R712-51
+
+En application de l'article 26 de la loi n° 91-748 du 31 juillet 1991 modifiée portant réforme hospitalière, les
+autorisations ou approbations relatives aux installations, équipements matériels lourds et activités de soins accordées avant
+la date de publication du décret n° 93-407 du 17 mars 1993 sont soumises à renouvellement. Pour l'application de l'article L.
+712-14, alinéa 3, et de l'article R. 712-50, la date d'échéance de ces autorisations ou approbations est fixée, selon leur
+objet, au terme d'une période égale à la durée de validité prévue à l'article R. 712-48. Le point de départ de cette période
+est :
+
+a) Le 2 août 1991 pour les autorisations ou approbations accordées avant cette date ;
+
+b) La date de publication du décret n° 93-407 du 17 mars 1993 pour les autorisations ou approbations accordées après le 2
+août 1991.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de validation)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cite**:
+
+	  - Loi n°91-748 1991-07-31 art. 26
+	  - Décret n°93-407 1993-03-17
+	  - Code de la santé publique - art. L712-14 (M)
+	  - Code de la santé publique - art. R712-48 (M)
+	  - Code de la santé publique - art. R712-50 (M)
+
+	**Créé par**:
+
+	  - Décret n°93-407 du 17 mars 1993 - art. 1 () JORF 21 mars 1993
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°95-1171 du 2 novembre 1995
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R724-13 (M)
 
 
 ##### Section 3 : Transmissions et échanges d'informations entre les établissements de santé, l'Etat et les organismes d'assurance maladie
