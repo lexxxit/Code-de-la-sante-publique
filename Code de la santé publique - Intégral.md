@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1956-11-28
+Version Consolidée au 1957-04-05
 
 # Partie législative ancienne
 
@@ -36918,6 +36918,36 @@ scientifiques par le ministre de la Santé publique et de la Population.
 
 	  - Code de la santé publique - art. R5190 (M)
 	  - Code de la santé publique - art. R5229 (M)
+
+
+###### Article R5166-1
+
+Le kat est classé comme stupéfiant.
+
+Sont interdits : l'importation, l'exportation, la production, la détention, le commerce et l'utilisation du kat et des
+préparations en contenant ou préparées à partir du kat.
+
+On entend par "kat" [*définition*], pour l'application du présent code, les feuilles de l'arbuste Catha edulis (Celastruis
+edulis), famille des célastracées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (Décret de codification)
+	  - Loi n°58-356 1958-04-03 (Loi de validation)
+
+	**Cité par**:
+
+	  - Code de la santé publique - art. R5229 (M)
+
+	**Créé par**:
+
+	  - Décret n°57-429 1957-04-02 ART. 1 JORF 5 avril
+
+	**Modifié par**:
+
+	  - Décret n°88-1232 du 28 décembre 1988 - art. 1 () JORF 31 décembre 1988
 
 
 ##### SECTION 3 : REGIME DES SUBSTANCES VENENEUSES LORSQU'ELLES SONT DESTINEES A LA MEDECINE
