@@ -1,5 +1,5 @@
 # Code de la santé publique  
-Version Consolidée au 1993-01-09
+Version Consolidée au 1993-01-19
 
 # Partie législative ancienne
 
@@ -86207,65 +86207,6 @@ d'autorisation de regroupement et de reconversion.
 
 ##### Sous-section 2 : De la compétence du ministre en matière d'autorisation
 
-###### Article D712-15
-
-En application du deuxième alinéa de l'article L. 712-16 du présent code, l'autorisation prévue à l'article L. 712-8 dudit
-code est donnée ou renouvelée par le ministre chargé de la santé [*autorité compétente*] :
-
-I. - Pour ceux des équipements matériels lourds définis à l'article L. 712-19 qui sont énumérés ci-après :
-
-1° Appareil de circulation sanguine extra-corporelle ;
-
-2° Appareil accélérateur de particules et appareil contenant des sources scellées de radioéléments d'activité minimale
-supérieure à 500 curies, et émettant un rayonnement d'énergie supérieur à 500 KeV ;
-
-3° Cyclotron à utilisation médicale ;
-
-4° Appareils de diagnostic suivants, utilisant l'émission de radioéléments artificiels : caméra à scintillation, tomographe à
-émissions, caméra à positrons ;
-
-5° Appareil d'imagerie ou de spectrométrie par résonance magnétique nucléaire à utilisation clinique.
-
-II. - Pour celles des activités de soins définies à l'article L. 712-2 (2°, b) qui sont énumérées ci-après :
-
-1° Transplantations d'organes et greffes de moëlle osseuse ;
-
-2° Traitement des grands brûlés ;
-
-3° Chirurgie cardiaque ;
-
-4° Neurochirurgie ;
-
-5° Utilisation diagnostique et thérapeutique de radioéléments en sources non scellées ;
-
-6° Traitement des affections cancéreuses par rayonnements ionisants de haute énergie ;
-
-7° Activités cliniques de procréation médicalement assistée et diagnostic prénatal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Décret n°53-1001 1953-10-05 (décret de codification)
-	  - Loi n°58-356 1958-04-03 (loi de validation)
-
-	**Créé par**:
-
-	  - Décret n°91-1411 du 31 décembre 1991 - art. 2 () JORF 4 janvier 1992
-
-	**Cité par**:
-
-	  - Arrêté du 7 janvier 1993 - art. 1 (V)
-	  - Décret n°2005-840 du 20 juillet 2005 - art. 7 (V)
-	  - Code de la santé publique - art. D712-16 (Ab)
-
-	**Cite**:
-
-	  - Code de la santé publique - art. L712-16 (M)
-	  - Code de la santé publique - art. L712-19 (M)
-	  - Code de la santé publique - art. L712-2 (M)
-
-
 ###### Article D712-16
 
 Lorsqu'un projet concernant l'un des équipements ou l'une des activités de soins énumérés à l'article D. 712-15 ci-dessus
@@ -87538,6 +87479,67 @@ connaître, le cas échéant, à l'intéressé les transformations à réaliser.
 	**Liens**:
 
 	  - TXT_SOURCE: Code de la santé publique - art. L712-12 (M)
+
+
+##### Sous-section 2 : De la compétence du ministre en matière d'autorisation
+
+###### Article D712-15
+
+En application du deuxième alinéa de l'article L. 712-16 du présent code, l'autorisation prévue à l'article L. 712-8 dudit
+code est donnée ou renouvelée par le ministre chargé de la santé [*autorité compétente*] :
+
+I. - Pour ceux des équipements matériels lourds définis à l'article L. 712-19 qui sont énumérés ci-après :
+
+1° Appareil de circulation sanguine extra-corporelle ;
+
+2° Appareil accélérateur de particules et appareil contenant des sources scellées de radioéléments d'activité minimale
+supérieure à 500 curies, et émettant un rayonnement d'énergie supérieur à 500 KeV ;
+
+3° Cyclotron à utilisation médicale ;
+
+4° Appareils de diagnostic suivants, utilisant l'émission de radioéléments artificiels : caméra à scintillation, tomographe à
+émissions, caméra à positrons ;
+
+5° Appareil d'imagerie ou de spectrométrie par résonance magnétique nucléaire à utilisation clinique.
+
+II. - Pour celles des activités de soins définies à l'article L. 712-2 (2°, b) qui sont énumérées ci-après :
+
+1° Transplantations d'organes et greffes de moëlle osseuse ;
+
+2° Traitement des grands brûlés ;
+
+3° Chirurgie cardiaque ;
+
+4° Neurochirurgie ;
+
+5° Utilisation diagnostique et thérapeutique de radioéléments en sources non scellées ;
+
+6° Traitement des affections cancéreuses par rayonnements ionisants de haute énergie ;
+
+7° Activités de procréation médicalement assistée et diagnostic prénatal.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Décret n°53-1001 1953-10-05 (décret de codification)
+	  - Loi n°58-356 1958-04-03 (loi de validation)
+
+	**Modifié par**:
+
+	  - Décret n°93-67 du 13 janvier 1993 - art. 1 () JORF 19 janvier 1993
+
+	**Cité par**:
+
+	  - Arrêté du 7 janvier 1993 - art. 1 (V)
+	  - Décret n°2005-840 du 20 juillet 2005 - art. 7 (V)
+	  - Code de la santé publique - art. D712-16 (Ab)
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L712-16 (M)
+	  - Code de la santé publique - art. L712-19 (M)
+	  - Code de la santé publique - art. L712-2 (M)
 
 
 #### Section 3 : Conditions techniques de fonctionnement des établissements de santé, des installations et des activités de soins
