@@ -1,6 +1,7 @@
 # Article Annexe 13-8
 
-SEUILS D'EXEMPTION POUR L'APPLICATION DE L'ARTICLE R. 1333-27  
+Seuils d'exemption pour l'application de l'article R. 1333-18 et niveaux  d'activité définissant une source scellée de haute
+activité pour  l'application de l'article R. 1333-33.  
 
 Les activités nucléaires prévues aux a) et b) du 1° de l'article R. 1333-27 peuvent être exemptées d'autorisation dès lors
 que la quantité ou la concentration d'activité des radionucléides concernés ne dépasse par les valeurs indiquées au tableau
@@ -19,21 +20,15 @@ des quotients de la division, pour chacun des nucléides, de la quantité totale
 tableau A est inférieure ou égale à 1. Cette règle d'addition s'applique également aux concentrations d'activités lorsque les
 différents nucléides concernés figurent dans le même tableau.
 
-Tableau A
-
-(Tableau non reproduit. Voir le fac-similé du JO n° 122 du 27 mai 2003 p. 37006 à 37231).
-
-Tableau B
-
-Liste des nucléides en équilibre séculaire
-
-(Tableau non reproduit. Voir le fac-similé du JO n° 122 du 27 mai 2003 p. 37006 à 37231).
-
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Décret n°2003-462 2003-05-21
+
+	**Modifié par**:
+
+	  - Décret n°2007-1582 du 7 novembre 2007 - art. 36 () JORF 9 novembre 2007
 
 	**Cite**:
 
