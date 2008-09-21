@@ -1,8 +1,6 @@
 # Article Annexe 13-6
 
-INSTALLATIONS SANITAIRES DANS LES PISCINES ET DANS LES BAIGNADES AMÉNAGÉES MENTIONNÉES À L'ARTICLE 1332-8 
-
-I. - Installations sanitaires dans les piscines
+INSTALLATIONS SANITAIRES DANS LES PISCINES MENTIONNÉES À L'ARTICLE D. 1332-7  
 
 A. - Installations sanitaires réservées aux baigneurs et assimilés
 
@@ -62,16 +60,11 @@ B. - Installations sanitaires réservées au public
 
 Pour chaque fraction de 100 personnes, un lavabo, un cabinet d'aisance et un urinoir au moins doivent être installés.
 
-II. - Installations sanitaires dans les baignades aménagées
-
-Des cabinets d'aisance dont l'emplacement est signalé doivent être installés à proximité ; ils sont au moins au nombre de
-deux.
-
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2003-462 2003-05-21
+	  - Décret n°2008-990 du 18 septembre 2008 - art. 3
 
 	**Cité par**:
 
