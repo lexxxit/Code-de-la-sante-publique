@@ -1,6 +1,6 @@
 # Article Annexe 61-1
 
-CONVENTION CONSTITUTIVE TYPE DES AGENCES RÉGIONALES DE L'HOSPITALISATION CITÉE À L'ARTICLE R. 6115-1.   
+CONVENTION CONSTITUTIVE TYPE DES AGENCES RÉGIONALES DE L'HOSPITALISATION CITÉE À L'ARTICLE R. 6115-1.  
 
 Vu le code de la santé publique, notamment le chapitre V du titre Ier du livre Ier de la partie VI ;
 
@@ -38,9 +38,7 @@ représentée par son directeur ;
 constituent un groupement d'intérêt public, dont ils sont membres fondateurs, régi par les dispositions du chapitre V du
 titre Ier du livre Ier de la partie VI du code de la santé publique et par la présente convention.
 
-TITRE Ier
-
-CONSTITUTION DE L'AGENCE
+TITRE Ier : CONSTITUTION DE L'AGENCE
 
 Article 1er
 
@@ -126,9 +124,7 @@ obligations vis-à-vis de l'agence pour l'exercice en cours et les précédents.
 Le retrait d'un membre de l'agence donne lieu à un avenant à la présente convention, aux fins notamment de modifier la
 composition de la commission exécutive conformément à l'article L. 6115-7 du code de la santé publique.
 
-TITRE II
-
-ADMINISTRATION DE L'AGENCE
+TITRE II : ADMINISTRATION DE L'AGENCE
 
 Article 11
 
@@ -239,9 +235,7 @@ de l'agence ;
 
 8° Les décisions relatives à la mise en oeuvre de traitements automatisés d'informations nominatives mentionnées à l'article
 19 du décret n° 78-774 du 17 juillet 1978 pris pour l'application des chapitres Ier à IV et VII de la loi n° 78-17 du 6
-janvier 1978 relative à l'informatique, aux fichiers et aux libertés ;
-
-9° La composition de la commission d'appels d'offres prévue par l'article 21 du code des marchés publics.
+janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 La commission exécutive entend le rapport du directeur régional des affaires sanitaires et sociales sur les travaux du
 conseil régional institué à l'article L. 1411-3 du code de la santé publique. Le directeur de l'agence communique à la
@@ -288,9 +282,7 @@ régional du régime général de sécurité sociale, les demandes inhérentes �
 obligations définies à la présente convention. La mention du personnel placé sous l'autorité du directeur n'est valable que
 s'il est fait application de l'article 17 de la présente convention.
 
-TITRE III
-
-FONCTIONNEMENT DE L'AGENCE
+TITRE III : FONCTIONNEMENT DE L'AGENCE
 
 Article 15
 
@@ -541,9 +533,7 @@ Marchés
 L'agence est soumise aux dispositions du code des marchés publics relatives à l'Etat et à ses établissements publics, autres
 que ceux ayant un caractère industriel et commercial.
 
-TITRE IV
-
-DISPOSITIONS DIVERSES
+TITRE IV : DISPOSITIONS DIVERSES
 
 Article 29
 
@@ -570,29 +560,33 @@ de la République française.
 
 	**Cite**:
 
-	  - Décret n°53-1227 1953-12-10
-	  - Décret n°55-733 1955-05-26
-	  - Décret n°62-1587 1962-12-29
-	  - Loi n°78-17 1978-01-06
-	  - Décret n°78-774 du 17 juillet 1978 - art. 19 (M)
-	  - Code des juridictions financières - art. L131-1 (M)
-	  - Code des juridictions financières - art. L133-2 (V)
-	  - Code de la santé publique - art. L1411-3 (M)
-	  - Code de la santé publique - art. L6113-8 (M)
-	  - Code de la santé publique - art. L6115-1 (M)
-	  - Code de la santé publique - art. L6115-2 (V)
-	  - Code de la santé publique - art. L6115-3 (M)
-	  - Code de la santé publique - art. L6115-4 (M)
-	  - Code de la santé publique - art. L6115-7 (M)
-	  - Code de la santé publique - art. L6115-8 (V)
-	  - Code de la santé publique - art. L6117-2 (V)
-	  - Code de la santé publique - art. R6115-1 (V)
-	  - Code de la santé publique 1, 2, 3, 4, L6115-1, L6115-3 à L6115-5, L6115-7 à L6115-9, L6117-2, 5, 6, 7, 8, 9, L6115-2, L6115-7, 10, 11, 12, 13, L6115-3, L6115-4, 14, L1411-3, 19, 17, 15, annexe, 16, L6115-8, annexe 2, 18, R315-1, 20, 21, L6113-8, 22,
-	  - Code de la sécurité sociale. - art. L162-22-1 (M)
-	  - Code de la sécurité sociale. - art. R615-55 (M)
 	  - Code des marchés publics 21
 	  - Code rural L472-5, L732-5
+	  - Décret n°53-1227 du 10 décembre 1953
+	  - Décret n°55-733 du 26 mai 1955
+	  - Décret n°62-1587 du 29 décembre 1962
+	  - Loi n°78-17 du 6 janvier 1978
+	  - Décret n°78-774 du 17 juillet 1978 - art. 19
+	  - Code des juridictions financières - art. L131-1
+	  - Code des juridictions financières - art. L133-2
+	  - Code de la santé publique
+	  - Code de la santé publique - art. L1411-3
+	  - Code de la santé publique - art. L6113-8
+	  - Code de la santé publique - art. L6115-1
+	  - Code de la santé publique - art. L6115-2
+	  - Code de la santé publique - art. L6115-3
+	  - Code de la santé publique - art. L6115-4
+	  - Code de la santé publique - art. L6115-7
+	  - Code de la santé publique - art. L6115-8
+	  - Code de la santé publique - art. L6117-2
+	  - Code de la santé publique - art. R6115-1
+	  - Code de la sécurité sociale. - art. L162-22-1
+	  - Code de la sécurité sociale. - art. R615-55
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Décret n°2005-840 2005-07-20
+	  - Décret n°2008-1355 du 19 décembre 2008 - art. 32
+
+	**Abrogé par**:
+
+	  - Décret n°2010-344 du 31 mars 2010 - art. 220
