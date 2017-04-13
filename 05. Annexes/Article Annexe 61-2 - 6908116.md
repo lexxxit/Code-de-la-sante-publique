@@ -1,106 +1,138 @@
 # Article Annexe 61-2
 
-CONTRAT TYPE D'ACTIVITÉ LIBÉRALE CITÉ À L'ARTICLE R. 6154-4.  
+CONTRAT TYPE D'ACTIVITÉ LIBÉRALE CITÉ À L'ARTICLE R. 6154-4. 
 
-Entre :
+Entre : 
 
-L'établissement ...... (nom de l'établissement public de santé) représenté par son directeur,
+L'établissement...... (nom de l'établissement public de santé) représenté par son directeur, 
 
-Et :
+Et : 
 
-M. ...... (nom, prénom, fonctions hospitalières, adresse, qualification et date de qualification, numéro d'inscription au
-conseil départemental de l'ordre des médecins),
+M....... (nom, prénom, fonctions hospitalières, adresse, qualification et date de qualification, numéro d'inscription au
+conseil départemental de l'ordre des médecins), 
 
-il est convenu ce qui suit :
+il est convenu ce qui suit : 
 
-Article 1er
+Article 1er 
 
-M. ...... exerce une activité libérale dans ...... (mention du service où exerce l'intéressé), dans les conditions fixées par
+M....... exerce une activité libérale dans...... (mention du service où exerce l'intéressé), dans les conditions fixées par
 les articles L. 6154-1 à L. 6154-6 et les articles R. 6154-4 à R. 6154-26 du code de la santé publique qui figurent en annexe
-au présent contrat et dont il a pris connaissance.
+au présent contrat et dont il a pris connaissance. 
 
-Article 2
+Article 2 
 
-Dans le respect de l'article L. 6154-2 du code de la santé publique, M. ...... déclare qu'il exerce personnellement et à
-titre principal une activité de même nature dans le secteur hospitalier public.
+Dans le respect de l'article L. 6154-2 du code de la santé publique, M....... déclare qu'il exerce personnellement et à titre
+principal une activité de même nature dans le secteur hospitalier public. 
 
-Il s'engage :
+Il s'engage : 
 
-A ne pas consacrer plus :
+1° A ne pas consacrer plus :
 
 - de 20 % ;
 
-- ou 10 % (rayer la mention inutile) de la durée de service hospitalier hebdomadaire à laquelle il est astreint ;
+- ou 10 % (rayer la mention inutile) de la durée de service hospitalier hebdomadaire à laquelle il est astreint ; 
 
-A ce que le nombre de consultations et d'actes effectués au titre de l'activité libérale soit inférieur au nombre de
-consultations et d'actes effectués au titre de l'activité publique.
+2° A s'identifier dans le système d'informations comme réalisateur des actes et consultations, en précisant que ces derniers
+sont réalisés au titre de son activité publique personnelle ; 
 
-Article 3
+3° A fournir trimestriellement au directeur de l'établissement et au président de la commission de l'activité libérale le
+tableau de service réalisé ainsi qu'un état récapitulatif de l'exercice de l'activité libérale précisant le nombre et la
+nature des actes et des consultations effectués au titre de chacune d'elles ; 
 
-Perception des honoraires
+4° A ce que le nombre de consultations et d'actes effectués au titre de l'activité libérale soit inférieur au nombre de
+consultations et d'actes effectués au titre de l'activité publique personnelle ; 
 
-Soit :
+5° A respecter les principes énoncés dans la charte de l'activité libérale intra-hospitalière de l'établissement ; 
 
-M. ...... choisit de percevoir ses honoraires par entente directe avec le patient. Il s'engage à verser trimestriellement le
-montant de la redevance dont il est redevable vis-à-vis de l'hôpital ;
+6° A ne débuter son activité libérale que lorsque son contrat a été approuvé par le directeur général de l'agence régionale
+de santé conformément aux dispositions de l'article L. 6154-4. 
 
-Soit :
+Article 3 
 
-M. ...... choisit de percevoir ses honoraires par l'intermédiaire de l'administration de l'hôpital. Celle-ci s'engage à lui
-reverser mensuellement les honoraires recouvrés.
+Perception des honoraires 
 
-L'administration de l'hôpital prélève tous les trimestres le montant de la redevance dont M. ...... est redevable vis-à-vis
-de l'hôpital.
+Soit : 
 
-Article 4
+M....... choisit de percevoir ses honoraires par entente directe avec le patient. Il s'engage à verser trimestriellement le
+montant de la redevance dont il est redevable vis-à-vis de l'hôpital ; 
+
+Soit : 
+
+M....... choisit de percevoir ses honoraires par l'intermédiaire de l'administration de l'hôpital. Celle-ci s'engage à lui
+reverser mensuellement les honoraires recouvrés. 
+
+L'administration de l'hôpital prélève tous les trimestres le montant de la redevance dont M....... est redevable vis-à-vis de
+l'hôpital. 
+
+Article 4 
 
 Les honoraires ou fourchettes d'honoraires des consultations sont affichés dans la salle d'attente, conformément aux
-dispositions de l'arrêté du 11 juin 1996 relatif à l'information des tarifs d'honoraires pratiqués par les médecins libéraux.
+dispositions de l'article R. 1111-21 du code de la santé publique relatif à l'information des tarifs d'honoraires pratiqués
+par les médecins libéraux. 
 
-Article 5
+Article 5 
 
-M. ...... veille au respect du secret professionnel par les personnes appelées à l'aider dans son exercice. L'établissement
+M....... veille au respect du secret professionnel par les personnes appelées à l'aider dans son exercice. L'établissement
 s'engage à veiller pour sa part à ce que les dossiers et documents médicaux soient conservés sous la responsabilité de
-M. ...... à l'abri des indiscrétions.
+M....... à l'abri des indiscrétions. 
 
-Article 6
+Article 6 
 
-M. ...... exerce sous son entière responsabilité ; à cet effet, il fait le nécessaire pour que son activité professionnelle
-soit couverte par une police d'assurance adéquate qu'il communique au directeur de l'établissement à la demande de celui-ci.
+M....... exerce sous son entière responsabilité ; à cet effet, il fait le nécessaire pour que son activité professionnelle
+soit couverte par une police d'assurance adéquate qu'il communique au directeur de l'établissement à la demande de celui-ci. 
 
-Article 7
+Article 7 
 
-L'hôpital met à la disposition de M. ...... les moyens nécessaires pour lui permettre d'exercer son art compte tenu de la
-spécialité exercée.
+L'hôpital met à la disposition de M....... les moyens nécessaires pour lui permettre d'exercer son art compte tenu de la
+spécialité exercée. 
 
-Article 8
+Article 8 
 
-M. ...... s'entend avec ses confrères hospitaliers pour qu'en cas d'absence la continuité des soins soit assurée.
+M....... s'entend avec ses confrères hospitaliers pour qu'en cas d'absence la continuité des soins soit assurée. 
 
-Article 9
+Article 9 
 
 Le présent contrat est conclu pour une durée de cinq années et prend effet à compter de sa date d'approbation. Il prend fin
-si une demande de renouvellement n'a pas été faite dans les trois mois qui précèdent son expiration.
+si une demande de renouvellement n'a pas été faite dans les six mois qui précèdent son expiration. 
 
-Il peut faire l'objet d'avenants dans les conditions et selon les procédures requises pour son établissement.
+Il peut faire l'objet d'avenants dans les conditions et selon les procédures requises pour son établissement. 
 
-Le contrat prend fin de plein droit si M. ...... cesse ses fonctions hospitalières à temps plein dans l'établissement, s'il
-renonce à l'exercice d'une activité libérale ou si l'autorisation d'exercer une telle activité lui est retirée.
+Le contrat prend fin de plein droit si M....... cesse ses fonctions hospitalières à temps plein dans l'établissement, s'il
+renonce à l'exercice d'une activité libérale ou si l'autorisation d'exercer une telle activité lui est retirée. 
 
-Article 10
+Article 10 
 
-Conformément à l'article L. 4113-9 du code de la santé publique, M. ...... communique le présent contrat au conseil
+Conformément aux dispositions prévues au IV de l'article L. 6154-2 du code de la santé publique, en cas de départ temporaire
+ou définitif, excepté lorsqu'il cesse ses fonctions pour faire valoir ses droits à la retraite, M. … s'engage à ne pas
+s'installer, pendant une période de … mois, et dans un rayon de … kilomètres, à proximité de l'établissement qu'il quitte.
+Cette période est au minimum égale à six mois et au maximum égale à vingt-quatre mois, et ce rayon est au minimum égal à
+trois kilomètres et au maximum égal à dix kilomètres. 
+
+En cas de non-respect de cette clause, M. … devra verser à l'établissement une indemnité calculée selon les modalités
+suivantes : 25 % du montant mensuel moyen des honoraires de l'activité libérale perçus par M. …, redevance comprise, au cours
+des six derniers mois, multiplié par le nombre de mois pendant lesquels la clause n'est pas respectée. 
+
+Les dispositions des deux alinéas précédents ne sont pas applicables aux praticiens exerçant à l'Assistance publique-hôpitaux
+de Paris, aux hospices civils de Lyon et à l'Assistance publique-hôpitaux de Marseille. 
+
+Article 11 
+
+Conformément à l'article L. 4113-9 du code de la santé publique, M....... communique le présent contrat au conseil
 départemental de l'ordre des médecins.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Arrêté 1996-06-11
-	  - Code de la santé publique - art. L4113-9 (M)
-	  - Code de la santé publique - art. L6154-2 (V)
-	  - Code de la santé publique 1, R6154-4 à R6154-26, L6154-1 à L6154-6, 2, L6154-2, 3, 4, 5, 6, 7, 8, 9, 10, L4113-9
-
 	**Codifié par**:
 
-	  - Décret n°2005-840 2005-07-20
+	  - Décret n°2005-840 du 20 juillet 2005
+
+	**Modifié par**:
+
+	  - Décret n°2017-523 du 11 avril 2017 - art. 3
+
+	**Cite**:
+
+	  - Code de la santé publique - art. L4113-9
+	  - Code de la santé publique - art. L6154-1
+	  - Code de la santé publique - art. R1111-21
+	  - Code de la santé publique - art. R6154-4 (V)
